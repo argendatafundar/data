@@ -1,0 +1,673 @@
+provincia_id,provincia_nombre,region_pbg,anio,vab,participacion_vab
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,1895,3899.1,.2243
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,1914,9212.450000000001,.2614
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,1937,24133.35,.3202
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,1946,33716.16,.3406
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,1953,36460.19,.3031
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,1965,48483.64,.2529
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,1975,76072.16,.2785
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,1986,70321.36,.2384
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,1993,84203.58,.2415
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,2004,85706.94,.208
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,2005,93499.17,.2077
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,2006,101686.55,.21
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,2007,112151.55,.2144
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,2008,117275.69,.2161
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,2009,114096.76,.223
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,2010,120865.31,.2148
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,2011,126846.43,.2138
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,2012,124964.35,.2137
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,2013,125059.85,.2092
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,2014,122488.54,.2087
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,2015,124268.81,.2062
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,2016,123225.13,.2091
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,2017,126001.94,.2084
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,2018,124104.46,.211
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,2019,118261.73,.2043
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,2020,104115.61,.1997
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,2021,113539.95,.1972
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,2022,119159.71,.1973
+06,Buenos Aires,Pampeana y CABA,1895,4158.05,.2392
+06,Buenos Aires,Pampeana y CABA,1914,9971.4,.283
+06,Buenos Aires,Pampeana y CABA,1937,19945.81,.2647
+06,Buenos Aires,Pampeana y CABA,1946,26974.66,.2725
+06,Buenos Aires,Pampeana y CABA,1953,36854.1,.3064
+06,Buenos Aires,Pampeana y CABA,1965,70339.39,.367
+06,Buenos Aires,Pampeana y CABA,1975,85571.84,.3133
+06,Buenos Aires,Pampeana y CABA,1986,112645.43,.3819
+06,Buenos Aires,Pampeana y CABA,1993,116632.44,.3345
+06,Buenos Aires,Pampeana y CABA,2004,131865.79,.32
+06,Buenos Aires,Pampeana y CABA,2005,144250.35,.3204
+06,Buenos Aires,Pampeana y CABA,2006,154663.03,.3193
+06,Buenos Aires,Pampeana y CABA,2007,165749.01,.3168
+06,Buenos Aires,Pampeana y CABA,2008,173648.57,.32
+06,Buenos Aires,Pampeana y CABA,2009,162655.45,.318
+06,Buenos Aires,Pampeana y CABA,2010,182141.75,.3237
+06,Buenos Aires,Pampeana y CABA,2011,193543.06,.3263
+06,Buenos Aires,Pampeana y CABA,2012,192585.82,.3293
+06,Buenos Aires,Pampeana y CABA,2013,196250.06,.3284
+06,Buenos Aires,Pampeana y CABA,2014,189375.86,.3227
+06,Buenos Aires,Pampeana y CABA,2015,195355.68,.3242
+06,Buenos Aires,Pampeana y CABA,2016,191237.58,.3245
+06,Buenos Aires,Pampeana y CABA,2017,196083.57,.3244
+06,Buenos Aires,Pampeana y CABA,2018,189744.81,.3226
+06,Buenos Aires,Pampeana y CABA,2019,184973.88,.3196
+06,Buenos Aires,Pampeana y CABA,2020,168199.97,.3226
+06,Buenos Aires,Pampeana y CABA,2021,186754.85,.3244
+06,Buenos Aires,Pampeana y CABA,2022,196496.9,.3253
+10,Catamarca,NOA,1895,174.23,.01
+10,Catamarca,NOA,1914,225.87,.0064
+10,Catamarca,NOA,1937,241.36,.0032
+10,Catamarca,NOA,1946,382.14,.0039
+10,Catamarca,NOA,1953,425.01,.0035
+10,Catamarca,NOA,1965,573.3000000000001,.003
+10,Catamarca,NOA,1975,1205.21,.0044
+10,Catamarca,NOA,1986,1272.97,.0043
+10,Catamarca,NOA,1993,2038.57,.0058
+10,Catamarca,NOA,2004,3857.96,.0094
+10,Catamarca,NOA,2005,4350.93,.0097
+10,Catamarca,NOA,2006,4585.08,.0095
+10,Catamarca,NOA,2007,4733.76,.009
+10,Catamarca,NOA,2008,4555.43,.0084
+10,Catamarca,NOA,2009,4155.22,.0081
+10,Catamarca,NOA,2010,4254.98,.0076
+10,Catamarca,NOA,2011,4227.02,.0071
+10,Catamarca,NOA,2012,4318.57,.0074
+10,Catamarca,NOA,2013,4129.63,.0069
+10,Catamarca,NOA,2014,4254.84,.0073
+10,Catamarca,NOA,2015,3846.14,.0064
+10,Catamarca,NOA,2016,3848.58,.0065
+10,Catamarca,NOA,2017,3788.46,.0063
+10,Catamarca,NOA,2018,3615.56,.0061
+10,Catamarca,NOA,2019,3272.93,.0057
+10,Catamarca,NOA,2020,2944.54,.0056
+10,Catamarca,NOA,2021,3403.85,.0059
+10,Catamarca,NOA,2022,3784.42,.0063
+14,Córdoba,Pampeana y CABA,1895,1210.33,.0696
+14,Córdoba,Pampeana y CABA,1914,3049.7,.0865
+14,Córdoba,Pampeana y CABA,1937,6729.74,.0893
+14,Córdoba,Pampeana y CABA,1946,6514.57,.0658
+14,Córdoba,Pampeana y CABA,1953,7936.860000000001,.066
+14,Córdoba,Pampeana y CABA,1965,15006.27,.0783
+14,Córdoba,Pampeana y CABA,1975,17977.87,.0658
+14,Córdoba,Pampeana y CABA,1986,21108.47,.0716
+14,Córdoba,Pampeana y CABA,1993,27708.1,.0795
+14,Córdoba,Pampeana y CABA,2004,32365.86,.0785
+14,Córdoba,Pampeana y CABA,2005,37645.29,.0836
+14,Córdoba,Pampeana y CABA,2006,39981.12,.0826
+14,Córdoba,Pampeana y CABA,2007,45314.76,.0866
+14,Córdoba,Pampeana y CABA,2008,46364.56,.0854
+14,Córdoba,Pampeana y CABA,2009,42131.49,.0824
+14,Córdoba,Pampeana y CABA,2010,47518.13,.0844
+14,Córdoba,Pampeana y CABA,2011,49647.88,.0837
+14,Córdoba,Pampeana y CABA,2012,47365.21,.081
+14,Córdoba,Pampeana y CABA,2013,50898.06,.0852
+14,Córdoba,Pampeana y CABA,2014,50226.3,.0856
+14,Córdoba,Pampeana y CABA,2015,52213.32,.0866
+14,Córdoba,Pampeana y CABA,2016,51392.56,.0872
+14,Córdoba,Pampeana y CABA,2017,52468.42,.0868
+14,Córdoba,Pampeana y CABA,2018,49018.56,.0833
+14,Córdoba,Pampeana y CABA,2019,50172.65,.0867
+14,Córdoba,Pampeana y CABA,2020,44603.7,.0855
+14,Córdoba,Pampeana y CABA,2021,50019.68,.0869
+14,Córdoba,Pampeana y CABA,2022,51372.15,.0851
+18,Corrientes,NEA,1895,628.46,.0361
+18,Corrientes,NEA,1914,927.4200000000001,.0263
+18,Corrientes,NEA,1937,1321.38,.0175
+18,Corrientes,NEA,1946,1645.81,.0166
+18,Corrientes,NEA,1953,1658.53,.0138
+18,Corrientes,NEA,1965,2386.35,.0124
+18,Corrientes,NEA,1975,3547.48,.013
+18,Corrientes,NEA,1986,3173.4,.0108
+18,Corrientes,NEA,1993,4631.56,.0133
+18,Corrientes,NEA,2004,4777.1,.0116
+18,Corrientes,NEA,2005,5418.35,.012
+18,Corrientes,NEA,2006,5701.52,.0118
+18,Corrientes,NEA,2007,6082.96,.0116
+18,Corrientes,NEA,2008,6339.24,.0117
+18,Corrientes,NEA,2009,6142.650000000001,.012
+18,Corrientes,NEA,2010,6493.24,.0115
+18,Corrientes,NEA,2011,7123.6,.012
+18,Corrientes,NEA,2012,7160.38,.0122
+18,Corrientes,NEA,2013,7345.24,.0123
+18,Corrientes,NEA,2014,7371.72,.0126
+18,Corrientes,NEA,2015,7572.39,.0126
+18,Corrientes,NEA,2016,7417.900000000001,.0126
+18,Corrientes,NEA,2017,7775.37,.0129
+18,Corrientes,NEA,2018,7868.03,.0134
+18,Corrientes,NEA,2019,7584.02,.0131
+18,Corrientes,NEA,2020,6927.68,.0133
+18,Corrientes,NEA,2021,7545.72,.0131
+18,Corrientes,NEA,2022,7665.55,.0127
+22,Chaco,NEA,1895,52.67,.003
+22,Chaco,NEA,1914,169.92,.0048
+22,Chaco,NEA,1937,963.14,.0128
+22,Chaco,NEA,1946,1491.35,.0151
+22,Chaco,NEA,1953,2242.53,.0186
+22,Chaco,NEA,1965,3262.88,.017
+22,Chaco,NEA,1975,3258.17,.0119
+22,Chaco,NEA,1986,2755.57,.0093
+22,Chaco,NEA,1993,4597.13,.0132
+22,Chaco,NEA,2004,5596.92,.0136
+22,Chaco,NEA,2005,6252.89,.0139
+22,Chaco,NEA,2006,6855.74,.0142
+22,Chaco,NEA,2007,7471.87,.0143
+22,Chaco,NEA,2008,7890.08,.0145
+22,Chaco,NEA,2009,7515.09,.0147
+22,Chaco,NEA,2010,8463.75,.015
+22,Chaco,NEA,2011,9353.309999999999,.0158
+22,Chaco,NEA,2012,8523.08,.0146
+22,Chaco,NEA,2013,8942.690000000001,.015
+22,Chaco,NEA,2014,9653.940000000001,.0165
+22,Chaco,NEA,2015,9544.26,.0158
+22,Chaco,NEA,2016,9431.040000000001,.016
+22,Chaco,NEA,2017,9804.219999999999,.0162
+22,Chaco,NEA,2018,9678.809999999999,.0165
+22,Chaco,NEA,2019,9152.139999999999,.0158
+22,Chaco,NEA,2020,8608.030000000001,.0165
+22,Chaco,NEA,2021,9197.41,.016
+22,Chaco,NEA,2022,9850.48,.0163
+26,Chubut,Patagonia,1895,12.64,.0007
+26,Chubut,Patagonia,1914,106.52,.003
+26,Chubut,Patagonia,1937,902.77,.012
+26,Chubut,Patagonia,1946,1071.02,.0108
+26,Chubut,Patagonia,1953,1190.12,.0099
+26,Chubut,Patagonia,1965,1762.46,.0092
+26,Chubut,Patagonia,1975,4149.26,.0152
+26,Chubut,Patagonia,1986,4956.75,.0168
+26,Chubut,Patagonia,1993,4716.38,.0135
+26,Chubut,Patagonia,2004,9546.84,.0232
+26,Chubut,Patagonia,2005,9966.09,.0221
+26,Chubut,Patagonia,2006,10997.41,.0227
+26,Chubut,Patagonia,2007,11199.42,.0214
+26,Chubut,Patagonia,2008,11321.95,.0209
+26,Chubut,Patagonia,2009,10713.21,.0209
+26,Chubut,Patagonia,2010,11453.11,.0204
+26,Chubut,Patagonia,2011,11915.19,.0201
+26,Chubut,Patagonia,2012,11493.84,.0197
+26,Chubut,Patagonia,2013,11853.75,.0198
+26,Chubut,Patagonia,2014,12167.61,.0207
+26,Chubut,Patagonia,2015,12270.75,.0204
+26,Chubut,Patagonia,2016,11801.87,.02
+26,Chubut,Patagonia,2017,12127.82,.0201
+26,Chubut,Patagonia,2018,12075.53,.0205
+26,Chubut,Patagonia,2019,12226.64,.0211
+26,Chubut,Patagonia,2020,10958.84,.021
+26,Chubut,Patagonia,2021,11419.73,.0198
+26,Chubut,Patagonia,2022,11567.77,.0192
+30,Entre Ríos,Pampeana y CABA,1895,1217.19,.07
+30,Entre Ríos,Pampeana y CABA,1914,1565.72,.0444
+30,Entre Ríos,Pampeana y CABA,1937,2472.27,.0328
+30,Entre Ríos,Pampeana y CABA,1946,2881.75,.0291
+30,Entre Ríos,Pampeana y CABA,1953,3618.64,.0301
+30,Entre Ríos,Pampeana y CABA,1965,4439.29,.0232
+30,Entre Ríos,Pampeana y CABA,1975,6641.41,.0243
+30,Entre Ríos,Pampeana y CABA,1986,5125.84,.0174
+30,Entre Ríos,Pampeana y CABA,1993,7896.070000000001,.0226
+30,Entre Ríos,Pampeana y CABA,2004,10433.91,.0253
+30,Entre Ríos,Pampeana y CABA,2005,11702,.026
+30,Entre Ríos,Pampeana y CABA,2006,12454.88,.0257
+30,Entre Ríos,Pampeana y CABA,2007,13763.69,.0263
+30,Entre Ríos,Pampeana y CABA,2008,14099.78,.026
+30,Entre Ríos,Pampeana y CABA,2009,13009.81,.0254
+30,Entre Ríos,Pampeana y CABA,2010,14946.67,.0266
+30,Entre Ríos,Pampeana y CABA,2011,15642.95,.0264
+30,Entre Ríos,Pampeana y CABA,2012,15582.36,.0266
+30,Entre Ríos,Pampeana y CABA,2013,16097.52,.0269
+30,Entre Ríos,Pampeana y CABA,2014,15867.27,.027
+30,Entre Ríos,Pampeana y CABA,2015,16426.61,.0273
+30,Entre Ríos,Pampeana y CABA,2016,15658.55,.0266
+30,Entre Ríos,Pampeana y CABA,2017,16442.03,.0272
+30,Entre Ríos,Pampeana y CABA,2018,15794.08,.0268
+30,Entre Ríos,Pampeana y CABA,2019,16037.8,.0277
+30,Entre Ríos,Pampeana y CABA,2020,14972.29,.0287
+30,Entre Ríos,Pampeana y CABA,2021,15943.51,.0277
+30,Entre Ríos,Pampeana y CABA,2022,16778.68,.0278
+34,Formosa,NEA,1895,28.08,.0016
+34,Formosa,NEA,1914,83.77,.0024
+34,Formosa,NEA,1937,374.35,.005
+34,Formosa,NEA,1946,469.74,.0047
+34,Formosa,NEA,1953,610.38,.0051
+34,Formosa,NEA,1965,726.6800000000001,.0038
+34,Formosa,NEA,1975,1590.93,.0058
+34,Formosa,NEA,1986,957.48,.0032
+34,Formosa,NEA,1993,2218.99,.0064
+34,Formosa,NEA,2004,2263.41,.0055
+34,Formosa,NEA,2005,2556.72,.0057
+34,Formosa,NEA,2006,2733.95,.0056
+34,Formosa,NEA,2007,2960.51,.0057
+34,Formosa,NEA,2008,2946.9,.0054
+34,Formosa,NEA,2009,2945.15,.0058
+34,Formosa,NEA,2010,3099.35,.0055
+34,Formosa,NEA,2011,3371.1,.0057
+34,Formosa,NEA,2012,3374.2,.0058
+34,Formosa,NEA,2013,3458.63,.0058
+34,Formosa,NEA,2014,3416.7,.0058
+34,Formosa,NEA,2015,3619.3,.006
+34,Formosa,NEA,2016,3605.3,.0061
+34,Formosa,NEA,2017,3698.21,.0061
+34,Formosa,NEA,2018,3679.5,.0063
+34,Formosa,NEA,2019,3466.68,.006
+34,Formosa,NEA,2020,3232.98,.0062
+34,Formosa,NEA,2021,3622.28,.0063
+34,Formosa,NEA,2022,3844.29,.0064
+38,Jujuy,NOA,1895,141.33,.0081
+38,Jujuy,NOA,1914,324.78,.0092
+38,Jujuy,NOA,1937,502.63,.0067
+38,Jujuy,NOA,1946,722.1800000000001,.0073
+38,Jujuy,NOA,1953,1056.75,.0088
+38,Jujuy,NOA,1965,1302.7,.0068
+38,Jujuy,NOA,1975,3003.86,.011
+38,Jujuy,NOA,1986,2158.98,.0073
+38,Jujuy,NOA,1993,3207.84,.0092
+38,Jujuy,NOA,2004,3654.79,.0089
+38,Jujuy,NOA,2005,3854.43,.0086
+38,Jujuy,NOA,2006,4095.34,.0085
+38,Jujuy,NOA,2007,4429.35,.0085
+38,Jujuy,NOA,2008,4637.45,.0085
+38,Jujuy,NOA,2009,4580.12,.009
+38,Jujuy,NOA,2010,5058.8,.009
+38,Jujuy,NOA,2011,5315.03,.009
+38,Jujuy,NOA,2012,5443.67,.0093
+38,Jujuy,NOA,2013,5464.77,.0091
+38,Jujuy,NOA,2014,5510.27,.0094
+38,Jujuy,NOA,2015,5767.74,.0096
+38,Jujuy,NOA,2016,5557.39,.0094
+38,Jujuy,NOA,2017,5725.54,.0095
+38,Jujuy,NOA,2018,5660.28,.0096
+38,Jujuy,NOA,2019,5734.35,.0099
+38,Jujuy,NOA,2020,5221.98,.01
+38,Jujuy,NOA,2021,5885.400000000001,.0102
+38,Jujuy,NOA,2022,6525.84,.0108
+42,La Pampa,Pampeana y CABA,1895,115.55,.0066
+42,La Pampa,Pampeana y CABA,1914,559.5700000000001,.0159
+42,La Pampa,Pampeana y CABA,1937,996.58,.0132
+42,La Pampa,Pampeana y CABA,1946,1066.81,.0108
+42,La Pampa,Pampeana y CABA,1953,1208.68,.01
+42,La Pampa,Pampeana y CABA,1965,1973.01,.0103
+42,La Pampa,Pampeana y CABA,1975,1731.78,.0063
+42,La Pampa,Pampeana y CABA,1986,3220.55,.0109
+42,La Pampa,Pampeana y CABA,1993,3131.89,.009
+42,La Pampa,Pampeana y CABA,2004,3826.13,.0093
+42,La Pampa,Pampeana y CABA,2005,4607.5,.0102
+42,La Pampa,Pampeana y CABA,2006,4614.24,.0095
+42,La Pampa,Pampeana y CABA,2007,5168.29,.0099
+42,La Pampa,Pampeana y CABA,2008,5576.7,.0103
+42,La Pampa,Pampeana y CABA,2009,5162.12,.0101
+42,La Pampa,Pampeana y CABA,2010,5513.45,.0098
+42,La Pampa,Pampeana y CABA,2011,5895.36,.0099
+42,La Pampa,Pampeana y CABA,2012,5899.12,.0101
+42,La Pampa,Pampeana y CABA,2013,5955.07,.01
+42,La Pampa,Pampeana y CABA,2014,5675.28,.0097
+42,La Pampa,Pampeana y CABA,2015,5983.17,.0099
+42,La Pampa,Pampeana y CABA,2016,6191.41,.0105
+42,La Pampa,Pampeana y CABA,2017,6010.190000000001,.0099
+42,La Pampa,Pampeana y CABA,2018,5910,.01
+42,La Pampa,Pampeana y CABA,2019,6051.26,.0105
+42,La Pampa,Pampeana y CABA,2020,5436.3,.0104
+42,La Pampa,Pampeana y CABA,2021,5869.62,.0102
+42,La Pampa,Pampeana y CABA,2022,6405.57,.0106
+46,La Rioja,NOA,1895,146.65,.0084
+46,La Rioja,NOA,1914,275.9,.0078
+46,La Rioja,NOA,1937,215.14,.0029
+46,La Rioja,NOA,1946,313.59,.0032
+46,La Rioja,NOA,1953,356.04,.003
+46,La Rioja,NOA,1965,426.91,.0022
+46,La Rioja,NOA,1975,1096.18,.004
+46,La Rioja,NOA,1986,1593.75,.0054
+46,La Rioja,NOA,1993,1951.73,.0056
+46,La Rioja,NOA,2004,2520.35,.0061
+46,La Rioja,NOA,2005,2718.16,.006
+46,La Rioja,NOA,2006,2851.2,.0059
+46,La Rioja,NOA,2007,3128.38,.006
+46,La Rioja,NOA,2008,3082.71,.0057
+46,La Rioja,NOA,2009,2971.65,.0058
+46,La Rioja,NOA,2010,3282.6,.0058
+46,La Rioja,NOA,2011,3460.25,.0058
+46,La Rioja,NOA,2012,3333.56,.0057
+46,La Rioja,NOA,2013,3489.68,.0058
+46,La Rioja,NOA,2014,3366.51,.0057
+46,La Rioja,NOA,2015,3440.98,.0057
+46,La Rioja,NOA,2016,3391.15,.0058
+46,La Rioja,NOA,2017,3501.68,.0058
+46,La Rioja,NOA,2018,3377.79,.0057
+46,La Rioja,NOA,2019,3293.49,.0057
+46,La Rioja,NOA,2020,2909.85,.0056
+46,La Rioja,NOA,2021,3209.18,.0056
+46,La Rioja,NOA,2022,3485.28,.0058
+50,Mendoza,Cuyo,1895,611.97,.0352
+50,Mendoza,Cuyo,1914,1044.97,.0297
+50,Mendoza,Cuyo,1937,1859.81,.0247
+50,Mendoza,Cuyo,1946,3649.7,.0369
+50,Mendoza,Cuyo,1953,4719.52,.0392
+50,Mendoza,Cuyo,1965,7447.89,.0389
+50,Mendoza,Cuyo,1975,12251.8,.0449
+50,Mendoza,Cuyo,1986,7891.75,.0268
+50,Mendoza,Cuyo,1993,13738.16,.0394
+50,Mendoza,Cuyo,2004,16294.45,.0395
+50,Mendoza,Cuyo,2005,16874.05,.0375
+50,Mendoza,Cuyo,2006,18525.39,.0383
+50,Mendoza,Cuyo,2007,19710.03,.0377
+50,Mendoza,Cuyo,2008,20442.49,.0377
+50,Mendoza,Cuyo,2009,19258.34,.0376
+50,Mendoza,Cuyo,2010,20121.95,.0358
+50,Mendoza,Cuyo,2011,21266.41,.0358
+50,Mendoza,Cuyo,2012,21426.92,.0366
+50,Mendoza,Cuyo,2013,21567.74,.0361
+50,Mendoza,Cuyo,2014,21020.09,.0358
+50,Mendoza,Cuyo,2015,21770.28,.0361
+50,Mendoza,Cuyo,2016,20715.35,.0352
+50,Mendoza,Cuyo,2017,20962.71,.0347
+50,Mendoza,Cuyo,2018,20956.68,.0356
+50,Mendoza,Cuyo,2019,20672.59,.0357
+50,Mendoza,Cuyo,2020,17957.73,.0344
+50,Mendoza,Cuyo,2021,19089.26,.0332
+50,Mendoza,Cuyo,2022,19651.32,.0325
+54,Misiones,NEA,1895,116.32,.0067
+54,Misiones,NEA,1914,110.9,.0031
+54,Misiones,NEA,1937,481.93,.0064
+54,Misiones,NEA,1946,943.15,.0095
+54,Misiones,NEA,1953,1033.85,.0086
+54,Misiones,NEA,1965,1612.5,.0084
+54,Misiones,NEA,1975,4290.27,.0157
+54,Misiones,NEA,1986,4151.940000000001,.0141
+54,Misiones,NEA,1993,4929.17,.0141
+54,Misiones,NEA,2004,5385.67,.0131
+54,Misiones,NEA,2005,5743.64,.0128
+54,Misiones,NEA,2006,6067.18,.0125
+54,Misiones,NEA,2007,6352.150000000001,.0121
+54,Misiones,NEA,2008,6296.7,.0116
+54,Misiones,NEA,2009,5978.86,.0117
+54,Misiones,NEA,2010,6462.06,.0115
+54,Misiones,NEA,2011,6882.79,.0116
+54,Misiones,NEA,2012,6964.14,.0119
+54,Misiones,NEA,2013,7266.85,.0122
+54,Misiones,NEA,2014,7331.07,.0125
+54,Misiones,NEA,2015,7544.22,.0125
+54,Misiones,NEA,2016,7360.940000000001,.0125
+54,Misiones,NEA,2017,7540.2,.0125
+54,Misiones,NEA,2018,7429.17,.0126
+54,Misiones,NEA,2019,7247.64,.0125
+54,Misiones,NEA,2020,6937.74,.0133
+54,Misiones,NEA,2021,7771.48,.0135
+54,Misiones,NEA,2022,8056.820000000001,.0133
+58,Neuquén,Patagonia,1895,25.39,.0015
+58,Neuquén,Patagonia,1914,95.92,.0027
+58,Neuquén,Patagonia,1937,283.84,.0038
+58,Neuquén,Patagonia,1946,403.39,.0041
+58,Neuquén,Patagonia,1953,440.39,.0037
+58,Neuquén,Patagonia,1965,744.28,.0039
+58,Neuquén,Patagonia,1975,3025.67,.0111
+58,Neuquén,Patagonia,1986,3030.36,.0103
+58,Neuquén,Patagonia,1993,6194.58,.0178
+58,Neuquén,Patagonia,2004,13372.5,.0324
+58,Neuquén,Patagonia,2005,13195.03,.0293
+58,Neuquén,Patagonia,2006,13627.9,.0281
+58,Neuquén,Patagonia,2007,13949.48,.0267
+58,Neuquén,Patagonia,2008,14018.48,.0258
+58,Neuquén,Patagonia,2009,13330.87,.0261
+58,Neuquén,Patagonia,2010,13373.5,.0238
+58,Neuquén,Patagonia,2011,13375.29,.0225
+58,Neuquén,Patagonia,2012,12840.04,.022
+58,Neuquén,Patagonia,2013,12819.17,.0214
+58,Neuquén,Patagonia,2014,13276.38,.0226
+58,Neuquén,Patagonia,2015,13975.5,.0232
+58,Neuquén,Patagonia,2016,13721.59,.0233
+58,Neuquén,Patagonia,2017,13632.55,.0226
+58,Neuquén,Patagonia,2018,14458.63,.0246
+58,Neuquén,Patagonia,2019,15787.59,.0273
+58,Neuquén,Patagonia,2020,14597.91,.028
+58,Neuquén,Patagonia,2021,17633.76,.0306
+58,Neuquén,Patagonia,2022,20996.07,.0348
+62,Río Negro,Patagonia,1895,33.11,.0019
+62,Río Negro,Patagonia,1914,187.08,.0053
+62,Río Negro,Patagonia,1937,463.81,.0062
+62,Río Negro,Patagonia,1946,776.29,.0078
+62,Río Negro,Patagonia,1953,1186.8,.0099
+62,Río Negro,Patagonia,1965,1917.75,.01
+62,Río Negro,Patagonia,1975,3734.53,.0137
+62,Río Negro,Patagonia,1986,4641.52,.0157
+62,Río Negro,Patagonia,1993,5247.85,.0151
+62,Río Negro,Patagonia,2004,5843.690000000001,.0142
+62,Río Negro,Patagonia,2005,6406.3,.0142
+62,Río Negro,Patagonia,2006,7019.190000000001,.0145
+62,Río Negro,Patagonia,2007,7359.25,.0141
+62,Río Negro,Patagonia,2008,7500.52,.0138
+62,Río Negro,Patagonia,2009,7268.21,.0142
+62,Río Negro,Patagonia,2010,7696.42,.0137
+62,Río Negro,Patagonia,2011,8277.33,.014
+62,Río Negro,Patagonia,2012,8432.5,.0144
+62,Río Negro,Patagonia,2013,8708.41,.0146
+62,Río Negro,Patagonia,2014,8531.17,.0145
+62,Río Negro,Patagonia,2015,8790.540000000001,.0146
+62,Río Negro,Patagonia,2016,8535.76,.0145
+62,Río Negro,Patagonia,2017,8636.290000000001,.0143
+62,Río Negro,Patagonia,2018,8684.040000000001,.0148
+62,Río Negro,Patagonia,2019,8541.32,.0148
+62,Río Negro,Patagonia,2020,7735.62,.0148
+62,Río Negro,Patagonia,2021,8226.110000000001,.0143
+62,Río Negro,Patagonia,2022,8553.780000000001,.0142
+66,Salta,NOA,1895,313.45,.018
+66,Salta,NOA,1914,409.58,.0116
+66,Salta,NOA,1937,852.52,.0113
+66,Salta,NOA,1946,1068.45,.0108
+66,Salta,NOA,1953,1384.77,.0115
+66,Salta,NOA,1965,2427.45,.0127
+66,Salta,NOA,1975,3747.68,.0137
+66,Salta,NOA,1986,4477.82,.0152
+66,Salta,NOA,1993,5171.150000000001,.0148
+66,Salta,NOA,2004,7264.37,.0176
+66,Salta,NOA,2005,7804.6,.0173
+66,Salta,NOA,2006,8573.51,.0177
+66,Salta,NOA,2007,9205.059999999999,.0176
+66,Salta,NOA,2008,9591.290000000001,.0177
+66,Salta,NOA,2009,9181.120000000001,.0179
+66,Salta,NOA,2010,9911.07,.0176
+66,Salta,NOA,2011,10453.67,.0176
+66,Salta,NOA,2012,9922.200000000001,.017
+66,Salta,NOA,2013,9505.33,.0159
+66,Salta,NOA,2014,10024.04,.0171
+66,Salta,NOA,2015,10798.09,.0179
+66,Salta,NOA,2016,10434.89,.0177
+66,Salta,NOA,2017,10824.66,.0179
+66,Salta,NOA,2018,10715.28,.0182
+66,Salta,NOA,2019,10821.17,.0187
+66,Salta,NOA,2020,9981.52,.0191
+66,Salta,NOA,2021,10777.57,.0187
+66,Salta,NOA,2022,11285.2,.0187
+70,San Juan,Cuyo,1895,468.55,.027
+70,San Juan,Cuyo,1914,362.51,.0103
+70,San Juan,Cuyo,1937,591.0500000000001,.0078
+70,San Juan,Cuyo,1946,1372.62,.0139
+70,San Juan,Cuyo,1953,1453.07,.0121
+70,San Juan,Cuyo,1965,2384.16,.0124
+70,San Juan,Cuyo,1975,2833.72,.0104
+70,San Juan,Cuyo,1986,2944.5,.01
+70,San Juan,Cuyo,1993,4023.51,.0115
+70,San Juan,Cuyo,2004,4791.38,.0116
+70,San Juan,Cuyo,2005,5256.48,.0117
+70,San Juan,Cuyo,2006,5878.91,.0121
+70,San Juan,Cuyo,2007,6263.8,.012
+70,San Juan,Cuyo,2008,6694.89,.0123
+70,San Juan,Cuyo,2009,6762.37,.0132
+70,San Juan,Cuyo,2010,7878.440000000001,.014
+70,San Juan,Cuyo,2011,8291.860000000001,.014
+70,San Juan,Cuyo,2012,8365.41,.0143
+70,San Juan,Cuyo,2013,8572.98,.0143
+70,San Juan,Cuyo,2014,8162.92,.0139
+70,San Juan,Cuyo,2015,7892.320000000001,.0131
+70,San Juan,Cuyo,2016,7516.47,.0128
+70,San Juan,Cuyo,2017,7690.45,.0127
+70,San Juan,Cuyo,2018,7579.12,.0129
+70,San Juan,Cuyo,2019,7346.99,.0127
+70,San Juan,Cuyo,2020,6606.55,.0127
+70,San Juan,Cuyo,2021,7339.42,.0127
+70,San Juan,Cuyo,2022,7853.190000000001,.013
+74,San Luis,Cuyo,1895,169.8,.0098
+74,San Luis,Cuyo,1914,485.67,.0138
+74,San Luis,Cuyo,1937,430.57,.0057
+74,San Luis,Cuyo,1946,484.15,.0049
+74,San Luis,Cuyo,1953,625.76,.0052
+74,San Luis,Cuyo,1965,1039.64,.0054
+74,San Luis,Cuyo,1975,1252.57,.0046
+74,San Luis,Cuyo,1986,3256.61,.011
+74,San Luis,Cuyo,1993,3624.4,.0104
+74,San Luis,Cuyo,2004,4486.52,.0109
+74,San Luis,Cuyo,2005,4784.43,.0106
+74,San Luis,Cuyo,2006,4949.08,.0102
+74,San Luis,Cuyo,2007,5283.91,.0101
+74,San Luis,Cuyo,2008,5472.48,.0101
+74,San Luis,Cuyo,2009,5192.24,.0102
+74,San Luis,Cuyo,2010,5559.52,.0099
+74,San Luis,Cuyo,2011,5905.27,.01
+74,San Luis,Cuyo,2012,5820.61,.01
+74,San Luis,Cuyo,2013,6230.52,.0104
+74,San Luis,Cuyo,2014,6086.88,.0104
+74,San Luis,Cuyo,2015,6428.52,.0107
+74,San Luis,Cuyo,2016,6227.440000000001,.0106
+74,San Luis,Cuyo,2017,6313.28,.0104
+74,San Luis,Cuyo,2018,5965.84,.0101
+74,San Luis,Cuyo,2019,5818.22,.0101
+74,San Luis,Cuyo,2020,5071.5,.0097
+74,San Luis,Cuyo,2021,5960.74,.0104
+74,San Luis,Cuyo,2022,6217.85,.0103
+78,Santa Cruz,Patagonia,1895,9.16,.0005
+78,Santa Cruz,Patagonia,1914,96.90000000000001,.0027
+78,Santa Cruz,Patagonia,1937,294.7,.0039
+78,Santa Cruz,Patagonia,1946,449.29,.0045
+78,Santa Cruz,Patagonia,1953,597.4,.005
+78,Santa Cruz,Patagonia,1965,1808.52,.0094
+78,Santa Cruz,Patagonia,1975,1874.25,.0069
+78,Santa Cruz,Patagonia,1986,2311.53,.0078
+78,Santa Cruz,Patagonia,1993,3496.92,.01
+78,Santa Cruz,Patagonia,2004,7427.58,.018
+78,Santa Cruz,Patagonia,2005,7584.07,.0168
+78,Santa Cruz,Patagonia,2006,8245.690000000001,.017
+78,Santa Cruz,Patagonia,2007,8249.6,.0158
+78,Santa Cruz,Patagonia,2008,8252.639999999999,.0152
+78,Santa Cruz,Patagonia,2009,8434.880000000001,.0165
+78,Santa Cruz,Patagonia,2010,8621.960000000001,.0153
+78,Santa Cruz,Patagonia,2011,8601.549999999999,.0145
+78,Santa Cruz,Patagonia,2012,9219.09,.0158
+78,Santa Cruz,Patagonia,2013,9321.309999999999,.0156
+78,Santa Cruz,Patagonia,2014,9439.9,.0161
+78,Santa Cruz,Patagonia,2015,10315.27,.0171
+78,Santa Cruz,Patagonia,2016,9537.85,.0162
+78,Santa Cruz,Patagonia,2017,9319.84,.0154
+78,Santa Cruz,Patagonia,2018,9194.84,.0156
+78,Santa Cruz,Patagonia,2019,8997.790000000001,.0155
+78,Santa Cruz,Patagonia,2020,7806.92,.015
+78,Santa Cruz,Patagonia,2021,8294.66,.0144
+78,Santa Cruz,Patagonia,2022,8568.98,.0142
+82,Santa Fe,Pampeana y CABA,1895,2344.46,.1349
+82,Santa Fe,Pampeana y CABA,1914,4316.42,.1225
+82,Santa Fe,Pampeana y CABA,1937,8585.780000000001,.1139
+82,Santa Fe,Pampeana y CABA,1946,9147.85,.0924
+82,Santa Fe,Pampeana y CABA,1953,10583.27,.088
+82,Santa Fe,Pampeana y CABA,1965,17049.26,.0889
+82,Santa Fe,Pampeana y CABA,1975,22431.04,.0821
+82,Santa Fe,Pampeana y CABA,1986,23388.16,.0793
+82,Santa Fe,Pampeana y CABA,1993,26385.78,.0757
+82,Santa Fe,Pampeana y CABA,2004,34938.6,.0848
+82,Santa Fe,Pampeana y CABA,2005,38664.72,.0859
+82,Santa Fe,Pampeana y CABA,2006,40612.25,.0839
+82,Santa Fe,Pampeana y CABA,2007,43486.71,.0831
+82,Santa Fe,Pampeana y CABA,2008,44721.1,.0824
+82,Santa Fe,Pampeana y CABA,2009,40025.87,.0782
+82,Santa Fe,Pampeana y CABA,2010,46313.61,.0823
+82,Santa Fe,Pampeana y CABA,2011,47628.65,.0803
+82,Santa Fe,Pampeana y CABA,2012,45926.32,.0785
+82,Santa Fe,Pampeana y CABA,2013,47936.89,.0802
+82,Santa Fe,Pampeana y CABA,2014,46280.08,.0789
+82,Santa Fe,Pampeana y CABA,2015,47183.63,.0783
+82,Santa Fe,Pampeana y CABA,2016,44661.06,.0758
+82,Santa Fe,Pampeana y CABA,2017,47269.06,.0782
+82,Santa Fe,Pampeana y CABA,2018,45145.76,.0767
+82,Santa Fe,Pampeana y CABA,2019,45628.76,.0788
+82,Santa Fe,Pampeana y CABA,2020,41492.2,.0796
+82,Santa Fe,Pampeana y CABA,2021,46607.15,.081
+82,Santa Fe,Pampeana y CABA,2022,47251.23,.0782
+86,Santiago del Estero,NOA,1895,320.35,.0184
+86,Santiago del Estero,NOA,1914,541.7,.0154
+86,Santiago del Estero,NOA,1937,825.79,.011
+86,Santiago del Estero,NOA,1946,1136.42,.0115
+86,Santiago del Estero,NOA,1953,1408.25,.0117
+86,Santiago del Estero,NOA,1965,1425.19,.0074
+86,Santiago del Estero,NOA,1975,2989.55,.0109
+86,Santiago del Estero,NOA,1986,1905.06,.0065
+86,Santiago del Estero,NOA,1993,3404.82,.0098
+86,Santiago del Estero,NOA,2004,5165.690000000001,.0125
+86,Santiago del Estero,NOA,2005,5200.11,.0116
+86,Santiago del Estero,NOA,2006,6404.63,.0132
+86,Santiago del Estero,NOA,2007,7159.360000000001,.0137
+86,Santiago del Estero,NOA,2008,7450.190000000001,.0137
+86,Santiago del Estero,NOA,2009,6367.27,.0124
+86,Santiago del Estero,NOA,2010,8380.09,.0149
+86,Santiago del Estero,NOA,2011,8878.59,.015
+86,Santiago del Estero,NOA,2012,8167.58,.014
+86,Santiago del Estero,NOA,2013,9174.76,.0154
+86,Santiago del Estero,NOA,2014,10620.1,.0181
+86,Santiago del Estero,NOA,2015,10447.1,.0173
+86,Santiago del Estero,NOA,2016,10741.45,.0182
+86,Santiago del Estero,NOA,2017,11384.03,.0188
+86,Santiago del Estero,NOA,2018,10034.77,.0171
+86,Santiago del Estero,NOA,2019,10550.46,.0182
+86,Santiago del Estero,NOA,2020,9540.73,.0183
+86,Santiago del Estero,NOA,2021,10254.72,.0178
+86,Santiago del Estero,NOA,2022,10927.28,.0181
+90,Tucumán,NOA,1895,1184.98,.0682
+90,Tucumán,NOA,1914,1093.53,.031
+90,Tucumán,NOA,1937,1829.03,.0243
+90,Tucumán,NOA,1946,2225.1,.0225
+90,Tucumán,NOA,1953,3105.92,.0258
+90,Tucumán,NOA,1965,2911.47,.0152
+90,Tucumán,NOA,1975,8262.76,.0303
+90,Tucumán,NOA,1986,5395.2,.0183
+90,Tucumán,NOA,1993,7188.56,.0206
+90,Tucumán,NOA,2004,7416.99,.018
+90,Tucumán,NOA,2005,8198.280000000001,.0182
+90,Tucumán,NOA,2006,9085.440000000001,.0188
+90,Tucumán,NOA,2007,9764.219999999999,.0187
+90,Tucumán,NOA,2008,10287.12,.019
+90,Tucumán,NOA,2009,9840.200000000001,.0192
+90,Tucumán,NOA,2010,10469.95,.0186
+90,Tucumán,NOA,2011,11360.46,.0192
+90,Tucumán,NOA,2012,11251.51,.0192
+90,Tucumán,NOA,2013,11200.13,.0187
+90,Tucumán,NOA,2014,10959.96,.0187
+90,Tucumán,NOA,2015,11268.47,.0187
+90,Tucumán,NOA,2016,11449.73,.0194
+90,Tucumán,NOA,2017,11826.98,.0196
+90,Tucumán,NOA,2018,11948.7,.0203
+90,Tucumán,NOA,2019,12048.03,.0208
+90,Tucumán,NOA,2020,10852.16,.0208
+90,Tucumán,NOA,2021,11862.03,.0206
+90,Tucumán,NOA,2022,11856.81,.0196
+94,Tierra del Fuego,Patagonia,1895,3.51,.0002
+94,Tierra del Fuego,Patagonia,1914,21.43,.0006
+94,Tierra del Fuego,Patagonia,1937,61.06,.0008
+94,Tierra del Fuego,Patagonia,1946,80.10000000000001,.0008
+94,Tierra del Fuego,Patagonia,1953,121.8,.001
+94,Tierra del Fuego,Patagonia,1965,233.67,.0012
+94,Tierra del Fuego,Patagonia,1975,580.27,.0021
+94,Tierra del Fuego,Patagonia,1986,2245.03,.0076
+94,Tierra del Fuego,Patagonia,1993,2328.08,.0067
+94,Tierra del Fuego,Patagonia,2004,3329.92,.0081
+94,Tierra del Fuego,Patagonia,2005,3625.64,.0081
+94,Tierra del Fuego,Patagonia,2006,4100.43,.0085
+94,Tierra del Fuego,Patagonia,2007,4258.59,.0081
+94,Tierra del Fuego,Patagonia,2008,4250.96,.0078
+94,Tierra del Fuego,Patagonia,2009,3829.89,.0075
+94,Tierra del Fuego,Patagonia,2010,4810.67,.0085
+94,Tierra del Fuego,Patagonia,2011,5966.34,.0101
+94,Tierra del Fuego,Patagonia,2012,6425.53,.011
+94,Tierra del Fuego,Patagonia,2013,6431.3,.0108
+94,Tierra del Fuego,Patagonia,2014,5721.02,.0097
+94,Tierra del Fuego,Patagonia,2015,5913.37,.0098
+94,Tierra del Fuego,Patagonia,2016,5633.51,.0096
+94,Tierra del Fuego,Patagonia,2017,5668.24,.0094
+94,Tierra del Fuego,Patagonia,2018,5615.34,.0095
+94,Tierra del Fuego,Patagonia,2019,5084.45,.0088
+94,Tierra del Fuego,Patagonia,2020,4737.21,.0091
+94,Tierra del Fuego,Patagonia,2021,5429.03,.0094
+94,Tierra del Fuego,Patagonia,2022,5847.97,.0097

@@ -1,0 +1,673 @@
+provincia_id,provincia_nombre,region_pbg,anio,pib_pc_relativo
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,1895,139.29
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,1914,135.1
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,1937,174.89
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,1946,188.51
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,1953,185.37
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,1965,195.84
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,1975,255.53
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,1986,261.82
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,1993,280.67
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,2004,274.38
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,2005,274.98
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,2006,278.92
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,2007,285.73
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,2008,289.03
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,2009,299.36
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,2010,289.3
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,2011,290.83
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,2012,293.46
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,2013,290.09
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,2014,292.09
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,2015,291.21
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,2016,297.96
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,2017,299.66
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,2018,305.96
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,2019,298.9
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,2020,294.58
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,2021,293.46
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,2022,296
+06,Buenos Aires,Pampeana y CABA,1895,101.86
+06,Buenos Aires,Pampeana y CABA,1914,106.67
+06,Buenos Aires,Pampeana y CABA,1937,97.06
+06,Buenos Aires,Pampeana y CABA,1946,99.94
+06,Buenos Aires,Pampeana y CABA,1953,101.86
+06,Buenos Aires,Pampeana y CABA,1965,99.94
+06,Buenos Aires,Pampeana y CABA,1975,80.72
+06,Buenos Aires,Pampeana y CABA,1986,95.14
+06,Buenos Aires,Pampeana y CABA,1993,85.53
+06,Buenos Aires,Pampeana y CABA,2004,83.60000000000001
+06,Buenos Aires,Pampeana y CABA,2005,83.63
+06,Buenos Aires,Pampeana y CABA,2006,83.25
+06,Buenos Aires,Pampeana y CABA,2007,82.48999999999999
+06,Buenos Aires,Pampeana y CABA,2008,83.22
+06,Buenos Aires,Pampeana y CABA,2009,82.61
+06,Buenos Aires,Pampeana y CABA,2010,84.01000000000001
+06,Buenos Aires,Pampeana y CABA,2011,84.61
+06,Buenos Aires,Pampeana y CABA,2012,85.36
+06,Buenos Aires,Pampeana y CABA,2013,85.07000000000001
+06,Buenos Aires,Pampeana y CABA,2014,83.57000000000001
+06,Buenos Aires,Pampeana y CABA,2015,83.93000000000001
+06,Buenos Aires,Pampeana y CABA,2016,84
+06,Buenos Aires,Pampeana y CABA,2017,83.94
+06,Buenos Aires,Pampeana y CABA,2018,83.46000000000001
+06,Buenos Aires,Pampeana y CABA,2019,82.68000000000001
+06,Buenos Aires,Pampeana y CABA,2020,83.44
+06,Buenos Aires,Pampeana y CABA,2021,83.92
+06,Buenos Aires,Pampeana y CABA,2022,84.14
+10,Catamarca,NOA,1895,44.54
+10,Catamarca,NOA,1914,50.1
+10,Catamarca,NOA,1937,32.29
+10,Catamarca,NOA,1946,42.31
+10,Catamarca,NOA,1953,38.97
+10,Catamarca,NOA,1965,37.86
+10,Catamarca,NOA,1975,60.13
+10,Catamarca,NOA,1986,59.01
+10,Catamarca,NOA,1993,71.26000000000001
+10,Catamarca,NOA,2004,101.32
+10,Catamarca,NOA,2005,104.57
+10,Catamarca,NOA,2006,102.39
+10,Catamarca,NOA,2007,97.82000000000001
+10,Catamarca,NOA,2008,90.71000000000001
+10,Catamarca,NOA,2009,87.76000000000001
+10,Catamarca,NOA,2010,81.67
+10,Catamarca,NOA,2011,77.06
+10,Catamarca,NOA,2012,79.96000000000001
+10,Catamarca,NOA,2013,74.91
+10,Catamarca,NOA,2014,78.7
+10,Catamarca,NOA,2015,69.36
+10,Catamarca,NOA,2016,71.05
+10,Catamarca,NOA,2017,68.25
+10,Catamarca,NOA,2018,67
+10,Catamarca,NOA,2019,61.71
+10,Catamarca,NOA,2020,61.68
+10,Catamarca,NOA,2021,64.65000000000001
+10,Catamarca,NOA,2022,68.57000000000001
+14,Córdoba,Pampeana y CABA,1895,78.45
+14,Córdoba,Pampeana y CABA,1914,92.54000000000001
+14,Córdoba,Pampeana y CABA,1937,94.55
+14,Córdoba,Pampeana y CABA,1946,70.41
+14,Córdoba,Pampeana y CABA,1953,71.41
+14,Córdoba,Pampeana y CABA,1965,88.51000000000001
+14,Córdoba,Pampeana y CABA,1975,75.44
+14,Córdoba,Pampeana y CABA,1986,82.48
+14,Córdoba,Pampeana y CABA,1993,94.55
+14,Córdoba,Pampeana y CABA,2004,93.54000000000001
+14,Córdoba,Pampeana y CABA,2005,99.86
+14,Córdoba,Pampeana y CABA,2006,98.82000000000001
+14,Córdoba,Pampeana y CABA,2007,103.94
+14,Córdoba,Pampeana y CABA,2008,102.78
+14,Córdoba,Pampeana y CABA,2009,99.34
+14,Córdoba,Pampeana y CABA,2010,102.12
+14,Córdoba,Pampeana y CABA,2011,101.21
+14,Córdoba,Pampeana y CABA,2012,97.95
+14,Córdoba,Pampeana y CABA,2013,102.99
+14,Córdoba,Pampeana y CABA,2014,103.5
+14,Córdoba,Pampeana y CABA,2015,104.75
+14,Córdoba,Pampeana y CABA,2016,105.41
+14,Córdoba,Pampeana y CABA,2017,104.87
+14,Córdoba,Pampeana y CABA,2018,100.64
+14,Córdoba,Pampeana y CABA,2019,104.66
+14,Córdoba,Pampeana y CABA,2020,103.22
+14,Córdoba,Pampeana y CABA,2021,104.8
+14,Córdoba,Pampeana y CABA,2022,102.52
+18,Corrientes,NEA,1895,60.43
+18,Corrientes,NEA,1914,60.43
+18,Corrientes,NEA,1937,51.52
+18,Corrientes,NEA,1946,50.53
+18,Corrientes,NEA,1953,45.57
+18,Corrientes,NEA,1965,48.54
+18,Corrientes,NEA,1975,53.5
+18,Corrientes,NEA,1986,45.57
+18,Corrientes,NEA,1993,54.49
+18,Corrientes,NEA,2004,45.57
+18,Corrientes,NEA,2005,47.47
+18,Corrientes,NEA,2006,46.58
+18,Corrientes,NEA,2007,46.15
+18,Corrientes,NEA,2008,46.51
+18,Corrientes,NEA,2009,47.97
+18,Corrientes,NEA,2010,46.25
+18,Corrientes,NEA,2011,48.19
+18,Corrientes,NEA,2012,49.19
+18,Corrientes,NEA,2013,49.43
+18,Corrientes,NEA,2014,50.58
+18,Corrientes,NEA,2015,50.64
+18,Corrientes,NEA,2016,50.78
+18,Corrientes,NEA,2017,51.93
+18,Corrientes,NEA,2018,54.05
+18,Corrientes,NEA,2019,53
+18,Corrientes,NEA,2020,53.79
+18,Corrientes,NEA,2021,53.12
+18,Corrientes,NEA,2022,51.49
+22,Chaco,NEA,1895,111.16
+22,Chaco,NEA,1914,79.25
+22,Chaco,NEA,1937,55.58
+22,Chaco,NEA,1946,54.55
+22,Chaco,NEA,1953,66.90000000000001
+22,Chaco,NEA,1965,65.87
+22,Chaco,NEA,1975,47.35
+22,Chaco,NEA,1986,36.02
+22,Chaco,NEA,1993,50.43
+22,Chaco,NEA,2004,50.43
+22,Chaco,NEA,2005,51.73
+22,Chaco,NEA,2006,52.86
+22,Chaco,NEA,2007,53.48
+22,Chaco,NEA,2008,54.6
+22,Chaco,NEA,2009,55.33
+22,Chaco,NEA,2010,56.81
+22,Chaco,NEA,2011,59.54
+22,Chaco,NEA,2012,55.03
+22,Chaco,NEA,2013,56.48
+22,Chaco,NEA,2014,62.09
+22,Chaco,NEA,2015,59.75
+22,Chaco,NEA,2016,60.36
+22,Chaco,NEA,2017,61.15
+22,Chaco,NEA,2018,62.02
+22,Chaco,NEA,2019,59.58
+22,Chaco,NEA,2020,62.19
+22,Chaco,NEA,2021,60.18
+22,Chaco,NEA,2022,61.42
+26,Chubut,Patagonia,1895,73.98
+26,Chubut,Patagonia,1914,99.32000000000001
+26,Chubut,Patagonia,1937,221.95
+26,Chubut,Patagonia,1946,182.42
+26,Chubut,Patagonia,1953,140.87
+26,Chubut,Patagonia,1965,117.56
+26,Chubut,Patagonia,1975,169.25
+26,Chubut,Patagonia,1986,164.18
+26,Chubut,Patagonia,1993,118.58
+26,Chubut,Patagonia,2004,196.61
+26,Chubut,Patagonia,2005,185.84
+26,Chubut,Patagonia,2006,188.52
+26,Chubut,Patagonia,2007,175.76
+26,Chubut,Patagonia,2008,169.42
+26,Chubut,Patagonia,2009,168.21
+26,Chubut,Patagonia,2010,161.7
+26,Chubut,Patagonia,2011,158.1
+26,Chubut,Patagonia,2012,153.33
+26,Chubut,Patagonia,2013,153.39
+26,Chubut,Patagonia,2014,159.03
+26,Chubut,Patagonia,2015,154.91
+26,Chubut,Patagonia,2016,151.18
+26,Chubut,Patagonia,2017,150.29
+26,Chubut,Patagonia,2018,152.64
+26,Chubut,Patagonia,2019,155.95
+26,Chubut,Patagonia,2020,154.06
+26,Chubut,Patagonia,2021,144.43
+26,Chubut,Patagonia,2022,138.51
+30,Entre Ríos,Pampeana y CABA,1895,94.82000000000001
+30,Entre Ríos,Pampeana y CABA,1914,82.32000000000001
+30,Entre Ríos,Pampeana y CABA,1937,65.65000000000001
+30,Entre Ríos,Pampeana y CABA,1946,58.35
+30,Entre Ríos,Pampeana y CABA,1953,65.65000000000001
+30,Entre Ríos,Pampeana y CABA,1965,61.48
+30,Entre Ríos,Pampeana y CABA,1975,71.90000000000001
+30,Entre Ríos,Pampeana y CABA,1986,54.19
+30,Entre Ríos,Pampeana y CABA,1993,72.94
+30,Entre Ríos,Pampeana y CABA,2004,80.23999999999999
+30,Entre Ríos,Pampeana y CABA,2005,82.72
+30,Entre Ríos,Pampeana y CABA,2006,82.17
+30,Entre Ríos,Pampeana y CABA,2007,84.41
+30,Entre Ríos,Pampeana y CABA,2008,83.7
+30,Entre Ríos,Pampeana y CABA,2009,82.28
+30,Entre Ríos,Pampeana y CABA,2010,86.29000000000001
+30,Entre Ríos,Pampeana y CABA,2011,85.76000000000001
+30,Entre Ríos,Pampeana y CABA,2012,86.73999999999999
+30,Entre Ríos,Pampeana y CABA,2013,87.77
+30,Entre Ríos,Pampeana y CABA,2014,88.19
+30,Entre Ríos,Pampeana y CABA,2015,88.97
+30,Entre Ríos,Pampeana y CABA,2016,86.8
+30,Entre Ríos,Pampeana y CABA,2017,88.90000000000001
+30,Entre Ríos,Pampeana y CABA,2018,87.81
+30,Entre Ríos,Pampeana y CABA,2019,90.68000000000001
+30,Entre Ríos,Pampeana y CABA,2020,94.01000000000001
+30,Entre Ríos,Pampeana y CABA,2021,90.72
+30,Entre Ríos,Pampeana y CABA,2022,91.03
+34,Formosa,NEA,1895,131.04
+34,Formosa,NEA,1914,98.82000000000001
+34,Formosa,NEA,1937,79.48
+34,Formosa,NEA,1946,66.59999999999999
+34,Formosa,NEA,1953,63.37
+34,Formosa,NEA,1965,39.74
+34,Formosa,NEA,1975,55.85
+34,Formosa,NEA,1986,30.08
+34,Formosa,NEA,1993,50.48
+34,Formosa,NEA,2004,40.82
+34,Formosa,NEA,2005,42.17
+34,Formosa,NEA,2006,41.88
+34,Formosa,NEA,2007,41.94
+34,Formosa,NEA,2008,40.22
+34,Formosa,NEA,2009,42.61
+34,Formosa,NEA,2010,40.73
+34,Formosa,NEA,2011,42.08
+34,Formosa,NEA,2012,42.78
+34,Formosa,NEA,2013,42.97
+34,Formosa,NEA,2014,43.29
+34,Formosa,NEA,2015,44.72
+34,Formosa,NEA,2016,45.62
+34,Formosa,NEA,2017,45.68
+34,Formosa,NEA,2018,46.76
+34,Formosa,NEA,2019,44.84
+34,Formosa,NEA,2020,46.49
+34,Formosa,NEA,2021,47.25
+34,Formosa,NEA,2022,47.87
+38,Jujuy,NOA,1895,64.25
+38,Jujuy,NOA,1914,92.69
+38,Jujuy,NOA,1937,65.31
+38,Jujuy,NOA,1946,69.52
+38,Jujuy,NOA,1953,77.95
+38,Jujuy,NOA,1965,53.72
+38,Jujuy,NOA,1975,79
+38,Jujuy,NOA,1986,47.4
+38,Jujuy,NOA,1993,57.93
+38,Jujuy,NOA,2004,52.67
+38,Jujuy,NOA,2005,50.89
+38,Jujuy,NOA,2006,50.3
+38,Jujuy,NOA,2007,50.4
+38,Jujuy,NOA,2008,50.91
+38,Jujuy,NOA,2009,53.39
+38,Jujuy,NOA,2010,53.65
+38,Jujuy,NOA,2011,53.39
+38,Jujuy,NOA,2012,55.4
+38,Jujuy,NOA,2013,54.34
+38,Jujuy,NOA,2014,55.73
+38,Jujuy,NOA,2015,56.72
+38,Jujuy,NOA,2016,55.81
+38,Jujuy,NOA,2017,55.98
+38,Jujuy,NOA,2018,56.79
+38,Jujuy,NOA,2019,58.4
+38,Jujuy,NOA,2020,58.95
+38,Jujuy,NOA,2021,60.1
+38,Jujuy,NOA,2022,63.44
+42,La Pampa,Pampeana y CABA,1895,102.84
+42,La Pampa,Pampeana y CABA,1914,125.34
+42,La Pampa,Pampeana y CABA,1937,98.56
+42,La Pampa,Pampeana y CABA,1946,101.77
+42,La Pampa,Pampeana y CABA,1953,108.2
+42,La Pampa,Pampeana y CABA,1965,137.12
+42,La Pampa,Pampeana y CABA,1975,85.7
+42,La Pampa,Pampeana y CABA,1986,146.77
+42,La Pampa,Pampeana y CABA,1993,113.56
+42,La Pampa,Pampeana y CABA,2004,113.56
+42,La Pampa,Pampeana y CABA,2005,125.6
+42,La Pampa,Pampeana y CABA,2006,117.29
+42,La Pampa,Pampeana y CABA,2007,122
+42,La Pampa,Pampeana y CABA,2008,127.32
+42,La Pampa,Pampeana y CABA,2009,125.45
+42,La Pampa,Pampeana y CABA,2010,122.21
+42,La Pampa,Pampeana y CABA,2011,124.16
+42,La Pampa,Pampeana y CABA,2012,126.23
+42,La Pampa,Pampeana y CABA,2013,124.88
+42,La Pampa,Pampeana y CABA,2014,121.41
+42,La Pampa,Pampeana y CABA,2015,124.83
+42,La Pampa,Pampeana y CABA,2016,132.29
+42,La Pampa,Pampeana y CABA,2017,125.37
+42,La Pampa,Pampeana y CABA,2018,126.86
+42,La Pampa,Pampeana y CABA,2019,132.19
+42,La Pampa,Pampeana y CABA,2020,131.98
+42,La Pampa,Pampeana y CABA,2021,129.24
+42,La Pampa,Pampeana y CABA,2022,134.59
+46,La Rioja,NOA,1895,47.67
+46,La Rioja,NOA,1914,77.34
+46,La Rioja,NOA,1937,37.08
+46,La Rioja,NOA,1946,45.56
+46,La Rioja,NOA,1953,43.44
+46,La Rioja,NOA,1965,37.08
+46,La Rioja,NOA,1975,69.92
+46,La Rioja,NOA,1986,90.05
+46,La Rioja,NOA,1993,81.58
+46,La Rioja,NOA,2004,75.22
+46,La Rioja,NOA,2005,73.87
+46,La Rioja,NOA,2006,71.63
+46,La Rioja,NOA,2007,72.36
+46,La Rioja,NOA,2008,68.36
+46,La Rioja,NOA,2009,69.54000000000001
+46,La Rioja,NOA,2010,69.46000000000001
+46,La Rioja,NOA,2011,69.26000000000001
+46,La Rioja,NOA,2012,67.48999999999999
+46,La Rioja,NOA,2013,68.92
+46,La Rioja,NOA,2014,67.51000000000001
+46,La Rioja,NOA,2015,66.97
+46,La Rioja,NOA,2016,67.27
+46,La Rioja,NOA,2017,67.48999999999999
+46,La Rioja,NOA,2018,66.67
+46,La Rioja,NOA,2019,65.84
+46,La Rioja,NOA,2020,64.34
+46,La Rioja,NOA,2021,64.06
+46,La Rioja,NOA,2022,66.08
+50,Mendoza,Cuyo,1895,120.03
+50,Mendoza,Cuyo,1914,83.72
+50,Mendoza,Cuyo,1937,67.58
+50,Mendoza,Cuyo,1946,99.86
+50,Mendoza,Cuyo,1953,99.86
+50,Mendoza,Cuyo,1965,92.8
+50,Mendoza,Cuyo,1975,105.91
+50,Mendoza,Cuyo,1986,61.53
+50,Mendoza,Cuyo,1993,90.78
+50,Mendoza,Cuyo,2004,90.78
+50,Mendoza,Cuyo,2005,86.08
+50,Mendoza,Cuyo,2006,87.85000000000001
+50,Mendoza,Cuyo,2007,86.54000000000001
+50,Mendoza,Cuyo,2008,86.54000000000001
+50,Mendoza,Cuyo,2009,86.51000000000001
+50,Mendoza,Cuyo,2010,82.19
+50,Mendoza,Cuyo,2011,82.3
+50,Mendoza,Cuyo,2012,84.03
+50,Mendoza,Cuyo,2013,82.69
+50,Mendoza,Cuyo,2014,82
+50,Mendoza,Cuyo,2015,82.64
+50,Mendoza,Cuyo,2016,80.35000000000001
+50,Mendoza,Cuyo,2017,79.21000000000001
+50,Mendoza,Cuyo,2018,81.32000000000001
+50,Mendoza,Cuyo,2019,81.48
+50,Mendoza,Cuyo,2020,78.51000000000001
+50,Mendoza,Cuyo,2021,75.56
+50,Mendoza,Cuyo,2022,74.10000000000001
+54,Misiones,NEA,1895,78.7
+54,Misiones,NEA,1914,46.6
+54,Misiones,NEA,1937,49.7
+54,Misiones,NEA,1946,61.09
+54,Misiones,NEA,1953,48.67
+54,Misiones,NEA,1965,44.53
+54,Misiones,NEA,1975,77.66
+54,Misiones,NEA,1986,62.13
+54,Misiones,NEA,1993,56.95
+54,Misiones,NEA,2004,48.67
+54,Misiones,NEA,2005,47.39
+54,Misiones,NEA,2006,46.4
+54,Misiones,NEA,2007,44.85
+54,Misiones,NEA,2008,42.74
+54,Misiones,NEA,2009,42.94
+54,Misiones,NEA,2010,42.08
+54,Misiones,NEA,2011,42.41
+54,Misiones,NEA,2012,43.44
+54,Misiones,NEA,2013,44.26
+54,Misiones,NEA,2014,45.38
+54,Misiones,NEA,2015,45.4
+54,Misiones,NEA,2016,45.22
+54,Misiones,NEA,2017,45.08
+54,Misiones,NEA,2018,45.57
+54,Misiones,NEA,2019,45.11
+54,Misiones,NEA,2020,47.87
+54,Misiones,NEA,2021,48.5
+54,Misiones,NEA,2022,47.86
+58,Neuquén,Patagonia,1895,40.75
+58,Neuquén,Patagonia,1914,75.23
+58,Neuquén,Patagonia,1937,74.18000000000001
+58,Neuquén,Patagonia,1946,75.23
+58,Neuquén,Patagonia,1953,65.82000000000001
+58,Neuquén,Patagonia,1965,62.69
+58,Neuquén,Patagonia,1975,145.23
+58,Neuquén,Patagonia,1986,105.53
+58,Neuquén,Patagonia,1993,141.05
+58,Neuquén,Patagonia,2004,242.4
+58,Neuquén,Patagonia,2005,217.29
+58,Neuquén,Patagonia,2006,206.98
+58,Neuquén,Patagonia,2007,194.6
+58,Neuquén,Patagonia,2008,187.08
+58,Neuquén,Patagonia,2009,187.29
+58,Neuquén,Patagonia,2010,169.51
+58,Neuquén,Patagonia,2011,159.92
+58,Neuquén,Patagonia,2012,154.93
+58,Neuquén,Patagonia,2013,150.61
+58,Neuquén,Patagonia,2014,158.14
+58,Neuquén,Patagonia,2015,161.4
+58,Neuquén,Patagonia,2016,161.39
+58,Neuquén,Patagonia,2017,155.71
+58,Neuquén,Patagonia,2018,169.09
+58,Neuquén,Patagonia,2019,187.01
+58,Neuquén,Patagonia,2020,191.3
+58,Neuquén,Patagonia,2021,208.67
+58,Neuquén,Patagonia,2022,236.1
+62,Río Negro,Patagonia,1895,78.16
+62,Río Negro,Patagonia,1914,96.92
+62,Río Negro,Patagonia,1937,75.04000000000001
+62,Río Negro,Patagonia,1946,90.67
+62,Río Negro,Patagonia,1953,141.74
+62,Río Negro,Patagonia,1965,93.8
+62,Río Negro,Patagonia,1975,108.39
+62,Río Negro,Patagonia,1986,108.39
+62,Río Negro,Patagonia,1993,93.8
+62,Río Negro,Patagonia,2004,91.71000000000001
+62,Río Negro,Patagonia,2005,91.62
+62,Río Negro,Patagonia,2006,92.88
+62,Río Negro,Patagonia,2007,89.73
+62,Río Negro,Patagonia,2008,87.75
+62,Río Negro,Patagonia,2009,89.81
+62,Río Negro,Patagonia,2010,86.06
+62,Río Negro,Patagonia,2011,87.43000000000001
+62,Río Negro,Patagonia,2012,90
+62,Río Negro,Patagonia,2013,90.59
+62,Río Negro,Patagonia,2014,90.05
+62,Río Negro,Patagonia,2015,90.02
+62,Río Negro,Patagonia,2016,89.08
+62,Río Negro,Patagonia,2017,87.56
+62,Río Negro,Patagonia,2018,90.18000000000001
+62,Río Negro,Patagonia,2019,89.86
+62,Río Negro,Patagonia,2020,90.04000000000001
+62,Río Negro,Patagonia,2021,86.47
+62,Río Negro,Patagonia,2022,85.44
+66,Salta,NOA,1895,60.85
+66,Salta,NOA,1914,64.90000000000001
+66,Salta,NOA,1937,64.90000000000001
+66,Salta,NOA,1946,58.82
+66,Salta,NOA,1953,58.82
+66,Salta,NOA,1965,59.83
+66,Salta,NOA,1975,60.85
+66,Salta,NOA,1986,60.85
+66,Salta,NOA,1993,54.76
+66,Salta,NOA,2004,58.82
+66,Salta,NOA,2005,57.72
+66,Salta,NOA,2006,58.8
+66,Salta,NOA,2007,58.31
+66,Salta,NOA,2008,58.44
+66,Salta,NOA,2009,59.21
+66,Salta,NOA,2010,57.98
+66,Salta,NOA,2011,57.79
+66,Salta,NOA,2012,55.45
+66,Salta,NOA,2013,51.79
+66,Salta,NOA,2014,55.44
+66,Salta,NOA,2015,57.96
+66,Salta,NOA,2016,57.1
+66,Salta,NOA,2017,57.56
+66,Salta,NOA,2018,58.37
+66,Salta,NOA,2019,59.73
+66,Salta,NOA,2020,60.98
+66,Salta,NOA,2021,59.48
+66,Salta,NOA,2022,59.19
+70,San Juan,Cuyo,1895,127.55
+70,San Juan,Cuyo,1914,68.03
+70,San Juan,Cuyo,1937,51.02
+70,San Juan,Cuyo,1946,85.03
+70,San Juan,Cuyo,1953,70.15000000000001
+70,San Juan,Cuyo,1965,73.34
+70,San Juan,Cuyo,1975,62.71
+70,San Juan,Cuyo,1986,60.59
+70,San Juan,Cuyo,1993,72.28
+70,San Juan,Cuyo,2004,68.03
+70,San Juan,Cuyo,2005,68.34
+70,San Juan,Cuyo,2006,71.06
+70,San Juan,Cuyo,2007,70.10000000000001
+70,San Juan,Cuyo,2008,72.25
+70,San Juan,Cuyo,2009,77.44
+70,San Juan,Cuyo,2010,82.04000000000001
+70,San Juan,Cuyo,2011,81.85000000000001
+70,San Juan,Cuyo,2012,83.7
+70,San Juan,Cuyo,2013,83.86
+70,San Juan,Cuyo,2014,81.26000000000001
+70,San Juan,Cuyo,2015,76.44
+70,San Juan,Cuyo,2016,74.38
+70,San Juan,Cuyo,2017,74.12
+70,San Juan,Cuyo,2018,74.98999999999999
+70,San Juan,Cuyo,2019,73.81
+70,San Juan,Cuyo,2020,73.59
+70,San Juan,Cuyo,2021,73.98
+70,San Juan,Cuyo,2022,75.36
+74,San Luis,Cuyo,1895,47.26
+74,San Luis,Cuyo,1914,93.48999999999999
+74,San Luis,Cuyo,1937,48.29
+74,San Luis,Cuyo,1946,47.26
+74,San Luis,Cuyo,1953,53.42
+74,San Luis,Cuyo,1965,66.78
+74,San Luis,Cuyo,1975,60.62
+74,San Luis,Cuyo,1986,144.86
+74,San Luis,Cuyo,1993,117.12
+74,San Luis,Cuyo,2004,104.79
+74,San Luis,Cuyo,2005,101.52
+74,San Luis,Cuyo,2006,96.85000000000001
+74,San Luis,Cuyo,2007,94.97
+74,San Luis,Cuyo,2008,94.09
+74,San Luis,Cuyo,2009,93.98
+74,San Luis,Cuyo,2010,90.78
+74,San Luis,Cuyo,2011,91.19
+74,San Luis,Cuyo,2012,90.91
+74,San Luis,Cuyo,2013,94.94
+74,San Luis,Cuyo,2014,94.19
+74,San Luis,Cuyo,2015,96.59
+74,San Luis,Cuyo,2016,95.41
+74,San Luis,Cuyo,2017,94.03
+74,San Luis,Cuyo,2018,91.04000000000001
+74,San Luis,Cuyo,2019,89.98999999999999
+74,San Luis,Cuyo,2020,86.82000000000001
+74,San Luis,Cuyo,2021,92.17
+74,San Luis,Cuyo,2022,91.38
+78,Santa Cruz,Patagonia,1895,187.5
+78,Santa Cruz,Patagonia,1914,207.34
+78,Santa Cruz,Patagonia,1937,131.94
+78,Santa Cruz,Patagonia,1946,157.74
+78,Santa Cruz,Patagonia,1953,198.41
+78,Santa Cruz,Patagonia,1965,272.81
+78,Santa Cruz,Patagonia,1975,167.66
+78,Santa Cruz,Patagonia,1986,163.69
+78,Santa Cruz,Patagonia,1993,185.51
+78,Santa Cruz,Patagonia,2004,308.53
+78,Santa Cruz,Patagonia,2005,281.52
+78,Santa Cruz,Patagonia,2006,277.69
+78,Santa Cruz,Patagonia,2007,251.03
+78,Santa Cruz,Patagonia,2008,236.31
+78,Santa Cruz,Patagonia,2009,250.13
+78,Santa Cruz,Patagonia,2010,226.9
+78,Santa Cruz,Patagonia,2011,210.35
+78,Santa Cruz,Patagonia,2012,224.23
+78,Santa Cruz,Patagonia,2013,217.64
+78,Santa Cruz,Patagonia,2014,220.39
+78,Santa Cruz,Patagonia,2015,230.38
+78,Santa Cruz,Patagonia,2016,214.12
+78,Santa Cruz,Patagonia,2017,200.58
+78,Santa Cruz,Patagonia,2018,200.08
+78,Santa Cruz,Patagonia,2019,195.89
+78,Santa Cruz,Patagonia,2020,185.77
+78,Santa Cruz,Patagonia,2021,176.13
+78,Santa Cruz,Patagonia,2022,170.89
+82,Santa Fe,Pampeana y CABA,1895,135.61
+82,Santa Fe,Pampeana y CABA,1914,107.52
+82,Santa Fe,Pampeana y CABA,1937,102.68
+82,Santa Fe,Pampeana y CABA,1946,86.21000000000001
+82,Santa Fe,Pampeana y CABA,1953,87.18000000000001
+82,Santa Fe,Pampeana y CABA,1965,96.87
+82,Santa Fe,Pampeana y CABA,1975,92.02
+82,Santa Fe,Pampeana y CABA,1986,91.05
+82,Santa Fe,Pampeana y CABA,1993,89.12
+82,Santa Fe,Pampeana y CABA,2004,103.65
+82,Santa Fe,Pampeana y CABA,2005,105.42
+82,Santa Fe,Pampeana y CABA,2006,103.33
+82,Santa Fe,Pampeana y CABA,2007,102.83
+82,Santa Fe,Pampeana y CABA,2008,102.35
+82,Santa Fe,Pampeana y CABA,2009,97.57000000000001
+82,Santa Fe,Pampeana y CABA,2010,103.05
+82,Santa Fe,Pampeana y CABA,2011,100.83
+82,Santa Fe,Pampeana y CABA,2012,98.92
+82,Santa Fe,Pampeana y CABA,2013,101.31
+82,Santa Fe,Pampeana y CABA,2014,99.87
+82,Santa Fe,Pampeana y CABA,2015,99.40000000000001
+82,Santa Fe,Pampeana y CABA,2016,96.44
+82,Santa Fe,Pampeana y CABA,2017,99.72
+82,Santa Fe,Pampeana y CABA,2018,98.08
+82,Santa Fe,Pampeana y CABA,2019,100.96
+82,Santa Fe,Pampeana y CABA,2020,102.1
+82,Santa Fe,Pampeana y CABA,2021,104.08
+82,Santa Fe,Pampeana y CABA,2022,100.75
+86,Santiago del Estero,NOA,1895,44.36
+86,Santiago del Estero,NOA,1914,45.42
+86,Santiago del Estero,NOA,1937,36.97
+86,Santiago del Estero,NOA,1946,38.02
+86,Santiago del Estero,NOA,1953,42.25
+86,Santiago del Estero,NOA,1965,32.74
+86,Santiago del Estero,NOA,1975,50.7
+86,Santiago del Estero,NOA,1986,30.63
+86,Santiago del Estero,NOA,1993,46.47
+86,Santiago del Estero,NOA,2004,57.03
+86,Santiago del Estero,NOA,2005,52.73
+86,Santiago del Estero,NOA,2006,60.56
+86,Santiago del Estero,NOA,2007,62.87
+86,Santiago del Estero,NOA,2008,63.27
+86,Santiago del Estero,NOA,2009,57.55
+86,Santiago del Estero,NOA,2010,69.09
+86,Santiago del Estero,NOA,2011,69.48
+86,Santiago del Estero,NOA,2012,64.87
+86,Santiago del Estero,NOA,2013,71.33
+86,Santiago del Estero,NOA,2014,84.11
+86,Santiago del Estero,NOA,2015,80.56
+86,Santiago del Estero,NOA,2016,84.7
+86,Santiago del Estero,NOA,2017,87.48
+86,Santiago del Estero,NOA,2018,79.21000000000001
+86,Santiago del Estero,NOA,2019,84.60000000000001
+86,Santiago del Estero,NOA,2020,84.86
+86,Santiago del Estero,NOA,2021,82.57000000000001
+86,Santiago del Estero,NOA,2022,83.81
+90,Tucumán,NOA,1895,125.96
+90,Tucumán,NOA,1914,73.91
+90,Tucumán,NOA,1937,66.62
+90,Tucumán,NOA,1946,60.38
+90,Tucumán,NOA,1953,67.66
+90,Tucumán,NOA,1965,42.68
+90,Tucumán,NOA,1975,88.48
+90,Tucumán,NOA,1986,52.05
+90,Tucumán,NOA,1993,59.34
+90,Tucumán,NOA,2004,48.93
+90,Tucumán,NOA,2005,49.57
+90,Tucumán,NOA,2006,51.12
+90,Tucumán,NOA,2007,50.92
+90,Tucumán,NOA,2008,51.78
+90,Tucumán,NOA,2009,52.62
+90,Tucumán,NOA,2010,50.96
+90,Tucumán,NOA,2011,52.33
+90,Tucumán,NOA,2012,52.46
+90,Tucumán,NOA,2013,50.97
+90,Tucumán,NOA,2014,50.69
+90,Tucumán,NOA,2015,50.63
+90,Tucumán,NOA,2016,52.49
+90,Tucumán,NOA,2017,52.74
+90,Tucumán,NOA,2018,54.63
+90,Tucumán,NOA,2019,55.86
+90,Tucumán,NOA,2020,55.73
+90,Tucumán,NOA,2021,55.06
+90,Tucumán,NOA,2022,52.34
+94,Tierra del Fuego,Patagonia,1895,168.43
+94,Tierra del Fuego,Patagonia,1914,193.8
+94,Tierra del Fuego,Patagonia,1937,221.19
+94,Tierra del Fuego,Patagonia,1946,258.74
+94,Tierra del Fuego,Patagonia,1953,251.63
+94,Tierra del Fuego,Patagonia,1965,248.59
+94,Tierra del Fuego,Patagonia,1975,293.23
+94,Tierra del Fuego,Patagonia,1986,426.15
+94,Tierra del Fuego,Patagonia,1993,286.13
+94,Tierra del Fuego,Patagonia,2004,275.99
+94,Tierra del Fuego,Patagonia,2005,270.66
+94,Tierra del Fuego,Patagonia,2006,279.92
+94,Tierra del Fuego,Patagonia,2007,264.77
+94,Tierra del Fuego,Patagonia,2008,250.67
+94,Tierra del Fuego,Patagonia,2009,235.74
+94,Tierra del Fuego,Patagonia,2010,264.86
+94,Tierra del Fuego,Patagonia,2011,305.71
+94,Tierra del Fuego,Patagonia,2012,327.88
+94,Tierra del Fuego,Patagonia,2013,315.39
+94,Tierra del Fuego,Patagonia,2014,280.8
+94,Tierra del Fuego,Patagonia,2015,277.86
+94,Tierra del Fuego,Patagonia,2016,266.25
+94,Tierra del Fuego,Patagonia,2017,256.97
+94,Tierra del Fuego,Patagonia,2018,257.5
+94,Tierra del Fuego,Patagonia,2019,233.35
+94,Tierra del Fuego,Patagonia,2020,237.69
+94,Tierra del Fuego,Patagonia,2021,243.12
+94,Tierra del Fuego,Patagonia,2022,245.98

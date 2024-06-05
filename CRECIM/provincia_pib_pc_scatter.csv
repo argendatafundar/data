@@ -1,0 +1,25 @@
+provincia_id,provincia_nombre,region_pbg,pib_pc_1895,var_pib_pc_1895_2022
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,6085.6,6.3541369
+06,Buenos Aires,Pampeana y CABA,4450.54,2.4698968
+10,Catamarca,NOA,1945.9,4.6033926
+14,Córdoba,Pampeana y CABA,3427.74,3.9072452
+18,Corrientes,NEA,2640.39,2.5475399
+22,Chaco,NEA,4856.74,1.6519899
+26,Chubut,Patagonia,3232.41,5.5978689
+30,Entre Ríos,Pampeana y CABA,4143,2.8704143
+34,Formosa,NEA,5725.42,1.0922985
+38,Jujuy,NOA,2807.36,2.9520504
+42,La Pampa,Pampeana y CABA,4493.36,3.9129281
+46,La Rioja,NOA,2082.98,4.1444268
+50,Mendoza,Cuyo,5244.43,1.845799
+54,Misiones,NEA,3438.37,1.8185916
+58,Neuquén,Patagonia,1780.35,17.324471
+62,Río Negro,Patagonia,3415.03,3.268249
+66,Salta,NOA,2658.46,2.908788
+70,San Juan,Cuyo,5572.85,1.7665701
+74,San Luis,Cuyo,2064.84,5.7815757
+78,Santa Cruz,Patagonia,8192.01,2.7252314
+82,Santa Fe,Pampeana y CABA,5925.09,2.2213862
+86,Santiago del Estero,NOA,1938.14,5.6488047
+90,Tucumán,NOA,5503.23,1.2424283
+94,Tierra del Fuego,Patagonia,7359.03,4.3667049

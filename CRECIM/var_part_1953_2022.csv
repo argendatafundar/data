@@ -1,0 +1,25 @@
+provincia_id,provincia_nombre,region_pbg,var_participacion
+02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,-.10584781
+06,Buenos Aires,Pampeana y CABA,.018918246
+10,Catamarca,NOA,.002732018
+14,Córdoba,Pampeana y CABA,.019065507
+18,Corrientes,NEA,-.0010978235
+22,Chaco,NEA,-.0023358017
+26,Chubut,Patagonia,.0092571471
+30,Entre Ríos,Pampeana y CABA,-.0023063477
+34,Formosa,NEA,.0012899688
+38,Jujuy,NOA,.0020184657
+42,La Pampa,Pampeana y CABA,.00055619329
+46,La Rioja,NOA,.0028101746
+50,Mendoza,Cuyo,-.0067030974
+54,Misiones,NEA,.0047435788
+58,Neuquén,Patagonia,.031100111
+62,Río Negro,Patagonia,.0042947251
+66,Salta,NOA,.007170992
+70,San Juan,Cuyo,.00092103705
+74,San Luis,Cuyo,.0050918134
+78,Santa Cruz,Patagonia,.0092201792
+82,Santa Fe,Pampeana y CABA,-.0097595081
+86,Santiago del Estero,NOA,.0063831983
+90,Tucumán,NOA,-.0061923303
+94,Tierra del Fuego,Patagonia,.0086693708
