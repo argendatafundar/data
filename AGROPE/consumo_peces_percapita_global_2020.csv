@@ -1,0 +1,190 @@
+"iso3","iso3_desc_fundar","pescado_mariscos"
+"HIC","Países de ingreso alto",26.934196
+"LIC","Países de ingreso bajo",5.259969
+"LMC","Países de ingreso medio bajo",14.936611
+"AFG","Afganistán",0.35959464
+"AGO","Angola",13.902185
+"ALB","Albania",8.683039
+"ARE","Emiratos Árabes Unidos",27.017523
+"ARG","Argentina",6.804048
+"ARM","Armenia",5.7878876
+"ATG","Antigua y Barbuda",57.116673
+"AUS","Australia",23.940237
+"AUT","Austria",14.448209
+"AZE","Azerbaiyán",2.0110862
+"BDI","Burundi",2.5299058
+"BEL","Bélgica",22.754787
+"BEN","Benin",15.552987
+"BFA","Burkina Faso",8.663307
+"BGD","Bangladesh",26.27421
+"BGR","Bulgaria",7.327582
+"BHR","Bahrein",18.74933
+"BHS","Bahamas",23.421537
+"BIH","Bosnia y Herzegovina",7.187648
+"BLR","Belarús",11.623149
+"BLZ","Belice",13.35062
+"BOL","Bolivia",2.73827
+"BRA","Brasil",8.055862
+"BRB","Barbados",43.879345
+"BTN","Bhután",7.311453
+"BWA","Botswana",2.3918912
+"CAF","República Centroafricana",6.6620336
+"CAN","Canadá",20.649815
+"CHE","Suiza",16.029655
+"CHL","Chile",14.6291
+"CHN","China",40.333355
+"CIV","Costa de Marfil",22.795362
+"CMR","Camerún",19.179571
+"COD","República Democrática del Congo",4.022168
+"COG","Congo",23.670317
+"COL","Colombia",8.881663
+"COM","Comoras",15.435959
+"CPV","Cabo Verde",10.305901
+"CRI","Costa Rica",17.848438
+"CUB","Cuba",6.073902
+"CYP","Chipre",24.858616
+"CZE","Chequia",10.63683
+"DEU","Alemania",12.658737
+"DJI","Djibouti",3.1901314
+"DMA","Dominica",27.851875
+"DNK","Dinamarca",26.298183
+"DOM","República Dominicana",8.372867
+"DZA","Argelia",3.8147426
+"ECU","Ecuador",8.24545
+"EGY","Egipto",25.796637
+"ESP","España",40.295116
+"EST","Estonia",14.617944
+"ETH","Etiopía",0.5297368
+"FIN","Finlandia",33.51807
+"FJI","Fiji",28.887266
+"FRA","Francia",33.638912
+"FSM","Micronesia",48.605923
+"GAB","Gabón",27.863092
+"GBR","Reino Unido",18.130749
+"GEO","Georgia",10.614025
+"GHA","Ghana",24.08171
+"GIN","Guinea",9.646849
+"GMB","Gambia",23.640882
+"GNB","Guinea-Bissau",1.1422341
+"GRC","Grecia",21.535734
+"GRD","Granada",30.779413
+"GTM","Guatemala",3.0748875
+"GUY","Guyana",24.636202
+"HKG","Hong Kong",65.78512
+"HND","Honduras",2.5246487
+"HRV","Croacia",19.139153
+"HTI","Haití",5.0322466
+"HUN","Hungría",6.2912436
+"IDN","Indonesia",44.712276
+"IND","India",7.886377
+"IRL","Irlanda",22.521992
+"IRN","Irán",12.143301
+"IRQ","Iraq",2.9184074
+"ISL","Islandia",84.30447
+"ISR","Israel",24.432203
+"ITA","Italia",29.64125
+"JAM","Jamaica",26.415413
+"JOR","Jordania",4.789403
+"JPN","Japón",46.654346
+"KAZ","Kazajistán",2.7305465
+"KEN","Kenia",2.9789176
+"KGZ","Kirguistán",1.0966938
+"KHM","Camboya",46.64873
+"KIR","Kiribati",69.22023
+"KNA","Saint Kitts y Nevis",43.349308
+"KOR","Corea del Sur",54.656467
+"KWT","Kuwait",13.691833
+"LAO","Laos",24.005362
+"LBN","Líbano",10.51009
+"LBR","Liberia",4.2747197
+"LBY","Libia",14.725788
+"LCA","Santa Lucía",34.44247
+"LKA","Sri Lanka",28.567335
+"LSO","Lesotho",2.8511329
+"LTU","Lituania",31.892159
+"LUX","Luxemburgo",31.467758
+"LVA","Letonia",24.866865
+"MAC","Macao",70.26411
+"MAR","Marruecos",18.48105
+"MDA","Moldavia",15.247419
+"MDG","Madagascar",3.885057
+"MDV","Maldivas",87.30368
+"MEX","México",13.947438
+"MKD","Macedonia del Norte",6.128494
+"MLI","Malí",8.148405
+"MLT","Malta",19.568254
+"MMR","Myanmar",45.851414
+"MNE","Montenegro",15.555531
+"MNG","Mongolia",0.56722295
+"MOZ","Mozambique",13.463253
+"MRT","Mauritania",8.7234
+"MUS","Mauricio",23.50829
+"MWI","Malawi",10.010689
+"MYS","Malasia",53.32593
+"NAM","Namibia",12.106867
+"NCL","Nueva Caledonia",23.335457
+"NER","Níger",1.8502922
+"NGA","Nigeria",6.679113
+"NIC","Nicaragua",6.5010977
+"NLD","Países Bajos",21.484236
+"NOR","Noruega",50.566196
+"NPL","Nepal",3.4945953
+"NRU","Nauru",44.747917
+"NZL","Nueva Zelanda",25.153843
+"OMN","Omán",29.301771
+"WLD","Mundo",20.250551
+"PAK","Pakistán",1.5847697
+"PAN","Panamá",13.744919
+"PER","Perú",26.829107
+"PHL","Filipinas",28.393742
+"PNG","Papua Nueva Guinea",13.407258
+"POL","Polonia",12.271371
+"PRK","Corea del Norte",10.9623
+"PRT","Portugal",59.35927
+"PRY","Paraguay",4.321315
+"PYF","Polinesia Francesa",43.95048
+"QAT","Qatar",21.980558
+"ROU","Rumania",8.232551
+"RUS","Rusia",21.757278
+"RWA","Rwanda",4.492657
+"SAU","Arabia Saudita",11.354102
+"SDN","Sudán",1.1248338
+"SEN","Senegal",12.122858
+"SLB","Islas Salomón",27.884705
+"SLE","Sierra Leona",24.704111
+"SLV","El Salvador",6.7410684
+"SRB","Serbia",7.956007
+"SSD","Sudán del Sur",3.0817466
+"STP","Santo Tomé y Príncipe",27.714493
+"SUR","Surinam",15.944499
+"SVK","Eslovaquia",10.205531
+"SVN","Eslovenia",12.968537
+"SWE","Suecia",31.342962
+"SWZ","Eswatini",4.205675
+"SYC","Seychelles",52.89067
+"SYR","Siria",1.8366231
+"TCD","Chad",6.5132217
+"TGO","Togo",11.463107
+"THA","Tailandia",28.476368
+"TJK","Tayikistán",0.65961546
+"TKM","Turkmenistán",2.7114358
+"TLS","Timor Oriental",6.511075
+"TTO","Trinidad y Tabago",21.746298
+"TUN","Túnez",13.653629
+"TUR","Turquía",5.5333605
+"TWN","Taiwán",29.754143
+"TZA","Tanzania",6.234363
+"UGA","Uganda",14.771578
+"UKR","Ucrania",13.704878
+"URY","Uruguay",9.258993
+"USA","Estados Unidos",22.45492
+"UZB","Uzbekistán",4.023093
+"VCT","San Vicente y las Granadinas",20.588423
+"VEN","Venezuela",10.180481
+"VNM","Vietnam",39.84239
+"VUT","Vanuatu",28.566442
+"WSM","Samoa",43.968235
+"YEM","Yemen",2.7346277
+"ZAF","Sudáfrica",6.515673
+"ZMB","Zambia",12.684813
+"ZWE","Zimbabwe",2.8170915
