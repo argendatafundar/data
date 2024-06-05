@@ -1,0 +1,749 @@
+anio,codigo,nivel,rubro,precio_relativo
+2013,01,1,Alimentos y bebidas no alcohólicas,100
+2013,01.1,2,Alimentos,100
+2013,01.1.1,3,Pan y cereales,100
+2013,01.1.2,3,Carnes y derivados,100
+2013,01.1.3,3,Pescados y mariscos,100
+2013,01.1.4,3,"Leche, productos lácteos y huevos",100
+2013,01.1.5,3,"Aceites, mantecas y otras grasas",100
+2013,01.1.6,3,Frutas,100
+2013,01.1.7,3,"Verduras, tubérculos y legumbres",99.999992
+2013,01.1.8,3,"Azúcar, repostería y postres",100
+2013,01.1.9,3,Otros alimentos,100
+2013,01.2,2,Bebidas no alcohólicas,99.999992
+2013,02,1,Bebidas alcohólicas y tabaco,100
+2013,02.1,2,Bebidas alcohólicas,100
+2013,02.1.1,3,Vinos,100
+2013,02.1.2,3,Cerveza,100
+2013,02.2,2,Tabaco,99.999992
+2013,03,1,Prendas de vestir y calzado,100
+2013,03.1,2,Prendas de vestir,100
+2013,03.2,2,Calzado,100
+2013,04,1,"Vivienda, agua, electricidad, gas y otros combustibles",100
+2013,04.1,2,Alquiler de la vivienda,100
+2013,04.2,2,Mantenimiento y reparación de la vivienda,100
+2013,04.3,2,Suministro de agua y otros servicios relacionados con la vivienda,100
+2013,04.3.1,3,Suministro de agua,100
+2013,04.3.2,3,Gastos comunes por la vivienda,99.999992
+2013,04.4,2,"Electricidad, gas y otros combustibles",100
+2013,04.4.1,3,Electricidad,99.999992
+2013,04.4.2,3,Gas,100
+2013,05,1,Equipamiento y mantenimiento del hogar,100.00001
+2013,05.1,2,"Muebles, accesorios y alfombras",100
+2013,05.2,2,Artículos textiles para el hogar,100
+2013,05.3,2,Electrodomésticos,100
+2013,05.4,2,"Cristalería, vajilla y utensilios para el hogar",100
+2013,05.5,2,Herramientas y accesorios para la casa y el jardín,100
+2013,05.6,2,Bienes y servicios para la conservación del hogar,100
+2013,06,1,Salud,100.00001
+2013,06.1,2,Medicamentos y productos medicinales,100
+2013,06.1.1,3,Medicamentos,100
+2013,06.1.2,3,Productos medicinales,100
+2013,06.1.3,3,Artefactos y equipos terapéuticos,100
+2013,06.1.4,3,Servicios para pacientes externos,100
+2013,06.2,2,Seguros médicos,100.00001
+2013,07,1,Transporte,100
+2013,07.1,2,Adquisición de vehículos,100.00001
+2013,07.2,2,Funcionamiento de equipos de transporte personal,100
+2013,07.3,2,Servicios de transporte de pasajeros,100
+2013,07.3.1,3,Transporte de pasajeros por ferrocarril,100
+2013,07.3.2,3,Transporte de pasajeros por carretera,100
+2013,07.3.3,3,Transporte de pasajeros por aire,100
+2013,08,1,Información y comunicación,100
+2013,09,1,Recreación y cultura,100
+2013,09.1,2,Productos de recreación,100
+2013,09.2,2,Servicios de recreación,100
+2013,09.3,2,Servicios culturales,100
+2013,09.4,2,"Diarios, libros y artículos de papelería y dibujo",100
+2013,09.5,2,Paquetes turísticos,100
+2013,10,1,Educación,100
+2013,11,1,Restaurantes y hoteles,100
+2013,11.1,2,Servicios de alimentos y bebidas preparadas fuera del hogar,99.999992
+2013,11.2,2,Servicios de alojamiento,100
+2013,12,1,Seguros y servicios financieros,100
+2013,12.1,2,Seguros,100
+2013,12.2,2,Servicios financieros,100
+2013,13,1,"Cuidado personal, protección social y otros productos",100
+2013,13.1,2,Cuidado personal,99.999992
+2013,13.2,2,Efectos personales,100
+2013,13.3,2,Otros servicios,100
+2014,01,1,Alimentos y bebidas no alcohólicas,101.31055
+2014,01.1,2,Alimentos,101.11613
+2014,01.1.1,3,Pan y cereales,102.73653
+2014,01.1.2,3,Carnes y derivados,102.18212
+2014,01.1.3,3,Pescados y mariscos,102.17252
+2014,01.1.4,3,"Leche, productos lácteos y huevos",99.852364
+2014,01.1.5,3,"Aceites, mantecas y otras grasas",92.963455
+2014,01.1.6,3,Frutas,104.85819
+2014,01.1.7,3,"Verduras, tubérculos y legumbres",97.300362
+2014,01.1.8,3,"Azúcar, repostería y postres",101.24849
+2014,01.1.9,3,Otros alimentos,101.57272
+2014,01.2,2,Bebidas no alcohólicas,102.68903
+2014,02,1,Bebidas alcohólicas y tabaco,100.03145
+2014,02.1,2,Bebidas alcohólicas,93.590828
+2014,02.1.1,3,Vinos,90.910782
+2014,02.1.2,3,Cerveza,102.39462
+2014,02.2,2,Tabaco,105.35019
+2014,03,1,Prendas de vestir y calzado,101.73234
+2014,03.1,2,Prendas de vestir,103.07836
+2014,03.2,2,Calzado,97.411324
+2014,04,1,"Vivienda, agua, electricidad, gas y otros combustibles",98.882294
+2014,04.1,2,Alquiler de la vivienda,91.77565
+2014,04.2,2,Mantenimiento y reparación de la vivienda,116.96667
+2014,04.3,2,Suministro de agua y otros servicios relacionados con la vivienda,98.899078
+2014,04.3.1,3,Suministro de agua,148.59624
+2014,04.3.2,3,Gastos comunes por la vivienda,92.900314
+2014,04.4,2,"Electricidad, gas y otros combustibles",103.86873
+2014,04.4.1,3,Electricidad,72.630257
+2014,04.4.2,3,Gas,145.15059
+2014,05,1,Equipamiento y mantenimiento del hogar,98.407822
+2014,05.1,2,"Muebles, accesorios y alfombras",102.01956
+2014,05.2,2,Artículos textiles para el hogar,102.54133
+2014,05.3,2,Electrodomésticos,106.14868
+2014,05.4,2,"Cristalería, vajilla y utensilios para el hogar",109.99607
+2014,05.5,2,Herramientas y accesorios para la casa y el jardín,106.78469
+2014,05.6,2,Bienes y servicios para la conservación del hogar,94.246521
+2014,06,1,Salud,94.0214
+2014,06.1,2,Medicamentos y productos medicinales,94.763878
+2014,06.1.1,3,Medicamentos,93.726181
+2014,06.1.2,3,Productos medicinales,97.565613
+2014,06.1.3,3,Artefactos y equipos terapéuticos,101.23816
+2014,06.1.4,3,Servicios para pacientes externos,94.604576
+2014,06.2,2,Seguros médicos,93.055359
+2014,07,1,Transporte,108.76828
+2014,07.1,2,Adquisición de vehículos,108.50992
+2014,07.2,2,Funcionamiento de equipos de transporte personal,105.63911
+2014,07.3,2,Servicios de transporte de pasajeros,112.17731
+2014,07.3.1,3,Transporte de pasajeros por ferrocarril,109.86551
+2014,07.3.2,3,Transporte de pasajeros por carretera,112.03579
+2014,07.3.3,3,Transporte de pasajeros por aire,114.88155
+2014,08,1,Información y comunicación,88.858749
+2014,09,1,Recreación y cultura,100.50844
+2014,09.1,2,Productos de recreación,102.14577
+2014,09.2,2,Servicios de recreación,97.845627
+2014,09.3,2,Servicios culturales,100.40974
+2014,09.4,2,"Diarios, libros y artículos de papelería y dibujo",99.747757
+2014,09.5,2,Paquetes turísticos,103.67226
+2014,10,1,Educación,97.086899
+2014,11,1,Restaurantes y hoteles,99.256615
+2014,11.1,2,Servicios de alimentos y bebidas preparadas fuera del hogar,100.43327
+2014,11.2,2,Servicios de alojamiento,89.558342
+2014,12,1,Seguros y servicios financieros,94.165207
+2014,12.1,2,Seguros,95.212921
+2014,12.2,2,Servicios financieros,87.156845
+2014,13,1,"Cuidado personal, protección social y otros productos",98.108528
+2014,13.1,2,Cuidado personal,100.18866
+2014,13.2,2,Efectos personales,98.583649
+2014,13.3,2,Otros servicios,89.656509
+2015,01,1,Alimentos y bebidas no alcohólicas,98.913696
+2015,01.1,2,Alimentos,98.00087
+2015,01.1.1,3,Pan y cereales,96.926857
+2015,01.1.2,3,Carnes y derivados,97.993362
+2015,01.1.3,3,Pescados y mariscos,99.266953
+2015,01.1.4,3,"Leche, productos lácteos y huevos",98.185684
+2015,01.1.5,3,"Aceites, mantecas y otras grasas",90.871101
+2015,01.1.6,3,Frutas,95.601646
+2015,01.1.7,3,"Verduras, tubérculos y legumbres",98.618752
+2015,01.1.8,3,"Azúcar, repostería y postres",103.38527
+2015,01.1.9,3,Otros alimentos,102.40164
+2015,01.2,2,Bebidas no alcohólicas,105.45145
+2015,02,1,Bebidas alcohólicas y tabaco,112.40254
+2015,02.1,2,Bebidas alcohólicas,92.738472
+2015,02.1.1,3,Vinos,87.129669
+2015,02.1.2,3,Cerveza,110.98817
+2015,02.2,2,Tabaco,128.63698
+2015,03,1,Prendas de vestir y calzado,105.28301
+2015,03.1,2,Prendas de vestir,106.37054
+2015,03.2,2,Calzado,101.79575
+2015,04,1,"Vivienda, agua, electricidad, gas y otros combustibles",101.78371
+2015,04.1,2,Alquiler de la vivienda,94.872124
+2015,04.2,2,Mantenimiento y reparación de la vivienda,126.58599
+2015,04.3,2,Suministro de agua y otros servicios relacionados con la vivienda,101.65672
+2015,04.3.1,3,Suministro de agua,161.79285
+2015,04.3.2,3,Gastos comunes por la vivienda,94.398827
+2015,04.4,2,"Electricidad, gas y otros combustibles",102.24924
+2015,04.4.1,3,Electricidad,57.397804
+2015,04.4.2,3,Gas,161.51991
+2015,05,1,Equipamiento y mantenimiento del hogar,98.194435
+2015,05.1,2,"Muebles, accesorios y alfombras",100.58647
+2015,05.2,2,Artículos textiles para el hogar,107.29385
+2015,05.3,2,Electrodomésticos,106.40611
+2015,05.4,2,"Cristalería, vajilla y utensilios para el hogar",108.52995
+2015,05.5,2,Herramientas y accesorios para la casa y el jardín,100.86306
+2015,05.6,2,Bienes y servicios para la conservación del hogar,94.516472
+2015,06,1,Salud,93.433418
+2015,06.1,2,Medicamentos y productos medicinales,89.75901
+2015,06.1.1,3,Medicamentos,87.459259
+2015,06.1.2,3,Productos medicinales,97.993744
+2015,06.1.3,3,Artefactos y equipos terapéuticos,103.37562
+2015,06.1.4,3,Servicios para pacientes externos,97.111481
+2015,06.2,2,Seguros médicos,95.123131
+2015,07,1,Transporte,103.14296
+2015,07.1,2,Adquisición de vehículos,117.36504
+2015,07.2,2,Funcionamiento de equipos de transporte personal,98.814789
+2015,07.3,2,Servicios de transporte de pasajeros,102.27026
+2015,07.3.1,3,Transporte de pasajeros por ferrocarril,94.968971
+2015,07.3.2,3,Transporte de pasajeros por carretera,102.65814
+2015,07.3.3,3,Transporte de pasajeros por aire,104.96553
+2015,08,1,Información y comunicación,89.612007
+2015,09,1,Recreación y cultura,106.09631
+2015,09.1,2,Productos de recreación,106.23148
+2015,09.2,2,Servicios de recreación,106.16835
+2015,09.3,2,Servicios culturales,109.87746
+2015,09.4,2,"Diarios, libros y artículos de papelería y dibujo",109.59457
+2015,09.5,2,Paquetes turísticos,96.887619
+2015,10,1,Educación,104.51758
+2015,11,1,Restaurantes y hoteles,93.604813
+2015,11.1,2,Servicios de alimentos y bebidas preparadas fuera del hogar,94.351967
+2015,11.2,2,Servicios de alojamiento,87.445686
+2015,12,1,Seguros y servicios financieros,94.623276
+2015,12.1,2,Seguros,97.21035
+2015,12.2,2,Servicios financieros,77.310562
+2015,13,1,"Cuidado personal, protección social y otros productos",100.91708
+2015,13.1,2,Cuidado personal,101.84225
+2015,13.2,2,Efectos personales,97.947067
+2015,13.3,2,Otros servicios,98.959244
+2016,01,1,Alimentos y bebidas no alcohólicas,95.92321
+2016,01.1,2,Alimentos,95.689728
+2016,01.1.1,3,Pan y cereales,89.947334
+2016,01.1.2,3,Carnes y derivados,97.452606
+2016,01.1.3,3,Pescados y mariscos,99.828804
+2016,01.1.4,3,"Leche, productos lácteos y huevos",94.377022
+2016,01.1.5,3,"Aceites, mantecas y otras grasas",98.504158
+2016,01.1.6,3,Frutas,98.162895
+2016,01.1.7,3,"Verduras, tubérculos y legumbres",98.369881
+2016,01.1.8,3,"Azúcar, repostería y postres",98.558243
+2016,01.1.9,3,Otros alimentos,105.693
+2016,01.2,2,Bebidas no alcohólicas,97.589142
+2016,02,1,Bebidas alcohólicas y tabaco,127.20486
+2016,02.1,2,Bebidas alcohólicas,94.677185
+2016,02.1.1,3,Vinos,87.577179
+2016,02.1.2,3,Cerveza,119.15022
+2016,02.2,2,Tabaco,154.05951
+2016,03,1,Prendas de vestir y calzado,102.08289
+2016,03.1,2,Prendas de vestir,102.73852
+2016,03.2,2,Calzado,99.981346
+2016,04,1,"Vivienda, agua, electricidad, gas y otros combustibles",117.09402
+2016,04.1,2,Alquiler de la vivienda,92.619843
+2016,04.2,2,Mantenimiento y reparación de la vivienda,110.71069
+2016,04.3,2,Suministro de agua y otros servicios relacionados con la vivienda,119.02627
+2016,04.3.1,3,Suministro de agua,336.96777
+2016,04.3.2,3,Gastos comunes por la vivienda,92.71846
+2016,04.4,2,"Electricidad, gas y otros combustibles",174.57915
+2016,04.4.1,3,Electricidad,134.83838
+2016,04.4.2,3,Gas,227.0945
+2016,05,1,Equipamiento y mantenimiento del hogar,95.500145
+2016,05.1,2,"Muebles, accesorios y alfombras",97.502586
+2016,05.2,2,Artículos textiles para el hogar,104.2544
+2016,05.3,2,Electrodomésticos,100.97314
+2016,05.4,2,"Cristalería, vajilla y utensilios para el hogar",96.207214
+2016,05.5,2,Herramientas y accesorios para la casa y el jardín,99.018898
+2016,05.6,2,Bienes y servicios para la conservación del hogar,93.084892
+2016,06,1,Salud,94.236031
+2016,06.1,2,Medicamentos y productos medicinales,93.179337
+2016,06.1.1,3,Medicamentos,92.445457
+2016,06.1.2,3,Productos medicinales,95.234833
+2016,06.1.3,3,Artefactos y equipos terapéuticos,97.728058
+2016,06.1.4,3,Servicios para pacientes externos,94.005104
+2016,06.2,2,Seguros médicos,95.334663
+2016,07,1,Transporte,102.02599
+2016,07.1,2,Adquisición de vehículos,119.6843
+2016,07.2,2,Funcionamiento de equipos de transporte personal,94.42894
+2016,07.3,2,Servicios de transporte de pasajeros,103.29535
+2016,07.3.1,3,Transporte de pasajeros por ferrocarril,82.63147
+2016,07.3.2,3,Transporte de pasajeros por carretera,106.18369
+2016,07.3.3,3,Transporte de pasajeros por aire,98.435402
+2016,08,1,Información y comunicación,83.588684
+2016,09,1,Recreación y cultura,102.1628
+2016,09.1,2,Productos de recreación,99.598007
+2016,09.2,2,Servicios de recreación,105.14758
+2016,09.3,2,Servicios culturales,105.67474
+2016,09.4,2,"Diarios, libros y artículos de papelería y dibujo",112.12534
+2016,09.5,2,Paquetes turísticos,79.064247
+2016,10,1,Educación,99.386772
+2016,11,1,Restaurantes y hoteles,90.962357
+2016,11.1,2,Servicios de alimentos y bebidas preparadas fuera del hogar,92.382141
+2016,11.2,2,Servicios de alojamiento,79.256271
+2016,12,1,Seguros y servicios financieros,87.762199
+2016,12.1,2,Seguros,90.982353
+2016,12.2,2,Servicios financieros,66.220856
+2016,13,1,"Cuidado personal, protección social y otros productos",99.230377
+2016,13.1,2,Cuidado personal,99.843231
+2016,13.2,2,Efectos personales,89.766113
+2016,13.3,2,Otros servicios,102.17502
+2017,01,1,Alimentos y bebidas no alcohólicas,92.475731
+2017,01.1,2,Alimentos,91.764725
+2017,01.1.1,3,Pan y cereales,85.871002
+2017,01.1.2,3,Carnes y derivados,88.192505
+2017,01.1.3,3,Pescados y mariscos,94.063667
+2017,01.1.4,3,"Leche, productos lácteos y huevos",98.446815
+2017,01.1.5,3,"Aceites, mantecas y otras grasas",105.69999
+2017,01.1.6,3,Frutas,91.881973
+2017,01.1.7,3,"Verduras, tubérculos y legumbres",90.523705
+2017,01.1.8,3,"Azúcar, repostería y postres",95.31366
+2017,01.1.9,3,Otros alimentos,102.73393
+2017,01.2,2,Bebidas no alcohólicas,97.561028
+2017,02,1,Bebidas alcohólicas y tabaco,141.32397
+2017,02.1,2,Bebidas alcohólicas,107.94426
+2017,02.1.1,3,Vinos,105.26331
+2017,02.1.2,3,Cerveza,119.80493
+2017,02.2,2,Tabaco,168.88181
+2017,03,1,Prendas de vestir y calzado,97.378937
+2017,03.1,2,Prendas de vestir,98.020378
+2017,03.2,2,Calzado,95.321098
+2017,04,1,"Vivienda, agua, electricidad, gas y otros combustibles",133.01004
+2017,04.1,2,Alquiler de la vivienda,96.800102
+2017,04.2,2,Mantenimiento y reparación de la vivienda,103.25107
+2017,04.3,2,Suministro de agua y otros servicios relacionados con la vivienda,131.15248
+2017,04.3.1,3,Suministro de agua,392.77444
+2017,04.3.2,3,Gastos comunes por la vivienda,99.570892
+2017,04.4,2,"Electricidad, gas y otros combustibles",244.43655
+2017,04.4.1,3,Electricidad,210.81007
+2017,04.4.2,3,Gas,288.87338
+2017,05,1,Equipamiento y mantenimiento del hogar,91.142258
+2017,05.1,2,"Muebles, accesorios y alfombras",91.954033
+2017,05.2,2,Artículos textiles para el hogar,92.135666
+2017,05.3,2,Electrodomésticos,88.579597
+2017,05.4,2,"Cristalería, vajilla y utensilios para el hogar",88.532509
+2017,05.5,2,Herramientas y accesorios para la casa y el jardín,86.386276
+2017,05.6,2,Bienes y servicios para la conservación del hogar,91.973763
+2017,06,1,Salud,95.090202
+2017,06.1,2,Medicamentos y productos medicinales,91.102036
+2017,06.1.1,3,Medicamentos,90.914001
+2017,06.1.2,3,Productos medicinales,93.675858
+2017,06.1.3,3,Artefactos y equipos terapéuticos,91.52124
+2017,06.1.4,3,Servicios para pacientes externos,96.085297
+2017,06.2,2,Seguros médicos,98.34317
+2017,07,1,Transporte,95.688713
+2017,07.1,2,Adquisición de vehículos,107.09245
+2017,07.2,2,Funcionamiento de equipos de transporte personal,91.285553
+2017,07.3,2,Servicios de transporte de pasajeros,95.975433
+2017,07.3.1,3,Transporte de pasajeros por ferrocarril,90.565712
+2017,07.3.2,3,Transporte de pasajeros por carretera,98.237572
+2017,07.3.3,3,Transporte de pasajeros por aire,84.204674
+2017,08,1,Información y comunicación,93.067207
+2017,09,1,Recreación y cultura,99.051926
+2017,09.1,2,Productos de recreación,96.454147
+2017,09.2,2,Servicios de recreación,111.5881
+2017,09.3,2,Servicios culturales,105.29705
+2017,09.4,2,"Diarios, libros y artículos de papelería y dibujo",114.17818
+2017,09.5,2,Paquetes turísticos,70.537315
+2017,10,1,Educación,99.539009
+2017,11,1,Restaurantes y hoteles,89.175087
+2017,11.1,2,Servicios de alimentos y bebidas preparadas fuera del hogar,90.195602
+2017,11.2,2,Servicios de alojamiento,80.759972
+2017,12,1,Seguros y servicios financieros,90.727043
+2017,12.1,2,Seguros,92.525803
+2017,12.2,2,Servicios financieros,78.697983
+2017,13,1,"Cuidado personal, protección social y otros productos",96.86869
+2017,13.1,2,Cuidado personal,97.329941
+2017,13.2,2,Efectos personales,82.812241
+2017,13.3,2,Otros servicios,103.01161
+2018,01,1,Alimentos y bebidas no alcohólicas,91.190224
+2018,01.1,2,Alimentos,90.136955
+2018,01.1.1,3,Pan y cereales,87.372795
+2018,01.1.2,3,Carnes y derivados,84.874352
+2018,01.1.3,3,Pescados y mariscos,98.440163
+2018,01.1.4,3,"Leche, productos lácteos y huevos",95.0121
+2018,01.1.5,3,"Aceites, mantecas y otras grasas",109.79642
+2018,01.1.6,3,Frutas,90.443497
+2018,01.1.7,3,"Verduras, tubérculos y legumbres",88.135765
+2018,01.1.8,3,"Azúcar, repostería y postres",91.130089
+2018,01.1.9,3,Otros alimentos,105.72665
+2018,01.2,2,Bebidas no alcohólicas,98.731163
+2018,02,1,Bebidas alcohólicas y tabaco,131.38226
+2018,02.1,2,Bebidas alcohólicas,99.108643
+2018,02.1.1,3,Vinos,91.814453
+2018,02.1.2,3,Cerveza,124.40448
+2018,02.2,2,Tabaco,158.0274
+2018,03,1,Prendas de vestir y calzado,89.812447
+2018,03.1,2,Prendas de vestir,90.214691
+2018,03.2,2,Calzado,88.523552
+2018,04,1,"Vivienda, agua, electricidad, gas y otros combustibles",146.94373
+2018,04.1,2,Alquiler de la vivienda,97.945183
+2018,04.2,2,Mantenimiento y reparación de la vivienda,97.896523
+2018,04.3,2,Suministro de agua y otros servicios relacionados con la vivienda,128.23384
+2018,04.3.1,3,Suministro de agua,360.55383
+2018,04.3.2,3,Gastos comunes por la vivienda,100.18995
+2018,04.4,2,"Electricidad, gas y otros combustibles",347.92798
+2018,04.4.1,3,Electricidad,294.43341
+2018,04.4.2,3,Gas,418.61685
+2018,05,1,Equipamiento y mantenimiento del hogar,88.289162
+2018,05.1,2,"Muebles, accesorios y alfombras",89.802872
+2018,05.2,2,Artículos textiles para el hogar,90.253456
+2018,05.3,2,Electrodomésticos,87.215431
+2018,05.4,2,"Cristalería, vajilla y utensilios para el hogar",90.618607
+2018,05.5,2,Herramientas y accesorios para la casa y el jardín,88.483139
+2018,05.6,2,Bienes y servicios para la conservación del hogar,87.853554
+2018,06,1,Salud,92.326607
+2018,06.1,2,Medicamentos y productos medicinales,88.115059
+2018,06.1.1,3,Medicamentos,87.296776
+2018,06.1.2,3,Productos medicinales,105.55341
+2018,06.1.3,3,Artefactos y equipos terapéuticos,87.701523
+2018,06.1.4,3,Servicios para pacientes externos,89.556961
+2018,06.2,2,Seguros médicos,97.570068
+2018,07,1,Transporte,100.21562
+2018,07.1,2,Adquisición de vehículos,111.19202
+2018,07.2,2,Funcionamiento de equipos de transporte personal,94.972717
+2018,07.3,2,Servicios de transporte de pasajeros,101.55476
+2018,07.3.1,3,Transporte de pasajeros por ferrocarril,85.0037
+2018,07.3.2,3,Transporte de pasajeros por carretera,104.24424
+2018,07.3.3,3,Transporte de pasajeros por aire,95.039558
+2018,08,1,Información y comunicación,91.927132
+2018,09,1,Recreación y cultura,96.238754
+2018,09.1,2,Productos de recreación,94.3592
+2018,09.2,2,Servicios de recreación,109.62131
+2018,09.3,2,Servicios culturales,97.174286
+2018,09.4,2,"Diarios, libros y artículos de papelería y dibujo",113.48052
+2018,09.5,2,Paquetes turísticos,71.905586
+2018,10,1,Educación,93.88092
+2018,11,1,Restaurantes y hoteles,85.545143
+2018,11.1,2,Servicios de alimentos y bebidas preparadas fuera del hogar,86.701759
+2018,11.2,2,Servicios de alojamiento,76.006142
+2018,12,1,Seguros y servicios financieros,87.33123
+2018,12.1,2,Seguros,88.71003
+2018,12.2,2,Servicios financieros,78.11319
+2018,13,1,"Cuidado personal, protección social y otros productos",97.234077
+2018,13.1,2,Cuidado personal,97.606979
+2018,13.2,2,Efectos personales,86.317322
+2018,13.3,2,Otros servicios,101.94874
+2019,01,1,Alimentos y bebidas no alcohólicas,94.971313
+2019,01.1,2,Alimentos,93.906265
+2019,01.1.1,3,Pan y cereales,91.085655
+2019,01.1.2,3,Carnes y derivados,88.372215
+2019,01.1.3,3,Pescados y mariscos,103.13923
+2019,01.1.4,3,"Leche, productos lácteos y huevos",107.45078
+2019,01.1.5,3,"Aceites, mantecas y otras grasas",111.49881
+2019,01.1.6,3,Frutas,80.192467
+2019,01.1.7,3,"Verduras, tubérculos y legumbres",83.987686
+2019,01.1.8,3,"Azúcar, repostería y postres",93.748222
+2019,01.1.9,3,Otros alimentos,115.18746
+2019,01.2,2,Bebidas no alcohólicas,102.59317
+2019,02,1,Bebidas alcohólicas y tabaco,125.9735
+2019,02.1,2,Bebidas alcohólicas,87.54705
+2019,02.1.1,3,Vinos,77.649414
+2019,02.1.2,3,Cerveza,119.45392
+2019,02.2,2,Tabaco,157.69759
+2019,03,1,Prendas de vestir y calzado,86.974037
+2019,03.1,2,Prendas de vestir,87.130905
+2019,03.2,2,Calzado,86.472847
+2019,04,1,"Vivienda, agua, electricidad, gas y otros combustibles",146.04672
+2019,04.1,2,Alquiler de la vivienda,86.156418
+2019,04.2,2,Mantenimiento y reparación de la vivienda,93.882751
+2019,04.3,2,Suministro de agua y otros servicios relacionados con la vivienda,129.84099
+2019,04.3.1,3,Suministro de agua,378.01584
+2019,04.3.2,3,Gastos comunes por la vivienda,99.883369
+2019,04.4,2,"Electricidad, gas y otros combustibles",368.28571
+2019,04.4.1,3,Electricidad,307.52005
+2019,04.4.2,3,Gas,448.58347
+2019,05,1,Equipamiento y mantenimiento del hogar,84.749214
+2019,05.1,2,"Muebles, accesorios y alfombras",82.687157
+2019,05.2,2,Artículos textiles para el hogar,92.569023
+2019,05.3,2,Electrodomésticos,97.302673
+2019,05.4,2,"Cristalería, vajilla y utensilios para el hogar",93.351715
+2019,05.5,2,Herramientas y accesorios para la casa y el jardín,93.178741
+2019,05.6,2,Bienes y servicios para la conservación del hogar,81.007607
+2019,06,1,Salud,94.370033
+2019,06.1,2,Medicamentos y productos medicinales,97.127052
+2019,06.1.1,3,Medicamentos,97.3405
+2019,06.1.2,3,Productos medicinales,125.37037
+2019,06.1.3,3,Artefactos y equipos terapéuticos,85.350021
+2019,06.1.4,3,Servicios para pacientes externos,85.251984
+2019,06.2,2,Seguros médicos,96.120148
+2019,07,1,Transporte,102.93382
+2019,07.1,2,Adquisición de vehículos,122.92451
+2019,07.2,2,Funcionamiento de equipos de transporte personal,89.64286
+2019,07.3,2,Servicios de transporte de pasajeros,109.33478
+2019,07.3.1,3,Transporte de pasajeros por ferrocarril,103.56068
+2019,07.3.2,3,Transporte de pasajeros por carretera,112.4239
+2019,07.3.3,3,Transporte de pasajeros por aire,92.068642
+2019,08,1,Información y comunicación,97.969254
+2019,09,1,Recreación y cultura,93.482346
+2019,09.1,2,Productos de recreación,95.171593
+2019,09.2,2,Servicios de recreación,93.87886
+2019,09.3,2,Servicios culturales,91.526283
+2019,09.4,2,"Diarios, libros y artículos de papelería y dibujo",111.12168
+2019,09.5,2,Paquetes turísticos,75.72644
+2019,10,1,Educación,87.269737
+2019,11,1,Restaurantes y hoteles,83.197853
+2019,11.1,2,Servicios de alimentos y bebidas preparadas fuera del hogar,83.759491
+2019,11.2,2,Servicios de alojamiento,78.565788
+2019,12,1,Seguros y servicios financieros,78.972412
+2019,12.1,2,Seguros,79.758453
+2019,12.2,2,Servicios financieros,73.717758
+2019,13,1,"Cuidado personal, protección social y otros productos",99.15715
+2019,13.1,2,Cuidado personal,103.18745
+2019,13.2,2,Efectos personales,88.501457
+2019,13.3,2,Otros servicios,89.323997
+2020,01,1,Alimentos y bebidas no alcohólicas,100.00712
+2020,01.1,2,Alimentos,99.695145
+2020,01.1.1,3,Pan y cereales,91.637688
+2020,01.1.2,3,Carnes y derivados,94.538536
+2020,01.1.3,3,Pescados y mariscos,110.40676
+2020,01.1.4,3,"Leche, productos lácteos y huevos",107.81686
+2020,01.1.5,3,"Aceites, mantecas y otras grasas",115.37372
+2020,01.1.6,3,Frutas,103.1823
+2020,01.1.7,3,"Verduras, tubérculos y legumbres",99.017326
+2020,01.1.8,3,"Azúcar, repostería y postres",100.66133
+2020,01.1.9,3,Otros alimentos,117.67007
+2020,01.2,2,Bebidas no alcohólicas,102.23311
+2020,02,1,Bebidas alcohólicas y tabaco,137.72386
+2020,02.1,2,Bebidas alcohólicas,84.202927
+2020,02.1.1,3,Vinos,73.483887
+2020,02.1.2,3,Cerveza,117.93271
+2020,02.2,2,Tabaco,181.9097
+2020,03,1,Prendas de vestir y calzado,95.136589
+2020,03.1,2,Prendas de vestir,94.911385
+2020,03.2,2,Calzado,95.862015
+2020,04,1,"Vivienda, agua, electricidad, gas y otros combustibles",128.6806
+2020,04.1,2,Alquiler de la vivienda,83.083015
+2020,04.2,2,Mantenimiento y reparación de la vivienda,93.856758
+2020,04.3,2,Suministro de agua y otros servicios relacionados con la vivienda,120.09898
+2020,04.3.1,3,Suministro de agua,296.70575
+2020,04.3.2,3,Gastos comunes por la vivienda,98.780525
+2020,04.4,2,"Electricidad, gas y otros combustibles",284.34998
+2020,04.4.1,3,Electricidad,232.16676
+2020,04.4.2,3,Gas,353.30643
+2020,05,1,Equipamiento y mantenimiento del hogar,87.92749
+2020,05.1,2,"Muebles, accesorios y alfombras",91.220627
+2020,05.2,2,Artículos textiles para el hogar,112.63744
+2020,05.3,2,Electrodomésticos,116.84673
+2020,05.4,2,"Cristalería, vajilla y utensilios para el hogar",106.44749
+2020,05.5,2,Herramientas y accesorios para la casa y el jardín,104.36958
+2020,05.6,2,Bienes y servicios para la conservación del hogar,77.294144
+2020,06,1,Salud,95.143219
+2020,06.1,2,Medicamentos y productos medicinales,101.99289
+2020,06.1.1,3,Medicamentos,101.38266
+2020,06.1.2,3,Productos medicinales,144.68088
+2020,06.1.3,3,Artefactos y equipos terapéuticos,90.931343
+2020,06.1.4,3,Servicios para pacientes externos,85.543465
+2020,06.2,2,Seguros médicos,93.304413
+2020,07,1,Transporte,97.395294
+2020,07.1,2,Adquisición de vehículos,147.82236
+2020,07.2,2,Funcionamiento de equipos de transporte personal,83.706963
+2020,07.3,2,Servicios de transporte de pasajeros,92.548073
+2020,07.3.1,3,Transporte de pasajeros por ferrocarril,79.459068
+2020,07.3.2,3,Transporte de pasajeros por carretera,92.819893
+2020,07.3.3,3,Transporte de pasajeros por aire,100.32943
+2020,08,1,Información y comunicación,97.176796
+2020,09,1,Recreación y cultura,99.76757
+2020,09.1,2,Productos de recreación,107.9433
+2020,09.2,2,Servicios de recreación,91.897583
+2020,09.3,2,Servicios culturales,91.040787
+2020,09.4,2,"Diarios, libros y artículos de papelería y dibujo",116.58432
+2020,09.5,2,Paquetes turísticos,81.694595
+2020,10,1,Educación,87.279755
+2020,11,1,Restaurantes y hoteles,85.371529
+2020,11.1,2,Servicios de alimentos y bebidas preparadas fuera del hogar,85.374969
+2020,11.2,2,Servicios de alojamiento,85.342155
+2020,12,1,Seguros y servicios financieros,72.803185
+2020,12.1,2,Seguros,71.77256
+2020,12.2,2,Servicios financieros,79.703918
+2020,13,1,"Cuidado personal, protección social y otros productos",101.02104
+2020,13.1,2,Cuidado personal,107.09238
+2020,13.2,2,Efectos personales,99.786812
+2020,13.3,2,Otros servicios,77.818893
+2021,01,1,Alimentos y bebidas no alcohólicas,102.58276
+2021,01.1,2,Alimentos,103.21203
+2021,01.1.1,3,Pan y cereales,88.810883
+2021,01.1.2,3,Carnes y derivados,109.99373
+2021,01.1.3,3,Pescados y mariscos,116.23932
+2021,01.1.4,3,"Leche, productos lácteos y huevos",107.67219
+2021,01.1.5,3,"Aceites, mantecas y otras grasas",125.86454
+2021,01.1.6,3,Frutas,109.61215
+2021,01.1.7,3,"Verduras, tubérculos y legumbres",94.744629
+2021,01.1.8,3,"Azúcar, repostería y postres",100.54687
+2021,01.1.9,3,Otros alimentos,110.22956
+2021,01.2,2,Bebidas no alcohólicas,98.065895
+2021,02,1,Bebidas alcohólicas y tabaco,141.20955
+2021,02.1,2,Bebidas alcohólicas,91.641174
+2021,02.1.1,3,Vinos,80.911781
+2021,02.1.2,3,Cerveza,125.45658
+2021,02.2,2,Tabaco,182.13231
+2021,03,1,Prendas de vestir y calzado,107.57703
+2021,03.1,2,Prendas de vestir,108.14084
+2021,03.2,2,Calzado,105.76957
+2021,04,1,"Vivienda, agua, electricidad, gas y otros combustibles",112.94142
+2021,04.1,2,Alquiler de la vivienda,81.159416
+2021,04.2,2,Mantenimiento y reparación de la vivienda,105.21326
+2021,04.3,2,Suministro de agua y otros servicios relacionados con la vivienda,106.64497
+2021,04.3.1,3,Suministro de agua,207.32858
+2021,04.3.2,3,Gastos comunes por la vivienda,94.49144
+2021,04.4,2,"Electricidad, gas y otros combustibles",211.35678
+2021,04.4.1,3,Electricidad,174.99438
+2021,04.4.2,3,Gas,259.4075
+2021,05,1,Equipamiento y mantenimiento del hogar,89.552071
+2021,05.1,2,"Muebles, accesorios y alfombras",105.62791
+2021,05.2,2,Artículos textiles para el hogar,131.2769
+2021,05.3,2,Electrodomésticos,122.16852
+2021,05.4,2,"Cristalería, vajilla y utensilios para el hogar",120.76353
+2021,05.5,2,Herramientas y accesorios para la casa y el jardín,115.69252
+2021,05.6,2,Bienes y servicios para la conservación del hogar,72.442543
+2021,06,1,Salud,95.161682
+2021,06.1,2,Medicamentos y productos medicinales,107.83878
+2021,06.1.1,3,Medicamentos,108.61182
+2021,06.1.2,3,Productos medicinales,129.87555
+2021,06.1.3,3,Artefactos y equipos terapéuticos,94.267517
+2021,06.1.4,3,Servicios para pacientes externos,88.774849
+2021,06.2,2,Seguros médicos,86.366882
+2021,07,1,Transporte,98.526718
+2021,07.1,2,Adquisición de vehículos,186.36989
+2021,07.2,2,Funcionamiento de equipos de transporte personal,87.196808
+2021,07.3,2,Servicios de transporte de pasajeros,76.839203
+2021,07.3.1,3,Transporte de pasajeros por ferrocarril,74.104767
+2021,07.3.2,3,Transporte de pasajeros por carretera,75.433769
+2021,07.3.3,3,Transporte de pasajeros por aire,88.661873
+2021,08,1,Información y comunicación,87.180206
+2021,09,1,Recreación y cultura,104.42085
+2021,09.1,2,Productos de recreación,122.53407
+2021,09.2,2,Servicios de recreación,106.19176
+2021,09.3,2,Servicios culturales,84.876839
+2021,09.4,2,"Diarios, libros y artículos de papelería y dibujo",121.2573
+2021,09.5,2,Paquetes turísticos,98.165565
+2021,10,1,Educación,85.052872
+2021,11,1,Restaurantes y hoteles,91.227608
+2021,11.1,2,Servicios de alimentos y bebidas preparadas fuera del hogar,92.249039
+2021,11.2,2,Servicios de alojamiento,82.804642
+2021,12,1,Seguros y servicios financieros,68.699135
+2021,12.1,2,Seguros,67.691536
+2021,12.2,2,Servicios financieros,75.445122
+2021,13,1,"Cuidado personal, protección social y otros productos",93.98304
+2021,13.1,2,Cuidado personal,99.339981
+2021,13.2,2,Efectos personales,105.67627
+2021,13.3,2,Otros servicios,66.274483
+2022,01,1,Alimentos y bebidas no alcohólicas,106.92835
+2022,01.1,2,Alimentos,107.72998
+2022,01.1.1,3,Pan y cereales,95.026421
+2022,01.1.2,3,Carnes y derivados,111.71252
+2022,01.1.3,3,Pescados y mariscos,119.66554
+2022,01.1.4,3,"Leche, productos lácteos y huevos",113.30714
+2022,01.1.5,3,"Aceites, mantecas y otras grasas",136.19794
+2022,01.1.6,3,Frutas,104.6407
+2022,01.1.7,3,"Verduras, tubérculos y legumbres",106.21454
+2022,01.1.8,3,"Azúcar, repostería y postres",104.01358
+2022,01.1.9,3,Otros alimentos,108.5816
+2022,01.2,2,Bebidas no alcohólicas,101.13788
+2022,02,1,Bebidas alcohólicas y tabaco,137.02145
+2022,02.1,2,Bebidas alcohólicas,100.53708
+2022,02.1.1,3,Vinos,90.303757
+2022,02.1.2,3,Cerveza,133.66745
+2022,02.2,2,Tabaco,162.71313
+2022,03,1,Prendas de vestir y calzado,120.98956
+2022,03.1,2,Prendas de vestir,125.50611
+2022,03.2,2,Calzado,107.94807
+2022,04,1,"Vivienda, agua, electricidad, gas y otros combustibles",103.22904
+2022,04.1,2,Alquiler de la vivienda,77.684296
+2022,04.2,2,Mantenimiento y reparación de la vivienda,121.10287
+2022,04.3,2,Suministro de agua y otros servicios relacionados con la vivienda,96.699677
+2022,04.3.1,3,Suministro de agua,159.01738
+2022,04.3.2,3,Gastos comunes por la vivienda,89.112556
+2022,04.4,2,"Electricidad, gas y otros combustibles",176.4265
+2022,04.4.1,3,Electricidad,146.55502
+2022,04.4.2,3,Gas,215.70726
+2022,05,1,Equipamiento y mantenimiento del hogar,94.93631
+2022,05.1,2,"Muebles, accesorios y alfombras",109.06054
+2022,05.2,2,Artículos textiles para el hogar,126.69624
+2022,05.3,2,Electrodomésticos,116.24584
+2022,05.4,2,"Cristalería, vajilla y utensilios para el hogar",125.82727
+2022,05.5,2,Herramientas y accesorios para la casa y el jardín,114.53814
+2022,05.6,2,Bienes y servicios para la conservación del hogar,81.050247
+2022,06,1,Salud,95.702034
+2022,06.1,2,Medicamentos y productos medicinales,103.00477
+2022,06.1.1,3,Medicamentos,103.75824
+2022,06.1.2,3,Productos medicinales,123.63855
+2022,06.1.3,3,Artefactos y equipos terapéuticos,90.413918
+2022,06.1.4,3,Servicios para pacientes externos,82.664948
+2022,06.2,2,Seguros médicos,92.626556
+2022,07,1,Transporte,93.683342
+2022,07.1,2,Adquisición de vehículos,193.60605
+2022,07.2,2,Funcionamiento de equipos de transporte personal,79.995567
+2022,07.3,2,Servicios de transporte de pasajeros,69.472588
+2022,07.3.1,3,Transporte de pasajeros por ferrocarril,51.904037
+2022,07.3.2,3,Transporte de pasajeros por carretera,65.646255
+2022,07.3.3,3,Transporte de pasajeros por aire,101.47599
+2022,08,1,Información y comunicación,77.813957
+2022,09,1,Recreación y cultura,98.804764
+2022,09.1,2,Productos de recreación,121.07047
+2022,09.2,2,Servicios de recreación,101.56277
+2022,09.3,2,Servicios culturales,85.109474
+2022,09.4,2,"Diarios, libros y artículos de papelería y dibujo",124.96937
+2022,09.5,2,Paquetes turísticos,80.000702
+2022,10,1,Educación,84.728767
+2022,11,1,Restaurantes y hoteles,100.99861
+2022,11.1,2,Servicios de alimentos y bebidas preparadas fuera del hogar,103.31186
+2022,11.2,2,Servicios de alojamiento,101.04118
+2022,12,1,Seguros y servicios financieros,64.369171
+2022,12.1,2,Seguros,63.205276
+2022,12.2,2,Servicios financieros,72.446701
+2022,13,1,"Cuidado personal, protección social y otros productos",90.739944
+2022,13.1,2,Cuidado personal,95.904053
+2022,13.2,2,Efectos personales,113.92447
+2022,13.3,2,Otros servicios,61.05471
+2023,01,1,Alimentos y bebidas no alcohólicas,111.46226
+2023,01.1,2,Alimentos,112.92937
+2023,01.1.1,3,Pan y cereales,98.169556
+2023,01.1.2,3,Carnes y derivados,113.61961
+2023,01.1.3,3,Pescados y mariscos,126.61549
+2023,01.1.4,3,"Leche, productos lácteos y huevos",118.20744
+2023,01.1.5,3,"Aceites, mantecas y otras grasas",139.60439
+2023,01.1.6,3,Frutas,126.8018
+2023,01.1.7,3,"Verduras, tubérculos y legumbres",115.15648
+2023,01.1.8,3,"Azúcar, repostería y postres",111.75113
+2023,01.1.9,3,Otros alimentos,106.99339
+2023,01.2,2,Bebidas no alcohólicas,101.17678
+2023,02,1,Bebidas alcohólicas y tabaco,134.15791
+2023,02.1,2,Bebidas alcohólicas,97.152023
+2023,02.1.1,3,Vinos,88.593292
+2023,02.1.2,3,Cerveza,127.68037
+2023,02.2,2,Tabaco,164.54637
+2023,03,1,Prendas de vestir y calzado,117.56706
+2023,03.1,2,Prendas de vestir,121.97563
+2023,03.2,2,Calzado,104.83728
+2023,04,1,"Vivienda, agua, electricidad, gas y otros combustibles",111.72493
+2023,04.1,2,Alquiler de la vivienda,88.227142
+2023,04.2,2,Mantenimiento y reparación de la vivienda,123.19495
+2023,04.3,2,Suministro de agua y otros servicios relacionados con la vivienda,99.142616
+2023,04.3.1,3,Suministro de agua,262.2807
+2023,04.3.2,3,Gastos comunes por la vivienda,84.560944
+2023,04.4,2,"Electricidad, gas y otros combustibles",191.69427
+2023,04.4.1,3,Electricidad,185.77477
+2023,04.4.2,3,Gas,181.79688
+2023,05,1,Equipamiento y mantenimiento del hogar,92.316116
+2023,05.1,2,"Muebles, accesorios y alfombras",118.43722
+2023,05.2,2,Artículos textiles para el hogar,126.30247
+2023,05.3,2,Electrodomésticos,137.67366
+2023,05.4,2,"Cristalería, vajilla y utensilios para el hogar",136.50716
+2023,05.5,2,Herramientas y accesorios para la casa y el jardín,120.23204
+2023,05.6,2,Bienes y servicios para la conservación del hogar,73.820992
+2023,06,1,Salud,87.22715
+2023,06.1,2,Medicamentos y productos medicinales,105.48844
+2023,06.1.1,3,Medicamentos,106.84386
+2023,06.1.2,3,Productos medicinales,127.26796
+2023,06.1.3,3,Artefactos y equipos terapéuticos,88.414856
+2023,06.1.4,3,Servicios para pacientes externos,63.038696
+2023,06.2,2,Seguros médicos,83.057465
+2023,07,1,Transporte,85.562233
+2023,07.1,2,Adquisición de vehículos,181.2753
+2023,07.2,2,Funcionamiento de equipos de transporte personal,71.969574
+2023,07.3,2,Servicios de transporte de pasajeros,63.402363
+2023,07.3.1,3,Transporte de pasajeros por ferrocarril,45.067318
+2023,07.3.2,3,Transporte de pasajeros por carretera,62.938828
+2023,07.3.3,3,Transporte de pasajeros por aire,86.921165
+2023,08,1,Información y comunicación,69.919411
+2023,09,1,Recreación y cultura,97.905975
+2023,09.1,2,Productos de recreación,124.54048
+2023,09.2,2,Servicios de recreación,90.887321
+2023,09.3,2,Servicios culturales,85.855461
+2023,09.4,2,"Diarios, libros y artículos de papelería y dibujo",137.28918
+2023,09.5,2,Paquetes turísticos,80.377907
+2023,10,1,Educación,84.420746
+2023,11,1,Restaurantes y hoteles,109.17522
+2023,11.1,2,Servicios de alimentos y bebidas preparadas fuera del hogar,112.9604
+2023,11.2,2,Servicios de alojamiento,103.92153
+2023,12,1,Seguros y servicios financieros,64.481422
+2023,12.1,2,Seguros,63.298439
+2023,12.2,2,Servicios financieros,72.695045
+2023,13,1,"Cuidado personal, protección social y otros productos",85.620224
+2023,13.1,2,Cuidado personal,93.630081
+2023,13.2,2,Efectos personales,123.96478
+2023,13.3,2,Otros servicios,37.972527

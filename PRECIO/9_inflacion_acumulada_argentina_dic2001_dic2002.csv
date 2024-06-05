@@ -1,0 +1,118 @@
+mes,sector,valor
+2001-12-01,Alimentos y bebidas,100.0
+2002-01-01,Alimentos y bebidas,102.1049312
+2002-02-01,Alimentos y bebidas,106.1731516
+2002-03-01,Alimentos y bebidas,111.7238516
+2002-04-01,Alimentos y bebidas,126.4933445
+2002-05-01,Alimentos y bebidas,132.7708904
+2002-06-01,Alimentos y bebidas,139.0830323
+2002-07-01,Alimentos y bebidas,144.8055259
+2002-08-01,Alimentos y bebidas,151.5530228
+2002-09-01,Alimentos y bebidas,155.917431
+2002-10-01,Alimentos y bebidas,155.4290456
+2002-11-01,Alimentos y bebidas,157.0101114
+2002-12-01,Alimentos y bebidas,157.9447104
+2001-12-01,Indumentaria,100.0
+2002-01-01,Indumentaria,98.64104382
+2002-02-01,Indumentaria,98.7714353
+2002-03-01,Indumentaria,107.1678713
+2002-04-01,Indumentaria,130.375449
+2002-05-01,Indumentaria,137.6985175
+2002-06-01,Indumentaria,143.0818603
+2002-07-01,Indumentaria,146.5699698
+2002-08-01,Indumentaria,146.76588
+2002-09-01,Indumentaria,153.0467256
+2002-10-01,Indumentaria,158.5695259
+2002-11-01,Indumentaria,159.6031372
+2002-12-01,Indumentaria,158.7247709
+2001-12-01,Vivienda y servicios basicos,100.0
+2002-01-01,Vivienda y servicios basicos,100.4864619
+2002-02-01,Vivienda y servicios basicos,101.4613102
+2002-03-01,Vivienda y servicios basicos,102.2920754
+2002-04-01,Vivienda y servicios basicos,104.3258688
+2002-05-01,Vivienda y servicios basicos,105.8972384
+2002-06-01,Vivienda y servicios basicos,109.3420873
+2002-07-01,Vivienda y servicios basicos,109.7028396
+2002-08-01,Vivienda y servicios basicos,113.3742706
+2002-09-01,Vivienda y servicios basicos,113.3657375
+2002-10-01,Vivienda y servicios basicos,113.3927894
+2002-11-01,Vivienda y servicios basicos,113.2853081
+2002-12-01,Vivienda y servicios basicos,113.0678036
+2001-12-01,Equipamiento y mantenimiento del hogar,100.0
+2002-01-01,Equipamiento y mantenimiento del hogar,103.6201512
+2002-02-01,Equipamiento y mantenimiento del hogar,111.3081445
+2002-03-01,Equipamiento y mantenimiento del hogar,119.025079
+2002-04-01,Equipamiento y mantenimiento del hogar,134.9901923
+2002-05-01,Equipamiento y mantenimiento del hogar,140.7046905
+2002-06-01,Equipamiento y mantenimiento del hogar,145.1029411
+2002-07-01,Equipamiento y mantenimiento del hogar,149.4565188
+2002-08-01,Equipamiento y mantenimiento del hogar,151.023918
+2002-09-01,Equipamiento y mantenimiento del hogar,151.1707614
+2002-10-01,Equipamiento y mantenimiento del hogar,151.9235747
+2002-11-01,Equipamiento y mantenimiento del hogar,153.6606881
+2002-12-01,Equipamiento y mantenimiento del hogar,154.2232675
+2001-12-01,Atencion medica y gastos para la salud,100.0
+2002-01-01,Atencion medica y gastos para la salud,100.391492
+2002-02-01,Atencion medica y gastos para la salud,103.4230761
+2002-03-01,Atencion medica y gastos para la salud,105.8392173
+2002-04-01,Atencion medica y gastos para la salud,121.1651582
+2002-05-01,Atencion medica y gastos para la salud,126.1110271
+2002-06-01,Atencion medica y gastos para la salud,126.6818371
+2002-07-01,Atencion medica y gastos para la salud,127.7335008
+2002-08-01,Atencion medica y gastos para la salud,128.7982072
+2002-09-01,Atencion medica y gastos para la salud,129.2343704
+2002-10-01,Atencion medica y gastos para la salud,129.2938298
+2002-11-01,Atencion medica y gastos para la salud,128.6775622
+2002-12-01,Atencion medica y gastos para la salud,127.8850263
+2001-12-01,Transporte y comunicaciones,100.0
+2002-01-01,Transporte y comunicaciones,103.2733049
+2002-02-01,Transporte y comunicaciones,104.9412146
+2002-03-01,Transporte y comunicaciones,107.818707
+2002-04-01,Transporte y comunicaciones,115.5094218
+2002-05-01,Transporte y comunicaciones,119.1241873
+2002-06-01,Transporte y comunicaciones,124.1874497
+2002-07-01,Transporte y comunicaciones,127.7197025
+2002-08-01,Transporte y comunicaciones,129.884374
+2002-09-01,Transporte y comunicaciones,131.19464
+2002-10-01,Transporte y comunicaciones,131.5759728
+2002-11-01,Transporte y comunicaciones,132.1099097
+2002-12-01,Transporte y comunicaciones,131.3412109
+2001-12-01,Esparcimiento,100.0
+2002-01-01,Esparcimiento,108.9077048
+2002-02-01,Esparcimiento,113.2614836
+2002-03-01,Esparcimiento,118.333955
+2002-04-01,Esparcimiento,128.2949364
+2002-05-01,Esparcimiento,134.8173317
+2002-06-01,Esparcimiento,140.5002844
+2002-07-01,Esparcimiento,150.4664433
+2002-08-01,Esparcimiento,149.8820526
+2002-09-01,Esparcimiento,150.0869045
+2002-10-01,Esparcimiento,151.4778716
+2002-11-01,Esparcimiento,151.623294
+2002-12-01,Esparcimiento,154.0445987
+2001-12-01,Educacion,100.0
+2002-01-01,Educacion,100.0696393
+2002-02-01,Educacion,101.2837665
+2002-03-01,Educacion,101.7945407
+2002-04-01,Educacion,103.3110595
+2002-05-01,Educacion,104.4484486
+2002-06-01,Educacion,105.2915759
+2002-07-01,Educacion,105.960605
+2002-08-01,Educacion,106.3145519
+2002-09-01,Educacion,106.6298324
+2002-10-01,Educacion,106.8053187
+2002-11-01,Educacion,106.9074378
+2002-12-01,Educacion,106.7527719
+2001-12-01,Otros bienes y servicios varios,100.0
+2002-01-01,Otros bienes y servicios varios,101.058668
+2002-02-01,Otros bienes y servicios varios,107.6962015
+2002-03-01,Otros bienes y servicios varios,113.0733413
+2002-04-01,Otros bienes y servicios varios,125.5157771
+2002-05-01,Otros bienes y servicios varios,130.9479604
+2002-06-01,Otros bienes y servicios varios,134.8499664
+2002-07-01,Otros bienes y servicios varios,141.4762249
+2002-08-01,Otros bienes y servicios varios,142.608234
+2002-09-01,Otros bienes y servicios varios,140.5289109
+2002-10-01,Otros bienes y servicios varios,139.1512144
+2002-11-01,Otros bienes y servicios varios,139.8867733
+2002-12-01,Otros bienes y servicios varios,140.5282666
