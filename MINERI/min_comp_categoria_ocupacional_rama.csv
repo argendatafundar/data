@@ -1,0 +1,70 @@
+"rama_actividad","categoria_ocupacional","porcentaje_sobre_total_rama"
+"Construcción","asalariados_registrados",15.91
+"Construcción","asalariados_no_registrados",40.15
+"Construcción","no_asalariados",43.94
+"Serv. Doméstico","asalariados_registrados",23.22
+"Serv. Doméstico","asalariados_no_registrados",75.16
+"Serv. Doméstico","no_asalariados",1.62
+"Otros servicios","asalariados_registrados",25.9
+"Otros servicios","asalariados_no_registrados",18.85
+"Otros servicios","no_asalariados",55.25
+"Act. profesionales, científicas y técnicas","asalariados_registrados",29.73
+"Act. profesionales, científicas y técnicas","asalariados_no_registrados",15.32
+"Act. profesionales, científicas y técnicas","no_asalariados",54.95
+"Comercio","asalariados_registrados",30.49
+"Comercio","asalariados_no_registrados",21.66
+"Comercio","no_asalariados",47.85
+"Agro","asalariados_registrados",31.14
+"Agro","asalariados_no_registrados",41.19
+"Agro","no_asalariados",27.68
+"Inmobiliarias","asalariados_registrados",34.12
+"Inmobiliarias","asalariados_no_registrados",22.32
+"Inmobiliarias","no_asalariados",43.56
+"Hoteles y restaurantes","asalariados_registrados",35.11
+"Hoteles y restaurantes","asalariados_no_registrados",34.74
+"Hoteles y restaurantes","no_asalariados",30.16
+"Recreación","asalariados_registrados",39.32
+"Recreación","asalariados_no_registrados",34.32
+"Recreación","no_asalariados",26.36
+"Transporte","asalariados_registrados",43.65
+"Transporte","asalariados_no_registrados",28.29
+"Transporte","no_asalariados",28.06
+"Promedio ocupados","asalariados_registrados",46.92
+"Promedio ocupados","asalariados_no_registrados",25.59
+"Promedio ocupados","no_asalariados",27.49
+"Industria","asalariados_registrados",47.74
+"Industria","asalariados_no_registrados",21.68
+"Industria","no_asalariados",30.59
+"Act. Administrativas","asalariados_registrados",56.4
+"Act. Administrativas","asalariados_no_registrados",17.88
+"Act. Administrativas","no_asalariados",25.72
+"Salud","asalariados_registrados",66.54
+"Salud","asalariados_no_registrados",17.9
+"Salud","no_asalariados",15.56
+"Información y comunicación","asalariados_registrados",69.73
+"Información y comunicación","asalariados_no_registrados",14.38
+"Información y comunicación","no_asalariados",15.89
+"Reciclamiento de desperdicios, agua y saneamiento","asalariados_registrados",70.76
+"Reciclamiento de desperdicios, agua y saneamiento","asalariados_no_registrados",12.86
+"Reciclamiento de desperdicios, agua y saneamiento","no_asalariados",16.38
+"Otras minas y canteras","asalariados_registrados",79.64
+"Otras minas y canteras","asalariados_no_registrados",10.73
+"Otras minas y canteras","no_asalariados",9.62
+"Finanzas","asalariados_registrados",81.36
+"Finanzas","asalariados_no_registrados",8.84
+"Finanzas","no_asalariados",9.8
+"Enseñanza","asalariados_registrados",87.1
+"Enseñanza","asalariados_no_registrados",6.12
+"Enseñanza","no_asalariados",6.78
+"Administración pública y defensa","asalariados_registrados",88.49
+"Administración pública y defensa","asalariados_no_registrados",11.45
+"Administración pública y defensa","no_asalariados",0.06
+"Electricidad y gas","asalariados_registrados",90.43
+"Electricidad y gas","asalariados_no_registrados",4.26
+"Electricidad y gas","no_asalariados",5.31
+"Extracción de petróleo y gas","asalariados_registrados",90.95
+"Extracción de petróleo y gas","asalariados_no_registrados",7.71
+"Extracción de petróleo y gas","no_asalariados",1.34
+"Minería metalífera","asalariados_registrados",94.72
+"Minería metalífera","asalariados_no_registrados",5.28
+"Minería metalífera","no_asalariados",0
