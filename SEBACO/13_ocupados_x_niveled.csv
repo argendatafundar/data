@@ -1,0 +1,22 @@
+"nivel","sector","prop_educ"
+"a. Primario incompleto","SBC",0.00194998895715398
+"a. Primario incompleto","Sector privado",0.0324587249419741
+"a. Primario incompleto","Total economía",0.0283805877620904
+"b. Primario completo","SBC",0.00572736605861196
+"b. Primario completo","Sector privado",0.128996140102974
+"b. Primario completo","Total economía",0.114301770314935
+"c. Secundario incompleto","SBC",0.0260264637911988
+"c. Secundario incompleto","Sector privado",0.18835838115652
+"c. Secundario incompleto","Total economía",0.16700598239859
+"d. Secundario completo","SBC",0.0864655940228704
+"d. Secundario completo","Sector privado",0.288807876308108
+"d. Secundario completo","Total economía",0.277391465964076
+"e. Superior incompleto","SBC",0.251555374444595
+"e. Superior incompleto","Sector privado",0.157329810373526
+"e. Superior incompleto","Total economía",0.155333476144503
+"f. Superior completo","SBC",0.627181455563346
+"f. Superior completo","Sector privado",0.200434843110684
+"f. Superior completo","Total economía",0.254231795095828
+"g. Sin instrucción","SBC",0.00109375716222325
+"g. Sin instrucción","Sector privado",0.00361422400621438
+"g. Sin instrucción","Total economía",0.00335492231997778
