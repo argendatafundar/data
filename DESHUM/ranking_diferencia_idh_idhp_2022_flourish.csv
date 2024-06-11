@@ -1,0 +1,43 @@
+iso3,tipo_idh,country,ranking_2022
+ARG,IDH,Argentina,44
+ARG,IDH-P,Argentina,27
+AUS,IDH,Australia,10
+AUS,IDH-P,Australia,39
+BRA,IDH,Brazil,73
+BRA,IDH-P,Brazil,66
+CAN,IDH,Canada,16
+CAN,IDH-P,Canada,56
+CHE,IDH,Switzerland,1
+CHE,IDH-P,Switzerland,7
+CHL,IDH,Chile,40
+CHL,IDH-P,Chile,24
+CHN,IDH,China,61
+CHN,IDH-P,China,83
+COL,IDH,Colombia,75
+COL,IDH-P,Colombia,57
+ESP,IDH,Spain,25
+ESP,IDH-P,Spain,4
+FRA,IDH,France,26
+FRA,IDH-P,France,9
+GBR,IDH,United Kingdom,13
+GBR,IDH-P,United Kingdom,1
+ITA,IDH,Italy,28
+ITA,IDH-P,Italy,8
+KWT,IDH,Kuwait,45
+KWT,IDH-P,Kuwait,113
+MEX,IDH,Mexico,63
+MEX,IDH-P,Mexico,50
+NOR,IDH,Norway,2
+NOR,IDH-P,Norway,14
+QAT,IDH,Qatar,37
+QAT,IDH-P,Qatar,145
+SOM,IDH,Somalia,154
+SOM,IDH-P,Somalia,153
+SSD,IDH,South Sudan,153
+SSD,IDH-P,South Sudan,154
+SWE,IDH,Sweden,5
+SWE,IDH-P,Sweden,2
+URY,IDH,Uruguay,46
+URY,IDH-P,Uruguay,25
+USA,IDH,United States,19
+USA,IDH-P,United States,48
