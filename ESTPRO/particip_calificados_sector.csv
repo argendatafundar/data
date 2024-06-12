@@ -1,0 +1,515 @@
+"anio","letra","letra_desc_abrev","calificacion_cod","calificacion","particip_calif"
+2016,"N","Actividades administrativas",1,"Calificado",0.113746167078005
+2017,"N","Actividades administrativas",1,"Calificado",0.152154437079728
+2018,"N","Actividades administrativas",1,"Calificado",0.134528859865325
+2019,"N","Actividades administrativas",1,"Calificado",0.149260374809112
+2020,"N","Actividades administrativas",1,"Calificado",0.0963147018303484
+2021,"N","Actividades administrativas",1,"Calificado",0.134697130712009
+2022,"N","Actividades administrativas",1,"Calificado",0.168487700229925
+2023,"N","Actividades administrativas",1,"Calificado",0.104882436350553
+2016,"N","Actividades administrativas",3,"No calificado",0.233899857901428
+2017,"N","Actividades administrativas",3,"No calificado",0.277689485083874
+2018,"N","Actividades administrativas",3,"No calificado",0.276087744127815
+2019,"N","Actividades administrativas",3,"No calificado",0.291376082871801
+2020,"N","Actividades administrativas",3,"No calificado",0.278660696713245
+2021,"N","Actividades administrativas",3,"No calificado",0.198280869433205
+2022,"N","Actividades administrativas",3,"No calificado",0.240573654201695
+2023,"N","Actividades administrativas",3,"No calificado",0.278899212009622
+2016,"N","Actividades administrativas",2,"Semicalificado",0.652353975020567
+2017,"N","Actividades administrativas",2,"Semicalificado",0.570156077836398
+2018,"N","Actividades administrativas",2,"Semicalificado",0.589383396006861
+2019,"N","Actividades administrativas",2,"Semicalificado",0.559363542319087
+2020,"N","Actividades administrativas",2,"Semicalificado",0.625024601456406
+2021,"N","Actividades administrativas",2,"Semicalificado",0.667021999854786
+2022,"N","Actividades administrativas",2,"Semicalificado",0.59093864556838
+2023,"N","Actividades administrativas",2,"Semicalificado",0.616218351639824
+2016,"O","Administración pública",1,"Calificado",0.284162530174045
+2017,"O","Administración pública",1,"Calificado",0.271618808372541
+2018,"O","Administración pública",1,"Calificado",0.272433581875929
+2019,"O","Administración pública",1,"Calificado",0.300711434013755
+2020,"O","Administración pública",1,"Calificado",0.360074485253693
+2021,"O","Administración pública",1,"Calificado",0.319691886454453
+2022,"O","Administración pública",1,"Calificado",0.316173052968189
+2023,"O","Administración pública",1,"Calificado",0.27373507074444
+2016,"O","Administración pública",3,"No calificado",0.0837914399403316
+2017,"O","Administración pública",3,"No calificado",0.105658789976234
+2018,"O","Administración pública",3,"No calificado",0.119368601845667
+2019,"O","Administración pública",3,"No calificado",0.103874855802604
+2020,"O","Administración pública",3,"No calificado",0.0918729494387004
+2021,"O","Administración pública",3,"No calificado",0.102374764033412
+2022,"O","Administración pública",3,"No calificado",0.0907686320819734
+2023,"O","Administración pública",3,"No calificado",0.080185554083257
+2016,"O","Administración pública",2,"Semicalificado",0.632046029885623
+2017,"O","Administración pública",2,"Semicalificado",0.622722401651224
+2018,"O","Administración pública",2,"Semicalificado",0.608197816278404
+2019,"O","Administración pública",2,"Semicalificado",0.595413710183641
+2020,"O","Administración pública",2,"Semicalificado",0.548052565307606
+2021,"O","Administración pública",2,"Semicalificado",0.577933349512135
+2022,"O","Administración pública",2,"Semicalificado",0.593058314949837
+2023,"O","Administración pública",2,"Semicalificado",0.646079375172303
+2016,"A","Agro y pesca",1,"Calificado",0.146246927355248
+2017,"A","Agro y pesca",1,"Calificado",0.168471083093793
+2018,"A","Agro y pesca",1,"Calificado",0.109193958091755
+2019,"A","Agro y pesca",1,"Calificado",0.138821661707891
+2020,"A","Agro y pesca",1,"Calificado",0.121946496713217
+2021,"A","Agro y pesca",1,"Calificado",0.140808788826401
+2022,"A","Agro y pesca",1,"Calificado",0.131644422676625
+2023,"A","Agro y pesca",1,"Calificado",0.141008822755103
+2016,"A","Agro y pesca",3,"No calificado",0.196074323287297
+2017,"A","Agro y pesca",3,"No calificado",0.217398421806155
+2018,"A","Agro y pesca",3,"No calificado",0.230092675291332
+2019,"A","Agro y pesca",3,"No calificado",0.295919556818686
+2020,"A","Agro y pesca",3,"No calificado",0.223761655643952
+2021,"A","Agro y pesca",3,"No calificado",0.240983262133203
+2022,"A","Agro y pesca",3,"No calificado",0.201461981143627
+2023,"A","Agro y pesca",3,"No calificado",0.200027451571602
+2016,"A","Agro y pesca",2,"Semicalificado",0.657678749357455
+2017,"A","Agro y pesca",2,"Semicalificado",0.614130495100052
+2018,"A","Agro y pesca",2,"Semicalificado",0.660713366616913
+2019,"A","Agro y pesca",2,"Semicalificado",0.565258781473422
+2020,"A","Agro y pesca",2,"Semicalificado",0.654291847642831
+2021,"A","Agro y pesca",2,"Semicalificado",0.618207949040397
+2022,"A","Agro y pesca",2,"Semicalificado",0.666893596179748
+2023,"A","Agro y pesca",2,"Semicalificado",0.658963725673295
+2016,"E","Agua y saneamiento",1,"Calificado",0.120998890578132
+2017,"E","Agua y saneamiento",1,"Calificado",0.052328240783094
+2018,"E","Agua y saneamiento",1,"Calificado",0.0595388151553348
+2019,"E","Agua y saneamiento",1,"Calificado",0.099238454551806
+2020,"E","Agua y saneamiento",1,"Calificado",0.0994194607585938
+2021,"E","Agua y saneamiento",1,"Calificado",0.145571897981537
+2022,"E","Agua y saneamiento",1,"Calificado",0.124332045156285
+2023,"E","Agua y saneamiento",1,"Calificado",0.0446794458634711
+2016,"E","Agua y saneamiento",3,"No calificado",0.38787648436537
+2017,"E","Agua y saneamiento",3,"No calificado",0.376073290902675
+2018,"E","Agua y saneamiento",3,"No calificado",0.336138503744346
+2019,"E","Agua y saneamiento",3,"No calificado",0.381583176133585
+2020,"E","Agua y saneamiento",3,"No calificado",0.242929438247889
+2021,"E","Agua y saneamiento",3,"No calificado",0.273916445000782
+2022,"E","Agua y saneamiento",3,"No calificado",0.365049557355298
+2023,"E","Agua y saneamiento",3,"No calificado",0.433681061166679
+2016,"E","Agua y saneamiento",2,"Semicalificado",0.491124625056498
+2017,"E","Agua y saneamiento",2,"Semicalificado",0.571598468314231
+2018,"E","Agua y saneamiento",2,"Semicalificado",0.604322681100319
+2019,"E","Agua y saneamiento",2,"Semicalificado",0.519178369314609
+2020,"E","Agua y saneamiento",2,"Semicalificado",0.657651100993518
+2021,"E","Agua y saneamiento",2,"Semicalificado",0.580511657017681
+2022,"E","Agua y saneamiento",2,"Semicalificado",0.510618397488417
+2023,"E","Agua y saneamiento",2,"Semicalificado",0.52163949296985
+2016,"G","Comercio",1,"Calificado",0.121790700843429
+2017,"G","Comercio",1,"Calificado",0.128724829395747
+2018,"G","Comercio",1,"Calificado",0.130146021400557
+2019,"G","Comercio",1,"Calificado",0.121524291734843
+2020,"G","Comercio",1,"Calificado",0.116570466544378
+2021,"G","Comercio",1,"Calificado",0.146371660887099
+2022,"G","Comercio",1,"Calificado",0.120005154701729
+2023,"G","Comercio",1,"Calificado",0.110097462309006
+2016,"G","Comercio",3,"No calificado",0.242581874615114
+2017,"G","Comercio",3,"No calificado",0.235534573763939
+2018,"G","Comercio",3,"No calificado",0.246078163660639
+2019,"G","Comercio",3,"No calificado",0.262709919494092
+2020,"G","Comercio",3,"No calificado",0.197501508720204
+2021,"G","Comercio",3,"No calificado",0.213985165446315
+2022,"G","Comercio",3,"No calificado",0.18550887365722
+2023,"G","Comercio",3,"No calificado",0.181460141124909
+2016,"G","Comercio",2,"Semicalificado",0.635627424541456
+2017,"G","Comercio",2,"Semicalificado",0.635740596840314
+2018,"G","Comercio",2,"Semicalificado",0.623775814938804
+2019,"G","Comercio",2,"Semicalificado",0.615765788771065
+2020,"G","Comercio",2,"Semicalificado",0.685928024735418
+2021,"G","Comercio",2,"Semicalificado",0.639643173666585
+2022,"G","Comercio",2,"Semicalificado",0.69448597164105
+2023,"G","Comercio",2,"Semicalificado",0.708442396566086
+2016,"F","Construcción",1,"Calificado",0.0964983313625674
+2017,"F","Construcción",1,"Calificado",0.104145716748651
+2018,"F","Construcción",1,"Calificado",0.102027061119559
+2019,"F","Construcción",1,"Calificado",0.108398109389644
+2020,"F","Construcción",1,"Calificado",0.126146001442159
+2021,"F","Construcción",1,"Calificado",0.113251779469755
+2022,"F","Construcción",1,"Calificado",0.085538273370808
+2023,"F","Construcción",1,"Calificado",0.112949270085007
+2016,"F","Construcción",3,"No calificado",0.186063235011809
+2017,"F","Construcción",3,"No calificado",0.207369379259473
+2018,"F","Construcción",3,"No calificado",0.225885784160132
+2019,"F","Construcción",3,"No calificado",0.205236313663474
+2020,"F","Construcción",3,"No calificado",0.1923801634447
+2021,"F","Construcción",3,"No calificado",0.211516951464497
+2022,"F","Construcción",3,"No calificado",0.193120063227135
+2023,"F","Construcción",3,"No calificado",0.198246263506329
+2016,"F","Construcción",2,"Semicalificado",0.717438433625624
+2017,"F","Construcción",2,"Semicalificado",0.688484903991876
+2018,"F","Construcción",2,"Semicalificado",0.67208715472031
+2019,"F","Construcción",2,"Semicalificado",0.686365576946881
+2020,"F","Construcción",2,"Semicalificado",0.681473835113141
+2021,"F","Construcción",2,"Semicalificado",0.675231269065747
+2022,"F","Construcción",2,"Semicalificado",0.721341663402057
+2023,"F","Construcción",2,"Semicalificado",0.688804466408663
+2016,"R","Cultura",1,"Calificado",0.474283862194336
+2017,"R","Cultura",1,"Calificado",0.481902316516721
+2018,"R","Cultura",1,"Calificado",0.54018507122165
+2019,"R","Cultura",1,"Calificado",0.483228704178395
+2020,"R","Cultura",1,"Calificado",0.480444823157479
+2021,"R","Cultura",1,"Calificado",0.472003611866042
+2022,"R","Cultura",1,"Calificado",0.485619176832197
+2023,"R","Cultura",1,"Calificado",0.506418726604682
+2016,"R","Cultura",3,"No calificado",0.158069959732111
+2017,"R","Cultura",3,"No calificado",0.158969760539473
+2018,"R","Cultura",3,"No calificado",0.118112363598157
+2019,"R","Cultura",3,"No calificado",0.170466526731218
+2020,"R","Cultura",3,"No calificado",0.0789493183165382
+2021,"R","Cultura",3,"No calificado",0.103367533927639
+2022,"R","Cultura",3,"No calificado",0.130123787340313
+2023,"R","Cultura",3,"No calificado",0.107646926911732
+2016,"R","Cultura",2,"Semicalificado",0.367646178073553
+2017,"R","Cultura",2,"Semicalificado",0.359127922943806
+2018,"R","Cultura",2,"Semicalificado",0.341702565180193
+2019,"R","Cultura",2,"Semicalificado",0.346304769090387
+2020,"R","Cultura",2,"Semicalificado",0.440605858525983
+2021,"R","Cultura",2,"Semicalificado",0.424628854206319
+2022,"R","Cultura",2,"Semicalificado",0.38425703582749
+2023,"R","Cultura",2,"Semicalificado",0.385934346483587
+2016,"D","Electricidad y gas",1,"Calificado",0.25922488169327
+2017,"D","Electricidad y gas",1,"Calificado",0.284041179199739
+2018,"D","Electricidad y gas",1,"Calificado",0.322591871721169
+2019,"D","Electricidad y gas",1,"Calificado",0.359911252860015
+2020,"D","Electricidad y gas",1,"Calificado",0.408434728810064
+2021,"D","Electricidad y gas",1,"Calificado",0.379501133786848
+2022,"D","Electricidad y gas",1,"Calificado",0.31934813176776
+2023,"D","Electricidad y gas",1,"Calificado",0.269876944854904
+2016,"D","Electricidad y gas",3,"No calificado",0.0846026263333283
+2017,"D","Electricidad y gas",3,"No calificado",0.0423328192203037
+2018,"D","Electricidad y gas",3,"No calificado",0.0230468800350601
+2019,"D","Electricidad y gas",3,"No calificado",0.0398148790126881
+2020,"D","Electricidad y gas",3,"No calificado",0.0288891180312092
+2021,"D","Electricidad y gas",3,"No calificado",0.0571817298347911
+2022,"D","Electricidad y gas",3,"No calificado",0.0376530820724218
+2023,"D","Electricidad y gas",3,"No calificado",0.0828976941129723
+2016,"D","Electricidad y gas",2,"Semicalificado",0.656172491973402
+2017,"D","Electricidad y gas",2,"Semicalificado",0.673626001579957
+2018,"D","Electricidad y gas",2,"Semicalificado",0.654361248243771
+2019,"D","Electricidad y gas",2,"Semicalificado",0.600273868127297
+2020,"D","Electricidad y gas",2,"Semicalificado",0.562676153158727
+2021,"D","Electricidad y gas",2,"Semicalificado",0.563317136378361
+2022,"D","Electricidad y gas",2,"Semicalificado",0.642998786159818
+2023,"D","Electricidad y gas",2,"Semicalificado",0.647225361032123
+2016,"P","Enseñanza",1,"Calificado",0.744274588395665
+2017,"P","Enseñanza",1,"Calificado",0.743808014189308
+2018,"P","Enseñanza",1,"Calificado",0.773892130354348
+2019,"P","Enseñanza",1,"Calificado",0.760288609983418
+2020,"P","Enseñanza",1,"Calificado",0.777472211933004
+2021,"P","Enseñanza",1,"Calificado",0.764233361098498
+2022,"P","Enseñanza",1,"Calificado",0.771268277412161
+2023,"P","Enseñanza",1,"Calificado",0.749008585523075
+2016,"P","Enseñanza",3,"No calificado",0.0795109208806738
+2017,"P","Enseñanza",3,"No calificado",0.0724101051676362
+2018,"P","Enseñanza",3,"No calificado",0.077735875907215
+2019,"P","Enseñanza",3,"No calificado",0.0803540797072445
+2020,"P","Enseñanza",3,"No calificado",0.0811022480266237
+2021,"P","Enseñanza",3,"No calificado",0.103009223791867
+2022,"P","Enseñanza",3,"No calificado",0.0740903063324176
+2023,"P","Enseñanza",3,"No calificado",0.094308144248912
+2016,"P","Enseñanza",2,"Semicalificado",0.176214490723661
+2017,"P","Enseñanza",2,"Semicalificado",0.183781880643056
+2018,"P","Enseñanza",2,"Semicalificado",0.148371993738437
+2019,"P","Enseñanza",2,"Semicalificado",0.159357310309337
+2020,"P","Enseñanza",2,"Semicalificado",0.141425540040372
+2021,"P","Enseñanza",2,"Semicalificado",0.132757415109635
+2022,"P","Enseñanza",2,"Semicalificado",0.154641416255421
+2023,"P","Enseñanza",2,"Semicalificado",0.156683270228013
+2016,"K","Finanzas",1,"Calificado",0.445205958171106
+2017,"K","Finanzas",1,"Calificado",0.353462513285913
+2018,"K","Finanzas",1,"Calificado",0.476202750503624
+2019,"K","Finanzas",1,"Calificado",0.441592421427097
+2020,"K","Finanzas",1,"Calificado",0.410945219412961
+2021,"K","Finanzas",1,"Calificado",0.440560387127339
+2022,"K","Finanzas",1,"Calificado",0.405757710761893
+2023,"K","Finanzas",1,"Calificado",0.421864937627031
+2016,"K","Finanzas",3,"No calificado",0.0175431383593239
+2017,"K","Finanzas",3,"No calificado",0.0121004006213719
+2018,"K","Finanzas",3,"No calificado",0.0183247941880938
+2019,"K","Finanzas",3,"No calificado",0.01992313434021
+2020,"K","Finanzas",3,"No calificado",0.0219594594594595
+2021,"K","Finanzas",3,"No calificado",0.00740784037457585
+2022,"K","Finanzas",3,"No calificado",0.00749681890006058
+2023,"K","Finanzas",3,"No calificado",0.0183396318879643
+2016,"K","Finanzas",2,"Semicalificado",0.53725090346957
+2017,"K","Finanzas",2,"Semicalificado",0.634437086092715
+2018,"K","Finanzas",2,"Semicalificado",0.505472455308282
+2019,"K","Finanzas",2,"Semicalificado",0.538484444232693
+2020,"K","Finanzas",2,"Semicalificado",0.567095321127579
+2021,"K","Finanzas",2,"Semicalificado",0.552031772498085
+2022,"K","Finanzas",2,"Semicalificado",0.586745470338046
+2023,"K","Finanzas",2,"Semicalificado",0.559795430485004
+2016,"I","Hotelería y restaurantes",1,"Calificado",0.116003422720696
+2017,"I","Hotelería y restaurantes",1,"Calificado",0.1135658201352
+2018,"I","Hotelería y restaurantes",1,"Calificado",0.100237775931152
+2019,"I","Hotelería y restaurantes",1,"Calificado",0.113845640743256
+2020,"I","Hotelería y restaurantes",1,"Calificado",0.119338792584474
+2021,"I","Hotelería y restaurantes",1,"Calificado",0.132586625668121
+2022,"I","Hotelería y restaurantes",1,"Calificado",0.109742417814119
+2023,"I","Hotelería y restaurantes",1,"Calificado",0.0709905671506566
+2016,"I","Hotelería y restaurantes",3,"No calificado",0.395775951347421
+2017,"I","Hotelería y restaurantes",3,"No calificado",0.412907915136806
+2018,"I","Hotelería y restaurantes",3,"No calificado",0.390985906222489
+2019,"I","Hotelería y restaurantes",3,"No calificado",0.400902927479186
+2020,"I","Hotelería y restaurantes",3,"No calificado",0.2539227112051
+2021,"I","Hotelería y restaurantes",3,"No calificado",0.317722487485699
+2022,"I","Hotelería y restaurantes",3,"No calificado",0.377407400264846
+2023,"I","Hotelería y restaurantes",3,"No calificado",0.359463993318202
+2016,"I","Hotelería y restaurantes",2,"Semicalificado",0.488220625931883
+2017,"I","Hotelería y restaurantes",2,"Semicalificado",0.473526264727994
+2018,"I","Hotelería y restaurantes",2,"Semicalificado",0.508776317846359
+2019,"I","Hotelería y restaurantes",2,"Semicalificado",0.485251431777558
+2020,"I","Hotelería y restaurantes",2,"Semicalificado",0.626738496210426
+2021,"I","Hotelería y restaurantes",2,"Semicalificado",0.54969088684618
+2022,"I","Hotelería y restaurantes",2,"Semicalificado",0.512850181921035
+2023,"I","Hotelería y restaurantes",2,"Semicalificado",0.569545439531142
+2016,"C","Industria manufacturera",1,"Calificado",0.148330767763266
+2017,"C","Industria manufacturera",1,"Calificado",0.135056033256574
+2018,"C","Industria manufacturera",1,"Calificado",0.139038045288045
+2019,"C","Industria manufacturera",1,"Calificado",0.13935877449228
+2020,"C","Industria manufacturera",1,"Calificado",0.121225955187273
+2021,"C","Industria manufacturera",1,"Calificado",0.176800939580757
+2022,"C","Industria manufacturera",1,"Calificado",0.124498477975123
+2023,"C","Industria manufacturera",1,"Calificado",0.1181113244044
+2016,"C","Industria manufacturera",3,"No calificado",0.101952373419468
+2017,"C","Industria manufacturera",3,"No calificado",0.109710250857059
+2018,"C","Industria manufacturera",3,"No calificado",0.117481750705435
+2019,"C","Industria manufacturera",3,"No calificado",0.106139384157834
+2020,"C","Industria manufacturera",3,"No calificado",0.112097869723702
+2021,"C","Industria manufacturera",3,"No calificado",0.11001179573498
+2022,"C","Industria manufacturera",3,"No calificado",0.0909512703311337
+2023,"C","Industria manufacturera",3,"No calificado",0.100972308246094
+2016,"C","Industria manufacturera",2,"Semicalificado",0.749716858817266
+2017,"C","Industria manufacturera",2,"Semicalificado",0.755233715886368
+2018,"C","Industria manufacturera",2,"Semicalificado",0.74348020400652
+2019,"C","Industria manufacturera",2,"Semicalificado",0.754501841349886
+2020,"C","Industria manufacturera",2,"Semicalificado",0.766676175089025
+2021,"C","Industria manufacturera",2,"Semicalificado",0.713187264684263
+2022,"C","Industria manufacturera",2,"Semicalificado",0.784550251693743
+2023,"C","Industria manufacturera",2,"Semicalificado",0.780916367349506
+2016,"J","Información y comunicaciones",1,"Calificado",0.703294606223902
+2017,"J","Información y comunicaciones",1,"Calificado",0.584309923488638
+2018,"J","Información y comunicaciones",1,"Calificado",0.63156253292593
+2019,"J","Información y comunicaciones",1,"Calificado",0.712529931279729
+2020,"J","Información y comunicaciones",1,"Calificado",0.595821535521609
+2021,"J","Información y comunicaciones",1,"Calificado",0.763950905597975
+2022,"J","Información y comunicaciones",1,"Calificado",0.712325152735867
+2023,"J","Información y comunicaciones",1,"Calificado",0.674447206218301
+2016,"J","Información y comunicaciones",3,"No calificado",0.0262532543948529
+2017,"J","Información y comunicaciones",3,"No calificado",0.0153372546863834
+2018,"J","Información y comunicaciones",3,"No calificado",0.0170940891370772
+2019,"J","Información y comunicaciones",3,"No calificado",0.0208724035223195
+2020,"J","Información y comunicaciones",3,"No calificado",0.0262095912810773
+2021,"J","Información y comunicaciones",3,"No calificado",0.0315662784212295
+2022,"J","Información y comunicaciones",3,"No calificado",0.00499457434632022
+2023,"J","Información y comunicaciones",3,"No calificado",0.00370684329248143
+2016,"J","Información y comunicaciones",2,"Semicalificado",0.270452139381245
+2017,"J","Información y comunicaciones",2,"Semicalificado",0.400352821824978
+2018,"J","Información y comunicaciones",2,"Semicalificado",0.351343377936993
+2019,"J","Información y comunicaciones",2,"Semicalificado",0.266597665197952
+2020,"J","Información y comunicaciones",2,"Semicalificado",0.377968873197314
+2021,"J","Información y comunicaciones",2,"Semicalificado",0.204482815980795
+2022,"J","Información y comunicaciones",2,"Semicalificado",0.282680272917813
+2023,"J","Información y comunicaciones",2,"Semicalificado",0.321845950489217
+2016,"U","Organizaciones extraterritoriales",1,"Calificado",1
+2018,"U","Organizaciones extraterritoriales",1,"Calificado",1
+2019,"U","Organizaciones extraterritoriales",1,"Calificado",1
+2020,"U","Organizaciones extraterritoriales",1,"Calificado",1
+2022,"U","Organizaciones extraterritoriales",1,"Calificado",0.410180745112505
+2023,"U","Organizaciones extraterritoriales",1,"Calificado",0.972321075523923
+2021,"U","Organizaciones extraterritoriales",3,"No calificado",1
+2017,"U","Organizaciones extraterritoriales",2,"Semicalificado",1
+2022,"U","Organizaciones extraterritoriales",2,"Semicalificado",0.589819254887495
+2023,"U","Organizaciones extraterritoriales",2,"Semicalificado",0.0276789244760775
+2016,"B","Petróleo y minería",1,"Calificado",0.256533906351507
+2017,"B","Petróleo y minería",1,"Calificado",0.224705055082428
+2018,"B","Petróleo y minería",1,"Calificado",0.244469466154458
+2019,"B","Petróleo y minería",1,"Calificado",0.346859344387319
+2020,"B","Petróleo y minería",1,"Calificado",0.273924177128224
+2021,"B","Petróleo y minería",1,"Calificado",0.33000356450449
+2022,"B","Petróleo y minería",1,"Calificado",0.284657102684188
+2023,"B","Petróleo y minería",1,"Calificado",0.244283112196891
+2016,"B","Petróleo y minería",3,"No calificado",0.0694617960121933
+2017,"B","Petróleo y minería",3,"No calificado",0.0288303773732323
+2018,"B","Petróleo y minería",3,"No calificado",0.0899788051397536
+2019,"B","Petróleo y minería",3,"No calificado",0.0539769365294342
+2020,"B","Petróleo y minería",3,"No calificado",0.0659796389981887
+2021,"B","Petróleo y minería",3,"No calificado",0.0465211305564974
+2022,"B","Petróleo y minería",3,"No calificado",0.112325696947913
+2023,"B","Petróleo y minería",3,"No calificado",0.0550582263619962
+2016,"B","Petróleo y minería",2,"Semicalificado",0.6740042976363
+2017,"B","Petróleo y minería",2,"Semicalificado",0.746464567544339
+2018,"B","Petróleo y minería",2,"Semicalificado",0.665551728705789
+2019,"B","Petróleo y minería",2,"Semicalificado",0.599163719083247
+2020,"B","Petróleo y minería",2,"Semicalificado",0.660096183873587
+2021,"B","Petróleo y minería",2,"Semicalificado",0.623475304939012
+2022,"B","Petróleo y minería",2,"Semicalificado",0.6030172003679
+2023,"B","Petróleo y minería",2,"Semicalificado",0.700658661441113
+2016,"Q","Salud",1,"Calificado",0.616990675398431
+2017,"Q","Salud",1,"Calificado",0.627687561339101
+2018,"Q","Salud",1,"Calificado",0.63205245168866
+2019,"Q","Salud",1,"Calificado",0.666605567506506
+2020,"Q","Salud",1,"Calificado",0.649935100764602
+2021,"Q","Salud",1,"Calificado",0.633752681432082
+2022,"Q","Salud",1,"Calificado",0.597882921374012
+2023,"Q","Salud",1,"Calificado",0.645214195684196
+2016,"Q","Salud",3,"No calificado",0.102784396990071
+2017,"Q","Salud",3,"No calificado",0.108665624659227
+2018,"Q","Salud",3,"No calificado",0.0969064154666131
+2019,"Q","Salud",3,"No calificado",0.0866183571396943
+2020,"Q","Salud",3,"No calificado",0.097618960035734
+2021,"Q","Salud",3,"No calificado",0.123446056112011
+2022,"Q","Salud",3,"No calificado",0.115528094602224
+2023,"Q","Salud",3,"No calificado",0.0903526521996629
+2016,"Q","Salud",2,"Semicalificado",0.280224927611498
+2017,"Q","Salud",2,"Semicalificado",0.263646814001672
+2018,"Q","Salud",2,"Semicalificado",0.271041132844727
+2019,"Q","Salud",2,"Semicalificado",0.2467760753538
+2020,"Q","Salud",2,"Semicalificado",0.252445939199664
+2021,"Q","Salud",2,"Semicalificado",0.242801262455907
+2022,"Q","Salud",2,"Semicalificado",0.286588984023764
+2023,"Q","Salud",2,"Semicalificado",0.264433152116141
+2016,"S","Serv. comunitarios, sociales y personales",1,"Calificado",0.326254316336623
+2017,"S","Serv. comunitarios, sociales y personales",1,"Calificado",0.235484342362012
+2018,"S","Serv. comunitarios, sociales y personales",1,"Calificado",0.218075156716168
+2019,"S","Serv. comunitarios, sociales y personales",1,"Calificado",0.22650284374593
+2020,"S","Serv. comunitarios, sociales y personales",1,"Calificado",0.238011607997272
+2021,"S","Serv. comunitarios, sociales y personales",1,"Calificado",0.237082062591567
+2022,"S","Serv. comunitarios, sociales y personales",1,"Calificado",0.156695060069657
+2023,"S","Serv. comunitarios, sociales y personales",1,"Calificado",0.204997056176278
+2016,"S","Serv. comunitarios, sociales y personales",3,"No calificado",0.108832415278337
+2017,"S","Serv. comunitarios, sociales y personales",3,"No calificado",0.0621285447809306
+2018,"S","Serv. comunitarios, sociales y personales",3,"No calificado",0.0921960376789246
+2019,"S","Serv. comunitarios, sociales y personales",3,"No calificado",0.0835965788216906
+2020,"S","Serv. comunitarios, sociales y personales",3,"No calificado",0.0531049376152642
+2021,"S","Serv. comunitarios, sociales y personales",3,"No calificado",0.121184784031368
+2022,"S","Serv. comunitarios, sociales y personales",3,"No calificado",0.112178291438932
+2023,"S","Serv. comunitarios, sociales y personales",3,"No calificado",0.0479146223446372
+2016,"S","Serv. comunitarios, sociales y personales",2,"Semicalificado",0.564913268385039
+2017,"S","Serv. comunitarios, sociales y personales",2,"Semicalificado",0.702387112857057
+2018,"S","Serv. comunitarios, sociales y personales",2,"Semicalificado",0.689728805604908
+2019,"S","Serv. comunitarios, sociales y personales",2,"Semicalificado",0.68990057743238
+2020,"S","Serv. comunitarios, sociales y personales",2,"Semicalificado",0.708883454387464
+2021,"S","Serv. comunitarios, sociales y personales",2,"Semicalificado",0.641733153377065
+2022,"S","Serv. comunitarios, sociales y personales",2,"Semicalificado",0.73112664849141
+2023,"S","Serv. comunitarios, sociales y personales",2,"Semicalificado",0.747088321479085
+2016,"L","Serv. inmobiliarios",1,"Calificado",0.698878001222797
+2017,"L","Serv. inmobiliarios",1,"Calificado",0.634489806753026
+2018,"L","Serv. inmobiliarios",1,"Calificado",0.587281360661015
+2019,"L","Serv. inmobiliarios",1,"Calificado",0.529852005518775
+2020,"L","Serv. inmobiliarios",1,"Calificado",0.460285081718451
+2021,"L","Serv. inmobiliarios",1,"Calificado",0.55041830792458
+2022,"L","Serv. inmobiliarios",1,"Calificado",0.488548489046088
+2023,"L","Serv. inmobiliarios",1,"Calificado",0.442965446723841
+2016,"L","Serv. inmobiliarios",3,"No calificado",0.0604458251400433
+2017,"L","Serv. inmobiliarios",3,"No calificado",0.0749893820344022
+2018,"L","Serv. inmobiliarios",3,"No calificado",0.0754238652215903
+2019,"L","Serv. inmobiliarios",3,"No calificado",0.0536095367603998
+2020,"L","Serv. inmobiliarios",3,"No calificado",0.117764123485659
+2021,"L","Serv. inmobiliarios",3,"No calificado",0.0625134800721964
+2022,"L","Serv. inmobiliarios",3,"No calificado",0.00860712508573504
+2023,"L","Serv. inmobiliarios",3,"No calificado",0.0250191143823061
+2016,"L","Serv. inmobiliarios",2,"Semicalificado",0.24067617363716
+2017,"L","Serv. inmobiliarios",2,"Semicalificado",0.290520811212572
+2018,"L","Serv. inmobiliarios",2,"Semicalificado",0.337294774117395
+2019,"L","Serv. inmobiliarios",2,"Semicalificado",0.416538457720825
+2020,"L","Serv. inmobiliarios",2,"Semicalificado",0.42195079479589
+2021,"L","Serv. inmobiliarios",2,"Semicalificado",0.387068212003224
+2022,"L","Serv. inmobiliarios",2,"Semicalificado",0.502844385868176
+2023,"L","Serv. inmobiliarios",2,"Semicalificado",0.532015438893853
+2016,"M","Serv. profesionales",1,"Calificado",0.744604631331214
+2017,"M","Serv. profesionales",1,"Calificado",0.70038948162242
+2018,"M","Serv. profesionales",1,"Calificado",0.780456833721542
+2019,"M","Serv. profesionales",1,"Calificado",0.799366005367644
+2020,"M","Serv. profesionales",1,"Calificado",0.74418078916788
+2021,"M","Serv. profesionales",1,"Calificado",0.790406094217785
+2022,"M","Serv. profesionales",1,"Calificado",0.761287784596895
+2023,"M","Serv. profesionales",1,"Calificado",0.756316310090547
+2016,"M","Serv. profesionales",3,"No calificado",0.032080822073393
+2017,"M","Serv. profesionales",3,"No calificado",0.0344434685593562
+2018,"M","Serv. profesionales",3,"No calificado",0.00951236005710421
+2019,"M","Serv. profesionales",3,"No calificado",0.0103407055188167
+2020,"M","Serv. profesionales",3,"No calificado",0.0593164881275804
+2021,"M","Serv. profesionales",3,"No calificado",0.0239348089772624
+2022,"M","Serv. profesionales",3,"No calificado",0.019463657673492
+2023,"M","Serv. profesionales",3,"No calificado",0.00839307513406755
+2016,"M","Serv. profesionales",2,"Semicalificado",0.223314546595392
+2017,"M","Serv. profesionales",2,"Semicalificado",0.265167049818224
+2018,"M","Serv. profesionales",2,"Semicalificado",0.210030806221354
+2019,"M","Serv. profesionales",2,"Semicalificado",0.19029328911354
+2020,"M","Serv. profesionales",2,"Semicalificado",0.19650272270454
+2021,"M","Serv. profesionales",2,"Semicalificado",0.185659096804953
+2022,"M","Serv. profesionales",2,"Semicalificado",0.219248557729613
+2023,"M","Serv. profesionales",2,"Semicalificado",0.235290614775385
+2016,"T","Servicio doméstico",1,"Calificado",0.000757854704708421
+2017,"T","Servicio doméstico",1,"Calificado",0.00384402261062303
+2018,"T","Servicio doméstico",1,"Calificado",0.00456123129941069
+2019,"T","Servicio doméstico",1,"Calificado",0.0131705773825011
+2020,"T","Servicio doméstico",1,"Calificado",0.00171452047983802
+2021,"T","Servicio doméstico",1,"Calificado",0.00403210118451815
+2022,"T","Servicio doméstico",1,"Calificado",0.00710584936263062
+2023,"T","Servicio doméstico",1,"Calificado",0.00774139108771648
+2016,"T","Servicio doméstico",3,"No calificado",0.974426614020006
+2017,"T","Servicio doméstico",3,"No calificado",0.960121844759375
+2018,"T","Servicio doméstico",3,"No calificado",0.970706146963593
+2019,"T","Servicio doméstico",3,"No calificado",0.965266279537337
+2020,"T","Servicio doméstico",3,"No calificado",0.984495307603191
+2021,"T","Servicio doméstico",3,"No calificado",0.96249084819139
+2022,"T","Servicio doméstico",3,"No calificado",0.965248953619088
+2023,"T","Servicio doméstico",3,"No calificado",0.904698035118737
+2016,"T","Servicio doméstico",2,"Semicalificado",0.0248155312752857
+2017,"T","Servicio doméstico",2,"Semicalificado",0.0360341326300018
+2018,"T","Servicio doméstico",2,"Semicalificado",0.0247326217369965
+2019,"T","Servicio doméstico",2,"Semicalificado",0.0215631430801618
+2020,"T","Servicio doméstico",2,"Semicalificado",0.0137901719169705
+2021,"T","Servicio doméstico",2,"Semicalificado",0.0334770506240915
+2022,"T","Servicio doméstico",2,"Semicalificado",0.0276451970182811
+2023,"T","Servicio doméstico",2,"Semicalificado",0.0875605737935468
+2016,"H","Transporte",1,"Calificado",0.0930543230718544
+2017,"H","Transporte",1,"Calificado",0.0773297457498365
+2018,"H","Transporte",1,"Calificado",0.0615058531597872
+2019,"H","Transporte",1,"Calificado",0.0914480233550951
+2020,"H","Transporte",1,"Calificado",0.106758357801473
+2021,"H","Transporte",1,"Calificado",0.105599519900397
+2022,"H","Transporte",1,"Calificado",0.0535578885485525
+2023,"H","Transporte",1,"Calificado",0.0559940337203772
+2016,"H","Transporte",3,"No calificado",0.101266873002475
+2017,"H","Transporte",3,"No calificado",0.0858553942561966
+2018,"H","Transporte",3,"No calificado",0.0847163026870541
+2019,"H","Transporte",3,"No calificado",0.0761687800840396
+2020,"H","Transporte",3,"No calificado",0.113502346501395
+2021,"H","Transporte",3,"No calificado",0.0819158750845325
+2022,"H","Transporte",3,"No calificado",0.071066470258793
+2023,"H","Transporte",3,"No calificado",0.0744456842662078
+2016,"H","Transporte",2,"Semicalificado",0.805678803925671
+2017,"H","Transporte",2,"Semicalificado",0.836814859993967
+2018,"H","Transporte",2,"Semicalificado",0.853777844153159
+2019,"H","Transporte",2,"Semicalificado",0.832383196560865
+2020,"H","Transporte",2,"Semicalificado",0.779739295697132
+2021,"H","Transporte",2,"Semicalificado",0.81248460501507
+2022,"H","Transporte",2,"Semicalificado",0.875375641192655
+2023,"H","Transporte",2,"Semicalificado",0.869560282013415
+2016,"Z","Total",1,"Calificado",0.25525553689392
+2017,"Z","Total",1,"Calificado",0.2490946007332
+2018,"Z","Total",1,"Calificado",0.256312122048551
+2019,"Z","Total",1,"Calificado",0.271131319806473
+2020,"Z","Total",1,"Calificado",0.27515726445368
+2021,"Z","Total",1,"Calificado",0.28445605998914
+2022,"Z","Total",1,"Calificado",0.25251897538121
+2023,"Z","Total",1,"Calificado",0.249471100733298
+2016,"Z","Total",3,"No calificado",0.219712661925645
+2017,"Z","Total",3,"No calificado",0.219477255647653
+2018,"Z","Total",3,"No calificado",0.230181459300767
+2019,"Z","Total",3,"No calificado",0.225979658790817
+2020,"Z","Total",3,"No calificado",0.196838088854935
+2021,"Z","Total",3,"No calificado",0.20038604009617
+2022,"Z","Total",3,"No calificado",0.193445021592162
+2023,"Z","Total",3,"No calificado",0.187170429232778
+2016,"Z","Total",2,"Semicalificado",0.525031801180436
+2017,"Z","Total",2,"Semicalificado",0.531428143619148
+2018,"Z","Total",2,"Semicalificado",0.513506418650682
+2019,"Z","Total",2,"Semicalificado",0.502889021402711
+2020,"Z","Total",2,"Semicalificado",0.528004646691385
+2021,"Z","Total",2,"Semicalificado",0.51515789991469
+2022,"Z","Total",2,"Semicalificado",0.554036003026628
+2023,"Z","Total",2,"Semicalificado",0.563358470033924

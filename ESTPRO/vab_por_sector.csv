@@ -1,0 +1,1477 @@
+anio,letra_desc,vab,letra
+1900,Agro,3830.615,A
+1900,Pesca,18.822,B
+1900,Petróleo y minería,48.984,C
+1900,Industria manufacturera,2455.418,D
+1900,"Electricidad, gas y agua",6.583,E
+1900,Construcción,993.361,F
+1900,"Comercio, hoteles y restaurantes",3991.111,GH
+1900,Transporte y comunicaciones,375.766,I
+1900,Finanzas,286.015,J
+1900,Act. inmobiliarias y empresariales,4395.242,K
+1900,Adm. pública y defensa,1032.702,L
+1900,Otros servicios,1713.747,Z
+1901,Agro,4736.475,A
+1901,Pesca,19.719,B
+1901,Petróleo y minería,48.984,C
+1901,Industria manufacturera,2455.418,D
+1901,"Electricidad, gas y agua",7.461,E
+1901,Construcción,957.457,F
+1901,"Comercio, hoteles y restaurantes",4035.302,GH
+1901,Transporte y comunicaciones,395.653,I
+1901,Finanzas,305.082,J
+1901,Act. inmobiliarias y empresariales,4516.397,K
+1901,Adm. pública y defensa,1090.765,L
+1901,Otros servicios,1803.837,Z
+1902,Agro,4323.551,A
+1902,Pesca,19.719,B
+1902,Petróleo y minería,48.984,C
+1902,Industria manufacturera,2598.828,D
+1902,"Electricidad, gas y agua",8.338,E
+1902,Construcción,864.703,F
+1902,"Comercio, hoteles y restaurantes",3991.111,GH
+1902,Transporte y comunicaciones,399.84,I
+1902,Finanzas,326.269,J
+1902,Act. inmobiliarias y empresariales,4637.552,K
+1902,Adm. pública y defensa,1150.903,L
+1902,Otros servicios,1891.879,Z
+1903,Agro,5363.718,A
+1903,Pesca,20.615,B
+1903,Petróleo y minería,51.562,C
+1903,Industria manufacturera,2864.331,D
+1903,"Electricidad, gas y agua",9.216,E
+1903,Construcción,896.12,F
+1903,"Comercio, hoteles y restaurantes",4684.207,GH
+1903,Transporte y comunicaciones,457.408,I
+1903,Finanzas,351.692,J
+1903,Act. inmobiliarias y empresariales,4745.246,K
+1903,Adm. pública y defensa,1206.892,L
+1903,Otros servicios,1994.253,Z
+1904,Agro,5636.619,A
+1904,Pesca,21.511,B
+1904,Petróleo y minería,56.719,C
+1904,Industria manufacturera,3141.462,D
+1904,"Electricidad, gas y agua",10.094,E
+1904,Construcción,1313.511,F
+1904,"Comercio, hoteles y restaurantes",5609.884,GH
+1904,Transporte y comunicaciones,502.417,I
+1904,Finanzas,377.116,J
+1904,Act. inmobiliarias y empresariales,4839.477,K
+1904,Adm. pública y defensa,1260.809,L
+1904,Otros servicios,2065.915,Z
+1905,Agro,5810.933,A
+1905,Pesca,22.408,B
+1905,Petróleo y minería,64.453,C
+1905,Industria manufacturera,3668.592,D
+1905,"Electricidad, gas y agua",10.972,E
+1905,Construcción,2360.729,F
+1905,"Comercio, hoteles y restaurantes",6261.114,GH
+1905,Transporte y comunicaciones,593.48,I
+1905,Finanzas,419.488,J
+1905,Act. inmobiliarias y empresariales,4960.633,K
+1905,Adm. pública y defensa,1325.093,L
+1905,Otros servicios,2156.005,Z
+1906,Agro,5958.099,A
+1906,Pesca,24.2,B
+1906,Petróleo y minería,61.875,C
+1906,Industria manufacturera,3852.7,D
+1906,"Electricidad, gas y agua",11.849,E
+1906,Construcción,2206.639,F
+1906,"Comercio, hoteles y restaurantes",7084.455,GH
+1906,Transporte y comunicaciones,702.337,I
+1906,Finanzas,455.505,J
+1906,Act. inmobiliarias y empresariales,5142.365,K
+1906,Adm. pública y defensa,1401.82,L
+1906,Otros servicios,2246.094,Z
+1907,Agro,5133.681,A
+1907,Pesca,25.097,B
+1907,Petróleo y minería,67.031,C
+1907,Industria manufacturera,4275.179,D
+1907,"Electricidad, gas y agua",12.727,E
+1907,Construcción,2606.078,F
+1907,"Comercio, hoteles y restaurantes",7519.384,GH
+1907,Transporte y comunicaciones,758.858,I
+1907,Finanzas,502.115,J
+1907,Act. inmobiliarias y empresariales,5371.214,K
+1907,Adm. pública y defensa,1495.137,L
+1907,Otros servicios,2340.279,Z
+1908,Agro,6423.889,A
+1908,Pesca,25.993,B
+1908,Petróleo y minería,69.609,C
+1908,Industria manufacturera,4538.744,D
+1908,"Electricidad, gas y agua",14.044,E
+1908,Construcción,2573.165,F
+1908,"Comercio, hoteles y restaurantes",7821.741,GH
+1908,Transporte y comunicaciones,872.949,I
+1908,Finanzas,525.42,J
+1908,Act. inmobiliarias y empresariales,5687.564,K
+1908,Adm. pública y defensa,1600.895,L
+1908,Otros servicios,2436.511,Z
+1909,Agro,6196.709,A
+1909,Pesca,27.785,B
+1909,Petróleo y minería,95.39,C
+1909,Industria manufacturera,4486.419,D
+1909,"Electricidad, gas y agua",15.36,E
+1909,Construcción,3470.781,F
+1909,"Comercio, hoteles y restaurantes",8212.479,GH
+1909,Transporte y comunicaciones,906.443,I
+1909,Finanzas,559.318,J
+1909,Act. inmobiliarias y empresariales,6017.375,K
+1909,Adm. pública y defensa,1704.58,L
+1909,Otros servicios,2528.648,Z
+1910,Agro,5950.955,A
+1910,Pesca,29.578,B
+1910,Petróleo y minería,126.328,C
+1910,Industria manufacturera,5490.291,D
+1910,"Electricidad, gas y agua",17.116,E
+1910,Construcción,3880.692,F
+1910,"Comercio, hoteles y restaurantes",8966.046,GH
+1910,Transporte y comunicaciones,983.899,I
+1910,Finanzas,601.69,J
+1910,Act. inmobiliarias y empresariales,6340.456,K
+1910,Adm. pública y defensa,1814.486,L
+1910,Otros servicios,2639.212,Z
+1911,Agro,5373.72,A
+1911,Pesca,31.371,B
+1911,Petróleo y minería,131.484,C
+1911,Industria manufacturera,5885.639,D
+1911,"Electricidad, gas y agua",24.577,E
+1911,Construcción,3956.989,F
+1911,"Comercio, hoteles y restaurantes",9398.649,GH
+1911,Transporte y comunicaciones,1065.542,I
+1911,Finanzas,652.537,J
+1911,Act. inmobiliarias y empresariales,6751.037,K
+1911,Adm. pública y defensa,1926.466,L
+1911,Otros servicios,2735.444,Z
+1912,Agro,7838.401,A
+1912,Pesca,33.163,B
+1912,Petróleo y minería,149.531,C
+1912,Industria manufacturera,5581.376,D
+1912,"Electricidad, gas y agua",32.037,E
+1912,Construcción,2938.195,F
+1912,"Comercio, hoteles y restaurantes",9919.633,GH
+1912,Transporte y comunicaciones,1242.434,I
+1912,Finanzas,701.266,J
+1912,Act. inmobiliarias y empresariales,7175.08,K
+1912,Adm. pública y defensa,2040.519,L
+1912,Otros servicios,2819.391,Z
+1913,Agro,7198.299,A
+1913,Pesca,34.956,B
+1913,Petróleo y minería,193.359,C
+1913,Industria manufacturera,5910.832,D
+1913,"Electricidad, gas y agua",39.937,E
+1913,Construcción,2755.68,F
+1913,"Comercio, hoteles y restaurantes",10468.53,GH
+1913,Transporte y comunicaciones,1408.86,I
+1913,Finanzas,737.283,J
+1913,Act. inmobiliarias y empresariales,7491.43,K
+1913,Adm. pública y defensa,2171.162,L
+1913,Otros servicios,2915.623,Z
+1914,Agro,7061.134,A
+1914,Pesca,34.956,B
+1914,Petróleo y minería,159.843,C
+1914,Industria manufacturera,5397.268,D
+1914,"Electricidad, gas y agua",43.448,E
+1914,Construcción,1579.804,F
+1914,"Comercio, hoteles y restaurantes",8517.162,GH
+1914,Transporte y comunicaciones,1228.827,I
+1914,Finanzas,656.775,J
+1914,Act. inmobiliarias y empresariales,7821.242,K
+1914,Adm. pública y defensa,2258.258,L
+1914,Otros servicios,3007.76,Z
+1915,Agro,8472.789,A
+1915,Pesca,34.956,B
+1915,Petróleo y minería,131.484,C
+1915,Industria manufacturera,4843.006,D
+1915,"Electricidad, gas y agua",47.398,E
+1915,Construcción,896.12,F
+1915,"Comercio, hoteles y restaurantes",7924.077,GH
+1915,Transporte y comunicaciones,1243.481,I
+1915,Finanzas,593.216,J
+1915,Act. inmobiliarias y empresariales,7949.128,K
+1915,Adm. pública y defensa,2343.279,L
+1915,Otros servicios,3138.799,Z
+1916,Agro,7549.784,A
+1916,Pesca,35.852,B
+1916,Petróleo y minería,136.64,C
+1916,Industria manufacturera,4961.223,D
+1916,"Electricidad, gas y agua",50.909,E
+1916,Construcción,743.525,F
+1916,"Comercio, hoteles y restaurantes",7779.876,GH
+1916,Transporte y comunicaciones,1308.377,I
+1916,Finanzas,614.402,J
+1916,Act. inmobiliarias y empresariales,8023.167,K
+1916,Adm. pública y defensa,2417.932,L
+1916,Otros servicios,3349.69,Z
+1917,Agro,6218.141,A
+1917,Pesca,35.852,B
+1917,Petróleo y minería,144.374,C
+1917,Industria manufacturera,4922.464,D
+1917,"Electricidad, gas y agua",53.981,E
+1917,Construcción,486.209,F
+1917,"Comercio, hoteles y restaurantes",7156.556,GH
+1917,Transporte y comunicaciones,1203.707,I
+1917,Finanzas,622.877,J
+1917,Act. inmobiliarias y empresariales,8083.744,K
+1917,Adm. pública y defensa,2490.512,L
+1917,Otros servicios,3388.593,Z
+1918,Agro,8717.114,A
+1918,Pesca,35.852,B
+1918,Petróleo y minería,134.062,C
+1918,Industria manufacturera,5858.507,D
+1918,"Electricidad, gas y agua",57.492,E
+1918,Construcción,519.121,F
+1918,"Comercio, hoteles y restaurantes",8068.278,GH
+1918,Transporte y comunicaciones,1349.198,I
+1918,Finanzas,692.791,J
+1918,Act. inmobiliarias y empresariales,8130.86,K
+1918,Adm. pública y defensa,2561.017,L
+1918,Otros servicios,3540.107,Z
+1919,Agro,8662.819,A
+1919,Pesca,36.749,B
+1919,Petróleo y minería,126.328,C
+1919,Industria manufacturera,6096.878,D
+1919,"Electricidad, gas y agua",61.002,E
+1919,Construcción,564.002,F
+1919,"Comercio, hoteles y restaurantes",8949.765,GH
+1919,Transporte y comunicaciones,1360.712,I
+1919,Finanzas,862.282,J
+1919,Act. inmobiliarias y empresariales,8191.438,K
+1919,Adm. pública y defensa,2637.744,L
+1919,Otros servicios,3669.098,Z
+1920,Agro,9004.303,A
+1920,Pesca,37.645,B
+1920,Petróleo y minería,146.952,C
+1920,Industria manufacturera,6333.311,D
+1920,"Electricidad, gas y agua",64.513,E
+1920,Construcción,1087.611,F
+1920,"Comercio, hoteles y restaurantes",9961.498,GH
+1920,Transporte y comunicaciones,1537.604,I
+1920,Finanzas,855.926,J
+1920,Act. inmobiliarias y empresariales,8252.016,K
+1920,Adm. pública y defensa,2720.692,L
+1920,Otros servicios,3773.52,Z
+1921,Agro,9095.746,A
+1921,Pesca,39.437,B
+1921,Petróleo y minería,113.437,C
+1921,Industria manufacturera,6664.706,D
+1921,"Electricidad, gas y agua",68.024,E
+1921,Construcción,1367.368,F
+1921,"Comercio, hoteles y restaurantes",9961.498,GH
+1921,Transporte y comunicaciones,1477.942,I
+1921,Finanzas,940.671,J
+1921,Act. inmobiliarias y empresariales,8400.094,K
+1921,Adm. pública y defensa,2818.156,L
+1921,Otros servicios,3912.75,Z
+1922,Agro,9420.084,A
+1922,Pesca,39.437,B
+1922,Petróleo y minería,146.952,C
+1922,Industria manufacturera,7403.075,D
+1922,"Electricidad, gas y agua",71.535,E
+1922,Construcción,1750.351,F
+1922,"Comercio, hoteles y restaurantes",11061.61,GH
+1922,Transporte y comunicaciones,1640.181,I
+1922,Finanzas,1095.331,J
+1922,Act. inmobiliarias y empresariales,8554.904,K
+1922,Adm. pública y defensa,2928.062,L
+1922,Otros servicios,4045.836,Z
+1923,Agro,9598.684,A
+1923,Pesca,40.334,B
+1923,Petróleo y minería,188.202,C
+1923,Industria manufacturera,8656.947,D
+1923,"Electricidad, gas y agua",75.485,E
+1923,Construcción,2662.927,F
+1923,"Comercio, hoteles y restaurantes",12796.68,GH
+1923,Transporte y comunicaciones,1850.568,I
+1923,Finanzas,1199.143,J
+1923,Act. inmobiliarias y empresariales,8777.021,K
+1923,Adm. pública y defensa,3056.631,L
+1923,Otros servicios,4197.35,Z
+1924,Agro,10994.62,A
+1924,Pesca,40.334,B
+1924,Petróleo y minería,250.077,C
+1924,Industria manufacturera,9131.751,D
+1924,"Electricidad, gas y agua",79.874,E
+1924,Construcción,2704.815,F
+1924,"Comercio, hoteles y restaurantes",13317.66,GH
+1924,Transporte y comunicaciones,2140.504,I
+1924,Finanzas,1216.092,J
+1924,Act. inmobiliarias y empresariales,9086.64,K
+1924,Adm. pública y defensa,3191.422,L
+1924,Otros servicios,4441.001,Z
+1925,Agro,9828.721,A
+1925,Pesca,42.126,B
+1925,Petróleo y minería,281.014,C
+1925,Industria manufacturera,9910.818,D
+1925,"Electricidad, gas y agua",84.262,E
+1925,Construcción,2377.186,F
+1925,"Comercio, hoteles y restaurantes",13910.75,GH
+1925,Transporte y comunicaciones,2213.773,I
+1925,Finanzas,1275.414,J
+1925,Act. inmobiliarias y empresariales,9429.913,K
+1925,Adm. pública y defensa,3311.696,L
+1925,Otros servicios,4500.379,Z
+1926,Agro,11428.98,A
+1926,Pesca,45.712,B
+1926,Petróleo y minería,340.311,C
+1926,Industria manufacturera,9724.773,D
+1926,"Electricidad, gas y agua",88.651,E
+1926,Construcción,2200.655,F
+1926,"Comercio, hoteles y restaurantes",14243.34,GH
+1926,Transporte y comunicaciones,2284.949,I
+1926,Finanzas,1305.075,J
+1926,Act. inmobiliarias y empresariales,9719.34,K
+1926,Adm. pública y defensa,3427.823,L
+1926,Otros servicios,4649.845,Z
+1927,Agro,11729.03,A
+1927,Pesca,49.297,B
+1927,Petróleo y minería,355.78,C
+1927,Industria manufacturera,10331.36,D
+1927,"Electricidad, gas y agua",92.601,E
+1927,Construcción,3071.342,F
+1927,"Comercio, hoteles y restaurantes",15429.51,GH
+1927,Transporte y comunicaciones,2551.858,I
+1927,Finanzas,1311.431,J
+1927,Act. inmobiliarias y empresariales,9961.65,K
+1927,Adm. pública y defensa,3554.319,L
+1927,Otros servicios,4813.644,Z
+1928,Agro,11933.34,A
+1928,Pesca,58.26,B
+1928,Petróleo y minería,366.092,C
+1928,Industria manufacturera,11532.91,D
+1928,"Electricidad, gas y agua",96.99,E
+1928,Construcción,3372.043,F
+1928,"Comercio, hoteles y restaurantes",16541.25,GH
+1928,Transporte y comunicaciones,2821.907,I
+1928,Finanzas,1389.82,J
+1928,Act. inmobiliarias y empresariales,10237.62,K
+1928,Adm. pública y defensa,3678.741,L
+1928,Otros servicios,4965.158,Z
+1929,Agro,11910.48,A
+1929,Pesca,51.089,B
+1929,Petróleo y minería,412.498,C
+1929,Industria manufacturera,12100.73,D
+1929,"Electricidad, gas y agua",101.378,E
+1929,Construcción,4132.024,F
+1929,"Comercio, hoteles y restaurantes",17192.48,GH
+1929,Transporte y comunicaciones,3045.901,I
+1929,Finanzas,1461.853,J
+1929,Act. inmobiliarias y empresariales,10567.43,K
+1929,Adm. pública y defensa,3803.163,L
+1929,Otros servicios,5139.195,Z
+1930,Agro,10630.28,A
+1930,Pesca,67.223,B
+1930,Petróleo y minería,389.295,C
+1930,Industria manufacturera,11968.95,D
+1930,"Electricidad, gas y agua",105.767,E
+1930,Construcción,3985.414,F
+1930,"Comercio, hoteles y restaurantes",15920.25,GH
+1930,Transporte y comunicaciones,2979.959,I
+1930,Finanzas,1538.124,J
+1930,Act. inmobiliarias y empresariales,10951.08,K
+1930,Adm. pública y defensa,3925.511,L
+1930,Otros servicios,5280.472,Z
+1931,Agro,10893.18,A
+1931,Pesca,55.571,B
+1931,Petróleo y minería,474.373,C
+1931,Industria manufacturera,10622.06,D
+1931,"Electricidad, gas y agua",113.666,E
+1931,Construcción,2329.313,F
+1931,"Comercio, hoteles y restaurantes",13808.41,GH
+1931,Transporte y comunicaciones,2997.753,I
+1931,Finanzas,1523.294,J
+1931,Act. inmobiliarias y empresariales,11314.55,K
+1931,Adm. pública y defensa,4037.491,L
+1931,Otros servicios,5405.368,Z
+1932,Agro,11483.27,A
+1932,Pesca,54.675,B
+1932,Petróleo y minería,505.31,C
+1932,Industria manufacturera,9976.71,D
+1932,"Electricidad, gas y agua",122.444,E
+1932,Construcción,1677.045,F
+1932,"Comercio, hoteles y restaurantes",12491.99,GH
+1932,Transporte y comunicaciones,2764.338,I
+1932,Finanzas,1402.532,J
+1932,Act. inmobiliarias y empresariales,11556.86,K
+1932,Adm. pública y defensa,4134.955,L
+1932,Otros servicios,5528.218,Z
+1933,Agro,11534.71,A
+1933,Pesca,49.297,B
+1933,Petróleo y minería,559.451,C
+1933,Industria manufacturera,11308.1,D
+1933,"Electricidad, gas y agua",127.271,E
+1933,Construcción,1962.786,F
+1933,"Comercio, hoteles y restaurantes",13650.25,GH
+1933,Transporte y comunicaciones,2612.567,I
+1933,Finanzas,1372.871,J
+1933,Act. inmobiliarias y empresariales,11725.13,K
+1933,Adm. pública y defensa,4230.345,L
+1933,Otros servicios,5644.924,Z
+1934,Agro,12141.95,A
+1934,Pesca,47.504,B
+1934,Petróleo y minería,572.341,C
+1934,Industria manufacturera,12839.1,D
+1934,"Electricidad, gas y agua",134.293,E
+1934,Construcción,2736.232,F
+1934,"Comercio, hoteles y restaurantes",14734.09,GH
+1934,Transporte y comunicaciones,2726.657,I
+1934,Finanzas,1389.82,J
+1934,Act. inmobiliarias y empresariales,11893.4,K
+1934,Adm. pública y defensa,4321.587,L
+1934,Otros servicios,5788.249,Z
+1935,Agro,13855.08,A
+1935,Pesca,52.882,B
+1935,Petróleo y minería,678.044,C
+1935,Industria manufacturera,13195.69,D
+1935,"Electricidad, gas y agua",140.437,E
+1935,Construcción,2514.82,F
+1935,"Comercio, hoteles y restaurantes",14459.64,GH
+1935,Transporte y comunicaciones,2874.242,I
+1935,Finanzas,1421.599,J
+1935,Act. inmobiliarias y empresariales,12102.06,K
+1935,Adm. pública y defensa,4410.756,L
+1935,Otros servicios,5958.19,Z
+1936,Agro,12593.45,A
+1936,Pesca,56.467,B
+1936,Petróleo y minería,812.106,C
+1936,Industria manufacturera,14044.53,D
+1936,"Electricidad, gas y agua",150.97,E
+1936,Construcción,2701.823,F
+1936,"Comercio, hoteles y restaurantes",14764.32,GH
+1936,Transporte y comunicaciones,2992.519,I
+1936,Finanzas,1459.735,J
+1936,Act. inmobiliarias y empresariales,12303.98,K
+1936,Adm. pública y defensa,4715.59,L
+1936,Otros servicios,6066.707,Z
+1937,Agro,13016.38,A
+1937,Pesca,60.949,B
+1937,Petróleo y minería,948.746,C
+1937,Industria manufacturera,14920.49,D
+1937,"Electricidad, gas y agua",159.309,E
+1937,Construcción,3466.293,F
+1937,"Comercio, hoteles y restaurantes",16604.05,GH
+1937,Transporte y comunicaciones,3220.7,I
+1937,Finanzas,1521.175,J
+1937,Act. inmobiliarias y empresariales,12566.49,K
+1937,Adm. pública y defensa,4925.034,L
+1937,Otros servicios,6232.553,Z
+1938,Agro,11841.9,A
+1938,Pesca,68.119,B
+1938,Petróleo y minería,1010.621,C
+1938,Industria manufacturera,15505.76,D
+1938,"Electricidad, gas y agua",167.208,E
+1938,Construcción,3861.244,F
+1938,"Comercio, hoteles y restaurantes",16743.6,GH
+1938,Transporte y comunicaciones,3218.607,I
+1938,Finanzas,1578.378,J
+1938,Act. inmobiliarias y empresariales,12876.11,K
+1938,Adm. pública y defensa,5211.204,L
+1938,Otros servicios,6396.352,Z
+1939,Agro,13210.69,A
+1939,Pesca,69.912,B
+1939,Petróleo y minería,1131.792,C
+1939,Industria manufacturera,16116.22,D
+1939,"Electricidad, gas y agua",175.108,E
+1939,Construcción,3536.606,F
+1939,"Comercio, hoteles y restaurantes",16720.34,GH
+1939,Transporte y comunicaciones,3346.304,I
+1939,Finanzas,1627.106,J
+1939,Act. inmobiliarias y empresariales,13178.99,K
+1939,Adm. pública y defensa,5383.321,L
+1939,Otros servicios,6543.772,Z
+1940,Agro,14130.84,A
+1940,Pesca,69.912,B
+1940,Petróleo y minería,1250.385,C
+1940,Industria manufacturera,16143.36,D
+1940,"Electricidad, gas y agua",180.374,E
+1940,Construcción,3129.687,F
+1940,"Comercio, hoteles y restaurantes",16580.79,GH
+1940,Transporte y comunicaciones,3395.499,I
+1940,Finanzas,1667.36,J
+1940,Act. inmobiliarias y empresariales,13448.23,K
+1940,Adm. pública y defensa,5561.659,L
+1940,Otros servicios,6701.428,Z
+1941,Agro,15781.11,A
+1941,Pesca,81.564,B
+1941,Petróleo y minería,1319.994,C
+1941,Industria manufacturera,16779.01,D
+1941,"Electricidad, gas y agua",186.518,E
+1941,Construcción,3271.809,F
+1941,"Comercio, hoteles y restaurantes",16627.3,GH
+1941,Transporte y comunicaciones,3616.353,I
+1941,Finanzas,1699.14,J
+1941,Act. inmobiliarias y empresariales,13791.5,K
+1941,Adm. pública y defensa,5706.818,L
+1941,Otros servicios,6844.752,Z
+1942,Agro,15588.22,A
+1942,Pesca,80.668,B
+1942,Petróleo y minería,1376.713,C
+1942,Industria manufacturera,17019.32,D
+1942,"Electricidad, gas y agua",194.418,E
+1942,Construcción,3265.825,F
+1942,"Comercio, hoteles y restaurantes",16650.56,GH
+1942,Transporte y comunicaciones,3718.93,I
+1942,Finanzas,1754.224,J
+1942,Act. inmobiliarias y empresariales,14168.43,K
+1942,Adm. pública y defensa,6042.757,L
+1942,Otros servicios,7090.451,Z
+1943,Agro,13650.76,A
+1943,Pesca,86.045,B
+1943,Petróleo y minería,1410.228,C
+1943,Industria manufacturera,17788.7,D
+1943,"Electricidad, gas y agua",204.073,E
+1943,Construcción,3375.035,F
+1943,"Comercio, hoteles y restaurantes",16511.01,GH
+1943,Transporte y comunicaciones,3971.185,I
+1943,Finanzas,1809.308,J
+1943,Act. inmobiliarias y empresariales,14558.82,K
+1943,Adm. pública y defensa,6208.653,L
+1943,Otros servicios,7463.094,Z
+1944,Agro,16439.78,A
+1944,Pesca,74.393,B
+1944,Petróleo y minería,1487.572,C
+1944,Industria manufacturera,20178.22,D
+1944,"Electricidad, gas y agua",215.484,E
+1944,Construcción,4120.056,F
+1944,"Comercio, hoteles y restaurantes",17371.57,GH
+1944,Transporte y comunicaciones,4063.295,I
+1944,Finanzas,1911.002,J
+1944,Act. inmobiliarias y empresariales,14989.59,K
+1944,Adm. pública y defensa,6936.521,L
+1944,Otros servicios,7819.357,Z
+1945,Agro,13187.83,A
+1945,Pesca,63.638,B
+1945,Petróleo y minería,1446.322,C
+1945,Industria manufacturera,20311.95,D
+1945,"Electricidad, gas y agua",212.411,E
+1945,Construcción,4016.83,F
+1945,"Comercio, hoteles y restaurantes",17301.79,GH
+1945,Transporte y comunicaciones,4120.863,I
+1945,Finanzas,2095.323,J
+1945,Act. inmobiliarias y empresariales,15420.37,K
+1945,Adm. pública y defensa,7927.749,L
+1945,Otros servicios,8106.005,Z
+1946,Agro,13787.93,A
+1946,Pesca,69.912,B
+1946,Petróleo y minería,1340.619,C
+1946,Industria manufacturera,22912.71,D
+1946,"Electricidad, gas y agua",229.088,E
+1946,Construcción,4281.627,F
+1946,"Comercio, hoteles y restaurantes",19839.27,GH
+1946,Transporte y comunicaciones,4665.148,I
+1946,Finanzas,2404.643,J
+1946,Act. inmobiliarias y empresariales,15871.33,K
+1946,Adm. pública y defensa,8257.467,L
+1946,Otros servicios,8427.461,Z
+1947,Agro,14845.24,A
+1947,Pesca,73.497,B
+1947,Petróleo y minería,1392.182,C
+1947,Industria manufacturera,26418.51,D
+1947,"Electricidad, gas y agua",247.082,E
+1947,Construcción,4314.54,F
+1947,"Comercio, hoteles y restaurantes",23379.17,GH
+1947,Transporte y comunicaciones,5339.223,I
+1947,Finanzas,2468.202,J
+1947,Act. inmobiliarias y empresariales,16315.57,K
+1947,Adm. pública y defensa,9449.843,L
+1947,Otros servicios,8617.877,Z
+1948,Agro,14872.39,A
+1948,Pesca,84.253,B
+1948,Petróleo y minería,1376.713,C
+1948,Industria manufacturera,26736.34,D
+1948,"Electricidad, gas y agua",265.953,E
+1948,Construcción,5584.666,F
+1948,"Comercio, hoteles y restaurantes",24823.5,GH
+1948,Transporte y comunicaciones,5828.033,I
+1948,Finanzas,2910.995,J
+1948,Act. inmobiliarias y empresariales,16833.84,K
+1948,Adm. pública y defensa,10285.54,L
+1948,Otros servicios,9074.467,Z
+1949,Agro,13717.92,A
+1949,Pesca,86.942,B
+1949,Petróleo y minería,1469.525,C
+1949,Industria manufacturera,25780.92,D
+1949,"Electricidad, gas y agua",274.731,E
+1949,Construcción,6238.429,F
+1949,"Comercio, hoteles y restaurantes",23169.84,GH
+1949,Transporte y comunicaciones,5951.544,I
+1949,Finanzas,3101.671,J
+1949,Act. inmobiliarias y empresariales,17358.85,K
+1949,Adm. pública y defensa,10606.97,L
+1949,Otros servicios,9649.811,Z
+1950,Agro,12937.79,A
+1950,Pesca,79.771,B
+1950,Petróleo y minería,1456.634,C
+1950,Industria manufacturera,26550.3,D
+1950,"Electricidad, gas y agua",293.163,E
+1950,Construcción,6477.793,F
+1950,"Comercio, hoteles y restaurantes",23286.13,GH
+1950,Transporte y comunicaciones,6138.903,I
+1950,Finanzas,3233.026,J
+1950,Act. inmobiliarias y empresariales,17930.97,K
+1950,Adm. pública y defensa,11056.96,L
+1950,Otros servicios,9813.61,Z
+1951,Agro,13807,A
+1951,Pesca,106.966,B
+1951,Petróleo y minería,1692.323,C
+1951,Industria manufacturera,27245.9,D
+1951,"Electricidad, gas y agua",314.626,E
+1951,Construcción,6634.262,F
+1951,"Comercio, hoteles y restaurantes",24188.17,GH
+1951,Transporte y comunicaciones,6370.441,I
+1951,Finanzas,3338.185,J
+1951,Act. inmobiliarias y empresariales,18443.63,K
+1951,Adm. pública y defensa,11410.15,L
+1951,Otros servicios,10061.77,Z
+1952,Agro,11829.34,A
+1952,Pesca,110.592,B
+1952,Petróleo y minería,1800.508,C
+1952,Industria manufacturera,26731.1,D
+1952,"Electricidad, gas y agua",337.064,E
+1952,Construcción,6098.358,F
+1952,"Comercio, hoteles y restaurantes",22490.12,GH
+1952,Transporte y comunicaciones,5933.677,I
+1952,Finanzas,3480.028,J
+1952,Act. inmobiliarias y empresariales,18992.91,K
+1952,Adm. pública y defensa,11359.97,L
+1952,Otros servicios,10304.38,Z
+1953,Agro,15487.95,A
+1953,Pesca,106.966,B
+1953,Petróleo y minería,1931.876,C
+1953,Industria manufacturera,26582.04,D
+1953,"Electricidad, gas y agua",358.527,E
+1953,Construcción,6070.976,F
+1953,"Comercio, hoteles y restaurantes",22114.7,GH
+1953,Transporte y comunicaciones,6097.858,I
+1953,Finanzas,3484.919,J
+1953,Act. inmobiliarias y empresariales,19456.75,K
+1953,Adm. pública y defensa,11512.44,L
+1953,Otros servicios,10626.63,Z
+1954,Agro,15401.24,A
+1954,Pesca,103.34,B
+1954,Petróleo y minería,2043.925,C
+1954,Industria manufacturera,28688.18,D
+1954,"Electricidad, gas y agua",390.234,E
+1954,Construcción,5810.847,F
+1954,"Comercio, hoteles y restaurantes",23480.79,GH
+1954,Transporte y comunicaciones,6391.49,I
+1954,Finanzas,3604.751,J
+1954,Act. inmobiliarias y empresariales,19945,K
+1954,Adm. pública y defensa,11917.74,L
+1954,Otros servicios,10921.09,Z
+1955,Agro,16039.56,A
+1955,Pesca,101.527,B
+1955,Petróleo y minería,2125.063,C
+1955,Industria manufacturera,32197.94,D
+1955,"Electricidad, gas y agua",419.989,E
+1955,Construcción,5957.536,F
+1955,"Comercio, hoteles y restaurantes",25792.38,GH
+1955,Transporte y comunicaciones,6719.852,I
+1955,Finanzas,3839.525,J
+1955,Act. inmobiliarias y empresariales,20457.66,K
+1955,Adm. pública y defensa,11946.69,L
+1955,Otros servicios,11304.45,Z
+1956,Agro,15299.9,A
+1956,Pesca,108.779,B
+1956,Petróleo y minería,2179.156,C
+1956,Industria manufacturera,34429.68,D
+1956,"Electricidad, gas y agua",456.573,E
+1956,Construcción,5779.553,F
+1956,"Comercio, hoteles y restaurantes",26944.69,GH
+1956,Transporte y comunicaciones,6748.268,I
+1956,Finanzas,3915.337,J
+1956,Act. inmobiliarias y empresariales,20921.5,K
+1956,Adm. pública y defensa,12570.08,L
+1956,Otros servicios,11721.14,Z
+1957,Agro,15221.55,A
+1957,Pesca,114.218,B
+1957,Petróleo y minería,2329.842,C
+1957,Industria manufacturera,37148.61,D
+1957,"Electricidad, gas y agua",474.622,E
+1957,Construcción,6784.863,F
+1957,"Comercio, hoteles y restaurantes",28712.27,GH
+1957,Transporte y comunicaciones,7115.571,I
+1957,Finanzas,4022.941,J
+1957,Act. inmobiliarias y empresariales,21360.92,K
+1957,Adm. pública y defensa,12726.41,L
+1957,Otros servicios,12093.39,Z
+1958,Agro,15888.08,A
+1958,Pesca,112.405,B
+1958,Petróleo y minería,2495.984,C
+1958,Industria manufacturera,40252.61,D
+1958,"Electricidad, gas y agua",514.133,E
+1958,Construcción,8052.257,F
+1958,"Comercio, hoteles y restaurantes",30300.83,GH
+1958,Transporte y comunicaciones,7489.188,I
+1958,Finanzas,4343.309,J
+1958,Act. inmobiliarias y empresariales,21959.03,K
+1958,Adm. pública y defensa,12724.48,L
+1958,Otros servicios,12423.04,Z
+1959,Agro,15727.19,A
+1959,Pesca,110.592,B
+1959,Petróleo y minería,2878.495,C
+1959,Industria manufacturera,36091.4,D
+1959,"Electricidad, gas y agua",523.888,E
+1959,Construcción,6055.329,F
+1959,"Comercio, hoteles y restaurantes",26932.52,GH
+1959,Transporte y comunicaciones,7237.654,I
+1959,Finanzas,4379.993,J
+1959,Act. inmobiliarias y empresariales,22093.3,K
+1959,Adm. pública y defensa,12880.81,L
+1959,Otros servicios,12854.55,Z
+1960,Agro,15977.92,A
+1960,Pesca,130.535,B
+1960,Petróleo y minería,3968.073,C
+1960,Industria manufacturera,39721.24,D
+1960,"Electricidad, gas y agua",559.985,E
+1960,Construcción,7234.71,F
+1960,"Comercio, hoteles y restaurantes",30405.11,GH
+1960,Transporte y comunicaciones,7684.943,I
+1960,Finanzas,4516.944,J
+1960,Act. inmobiliarias y empresariales,22142.12,K
+1960,Adm. pública y defensa,13021.7,L
+1960,Otros servicios,13463.85,Z
+1961,Agro,15884.94,A
+1961,Pesca,110.592,B
+1961,Petróleo y minería,5189.018,C
+1961,Industria manufacturera,43700.27,D
+1961,"Electricidad, gas y agua",672.177,E
+1961,Construcción,7655.219,F
+1961,"Comercio, hoteles y restaurantes",33809.91,GH
+1961,Transporte y comunicaciones,8192.221,I
+1961,Finanzas,4781.064,J
+1961,Act. inmobiliarias y empresariales,22227.57,K
+1961,Adm. pública y defensa,13222.42,L
+1961,Otros servicios,14178.71,Z
+1962,Agro,16534.76,A
+1962,Pesca,103.34,B
+1962,Petróleo y minería,5841.992,C
+1962,Industria manufacturera,41284.97,D
+1962,"Electricidad, gas y agua",765.345,E
+1962,Construcción,7023.477,F
+1962,"Comercio, hoteles y restaurantes",32475.1,GH
+1962,Transporte y comunicaciones,7891.222,I
+1962,Finanzas,4998.719,J
+1962,Act. inmobiliarias y empresariales,22422.87,K
+1962,Adm. pública y defensa,13376.82,L
+1962,Otros servicios,14838.01,Z
+1963,Agro,16838.77,A
+1963,Pesca,134.161,B
+1963,Petróleo y minería,5826.537,C
+1963,Industria manufacturera,39612.21,D
+1963,"Electricidad, gas y agua",815.1,E
+1963,Construcción,6610.792,F
+1963,"Comercio, hoteles y restaurantes",29869.79,GH
+1963,Transporte y comunicaciones,7694.415,I
+1963,Finanzas,5094.095,J
+1963,Act. inmobiliarias y empresariales,22715.82,K
+1963,Adm. pública y defensa,13262.95,L
+1963,Otros servicios,15517.69,Z
+1964,Agro,18004.68,A
+1964,Pesca,159.543,B
+1964,Petróleo y minería,5930.859,C
+1964,Industria manufacturera,47080.3,D
+1964,"Electricidad, gas y agua",892.171,E
+1964,Construcción,6892.435,F
+1964,"Comercio, hoteles y restaurantes",32617.62,GH
+1964,Transporte y comunicaciones,8524.793,I
+1964,Finanzas,5179.69,J
+1964,Act. inmobiliarias y empresariales,22996.56,K
+1964,Adm. pública y defensa,13498.41,L
+1964,Otros servicios,16299.22,Z
+1965,Agro,19075.51,A
+1965,Pesca,163.169,B
+1965,Petróleo y minería,6154.956,C
+1965,Industria manufacturera,53579.51,D
+1965,"Electricidad, gas y agua",1028.265,E
+1965,Construcción,7156.475,F
+1965,"Comercio, hoteles y restaurantes",35970.28,GH
+1965,Transporte y comunicaciones,9308.863,I
+1965,Finanzas,5412.018,J
+1965,Act. inmobiliarias y empresariales,23667.9,K
+1965,Adm. pública y defensa,13755.1,L
+1965,Otros servicios,17095.57,Z
+1966,Agro,18351.52,A
+1966,Pesca,175.859,B
+1966,Petróleo y minería,6494.967,C
+1966,Industria manufacturera,53932.83,D
+1966,"Electricidad, gas y agua",1108.263,E
+1966,Construcción,7598.499,F
+1966,"Comercio, hoteles y restaurantes",35775.63,GH
+1966,Transporte y comunicaciones,9308.863,I
+1966,Finanzas,5566.088,J
+1966,Act. inmobiliarias y empresariales,24400.28,K
+1966,Adm. pública y defensa,14226.02,L
+1966,Otros servicios,17860.44,Z
+1967,Agro,19136.11,A
+1967,Pesca,188.55,B
+1967,Petróleo y minería,7279.308,C
+1967,Industria manufacturera,54749.89,D
+1967,"Electricidad, gas y agua",1191.188,E
+1967,Construcción,8576.426,F
+1967,"Comercio, hoteles y restaurantes",36140.61,GH
+1967,Transporte y comunicaciones,9401.478,I
+1967,Finanzas,5673.692,J
+1967,Act. inmobiliarias y empresariales,25230.3,K
+1967,Adm. pública y defensa,14374.63,L
+1967,Otros servicios,18599.37,Z
+1968,Agro,18073.63,A
+1968,Pesca,219.371,B
+1968,Petróleo y minería,8179.562,C
+1968,Industria manufacturera,58307.96,D
+1968,"Electricidad, gas y agua",1287.283,E
+1968,Construcción,10129.38,F
+1968,"Comercio, hoteles y restaurantes",38057.66,GH
+1968,Transporte y comunicaciones,9901.389,I
+1968,Finanzas,5957.377,J
+1968,Act. inmobiliarias y empresariales,26182.39,K
+1968,Adm. pública y defensa,14420.95,L
+1968,Otros servicios,19427.21,Z
+1969,Agro,19091.18,A
+1969,Pesca,184.924,B
+1969,Petróleo y minería,8983.223,C
+1969,Industria manufacturera,64625,D
+1969,"Electricidad, gas y agua",1402.402,E
+1969,Construcción,12065.67,F
+1969,"Comercio, hoteles y restaurantes",42002.99,GH
+1969,Transporte y comunicaciones,10587.58,I
+1969,Finanzas,6343.775,J
+1969,Act. inmobiliarias y empresariales,27158.89,K
+1969,Adm. pública y defensa,14530.96,L
+1969,Otros servicios,20173.55,Z
+1970,Agro,20150.53,A
+1970,Pesca,213.932,B
+1970,Petróleo y minería,9593.695,C
+1970,Industria manufacturera,68703.39,D
+1970,"Electricidad, gas y agua",1559.958,E
+1970,Construcción,13198.11,F
+1970,"Comercio, hoteles y restaurantes",43732.33,GH
+1970,Transporte y comunicaciones,11109.59,I
+1970,Finanzas,6329.102,J
+1970,Act. inmobiliarias y empresariales,28184.21,K
+1970,Adm. pública y defensa,14639.04,L
+1970,Otros servicios,21110.65,Z
+1971,Agro,20464.04,A
+1971,Pesca,228.194,B
+1971,Petróleo y minería,10344.13,C
+1971,Industria manufacturera,72923.29,D
+1971,"Electricidad, gas y agua",1705.612,E
+1971,Construcción,14030.71,F
+1971,"Comercio, hoteles y restaurantes",45107.16,GH
+1971,Transporte y comunicaciones,11282.33,I
+1971,Finanzas,6385.444,J
+1971,Act. inmobiliarias y empresariales,28544.84,K
+1971,Adm. pública y defensa,14887.94,L
+1971,Otros servicios,21923.68,Z
+1972,Agro,20859.15,A
+1972,Pesca,223.44,B
+1972,Petróleo y minería,10646.46,C
+1972,Industria manufacturera,75853.31,D
+1972,"Electricidad, gas y agua",1873.674,E
+1972,Construcción,13896.76,F
+1972,"Comercio, hoteles y restaurantes",45912.85,GH
+1972,Transporte y comunicaciones,11262.79,I
+1972,Finanzas,5970.926,J
+1972,Act. inmobiliarias y empresariales,28733.08,K
+1972,Adm. pública y defensa,15283.49,L
+1972,Otros servicios,22506.81,Z
+1973,Agro,23082.93,A
+1973,Pesca,280.489,B
+1973,Petróleo y minería,10344.13,C
+1973,Industria manufacturera,78861.91,D
+1973,"Electricidad, gas y agua",2015.018,E
+1973,Construcción,12268.34,F
+1973,"Comercio, hoteles y restaurantes",47062.24,GH
+1973,Transporte y comunicaciones,11874.92,I
+1973,Finanzas,6634.288,J
+1973,Act. inmobiliarias y empresariales,28849.98,K
+1973,Adm. pública y defensa,16043.71,L
+1973,Otros servicios,23011.45,Z
+1974,Agro,23716.39,A
+1974,Pesca,275.735,B
+1974,Petróleo y minería,10592.48,C
+1974,Industria manufacturera,83494.3,D
+1974,"Electricidad, gas y agua",2134.816,E
+1974,Construcción,13240.14,F
+1974,"Comercio, hoteles y restaurantes",49856.26,GH
+1974,Transporte y comunicaciones,12200.54,I
+1974,Finanzas,8586.812,J
+1974,Act. inmobiliarias y empresariales,29466.21,K
+1974,Adm. pública y defensa,16643.78,L
+1974,Otros servicios,24116.04,Z
+1975,Agro,23081.45,A
+1975,Pesca,237.702,B
+1975,Petróleo y minería,10430.51,C
+1975,Industria manufacturera,81363.07,D
+1975,"Electricidad, gas y agua",2264.094,E
+1975,Construcción,13846.86,F
+1975,"Comercio, hoteles y restaurantes",49590.16,GH
+1975,Transporte y comunicaciones,12092.42,I
+1975,Finanzas,6954.231,J
+1975,Act. inmobiliarias y empresariales,29690.12,K
+1975,Adm. pública y defensa,17917.24,L
+1975,Otros servicios,25080.46,Z
+1976,Agro,24158.97,A
+1976,Pesca,256.718,B
+1976,Petróleo y minería,10684.26,C
+1976,Industria manufacturera,78894.65,D
+1976,"Electricidad, gas y agua",2347.694,E
+1976,Construcción,15911.28,F
+1976,"Comercio, hoteles y restaurantes",47927.05,GH
+1976,Transporte y comunicaciones,12015.82,I
+1976,Finanzas,5770.375,J
+1976,Act. inmobiliarias y empresariales,31102.9,K
+1976,Adm. pública y defensa,17874.79,L
+1976,Otros servicios,25428.1,Z
+1977,Agro,24719.74,A
+1977,Pesca,347.045,B
+1977,Petróleo y minería,11596.66,C
+1977,Industria manufacturera,85059.16,D
+1977,"Electricidad, gas y agua",2456.288,E
+1977,Construcción,17852.25,F
+1977,"Comercio, hoteles y restaurantes",51778.07,GH
+1977,Transporte y comunicaciones,12655.7,I
+1977,Finanzas,7607.532,J
+1977,Act. inmobiliarias y empresariales,32333.38,K
+1977,Adm. pública y defensa,17654.83,L
+1977,Otros servicios,26656.05,Z
+1978,Agro,25345.78,A
+1978,Pesca,522.945,B
+1978,Petróleo y minería,11818.01,C
+1978,Industria manufacturera,76108.66,D
+1978,"Electricidad, gas y agua",2538.164,E
+1978,Construcción,17003.9,F
+1978,"Comercio, hoteles y restaurantes",48562.73,GH
+1978,Transporte y comunicaciones,12378.95,I
+1978,Finanzas,8482.847,J
+1978,Act. inmobiliarias y empresariales,33441.02,K
+1978,Adm. pública y defensa,17654.83,L
+1978,Otros servicios,27349.93,Z
+1979,Agro,26049.96,A
+1979,Pesca,570.485,B
+1979,Petróleo y minería,12568.44,C
+1979,Industria manufacturera,83860.96,D
+1979,"Electricidad, gas y agua",2810.511,E
+1979,Construcción,16925.1,F
+1979,"Comercio, hoteles y restaurantes",54623.83,GH
+1979,Transporte y comunicaciones,13291.48,I
+1979,Finanzas,9657.313,J
+1979,Act. inmobiliarias y empresariales,34631.87,K
+1979,Adm. pública y defensa,17918.69,L
+1979,Otros servicios,28155.95,Z
+1980,Agro,24683.64,A
+1980,Pesca,370.816,B
+1980,Petróleo y minería,13291.88,C
+1980,Industria manufacturera,80665.76,D
+1980,"Electricidad, gas y agua",3028.56,E
+1980,Construcción,17119.46,F
+1980,"Comercio, hoteles y restaurantes",59838.6,GH
+1980,Transporte y comunicaciones,13382.89,I
+1980,Finanzas,11948.56,J
+1980,Act. inmobiliarias y empresariales,35652.32,K
+1980,Adm. pública y defensa,18026.26,L
+1980,Otros servicios,29465.2,Z
+1981,Agro,25511.52,A
+1981,Pesca,436.694,B
+1981,Petróleo y minería,13125.26,C
+1981,Industria manufacturera,71079.84,D
+1981,"Electricidad, gas y agua",3062.446,E
+1981,Construcción,15040.89,F
+1981,"Comercio, hoteles y restaurantes",54734.71,GH
+1981,Transporte y comunicaciones,12614.48,I
+1981,Finanzas,13614.61,J
+1981,Act. inmobiliarias y empresariales,36213.36,K
+1981,Adm. pública y defensa,18113.87,L
+1981,Otros servicios,29639.2,Z
+1982,Agro,26881.08,A
+1982,Pesca,649.648,B
+1982,Petróleo y minería,12747.74,C
+1982,Industria manufacturera,69098.76,D
+1982,"Electricidad, gas y agua",3210.544,E
+1982,Construcción,13526.37,F
+1982,"Comercio, hoteles y restaurantes",49604.24,GH
+1982,Transporte y comunicaciones,12869.93,I
+1982,Finanzas,12580.06,J
+1982,Act. inmobiliarias y empresariales,36381.49,K
+1982,Adm. pública y defensa,18240.67,L
+1982,Otros servicios,29812.15,Z
+1983,Agro,27253.19,A
+1983,Pesca,762.167,B
+1983,Petróleo y minería,13043.09,C
+1983,Industria manufacturera,74179.46,D
+1983,"Electricidad, gas y agua",3435.381,E
+1983,Construcción,13394.39,F
+1983,"Comercio, hoteles y restaurantes",52052.36,GH
+1983,Transporte y comunicaciones,13324.08,I
+1983,Finanzas,10896.86,J
+1983,Act. inmobiliarias y empresariales,39386,K
+1983,Adm. pública y defensa,18668.39,L
+1983,Otros servicios,30492.92,Z
+1984,Agro,27356.78,A
+1984,Pesca,764.469,B
+1984,Petróleo y minería,12906.92,C
+1984,Industria manufacturera,76127.93,D
+1984,"Electricidad, gas y agua",3710.658,E
+1984,Construcción,11860.08,F
+1984,"Comercio, hoteles y restaurantes",55488.46,GH
+1984,Transporte y comunicaciones,14208.08,I
+1984,Finanzas,10801.75,J
+1984,Act. inmobiliarias y empresariales,38737.53,K
+1984,Adm. pública y defensa,19062.12,L
+1984,Otros servicios,31140.34,Z
+1985,Agro,26975.59,A
+1985,Pesca,605.493,B
+1985,Petróleo y minería,12436.74,C
+1985,Industria manufacturera,68634.23,D
+1985,"Electricidad, gas y agua",3776.068,E
+1985,Construcción,10083.11,F
+1985,"Comercio, hoteles y restaurantes",49570.95,GH
+1985,Transporte y comunicaciones,13910.14,I
+1985,Finanzas,9415.566,J
+1985,Act. inmobiliarias y empresariales,39351.07,K
+1985,Adm. pública y defensa,18338.11,L
+1985,Otros servicios,29977.8,Z
+1986,Agro,26977.31,A
+1986,Pesca,540.503,B
+1986,Petróleo y minería,11622.05,C
+1986,Industria manufacturera,76348.71,D
+1986,"Electricidad, gas y agua",3913.146,E
+1986,Construcción,12042.14,F
+1986,"Comercio, hoteles y restaurantes",52693.02,GH
+1986,Transporte y comunicaciones,14990.72,I
+1986,Finanzas,11097,J
+1986,Act. inmobiliarias y empresariales,40007.85,K
+1986,Adm. pública y defensa,19004.03,L
+1986,Otros servicios,31034.35,Z
+1987,Agro,26250.01,A
+1987,Pesca,529.362,B
+1987,Petróleo y minería,12487.16,C
+1987,Industria manufacturera,77127.2,D
+1987,"Electricidad, gas y agua",4113.479,E
+1987,Construcción,13857.42,F
+1987,"Comercio, hoteles y restaurantes",53255.32,GH
+1987,Transporte y comunicaciones,15500.5,I
+1987,Finanzas,12341.5,J
+1987,Act. inmobiliarias y empresariales,38539.83,K
+1987,Adm. pública y defensa,19716.75,L
+1987,Otros servicios,32182.33,Z
+1988,Agro,28386.08,A
+1988,Pesca,817.896,B
+1988,Petróleo y minería,13167,C
+1988,Industria manufacturera,73740.26,D
+1988,"Electricidad, gas y agua",3835.172,E
+1988,Construcción,13553.27,F
+1988,"Comercio, hoteles y restaurantes",50808.09,GH
+1988,Transporte y comunicaciones,15235.11,I
+1988,Finanzas,11236.06,J
+1988,Act. inmobiliarias y empresariales,39496.36,K
+1988,Adm. pública y defensa,19698.91,L
+1988,Otros servicios,32187.47,Z
+1989,Agro,25923.3,A
+1989,Pesca,642.204,B
+1989,Petróleo y minería,13064.56,C
+1989,Industria manufacturera,68155.23,D
+1989,"Electricidad, gas y agua",3649.297,E
+1989,Construcción,10229.25,F
+1989,"Comercio, hoteles y restaurantes",47361.41,GH
+1989,Transporte y comunicaciones,15072.17,I
+1989,Finanzas,9597.552,J
+1989,Act. inmobiliarias y empresariales,37685.13,K
+1989,Adm. pública y defensa,19491.81,L
+1989,Otros servicios,31887.48,Z
+1990,Agro,28306.04,A
+1990,Pesca,743.418,B
+1990,Petróleo y minería,13441.01,C
+1990,Industria manufacturera,65479.49,D
+1990,"Electricidad, gas y agua",3914.05,E
+1990,Construcción,7975.91,F
+1990,"Comercio, hoteles y restaurantes",47750.21,GH
+1990,Transporte y comunicaciones,14570.18,I
+1990,Finanzas,7993.481,J
+1990,Act. inmobiliarias y empresariales,37673.12,K
+1990,Adm. pública y defensa,19364.52,L
+1990,Otros servicios,31630.14,Z
+1991,Agro,29448.8,A
+1991,Pesca,819.05,B
+1991,Petróleo y minería,13821.06,C
+1991,Industria manufacturera,72176.01,D
+1991,"Electricidad, gas y agua",4045.092,E
+1991,Construcción,10440.42,F
+1991,"Comercio, hoteles y restaurantes",55417.22,GH
+1991,Transporte y comunicaciones,16053.87,I
+1991,Finanzas,10289.68,J
+1991,Act. inmobiliarias y empresariales,40590.04,K
+1991,Adm. pública y defensa,19940.93,L
+1991,Otros servicios,32553.28,Z
+1992,Agro,29305.98,A
+1992,Pesca,1250.14,B
+1992,Petróleo y minería,15365.54,C
+1992,Industria manufacturera,80626.63,D
+1992,"Electricidad, gas y agua",4401.806,E
+1992,Construcción,12364.21,F
+1992,"Comercio, hoteles y restaurantes",61609.48,GH
+1992,Transporte y comunicaciones,18041.62,I
+1992,Finanzas,11725.81,J
+1992,Act. inmobiliarias y empresariales,42382.32,K
+1992,Adm. pública y defensa,20930.93,L
+1992,Otros servicios,34189.44,Z
+1993,Agro,29687.2,A
+1993,Pesca,1674.086,B
+1993,Petróleo y minería,16886.81,C
+1993,Industria manufacturera,84365.46,D
+1993,"Electricidad, gas y agua",4890.672,E
+1993,Construcción,13721.53,F
+1993,"Comercio, hoteles y restaurantes",63433.91,GH
+1993,Transporte y comunicaciones,18968.42,I
+1993,Finanzas,13818.91,J
+1993,Act. inmobiliarias y empresariales,44899.44,K
+1993,Adm. pública y defensa,21806.17,L
+1993,Otros servicios,35562.18,Z
+1994,Agro,32013.45,A
+1994,Pesca,1637.996,B
+1994,Petróleo y minería,19209.67,C
+1994,Industria manufacturera,88186.95,D
+1994,"Electricidad, gas y agua",5419.176,E
+1994,Construcción,14514.66,F
+1994,"Comercio, hoteles y restaurantes",67669.01,GH
+1994,Transporte y comunicaciones,20928.65,I
+1994,Finanzas,16629.78,J
+1994,Act. inmobiliarias y empresariales,47835.84,K
+1994,Adm. pública y defensa,21253.63,L
+1994,Otros servicios,36779.56,Z
+1995,Agro,34062.84,A
+1995,Pesca,1667.978,B
+1995,Petróleo y minería,22373.77,C
+1995,Industria manufacturera,81936.38,D
+1995,"Electricidad, gas y agua",5823.633,E
+1995,Construcción,12840.32,F
+1995,"Comercio, hoteles y restaurantes",62515.84,GH
+1995,Transporte y comunicaciones,21310.63,I
+1995,Finanzas,16406.4,J
+1995,Act. inmobiliarias y empresariales,47460.59,K
+1995,Adm. pública y defensa,21142.3,L
+1995,Otros servicios,37296.89,Z
+1996,Agro,33324.54,A
+1996,Pesca,1891.884,B
+1996,Petróleo y minería,23389.21,C
+1996,Industria manufacturera,87128.66,D
+1996,"Electricidad, gas y agua",6059.461,E
+1996,Construcción,13780.5,F
+1996,"Comercio, hoteles y restaurantes",67190.78,GH
+1996,Transporte y comunicaciones,22751.24,I
+1996,Finanzas,18666.33,J
+1996,Act. inmobiliarias y empresariales,49251.37,K
+1996,Adm. pública y defensa,21273.53,L
+1996,Otros servicios,38439.64,Z
+1997,Agro,33347.47,A
+1997,Pesca,2049.448,B
+1997,Petróleo y minería,23550.2,C
+1997,Industria manufacturera,95091.33,D
+1997,"Electricidad, gas y agua",6554.264,E
+1997,Construcción,16089.48,F
+1997,"Comercio, hoteles y restaurantes",74455.98,GH
+1997,Transporte y comunicaciones,25290.84,I
+1997,Finanzas,21321.41,J
+1997,Act. inmobiliarias y empresariales,51708.44,K
+1997,Adm. pública y defensa,21086.54,L
+1997,Otros servicios,40652.75,Z
+1998,Agro,36964.63,A
+1998,Pesca,1817.166,B
+1998,Petróleo y minería,22653.46,C
+1998,Industria manufacturera,96924.71,D
+1998,"Electricidad, gas y agua",7055.8,E
+1998,Construcción,17537.84,F
+1998,"Comercio, hoteles y restaurantes",76934.41,GH
+1998,Transporte y comunicaciones,27562.97,I
+1998,Finanzas,25240.57,J
+1998,Act. inmobiliarias y empresariales,53201.61,K
+1998,Adm. pública y defensa,20961.44,L
+1998,Otros servicios,41542.75,Z
+1999,Agro,37881.08,A
+1999,Pesca,1773.642,B
+1999,Petróleo y minería,21903.82,C
+1999,Industria manufacturera,89240.78,D
+1999,"Electricidad, gas y agua",7309.07,E
+1999,Construcción,16203.78,F
+1999,"Comercio, hoteles y restaurantes",71470.46,GH
+1999,Transporte y comunicaciones,27195.13,I
+1999,Finanzas,25365.47,J
+1999,Act. inmobiliarias y empresariales,52732.49,K
+1999,Adm. pública y defensa,21367.12,L
+1999,Otros servicios,42447.7,Z
+2000,Agro,37299.47,A
+2000,Pesca,1722.655,B
+2000,Petróleo y minería,23381.16,C
+2000,Industria manufacturera,85846.35,D
+2000,"Electricidad, gas y agua",7790.611,E
+2000,Construcción,14696.36,F
+2000,"Comercio, hoteles y restaurantes",69651.14,GH
+2000,Transporte y comunicaciones,27670.01,I
+2000,Finanzas,25918.43,J
+2000,Act. inmobiliarias y empresariales,53207.46,K
+2000,Adm. pública y defensa,21514.4,L
+2000,Otros servicios,43360.51,Z
+2001,Agro,37570.99,A
+2001,Pesca,2178.719,B
+2001,Petróleo y minería,24469.98,C
+2001,Industria manufacturera,79586.63,D
+2001,"Electricidad, gas y agua",7880.272,E
+2001,Construcción,13065.7,F
+2001,"Comercio, hoteles y restaurantes",64312.29,GH
+2001,Transporte y comunicaciones,26450.27,I
+2001,Finanzas,23603.23,J
+2001,Act. inmobiliarias y empresariales,51888.39,K
+2001,Adm. pública y defensa,21160.41,L
+2001,Otros servicios,43636.24,Z
+2002,Agro,37127.54,A
+2002,Pesca,1765.203,B
+2002,Petróleo y minería,23554.69,C
+2002,Industria manufacturera,70704.45,D
+2002,"Electricidad, gas y agua",7637.941,E
+2002,Construcción,8595.79,F
+2002,"Comercio, hoteles y restaurantes",52959.93,GH
+2002,Transporte y comunicaciones,24311.88,I
+2002,Finanzas,18951.79,J
+2002,Act. inmobiliarias y empresariales,48979.92,K
+2002,Adm. pública y defensa,20969.88,L
+2002,Otros servicios,42064.37,Z
+2003,Agro,39860.14,A
+2003,Pesca,1779.46,B
+2003,Petróleo y minería,24427.6,C
+2003,Industria manufacturera,81994.14,D
+2003,"Electricidad, gas y agua",8165.284,E
+2003,Construcción,11459.77,F
+2003,"Comercio, hoteles y restaurantes",59305.77,GH
+2003,Transporte y comunicaciones,26276.04,I
+2003,Finanzas,15959.84,J
+2003,Act. inmobiliarias y empresariales,50899.66,K
+2003,Adm. pública y defensa,21201.29,L
+2003,Otros servicios,43421.82,Z
+2004,Agro,39125.2,A
+2004,Pesca,1442.496,B
+2004,Petróleo y minería,24321.81,C
+2004,Industria manufacturera,91866.33,D
+2004,"Electricidad, gas y agua",8702.405,E
+2004,Construcción,14904.73,F
+2004,"Comercio, hoteles y restaurantes",66970.63,GH
+2004,Transporte y comunicaciones,29789.9,I
+2004,Finanzas,15079.41,J
+2004,Act. inmobiliarias y empresariales,53084.37,K
+2004,Adm. pública y defensa,21585.05,L
+2004,Otros servicios,45555.14,Z
+2005,Agro,46858.13,A
+2005,Pesca,1331.621,B
+2005,Petróleo y minería,24246.35,C
+2005,Industria manufacturera,98685.71,D
+2005,"Electricidad, gas y agua",9234.719,E
+2005,Construcción,16763.24,F
+2005,"Comercio, hoteles y restaurantes",74064.73,GH
+2005,Transporte y comunicaciones,34242.69,I
+2005,Finanzas,16562.88,J
+2005,Act. inmobiliarias y empresariales,56102.65,K
+2005,Adm. pública y defensa,22732.5,L
+2005,Otros servicios,49478.1,Z
+2006,Agro,45805.38,A
+2006,Pesca,2131.109,B
+2006,Petróleo y minería,25556.08,C
+2006,Industria manufacturera,107665.9,D
+2006,"Electricidad, gas y agua",9774.923,E
+2006,Construcción,18837.79,F
+2006,"Comercio, hoteles y restaurantes",81913.53,GH
+2006,Transporte y comunicaciones,38535.79,I
+2006,Finanzas,18742.71,J
+2006,Act. inmobiliarias y empresariales,59833.82,K
+2006,Adm. pública y defensa,23503.3,L
+2006,Otros servicios,52188.76,Z
+2007,Agro,50114.17,A
+2007,Pesca,1914.935,B
+2007,Petróleo y minería,24931.18,C
+2007,Industria manufacturera,115777.4,D
+2007,"Electricidad, gas y agua",10025.1,E
+2007,Construcción,20865.05,F
+2007,"Comercio, hoteles y restaurantes",91372.52,GH
+2007,Transporte y comunicaciones,43428.48,I
+2007,Finanzas,21354.73,J
+2007,Act. inmobiliarias y empresariales,63189.93,K
+2007,Adm. pública y defensa,24825.23,L
+2007,Otros servicios,55515.21,Z
+2008,Agro,48875.17,A
+2008,Pesca,2016.671,B
+2008,Petróleo y minería,24648.44,C
+2008,Industria manufacturera,119969.8,D
+2008,"Electricidad, gas y agua",10510.93,E
+2008,Construcción,21741.13,F
+2008,"Comercio, hoteles y restaurantes",95745.63,GH
+2008,Transporte y comunicaciones,45790.3,I
+2008,Finanzas,22684.91,J
+2008,Act. inmobiliarias y empresariales,66662.1,K
+2008,Adm. pública y defensa,25848.22,L
+2008,Otros servicios,58325.95,Z
+2009,Agro,35993.75,A
+2009,Pesca,1614.575,B
+2009,Petróleo y minería,24709.88,C
+2009,Industria manufacturera,111260.2,D
+2009,"Electricidad, gas y agua",10455.75,E
+2009,Construcción,19065.8,F
+2009,"Comercio, hoteles y restaurantes",88538.84,GH
+2009,Transporte y comunicaciones,45485.32,I
+2009,Finanzas,22648.52,J
+2009,Act. inmobiliarias y empresariales,64814.02,K
+2009,Adm. pública y defensa,26689.46,L
+2009,Otros servicios,60407.66,Z
+2010,Agro,50813.98,A
+2010,Pesca,1658.655,B
+2010,Petróleo y minería,25098.79,C
+2010,Industria manufacturera,123396.4,D
+2010,"Electricidad, gas y agua",10637.85,E
+2010,Construcción,20929.95,F
+2010,"Comercio, hoteles y restaurantes",99458.22,GH
+2010,Transporte y comunicaciones,49529.93,I
+2010,Finanzas,22762.31,J
+2010,Act. inmobiliarias y empresariales,68196.94,K
+2010,Adm. pública y defensa,27611.1,L
+2010,Otros servicios,62903.39,Z
+2011,Agro,49453.11,A
+2011,Pesca,1745.24,B
+2011,Petróleo y minería,23635.52,C
+2011,Industria manufacturera,132856.8,D
+2011,"Electricidad, gas y agua",11142.25,E
+2011,Construcción,22927.83,F
+2011,"Comercio, hoteles y restaurantes",109505,GH
+2011,Transporte y comunicaciones,52202.73,I
+2011,Finanzas,24999.68,J
+2011,Act. inmobiliarias y empresariales,71231.65,K
+2011,Adm. pública y defensa,28489.03,L
+2011,Otros servicios,65331.46,Z
+2012,Agro,42850.93,A
+2012,Pesca,1755.552,B
+2012,Petróleo y minería,23350.22,C
+2012,Industria manufacturera,128986.2,D
+2012,"Electricidad, gas y agua",11661.92,E
+2012,Construcción,22369.49,F
+2012,"Comercio, hoteles y restaurantes",106915.8,GH
+2012,Transporte y comunicaciones,52514.83,I
+2012,Finanzas,26835.98,J
+2012,Act. inmobiliarias y empresariales,70808.66,K
+2012,Adm. pública y defensa,29346.31,L
+2012,Otros servicios,67690.38,Z
+2013,Agro,47568.32,A
+2013,Pesca,2157.475,B
+2013,Petróleo y minería,22405.17,C
+2013,Industria manufacturera,130925.6,D
+2013,"Electricidad, gas y agua",11718.36,E
+2013,Construcción,22346.01,F
+2013,"Comercio, hoteles y restaurantes",109311.3,GH
+2013,Transporte y comunicaciones,53754.42,I
+2013,Finanzas,27596.46,J
+2013,Act. inmobiliarias y empresariales,71327.86,K
+2013,Adm. pública y defensa,30121.34,L
+2013,Otros servicios,68763.27,Z
+2014,Agro,49085.01,A
+2014,Pesca,2184.399,B
+2014,Petróleo y minería,22755.05,C
+2014,Industria manufacturera,124308.5,D
+2014,"Electricidad, gas y agua",11948.78,E
+2014,Construcción,21895.06,F
+2014,"Comercio, hoteles y restaurantes",102446.7,GH
+2014,Transporte y comunicaciones,54167.99,I
+2014,Finanzas,26838.55,J
+2014,Act. inmobiliarias y empresariales,70964.22,K
+2014,Adm. pública y defensa,31054.51,L
+2014,Otros servicios,69468.54,Z
+2015,Agro,52896.78,A
+2015,Pesca,2239.349,B
+2015,Petróleo y minería,23129.97,C
+2015,Industria manufacturera,125260.6,D
+2015,"Electricidad, gas y agua",12477.41,E
+2015,Construcción,22553.66,F
+2015,"Comercio, hoteles y restaurantes",105841.7,GH
+2015,Transporte y comunicaciones,55810.95,I
+2015,Finanzas,27179.52,J
+2015,Act. inmobiliarias y empresariales,72248.27,K
+2015,Adm. pública y defensa,32220.09,L
+2015,Otros servicios,71081.93,Z
+2016,Agro,50299.08,A
+2016,Pesca,2236.306,B
+2016,Petróleo y minería,21862.66,C
+2016,Industria manufacturera,118244.6,D
+2016,"Electricidad, gas y agua",12600.94,E
+2016,Construcción,20028.86,F
+2016,"Comercio, hoteles y restaurantes",102966,GH
+2016,Transporte y comunicaciones,57708.77,I
+2016,Finanzas,26319.57,J
+2016,Act. inmobiliarias y empresariales,72163.9,K
+2016,Adm. pública y defensa,32997.11,L
+2016,Otros servicios,72195.23,Z
+2017,Agro,51789.23,A
+2017,Pesca,2556.032,B
+2017,Petróleo y minería,21089.41,C
+2017,Industria manufacturera,121288.3,D
+2017,"Electricidad, gas y agua",12473.81,E
+2017,Construcción,21863.38,F
+2017,"Comercio, hoteles y restaurantes",106308.5,GH
+2017,Transporte y comunicaciones,59007.88,I
+2017,Finanzas,27639.31,J
+2017,Act. inmobiliarias y empresariales,74337.13,K
+2017,Adm. pública y defensa,33249.27,L
+2017,Otros servicios,73184.9,Z
+2018,Agro,43726.29,A
+2018,Pesca,2694.611,B
+2018,Petróleo y minería,21268.12,C
+2018,Industria manufacturera,115460.5,D
+2018,"Electricidad, gas y agua",12489.21,E
+2018,Construcción,22108.48,F
+2018,"Comercio, hoteles y restaurantes",102459.4,GH
+2018,Transporte y comunicaciones,57138.82,I
+2018,Finanzas,28668.04,J
+2018,Act. inmobiliarias y empresariales,75313.93,K
+2018,Adm. pública y defensa,33274.72,L
+2018,Otros servicios,73930.52,Z
+2019,Agro,53948.69,A
+2019,Pesca,2422.716,B
+2019,Petróleo y minería,21571.22,C
+2019,Industria manufacturera,108352.1,D
+2019,"Electricidad, gas y agua",12106.94,E
+2019,Construcción,21173.88,F
+2019,"Comercio, hoteles y restaurantes",95500.39,GH
+2019,Transporte y comunicaciones,56737.21,I
+2019,Finanzas,25331.15,J
+2019,Act. inmobiliarias y empresariales,74614.16,K
+2019,Adm. pública y defensa,33557.52,L
+2019,Otros servicios,73727.42,Z
+2020,Agro,50118.77,A
+2020,Pesca,2017.202,B
+2020,Petróleo y minería,19322.62,C
+2020,Industria manufacturera,100012.9,D
+2020,"Electricidad, gas y agua",12281.79,E
+2020,Construcción,16435.06,F
+2020,"Comercio, hoteles y restaurantes",85441.14,GH
+2020,Transporte y comunicaciones,47111.27,I
+2020,Finanzas,25106.08,J
+2020,Act. inmobiliarias y empresariales,70369.14,K
+2020,Adm. pública y defensa,31076.77,L
+2020,Otros servicios,62399.56,Z
+2021,Agro,50722.91,A
+2021,Pesca,2401.739,B
+2021,Petróleo y minería,21316.42,C
+2021,Industria manufacturera,115729.1,D
+2021,"Electricidad, gas y agua",12683.61,E
+2021,Construcción,21210.65,F
+2021,"Comercio, hoteles y restaurantes",97594.67,GH
+2021,Transporte y comunicaciones,50413.95,I
+2021,Finanzas,25204.94,J
+2021,Act. inmobiliarias y empresariales,76615.79,K
+2021,Adm. pública y defensa,32761.87,L
+2021,Otros servicios,69275.03,Z
+2022,Agro,48287.99,A
+2022,Pesca,2451.051,B
+2022,Petróleo y minería,24178.28,C
+2022,Industria manufacturera,121018.8,D
+2022,"Electricidad, gas y agua",13020.02,E
+2022,Construcción,22485.35,F
+2022,"Comercio, hoteles y restaurantes",105472.4,GH
+2022,Transporte y comunicaciones,54341.62,I
+2022,Finanzas,25273.66,J
+2022,Act. inmobiliarias y empresariales,80402.3,K
+2022,Adm. pública y defensa,34973.66,L
+2022,Otros servicios,72406.86,Z

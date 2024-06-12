@@ -1,0 +1,913 @@
+"anio","letra","letra_desc_abrev","gran_region_id","gran_region_desc","share_vab_sectorial"
+2004,"L","Adm. pública y defensa",2,"Centro",0.0471620445428109
+2005,"L","Adm. pública y defensa",2,"Centro",0.0460193172268031
+2006,"L","Adm. pública y defensa",2,"Centro",0.0443203528734677
+2007,"L","Adm. pública y defensa",2,"Centro",0.0427689186486493
+2008,"L","Adm. pública y defensa",2,"Centro",0.0430787787508797
+2009,"L","Adm. pública y defensa",2,"Centro",0.0475464940431826
+2010,"L","Adm. pública y defensa",2,"Centro",0.0445505467958051
+2011,"L","Adm. pública y defensa",2,"Centro",0.0435362441014532
+2012,"L","Adm. pública y defensa",2,"Centro",0.0451437588598099
+2013,"L","Adm. pública y defensa",2,"Centro",0.0450821584796819
+2014,"L","Adm. pública y defensa",2,"Centro",0.0476605985985981
+2015,"L","Adm. pública y defensa",2,"Centro",0.0484159968999776
+2016,"L","Adm. pública y defensa",2,"Centro",0.0506487868321594
+2017,"L","Adm. pública y defensa",2,"Centro",0.0492990494781204
+2018,"L","Adm. pública y defensa",2,"Centro",0.0507426706466427
+2019,"L","Adm. pública y defensa",2,"Centro",0.0511172778288113
+2020,"L","Adm. pública y defensa",2,"Centro",0.0521483622882278
+2021,"L","Adm. pública y defensa",2,"Centro",0.0496630751924089
+2022,"L","Adm. pública y defensa",2,"Centro",0.0504198245475084
+2004,"A","Agro",2,"Centro",0.0979032201370346
+2005,"A","Agro",2,"Centro",0.108916087094644
+2006,"A","Agro",2,"Centro",0.095656105159739
+2007,"A","Agro",2,"Centro",0.097703076152619
+2008,"A","Agro",2,"Centro",0.0908796834532029
+2009,"A","Agro",2,"Centro",0.0701003746764704
+2010,"A","Agro",2,"Centro",0.0907921956841553
+2011,"A","Agro",2,"Centro",0.0820277771298226
+2012,"A","Agro",2,"Centro",0.0748291636524281
+2013,"A","Agro",2,"Centro",0.0839784785091485
+2014,"A","Agro",2,"Centro",0.0847856082306754
+2015,"A","Agro",2,"Centro",0.0908581786477584
+2016,"A","Agro",2,"Centro",0.0873234616173194
+2017,"A","Agro",2,"Centro",0.08701056694334
+2018,"A","Agro",2,"Centro",0.07333346647082
+2019,"A","Agro",2,"Centro",0.0942031983918408
+2020,"A","Agro",2,"Centro",0.0960866312280886
+2021,"A","Agro",2,"Centro",0.0886548589979178
+2022,"A","Agro",2,"Centro",0.0800382750488784
+2004,"O","Serv. comunitarios, sociales y personales",2,"Centro",0.032913782701343
+2005,"O","Serv. comunitarios, sociales y personales",2,"Centro",0.0331321011402106
+2006,"O","Serv. comunitarios, sociales y personales",2,"Centro",0.0338966881467944
+2007,"O","Serv. comunitarios, sociales y personales",2,"Centro",0.0336616410996273
+2008,"O","Serv. comunitarios, sociales y personales",2,"Centro",0.0338344749777754
+2009,"O","Serv. comunitarios, sociales y personales",2,"Centro",0.0359966380835416
+2010,"O","Serv. comunitarios, sociales y personales",2,"Centro",0.0343631980660769
+2011,"O","Serv. comunitarios, sociales y personales",2,"Centro",0.0339167147251343
+2012,"O","Serv. comunitarios, sociales y personales",2,"Centro",0.0350571612556938
+2013,"O","Serv. comunitarios, sociales y personales",2,"Centro",0.0337689951712842
+2014,"O","Serv. comunitarios, sociales y personales",2,"Centro",0.0340137117961856
+2015,"O","Serv. comunitarios, sociales y personales",2,"Centro",0.0333255205180137
+2016,"O","Serv. comunitarios, sociales y personales",2,"Centro",0.0339022032342978
+2017,"O","Serv. comunitarios, sociales y personales",2,"Centro",0.0335976656184481
+2018,"O","Serv. comunitarios, sociales y personales",2,"Centro",0.034336674333605
+2019,"O","Serv. comunitarios, sociales y personales",2,"Centro",0.033965241040402
+2020,"O","Serv. comunitarios, sociales y personales",2,"Centro",0.0232633709221767
+2021,"O","Serv. comunitarios, sociales y personales",2,"Centro",0.0277275630984232
+2022,"O","Serv. comunitarios, sociales y personales",2,"Centro",0.0288437496231302
+2004,"E","Electricidad, gas y agua",2,"Centro",0.0190151342253765
+2005,"E","Electricidad, gas y agua",2,"Centro",0.0183796178177265
+2006,"E","Electricidad, gas y agua",2,"Centro",0.0180863811058937
+2007,"E","Electricidad, gas y agua",2,"Centro",0.0170202951262932
+2008,"E","Electricidad, gas y agua",2,"Centro",0.0169870455705328
+2009,"E","Electricidad, gas y agua",2,"Centro",0.017910568189022
+2010,"E","Electricidad, gas y agua",2,"Centro",0.0166236612842327
+2011,"E","Electricidad, gas y agua",2,"Centro",0.0163018568464204
+2012,"E","Electricidad, gas y agua",2,"Centro",0.0171477850006575
+2013,"E","Electricidad, gas y agua",2,"Centro",0.0169059952803937
+2014,"E","Electricidad, gas y agua",2,"Centro",0.0176256704008815
+2015,"E","Electricidad, gas y agua",2,"Centro",0.01777999914027
+2016,"E","Electricidad, gas y agua",2,"Centro",0.0183440484809365
+2017,"E","Electricidad, gas y agua",2,"Centro",0.0175902360369789
+2018,"E","Electricidad, gas y agua",2,"Centro",0.0182199970475919
+2019,"E","Electricidad, gas y agua",2,"Centro",0.0179613685192962
+2020,"E","Electricidad, gas y agua",2,"Centro",0.0203057003978576
+2021,"E","Electricidad, gas y agua",2,"Centro",0.0189392773277188
+2022,"E","Electricidad, gas y agua",2,"Centro",0.0188105076261887
+2004,"G","Comercio",2,"Centro",0.150434806407327
+2005,"G","Comercio",2,"Centro",0.15164921200187
+2006,"G","Comercio",2,"Centro",0.154672545992957
+2007,"G","Comercio",2,"Centro",0.159087620609564
+2008,"G","Comercio",2,"Centro",0.161164344581339
+2009,"G","Comercio",2,"Centro",0.157190789202751
+2010,"G","Comercio",2,"Centro",0.160523333196336
+2011,"G","Comercio",2,"Centro",0.167987989460766
+2012,"G","Comercio",2,"Centro",0.165256856639291
+2013,"G","Comercio",2,"Centro",0.164672951681246
+2014,"G","Comercio",2,"Centro",0.156424537360819
+2015,"G","Comercio",2,"Centro",0.157562673407187
+2016,"G","Comercio",2,"Centro",0.156120655744092
+2017,"G","Comercio",2,"Centro",0.157065935018984
+2018,"G","Comercio",2,"Centro",0.155582954350745
+2019,"G","Comercio",2,"Centro",0.146492896639961
+2020,"G","Comercio",2,"Centro",0.154504527715176
+2021,"G","Comercio",2,"Centro",0.159087364249449
+2022,"G","Comercio",2,"Centro",0.161165412297295
+2004,"I","Transporte y comunicaciones",2,"Centro",0.0770929953618405
+2005,"I","Transporte y comunicaciones",2,"Centro",0.0804853003888269
+2006,"I","Transporte y comunicaciones",2,"Centro",0.0844180879019766
+2007,"I","Transporte y comunicaciones",2,"Centro",0.0876223176100364
+2008,"I","Transporte y comunicaciones",2,"Centro",0.0886378900791661
+2009,"I","Transporte y comunicaciones",2,"Centro",0.0936074359608374
+2010,"I","Transporte y comunicaciones",2,"Centro",0.0920873185093766
+2011,"I","Transporte y comunicaciones",2,"Centro",0.0918830616038947
+2012,"I","Transporte y comunicaciones",2,"Centro",0.0936295588435067
+2013,"I","Transporte y comunicaciones",2,"Centro",0.093538488963279
+2014,"I","Transporte y comunicaciones",2,"Centro",0.0966421797617041
+2015,"I","Transporte y comunicaciones",2,"Centro",0.0966573798377586
+2016,"I","Transporte y comunicaciones",2,"Centro",0.101994512037673
+2017,"I","Transporte y comunicaciones",2,"Centro",0.101256044774769
+2018,"I","Transporte y comunicaciones",2,"Centro",0.100917008532504
+2019,"I","Transporte y comunicaciones",2,"Centro",0.101932872408225
+2020,"I","Transporte y comunicaciones",2,"Centro",0.0946191615439453
+2021,"I","Transporte y comunicaciones",2,"Centro",0.0913100255321384
+2022,"I","Transporte y comunicaciones",2,"Centro",0.0938090479723124
+2004,"F","Construcción",2,"Centro",0.0327978120919584
+2005,"F","Construcción",2,"Centro",0.0324315249978317
+2006,"F","Construcción",2,"Centro",0.0351149290087258
+2007,"F","Construcción",2,"Centro",0.0360278261229004
+2008,"F","Construcción",2,"Centro",0.0366540449245942
+2009,"F","Construcción",2,"Centro",0.0340037829447224
+2010,"F","Construcción",2,"Centro",0.0340347785318511
+2011,"F","Construcción",2,"Centro",0.0353940719412647
+2012,"F","Construcción",2,"Centro",0.0355157145336023
+2013,"F","Construcción",2,"Centro",0.0345905146503463
+2014,"F","Construcción",2,"Centro",0.0345160016700977
+2015,"F","Construcción",2,"Centro",0.0344247168534835
+2016,"F","Construcción",2,"Centro",0.032099025330385
+2017,"F","Construcción",2,"Centro",0.0341775743092418
+2018,"F","Construcción",2,"Centro",0.036222189420762
+2019,"F","Construcción",2,"Centro",0.035715827780693
+2020,"F","Construcción",2,"Centro",0.0301283796791969
+2021,"F","Construcción",2,"Centro",0.0347036776008896
+2022,"F","Construcción",2,"Centro",0.0343501828641773
+2004,"D","Industria manufacturera",2,"Centro",0.251012425762993
+2005,"D","Industria manufacturera",2,"Centro",0.245531875609991
+2006,"D","Industria manufacturera",2,"Centro",0.249094266336134
+2007,"D","Industria manufacturera",2,"Centro",0.246178276330309
+2008,"D","Industria manufacturera",2,"Centro",0.245550758257227
+2009,"D","Industria manufacturera",2,"Centro",0.242583979604929
+2010,"D","Industria manufacturera",2,"Centro",0.24274485707225
+2011,"D","Industria manufacturera",2,"Centro",0.247029441160413
+2012,"D","Industria manufacturera",2,"Centro",0.242623474259969
+2013,"D","Industria manufacturera",2,"Centro",0.240193275419188
+2014,"D","Industria manufacturera",2,"Centro",0.234487273390516
+2015,"D","Industria manufacturera",2,"Centro",0.229872097951862
+2016,"D","Industria manufacturera",2,"Centro",0.222401949582607
+2017,"D","Industria manufacturera",2,"Centro",0.222455895424291
+2018,"D","Industria manufacturera",2,"Centro",0.218745091396077
+2019,"D","Industria manufacturera",2,"Centro",0.208732421373328
+2020,"D","Industria manufacturera",2,"Centro",0.214093624739875
+2021,"D","Industria manufacturera",2,"Centro",0.22482231728398
+2022,"D","Industria manufacturera",2,"Centro",0.225407714345827
+2004,"M","Enseñanza",2,"Centro",0.0385460582263118
+2005,"M","Enseñanza",2,"Centro",0.0373880419984418
+2006,"M","Enseñanza",2,"Centro",0.0364287934964418
+2007,"M","Enseñanza",2,"Centro",0.0351955918466169
+2008,"M","Enseñanza",2,"Centro",0.0350456252306005
+2009,"M","Enseñanza",2,"Centro",0.0389149477718675
+2010,"M","Enseñanza",2,"Centro",0.0362075983595638
+2011,"M","Enseñanza",2,"Centro",0.0354280363379164
+2012,"M","Enseñanza",2,"Centro",0.0369233689564534
+2013,"M","Enseñanza",2,"Centro",0.0369169223625287
+2014,"M","Enseñanza",2,"Centro",0.0385296070393012
+2015,"M","Enseñanza",2,"Centro",0.0389877449288824
+2016,"M","Enseñanza",2,"Centro",0.0403946254768376
+2017,"M","Enseñanza",2,"Centro",0.0399074598730084
+2018,"M","Enseñanza",2,"Centro",0.0422266385732444
+2019,"M","Enseñanza",2,"Centro",0.0429840591346496
+2020,"M","Enseñanza",2,"Centro",0.0457549340138761
+2021,"M","Enseñanza",2,"Centro",0.0431518177830404
+2022,"M","Enseñanza",2,"Centro",0.0430617659601876
+2004,"C","Petróleo y minería",2,"Centro",0.0135859557254823
+2005,"C","Petróleo y minería",2,"Centro",0.0126920795138556
+2006,"C","Petróleo y minería",2,"Centro",0.0139275989950627
+2007,"C","Petróleo y minería",2,"Centro",0.0134228472202707
+2008,"C","Petróleo y minería",2,"Centro",0.0142212809555621
+2009,"C","Petróleo y minería",2,"Centro",0.0153642283630897
+2010,"C","Petróleo y minería",2,"Centro",0.0151034130110544
+2011,"C","Petróleo y minería",2,"Centro",0.0136568419232543
+2012,"C","Petróleo y minería",2,"Centro",0.013377117415518
+2013,"C","Petróleo y minería",2,"Centro",0.0123666068466876
+2014,"C","Petróleo y minería",2,"Centro",0.0127503200913761
+2015,"C","Petróleo y minería",2,"Centro",0.0123045005234868
+2016,"C","Petróleo y minería",2,"Centro",0.011643312333648
+2017,"C","Petróleo y minería",2,"Centro",0.0112715125232712
+2018,"C","Petróleo y minería",2,"Centro",0.0110760264587528
+2019,"C","Petróleo y minería",2,"Centro",0.0108372807157851
+2020,"C","Petróleo y minería",2,"Centro",0.0104710459112052
+2021,"C","Petróleo y minería",2,"Centro",0.00966841661957017
+2022,"C","Petróleo y minería",2,"Centro",0.00974354582291698
+2004,"H","Hotelería y restaurantes",2,"Centro",0.0175945919706341
+2005,"H","Hotelería y restaurantes",2,"Centro",0.0177750269624463
+2006,"H","Hotelería y restaurantes",2,"Centro",0.0182617607594148
+2007,"H","Hotelería y restaurantes",2,"Centro",0.0186172255975455
+2008,"H","Hotelería y restaurantes",2,"Centro",0.0178190341720123
+2009,"H","Hotelería y restaurantes",2,"Centro",0.0184301059512887
+2010,"H","Hotelería y restaurantes",2,"Centro",0.0182098919369985
+2011,"H","Hotelería y restaurantes",2,"Centro",0.0182643816948605
+2012,"H","Hotelería y restaurantes",2,"Centro",0.0186974839838219
+2013,"H","Hotelería y restaurantes",2,"Centro",0.0180880455855905
+2014,"H","Hotelería y restaurantes",2,"Centro",0.0181697318416327
+2015,"H","Hotelería y restaurantes",2,"Centro",0.0178266844617366
+2016,"H","Hotelería y restaurantes",2,"Centro",0.0184945068554733
+2017,"H","Hotelería y restaurantes",2,"Centro",0.0185178751487221
+2018,"H","Hotelería y restaurantes",2,"Centro",0.0189601814319741
+2019,"H","Hotelería y restaurantes",2,"Centro",0.01929085675112
+2020,"H","Hotelería y restaurantes",2,"Centro",0.0110514633682593
+2021,"H","Hotelería y restaurantes",2,"Centro",0.0121902737441638
+2022,"H","Hotelería y restaurantes",2,"Centro",0.0159350786931767
+2004,"J","Finanzas",2,"Centro",0.0421738360772989
+2005,"J","Finanzas",2,"Centro",0.0419518507033005
+2006,"J","Finanzas",2,"Centro",0.0441684664620891
+2007,"J","Finanzas",2,"Centro",0.0463343310000334
+2008,"J","Finanzas",2,"Centro",0.0471294067164826
+2009,"J","Finanzas",2,"Centro",0.0500612185129704
+2010,"J","Finanzas",2,"Centro",0.0453940264155777
+2011,"J","Finanzas",2,"Centro",0.0471619200245687
+2012,"J","Finanzas",2,"Centro",0.051196147307117
+2013,"J","Finanzas",2,"Centro",0.0514658974123499
+2014,"J","Finanzas",2,"Centro",0.051610170048557
+2015,"J","Finanzas",2,"Centro",0.0509350331299837
+2016,"J","Finanzas",2,"Centro",0.0505794138166204
+2017,"J","Finanzas",2,"Centro",0.051935491010239
+2018,"J","Finanzas",2,"Centro",0.0556627005658574
+2019,"J","Finanzas",2,"Centro",0.0502577136646522
+2020,"J","Finanzas",2,"Centro",0.0554870425678739
+2021,"J","Finanzas",2,"Centro",0.0503504828564597
+2022,"J","Finanzas",2,"Centro",0.0486088724577897
+2004,"B","Pesca",2,"Centro",0.0015906922344245
+2005,"B","Pesca",2,"Centro",0.00140701730610875
+2006,"B","Pesca",2,"Centro",0.00181950614757187
+2007,"B","Pesca",2,"Centro",0.00155256182374945
+2008,"B","Pesca",2,"Centro",0.00165713066796402
+2009,"B","Pesca",2,"Centro",0.0014690987088686
+2010,"B","Pesca",2,"Centro",0.00138463780185862
+2011,"B","Pesca",2,"Centro",0.00131315531205279
+2012,"B","Pesca",2,"Centro",0.00126652318825747
+2013,"B","Pesca",2,"Centro",0.00160531851095424
+2014,"B","Pesca",2,"Centro",0.00160497684632069
+2015,"B","Pesca",2,"Centro",0.00163167379550331
+2016,"B","Pesca",2,"Centro",0.00167564132753617
+2017,"B","Pesca",2,"Centro",0.00169350788093549
+2018,"B","Pesca",2,"Centro",0.00173896049272024
+2019,"B","Pesca",2,"Centro",0.00170608554079004
+2020,"B","Pesca",2,"Centro",0.00167217679807469
+2021,"B","Pesca",2,"Centro",0.00173313292858955
+2022,"B","Pesca",2,"Centro",0.00182440500018689
+2004,"K","Serv. inmobiliarios y profesionales",2,"Centro",0.138150194090781
+2005,"K","Serv. inmobiliarios y profesionales",2,"Centro",0.132388568894782
+2006,"K","Serv. inmobiliarios y profesionales",2,"Centro",0.131639858407395
+2007,"K","Serv. inmobiliarios y profesionales",2,"Centro",0.127629652813028
+2008,"K","Serv. inmobiliarios y profesionales",2,"Centro",0.129479373493049
+2009,"K","Serv. inmobiliarios y profesionales",2,"Centro",0.133718258544566
+2010,"K","Serv. inmobiliarios y profesionales",2,"Centro",0.12763864662828
+2011,"K","Serv. inmobiliarios y profesionales",2,"Centro",0.126167289731621
+2012,"K","Serv. inmobiliarios y profesionales",2,"Centro",0.126859254188604
+2013,"K","Serv. inmobiliarios y profesionales",2,"Centro",0.124399466093705
+2014,"K","Serv. inmobiliarios y profesionales",2,"Centro",0.127043241017901
+2015,"K","Serv. inmobiliarios y profesionales",2,"Centro",0.125317407618742
+2016,"K","Serv. inmobiliarios y profesionales",2,"Centro",0.128310957398198
+2017,"K","Serv. inmobiliarios y profesionales",2,"Centro",0.128909014940148
+2018,"K","Serv. inmobiliarios y profesionales",2,"Centro",0.134785380672814
+2019,"K","Serv. inmobiliarios y profesionales",2,"Centro",0.13628230430178
+2020,"K","Serv. inmobiliarios y profesionales",2,"Centro",0.142802315532155
+2021,"K","Serv. inmobiliarios y profesionales",2,"Centro",0.140900808941614
+2022,"K","Serv. inmobiliarios y profesionales",2,"Centro",0.141433134249792
+2004,"N","Salud",2,"Centro",0.0322052345985087
+2005,"N","Salud",2,"Centro",0.0321510824972243
+2006,"N","Salud",2,"Centro",0.0306580167670398
+2007,"N","Salud",2,"Centro",0.0298036540047014
+2008,"N","Salud",2,"Centro",0.0305298571275901
+2009,"N","Salud",2,"Centro",0.0351325226266257
+2010,"N","Salud",2,"Centro",0.0331003467680239
+2011,"N","Salud",2,"Centro",0.0329773363826016
+2012,"N","Salud",2,"Centro",0.0351135052535135
+2013,"N","Salud",2,"Centro",0.0350747156032263
+2014,"N","Salud",2,"Centro",0.0365603250012097
+2015,"N","Salud",2,"Centro",0.0366988895039927
+2016,"N","Salud",2,"Centro",0.0385595674653394
+2017,"N","Salud",2,"Centro",0.038208084379536
+2018,"N","Salud",2,"Centro",0.0400631804697515
+2019,"N","Salud",2,"Centro",0.0406269218484954
+2020,"N","Salud",2,"Centro",0.0404685635539561
+2021,"N","Salud",2,"Centro",0.0403624967306835
+2022,"N","Salud",2,"Centro",0.0394143690958043
+2004,"P","Servicio doméstico",2,"Centro",0.00782121584587505
+2005,"P","Servicio doméstico",2,"Centro",0.00770129584593698
+2006,"P","Servicio doméstico",2,"Centro",0.00783664243929698
+2007,"P","Servicio doméstico",2,"Centro",0.00737416399405614
+2008,"P","Servicio doméstico",2,"Centro",0.00733127104202207
+2009,"P","Servicio doméstico",2,"Centro",0.00796955681526697
+2010,"P","Servicio doméstico",2,"Centro",0.00724154993855953
+2011,"P","Servicio doméstico",2,"Centro",0.00695388162395527
+2012,"P","Servicio doméstico",2,"Centro",0.00736312666175584
+2013,"P","Servicio doméstico",2,"Centro",0.00735216943039054
+2014,"P","Servicio doméstico",2,"Centro",0.00757604690422425
+2015,"P","Servicio doméstico",2,"Centro",0.00740150278136235
+2016,"P","Servicio doméstico",2,"Centro",0.00750733246687744
+2017,"P","Servicio doméstico",2,"Centro",0.00710408663996745
+2018,"P","Servicio doméstico",2,"Centro",0.00738687913613872
+2019,"P","Servicio doméstico",2,"Centro",0.00789367406017093
+2020,"P","Servicio doméstico",2,"Centro",0.00714269974005529
+2021,"P","Servicio doméstico",2,"Centro",0.00673441111295312
+2022,"P","Servicio doméstico",2,"Centro",0.00713411439482872
+2004,"L","Adm. pública y defensa",1,"Norte",0.081652407500751
+2005,"L","Adm. pública y defensa",1,"Norte",0.0767331976004705
+2006,"L","Adm. pública y defensa",1,"Norte",0.0727334804224502
+2007,"L","Adm. pública y defensa",1,"Norte",0.0714678755434528
+2008,"L","Adm. pública y defensa",1,"Norte",0.0685380824616664
+2009,"L","Adm. pública y defensa",1,"Norte",0.0731521642255166
+2010,"L","Adm. pública y defensa",1,"Norte",0.0662014141680303
+2011,"L","Adm. pública y defensa",1,"Norte",0.067148874596367
+2012,"L","Adm. pública y defensa",1,"Norte",0.072870834635139
+2013,"L","Adm. pública y defensa",1,"Norte",0.075343706554733
+2014,"L","Adm. pública y defensa",1,"Norte",0.0747942288863876
+2015,"L","Adm. pública y defensa",1,"Norte",0.07463994855399
+2016,"L","Adm. pública y defensa",1,"Norte",0.0777863866716425
+2017,"L","Adm. pública y defensa",1,"Norte",0.079525843891487
+2018,"L","Adm. pública y defensa",1,"Norte",0.0824884052471208
+2019,"L","Adm. pública y defensa",1,"Norte",0.0860116729802264
+2020,"L","Adm. pública y defensa",1,"Norte",0.0897133565762479
+2021,"L","Adm. pública y defensa",1,"Norte",0.0880121132083521
+2022,"L","Adm. pública y defensa",1,"Norte",0.0893098002539011
+2004,"A","Agro",1,"Norte",0.130657990832063
+2005,"A","Agro",1,"Norte",0.128802543936127
+2006,"A","Agro",1,"Norte",0.139729524759148
+2007,"A","Agro",1,"Norte",0.134172297912777
+2008,"A","Agro",1,"Norte",0.131080552166641
+2009,"A","Agro",1,"Norte",0.106339033890712
+2010,"A","Agro",1,"Norte",0.134824867222386
+2011,"A","Agro",1,"Norte",0.134587796818139
+2012,"A","Agro",1,"Norte",0.100994426471869
+2013,"A","Agro",1,"Norte",0.0925804847873385
+2014,"A","Agro",1,"Norte",0.121077139549592
+2015,"A","Agro",1,"Norte",0.116045943435552
+2016,"A","Agro",1,"Norte",0.119223379133254
+2017,"A","Agro",1,"Norte",0.122410395044606
+2018,"A","Agro",1,"Norte",0.120010800129223
+2019,"A","Agro",1,"Norte",0.139850540146077
+2020,"A","Agro",1,"Norte",0.148767032767581
+2021,"A","Agro",1,"Norte",0.134838897411482
+2022,"A","Agro",1,"Norte",0.12608421576059
+2004,"O","Serv. comunitarios, sociales y personales",1,"Norte",0.0224807345316718
+2005,"O","Serv. comunitarios, sociales y personales",1,"Norte",0.0225095165683682
+2006,"O","Serv. comunitarios, sociales y personales",1,"Norte",0.0223037124669499
+2007,"O","Serv. comunitarios, sociales y personales",1,"Norte",0.0223807777416039
+2008,"O","Serv. comunitarios, sociales y personales",1,"Norte",0.0232160532107658
+2009,"O","Serv. comunitarios, sociales y personales",1,"Norte",0.0250470380846702
+2010,"O","Serv. comunitarios, sociales y personales",1,"Norte",0.0239242608198525
+2011,"O","Serv. comunitarios, sociales y personales",1,"Norte",0.0234837155369795
+2012,"O","Serv. comunitarios, sociales y personales",1,"Norte",0.0244028263884774
+2013,"O","Serv. comunitarios, sociales y personales",1,"Norte",0.0237794190427468
+2014,"O","Serv. comunitarios, sociales y personales",1,"Norte",0.0227954524194303
+2015,"O","Serv. comunitarios, sociales y personales",1,"Norte",0.0221802930563277
+2016,"O","Serv. comunitarios, sociales y personales",1,"Norte",0.0227226565173971
+2017,"O","Serv. comunitarios, sociales y personales",1,"Norte",0.0224617027511699
+2018,"O","Serv. comunitarios, sociales y personales",1,"Norte",0.0232926760111404
+2019,"O","Serv. comunitarios, sociales y personales",1,"Norte",0.0226173624968514
+2020,"O","Serv. comunitarios, sociales y personales",1,"Norte",0.0144379404568735
+2021,"O","Serv. comunitarios, sociales y personales",1,"Norte",0.0175912391475092
+2022,"O","Serv. comunitarios, sociales y personales",1,"Norte",0.0183790842653159
+2004,"E","Electricidad, gas y agua",1,"Norte",0.0245615661571702
+2005,"E","Electricidad, gas y agua",1,"Norte",0.0249221475388963
+2006,"E","Electricidad, gas y agua",1,"Norte",0.0246161454090199
+2007,"E","Electricidad, gas y agua",1,"Norte",0.0235283953579096
+2008,"E","Electricidad, gas y agua",1,"Norte",0.0245269448284133
+2009,"E","Electricidad, gas y agua",1,"Norte",0.0266500338051121
+2010,"E","Electricidad, gas y agua",1,"Norte",0.0251015994816579
+2011,"E","Electricidad, gas y agua",1,"Norte",0.0249121170062313
+2012,"E","Electricidad, gas y agua",1,"Norte",0.0285084166879211
+2013,"E","Electricidad, gas y agua",1,"Norte",0.0282301679213246
+2014,"E","Electricidad, gas y agua",1,"Norte",0.0282596250114499
+2015,"E","Electricidad, gas y agua",1,"Norte",0.0295513458781
+2016,"E","Electricidad, gas y agua",1,"Norte",0.0310005478824913
+2017,"E","Electricidad, gas y agua",1,"Norte",0.0301385505143276
+2018,"E","Electricidad, gas y agua",1,"Norte",0.031101347016626
+2019,"E","Electricidad, gas y agua",1,"Norte",0.0297185953844521
+2020,"E","Electricidad, gas y agua",1,"Norte",0.0338683214433221
+2021,"E","Electricidad, gas y agua",1,"Norte",0.0325157302130613
+2022,"E","Electricidad, gas y agua",1,"Norte",0.0309706391085489
+2004,"G","Comercio",1,"Norte",0.174907746138662
+2005,"G","Comercio",1,"Norte",0.172860683406764
+2006,"G","Comercio",1,"Norte",0.181959565846855
+2007,"G","Comercio",1,"Norte",0.187363540634439
+2008,"G","Comercio",1,"Norte",0.190344360868092
+2009,"G","Comercio",1,"Norte",0.188922614387535
+2010,"G","Comercio",1,"Norte",0.189969104995665
+2011,"G","Comercio",1,"Norte",0.196659162047605
+2012,"G","Comercio",1,"Norte",0.197772384731475
+2013,"G","Comercio",1,"Norte",0.204268555178591
+2014,"G","Comercio",1,"Norte",0.194590490957033
+2015,"G","Comercio",1,"Norte",0.198253076327524
+2016,"G","Comercio",1,"Norte",0.193450397948196
+2017,"G","Comercio",1,"Norte",0.193681524081281
+2018,"G","Comercio",1,"Norte",0.188400285556605
+2019,"G","Comercio",1,"Norte",0.176996786773736
+2020,"G","Comercio",1,"Norte",0.182312952846378
+2021,"G","Comercio",1,"Norte",0.184746392377823
+2022,"G","Comercio",1,"Norte",0.184104290373568
+2004,"I","Transporte y comunicaciones",1,"Norte",0.0655613984612395
+2005,"I","Transporte y comunicaciones",1,"Norte",0.0693071310084722
+2006,"I","Transporte y comunicaciones",1,"Norte",0.0712007007544227
+2007,"I","Transporte y comunicaciones",1,"Norte",0.0745571021738881
+2008,"I","Transporte y comunicaciones",1,"Norte",0.0773133887621896
+2009,"I","Transporte y comunicaciones",1,"Norte",0.0820398221395544
+2010,"I","Transporte y comunicaciones",1,"Norte",0.0818200120208791
+2011,"I","Transporte y comunicaciones",1,"Norte",0.0818089380998769
+2012,"I","Transporte y comunicaciones",1,"Norte",0.0851497460165961
+2013,"I","Transporte y comunicaciones",1,"Norte",0.0855159938684991
+2014,"I","Transporte y comunicaciones",1,"Norte",0.0845643151057385
+2015,"I","Transporte y comunicaciones",1,"Norte",0.0869053259516246
+2016,"I","Transporte y comunicaciones",1,"Norte",0.0917477331533086
+2017,"I","Transporte y comunicaciones",1,"Norte",0.0922012445040474
+2018,"I","Transporte y comunicaciones",1,"Norte",0.0931395199779899
+2019,"I","Transporte y comunicaciones",1,"Norte",0.0942310403050942
+2020,"I","Transporte y comunicaciones",1,"Norte",0.0851125656975146
+2021,"I","Transporte y comunicaciones",1,"Norte",0.0845911032248651
+2022,"I","Transporte y comunicaciones",1,"Norte",0.0881975799986655
+2004,"F","Construcción",1,"Norte",0.0441032879926111
+2005,"F","Construcción",1,"Norte",0.0554244103462488
+2006,"F","Construcción",1,"Norte",0.0490848792939221
+2007,"F","Construcción",1,"Norte",0.0515870090120944
+2008,"F","Construcción",1,"Norte",0.0516987040867821
+2009,"F","Construcción",1,"Norte",0.051324847733864
+2010,"F","Construcción",1,"Norte",0.050430809777848
+2011,"F","Construcción",1,"Norte",0.0509421200145374
+2012,"F","Construcción",1,"Norte",0.0482062055058871
+2013,"F","Construcción",1,"Norte",0.0487367082018318
+2014,"F","Construcción",1,"Norte",0.0472897323124743
+2015,"F","Construcción",1,"Norte",0.0486418419585027
+2016,"F","Construcción",1,"Norte",0.0400934756252569
+2017,"F","Construcción",1,"Norte",0.0431783901706748
+2018,"F","Construcción",1,"Norte",0.0417616260388819
+2019,"F","Construcción",1,"Norte",0.0368186547627593
+2020,"F","Construcción",1,"Norte",0.0322238342243865
+2021,"F","Construcción",1,"Norte",0.0419957234777804
+2022,"F","Construcción",1,"Norte",0.0479834824916983
+2004,"D","Industria manufacturera",1,"Norte",0.150226268768423
+2005,"D","Industria manufacturera",1,"Norte",0.144880413581732
+2006,"D","Industria manufacturera",1,"Norte",0.14457311601406
+2007,"D","Industria manufacturera",1,"Norte",0.144387243635313
+2008,"D","Industria manufacturera",1,"Norte",0.142527220162153
+2009,"D","Industria manufacturera",1,"Norte",0.141696501622085
+2010,"D","Industria manufacturera",1,"Norte",0.1395674425121
+2011,"D","Industria manufacturera",1,"Norte",0.139192044202536
+2012,"D","Industria manufacturera",1,"Norte",0.14047002883607
+2013,"D","Industria manufacturera",1,"Norte",0.142821564767317
+2014,"D","Industria manufacturera",1,"Norte",0.135261760882885
+2015,"D","Industria manufacturera",1,"Norte",0.135441117847036
+2016,"D","Industria manufacturera",1,"Norte",0.127109955285798
+2017,"D","Industria manufacturera",1,"Norte",0.124591555350386
+2018,"D","Industria manufacturera",1,"Norte",0.11999473696371
+2019,"D","Industria manufacturera",1,"Norte",0.11855441575064
+2020,"D","Industria manufacturera",1,"Norte",0.120931968601694
+2021,"D","Industria manufacturera",1,"Norte",0.123100314973516
+2022,"D","Industria manufacturera",1,"Norte",0.120222144555298
+2004,"M","Enseñanza",1,"Norte",0.0633945319532708
+2005,"M","Enseñanza",1,"Norte",0.0608837127437872
+2006,"M","Enseñanza",1,"Norte",0.0575365307257246
+2007,"M","Enseñanza",1,"Norte",0.057500218882077
+2008,"M","Enseñanza",1,"Norte",0.0580277873879913
+2009,"M","Enseñanza",1,"Norte",0.0632636519509109
+2010,"M","Enseñanza",1,"Norte",0.0614877163052091
+2011,"M","Enseñanza",1,"Norte",0.0594405737165349
+2012,"M","Enseñanza",1,"Norte",0.063964789609468
+2013,"M","Enseñanza",1,"Norte",0.0645798485412989
+2014,"M","Enseñanza",1,"Norte",0.0645589664749578
+2015,"M","Enseñanza",1,"Norte",0.064362327709884
+2016,"M","Enseñanza",1,"Norte",0.0692591797318073
+2017,"M","Enseñanza",1,"Norte",0.0679569329808772
+2018,"M","Enseñanza",1,"Norte",0.0697562245859698
+2019,"M","Enseñanza",1,"Norte",0.0709649709515865
+2020,"M","Enseñanza",1,"Norte",0.0733577688339686
+2021,"M","Enseñanza",1,"Norte",0.0699611097786897
+2022,"M","Enseñanza",1,"Norte",0.0678303274312859
+2004,"C","Petróleo y minería",1,"Norte",0.0575330715442552
+2005,"C","Petróleo y minería",1,"Norte",0.0571958540334211
+2006,"C","Petróleo y minería",1,"Norte",0.0530912831818828
+2007,"C","Petróleo y minería",1,"Norte",0.0483269594165759
+2008,"C","Petróleo y minería",1,"Norte",0.0428540133591696
+2009,"C","Petróleo y minería",1,"Norte",0.0408326163877544
+2010,"C","Petróleo y minería",1,"Norte",0.035837935383252
+2011,"C","Petróleo y minería",1,"Norte",0.0293076679043122
+2012,"C","Petróleo y minería",1,"Norte",0.0313338022556827
+2013,"C","Petróleo y minería",1,"Norte",0.0251616611907108
+2014,"C","Petróleo y minería",1,"Norte",0.0254568932129975
+2015,"C","Petróleo y minería",1,"Norte",0.01898969005148
+2016,"C","Petróleo y minería",1,"Norte",0.0218472114169286
+2017,"C","Petróleo y minería",1,"Norte",0.01852569620828
+2018,"C","Petróleo y minería",1,"Norte",0.0162619454663679
+2019,"C","Petróleo y minería",1,"Norte",0.0120795481311227
+2020,"C","Petróleo y minería",1,"Norte",0.0113493215469302
+2021,"C","Petróleo y minería",1,"Norte",0.0138568578933178
+2022,"C","Petróleo y minería",1,"Norte",0.0190362714805545
+2004,"H","Hotelería y restaurantes",1,"Norte",0.0148047022181142
+2005,"H","Hotelería y restaurantes",1,"Norte",0.0159669372988469
+2006,"H","Hotelería y restaurantes",1,"Norte",0.0181634667271247
+2007,"H","Hotelería y restaurantes",1,"Norte",0.0184024745514847
+2008,"H","Hotelería y restaurantes",1,"Norte",0.0187736838571242
+2009,"H","Hotelería y restaurantes",1,"Norte",0.0195259925456037
+2010,"H","Hotelería y restaurantes",1,"Norte",0.019729747356559
+2011,"H","Hotelería y restaurantes",1,"Norte",0.0192227589715615
+2012,"H","Hotelería y restaurantes",1,"Norte",0.0204815518955904
+2013,"H","Hotelería y restaurantes",1,"Norte",0.0205204302617202
+2014,"H","Hotelería y restaurantes",1,"Norte",0.0199993223011329
+2015,"H","Hotelería y restaurantes",1,"Norte",0.0201929374200943
+2016,"H","Hotelería y restaurantes",1,"Norte",0.0215259351277206
+2017,"H","Hotelería y restaurantes",1,"Norte",0.0218427184868284
+2018,"H","Hotelería y restaurantes",1,"Norte",0.0225648238893652
+2019,"H","Hotelería y restaurantes",1,"Norte",0.0227289567076312
+2020,"H","Hotelería y restaurantes",1,"Norte",0.0119813805026935
+2021,"H","Hotelería y restaurantes",1,"Norte",0.0132741649430625
+2022,"H","Hotelería y restaurantes",1,"Norte",0.0174271452162297
+2004,"J","Finanzas",1,"Norte",0.0195504479275041
+2005,"J","Finanzas",1,"Norte",0.0201616303428752
+2006,"J","Finanzas",1,"Norte",0.0208809807490165
+2007,"J","Finanzas",1,"Norte",0.021407844521668
+2008,"J","Finanzas",1,"Norte",0.0226730275617003
+2009,"J","Finanzas",1,"Norte",0.0238401681284173
+2010,"J","Finanzas",1,"Norte",0.0219766348916284
+2011,"J","Finanzas",1,"Norte",0.0232472980183986
+2012,"J","Finanzas",1,"Norte",0.0264550365340189
+2013,"J","Finanzas",1,"Norte",0.0265334189630027
+2014,"J","Finanzas",1,"Norte",0.0240769933475421
+2015,"J","Finanzas",1,"Norte",0.0237177408209515
+2016,"J","Finanzas",1,"Norte",0.0227238586965686
+2017,"J","Finanzas",1,"Norte",0.0225027646344287
+2018,"J","Finanzas",1,"Norte",0.024025964373447
+2019,"J","Finanzas",1,"Norte",0.0213288883008422
+2020,"J","Finanzas",1,"Norte",0.0232197327723814
+2021,"J","Finanzas",1,"Norte",0.021981208718064
+2022,"J","Finanzas",1,"Norte",0.0198677169896972
+2004,"B","Pesca",1,"Norte",0.000214685995414737
+2005,"B","Pesca",1,"Norte",0.000177578308076772
+2006,"B","Pesca",1,"Norte",0.000332115153351207
+2007,"B","Pesca",1,"Norte",0.000263602862529766
+2008,"B","Pesca",1,"Norte",0.000282428113751148
+2009,"B","Pesca",1,"Norte",0.000200784847823498
+2010,"B","Pesca",1,"Norte",0.000189306613702398
+2011,"B","Pesca",1,"Norte",0.000188244105408386
+2012,"B","Pesca",1,"Norte",0.000207048940911317
+2013,"B","Pesca",1,"Norte",0.000290497755420432
+2014,"B","Pesca",1,"Norte",0.00028641146785806
+2015,"B","Pesca",1,"Norte",0.000286783321273606
+2016,"B","Pesca",1,"Norte",0.000288242754617951
+2017,"B","Pesca",1,"Norte",0.000346579788605681
+2018,"B","Pesca",1,"Norte",0.000384502748019521
+2019,"B","Pesca",1,"Norte",0.000329712257554156
+2020,"B","Pesca",1,"Norte",0.000261879480021308
+2021,"B","Pesca",1,"Norte",0.000311999693454467
+2022,"B","Pesca",1,"Norte",0.000316512584886936
+2004,"K","Serv. inmobiliarios y profesionales",1,"Norte",0.103189227614663
+2005,"K","Serv. inmobiliarios y profesionales",1,"Norte",0.102703465774564
+2006,"K","Serv. inmobiliarios y profesionales",1,"Norte",0.0993098438014425
+2007,"K","Serv. inmobiliarios y profesionales",1,"Norte",0.0997655004726317
+2008,"K","Serv. inmobiliarios y profesionales",1,"Norte",0.102509988639946
+2009,"K","Serv. inmobiliarios y profesionales",1,"Norte",0.107618652312876
+2010,"K","Serv. inmobiliarios y profesionales",1,"Norte",0.101907844476609
+2011,"K","Serv. inmobiliarios y profesionales",1,"Norte",0.102632157704123
+2012,"K","Serv. inmobiliarios y profesionales",1,"Norte",0.106700964301848
+2013,"K","Serv. inmobiliarios y profesionales",1,"Norte",0.107437482455986
+2014,"K","Serv. inmobiliarios y profesionales",1,"Norte",0.103515856311894
+2015,"K","Serv. inmobiliarios y profesionales",1,"Norte",0.10747354157191
+2016,"K","Serv. inmobiliarios y profesionales",1,"Norte",0.106867909956614
+2017,"K","Serv. inmobiliarios y profesionales",1,"Norte",0.10681856359557
+2018,"K","Serv. inmobiliarios y profesionales",1,"Norte",0.110988909383319
+2019,"K","Serv. inmobiliarios y profesionales",1,"Norte",0.110342041358089
+2020,"K","Serv. inmobiliarios y profesionales",1,"Norte",0.114566042926496
+2021,"K","Serv. inmobiliarios y profesionales",1,"Norte",0.113979889004273
+2022,"K","Serv. inmobiliarios y profesionales",1,"Norte",0.114847844636641
+2004,"N","Salud",1,"Norte",0.0396242908536403
+2005,"N","Salud",1,"Norte",0.0399523931446026
+2006,"N","Salud",1,"Norte",0.0369661787515819
+2007,"N","Salud",1,"Norte",0.0377308509904028
+2008,"N","Salud",1,"Norte",0.0384213552611889
+2009,"N","Salud",1,"Norte",0.0417455233570856
+2010,"N","Salud",1,"Norte",0.0399320314922828
+2011,"N","Salud",1,"Norte",0.0404817011454918
+2012,"N","Salud",1,"Norte",0.0452058888882845
+2013,"N","Salud",1,"Norte",0.0468980222012603
+2014,"N","Salud",1,"Norte",0.0463825611368314
+2015,"N","Salud",1,"Norte",0.0463055583202093
+2016,"N","Salud",1,"Norte",0.0473111040037484
+2017,"N","Salud",1,"Norte",0.0471852670321789
+2018,"N","Salud",1,"Norte",0.04895102612566
+2019,"N","Salud",1,"Norte",0.0501116062171353
+2020,"N","Salud",1,"Norte",0.051394852343222
+2021,"N","Salud",1,"Norte",0.0530356942017936
+2022,"N","Salud",1,"Norte",0.0488626374444541
+2004,"P","Servicio doméstico",1,"Norte",0.00753764151054576
+2005,"P","Servicio doméstico",1,"Norte",0.00751838436674709
+2006,"P","Servicio doméstico",1,"Norte",0.00751847594304808
+2007,"P","Servicio doméstico",1,"Norte",0.00715830629115258
+2008,"P","Servicio doméstico",1,"Norte",0.00721240927242578
+2009,"P","Servicio doméstico",1,"Norte",0.00780055458047926
+2010,"P","Servicio doméstico",1,"Norte",0.00709927248233832
+2011,"P","Servicio doméstico",1,"Norte",0.00674483011189702
+2012,"P","Servicio doméstico",1,"Norte",0.00727604830076199
+2013,"P","Servicio doméstico",1,"Norte",0.00730203830821949
+2014,"P","Servicio doméstico",1,"Norte",0.00709025062179551
+2015,"P","Servicio doméstico",1,"Norte",0.0070125277755406
+2016,"P","Servicio doméstico",1,"Norte",0.00704202609465055
+2017,"P","Servicio doméstico",1,"Norte",0.00663227096525094
+2018,"P","Servicio doméstico",1,"Norte",0.00687720648655401
+2019,"P","Servicio doméstico",1,"Norte",0.00731520747620174
+2020,"P","Servicio doméstico",1,"Norte",0.00650104898028875
+2021,"P","Servicio doméstico",1,"Norte",0.0062075617329559
+2022,"P","Servicio doméstico",1,"Norte",0.00656030740866471
+2004,"L","Adm. pública y defensa",3,"Sur",0.0522655583762982
+2005,"L","Adm. pública y defensa",3,"Sur",0.0526953635690731
+2006,"L","Adm. pública y defensa",3,"Sur",0.049795862087998
+2007,"L","Adm. pública y defensa",3,"Sur",0.0554659384940698
+2008,"L","Adm. pública y defensa",3,"Sur",0.059868899551082
+2009,"L","Adm. pública y defensa",3,"Sur",0.0637033379299154
+2010,"L","Adm. pública y defensa",3,"Sur",0.0621652476680072
+2011,"L","Adm. pública y defensa",3,"Sur",0.0582488628144189
+2012,"L","Adm. pública y defensa",3,"Sur",0.0609983749663788
+2013,"L","Adm. pública y defensa",3,"Sur",0.0602191588716237
+2014,"L","Adm. pública y defensa",3,"Sur",0.0645443213876357
+2015,"L","Adm. pública y defensa",3,"Sur",0.0640694791672178
+2016,"L","Adm. pública y defensa",3,"Sur",0.0675892304220929
+2017,"L","Adm. pública y defensa",3,"Sur",0.0667847993092735
+2018,"L","Adm. pública y defensa",3,"Sur",0.0667042154078333
+2019,"L","Adm. pública y defensa",3,"Sur",0.073791078659903
+2020,"L","Adm. pública y defensa",3,"Sur",0.0765520882698182
+2021,"L","Adm. pública y defensa",3,"Sur",0.0708296048135704
+2022,"L","Adm. pública y defensa",3,"Sur",0.0721288440492476
+2004,"A","Agro",3,"Sur",0.0272299804886784
+2005,"A","Agro",3,"Sur",0.0302567371771505
+2006,"A","Agro",3,"Sur",0.0267337009522902
+2007,"A","Agro",3,"Sur",0.0257564246284476
+2008,"A","Agro",3,"Sur",0.0251028481420925
+2009,"A","Agro",3,"Sur",0.023547448682892
+2010,"A","Agro",3,"Sur",0.0217124198330428
+2011,"A","Agro",3,"Sur",0.0215786143977165
+2012,"A","Agro",3,"Sur",0.0190388936793039
+2013,"A","Agro",3,"Sur",0.0183230136424052
+2014,"A","Agro",3,"Sur",0.017603509224254
+2015,"A","Agro",3,"Sur",0.018338445238168
+2016,"A","Agro",3,"Sur",0.0163015422332916
+2017,"A","Agro",3,"Sur",0.0162590371772041
+2018,"A","Agro",3,"Sur",0.0160255317449768
+2019,"A","Agro",3,"Sur",0.0169170834299855
+2020,"A","Agro",3,"Sur",0.019216972261754
+2021,"A","Agro",3,"Sur",0.0159577698434276
+2022,"A","Agro",3,"Sur",0.0149634527322811
+2004,"O","Serv. comunitarios, sociales y personales",3,"Sur",0.0123788493618238
+2005,"O","Serv. comunitarios, sociales y personales",3,"Sur",0.0134109299689183
+2006,"O","Serv. comunitarios, sociales y personales",3,"Sur",0.0139844330983682
+2007,"O","Serv. comunitarios, sociales y personales",3,"Sur",0.0149470514743691
+2008,"O","Serv. comunitarios, sociales y personales",3,"Sur",0.0160888811560167
+2009,"O","Serv. comunitarios, sociales y personales",3,"Sur",0.0168764362338862
+2010,"O","Serv. comunitarios, sociales y personales",3,"Sur",0.0167239394688532
+2011,"O","Serv. comunitarios, sociales y personales",3,"Sur",0.0165078409588388
+2012,"O","Serv. comunitarios, sociales y personales",3,"Sur",0.016492332027057
+2013,"O","Serv. comunitarios, sociales y personales",3,"Sur",0.0160003704643134
+2014,"O","Serv. comunitarios, sociales y personales",3,"Sur",0.0158143429955628
+2015,"O","Serv. comunitarios, sociales y personales",3,"Sur",0.0151065453614881
+2016,"O","Serv. comunitarios, sociales y personales",3,"Sur",0.0157626805207929
+2017,"O","Serv. comunitarios, sociales y personales",3,"Sur",0.0158915222093074
+2018,"O","Serv. comunitarios, sociales y personales",3,"Sur",0.0154449458485118
+2019,"O","Serv. comunitarios, sociales y personales",3,"Sur",0.0148442377967924
+2020,"O","Serv. comunitarios, sociales y personales",3,"Sur",0.0105227560691349
+2021,"O","Serv. comunitarios, sociales y personales",3,"Sur",0.0123476830263094
+2022,"O","Serv. comunitarios, sociales y personales",3,"Sur",0.0123483421550847
+2004,"E","Electricidad, gas y agua",3,"Sur",0.0341956602828915
+2005,"E","Electricidad, gas y agua",3,"Sur",0.0335869286380072
+2006,"E","Electricidad, gas y agua",3,"Sur",0.0327172256854346
+2007,"E","Electricidad, gas y agua",3,"Sur",0.0330430149223813
+2008,"E","Electricidad, gas y agua",3,"Sur",0.0349860972148601
+2009,"E","Electricidad, gas y agua",3,"Sur",0.035627914087081
+2010,"E","Electricidad, gas y agua",3,"Sur",0.0324081584436818
+2011,"E","Electricidad, gas y agua",3,"Sur",0.0342745340662514
+2012,"E","Electricidad, gas y agua",3,"Sur",0.0348307911376948
+2013,"E","Electricidad, gas y agua",3,"Sur",0.03362647832946
+2014,"E","Electricidad, gas y agua",3,"Sur",0.0346085611049986
+2015,"E","Electricidad, gas y agua",3,"Sur",0.0352036741756593
+2016,"E","Electricidad, gas y agua",3,"Sur",0.0358931563569983
+2017,"E","Electricidad, gas y agua",3,"Sur",0.0355827585044524
+2018,"E","Electricidad, gas y agua",3,"Sur",0.0345682378906167
+2019,"E","Electricidad, gas y agua",3,"Sur",0.034769055124937
+2020,"E","Electricidad, gas y agua",3,"Sur",0.0373785245911498
+2021,"E","Electricidad, gas y agua",3,"Sur",0.0342874881619744
+2022,"E","Electricidad, gas y agua",3,"Sur",0.0317511236295462
+2004,"G","Comercio",3,"Sur",0.07105990736288
+2005,"G","Comercio",3,"Sur",0.0760518178489406
+2006,"G","Comercio",3,"Sur",0.0808662361721126
+2007,"G","Comercio",3,"Sur",0.0877045065301032
+2008,"G","Comercio",3,"Sur",0.0899627408397012
+2009,"G","Comercio",3,"Sur",0.0843331775570703
+2010,"G","Comercio",3,"Sur",0.0929407946711864
+2011,"G","Comercio",3,"Sur",0.105853760559638
+2012,"G","Comercio",3,"Sur",0.104866267308535
+2013,"G","Comercio",3,"Sur",0.106604682853766
+2014,"G","Comercio",3,"Sur",0.096242701666936
+2015,"G","Comercio",3,"Sur",0.0969322109252007
+2016,"G","Comercio",3,"Sur",0.0957741485869327
+2017,"G","Comercio",3,"Sur",0.0975985201420534
+2018,"G","Comercio",3,"Sur",0.096319041076203
+2019,"G","Comercio",3,"Sur",0.08728217344524
+2020,"G","Comercio",3,"Sur",0.092481555057102
+2021,"G","Comercio",3,"Sur",0.0976866172097841
+2022,"G","Comercio",3,"Sur",0.0969190227616137
+2004,"I","Transporte y comunicaciones",3,"Sur",0.0409018510199292
+2005,"I","Transporte y comunicaciones",3,"Sur",0.0460015544763002
+2006,"I","Transporte y comunicaciones",3,"Sur",0.0481392433112429
+2007,"I","Transporte y comunicaciones",3,"Sur",0.0517597713921647
+2008,"I","Transporte y comunicaciones",3,"Sur",0.0533359174892322
+2009,"I","Transporte y comunicaciones",3,"Sur",0.0543865148550168
+2010,"I","Transporte y comunicaciones",3,"Sur",0.0570458632279064
+2011,"I","Transporte y comunicaciones",3,"Sur",0.0587368551551905
+2012,"I","Transporte y comunicaciones",3,"Sur",0.0593443449322137
+2013,"I","Transporte y comunicaciones",3,"Sur",0.0611718872077927
+2014,"I","Transporte y comunicaciones",3,"Sur",0.0626827827326329
+2015,"I","Transporte y comunicaciones",3,"Sur",0.0631428413632839
+2016,"I","Transporte y comunicaciones",3,"Sur",0.0685686129926482
+2017,"I","Transporte y comunicaciones",3,"Sur",0.0705989436932887
+2018,"I","Transporte y comunicaciones",3,"Sur",0.0679241198466741
+2019,"I","Transporte y comunicaciones",3,"Sur",0.0684560929113159
+2020,"I","Transporte y comunicaciones",3,"Sur",0.0599434980486786
+2021,"I","Transporte y comunicaciones",3,"Sur",0.0588557686995716
+2022,"I","Transporte y comunicaciones",3,"Sur",0.059854084877908
+2004,"F","Construcción",3,"Sur",0.0542065360962305
+2005,"F","Construcción",3,"Sur",0.0561214926626249
+2006,"F","Construcción",3,"Sur",0.0586575690752854
+2007,"F","Construcción",3,"Sur",0.0596162074830663
+2008,"F","Construcción",3,"Sur",0.0564878441415458
+2009,"F","Construcción",3,"Sur",0.0486337441804895
+2010,"F","Construcción",3,"Sur",0.0492409054547977
+2011,"F","Construcción",3,"Sur",0.0527624989591894
+2012,"F","Construcción",3,"Sur",0.0506137918714649
+2013,"F","Construcción",3,"Sur",0.048471316668022
+2014,"F","Construcción",3,"Sur",0.0490445825123522
+2015,"F","Construcción",3,"Sur",0.0492134346385621
+2016,"F","Construcción",3,"Sur",0.0428155513441639
+2017,"F","Construcción",3,"Sur",0.0447132178018804
+2018,"F","Construcción",3,"Sur",0.0440300984005403
+2019,"F","Construcción",3,"Sur",0.0440465194413664
+2020,"F","Construcción",3,"Sur",0.0428672459175984
+2021,"F","Construcción",3,"Sur",0.0483705241082517
+2022,"F","Construcción",3,"Sur",0.0466690711488163
+2004,"D","Industria manufacturera",3,"Sur",0.08005630172836
+2005,"D","Industria manufacturera",3,"Sur",0.0837016543186067
+2006,"D","Industria manufacturera",3,"Sur",0.0895147396868063
+2007,"D","Industria manufacturera",3,"Sur",0.0954892464829774
+2008,"D","Industria manufacturera",3,"Sur",0.0956642250873509
+2009,"D","Industria manufacturera",3,"Sur",0.0862488231466152
+2010,"D","Industria manufacturera",3,"Sur",0.103548629593629
+2011,"D","Industria manufacturera",3,"Sur",0.120432693559231
+2012,"D","Industria manufacturera",3,"Sur",0.120582014833598
+2013,"D","Industria manufacturera",3,"Sur",0.121754021240187
+2014,"D","Industria manufacturera",3,"Sur",0.110331470286305
+2015,"D","Industria manufacturera",3,"Sur",0.107078483905518
+2016,"D","Industria manufacturera",3,"Sur",0.103845526277456
+2017,"D","Industria manufacturera",3,"Sur",0.105812030480486
+2018,"D","Industria manufacturera",3,"Sur",0.100627876380898
+2019,"D","Industria manufacturera",3,"Sur",0.0930465801622444
+2020,"D","Industria manufacturera",3,"Sur",0.0969446651801247
+2021,"D","Industria manufacturera",3,"Sur",0.103029229887499
+2022,"D","Industria manufacturera",3,"Sur",0.0993740717123924
+2004,"M","Enseñanza",3,"Sur",0.0380642916634433
+2005,"M","Enseñanza",3,"Sur",0.0386495885653228
+2006,"M","Enseñanza",3,"Sur",0.0363682965905721
+2007,"M","Enseñanza",3,"Sur",0.0384597652507338
+2008,"M","Enseñanza",3,"Sur",0.0414998027500646
+2009,"M","Enseñanza",3,"Sur",0.042898068820604
+2010,"M","Enseñanza",3,"Sur",0.0425580572152231
+2011,"M","Enseñanza",3,"Sur",0.0416440680279591
+2012,"M","Enseñanza",3,"Sur",0.0436619201032575
+2013,"M","Enseñanza",3,"Sur",0.0461043412067045
+2014,"M","Enseñanza",3,"Sur",0.0514992773944141
+2015,"M","Enseñanza",3,"Sur",0.051684307556212
+2016,"M","Enseñanza",3,"Sur",0.0555401834672211
+2017,"M","Enseñanza",3,"Sur",0.0547111552957111
+2018,"M","Enseñanza",3,"Sur",0.0542002870017149
+2019,"M","Enseñanza",3,"Sur",0.0569225027712095
+2020,"M","Enseñanza",3,"Sur",0.0589229464281432
+2021,"M","Enseñanza",3,"Sur",0.0512542923867376
+2022,"M","Enseñanza",3,"Sur",0.0516255186316639
+2004,"C","Petróleo y minería",3,"Sur",0.43406029156844
+2005,"C","Petróleo y minería",3,"Sur",0.41032498995544
+2006,"C","Petróleo y minería",3,"Sur",0.390832832691665
+2007,"C","Petróleo y minería",3,"Sur",0.363722639022707
+2008,"C","Petróleo y minería",3,"Sur",0.347761327173845
+2009,"C","Petróleo y minería",3,"Sur",0.367164851069535
+2010,"C","Petróleo y minería",3,"Sur",0.346604364217923
+2011,"C","Petróleo y minería",3,"Sur",0.313468862657982
+2012,"C","Petróleo y minería",3,"Sur",0.308721391463124
+2013,"C","Petróleo y minería",3,"Sur",0.29971431992678
+2014,"C","Petróleo y minería",3,"Sur",0.304826104396042
+2015,"C","Petróleo y minería",3,"Sur",0.309212974477241
+2016,"C","Petróleo y minería",3,"Sur",0.301178822159749
+2017,"C","Petróleo y minería",3,"Sur",0.289200533973189
+2018,"C","Petróleo y minería",3,"Sur",0.298288740775845
+2019,"C","Petróleo y minería",3,"Sur",0.31116632896795
+2020,"C","Petróleo y minería",3,"Sur",0.311617752060736
+2021,"C","Petróleo y minería",3,"Sur",0.312447977142531
+2022,"C","Petróleo y minería",3,"Sur",0.326212824675289
+2004,"H","Hotelería y restaurantes",3,"Sur",0.0129985227686988
+2005,"H","Hotelería y restaurantes",3,"Sur",0.0145530072574832
+2006,"H","Hotelería y restaurantes",3,"Sur",0.0150352874967269
+2007,"H","Hotelería y restaurantes",3,"Sur",0.0162117052109656
+2008,"H","Hotelería y restaurantes",3,"Sur",0.016406243440819
+2009,"H","Hotelería y restaurantes",3,"Sur",0.0165031819001427
+2010,"H","Hotelería y restaurantes",3,"Sur",0.0171798258555287
+2011,"H","Hotelería y restaurantes",3,"Sur",0.0165781625525742
+2012,"H","Hotelería y restaurantes",3,"Sur",0.01691373269602
+2013,"H","Hotelería y restaurantes",3,"Sur",0.0179000885541954
+2014,"H","Hotelería y restaurantes",3,"Sur",0.0191236763107514
+2015,"H","Hotelería y restaurantes",3,"Sur",0.0192742181406547
+2016,"H","Hotelería y restaurantes",3,"Sur",0.0201430484289559
+2017,"H","Hotelería y restaurantes",3,"Sur",0.0200435968356592
+2018,"H","Hotelería y restaurantes",3,"Sur",0.0200161706671959
+2019,"H","Hotelería y restaurantes",3,"Sur",0.0205554485157102
+2020,"H","Hotelería y restaurantes",3,"Sur",0.0115962573288529
+2021,"H","Hotelería y restaurantes",3,"Sur",0.0153807572603797
+2022,"H","Hotelería y restaurantes",3,"Sur",0.0192297823782198
+2004,"J","Finanzas",3,"Sur",0.0113518366844329
+2005,"J","Finanzas",3,"Sur",0.0128448652307667
+2006,"J","Finanzas",3,"Sur",0.0141120230861259
+2007,"J","Finanzas",3,"Sur",0.0161340589570696
+2008,"J","Finanzas",3,"Sur",0.017347929597598
+2009,"J","Finanzas",3,"Sur",0.0180389638703137
+2010,"J","Finanzas",3,"Sur",0.0184586143078618
+2011,"J","Finanzas",3,"Sur",0.0202805569142174
+2012,"J","Finanzas",3,"Sur",0.022068776943164
+2013,"J","Finanzas",3,"Sur",0.0225862497526898
+2014,"J","Finanzas",3,"Sur",0.0220725475638411
+2015,"J","Finanzas",3,"Sur",0.0215618963848589
+2016,"J","Finanzas",3,"Sur",0.0211972451521507
+2017,"J","Finanzas",3,"Sur",0.0211074345257199
+2018,"J","Finanzas",3,"Sur",0.0209925541128001
+2019,"J","Finanzas",3,"Sur",0.0178730336373195
+2020,"J","Finanzas",3,"Sur",0.0192576299549571
+2021,"J","Finanzas",3,"Sur",0.0171430800132974
+2022,"J","Finanzas",3,"Sur",0.0150246968134035
+2004,"B","Pesca",3,"Sur",0.0231701934581656
+2005,"B","Pesca",3,"Sur",0.020101083576313
+2006,"B","Pesca",3,"Sur",0.032158166780143
+2007,"B","Pesca",3,"Sur",0.0278016625304601
+2008,"B","Pesca",3,"Sur",0.0282100287651924
+2009,"B","Pesca",3,"Sur",0.0230113623653583
+2010,"B","Pesca",3,"Sur",0.0222368356717345
+2011,"B","Pesca",3,"Sur",0.0230321903071774
+2012,"B","Pesca",3,"Sur",0.0237286052557272
+2013,"B","Pesca",3,"Sur",0.0278604186019827
+2014,"B","Pesca",3,"Sur",0.0288387520776743
+2015,"B","Pesca",3,"Sur",0.0280697924012196
+2016,"B","Pesca",3,"Sur",0.0291071907109096
+2017,"B","Pesca",3,"Sur",0.0347908672924323
+2018,"B","Pesca",3,"Sur",0.0371568230979665
+2019,"B","Pesca",3,"Sur",0.0320389899716824
+2020,"B","Pesca",3,"Sur",0.0287239366188498
+2021,"B","Pesca",3,"Sur",0.0313105103938126
+2022,"B","Pesca",3,"Sur",0.0282158551984707
+2004,"K","Serv. inmobiliarios y profesionales",3,"Sur",0.0830600279924811
+2005,"K","Serv. inmobiliarios y profesionales",3,"Sur",0.0846474885882596
+2006,"K","Serv. inmobiliarios y profesionales",3,"Sur",0.0843723883740905
+2007,"K","Serv. inmobiliarios y profesionales",3,"Sur",0.0859197462501016
+2008,"K","Serv. inmobiliarios y profesionales",3,"Sur",0.0874120609186257
+2009,"K","Serv. inmobiliarios y profesionales",3,"Sur",0.0870917166193223
+2010,"K","Serv. inmobiliarios y profesionales",3,"Sur",0.0856620091855835
+2011,"K","Serv. inmobiliarios y profesionales",3,"Sur",0.0855111467307608
+2012,"K","Serv. inmobiliarios y profesionales",3,"Sur",0.0855592174153573
+2013,"K","Serv. inmobiliarios y profesionales",3,"Sur",0.0870262239665306
+2014,"K","Serv. inmobiliarios y profesionales",3,"Sur",0.0887329749432335
+2015,"K","Serv. inmobiliarios y profesionales",3,"Sur",0.0871860421500832
+2016,"K","Serv. inmobiliarios y profesionales",3,"Sur",0.0901519201049084
+2017,"K","Serv. inmobiliarios y profesionales",3,"Sur",0.0901958578965168
+2018,"K","Serv. inmobiliarios y profesionales",3,"Sur",0.0905465053635607
+2019,"K","Serv. inmobiliarios y profesionales",3,"Sur",0.0895931808928722
+2020,"K","Serv. inmobiliarios y profesionales",3,"Sur",0.0948319380894574
+2021,"K","Serv. inmobiliarios y profesionales",3,"Sur",0.0915847858698513
+2022,"K","Serv. inmobiliarios y profesionales",3,"Sur",0.0879674410531702
+2004,"N","Salud",3,"Sur",0.0214033916981385
+2005,"N","Salud",3,"Sur",0.0232341583700907
+2006,"N","Salud",3,"Sur",0.0228049170050657
+2007,"N","Salud",3,"Sur",0.0240182373338745
+2008,"N","Salud",3,"Sur",0.0257588643520053
+2009,"N","Salud",3,"Sur",0.0275193159088121
+2010,"N","Salud",3,"Sur",0.0272669208857801
+2011,"N","Salud",3,"Sur",0.0269417857915842
+2012,"N","Salud",3,"Sur",0.0282259621510405
+2013,"N","Salud",3,"Sur",0.0282087629142824
+2014,"N","Salud",3,"Sur",0.0295513501811555
+2015,"N","Salud",3,"Sur",0.0295718089155411
+2016,"N","Salud",3,"Sur",0.0315902381945993
+2017,"N","Salud",3,"Sur",0.0322690749033938
+2018,"N","Salud",3,"Sur",0.0326975251426824
+2019,"N","Salud",3,"Sur",0.0340427536702118
+2020,"N","Salud",3,"Sur",0.0349266761669435
+2021,"N","Salud",3,"Sur",0.0355338074939141
+2022,"N","Salud",3,"Sur",0.0336361892435639
+2004,"P","Servicio doméstico",3,"Sur",0.00359679944910805
+2005,"P","Servicio doméstico",3,"Sur",0.00381833979670214
+2006,"P","Servicio doméstico",3,"Sur",0.00390707790607314
+2007,"P","Servicio doméstico",3,"Sur",0.00395002403650829
+2008,"P","Servicio doméstico",3,"Sur",0.00410628937996821
+2009,"P","Servicio doméstico",3,"Sur",0.00441514277294572
+2010,"P","Servicio doméstico",3,"Sur",0.00424741429926128
+2011,"P","Servicio doméstico",3,"Sur",0.0041475665472711
+2012,"P","Servicio doméstico",3,"Sur",0.00435358321606359
+2013,"P","Servicio doméstico",3,"Sur",0.00442866579926439
+2014,"P","Servicio doméstico",3,"Sur",0.00448304522221111
+2015,"P","Servicio doméstico",3,"Sur",0.00435384519909236
+2016,"P","Servicio doméstico",3,"Sur",0.00454090304712901
+2017,"P","Servicio doméstico",3,"Sur",0.00444064995943163
+2018,"P","Servicio doméstico",3,"Sur",0.00445732724198075
+2019,"P","Servicio doméstico",3,"Sur",0.00465494060126012
+2020,"P","Servicio doméstico",3,"Sur",0.0042155579567
+2021,"P","Servicio doméstico",3,"Sur",0.00398010368908845
+2022,"P","Servicio doméstico",3,"Sur",0.00407967893932929
