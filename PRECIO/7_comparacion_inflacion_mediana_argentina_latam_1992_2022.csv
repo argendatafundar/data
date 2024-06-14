@@ -1,63 +1,65 @@
-﻿pais_o_grupo_de_paises;anio;mediana_paises_inflacion
-Argentina;1992; 17.55 
-Argentina;1993; 7.36 
-Argentina;1994; 3.85 
-Argentina;1995; 1.61 
-Argentina;1996; 0.05 
-Argentina;1997; 0.33 
-Argentina;1998; 0.66 
-Argentina;1999;-1.81 
-Argentina;2000;-0.73 
-Argentina;2001;-1.54 
-Argentina;2002; 40.95 
-Argentina;2003; 3.66 
-Argentina;2004; 6.10 
-Argentina;2005; 12.33 
-Argentina;2006; 9.84 
-Argentina;2007; 21.52 
-Argentina;2008; 20.60 
-Argentina;2009; 18.47 
-Argentina;2010; 27.03 
-Argentina;2011; 23.28 
-Argentina;2012; 23.01 
-Argentina;2013; 31.94 
-Argentina;2014; 39.01 
-Argentina;2015; 31.57 
-Argentina;2016; 31.43 
-Argentina;2017; 25.04 
-Argentina;2018; 47.10 
-Argentina;2019; 53.83 
-Argentina;2020; 36.14 
-Argentina;2021; 50.94 
-Argentina;2022; 94.79 
-América Latina y Caribe;1992; 17.26 
-América Latina y Caribe;1993; 12.78 
-América Latina y Caribe;1994; 16.84 
-América Latina y Caribe;1995; 12.57 
-América Latina y Caribe;1996; 11.84 
-América Latina y Caribe;1997; 7.25 
-América Latina y Caribe;1998; 7.82 
-América Latina y Caribe;1999; 5.10 
-América Latina y Caribe;2000; 5.97 
-América Latina y Caribe;2001; 4.84 
-América Latina y Caribe;2002; 7.23 
-América Latina y Caribe;2003; 6.38 
-América Latina y Caribe;2004; 6.10 
-América Latina y Caribe;2005; 5.88 
-América Latina y Caribe;2006; 5.00 
-América Latina y Caribe;2007; 7.86 
-América Latina y Caribe;2008; 8.83 
-América Latina y Caribe;2009; 2.95 
-América Latina y Caribe;2010; 5.82 
-América Latina y Caribe;2011; 6.01 
-América Latina y Caribe;2012; 4.54 
-América Latina y Caribe;2013; 3.97 
-América Latina y Caribe;2014; 4.21 
-América Latina y Caribe;2015; 3.11 
-América Latina y Caribe;2016; 3.32 
-América Latina y Caribe;2017; 4.20 
-América Latina y Caribe;2018; 2.44 
-América Latina y Caribe;2019; 3.41 
-América Latina y Caribe;2020; 2.93 
-América Latina y Caribe;2021; 6.83 
-América Latina y Caribe;2022; 8.29 
+"anio","mediana_paises_inflacion","pais_o_grupo_de_paises"
+"1992","17.545874354603","Argentina"
+"1993","7.36498114422282","Argentina"
+"1994","3.85438089031496","Argentina"
+"1995","1.607754177045","Argentina"
+"1996","0.054311344654056","Argentina"
+"1997","0.327996924641338","Argentina"
+"1998","0.664478929121004","Argentina"
+"1999","-1.81046644835473","Argentina"
+"2000","-0.73369945312316","Argentina"
+"2001","-1.54342782205186","Argentina"
+"2002","40.952868852459","Argentina"
+"2003","3.65632041869595","Argentina"
+"2004","6.10098176718095","Argentina"
+"2005","12.3265036351619","Argentina"
+"2006","9.83818770226537","Argentina"
+"2007","21.5205780710022","Argentina"
+"2008","20.5985005170631","Argentina"
+"2009","18.4736588241599","Argentina"
+"2010","27.0288609427305","Argentina"
+"2011","23.2755243759125","Argentina"
+"2012","23.006037496028","Argentina"
+"2013","31.9438247105517","Argentina"
+"2014","39.0082409269708","Argentina"
+"2015","31.5689061319607","Argentina"
+"2016","31.4284602059287","Argentina"
+"2017","25.0392","Argentina"
+"2018","47.1043480764433","Argentina"
+"2019","53.8","Argentina"
+"2020","36.1","Argentina"
+"2021","50.9","Argentina"
+"2022","94.8","Argentina"
+"2023","211.4","Argentina"
+"1992","17.545874354603","América Latina y Caribe"
+"1993","13.087","América Latina y Caribe"
+"1994","18.296","América Latina y Caribe"
+"1995","15.387","América Latina y Caribe"
+"1996","11.9715","América Latina y Caribe"
+"1997","7.8085","América Latina y Caribe"
+"1998","7.8355","América Latina y Caribe"
+"1999","5.2525","América Latina y Caribe"
+"2000","7.2425","América Latina y Caribe"
+"2001","6.147","América Latina y Caribe"
+"2002","7.661","América Latina y Caribe"
+"2003","6.4275","América Latina y Caribe"
+"2004","6.83499088359047","América Latina y Caribe"
+"2005","6.5635","América Latina y Caribe"
+"2006","5.143","América Latina y Caribe"
+"2007","8.1875","América Latina y Caribe"
+"2008","9.017","América Latina y Caribe"
+"2009","2.428","América Latina y Caribe"
+"2010","5.8665","América Latina y Caribe"
+"2011","6.107","América Latina y Caribe"
+"2012","4.5455","América Latina y Caribe"
+"2013","4.14","América Latina y Caribe"
+"2014","4.4495","América Latina y Caribe"
+"2015","3.2575","América Latina y Caribe"
+"2016","3.3375","América Latina y Caribe"
+"2017","4.3485","América Latina y Caribe"
+"2018","2.7945","América Latina y Caribe"
+"2019","3.5315","América Latina y Caribe"
+"2020","3.0405","América Latina y Caribe"
+"2021","6.982","América Latina y Caribe"
+"2022","8.3755","América Latina y Caribe"
+"2023","4.299","América Latina y Caribe"

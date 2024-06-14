@@ -1,749 +1,749 @@
-anio,codigo,nivel,rubro,precio_relativo
-2013,01,1,Alimentos y bebidas no alcohólicas,100
-2013,01.1,2,Alimentos,100
-2013,01.1.1,3,Pan y cereales,100
-2013,01.1.2,3,Carnes y derivados,100
-2013,01.1.3,3,Pescados y mariscos,100
-2013,01.1.4,3,"Leche, productos lácteos y huevos",100
-2013,01.1.5,3,"Aceites, mantecas y otras grasas",100
-2013,01.1.6,3,Frutas,100
-2013,01.1.7,3,"Verduras, tubérculos y legumbres",99.999992
-2013,01.1.8,3,"Azúcar, repostería y postres",100
-2013,01.1.9,3,Otros alimentos,100
-2013,01.2,2,Bebidas no alcohólicas,99.999992
-2013,02,1,Bebidas alcohólicas y tabaco,100
-2013,02.1,2,Bebidas alcohólicas,100
-2013,02.1.1,3,Vinos,100
-2013,02.1.2,3,Cerveza,100
-2013,02.2,2,Tabaco,99.999992
-2013,03,1,Prendas de vestir y calzado,100
-2013,03.1,2,Prendas de vestir,100
-2013,03.2,2,Calzado,100
-2013,04,1,"Vivienda, agua, electricidad, gas y otros combustibles",100
-2013,04.1,2,Alquiler de la vivienda,100
-2013,04.2,2,Mantenimiento y reparación de la vivienda,100
-2013,04.3,2,Suministro de agua y otros servicios relacionados con la vivienda,100
-2013,04.3.1,3,Suministro de agua,100
-2013,04.3.2,3,Gastos comunes por la vivienda,99.999992
-2013,04.4,2,"Electricidad, gas y otros combustibles",100
-2013,04.4.1,3,Electricidad,99.999992
-2013,04.4.2,3,Gas,100
-2013,05,1,Equipamiento y mantenimiento del hogar,100.00001
-2013,05.1,2,"Muebles, accesorios y alfombras",100
-2013,05.2,2,Artículos textiles para el hogar,100
-2013,05.3,2,Electrodomésticos,100
-2013,05.4,2,"Cristalería, vajilla y utensilios para el hogar",100
-2013,05.5,2,Herramientas y accesorios para la casa y el jardín,100
-2013,05.6,2,Bienes y servicios para la conservación del hogar,100
-2013,06,1,Salud,100.00001
-2013,06.1,2,Medicamentos y productos medicinales,100
-2013,06.1.1,3,Medicamentos,100
-2013,06.1.2,3,Productos medicinales,100
-2013,06.1.3,3,Artefactos y equipos terapéuticos,100
-2013,06.1.4,3,Servicios para pacientes externos,100
-2013,06.2,2,Seguros médicos,100.00001
-2013,07,1,Transporte,100
-2013,07.1,2,Adquisición de vehículos,100.00001
-2013,07.2,2,Funcionamiento de equipos de transporte personal,100
-2013,07.3,2,Servicios de transporte de pasajeros,100
-2013,07.3.1,3,Transporte de pasajeros por ferrocarril,100
-2013,07.3.2,3,Transporte de pasajeros por carretera,100
-2013,07.3.3,3,Transporte de pasajeros por aire,100
-2013,08,1,Información y comunicación,100
-2013,09,1,Recreación y cultura,100
-2013,09.1,2,Productos de recreación,100
-2013,09.2,2,Servicios de recreación,100
-2013,09.3,2,Servicios culturales,100
-2013,09.4,2,"Diarios, libros y artículos de papelería y dibujo",100
-2013,09.5,2,Paquetes turísticos,100
-2013,10,1,Educación,100
-2013,11,1,Restaurantes y hoteles,100
-2013,11.1,2,Servicios de alimentos y bebidas preparadas fuera del hogar,99.999992
-2013,11.2,2,Servicios de alojamiento,100
-2013,12,1,Seguros y servicios financieros,100
-2013,12.1,2,Seguros,100
-2013,12.2,2,Servicios financieros,100
-2013,13,1,"Cuidado personal, protección social y otros productos",100
-2013,13.1,2,Cuidado personal,99.999992
-2013,13.2,2,Efectos personales,100
-2013,13.3,2,Otros servicios,100
-2014,01,1,Alimentos y bebidas no alcohólicas,101.31055
-2014,01.1,2,Alimentos,101.11613
-2014,01.1.1,3,Pan y cereales,102.73653
-2014,01.1.2,3,Carnes y derivados,102.18212
-2014,01.1.3,3,Pescados y mariscos,102.17252
-2014,01.1.4,3,"Leche, productos lácteos y huevos",99.852364
-2014,01.1.5,3,"Aceites, mantecas y otras grasas",92.963455
-2014,01.1.6,3,Frutas,104.85819
-2014,01.1.7,3,"Verduras, tubérculos y legumbres",97.300362
-2014,01.1.8,3,"Azúcar, repostería y postres",101.24849
-2014,01.1.9,3,Otros alimentos,101.57272
-2014,01.2,2,Bebidas no alcohólicas,102.68903
-2014,02,1,Bebidas alcohólicas y tabaco,100.03145
-2014,02.1,2,Bebidas alcohólicas,93.590828
-2014,02.1.1,3,Vinos,90.910782
-2014,02.1.2,3,Cerveza,102.39462
-2014,02.2,2,Tabaco,105.35019
-2014,03,1,Prendas de vestir y calzado,101.73234
-2014,03.1,2,Prendas de vestir,103.07836
-2014,03.2,2,Calzado,97.411324
-2014,04,1,"Vivienda, agua, electricidad, gas y otros combustibles",98.882294
-2014,04.1,2,Alquiler de la vivienda,91.77565
-2014,04.2,2,Mantenimiento y reparación de la vivienda,116.96667
-2014,04.3,2,Suministro de agua y otros servicios relacionados con la vivienda,98.899078
-2014,04.3.1,3,Suministro de agua,148.59624
-2014,04.3.2,3,Gastos comunes por la vivienda,92.900314
-2014,04.4,2,"Electricidad, gas y otros combustibles",103.86873
-2014,04.4.1,3,Electricidad,72.630257
-2014,04.4.2,3,Gas,145.15059
-2014,05,1,Equipamiento y mantenimiento del hogar,98.407822
-2014,05.1,2,"Muebles, accesorios y alfombras",102.01956
-2014,05.2,2,Artículos textiles para el hogar,102.54133
-2014,05.3,2,Electrodomésticos,106.14868
-2014,05.4,2,"Cristalería, vajilla y utensilios para el hogar",109.99607
-2014,05.5,2,Herramientas y accesorios para la casa y el jardín,106.78469
-2014,05.6,2,Bienes y servicios para la conservación del hogar,94.246521
-2014,06,1,Salud,94.0214
-2014,06.1,2,Medicamentos y productos medicinales,94.763878
-2014,06.1.1,3,Medicamentos,93.726181
-2014,06.1.2,3,Productos medicinales,97.565613
-2014,06.1.3,3,Artefactos y equipos terapéuticos,101.23816
-2014,06.1.4,3,Servicios para pacientes externos,94.604576
-2014,06.2,2,Seguros médicos,93.055359
-2014,07,1,Transporte,108.76828
-2014,07.1,2,Adquisición de vehículos,108.50992
-2014,07.2,2,Funcionamiento de equipos de transporte personal,105.63911
-2014,07.3,2,Servicios de transporte de pasajeros,112.17731
-2014,07.3.1,3,Transporte de pasajeros por ferrocarril,109.86551
-2014,07.3.2,3,Transporte de pasajeros por carretera,112.03579
-2014,07.3.3,3,Transporte de pasajeros por aire,114.88155
-2014,08,1,Información y comunicación,88.858749
-2014,09,1,Recreación y cultura,100.50844
-2014,09.1,2,Productos de recreación,102.14577
-2014,09.2,2,Servicios de recreación,97.845627
-2014,09.3,2,Servicios culturales,100.40974
-2014,09.4,2,"Diarios, libros y artículos de papelería y dibujo",99.747757
-2014,09.5,2,Paquetes turísticos,103.67226
-2014,10,1,Educación,97.086899
-2014,11,1,Restaurantes y hoteles,99.256615
-2014,11.1,2,Servicios de alimentos y bebidas preparadas fuera del hogar,100.43327
-2014,11.2,2,Servicios de alojamiento,89.558342
-2014,12,1,Seguros y servicios financieros,94.165207
-2014,12.1,2,Seguros,95.212921
-2014,12.2,2,Servicios financieros,87.156845
-2014,13,1,"Cuidado personal, protección social y otros productos",98.108528
-2014,13.1,2,Cuidado personal,100.18866
-2014,13.2,2,Efectos personales,98.583649
-2014,13.3,2,Otros servicios,89.656509
-2015,01,1,Alimentos y bebidas no alcohólicas,98.913696
-2015,01.1,2,Alimentos,98.00087
-2015,01.1.1,3,Pan y cereales,96.926857
-2015,01.1.2,3,Carnes y derivados,97.993362
-2015,01.1.3,3,Pescados y mariscos,99.266953
-2015,01.1.4,3,"Leche, productos lácteos y huevos",98.185684
-2015,01.1.5,3,"Aceites, mantecas y otras grasas",90.871101
-2015,01.1.6,3,Frutas,95.601646
-2015,01.1.7,3,"Verduras, tubérculos y legumbres",98.618752
-2015,01.1.8,3,"Azúcar, repostería y postres",103.38527
-2015,01.1.9,3,Otros alimentos,102.40164
-2015,01.2,2,Bebidas no alcohólicas,105.45145
-2015,02,1,Bebidas alcohólicas y tabaco,112.40254
-2015,02.1,2,Bebidas alcohólicas,92.738472
-2015,02.1.1,3,Vinos,87.129669
-2015,02.1.2,3,Cerveza,110.98817
-2015,02.2,2,Tabaco,128.63698
-2015,03,1,Prendas de vestir y calzado,105.28301
-2015,03.1,2,Prendas de vestir,106.37054
-2015,03.2,2,Calzado,101.79575
-2015,04,1,"Vivienda, agua, electricidad, gas y otros combustibles",101.78371
-2015,04.1,2,Alquiler de la vivienda,94.872124
-2015,04.2,2,Mantenimiento y reparación de la vivienda,126.58599
-2015,04.3,2,Suministro de agua y otros servicios relacionados con la vivienda,101.65672
-2015,04.3.1,3,Suministro de agua,161.79285
-2015,04.3.2,3,Gastos comunes por la vivienda,94.398827
-2015,04.4,2,"Electricidad, gas y otros combustibles",102.24924
-2015,04.4.1,3,Electricidad,57.397804
-2015,04.4.2,3,Gas,161.51991
-2015,05,1,Equipamiento y mantenimiento del hogar,98.194435
-2015,05.1,2,"Muebles, accesorios y alfombras",100.58647
-2015,05.2,2,Artículos textiles para el hogar,107.29385
-2015,05.3,2,Electrodomésticos,106.40611
-2015,05.4,2,"Cristalería, vajilla y utensilios para el hogar",108.52995
-2015,05.5,2,Herramientas y accesorios para la casa y el jardín,100.86306
-2015,05.6,2,Bienes y servicios para la conservación del hogar,94.516472
-2015,06,1,Salud,93.433418
-2015,06.1,2,Medicamentos y productos medicinales,89.75901
-2015,06.1.1,3,Medicamentos,87.459259
-2015,06.1.2,3,Productos medicinales,97.993744
-2015,06.1.3,3,Artefactos y equipos terapéuticos,103.37562
-2015,06.1.4,3,Servicios para pacientes externos,97.111481
-2015,06.2,2,Seguros médicos,95.123131
-2015,07,1,Transporte,103.14296
-2015,07.1,2,Adquisición de vehículos,117.36504
-2015,07.2,2,Funcionamiento de equipos de transporte personal,98.814789
-2015,07.3,2,Servicios de transporte de pasajeros,102.27026
-2015,07.3.1,3,Transporte de pasajeros por ferrocarril,94.968971
-2015,07.3.2,3,Transporte de pasajeros por carretera,102.65814
-2015,07.3.3,3,Transporte de pasajeros por aire,104.96553
-2015,08,1,Información y comunicación,89.612007
-2015,09,1,Recreación y cultura,106.09631
-2015,09.1,2,Productos de recreación,106.23148
-2015,09.2,2,Servicios de recreación,106.16835
-2015,09.3,2,Servicios culturales,109.87746
-2015,09.4,2,"Diarios, libros y artículos de papelería y dibujo",109.59457
-2015,09.5,2,Paquetes turísticos,96.887619
-2015,10,1,Educación,104.51758
-2015,11,1,Restaurantes y hoteles,93.604813
-2015,11.1,2,Servicios de alimentos y bebidas preparadas fuera del hogar,94.351967
-2015,11.2,2,Servicios de alojamiento,87.445686
-2015,12,1,Seguros y servicios financieros,94.623276
-2015,12.1,2,Seguros,97.21035
-2015,12.2,2,Servicios financieros,77.310562
-2015,13,1,"Cuidado personal, protección social y otros productos",100.91708
-2015,13.1,2,Cuidado personal,101.84225
-2015,13.2,2,Efectos personales,97.947067
-2015,13.3,2,Otros servicios,98.959244
-2016,01,1,Alimentos y bebidas no alcohólicas,95.92321
-2016,01.1,2,Alimentos,95.689728
-2016,01.1.1,3,Pan y cereales,89.947334
-2016,01.1.2,3,Carnes y derivados,97.452606
-2016,01.1.3,3,Pescados y mariscos,99.828804
-2016,01.1.4,3,"Leche, productos lácteos y huevos",94.377022
-2016,01.1.5,3,"Aceites, mantecas y otras grasas",98.504158
-2016,01.1.6,3,Frutas,98.162895
-2016,01.1.7,3,"Verduras, tubérculos y legumbres",98.369881
-2016,01.1.8,3,"Azúcar, repostería y postres",98.558243
-2016,01.1.9,3,Otros alimentos,105.693
-2016,01.2,2,Bebidas no alcohólicas,97.589142
-2016,02,1,Bebidas alcohólicas y tabaco,127.20486
-2016,02.1,2,Bebidas alcohólicas,94.677185
-2016,02.1.1,3,Vinos,87.577179
-2016,02.1.2,3,Cerveza,119.15022
-2016,02.2,2,Tabaco,154.05951
-2016,03,1,Prendas de vestir y calzado,102.08289
-2016,03.1,2,Prendas de vestir,102.73852
-2016,03.2,2,Calzado,99.981346
-2016,04,1,"Vivienda, agua, electricidad, gas y otros combustibles",117.09402
-2016,04.1,2,Alquiler de la vivienda,92.619843
-2016,04.2,2,Mantenimiento y reparación de la vivienda,110.71069
-2016,04.3,2,Suministro de agua y otros servicios relacionados con la vivienda,119.02627
-2016,04.3.1,3,Suministro de agua,336.96777
-2016,04.3.2,3,Gastos comunes por la vivienda,92.71846
-2016,04.4,2,"Electricidad, gas y otros combustibles",174.57915
-2016,04.4.1,3,Electricidad,134.83838
-2016,04.4.2,3,Gas,227.0945
-2016,05,1,Equipamiento y mantenimiento del hogar,95.500145
-2016,05.1,2,"Muebles, accesorios y alfombras",97.502586
-2016,05.2,2,Artículos textiles para el hogar,104.2544
-2016,05.3,2,Electrodomésticos,100.97314
-2016,05.4,2,"Cristalería, vajilla y utensilios para el hogar",96.207214
-2016,05.5,2,Herramientas y accesorios para la casa y el jardín,99.018898
-2016,05.6,2,Bienes y servicios para la conservación del hogar,93.084892
-2016,06,1,Salud,94.236031
-2016,06.1,2,Medicamentos y productos medicinales,93.179337
-2016,06.1.1,3,Medicamentos,92.445457
-2016,06.1.2,3,Productos medicinales,95.234833
-2016,06.1.3,3,Artefactos y equipos terapéuticos,97.728058
-2016,06.1.4,3,Servicios para pacientes externos,94.005104
-2016,06.2,2,Seguros médicos,95.334663
-2016,07,1,Transporte,102.02599
-2016,07.1,2,Adquisición de vehículos,119.6843
-2016,07.2,2,Funcionamiento de equipos de transporte personal,94.42894
-2016,07.3,2,Servicios de transporte de pasajeros,103.29535
-2016,07.3.1,3,Transporte de pasajeros por ferrocarril,82.63147
-2016,07.3.2,3,Transporte de pasajeros por carretera,106.18369
-2016,07.3.3,3,Transporte de pasajeros por aire,98.435402
-2016,08,1,Información y comunicación,83.588684
-2016,09,1,Recreación y cultura,102.1628
-2016,09.1,2,Productos de recreación,99.598007
-2016,09.2,2,Servicios de recreación,105.14758
-2016,09.3,2,Servicios culturales,105.67474
-2016,09.4,2,"Diarios, libros y artículos de papelería y dibujo",112.12534
-2016,09.5,2,Paquetes turísticos,79.064247
-2016,10,1,Educación,99.386772
-2016,11,1,Restaurantes y hoteles,90.962357
-2016,11.1,2,Servicios de alimentos y bebidas preparadas fuera del hogar,92.382141
-2016,11.2,2,Servicios de alojamiento,79.256271
-2016,12,1,Seguros y servicios financieros,87.762199
-2016,12.1,2,Seguros,90.982353
-2016,12.2,2,Servicios financieros,66.220856
-2016,13,1,"Cuidado personal, protección social y otros productos",99.230377
-2016,13.1,2,Cuidado personal,99.843231
-2016,13.2,2,Efectos personales,89.766113
-2016,13.3,2,Otros servicios,102.17502
-2017,01,1,Alimentos y bebidas no alcohólicas,92.475731
-2017,01.1,2,Alimentos,91.764725
-2017,01.1.1,3,Pan y cereales,85.871002
-2017,01.1.2,3,Carnes y derivados,88.192505
-2017,01.1.3,3,Pescados y mariscos,94.063667
-2017,01.1.4,3,"Leche, productos lácteos y huevos",98.446815
-2017,01.1.5,3,"Aceites, mantecas y otras grasas",105.69999
-2017,01.1.6,3,Frutas,91.881973
-2017,01.1.7,3,"Verduras, tubérculos y legumbres",90.523705
-2017,01.1.8,3,"Azúcar, repostería y postres",95.31366
-2017,01.1.9,3,Otros alimentos,102.73393
-2017,01.2,2,Bebidas no alcohólicas,97.561028
-2017,02,1,Bebidas alcohólicas y tabaco,141.32397
-2017,02.1,2,Bebidas alcohólicas,107.94426
-2017,02.1.1,3,Vinos,105.26331
-2017,02.1.2,3,Cerveza,119.80493
-2017,02.2,2,Tabaco,168.88181
-2017,03,1,Prendas de vestir y calzado,97.378937
-2017,03.1,2,Prendas de vestir,98.020378
-2017,03.2,2,Calzado,95.321098
-2017,04,1,"Vivienda, agua, electricidad, gas y otros combustibles",133.01004
-2017,04.1,2,Alquiler de la vivienda,96.800102
-2017,04.2,2,Mantenimiento y reparación de la vivienda,103.25107
-2017,04.3,2,Suministro de agua y otros servicios relacionados con la vivienda,131.15248
-2017,04.3.1,3,Suministro de agua,392.77444
-2017,04.3.2,3,Gastos comunes por la vivienda,99.570892
-2017,04.4,2,"Electricidad, gas y otros combustibles",244.43655
-2017,04.4.1,3,Electricidad,210.81007
-2017,04.4.2,3,Gas,288.87338
-2017,05,1,Equipamiento y mantenimiento del hogar,91.142258
-2017,05.1,2,"Muebles, accesorios y alfombras",91.954033
-2017,05.2,2,Artículos textiles para el hogar,92.135666
-2017,05.3,2,Electrodomésticos,88.579597
-2017,05.4,2,"Cristalería, vajilla y utensilios para el hogar",88.532509
-2017,05.5,2,Herramientas y accesorios para la casa y el jardín,86.386276
-2017,05.6,2,Bienes y servicios para la conservación del hogar,91.973763
-2017,06,1,Salud,95.090202
-2017,06.1,2,Medicamentos y productos medicinales,91.102036
-2017,06.1.1,3,Medicamentos,90.914001
-2017,06.1.2,3,Productos medicinales,93.675858
-2017,06.1.3,3,Artefactos y equipos terapéuticos,91.52124
-2017,06.1.4,3,Servicios para pacientes externos,96.085297
-2017,06.2,2,Seguros médicos,98.34317
-2017,07,1,Transporte,95.688713
-2017,07.1,2,Adquisición de vehículos,107.09245
-2017,07.2,2,Funcionamiento de equipos de transporte personal,91.285553
-2017,07.3,2,Servicios de transporte de pasajeros,95.975433
-2017,07.3.1,3,Transporte de pasajeros por ferrocarril,90.565712
-2017,07.3.2,3,Transporte de pasajeros por carretera,98.237572
-2017,07.3.3,3,Transporte de pasajeros por aire,84.204674
-2017,08,1,Información y comunicación,93.067207
-2017,09,1,Recreación y cultura,99.051926
-2017,09.1,2,Productos de recreación,96.454147
-2017,09.2,2,Servicios de recreación,111.5881
-2017,09.3,2,Servicios culturales,105.29705
-2017,09.4,2,"Diarios, libros y artículos de papelería y dibujo",114.17818
-2017,09.5,2,Paquetes turísticos,70.537315
-2017,10,1,Educación,99.539009
-2017,11,1,Restaurantes y hoteles,89.175087
-2017,11.1,2,Servicios de alimentos y bebidas preparadas fuera del hogar,90.195602
-2017,11.2,2,Servicios de alojamiento,80.759972
-2017,12,1,Seguros y servicios financieros,90.727043
-2017,12.1,2,Seguros,92.525803
-2017,12.2,2,Servicios financieros,78.697983
-2017,13,1,"Cuidado personal, protección social y otros productos",96.86869
-2017,13.1,2,Cuidado personal,97.329941
-2017,13.2,2,Efectos personales,82.812241
-2017,13.3,2,Otros servicios,103.01161
-2018,01,1,Alimentos y bebidas no alcohólicas,91.190224
-2018,01.1,2,Alimentos,90.136955
-2018,01.1.1,3,Pan y cereales,87.372795
-2018,01.1.2,3,Carnes y derivados,84.874352
-2018,01.1.3,3,Pescados y mariscos,98.440163
-2018,01.1.4,3,"Leche, productos lácteos y huevos",95.0121
-2018,01.1.5,3,"Aceites, mantecas y otras grasas",109.79642
-2018,01.1.6,3,Frutas,90.443497
-2018,01.1.7,3,"Verduras, tubérculos y legumbres",88.135765
-2018,01.1.8,3,"Azúcar, repostería y postres",91.130089
-2018,01.1.9,3,Otros alimentos,105.72665
-2018,01.2,2,Bebidas no alcohólicas,98.731163
-2018,02,1,Bebidas alcohólicas y tabaco,131.38226
-2018,02.1,2,Bebidas alcohólicas,99.108643
-2018,02.1.1,3,Vinos,91.814453
-2018,02.1.2,3,Cerveza,124.40448
-2018,02.2,2,Tabaco,158.0274
-2018,03,1,Prendas de vestir y calzado,89.812447
-2018,03.1,2,Prendas de vestir,90.214691
-2018,03.2,2,Calzado,88.523552
-2018,04,1,"Vivienda, agua, electricidad, gas y otros combustibles",146.94373
-2018,04.1,2,Alquiler de la vivienda,97.945183
-2018,04.2,2,Mantenimiento y reparación de la vivienda,97.896523
-2018,04.3,2,Suministro de agua y otros servicios relacionados con la vivienda,128.23384
-2018,04.3.1,3,Suministro de agua,360.55383
-2018,04.3.2,3,Gastos comunes por la vivienda,100.18995
-2018,04.4,2,"Electricidad, gas y otros combustibles",347.92798
-2018,04.4.1,3,Electricidad,294.43341
-2018,04.4.2,3,Gas,418.61685
-2018,05,1,Equipamiento y mantenimiento del hogar,88.289162
-2018,05.1,2,"Muebles, accesorios y alfombras",89.802872
-2018,05.2,2,Artículos textiles para el hogar,90.253456
-2018,05.3,2,Electrodomésticos,87.215431
-2018,05.4,2,"Cristalería, vajilla y utensilios para el hogar",90.618607
-2018,05.5,2,Herramientas y accesorios para la casa y el jardín,88.483139
-2018,05.6,2,Bienes y servicios para la conservación del hogar,87.853554
-2018,06,1,Salud,92.326607
-2018,06.1,2,Medicamentos y productos medicinales,88.115059
-2018,06.1.1,3,Medicamentos,87.296776
-2018,06.1.2,3,Productos medicinales,105.55341
-2018,06.1.3,3,Artefactos y equipos terapéuticos,87.701523
-2018,06.1.4,3,Servicios para pacientes externos,89.556961
-2018,06.2,2,Seguros médicos,97.570068
-2018,07,1,Transporte,100.21562
-2018,07.1,2,Adquisición de vehículos,111.19202
-2018,07.2,2,Funcionamiento de equipos de transporte personal,94.972717
-2018,07.3,2,Servicios de transporte de pasajeros,101.55476
-2018,07.3.1,3,Transporte de pasajeros por ferrocarril,85.0037
-2018,07.3.2,3,Transporte de pasajeros por carretera,104.24424
-2018,07.3.3,3,Transporte de pasajeros por aire,95.039558
-2018,08,1,Información y comunicación,91.927132
-2018,09,1,Recreación y cultura,96.238754
-2018,09.1,2,Productos de recreación,94.3592
-2018,09.2,2,Servicios de recreación,109.62131
-2018,09.3,2,Servicios culturales,97.174286
-2018,09.4,2,"Diarios, libros y artículos de papelería y dibujo",113.48052
-2018,09.5,2,Paquetes turísticos,71.905586
-2018,10,1,Educación,93.88092
-2018,11,1,Restaurantes y hoteles,85.545143
-2018,11.1,2,Servicios de alimentos y bebidas preparadas fuera del hogar,86.701759
-2018,11.2,2,Servicios de alojamiento,76.006142
-2018,12,1,Seguros y servicios financieros,87.33123
-2018,12.1,2,Seguros,88.71003
-2018,12.2,2,Servicios financieros,78.11319
-2018,13,1,"Cuidado personal, protección social y otros productos",97.234077
-2018,13.1,2,Cuidado personal,97.606979
-2018,13.2,2,Efectos personales,86.317322
-2018,13.3,2,Otros servicios,101.94874
-2019,01,1,Alimentos y bebidas no alcohólicas,94.971313
-2019,01.1,2,Alimentos,93.906265
-2019,01.1.1,3,Pan y cereales,91.085655
-2019,01.1.2,3,Carnes y derivados,88.372215
-2019,01.1.3,3,Pescados y mariscos,103.13923
-2019,01.1.4,3,"Leche, productos lácteos y huevos",107.45078
-2019,01.1.5,3,"Aceites, mantecas y otras grasas",111.49881
-2019,01.1.6,3,Frutas,80.192467
-2019,01.1.7,3,"Verduras, tubérculos y legumbres",83.987686
-2019,01.1.8,3,"Azúcar, repostería y postres",93.748222
-2019,01.1.9,3,Otros alimentos,115.18746
-2019,01.2,2,Bebidas no alcohólicas,102.59317
-2019,02,1,Bebidas alcohólicas y tabaco,125.9735
-2019,02.1,2,Bebidas alcohólicas,87.54705
-2019,02.1.1,3,Vinos,77.649414
-2019,02.1.2,3,Cerveza,119.45392
-2019,02.2,2,Tabaco,157.69759
-2019,03,1,Prendas de vestir y calzado,86.974037
-2019,03.1,2,Prendas de vestir,87.130905
-2019,03.2,2,Calzado,86.472847
-2019,04,1,"Vivienda, agua, electricidad, gas y otros combustibles",146.04672
-2019,04.1,2,Alquiler de la vivienda,86.156418
-2019,04.2,2,Mantenimiento y reparación de la vivienda,93.882751
-2019,04.3,2,Suministro de agua y otros servicios relacionados con la vivienda,129.84099
-2019,04.3.1,3,Suministro de agua,378.01584
-2019,04.3.2,3,Gastos comunes por la vivienda,99.883369
-2019,04.4,2,"Electricidad, gas y otros combustibles",368.28571
-2019,04.4.1,3,Electricidad,307.52005
-2019,04.4.2,3,Gas,448.58347
-2019,05,1,Equipamiento y mantenimiento del hogar,84.749214
-2019,05.1,2,"Muebles, accesorios y alfombras",82.687157
-2019,05.2,2,Artículos textiles para el hogar,92.569023
-2019,05.3,2,Electrodomésticos,97.302673
-2019,05.4,2,"Cristalería, vajilla y utensilios para el hogar",93.351715
-2019,05.5,2,Herramientas y accesorios para la casa y el jardín,93.178741
-2019,05.6,2,Bienes y servicios para la conservación del hogar,81.007607
-2019,06,1,Salud,94.370033
-2019,06.1,2,Medicamentos y productos medicinales,97.127052
-2019,06.1.1,3,Medicamentos,97.3405
-2019,06.1.2,3,Productos medicinales,125.37037
-2019,06.1.3,3,Artefactos y equipos terapéuticos,85.350021
-2019,06.1.4,3,Servicios para pacientes externos,85.251984
-2019,06.2,2,Seguros médicos,96.120148
-2019,07,1,Transporte,102.93382
-2019,07.1,2,Adquisición de vehículos,122.92451
-2019,07.2,2,Funcionamiento de equipos de transporte personal,89.64286
-2019,07.3,2,Servicios de transporte de pasajeros,109.33478
-2019,07.3.1,3,Transporte de pasajeros por ferrocarril,103.56068
-2019,07.3.2,3,Transporte de pasajeros por carretera,112.4239
-2019,07.3.3,3,Transporte de pasajeros por aire,92.068642
-2019,08,1,Información y comunicación,97.969254
-2019,09,1,Recreación y cultura,93.482346
-2019,09.1,2,Productos de recreación,95.171593
-2019,09.2,2,Servicios de recreación,93.87886
-2019,09.3,2,Servicios culturales,91.526283
-2019,09.4,2,"Diarios, libros y artículos de papelería y dibujo",111.12168
-2019,09.5,2,Paquetes turísticos,75.72644
-2019,10,1,Educación,87.269737
-2019,11,1,Restaurantes y hoteles,83.197853
-2019,11.1,2,Servicios de alimentos y bebidas preparadas fuera del hogar,83.759491
-2019,11.2,2,Servicios de alojamiento,78.565788
-2019,12,1,Seguros y servicios financieros,78.972412
-2019,12.1,2,Seguros,79.758453
-2019,12.2,2,Servicios financieros,73.717758
-2019,13,1,"Cuidado personal, protección social y otros productos",99.15715
-2019,13.1,2,Cuidado personal,103.18745
-2019,13.2,2,Efectos personales,88.501457
-2019,13.3,2,Otros servicios,89.323997
-2020,01,1,Alimentos y bebidas no alcohólicas,100.00712
-2020,01.1,2,Alimentos,99.695145
-2020,01.1.1,3,Pan y cereales,91.637688
-2020,01.1.2,3,Carnes y derivados,94.538536
-2020,01.1.3,3,Pescados y mariscos,110.40676
-2020,01.1.4,3,"Leche, productos lácteos y huevos",107.81686
-2020,01.1.5,3,"Aceites, mantecas y otras grasas",115.37372
-2020,01.1.6,3,Frutas,103.1823
-2020,01.1.7,3,"Verduras, tubérculos y legumbres",99.017326
-2020,01.1.8,3,"Azúcar, repostería y postres",100.66133
-2020,01.1.9,3,Otros alimentos,117.67007
-2020,01.2,2,Bebidas no alcohólicas,102.23311
-2020,02,1,Bebidas alcohólicas y tabaco,137.72386
-2020,02.1,2,Bebidas alcohólicas,84.202927
-2020,02.1.1,3,Vinos,73.483887
-2020,02.1.2,3,Cerveza,117.93271
-2020,02.2,2,Tabaco,181.9097
-2020,03,1,Prendas de vestir y calzado,95.136589
-2020,03.1,2,Prendas de vestir,94.911385
-2020,03.2,2,Calzado,95.862015
-2020,04,1,"Vivienda, agua, electricidad, gas y otros combustibles",128.6806
-2020,04.1,2,Alquiler de la vivienda,83.083015
-2020,04.2,2,Mantenimiento y reparación de la vivienda,93.856758
-2020,04.3,2,Suministro de agua y otros servicios relacionados con la vivienda,120.09898
-2020,04.3.1,3,Suministro de agua,296.70575
-2020,04.3.2,3,Gastos comunes por la vivienda,98.780525
-2020,04.4,2,"Electricidad, gas y otros combustibles",284.34998
-2020,04.4.1,3,Electricidad,232.16676
-2020,04.4.2,3,Gas,353.30643
-2020,05,1,Equipamiento y mantenimiento del hogar,87.92749
-2020,05.1,2,"Muebles, accesorios y alfombras",91.220627
-2020,05.2,2,Artículos textiles para el hogar,112.63744
-2020,05.3,2,Electrodomésticos,116.84673
-2020,05.4,2,"Cristalería, vajilla y utensilios para el hogar",106.44749
-2020,05.5,2,Herramientas y accesorios para la casa y el jardín,104.36958
-2020,05.6,2,Bienes y servicios para la conservación del hogar,77.294144
-2020,06,1,Salud,95.143219
-2020,06.1,2,Medicamentos y productos medicinales,101.99289
-2020,06.1.1,3,Medicamentos,101.38266
-2020,06.1.2,3,Productos medicinales,144.68088
-2020,06.1.3,3,Artefactos y equipos terapéuticos,90.931343
-2020,06.1.4,3,Servicios para pacientes externos,85.543465
-2020,06.2,2,Seguros médicos,93.304413
-2020,07,1,Transporte,97.395294
-2020,07.1,2,Adquisición de vehículos,147.82236
-2020,07.2,2,Funcionamiento de equipos de transporte personal,83.706963
-2020,07.3,2,Servicios de transporte de pasajeros,92.548073
-2020,07.3.1,3,Transporte de pasajeros por ferrocarril,79.459068
-2020,07.3.2,3,Transporte de pasajeros por carretera,92.819893
-2020,07.3.3,3,Transporte de pasajeros por aire,100.32943
-2020,08,1,Información y comunicación,97.176796
-2020,09,1,Recreación y cultura,99.76757
-2020,09.1,2,Productos de recreación,107.9433
-2020,09.2,2,Servicios de recreación,91.897583
-2020,09.3,2,Servicios culturales,91.040787
-2020,09.4,2,"Diarios, libros y artículos de papelería y dibujo",116.58432
-2020,09.5,2,Paquetes turísticos,81.694595
-2020,10,1,Educación,87.279755
-2020,11,1,Restaurantes y hoteles,85.371529
-2020,11.1,2,Servicios de alimentos y bebidas preparadas fuera del hogar,85.374969
-2020,11.2,2,Servicios de alojamiento,85.342155
-2020,12,1,Seguros y servicios financieros,72.803185
-2020,12.1,2,Seguros,71.77256
-2020,12.2,2,Servicios financieros,79.703918
-2020,13,1,"Cuidado personal, protección social y otros productos",101.02104
-2020,13.1,2,Cuidado personal,107.09238
-2020,13.2,2,Efectos personales,99.786812
-2020,13.3,2,Otros servicios,77.818893
-2021,01,1,Alimentos y bebidas no alcohólicas,102.58276
-2021,01.1,2,Alimentos,103.21203
-2021,01.1.1,3,Pan y cereales,88.810883
-2021,01.1.2,3,Carnes y derivados,109.99373
-2021,01.1.3,3,Pescados y mariscos,116.23932
-2021,01.1.4,3,"Leche, productos lácteos y huevos",107.67219
-2021,01.1.5,3,"Aceites, mantecas y otras grasas",125.86454
-2021,01.1.6,3,Frutas,109.61215
-2021,01.1.7,3,"Verduras, tubérculos y legumbres",94.744629
-2021,01.1.8,3,"Azúcar, repostería y postres",100.54687
-2021,01.1.9,3,Otros alimentos,110.22956
-2021,01.2,2,Bebidas no alcohólicas,98.065895
-2021,02,1,Bebidas alcohólicas y tabaco,141.20955
-2021,02.1,2,Bebidas alcohólicas,91.641174
-2021,02.1.1,3,Vinos,80.911781
-2021,02.1.2,3,Cerveza,125.45658
-2021,02.2,2,Tabaco,182.13231
-2021,03,1,Prendas de vestir y calzado,107.57703
-2021,03.1,2,Prendas de vestir,108.14084
-2021,03.2,2,Calzado,105.76957
-2021,04,1,"Vivienda, agua, electricidad, gas y otros combustibles",112.94142
-2021,04.1,2,Alquiler de la vivienda,81.159416
-2021,04.2,2,Mantenimiento y reparación de la vivienda,105.21326
-2021,04.3,2,Suministro de agua y otros servicios relacionados con la vivienda,106.64497
-2021,04.3.1,3,Suministro de agua,207.32858
-2021,04.3.2,3,Gastos comunes por la vivienda,94.49144
-2021,04.4,2,"Electricidad, gas y otros combustibles",211.35678
-2021,04.4.1,3,Electricidad,174.99438
-2021,04.4.2,3,Gas,259.4075
-2021,05,1,Equipamiento y mantenimiento del hogar,89.552071
-2021,05.1,2,"Muebles, accesorios y alfombras",105.62791
-2021,05.2,2,Artículos textiles para el hogar,131.2769
-2021,05.3,2,Electrodomésticos,122.16852
-2021,05.4,2,"Cristalería, vajilla y utensilios para el hogar",120.76353
-2021,05.5,2,Herramientas y accesorios para la casa y el jardín,115.69252
-2021,05.6,2,Bienes y servicios para la conservación del hogar,72.442543
-2021,06,1,Salud,95.161682
-2021,06.1,2,Medicamentos y productos medicinales,107.83878
-2021,06.1.1,3,Medicamentos,108.61182
-2021,06.1.2,3,Productos medicinales,129.87555
-2021,06.1.3,3,Artefactos y equipos terapéuticos,94.267517
-2021,06.1.4,3,Servicios para pacientes externos,88.774849
-2021,06.2,2,Seguros médicos,86.366882
-2021,07,1,Transporte,98.526718
-2021,07.1,2,Adquisición de vehículos,186.36989
-2021,07.2,2,Funcionamiento de equipos de transporte personal,87.196808
-2021,07.3,2,Servicios de transporte de pasajeros,76.839203
-2021,07.3.1,3,Transporte de pasajeros por ferrocarril,74.104767
-2021,07.3.2,3,Transporte de pasajeros por carretera,75.433769
-2021,07.3.3,3,Transporte de pasajeros por aire,88.661873
-2021,08,1,Información y comunicación,87.180206
-2021,09,1,Recreación y cultura,104.42085
-2021,09.1,2,Productos de recreación,122.53407
-2021,09.2,2,Servicios de recreación,106.19176
-2021,09.3,2,Servicios culturales,84.876839
-2021,09.4,2,"Diarios, libros y artículos de papelería y dibujo",121.2573
-2021,09.5,2,Paquetes turísticos,98.165565
-2021,10,1,Educación,85.052872
-2021,11,1,Restaurantes y hoteles,91.227608
-2021,11.1,2,Servicios de alimentos y bebidas preparadas fuera del hogar,92.249039
-2021,11.2,2,Servicios de alojamiento,82.804642
-2021,12,1,Seguros y servicios financieros,68.699135
-2021,12.1,2,Seguros,67.691536
-2021,12.2,2,Servicios financieros,75.445122
-2021,13,1,"Cuidado personal, protección social y otros productos",93.98304
-2021,13.1,2,Cuidado personal,99.339981
-2021,13.2,2,Efectos personales,105.67627
-2021,13.3,2,Otros servicios,66.274483
-2022,01,1,Alimentos y bebidas no alcohólicas,106.92835
-2022,01.1,2,Alimentos,107.72998
-2022,01.1.1,3,Pan y cereales,95.026421
-2022,01.1.2,3,Carnes y derivados,111.71252
-2022,01.1.3,3,Pescados y mariscos,119.66554
-2022,01.1.4,3,"Leche, productos lácteos y huevos",113.30714
-2022,01.1.5,3,"Aceites, mantecas y otras grasas",136.19794
-2022,01.1.6,3,Frutas,104.6407
-2022,01.1.7,3,"Verduras, tubérculos y legumbres",106.21454
-2022,01.1.8,3,"Azúcar, repostería y postres",104.01358
-2022,01.1.9,3,Otros alimentos,108.5816
-2022,01.2,2,Bebidas no alcohólicas,101.13788
-2022,02,1,Bebidas alcohólicas y tabaco,137.02145
-2022,02.1,2,Bebidas alcohólicas,100.53708
-2022,02.1.1,3,Vinos,90.303757
-2022,02.1.2,3,Cerveza,133.66745
-2022,02.2,2,Tabaco,162.71313
-2022,03,1,Prendas de vestir y calzado,120.98956
-2022,03.1,2,Prendas de vestir,125.50611
-2022,03.2,2,Calzado,107.94807
-2022,04,1,"Vivienda, agua, electricidad, gas y otros combustibles",103.22904
-2022,04.1,2,Alquiler de la vivienda,77.684296
-2022,04.2,2,Mantenimiento y reparación de la vivienda,121.10287
-2022,04.3,2,Suministro de agua y otros servicios relacionados con la vivienda,96.699677
-2022,04.3.1,3,Suministro de agua,159.01738
-2022,04.3.2,3,Gastos comunes por la vivienda,89.112556
-2022,04.4,2,"Electricidad, gas y otros combustibles",176.4265
-2022,04.4.1,3,Electricidad,146.55502
-2022,04.4.2,3,Gas,215.70726
-2022,05,1,Equipamiento y mantenimiento del hogar,94.93631
-2022,05.1,2,"Muebles, accesorios y alfombras",109.06054
-2022,05.2,2,Artículos textiles para el hogar,126.69624
-2022,05.3,2,Electrodomésticos,116.24584
-2022,05.4,2,"Cristalería, vajilla y utensilios para el hogar",125.82727
-2022,05.5,2,Herramientas y accesorios para la casa y el jardín,114.53814
-2022,05.6,2,Bienes y servicios para la conservación del hogar,81.050247
-2022,06,1,Salud,95.702034
-2022,06.1,2,Medicamentos y productos medicinales,103.00477
-2022,06.1.1,3,Medicamentos,103.75824
-2022,06.1.2,3,Productos medicinales,123.63855
-2022,06.1.3,3,Artefactos y equipos terapéuticos,90.413918
-2022,06.1.4,3,Servicios para pacientes externos,82.664948
-2022,06.2,2,Seguros médicos,92.626556
-2022,07,1,Transporte,93.683342
-2022,07.1,2,Adquisición de vehículos,193.60605
-2022,07.2,2,Funcionamiento de equipos de transporte personal,79.995567
-2022,07.3,2,Servicios de transporte de pasajeros,69.472588
-2022,07.3.1,3,Transporte de pasajeros por ferrocarril,51.904037
-2022,07.3.2,3,Transporte de pasajeros por carretera,65.646255
-2022,07.3.3,3,Transporte de pasajeros por aire,101.47599
-2022,08,1,Información y comunicación,77.813957
-2022,09,1,Recreación y cultura,98.804764
-2022,09.1,2,Productos de recreación,121.07047
-2022,09.2,2,Servicios de recreación,101.56277
-2022,09.3,2,Servicios culturales,85.109474
-2022,09.4,2,"Diarios, libros y artículos de papelería y dibujo",124.96937
-2022,09.5,2,Paquetes turísticos,80.000702
-2022,10,1,Educación,84.728767
-2022,11,1,Restaurantes y hoteles,100.99861
-2022,11.1,2,Servicios de alimentos y bebidas preparadas fuera del hogar,103.31186
-2022,11.2,2,Servicios de alojamiento,101.04118
-2022,12,1,Seguros y servicios financieros,64.369171
-2022,12.1,2,Seguros,63.205276
-2022,12.2,2,Servicios financieros,72.446701
-2022,13,1,"Cuidado personal, protección social y otros productos",90.739944
-2022,13.1,2,Cuidado personal,95.904053
-2022,13.2,2,Efectos personales,113.92447
-2022,13.3,2,Otros servicios,61.05471
-2023,01,1,Alimentos y bebidas no alcohólicas,111.46226
-2023,01.1,2,Alimentos,112.92937
-2023,01.1.1,3,Pan y cereales,98.169556
-2023,01.1.2,3,Carnes y derivados,113.61961
-2023,01.1.3,3,Pescados y mariscos,126.61549
-2023,01.1.4,3,"Leche, productos lácteos y huevos",118.20744
-2023,01.1.5,3,"Aceites, mantecas y otras grasas",139.60439
-2023,01.1.6,3,Frutas,126.8018
-2023,01.1.7,3,"Verduras, tubérculos y legumbres",115.15648
-2023,01.1.8,3,"Azúcar, repostería y postres",111.75113
-2023,01.1.9,3,Otros alimentos,106.99339
-2023,01.2,2,Bebidas no alcohólicas,101.17678
-2023,02,1,Bebidas alcohólicas y tabaco,134.15791
-2023,02.1,2,Bebidas alcohólicas,97.152023
-2023,02.1.1,3,Vinos,88.593292
-2023,02.1.2,3,Cerveza,127.68037
-2023,02.2,2,Tabaco,164.54637
-2023,03,1,Prendas de vestir y calzado,117.56706
-2023,03.1,2,Prendas de vestir,121.97563
-2023,03.2,2,Calzado,104.83728
-2023,04,1,"Vivienda, agua, electricidad, gas y otros combustibles",111.72493
-2023,04.1,2,Alquiler de la vivienda,88.227142
-2023,04.2,2,Mantenimiento y reparación de la vivienda,123.19495
-2023,04.3,2,Suministro de agua y otros servicios relacionados con la vivienda,99.142616
-2023,04.3.1,3,Suministro de agua,262.2807
-2023,04.3.2,3,Gastos comunes por la vivienda,84.560944
-2023,04.4,2,"Electricidad, gas y otros combustibles",191.69427
-2023,04.4.1,3,Electricidad,185.77477
-2023,04.4.2,3,Gas,181.79688
-2023,05,1,Equipamiento y mantenimiento del hogar,92.316116
-2023,05.1,2,"Muebles, accesorios y alfombras",118.43722
-2023,05.2,2,Artículos textiles para el hogar,126.30247
-2023,05.3,2,Electrodomésticos,137.67366
-2023,05.4,2,"Cristalería, vajilla y utensilios para el hogar",136.50716
-2023,05.5,2,Herramientas y accesorios para la casa y el jardín,120.23204
-2023,05.6,2,Bienes y servicios para la conservación del hogar,73.820992
-2023,06,1,Salud,87.22715
-2023,06.1,2,Medicamentos y productos medicinales,105.48844
-2023,06.1.1,3,Medicamentos,106.84386
-2023,06.1.2,3,Productos medicinales,127.26796
-2023,06.1.3,3,Artefactos y equipos terapéuticos,88.414856
-2023,06.1.4,3,Servicios para pacientes externos,63.038696
-2023,06.2,2,Seguros médicos,83.057465
-2023,07,1,Transporte,85.562233
-2023,07.1,2,Adquisición de vehículos,181.2753
-2023,07.2,2,Funcionamiento de equipos de transporte personal,71.969574
-2023,07.3,2,Servicios de transporte de pasajeros,63.402363
-2023,07.3.1,3,Transporte de pasajeros por ferrocarril,45.067318
-2023,07.3.2,3,Transporte de pasajeros por carretera,62.938828
-2023,07.3.3,3,Transporte de pasajeros por aire,86.921165
-2023,08,1,Información y comunicación,69.919411
-2023,09,1,Recreación y cultura,97.905975
-2023,09.1,2,Productos de recreación,124.54048
-2023,09.2,2,Servicios de recreación,90.887321
-2023,09.3,2,Servicios culturales,85.855461
-2023,09.4,2,"Diarios, libros y artículos de papelería y dibujo",137.28918
-2023,09.5,2,Paquetes turísticos,80.377907
-2023,10,1,Educación,84.420746
-2023,11,1,Restaurantes y hoteles,109.17522
-2023,11.1,2,Servicios de alimentos y bebidas preparadas fuera del hogar,112.9604
-2023,11.2,2,Servicios de alojamiento,103.92153
-2023,12,1,Seguros y servicios financieros,64.481422
-2023,12.1,2,Seguros,63.298439
-2023,12.2,2,Servicios financieros,72.695045
-2023,13,1,"Cuidado personal, protección social y otros productos",85.620224
-2023,13.1,2,Cuidado personal,93.630081
-2023,13.2,2,Efectos personales,123.96478
-2023,13.3,2,Otros servicios,37.972527
+"anio","codigo","nivel","rubro","precio_relativo"
+"2013","01","1","Alimentos y bebidas no alcohólicas","100"
+"2013","01.1","2","Alimentos","100"
+"2013","01.1.1","3","Pan y cereales","100"
+"2013","01.1.2","3","Carnes y derivados","100"
+"2013","01.1.3","3","Pescados y mariscos","100"
+"2013","01.1.4","3","Leche, productos lácteos y huevos","100"
+"2013","01.1.5","3","Aceites, mantecas y otras grasas","100"
+"2013","01.1.6","3","Frutas","100"
+"2013","01.1.7","3","Verduras, tubérculos y legumbres","100"
+"2013","01.1.8","3","Azúcar, repostería y postres","100"
+"2013","01.1.9","3","Otros alimentos","100"
+"2013","01.2","2","Bebidas no alcohólicas","100"
+"2013","02","1","Bebidas alcohólicas y tabaco","100"
+"2013","02.1","2","Bebidas alcohólicas","100"
+"2013","02.1.1","3","Vinos","100"
+"2013","02.1.2","3","Cerveza","100"
+"2013","02.2","2","Tabaco","100"
+"2013","03","1","Prendas de vestir y calzado","100"
+"2013","03.1","2","Prendas de vestir","100"
+"2013","03.2","2","Calzado","100"
+"2013","04","1","Vivienda, agua, electricidad, gas y otros combustibles","100"
+"2013","04.1","2","Alquiler de la vivienda","100"
+"2013","04.2","2","Mantenimiento y reparación de la vivienda","100"
+"2013","04.3","2","Suministro de agua y otros servicios relacionados con la vivienda","100"
+"2013","04.3.1","3","Suministro de agua","100"
+"2013","04.3.2","3","Gastos comunes por la vivienda","100"
+"2013","04.4","2","Electricidad, gas y otros combustibles","100"
+"2013","04.4.1","3","Electricidad","100"
+"2013","04.4.2","3","Gas","100"
+"2013","05","1","Equipamiento y mantenimiento del hogar","100"
+"2013","05.1","2","Muebles, accesorios y alfombras","100"
+"2013","05.2","2","Artículos textiles para el hogar","100"
+"2013","05.3","2","Electrodomésticos","100"
+"2013","05.4","2","Cristalería, vajilla y utensilios para el hogar","100"
+"2013","05.5","2","Herramientas y accesorios para la casa y el jardín","100"
+"2013","05.6","2","Bienes y servicios para la conservación del hogar","100"
+"2013","06","1","Salud","100"
+"2013","06.1","2","Medicamentos y productos medicinales","100"
+"2013","06.1.1","3","Medicamentos","100"
+"2013","06.1.2","3","Productos medicinales","100"
+"2013","06.1.3","3","Artefactos y equipos terapéuticos","100"
+"2013","06.1.4","3","Servicios para pacientes externos","100"
+"2013","06.2","2","Seguros médicos","100"
+"2013","07","1","Transporte","100"
+"2013","07.1","2","Adquisición de vehículos","100"
+"2013","07.2","2","Funcionamiento de equipos de transporte personal","100"
+"2013","07.3","2","Servicios de transporte de pasajeros","100"
+"2013","07.3.1","3","Transporte de pasajeros por ferrocarril","100"
+"2013","07.3.2","3","Transporte de pasajeros por carretera","100"
+"2013","07.3.3","3","Transporte de pasajeros por aire","100"
+"2013","08","1","Información y comunicación","100"
+"2013","09","1","Recreación y cultura","100"
+"2013","09.1","2","Productos de recreación","100"
+"2013","09.2","2","Servicios de recreación","100"
+"2013","09.3","2","Servicios culturales","100"
+"2013","09.4","2","Diarios, libros y artículos de papelería y dibujo","100"
+"2013","09.5","2","Paquetes turísticos","100"
+"2013","10","1","Educación","100"
+"2013","11","1","Restaurantes y hoteles","100"
+"2013","11.1","2","Servicios de alimentos y bebidas preparadas fuera del hogar","100"
+"2013","11.2","2","Servicios de alojamiento","100"
+"2013","12","1","Seguros y servicios financieros","100"
+"2013","12.1","2","Seguros","100"
+"2013","12.2","2","Servicios financieros","100"
+"2013","13","1","Cuidado personal, protección social y otros productos","100"
+"2013","13.1","2","Cuidado personal","100"
+"2013","13.2","2","Efectos personales","100"
+"2013","13.3","2","Otros servicios","100"
+"2014","01","1","Alimentos y bebidas no alcohólicas","101.310545847059"
+"2014","01.1","2","Alimentos","101.116132504123"
+"2014","01.1.1","3","Pan y cereales","102.736532259363"
+"2014","01.1.2","3","Carnes y derivados","102.18211788994"
+"2014","01.1.3","3","Pescados y mariscos","102.172518615253"
+"2014","01.1.4","3","Leche, productos lácteos y huevos","99.8523637353818"
+"2014","01.1.5","3","Aceites, mantecas y otras grasas","92.9634481386381"
+"2014","01.1.6","3","Frutas","104.858193552675"
+"2014","01.1.7","3","Verduras, tubérculos y legumbres","97.3003665684635"
+"2014","01.1.8","3","Azúcar, repostería y postres","101.248481576161"
+"2014","01.1.9","3","Otros alimentos","101.572709760454"
+"2014","01.2","2","Bebidas no alcohólicas","102.689032493003"
+"2014","02","1","Bebidas alcohólicas y tabaco","100.031445638862"
+"2014","02.1","2","Bebidas alcohólicas","93.5908345321243"
+"2014","02.1.1","3","Vinos","90.9107801096475"
+"2014","02.1.2","3","Cerveza","102.394615561855"
+"2014","02.2","2","Tabaco","105.350191052076"
+"2014","03","1","Prendas de vestir y calzado","101.732338176709"
+"2014","03.1","2","Prendas de vestir","103.078356773724"
+"2014","03.2","2","Calzado","97.4113193483949"
+"2014","04","1","Vivienda, agua, electricidad, gas y otros combustibles","98.8822963983964"
+"2014","04.1","2","Alquiler de la vivienda","91.7756471031175"
+"2014","04.2","2","Mantenimiento y reparación de la vivienda","116.966669864601"
+"2014","04.3","2","Suministro de agua y otros servicios relacionados con la vivienda","98.8990758183658"
+"2014","04.3.1","3","Suministro de agua","148.59624367717"
+"2014","04.3.2","3","Gastos comunes por la vivienda","92.9003113053449"
+"2014","04.4","2","Electricidad, gas y otros combustibles","103.868725464967"
+"2014","04.4.1","3","Electricidad","72.6302575005445"
+"2014","04.4.2","3","Gas","145.150586388291"
+"2014","05","1","Equipamiento y mantenimiento del hogar","98.4078211641929"
+"2014","05.1","2","Muebles, accesorios y alfombras","102.019552317733"
+"2014","05.2","2","Artículos textiles para el hogar","102.541327372444"
+"2014","05.3","2","Electrodomésticos","106.148683807435"
+"2014","05.4","2","Cristalería, vajilla y utensilios para el hogar","109.996074247875"
+"2014","05.5","2","Herramientas y accesorios para la casa y el jardín","106.784691763674"
+"2014","05.6","2","Bienes y servicios para la conservación del hogar","94.24651738342"
+"2014","06","1","Salud","94.0213949821129"
+"2014","06.1","2","Medicamentos y productos medicinales","94.7638823327703"
+"2014","06.1.1","3","Medicamentos","93.7261738286023"
+"2014","06.1.2","3","Productos medicinales","97.5656095563889"
+"2014","06.1.3","3","Artefactos y equipos terapéuticos","101.238156979147"
+"2014","06.1.4","3","Servicios para pacientes externos","94.6045663608591"
+"2014","06.2","2","Seguros médicos","93.0553557869002"
+"2014","07","1","Transporte","108.768278458231"
+"2014","07.1","2","Adquisición de vehículos","108.509910449812"
+"2014","07.2","2","Funcionamiento de equipos de transporte personal","105.639104335069"
+"2014","07.3","2","Servicios de transporte de pasajeros","112.177313577634"
+"2014","07.3.1","3","Transporte de pasajeros por ferrocarril","109.865511207683"
+"2014","07.3.2","3","Transporte de pasajeros por carretera","112.035783909447"
+"2014","07.3.3","3","Transporte de pasajeros por aire","114.881546205416"
+"2014","08","1","Información y comunicación","88.8587496737393"
+"2014","09","1","Recreación y cultura","100.508444737182"
+"2014","09.1","2","Productos de recreación","102.145762818451"
+"2014","09.2","2","Servicios de recreación","97.8456226801756"
+"2014","09.3","2","Servicios culturales","100.40974863843"
+"2014","09.4","2","Diarios, libros y artículos de papelería y dibujo","99.7477630849471"
+"2014","09.5","2","Paquetes turísticos","103.672258327377"
+"2014","10","1","Educación","97.0868941485137"
+"2014","11","1","Restaurantes y hoteles","99.2566109919921"
+"2014","11.1","2","Servicios de alimentos y bebidas preparadas fuera del hogar","100.433260576409"
+"2014","11.2","2","Servicios de alojamiento","89.5583379275342"
+"2014","12","1","Seguros y servicios financieros","94.1652021025972"
+"2014","12.1","2","Seguros","95.2129264412841"
+"2014","12.2","2","Servicios financieros","87.1568420138992"
+"2014","13","1","Cuidado personal, protección social y otros productos","98.1085270196675"
+"2014","13.1","2","Cuidado personal","100.188658643844"
+"2014","13.2","2","Efectos personales","98.5836457463432"
+"2014","13.3","2","Otros servicios","89.6565142577841"
+"2015","01","1","Alimentos y bebidas no alcohólicas","98.9137002825279"
+"2015","01.1","2","Alimentos","98.0008757718257"
+"2015","01.1.1","3","Pan y cereales","96.9268624411644"
+"2015","01.1.2","3","Carnes y derivados","97.993357682681"
+"2015","01.1.3","3","Pescados y mariscos","99.2669550666061"
+"2015","01.1.4","3","Leche, productos lácteos y huevos","98.1856912395141"
+"2015","01.1.5","3","Aceites, mantecas y otras grasas","90.8710966791646"
+"2015","01.1.6","3","Frutas","95.6016509434047"
+"2015","01.1.7","3","Verduras, tubérculos y legumbres","98.6187591411848"
+"2015","01.1.8","3","Azúcar, repostería y postres","103.385268575016"
+"2015","01.1.9","3","Otros alimentos","102.401647920627"
+"2015","01.2","2","Bebidas no alcohólicas","105.451453283749"
+"2015","02","1","Bebidas alcohólicas y tabaco","112.402547337503"
+"2015","02.1","2","Bebidas alcohólicas","92.7384693607389"
+"2015","02.1.1","3","Vinos","87.1296744646275"
+"2015","02.1.2","3","Cerveza","110.988168755962"
+"2015","02.2","2","Tabaco","128.636992334155"
+"2015","03","1","Prendas de vestir y calzado","105.283018772402"
+"2015","03.1","2","Prendas de vestir","106.370537686023"
+"2015","03.2","2","Calzado","101.795755397936"
+"2015","04","1","Vivienda, agua, electricidad, gas y otros combustibles","101.783710347104"
+"2015","04.1","2","Alquiler de la vivienda","94.8721289518305"
+"2015","04.2","2","Mantenimiento y reparación de la vivienda","126.585994108599"
+"2015","04.3","2","Suministro de agua y otros servicios relacionados con la vivienda","101.65672155066"
+"2015","04.3.1","3","Suministro de agua","161.792838130688"
+"2015","04.3.2","3","Gastos comunes por la vivienda","94.3988359073885"
+"2015","04.4","2","Electricidad, gas y otros combustibles","102.249247437666"
+"2015","04.4.1","3","Electricidad","57.3978091530978"
+"2015","04.4.2","3","Gas","161.519907091376"
+"2015","05","1","Equipamiento y mantenimiento del hogar","98.1944338858671"
+"2015","05.1","2","Muebles, accesorios y alfombras","100.586475951641"
+"2015","05.2","2","Artículos textiles para el hogar","107.293852137859"
+"2015","05.3","2","Electrodomésticos","106.406111235999"
+"2015","05.4","2","Cristalería, vajilla y utensilios para el hogar","108.52995527746"
+"2015","05.5","2","Herramientas y accesorios para la casa y el jardín","100.86306737866"
+"2015","05.6","2","Bienes y servicios para la conservación del hogar","94.5164772332798"
+"2015","06","1","Salud","93.4334142007769"
+"2015","06.1","2","Medicamentos y productos medicinales","89.7590174730866"
+"2015","06.1.1","3","Medicamentos","87.459252842815"
+"2015","06.1.2","3","Productos medicinales","97.9937506777334"
+"2015","06.1.3","3","Artefactos y equipos terapéuticos","103.375621646288"
+"2015","06.1.4","3","Servicios para pacientes externos","97.111482397101"
+"2015","06.2","2","Seguros médicos","95.1231232222859"
+"2015","07","1","Transporte","103.14295477024"
+"2015","07.1","2","Adquisición de vehículos","117.365035848815"
+"2015","07.2","2","Funcionamiento de equipos de transporte personal","98.8147900031035"
+"2015","07.3","2","Servicios de transporte de pasajeros","102.270267741301"
+"2015","07.3.1","3","Transporte de pasajeros por ferrocarril","94.968975591207"
+"2015","07.3.2","3","Transporte de pasajeros por carretera","102.658140429471"
+"2015","07.3.3","3","Transporte de pasajeros por aire","104.965533346257"
+"2015","08","1","Información y comunicación","89.6120166459253"
+"2015","09","1","Recreación y cultura","106.096313412157"
+"2015","09.1","2","Productos de recreación","106.231474469526"
+"2015","09.2","2","Servicios de recreación","106.168350398148"
+"2015","09.3","2","Servicios culturales","109.877457140961"
+"2015","09.4","2","Diarios, libros y artículos de papelería y dibujo","109.594572383968"
+"2015","09.5","2","Paquetes turísticos","96.887621676152"
+"2015","10","1","Educación","104.517584017077"
+"2015","11","1","Restaurantes y hoteles","93.6048118352218"
+"2015","11.1","2","Servicios de alimentos y bebidas preparadas fuera del hogar","94.3519745922735"
+"2015","11.2","2","Servicios de alojamiento","87.4456837171833"
+"2015","12","1","Seguros y servicios financieros","94.6232718784429"
+"2015","12.1","2","Seguros","97.2103494787839"
+"2015","12.2","2","Servicios financieros","77.310559936004"
+"2015","13","1","Cuidado personal, protección social y otros productos","100.917081546231"
+"2015","13.1","2","Cuidado personal","101.842253795195"
+"2015","13.2","2","Efectos personales","97.9470626394328"
+"2015","13.3","2","Otros servicios","98.9592416196652"
+"2016","01","1","Alimentos y bebidas no alcohólicas","95.9232094510511"
+"2016","01.1","2","Alimentos","95.6897298593018"
+"2016","01.1.1","3","Pan y cereales","89.947336937879"
+"2016","01.1.2","3","Carnes y derivados","97.4526011459934"
+"2016","01.1.3","3","Pescados y mariscos","99.8288034292256"
+"2016","01.1.4","3","Leche, productos lácteos y huevos","94.3770275537795"
+"2016","01.1.5","3","Aceites, mantecas y otras grasas","98.5041513620706"
+"2016","01.1.6","3","Frutas","98.1628976903877"
+"2016","01.1.7","3","Verduras, tubérculos y legumbres","98.3698915448703"
+"2016","01.1.8","3","Azúcar, repostería y postres","98.5582419722938"
+"2016","01.1.9","3","Otros alimentos","105.693003608556"
+"2016","01.2","2","Bebidas no alcohólicas","97.5891415226217"
+"2016","02","1","Bebidas alcohólicas y tabaco","127.204852684238"
+"2016","02.1","2","Bebidas alcohólicas","94.6771885204901"
+"2016","02.1.1","3","Vinos","87.5771792786279"
+"2016","02.1.2","3","Cerveza","119.150211639238"
+"2016","02.2","2","Tabaco","154.059513210056"
+"2016","03","1","Prendas de vestir y calzado","102.082890758479"
+"2016","03.1","2","Prendas de vestir","102.738514162434"
+"2016","03.2","2","Calzado","99.9813502702491"
+"2016","04","1","Vivienda, agua, electricidad, gas y otros combustibles","117.094029465316"
+"2016","04.1","2","Alquiler de la vivienda","92.6198429932234"
+"2016","04.2","2","Mantenimiento y reparación de la vivienda","110.710686821949"
+"2016","04.3","2","Suministro de agua y otros servicios relacionados con la vivienda","119.026261396997"
+"2016","04.3.1","3","Suministro de agua","336.967777581379"
+"2016","04.3.2","3","Gastos comunes por la vivienda","92.718462565543"
+"2016","04.4","2","Electricidad, gas y otros combustibles","174.579152211189"
+"2016","04.4.1","3","Electricidad","134.83837703926"
+"2016","04.4.2","3","Gas","227.094493897209"
+"2016","05","1","Equipamiento y mantenimiento del hogar","95.5001425248023"
+"2016","05.1","2","Muebles, accesorios y alfombras","97.5025876624151"
+"2016","05.2","2","Artículos textiles para el hogar","104.254399947716"
+"2016","05.3","2","Electrodomésticos","100.97313761221"
+"2016","05.4","2","Cristalería, vajilla y utensilios para el hogar","96.2072161922018"
+"2016","05.5","2","Herramientas y accesorios para la casa y el jardín","99.01890574459"
+"2016","05.6","2","Bienes y servicios para la conservación del hogar","93.0848949894718"
+"2016","06","1","Salud","94.2360223686452"
+"2016","06.1","2","Medicamentos y productos medicinales","93.1793359010046"
+"2016","06.1.1","3","Medicamentos","92.4454559003547"
+"2016","06.1.2","3","Productos medicinales","95.2348313977521"
+"2016","06.1.3","3","Artefactos y equipos terapéuticos","97.7280552442382"
+"2016","06.1.4","3","Servicios para pacientes externos","94.0051046833268"
+"2016","06.2","2","Seguros médicos","95.3346585281595"
+"2016","07","1","Transporte","102.025985246304"
+"2016","07.1","2","Adquisición de vehículos","119.684302242733"
+"2016","07.2","2","Funcionamiento de equipos de transporte personal","94.4289316330929"
+"2016","07.3","2","Servicios de transporte de pasajeros","103.295354715031"
+"2016","07.3.1","3","Transporte de pasajeros por ferrocarril","82.6314627556965"
+"2016","07.3.2","3","Transporte de pasajeros por carretera","106.183689658325"
+"2016","07.3.3","3","Transporte de pasajeros por aire","98.4354003739779"
+"2016","08","1","Información y comunicación","83.588691475744"
+"2016","09","1","Recreación y cultura","102.162799864033"
+"2016","09.1","2","Productos de recreación","99.5980088095921"
+"2016","09.2","2","Servicios de recreación","105.147582742271"
+"2016","09.3","2","Servicios culturales","105.67473724748"
+"2016","09.4","2","Diarios, libros y artículos de papelería y dibujo","112.125337474277"
+"2016","09.5","2","Paquetes turísticos","79.0642451782421"
+"2016","10","1","Educación","99.3867714821704"
+"2016","11","1","Restaurantes y hoteles","90.9623603364575"
+"2016","11.1","2","Servicios de alimentos y bebidas preparadas fuera del hogar","92.3821386104924"
+"2016","11.2","2","Servicios de alojamiento","79.25627085864"
+"2016","12","1","Seguros y servicios financieros","87.7621989127061"
+"2016","12.1","2","Seguros","90.9823520918059"
+"2016","12.2","2","Servicios financieros","66.2208602339606"
+"2016","13","1","Cuidado personal, protección social y otros productos","99.2303726674344"
+"2016","13.1","2","Cuidado personal","99.8432343644325"
+"2016","13.2","2","Efectos personales","89.7661143975525"
+"2016","13.3","2","Otros servicios","102.175022169742"
+"2017","01","1","Alimentos y bebidas no alcohólicas","92.4757262631323"
+"2017","01.1","2","Alimentos","91.7647323270762"
+"2017","01.1.1","3","Pan y cereales","85.8710096357959"
+"2017","01.1.2","3","Carnes y derivados","88.1925030918596"
+"2017","01.1.3","3","Pescados y mariscos","94.0636719987761"
+"2017","01.1.4","3","Leche, productos lácteos y huevos","98.446821645324"
+"2017","01.1.5","3","Aceites, mantecas y otras grasas","105.699983787123"
+"2017","01.1.6","3","Frutas","91.8819795852534"
+"2017","01.1.7","3","Verduras, tubérculos y legumbres","90.5237083772641"
+"2017","01.1.8","3","Azúcar, repostería y postres","95.3136603859558"
+"2017","01.1.9","3","Otros alimentos","102.733932901365"
+"2017","01.2","2","Bebidas no alcohólicas","97.5610377307647"
+"2017","02","1","Bebidas alcohólicas y tabaco","141.323982505317"
+"2017","02.1","2","Bebidas alcohólicas","107.944264571574"
+"2017","02.1.1","3","Vinos","105.263313490289"
+"2017","02.1.2","3","Cerveza","119.804938773677"
+"2017","02.2","2","Tabaco","168.881813208628"
+"2017","03","1","Prendas de vestir y calzado","97.3789431825746"
+"2017","03.1","2","Prendas de vestir","98.0203787408908"
+"2017","03.2","2","Calzado","95.3211037064046"
+"2017","04","1","Vivienda, agua, electricidad, gas y otros combustibles","133.010049803276"
+"2017","04.1","2","Alquiler de la vivienda","96.8001136610966"
+"2017","04.2","2","Mantenimiento y reparación de la vivienda","103.251075107834"
+"2017","04.3","2","Suministro de agua y otros servicios relacionados con la vivienda","131.152479542312"
+"2017","04.3.1","3","Suministro de agua","392.77446251958"
+"2017","04.3.2","3","Gastos comunes por la vivienda","99.5708944157621"
+"2017","04.4","2","Electricidad, gas y otros combustibles","244.436568033589"
+"2017","04.4.1","3","Electricidad","210.810075400959"
+"2017","04.4.2","3","Gas","288.873374747414"
+"2017","05","1","Equipamiento y mantenimiento del hogar","91.1422553115885"
+"2017","05.1","2","Muebles, accesorios y alfombras","91.954040743802"
+"2017","05.2","2","Artículos textiles para el hogar","92.1356752784974"
+"2017","05.3","2","Electrodomésticos","88.5796031959338"
+"2017","05.4","2","Cristalería, vajilla y utensilios para el hogar","88.5325153009791"
+"2017","05.5","2","Herramientas y accesorios para la casa y el jardín","86.3862817272367"
+"2017","05.6","2","Bienes y servicios para la conservación del hogar","91.9737650142727"
+"2017","06","1","Salud","95.0902032382495"
+"2017","06.1","2","Medicamentos y productos medicinales","91.1020409154083"
+"2017","06.1.1","3","Medicamentos","90.9140020407643"
+"2017","06.1.2","3","Productos medicinales","93.6758629650922"
+"2017","06.1.3","3","Artefactos y equipos terapéuticos","91.521236218494"
+"2017","06.1.4","3","Servicios para pacientes externos","96.0852961253713"
+"2017","06.2","2","Seguros médicos","98.3431694448012"
+"2017","07","1","Transporte","95.6887198542378"
+"2017","07.1","2","Adquisición de vehículos","107.092447290858"
+"2017","07.2","2","Funcionamiento de equipos de transporte personal","91.2855545774439"
+"2017","07.3","2","Servicios de transporte de pasajeros","95.9754328677572"
+"2017","07.3.1","3","Transporte de pasajeros por ferrocarril","90.5657085280877"
+"2017","07.3.2","3","Transporte de pasajeros por carretera","98.2375783206185"
+"2017","07.3.3","3","Transporte de pasajeros por aire","84.204677379881"
+"2017","08","1","Información y comunicación","93.0672132231051"
+"2017","09","1","Recreación y cultura","99.0519378141209"
+"2017","09.1","2","Productos de recreación","96.4541517248716"
+"2017","09.2","2","Servicios de recreación","111.588105465525"
+"2017","09.3","2","Servicios culturales","105.297056803501"
+"2017","09.4","2","Diarios, libros y artículos de papelería y dibujo","114.178189669705"
+"2017","09.5","2","Paquetes turísticos","70.5373146547018"
+"2017","10","1","Educación","99.5390184659406"
+"2017","11","1","Restaurantes y hoteles","89.1750892415123"
+"2017","11.1","2","Servicios de alimentos y bebidas preparadas fuera del hogar","90.1956043517412"
+"2017","11.2","2","Servicios de alojamiento","80.7599757562445"
+"2017","12","1","Seguros y servicios financieros","90.7270467249234"
+"2017","12.1","2","Seguros","92.5258051517584"
+"2017","12.2","2","Servicios financieros","78.6979879270315"
+"2017","13","1","Cuidado personal, protección social y otros productos","96.8686968131241"
+"2017","13.1","2","Cuidado personal","97.3299472488423"
+"2017","13.2","2","Efectos personales","82.8122482599024"
+"2017","13.3","2","Otros servicios","103.011617300067"
+"2018","01","1","Alimentos y bebidas no alcohólicas","91.190221786196"
+"2018","01.1","2","Alimentos","90.1369579646149"
+"2018","01.1.1","3","Pan y cereales","87.3727917623672"
+"2018","01.1.2","3","Carnes y derivados","84.8743486318536"
+"2018","01.1.3","3","Pescados y mariscos","98.4401661918899"
+"2018","01.1.4","3","Leche, productos lácteos y huevos","95.0121006402329"
+"2018","01.1.5","3","Aceites, mantecas y otras grasas","109.796411468711"
+"2018","01.1.6","3","Frutas","90.4434981019264"
+"2018","01.1.7","3","Verduras, tubérculos y legumbres","88.1357742136232"
+"2018","01.1.8","3","Azúcar, repostería y postres","91.1300828372174"
+"2018","01.1.9","3","Otros alimentos","105.726652499976"
+"2018","01.2","2","Bebidas no alcohólicas","98.7311657049784"
+"2018","02","1","Bebidas alcohólicas y tabaco","131.382264498754"
+"2018","02.1","2","Bebidas alcohólicas","99.1086406899964"
+"2018","02.1.1","3","Vinos","91.8144530939358"
+"2018","02.1.2","3","Cerveza","124.404480724665"
+"2018","02.2","2","Tabaco","158.027407058185"
+"2018","03","1","Prendas de vestir y calzado","89.8124480918728"
+"2018","03.1","2","Prendas de vestir","90.2146913634435"
+"2018","03.2","2","Calzado","88.5235578518279"
+"2018","04","1","Vivienda, agua, electricidad, gas y otros combustibles","146.943725391414"
+"2018","04.1","2","Alquiler de la vivienda","97.9451849941039"
+"2018","04.2","2","Mantenimiento y reparación de la vivienda","97.896517437657"
+"2018","04.3","2","Suministro de agua y otros servicios relacionados con la vivienda","128.233835027954"
+"2018","04.3.1","3","Suministro de agua","360.553819314309"
+"2018","04.3.2","3","Gastos comunes por la vivienda","100.18994708241"
+"2018","04.4","2","Electricidad, gas y otros combustibles","347.92796603065"
+"2018","04.4.1","3","Electricidad","294.433419123936"
+"2018","04.4.2","3","Gas","418.616843009899"
+"2018","05","1","Equipamiento y mantenimiento del hogar","88.289156746626"
+"2018","05.1","2","Muebles, accesorios y alfombras","89.8028714130221"
+"2018","05.2","2","Artículos textiles para el hogar","90.2534526096599"
+"2018","05.3","2","Electrodomésticos","87.2154256892474"
+"2018","05.4","2","Cristalería, vajilla y utensilios para el hogar","90.6186076596398"
+"2018","05.5","2","Herramientas y accesorios para la casa y el jardín","88.4831415059237"
+"2018","05.6","2","Bienes y servicios para la conservación del hogar","87.8535540469024"
+"2018","06","1","Salud","92.3265989382034"
+"2018","06.1","2","Medicamentos y productos medicinales","88.1150611869802"
+"2018","06.1.1","3","Medicamentos","87.2967757416146"
+"2018","06.1.2","3","Productos medicinales","105.553413589865"
+"2018","06.1.3","3","Artefactos y equipos terapéuticos","87.7015200088052"
+"2018","06.1.4","3","Servicios para pacientes externos","89.5569585798844"
+"2018","06.2","2","Seguros médicos","97.5700636998341"
+"2018","07","1","Transporte","100.215620394179"
+"2018","07.1","2","Adquisición de vehículos","111.192012797853"
+"2018","07.2","2","Funcionamiento de equipos de transporte personal","94.9727075675214"
+"2018","07.3","2","Servicios de transporte de pasajeros","101.554762382873"
+"2018","07.3.1","3","Transporte de pasajeros por ferrocarril","85.0036977758598"
+"2018","07.3.2","3","Transporte de pasajeros por carretera","104.244234948858"
+"2018","07.3.3","3","Transporte de pasajeros por aire","95.03956346247"
+"2018","08","1","Información y comunicación","91.9271325588118"
+"2018","09","1","Recreación y cultura","96.2387584982158"
+"2018","09.1","2","Productos de recreación","94.3591970412501"
+"2018","09.2","2","Servicios de recreación","109.621306709055"
+"2018","09.3","2","Servicios culturales","97.1742868599518"
+"2018","09.4","2","Diarios, libros y artículos de papelería y dibujo","113.480522435893"
+"2018","09.5","2","Paquetes turísticos","71.9055828974713"
+"2018","10","1","Educación","93.880920312736"
+"2018","11","1","Restaurantes y hoteles","85.5451398311851"
+"2018","11.1","2","Servicios de alimentos y bebidas preparadas fuera del hogar","86.7017615814435"
+"2018","11.2","2","Servicios de alojamiento","76.0061448150892"
+"2018","12","1","Seguros y servicios financieros","87.331221427768"
+"2018","12.1","2","Seguros","88.710033525857"
+"2018","12.2","2","Servicios financieros","78.1131923873171"
+"2018","13","1","Cuidado personal, protección social y otros productos","97.2340740197812"
+"2018","13.1","2","Cuidado personal","97.6069866866843"
+"2018","13.2","2","Efectos personales","86.3173224688704"
+"2018","13.3","2","Otros servicios","101.948737459991"
+"2019","01","1","Alimentos y bebidas no alcohólicas","94.9713144038094"
+"2019","01.1","2","Alimentos","93.9062757492102"
+"2019","01.1.1","3","Pan y cereales","91.0856507394882"
+"2019","01.1.2","3","Carnes y derivados","88.372209704117"
+"2019","01.1.3","3","Pescados y mariscos","103.139235410131"
+"2019","01.1.4","3","Leche, productos lácteos y huevos","107.450780024248"
+"2019","01.1.5","3","Aceites, mantecas y otras grasas","111.498802984618"
+"2019","01.1.6","3","Frutas","80.1924658607777"
+"2019","01.1.7","3","Verduras, tubérculos y legumbres","83.9876872759269"
+"2019","01.1.8","3","Azúcar, repostería y postres","93.7482201019157"
+"2019","01.1.9","3","Otros alimentos","115.187458374574"
+"2019","01.2","2","Bebidas no alcohólicas","102.59317144942"
+"2019","02","1","Bebidas alcohólicas y tabaco","125.973500029325"
+"2019","02.1","2","Bebidas alcohólicas","87.5470441031559"
+"2019","02.1.1","3","Vinos","77.6494165407269"
+"2019","02.1.2","3","Cerveza","119.45391171675"
+"2019","02.2","2","Tabaco","157.697595576886"
+"2019","03","1","Prendas de vestir y calzado","86.9740335092865"
+"2019","03.1","2","Prendas de vestir","87.1309041910606"
+"2019","03.2","2","Calzado","86.4728478462235"
+"2019","04","1","Vivienda, agua, electricidad, gas y otros combustibles","146.04672284477"
+"2019","04.1","2","Alquiler de la vivienda","86.1564196328877"
+"2019","04.2","2","Mantenimiento y reparación de la vivienda","93.8827515485031"
+"2019","04.3","2","Suministro de agua y otros servicios relacionados con la vivienda","129.840984308937"
+"2019","04.3.1","3","Suministro de agua","378.015825746686"
+"2019","04.3.2","3","Gastos comunes por la vivienda","99.883373143984"
+"2019","04.4","2","Electricidad, gas y otros combustibles","368.285679391313"
+"2019","04.4.1","3","Electricidad","307.520070639997"
+"2019","04.4.2","3","Gas","448.583435913892"
+"2019","05","1","Equipamiento y mantenimiento del hogar","84.7492086580466"
+"2019","05.1","2","Muebles, accesorios y alfombras","82.6871570293145"
+"2019","05.2","2","Artículos textiles para el hogar","92.5690194210776"
+"2019","05.3","2","Electrodomésticos","97.3026690349211"
+"2019","05.4","2","Cristalería, vajilla y utensilios para el hogar","93.3517173656751"
+"2019","05.5","2","Herramientas y accesorios para la casa y el jardín","93.1787469303901"
+"2019","05.6","2","Bienes y servicios para la conservación del hogar","81.0076018355149"
+"2019","06","1","Salud","94.3700288338546"
+"2019","06.1","2","Medicamentos y productos medicinales","97.1270530468839"
+"2019","06.1.1","3","Medicamentos","97.3405058526568"
+"2019","06.1.2","3","Productos medicinales","125.370370418996"
+"2019","06.1.3","3","Artefactos y equipos terapéuticos","85.3500192486502"
+"2019","06.1.4","3","Servicios para pacientes externos","85.2519820247624"
+"2019","06.2","2","Seguros médicos","96.1201426285151"
+"2019","07","1","Transporte","102.933814278101"
+"2019","07.1","2","Adquisición de vehículos","122.924512612448"
+"2019","07.2","2","Funcionamiento de equipos de transporte personal","89.6428539748215"
+"2019","07.3","2","Servicios de transporte de pasajeros","109.334775310837"
+"2019","07.3.1","3","Transporte de pasajeros por ferrocarril","103.560671252715"
+"2019","07.3.2","3","Transporte de pasajeros por carretera","112.423900784574"
+"2019","07.3.3","3","Transporte de pasajeros por aire","92.0686378673114"
+"2019","08","1","Información y comunicación","97.9692632868348"
+"2019","09","1","Recreación y cultura","93.4823525638443"
+"2019","09.1","2","Productos de recreación","95.1715894263171"
+"2019","09.2","2","Servicios de recreación","93.8788563253618"
+"2019","09.3","2","Servicios culturales","91.5262894318513"
+"2019","09.4","2","Diarios, libros y artículos de papelería y dibujo","111.121685479678"
+"2019","09.5","2","Paquetes turísticos","75.7264376013933"
+"2019","10","1","Educación","87.2697335823319"
+"2019","11","1","Restaurantes y hoteles","83.1978503186535"
+"2019","11.1","2","Servicios de alimentos y bebidas preparadas fuera del hogar","83.7594925767302"
+"2019","11.2","2","Servicios de alojamiento","78.5657854652297"
+"2019","12","1","Seguros y servicios financieros","78.9724062940398"
+"2019","12.1","2","Seguros","79.7584532891036"
+"2019","12.2","2","Servicios financieros","73.7177587701838"
+"2019","13","1","Cuidado personal, protección social y otros productos","99.1571549555715"
+"2019","13.1","2","Cuidado personal","103.187453000914"
+"2019","13.2","2","Efectos personales","88.5014610926673"
+"2019","13.3","2","Otros servicios","89.32399594899"
+"2020","01","1","Alimentos y bebidas no alcohólicas","100.007117064409"
+"2020","01.1","2","Alimentos","99.6951515140908"
+"2020","01.1.1","3","Pan y cereales","91.6376951984967"
+"2020","01.1.2","3","Carnes y derivados","94.538535526838"
+"2020","01.1.3","3","Pescados y mariscos","110.406774301317"
+"2020","01.1.4","3","Leche, productos lácteos y huevos","107.816872734638"
+"2020","01.1.5","3","Aceites, mantecas y otras grasas","115.373719102224"
+"2020","01.1.6","3","Frutas","103.182307048334"
+"2020","01.1.7","3","Verduras, tubérculos y legumbres","99.0173326818334"
+"2020","01.1.8","3","Azúcar, repostería y postres","100.661330120122"
+"2020","01.1.9","3","Otros alimentos","117.670072186116"
+"2020","01.2","2","Bebidas no alcohólicas","102.233117024549"
+"2020","02","1","Bebidas alcohólicas y tabaco","137.72387446945"
+"2020","02.1","2","Bebidas alcohólicas","84.2029363529692"
+"2020","02.1.1","3","Vinos","73.4838909325136"
+"2020","02.1.2","3","Cerveza","117.932704565781"
+"2020","02.2","2","Tabaco","181.909711956547"
+"2020","03","1","Prendas de vestir y calzado","95.1365968830673"
+"2020","03.1","2","Prendas de vestir","94.911389198976"
+"2020","03.2","2","Calzado","95.8620195006972"
+"2020","04","1","Vivienda, agua, electricidad, gas y otros combustibles","128.680609867775"
+"2020","04.1","2","Alquiler de la vivienda","83.0830218995613"
+"2020","04.2","2","Mantenimiento y reparación de la vivienda","93.8567585824788"
+"2020","04.3","2","Suministro de agua y otros servicios relacionados con la vivienda","120.098990622996"
+"2020","04.3.1","3","Suministro de agua","296.705776677977"
+"2020","04.3.2","3","Gastos comunes por la vivienda","98.7805362880796"
+"2020","04.4","2","Electricidad, gas y otros combustibles","284.349988756439"
+"2020","04.4.1","3","Electricidad","232.166782747658"
+"2020","04.4.2","3","Gas","353.306417787102"
+"2020","05","1","Equipamiento y mantenimiento del hogar","87.9274937999108"
+"2020","05.1","2","Muebles, accesorios y alfombras","91.2206315177108"
+"2020","05.2","2","Artículos textiles para el hogar","112.637445591597"
+"2020","05.3","2","Electrodomésticos","116.846729825071"
+"2020","05.4","2","Cristalería, vajilla y utensilios para el hogar","106.447490706984"
+"2020","05.5","2","Herramientas y accesorios para la casa y el jardín","104.369586099374"
+"2020","05.6","2","Bienes y servicios para la conservación del hogar","77.2941455357387"
+"2020","06","1","Salud","95.143219111027"
+"2020","06.1","2","Medicamentos y productos medicinales","101.992896947901"
+"2020","06.1.1","3","Medicamentos","101.382664044859"
+"2020","06.1.2","3","Productos medicinales","144.680876890285"
+"2020","06.1.3","3","Artefactos y equipos terapéuticos","90.9313466787814"
+"2020","06.1.4","3","Servicios para pacientes externos","85.5434633185588"
+"2020","06.2","2","Seguros médicos","93.3044178812694"
+"2020","07","1","Transporte","97.3952965032262"
+"2020","07.1","2","Adquisición de vehículos","147.822358864329"
+"2020","07.2","2","Funcionamiento de equipos de transporte personal","83.7069616156956"
+"2020","07.3","2","Servicios de transporte de pasajeros","92.5480762605929"
+"2020","07.3.1","3","Transporte de pasajeros por ferrocarril","79.4590686084215"
+"2020","07.3.2","3","Transporte de pasajeros por carretera","92.819899917096"
+"2020","07.3.3","3","Transporte de pasajeros por aire","100.329430966643"
+"2020","08","1","Información y comunicación","97.1768060729187"
+"2020","09","1","Recreación y cultura","99.7675793881616"
+"2020","09.1","2","Productos de recreación","107.943298995756"
+"2020","09.2","2","Servicios de recreación","91.897595488006"
+"2020","09.3","2","Servicios culturales","91.0407906988724"
+"2020","09.4","2","Diarios, libros y artículos de papelería y dibujo","116.584324122018"
+"2020","09.5","2","Paquetes turísticos","81.6945948635341"
+"2020","10","1","Educación","87.2797600316506"
+"2020","11","1","Restaurantes y hoteles","85.3715390888628"
+"2020","11.1","2","Servicios de alimentos y bebidas preparadas fuera del hogar","85.3749782283081"
+"2020","11.2","2","Servicios de alojamiento","85.3421575233589"
+"2020","12","1","Seguros y servicios financieros","72.8031864462184"
+"2020","12.1","2","Seguros","71.7725652226713"
+"2020","12.2","2","Servicios financieros","79.7039284326874"
+"2020","13","1","Cuidado personal, protección social y otros productos","101.021042773906"
+"2020","13.1","2","Cuidado personal","107.092391055119"
+"2020","13.2","2","Efectos personales","99.7868144694789"
+"2020","13.3","2","Otros servicios","77.818892358587"
+"2021","01","1","Alimentos y bebidas no alcohólicas","102.582760264443"
+"2021","01.1","2","Alimentos","103.212031962407"
+"2021","01.1.1","3","Pan y cereales","88.8108876565465"
+"2021","01.1.2","3","Carnes y derivados","109.993724303411"
+"2021","01.1.3","3","Pescados y mariscos","116.239324580039"
+"2021","01.1.4","3","Leche, productos lácteos y huevos","107.672189500056"
+"2021","01.1.5","3","Aceites, mantecas y otras grasas","125.864534085159"
+"2021","01.1.6","3","Frutas","109.612148929582"
+"2021","01.1.7","3","Verduras, tubérculos y legumbres","94.7446262188918"
+"2021","01.1.8","3","Azúcar, repostería y postres","100.546862006838"
+"2021","01.1.9","3","Otros alimentos","110.229561681281"
+"2021","01.2","2","Bebidas no alcohólicas","98.0658991263899"
+"2021","02","1","Bebidas alcohólicas y tabaco","141.209554516216"
+"2021","02.1","2","Bebidas alcohólicas","91.6411709798575"
+"2021","02.1.1","3","Vinos","80.9117845670877"
+"2021","02.1.2","3","Cerveza","125.456576092282"
+"2021","02.2","2","Tabaco","182.132316479542"
+"2021","03","1","Prendas de vestir y calzado","107.577037811482"
+"2021","03.1","2","Prendas de vestir","108.140840579954"
+"2021","03.2","2","Calzado","105.769572154225"
+"2021","04","1","Vivienda, agua, electricidad, gas y otros combustibles","112.941422395142"
+"2021","04.1","2","Alquiler de la vivienda","81.1594203756475"
+"2021","04.2","2","Mantenimiento y reparación de la vivienda","105.213253003155"
+"2021","04.3","2","Suministro de agua y otros servicios relacionados con la vivienda","106.644967627349"
+"2021","04.3.1","3","Suministro de agua","207.328596898549"
+"2021","04.3.2","3","Gastos comunes por la vivienda","94.4914380169225"
+"2021","04.4","2","Electricidad, gas y otros combustibles","211.356777115947"
+"2021","04.4.1","3","Electricidad","174.994390864884"
+"2021","04.4.2","3","Gas","259.407488680199"
+"2021","05","1","Equipamiento y mantenimiento del hogar","89.5520688623814"
+"2021","05.1","2","Muebles, accesorios y alfombras","105.627910993653"
+"2021","05.2","2","Artículos textiles para el hogar","131.276912238755"
+"2021","05.3","2","Electrodomésticos","122.168514589808"
+"2021","05.4","2","Cristalería, vajilla y utensilios para el hogar","120.763534275186"
+"2021","05.5","2","Herramientas y accesorios para la casa y el jardín","115.692527883909"
+"2021","05.6","2","Bienes y servicios para la conservación del hogar","72.4425472734274"
+"2021","06","1","Salud","95.1616740847764"
+"2021","06.1","2","Medicamentos y productos medicinales","107.838785915156"
+"2021","06.1.1","3","Medicamentos","108.611819368519"
+"2021","06.1.2","3","Productos medicinales","129.875552095867"
+"2021","06.1.3","3","Artefactos y equipos terapéuticos","94.2675140829043"
+"2021","06.1.4","3","Servicios para pacientes externos","88.7748522556568"
+"2021","06.2","2","Seguros médicos","86.3668820561399"
+"2021","07","1","Transporte","98.5267155886394"
+"2021","07.1","2","Adquisición de vehículos","186.36987836106"
+"2021","07.2","2","Funcionamiento de equipos de transporte personal","87.1968117802265"
+"2021","07.3","2","Servicios de transporte de pasajeros","76.8392071240712"
+"2021","07.3.1","3","Transporte de pasajeros por ferrocarril","74.1047678521768"
+"2021","07.3.2","3","Transporte de pasajeros por carretera","75.4337689034107"
+"2021","07.3.3","3","Transporte de pasajeros por aire","88.6618798329204"
+"2021","08","1","Información y comunicación","87.1802133335522"
+"2021","09","1","Recreación y cultura","104.420849991285"
+"2021","09.1","2","Productos de recreación","122.534067356081"
+"2021","09.2","2","Servicios de recreación","106.191763693968"
+"2021","09.3","2","Servicios culturales","84.8768446568214"
+"2021","09.4","2","Diarios, libros y artículos de papelería y dibujo","121.257309352383"
+"2021","09.5","2","Paquetes turísticos","98.165570089253"
+"2021","10","1","Educación","85.052880131751"
+"2021","11","1","Restaurantes y hoteles","91.2276073373602"
+"2021","11.1","2","Servicios de alimentos y bebidas preparadas fuera del hogar","92.2490387109372"
+"2021","11.2","2","Servicios de alojamiento","82.8046443025296"
+"2021","12","1","Seguros y servicios financieros","68.6991293671838"
+"2021","12.1","2","Seguros","67.6915342482601"
+"2021","12.2","2","Servicios financieros","75.445120260719"
+"2021","13","1","Cuidado personal, protección social y otros productos","93.9830420963682"
+"2021","13.1","2","Cuidado personal","99.3399889398583"
+"2021","13.2","2","Efectos personales","105.676275174961"
+"2021","13.3","2","Otros servicios","66.2744801704585"
+"2022","01","1","Alimentos y bebidas no alcohólicas","106.928354428932"
+"2022","01.1","2","Alimentos","107.729993326355"
+"2022","01.1.1","3","Pan y cereales","95.0264305311638"
+"2022","01.1.2","3","Carnes y derivados","111.712519457763"
+"2022","01.1.3","3","Pescados y mariscos","119.665550223511"
+"2022","01.1.4","3","Leche, productos lácteos y huevos","113.30714360184"
+"2022","01.1.5","3","Aceites, mantecas y otras grasas","136.197942070267"
+"2022","01.1.6","3","Frutas","104.640710322926"
+"2022","01.1.7","3","Verduras, tubérculos y legumbres","106.21454286848"
+"2022","01.1.8","3","Azúcar, repostería y postres","104.013583628062"
+"2022","01.1.9","3","Otros alimentos","108.58160270098"
+"2022","01.2","2","Bebidas no alcohólicas","101.137893672226"
+"2022","02","1","Bebidas alcohólicas y tabaco","137.021457209851"
+"2022","02.1","2","Bebidas alcohólicas","100.53707477875"
+"2022","02.1.1","3","Vinos","90.3037595477038"
+"2022","02.1.2","3","Cerveza","133.667457256168"
+"2022","02.2","2","Tabaco","162.713155331532"
+"2022","03","1","Prendas de vestir y calzado","120.989575246012"
+"2022","03.1","2","Prendas de vestir","125.506115551785"
+"2022","03.2","2","Calzado","107.948073543535"
+"2022","04","1","Vivienda, agua, electricidad, gas y otros combustibles","103.229056344571"
+"2022","04.1","2","Alquiler de la vivienda","77.6843032366491"
+"2022","04.2","2","Mantenimiento y reparación de la vivienda","121.102866141645"
+"2022","04.3","2","Suministro de agua y otros servicios relacionados con la vivienda","96.6996816993327"
+"2022","04.3.1","3","Suministro de agua","159.017388592429"
+"2022","04.3.2","3","Gastos comunes por la vivienda","89.1125645639712"
+"2022","04.4","2","Electricidad, gas y otros combustibles","176.426505902615"
+"2022","04.4.1","3","Electricidad","146.555036736626"
+"2022","04.4.2","3","Gas","215.707250950291"
+"2022","05","1","Equipamiento y mantenimiento del hogar","94.9363125656837"
+"2022","05.1","2","Muebles, accesorios y alfombras","109.060546568613"
+"2022","05.2","2","Artículos textiles para el hogar","126.696240460173"
+"2022","05.3","2","Electrodomésticos","116.245845757107"
+"2022","05.4","2","Cristalería, vajilla y utensilios para el hogar","125.827273810365"
+"2022","05.5","2","Herramientas y accesorios para la casa y el jardín","114.538147100304"
+"2022","05.6","2","Bienes y servicios para la conservación del hogar","81.0502519636002"
+"2022","06","1","Salud","95.7020332912037"
+"2022","06.1","2","Medicamentos y productos medicinales","103.004769923956"
+"2022","06.1.1","3","Medicamentos","103.758250492437"
+"2022","06.1.2","3","Productos medicinales","123.638554331445"
+"2022","06.1.3","3","Artefactos y equipos terapéuticos","90.4139148403214"
+"2022","06.1.4","3","Servicios para pacientes externos","82.6649497846737"
+"2022","06.2","2","Seguros médicos","92.6265563564758"
+"2022","07","1","Transporte","93.6833502063705"
+"2022","07.1","2","Adquisición de vehículos","193.606042655495"
+"2022","07.2","2","Funcionamiento de equipos de transporte personal","79.9955658635966"
+"2022","07.3","2","Servicios de transporte de pasajeros","69.4725863317142"
+"2022","07.3.1","3","Transporte de pasajeros por ferrocarril","51.9040426053165"
+"2022","07.3.2","3","Transporte de pasajeros por carretera","65.6462563450787"
+"2022","07.3.3","3","Transporte de pasajeros por aire","101.475990143188"
+"2022","08","1","Información y comunicación","77.8139608041049"
+"2022","09","1","Recreación y cultura","98.8047649208995"
+"2022","09.1","2","Productos de recreación","121.070465795048"
+"2022","09.2","2","Servicios de recreación","101.562770521113"
+"2022","09.3","2","Servicios culturales","85.1094797313941"
+"2022","09.4","2","Diarios, libros y artículos de papelería y dibujo","124.969372478287"
+"2022","09.5","2","Paquetes turísticos","80.0007010988072"
+"2022","10","1","Educación","84.728768278226"
+"2022","11","1","Restaurantes y hoteles","100.998616527682"
+"2022","11.1","2","Servicios de alimentos y bebidas preparadas fuera del hogar","103.311863162875"
+"2022","11.2","2","Servicios de alojamiento","101.041171546929"
+"2022","12","1","Seguros y servicios financieros","64.3691711170899"
+"2022","12.1","2","Seguros","63.2052818629881"
+"2022","12.2","2","Servicios financieros","72.446703521047"
+"2022","13","1","Cuidado personal, protección social y otros productos","90.7399455681649"
+"2022","13.1","2","Cuidado personal","95.9040622764366"
+"2022","13.2","2","Efectos personales","113.92447285587"
+"2022","13.3","2","Otros servicios","61.0547145160038"
+"2023","01","1","Alimentos y bebidas no alcohólicas","111.462265132555"
+"2023","01.1","2","Alimentos","112.929375659316"
+"2023","01.1.1","3","Pan y cereales","98.1695687922773"
+"2023","01.1.2","3","Carnes y derivados","113.619617137351"
+"2023","01.1.3","3","Pescados y mariscos","126.615502151813"
+"2023","01.1.4","3","Leche, productos lácteos y huevos","118.207451837104"
+"2023","01.1.5","3","Aceites, mantecas y otras grasas","139.604392601185"
+"2023","01.1.6","3","Frutas","126.801812485261"
+"2023","01.1.7","3","Verduras, tubérculos y legumbres","115.156490781426"
+"2023","01.1.8","3","Azúcar, repostería y postres","111.751133186065"
+"2023","01.1.9","3","Otros alimentos","106.993401106062"
+"2023","01.2","2","Bebidas no alcohólicas","101.17679617204"
+"2023","02","1","Bebidas alcohólicas y tabaco","134.157917285018"
+"2023","02.1","2","Bebidas alcohólicas","97.1520247928346"
+"2023","02.1.1","3","Vinos","88.5933024152242"
+"2023","02.1.2","3","Cerveza","127.680370321501"
+"2023","02.2","2","Tabaco","164.546378429792"
+"2023","03","1","Prendas de vestir y calzado","117.567067813285"
+"2023","03.1","2","Prendas de vestir","121.975639132451"
+"2023","03.2","2","Calzado","104.837293072004"
+"2023","04","1","Vivienda, agua, electricidad, gas y otros combustibles","111.724941439898"
+"2023","04.1","2","Alquiler de la vivienda","88.2271511987528"
+"2023","04.2","2","Mantenimiento y reparación de la vivienda","123.194950335426"
+"2023","04.3","2","Suministro de agua y otros servicios relacionados con la vivienda","99.142618366459"
+"2023","04.3.1","3","Suministro de agua","262.280723304554"
+"2023","04.3.2","3","Gastos comunes por la vivienda","84.5609488000386"
+"2023","04.4","2","Electricidad, gas y otros combustibles","191.694298760595"
+"2023","04.4.1","3","Electricidad","185.774789148323"
+"2023","04.4.2","3","Gas","181.796887660228"
+"2023","05","1","Equipamiento y mantenimiento del hogar","92.3161115833739"
+"2023","05.1","2","Muebles, accesorios y alfombras","118.437224902224"
+"2023","05.2","2","Artículos textiles para el hogar","126.302478651143"
+"2023","05.3","2","Electrodomésticos","137.673667382007"
+"2023","05.4","2","Cristalería, vajilla y utensilios para el hogar","136.507158371024"
+"2023","05.5","2","Herramientas y accesorios para la casa y el jardín","120.23205618438"
+"2023","05.6","2","Bienes y servicios para la conservación del hogar","73.8209984505509"
+"2023","06","1","Salud","87.2271445690104"
+"2023","06.1","2","Medicamentos y productos medicinales","105.48844477184"
+"2023","06.1.1","3","Medicamentos","106.843859519734"
+"2023","06.1.2","3","Productos medicinales","127.26797190773"
+"2023","06.1.3","3","Artefactos y equipos terapéuticos","88.414855243305"
+"2023","06.1.4","3","Servicios para pacientes externos","63.0386984789456"
+"2023","06.2","2","Seguros médicos","83.0574602262944"
+"2023","07","1","Transporte","85.5622352900175"
+"2023","07.1","2","Adquisición de vehículos","181.275291407344"
+"2023","07.2","2","Funcionamiento de equipos de transporte personal","71.9695736761583"
+"2023","07.3","2","Servicios de transporte de pasajeros","63.4023676840957"
+"2023","07.3.1","3","Transporte de pasajeros por ferrocarril","45.0673231281836"
+"2023","07.3.2","3","Transporte de pasajeros por carretera","62.9388297691348"
+"2023","07.3.3","3","Transporte de pasajeros por aire","86.9211734543159"
+"2023","08","1","Información y comunicación","69.9194196234568"
+"2023","09","1","Recreación y cultura","97.9059879059146"
+"2023","09.1","2","Productos de recreación","124.54048387645"
+"2023","09.2","2","Servicios de recreación","90.8873284265139"
+"2023","09.3","2","Servicios culturales","85.8554633286161"
+"2023","09.4","2","Diarios, libros y artículos de papelería y dibujo","137.289198909082"
+"2023","09.5","2","Paquetes turísticos","80.3779066785258"
+"2023","10","1","Educación","84.4207425302966"
+"2023","11","1","Restaurantes y hoteles","109.175230169767"
+"2023","11.1","2","Servicios de alimentos y bebidas preparadas fuera del hogar","112.960416336431"
+"2023","11.2","2","Servicios de alojamiento","103.921542634062"
+"2023","12","1","Seguros y servicios financieros","64.4814212027219"
+"2023","12.1","2","Seguros","63.2984431705169"
+"2023","12.2","2","Servicios financieros","72.6950476801861"
+"2023","13","1","Cuidado personal, protección social y otros productos","85.6202260093242"
+"2023","13.1","2","Cuidado personal","93.630091979868"
+"2023","13.2","2","Efectos personales","123.964773993705"
+"2023","13.3","2","Otros servicios","37.9725286254994"
