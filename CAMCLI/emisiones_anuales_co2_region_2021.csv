@@ -1,220 +1,215 @@
-iso3,continente_fundar,iso3_desc_fundar,anio,valor_en_porcent
-AFG,Asia,Afganist·n,2021,0.000319854
-ALB,Europa,Albania,2021,0.000124424
-DZA,¡frica,Argelia,2021,0.004748135
-AND,Europa,Andorra,2021,1.21994E-05
-AGO,¡frica,Angola,2021,0.000575445
-AIA,AmÈrica del Norte Central y el Caribe,Anguila,2021,3.89895E-06
-ATG,AmÈrica del Norte Central y el Caribe,Antigua y Barbuda,2021,1.26252E-05
-ARG,AmÈrica del Sur,Argentina,2021,0.005022332
-ARM,Asia,Armenia,2021,0.000183333
-ABW,AmÈrica del Norte Central y el Caribe,Aruba,2021,2.31152E-05
-AUS,OceanÌa,Australia,2021,0.010537361
-AUT,Europa,Austria,2021,0.001740811
-AZE,Asia,Azerbaiy·n,2021,0.001036875
-BHS,AmÈrica del Norte Central y el Caribe,Bahamas,2021,6.42838E-05
-BHR,Asia,Bahrein,2021,0.001050971
-BGD,Asia,Bangladesh,2021,0.002509867
-BRB,AmÈrica del Norte Central y el Caribe,Barbados,2021,3.03121E-05
-BLR,Europa,Belar˙s,2021,0.001605503
-BEL,Europa,BÈlgica,2021,0.002578458
-BLZ,AmÈrica del Norte Central y el Caribe,Belice,2021,1.85681E-05
-BEN,¡frica,Benin,2021,0.000208917
-BMU,AmÈrica del Norte Central y el Caribe,Bermuda,2021,1.47603E-05
-BTN,Asia,Bhut·n,2021,4.10002E-05
-BOL,AmÈrica del Sur,Bolivia,2021,0.000628213
-BES,AmÈrica del Norte Central y el Caribe,Bonaire,2021,2.78498E-06
-BIH,Europa,Bosnia y Herzegovina,2021,0.000365434
-BWA,¡frica,Botswana,2021,0.000175087
-BRA,AmÈrica del Sur,Brasil,2021,0.013168922
-VGB,AmÈrica del Norte Central y el Caribe,Islas VÌrgenes Brit·nicas,2021,4.27027E-06
-BRN,Asia,Brunei Darussalam,2021,0.000282312
-BGR,Europa,Bulgaria,2021,0.001146439
-BFA,¡frica,Burkina Faso,2021,0.000153493
-BDI,¡frica,Burundi,2021,1.86648E-05
-KHM,Asia,Camboya,2021,0.000512571
-CMR,¡frica,Camer˙n,2021,0.00025044
-CAN,AmÈrica del Norte Central y el Caribe,Canad†,2021,0.014697681
-CPV,¡frica,Cabo Verde,2021,1.79856E-05
-CAF,¡frica,Rep˙blica Centroafricana,2021,6.12264E-06
-TCD,¡frica,Chad,2021,5.22553E-05
-CHL,AmÈrica del Sur,Chile,2021,0.002301672
-CHN,Asia,China,2021,0.309029613
-COL,AmÈrica del Sur,Colombia,2021,0.002470201
-COM,¡frica,Comoras,2021,8.03179E-06
-COG,¡frica,Congo,2021,0.000201067
-COK,OceanÌa,Islas Cook,2021,2.46211E-06
-CRI,AmÈrica del Norte Central y el Caribe,Costa Rica,2021,0.000210633
-CIV,¡frica,Costa de Marfil,2021,0.00031534
-HRV,Europa,Croacia,2021,0.000476822
-CUB,AmÈrica del Norte Central y el Caribe,Cuba,2021,0.000594155
-CUW,AmÈrica del Norte Central y el Caribe,Curazao,2021,4.96652E-05
-CYP,Asia,Chipre,2021,0.000204732
-CZE,Europa,Chequia,2021,0.002616602
-COD,¡frica,Rep˙blica Democr·tica del Congo,2021,7.0216E-05
-DNK,Europa,Dinamarca,2021,0.00079671
-DJI,¡frica,Djibouti,2021,1.02139E-05
-DMA,AmÈrica del Norte Central y el Caribe,Dominica,2021,4.27027E-06
-DOM,AmÈrica del Norte Central y el Caribe,Rep˙blica Dominicana,2021,0.00077907
-TLS,Asia,Timor Oriental,2021,1.98344E-05
-ECU,AmÈrica del Sur,Ecuador,2021,0.001113078
-EGY,¡frica,Egipto,2021,0.006724091
-SLV,AmÈrica del Norte Central y el Caribe,El Salvador,2021,0.000194063
-GNQ,¡frica,Guinea Ecuatorial,2021,0.000140739
-ERI,¡frica,Eritrea,2021,2.21044E-05
-EST,Europa,Estonia,2021,0.000281464
-SWZ,¡frica,Eswatini,2021,2.92863E-05
-ETH,¡frica,EtiopÌa,2021,0.000479276
-FRO,Europa,Islas Feroe,2021,1.88112E-05
-FJI,OceanÌa,Fiji,2021,3.9608E-05
-FIN,Europa,Finlandia,2021,0.001012889
-FRA,Europa,Francia,2021,0.008241702
-GUF,AmÈrica del Sur,Guayana Francesa,2021,1.75462E-05
-PYF,OceanÌa,Polinesia Francesa,2021,2.55846E-05
-GAB,¡frica,GabÛn,2021,0.000153876
-GMB,¡frica,Gambia,2021,1.76625E-05
-GEO,Asia,Georgia,2021,0.000296569
-DEU,Europa,Alemania,2021,0.018175743
-GHA,¡frica,Ghana,2021,0.0005741
-GRC,Europa,Grecia,2021,0.001516795
-GRL,AmÈrica del Norte Central y el Caribe,Groenlandia,2021,1.37555E-05
-GRD,AmÈrica del Norte Central y el Caribe,Granada,2021,8.59852E-06
-GLP,AmÈrica del Norte Central y el Caribe,Guadalupe,2021,6.17142E-05
-GTM,AmÈrica del Norte Central y el Caribe,Guatemala,2021,0.000547548
-GIN,¡frica,Guinea,2021,0.000130422
-GNB,¡frica,Guinea-Bissau,2021,9.47744E-06
-GUY,AmÈrica del Sur,Guyana,2021,8.31763E-05
-HTI,AmÈrica del Norte Central y el Caribe,HaitÌ,2021,7.74683E-05
-HND,AmÈrica del Norte Central y el Caribe,Honduras,2021,0.000293553
-HKG,Asia,Hong Kong,2021,0.000852939
-HUN,Europa,HungrÌa,2021,0.001305215
-ISL,Europa,Islandia,2021,9.09109E-05
-IND,Asia,India,2021,0.072990374
-IDN,Asia,Indonesia,2021,0.016681392
-TRANS,Transporte internacional,Transporte internacional,2021,0.027522717
-IRN,Asia,Ir·n,2021,0.020172442
-IRQ,Asia,Iraq,2021,0.004998961
-IRL,Europa,Irlanda,2021,0.001011219
-ISR,Asia,Israel,2021,0.001468828
-ITA,Europa,Italia,2021,0.008853805
-JAM,AmÈrica del Norte Central y el Caribe,Jamaica,2021,0.000207138
-JPN,Asia,JapÛn,2021,0.028752364
-JOR,Asia,Jordania,2021,0.000689414
-KAZ,Asia,Kazajist†n,2021,0.007452984
-KEN,¡frica,Kenia,2021,0.000535381
-KIR,OceanÌa,Kiribati,2021,1.92687E-06
-KWT,Asia,Kuwait,2021,0.002858924
-KGZ,Asia,Kirguist†n,2021,0.000250731
-LAO,Asia,Laos,2021,0.000559681
-LVA,Europa,Letonia,2021,0.000195729
-LBN,Asia,LÌbano,2021,0.000672314
-LSO,¡frica,Lesotho,2021,6.14744E-05
-LBR,¡frica,Liberia,2021,3.21966E-05
-LBY,¡frica,Libia,2021,0.002007472
-LIE,Europa,Liechtenstein,2021,4.06612E-06
-LTU,Europa,Lituania,2021,0.000373906
-LUX,Europa,Luxemburgo,2021,0.000225045
-MAC,Asia,Macao,2021,3.46616E-05
-MDG,¡frica,Madagascar,2021,0.00011433
-MWI,¡frica,Malawi,2021,4.18112E-05
-MYS,Asia,Malasia,2021,0.006897155
-MDV,Asia,Maldivas,2021,5.7057E-05
-MLI,¡frica,MalÌ,2021,0.00011232
-MLT,Europa,Malta,2021,4.64433E-05
-MHL,OceanÌa,Islas Marshall,2021,4.28194E-06
-MTQ,AmÈrica del Norte Central y el Caribe,Martinica,2021,5.65713E-05
-MRT,¡frica,Mauritania,2021,0.000110929
-MUS,¡frica,Mauricio,2021,0.000120453
-MYT,¡frica,Mayotte,2021,7.36133E-06
-MEX,AmÈrica del Norte Central y el Caribe,MÈxico,2021,0.010968826
-FSM,OceanÌa,Micronesia,2021,4.28194E-06
-MDA,Europa,Moldavia,2021,0.000150887
-MNG,Asia,Mongolia,2021,0.001355353
-MNE,Europa,Montenegro,2021,4.71768E-05
-MSR,AmÈrica del Norte Central y el Caribe,Montserrat,2021,5.57E-07
-MAR,¡frica,Marruecos,2021,0.001901141
-MOZ,¡frica,Mozambique,2021,0.000192766
-MMR,Asia,Myanmar,2021,0.00097799
-NAM,¡frica,Namibia,2021,0.000108147
-NRU,OceanÌa,Nauru,2021,1.60573E-06
-NPL,Asia,Nepal,2021,0.000381778
-NLD,Europa,PaÌses Bajos,2021,0.003799321
-NCL,OceanÌa,Nueva Caledonia,2021,0.000148052
-NZL,OceanÌa,Nueva Zelanda,2021,0.000910192
-NIC,AmÈrica del Norte Central y el Caribe,Nicaragua,2021,0.000136294
-NER,¡frica,NÌger,2021,7.26998E-05
-NGA,¡frica,Nigeria,2021,0.003689994
-NIU,OceanÌa,Niue,2021,3.21141E-07
-PRK,Asia,Corea del Norte,2021,0.001518703
-MKD,Europa,Macedonia del Norte,2021,0.000184559
-NOR,Europa,Noruega,2021,0.001102217
-OMN,Asia,Om†n,2021,0.002181648
-PAK,Asia,Pakist·n,2021,0.006182343
-PLW,OceanÌa,Palau,2021,6.42293E-06
-PSE,Asia,Palestina,2021,8.3295E-05
-PAN,AmÈrica del Norte Central y el Caribe,Panam·,2021,0.000351031
-PNG,OceanÌa,Papua Nueva Guinea,2021,0.000229221
-PRY,AmÈrica del Sur,Paraguay,2021,0.000231026
-PER,AmÈrica del Sur,Per˙,2021,0.00151606
-PHL,Asia,Filipinas,2021,0.003886016
-POL,Europa,Polonia,2021,0.008850908
-PRT,Europa,Portugal,2021,0.001098949
-QAT,Asia,Qatar,2021,0.002576974
-REU,¡frica,ReuniÛn,2021,0.000110521
-ROU,Europa,Rumania,2021,0.002136817
-RUS,Europa,Rusia,2021,0.047288937
-RWA,¡frica,Rwanda,2021,4.72616E-05
-SHN,¡frica,Santa Elena,2021,3.71325E-07
-KNA,AmÈrica del Norte Central y el Caribe,Saint Kitts y Nevis,2021,6.40542E-06
-LCA,AmÈrica del Norte Central y el Caribe,Santa LucÌa,2021,1.30893E-05
-SPM,AmÈrica del Norte Central y el Caribe,Saint-Pierre y MiquelÛn,2021,1.67097E-06
-VCT,AmÈrica del Norte Central y el Caribe,San Vicente y las Granadinas,2021,5.7556E-06
-WSM,OceanÌa,Samoa,2021,7.92159E-06
-STP,¡frica,Santo Tom y PrÌncipe,2021,3.55507E-06
-SAU,Asia,Arabia Saudita,2021,0.018111804
-SEN,¡frica,Senegal,2021,0.000366285
-SRB,Europa,Serbia,2021,0.000831514
-SYC,¡frica,Seychelles,2021,1.53077E-05
-SLE,¡frica,Sierra Leona,2021,3.50019E-05
-SGP,Asia,Singapur,2021,0.000875634
-SXM,AmÈrica del Norte Central y el Caribe,Saint-Martin (parte neerlandesa),2021,1.74524E-05
-SVK,Europa,Eslovaquia,2021,0.000951093
-SVN,Europa,Eslovenia,2021,0.00033804
-SLB,OceanÌa,Islas SalomÛn,2021,8.5639E-06
-SOM,¡frica,Somalia,2021,1.64416E-05
-ZAF,¡frica,Sud·frica,2021,0.011742556
-KOR,Asia,Corea del Sur,2021,0.016595127
-SSD,¡frica,Sud·n del Sur,2021,4.26157E-05
-ESP,Europa,EspaÒa,2021,0.006293785
-LKA,Asia,Sri Lanka,2021,0.000559772
-SDN,¡frica,Sud·n,2021,0.000566704
-SUR,AmÈrica del Sur,Surinam,2021,7.52402E-05
-SWE,Europa,Suecia,2021,0.000965658
-CHE,Europa,Suiza,2021,0.00094095
-SYR,Asia,Siria,2021,0.000727316
-TWN,Asia,Taiw†n,2021,0.007619254
-TJK,Asia,Tayikist†n,2021,0.00027843
-TZA,¡frica,Tanzania,2021,0.000351765
-THA,Asia,Tailandia,2021,0.0075018
-TGO,¡frica,Togo,2021,6.30867E-05
-TON,OceanÌa,Tonga,2021,4.71015E-06
-TTO,AmÈrica del Norte Central y el Caribe,Trinidad y Tabago,2021,0.000973068
-TUN,¡frica,T˙nez,2021,0.00085074
-TUR,Asia,TurquÌa,2021,0.012019341
-TKM,Asia,Turkmenist†n,2021,0.002235943
-TCA,AmÈrica del Norte Central y el Caribe,Islas Turcas y Caicos,2021,9.1904E-06
-TUV,OceanÌa,Tuvalu,2021,2.14094E-07
-UGA,¡frica,Uganda,2021,0.000155708
-UKR,Europa,Ucrania,2021,0.005437413
-ARE,Asia,Emiratos ¡rabes Unidos,2021,0.005497454
-GBR,Europa,Reino Unido,2021,0.009340982
-USA,AmÈrica del Norte Central y el Caribe,Estados Unidos,2021,0.134881916
-URY,AmÈrica del Sur,Uruguay,2021,0.000181497
-UZB,Asia,Uzbekist·n,2021,0.00327637
-VUT,OceanÌa,Vanuatu,2021,4.71015E-06
-VEN,AmÈrica del Sur,Venezuela,2021,0.002148123
-VNM,Asia,Vietnam,2021,0.008781785
-WLF,OceanÌa,Islas Wallis y Futuna,2021,7.4933E-07
-YEM,Asia,Yemen,2021,0.00033608
-ZMB,¡frica,Zambia,2021,0.000206772
-ZWE,¡frica,Zimbabwe,2021,0.000304282
+"iso3","continente_fundar","iso3_desc_fundar","anio","valor_en_porcent"
+"AFG","Asia","Afganist√°n","2022","0.000326999"
+"ALB","Europa","Albania","2022","0.000133372"
+"DZA","√Åfrica","Argelia","2022","0.004746868"
+"AND","Europa","Andorra","2022","9.923e-06"
+"AGO","√Åfrica","Angola","2022","0.00043258"
+"AIA","Am√©rica del Norte, Central y el Caribe","Anguila","2022","3.741e-06"
+"ATG","Am√©rica del Norte, Central y el Caribe","Antigua y Barbuda","2022","1.621e-05"
+"ARG","Am√©rica del Sur","Argentina","2022","0.005191535"
+"ARM","Asia","Armenia","2022","0.000172484"
+"ABW","Am√©rica del Norte, Central y el Caribe","Aruba","2022","2.3308e-05"
+"AUS","Ocean√≠a","Australia","2022","0.010559395"
+"AUT","Europa","Austria","2022","0.001655149"
+"AZE","Asia","Azerbaiy√°n","2022","0.001024573"
+"BHS","Am√©rica del Norte, Central y el Caribe","Bahamas","2022","5.7066e-05"
+"BHR","Asia","Bahrein","2022","0.001017386"
+"BGD","Asia","Bangladesh","2022","0.002748423"
+"BRB","Am√©rica del Norte, Central y el Caribe","Barbados","2022","3.3186e-05"
+"BLR","Europa","Belar√∫s","2022","0.001582812"
+"BEL","Europa","B√©lgica","2022","0.002412002"
+"BLZ","Am√©rica del Norte, Central y el Caribe","Belice","2022","1.9522e-05"
+"BEN","√Åfrica","Benin","2022","0.000226977"
+"BMU","Am√©rica del Norte, Central y el Caribe","Bermuda","2022","1.199e-05"
+"BTN","Asia","Bhut√°n","2022","2.8413e-05"
+"BOL","Am√©rica del Sur","Bolivia","2022","0.00057857"
+"BES","Am√©rica del Norte, Central y el Caribe","Bonaire, San Eustaquio y Saba","2022","2.973e-06"
+"BIH","Europa","Bosnia y Herzegovina","2022","0.000531247"
+"BWA","√Åfrica","Botswana","2022","0.000201005"
+"BRA","Am√©rica del Sur","Brasil","2022","0.013014269"
+"VGB","Am√©rica del Norte, Central y el Caribe","Islas V√≠rgenes Brit√°nicas","2022","4.22e-06"
+"BRN","Asia","Brunei Darussalam","2022","0.000289468"
+"BGR","Europa","Bulgaria","2022","0.001242201"
+"BFA","√Åfrica","Burkina Faso","2022","0.00016049"
+"BDI","√Åfrica","Burundi","2022","2.1493e-05"
+"KHM","Asia","Camboya","2022","0.000537151"
+"CMR","√Åfrica","Camer√∫n","2022","0.000257677"
+"CAN","Am√©rica del Norte, Central y el Caribe","Canad√°","2022","0.014749584"
+"CPV","√Åfrica","Cabo Verde","2022","1.531e-05"
+"CAF","√Åfrica","Rep√∫blica Centroafricana","2022","6.09e-06"
+"TCD","√Åfrica","Chad","2022","6.3774e-05"
+"CHL","Am√©rica del Sur","Chile","2022","0.002271284"
+"CHN","Asia","China","2022","0.306779075"
+"COL","Am√©rica del Sur","Colombia","2022","0.002684211"
+"COM","√Åfrica","Comoras","2022","1.1111e-05"
+"COG","√Åfrica","Congo","2022","0.000200053"
+"COK","Ocean√≠a","Islas Cook","2022","1.832e-06"
+"CRI","Am√©rica del Norte, Central y el Caribe","Costa Rica","2022","0.000212348"
+"CIV","√Åfrica","Costa de Marfil","2022","0.000315861"
+"HRV","Europa","Croacia","2022","0.000471768"
+"CUB","Am√©rica del Norte, Central y el Caribe","Cuba","2022","0.000563153"
+"CUW","Am√©rica del Norte, Central y el Caribe","Curazao","2022","4.7287e-05"
+"CYP","Europa","Chipre","2022","0.000189217"
+"CZE","Europa","Chequia","2022","0.002637143"
+"COD","√Åfrica","Rep√∫blica Democr√°tica del Congo","2022","9.6948e-05"
+"DNK","Europa","Dinamarca","2022","0.00078222"
+"DJI","√Åfrica","Djibouti","2022","1.2195e-05"
+"DMA","Am√©rica del Norte, Central y el Caribe","Dominica","2022","4.124e-06"
+"DOM","Am√©rica del Norte, Central y el Caribe","Dominicana","2022","0.000636288"
+"TLS","Asia","Timor-Leste","2022","1.8005e-05"
+"ECU","Am√©rica del Sur","Ecuador","2022","0.001120152"
+"EGY","√Åfrica","Egipto","2022","0.006970475"
+"SLV","Am√©rica del Norte, Central y el Caribe","El Salvador","2022","0.000207656"
+"GNQ","√Åfrica","Guinea Ecuatorial","2022","0.000136641"
+"ERI","√Åfrica","Eritrea","2022","1.8757e-05"
+"EST","Europa","Estonia","2022","0.000277575"
+"SWZ","√Åfrica","Eswatini","2022","3.4053e-05"
+"ETH","√Åfrica","Etiop√≠a","2022","0.000513415"
+"FRO","Europa","Islas Feroe","2022","2.0138e-05"
+"FJI","Ocean√≠a","Fiji","2022","2.8908e-05"
+"FIN","Europa","Finlandia","2022","0.000973438"
+"FRA","Europa","Francia","2022","0.008009035"
+"PYF","Ocean√≠a","Polinesia Francesa","2022","2.3505e-05"
+"GAB","√Åfrica","Gab√≥n","2022","0.000153582"
+"GMB","√Åfrica","Gambia","2022","2.074e-05"
+"GEO","Asia","Georgia","2022","0.0002986"
+"DEU","Europa","Alemania","2022","0.017916784"
+"GHA","√Åfrica","Ghana","2022","0.000560082"
+"GRC","Europa","Grecia","2022","0.001606006"
+"GRL","Europa","Groenlandia","2022","1.5928e-05"
+"GRD","Am√©rica del Norte, Central y el Caribe","Granada","2022","9.163e-06"
+"GTM","Am√©rica del Norte, Central y el Caribe","Guatemala","2022","0.000516645"
+"GIN","√Åfrica","Guinea","2022","0.000133342"
+"GNB","√Åfrica","Guinea-Bissau","2022","8.795e-06"
+"GUY","Am√©rica del Sur","Guyana","2022","9.5213e-05"
+"HTI","Am√©rica del Norte, Central y el Caribe","Hait√≠","2022","6.586e-05"
+"HND","Am√©rica del Norte, Central y el Caribe","Honduras","2022","0.000300398"
+"HKG","Asia","Hong Kong","2022","0.000822855"
+"HUN","Europa","Hungr√≠a","2022","0.001193913"
+"ISL","Europa","Islandia","2022","9.5357e-05"
+"IND","Asia","India","2022","0.076168522"
+"IDN","Asia","Indonesia","2022","0.01962012"
+"IRN","Asia","Ir√°n","2022","0.018590558"
+"IRQ","Asia","Iraq","2022","0.004820507"
+"IRL","Europa","Irlanda","2022","0.00104399"
+"ISR","Asia","Israel","2022","0.00151059"
+"ITA","Europa","Italia","2022","0.009100921"
+"JAM","Am√©rica del Norte, Central y el Caribe","Jamaica","2022","0.000174633"
+"JPN","Asia","Jap√≥n","2022","0.028366188"
+"JOR","Asia","Jordania","2022","0.000616762"
+"KAZ","Asia","Kazajst√°n","2022","0.007299592"
+"KEN","√Åfrica","Kenia","2022","0.000668965"
+"KIR","Ocean√≠a","Kiribati","2022","1.832e-06"
+"OWID_KOS","Europa","Kosovo","2022","0.000215816"
+"KWT","Asia","Kuwait","2022","0.002939182"
+"KGZ","Asia","Kirguist√°n","2022","0.000254368"
+"LAO","Asia","Lao","2022","0.000624321"
+"LVA","Europa","Letonia","2022","0.000177429"
+"LBN","Asia","L√≠bano","2022","0.000643463"
+"LSO","√Åfrica","Lesotho","2022","8.438e-05"
+"LBR","√Åfrica","Liberia","2022","2.3605e-05"
+"LBY","√Åfrica","Libia","2022","0.001694796"
+"LIE","Europa","Liechtenstein","2022","4.036e-06"
+"LTU","Europa","Lituania","2022","0.000340977"
+"LUX","Europa","Luxemburgo","2022","0.000202534"
+"MAC","Asia","Macao","2022","2.8308e-05"
+"MDG","√Åfrica","Madagascar","2022","0.000118536"
+"MWI","√Åfrica","Malawi","2022","5.6368e-05"
+"MYS","Asia","Malasia","2022","0.007835075"
+"MDV","Asia","Maldivas","2022","4.579e-05"
+"MLI","√Åfrica","Mal√≠","2022","0.00018947"
+"MLT","Europa","Malta","2022","4.4553e-05"
+"MHL","Ocean√≠a","Islas Marshall","2022","4.07e-06"
+"MRT","√Åfrica","Mauritania","2022","0.000122049"
+"MUS","√Åfrica","Mauricio","2022","0.000114375"
+"MEX","Am√©rica del Norte, Central y el Caribe","M√©xico","2022","0.01378129"
+"FSM","Ocean√≠a","Micronesia","2022","4.07e-06"
+"MDA","Europa","Moldavia","2022","0.00014595"
+"MNG","Asia","Mongolia","2022","0.001020046"
+"MNE","Europa","Montenegro","2022","6.171e-05"
+"MSR","Am√©rica del Norte, Central y el Caribe","Montserrat","2022","5.76e-07"
+"MAR","√Åfrica","Marruecos","2022","0.001841513"
+"MOZ","√Åfrica","Mozambique","2022","0.000215431"
+"MMR","Asia","Myanmar","2022","0.000940038"
+"NAM","√Åfrica","Namibia","2022","0.000106406"
+"NRU","Ocean√≠a","Nauru","2022","1.425e-06"
+"NPL","Asia","Nepal","2022","0.000417229"
+"NLD","Europa","Pa√≠ses Bajos","2022","0.0033744"
+"NCL","Ocean√≠a","Nueva Caledonia","2022","0.000137692"
+"NZL","Ocean√≠a","Nueva Zelandia","2022","0.000867079"
+"NIC","Am√©rica del Norte, Central y el Caribe","Nicaragua","2022","0.000149405"
+"NER","√Åfrica","N√≠ger","2022","8.232e-05"
+"NGA","√Åfrica","Nigeria","2022","0.003465955"
+"NIU","Ocean√≠a","Niue","2022","2.04e-07"
+"PRK","Asia","Corea del Norte","2022","0.001369366"
+"MKD","Europa","Macedonia del Norte","2022","0.000204266"
+"NOR","Europa","Noruega","2022","0.001098472"
+"OMN","Asia","Om√°n","2022","0.001937734"
+"PAK","Asia","Pakist√°n","2022","0.005388992"
+"PLW","Ocean√≠a","Palau","2022","5.902e-06"
+"PSE","Asia","Palestina","2022","9.413e-05"
+"PAN","Am√©rica del Norte, Central y el Caribe","Panam√°","2022","0.000320322"
+"PNG","Ocean√≠a","Papua Nueva Guinea","2022","0.000210584"
+"PRY","Am√©rica del Sur","Paraguay","2022","0.000242748"
+"PER","Am√©rica del Sur","Per√∫","2022","0.001639878"
+"PHL","Asia","Filipinas","2022","0.004048367"
+"POL","Europa","Polonia","2022","0.008697689"
+"PRT","Europa","Portugal","2022","0.001119927"
+"QAT","Asia","Qatar","2022","0.002727885"
+"ROU","Europa","Rumania","2022","0.00197905"
+"RUS","Europa","Rusia","2022","0.0444734"
+"RWA","√Åfrica","Ruanda","2022","4.1663e-05"
+"SHN","Am√©rica del Norte, Central y el Caribe","Santa Elena","2022","4.8e-07"
+"KNA","Am√©rica del Norte, Central y el Caribe","Saint Kitts y Nevis","2022","6.043e-06"
+"LCA","Am√©rica del Norte, Central y el Caribe","Santa Luc√≠a","2022","1.2661e-05"
+"SPM","Am√©rica del Norte, Central y el Caribe","San Pedro y Miquel√≥n","2022","1.631e-06"
+"VCT","Am√©rica del Norte, Central y el Caribe","San Vicente y las Granadinas","2022","6.426e-06"
+"WSM","Ocean√≠a","Samoa","2022","6.716e-06"
+"STP","Am√©rica del Norte, Central y el Caribe","Santo Tom√© y Pr√≠ncipe","2022","3.56e-06"
+"SAU","Asia","Arabia Saudita","2022","0.017834541"
+"SEN","√Åfrica","Senegal","2022","0.000314092"
+"SRB","Europa","Serbia","2022","0.001171114"
+"SYC","√Åfrica","Seychelles","2022","1.7734e-05"
+"SLE","√Åfrica","Sierra Leona","2022","3.0404e-05"
+"SGP","Asia","Singapur","2022","0.001433452"
+"SXM","Am√©rica del Norte, Central y el Caribe","San Mart√≠n (parte Holandesa)","2022","1.7073e-05"
+"SVK","Europa","Eslovaquia","2022","0.000919297"
+"SVN","Europa","Eslovenia","2022","0.000342258"
+"SLB","Ocean√≠a","Islas Salom√≥n","2022","8.039e-06"
+"SOM","√Åfrica","Somalia","2022","1.7414e-05"
+"ZAF","√Åfrica","Sud√°frica","2022","0.010876347"
+"KOR","Asia","Corea del Sur","2022","0.016177734"
+"SSD","√Åfrica","Sud√°n del Sur","2022","4.9357e-05"
+"ESP","Europa","Espa√±a","2022","0.006611446"
+"LKA","Asia","Sri Lanka","2022","0.000466412"
+"SDN","√Åfrica","Sud√°n","2022","0.000592557"
+"SUR","Am√©rica del Sur","Suriname","2022","9.6542e-05"
+"SWE","Europa","Suecia","2022","0.001024247"
+"CHE","Europa","Suiza","2022","0.000952365"
+"SYR","Asia","Siria","2022","0.000743887"
+"TWN","Asia","Taiw√°n","2022","0.007480553"
+"TJK","Asia","Tayikist√°n","2022","0.000269648"
+"TZA","√Åfrica","Tanzan√≠a","2022","0.000419114"
+"THA","Asia","Tailandia","2022","0.007287966"
+"TGO","√Åfrica","Togo","2022","6.9329e-05"
+"TON","Ocean√≠a","Tonga","2022","5.088e-06"
+"TTO","Am√©rica del Norte, Central y el Caribe","Trinidad y Tobago","2022","0.000924144"
+"TUN","√Åfrica","T√∫nez","2022","0.000957658"
+"TUR","Europa","Turqu√≠a","2022","0.011727782"
+"TKM","Asia","Turkmenist√°n","2022","0.001910061"
+"TCA","Am√©rica del Norte, Central y el Caribe","Islas Turcas y Caicos","2022","9.4e-06"
+"TUV","Ocean√≠a","Tuvalu","2022","3.05e-07"
+"UGA","√Åfrica","Uganda","2022","0.000162095"
+"UKR","Europa","Ucrania","2022","0.003802256"
+"ARE","Asia","Emiratos √Årabes Unidos","2022","0.006565185"
+"GBR","Europa","Reino Unido","2022","0.008577556"
+"USA","Am√©rica del Norte, Central y el Caribe","Estados Unidos","2022","0.136132779"
+"URY","Am√©rica del Sur","Uruguay","2022","0.000212467"
+"UZB","Asia","Uzbekist√°n","2022","0.003246592"
+"VUT","Ocean√≠a","Vanuatu","2022","5.597e-06"
+"VEN","Am√©rica del Sur","Venezuela","2022","0.002069783"
+"VNM","Asia","Vietnam","2022","0.009249222"
+"WLF","Ocean√≠a","Islas Wallis y Futuna","2022","7.12e-07"
+"YEM","√Åfrica","Yemen","2022","0.000305691"
+"ZMB","√Åfrica","Zambia","2022","0.00024016"
+"ZWE","√Åfrica","Zimbabwe","2022","0.000238386"

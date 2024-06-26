@@ -1,865 +1,865 @@
-anio,provincia,sector,valor_en_mtco2e
-2010,Ciudad Autónoma de Buenos Aires,Energía,17.88089527
-2011,Ciudad Autónoma de Buenos Aires,Energía,20.0466516
-2012,Ciudad Autónoma de Buenos Aires,Energía,19.56570375
-2013,Ciudad Autónoma de Buenos Aires,Energía,18.35892446
-2014,Ciudad Autónoma de Buenos Aires,Energía,17.09865975
-2015,Ciudad Autónoma de Buenos Aires,Energía,17.75136737
-2016,Ciudad Autónoma de Buenos Aires,Energía,17.4611496
-2017,Ciudad Autónoma de Buenos Aires,Energía,16.62259833
-2018,Ciudad Autónoma de Buenos Aires,Energía,14.68950664
-2010,Ciudad Autónoma de Buenos Aires,PIUP,0.010874834
-2011,Ciudad Autónoma de Buenos Aires,PIUP,0.010782508
-2012,Ciudad Autónoma de Buenos Aires,PIUP,0.011030309
-2013,Ciudad Autónoma de Buenos Aires,PIUP,0.010798577
-2014,Ciudad Autónoma de Buenos Aires,PIUP,0.008616965
-2015,Ciudad Autónoma de Buenos Aires,PIUP,0.008677273
-2016,Ciudad Autónoma de Buenos Aires,PIUP,0.008400175
-2017,Ciudad Autónoma de Buenos Aires,PIUP,0.008973621
-2018,Ciudad Autónoma de Buenos Aires,PIUP,0.01249099
-2010,Ciudad Autónoma de Buenos Aires,AGSyOUT,0.0016683
-2011,Ciudad Autónoma de Buenos Aires,AGSyOUT,0.001657071
-2012,Ciudad Autónoma de Buenos Aires,AGSyOUT,0.009221532
-2013,Ciudad Autónoma de Buenos Aires,AGSyOUT,0.002338222
-2014,Ciudad Autónoma de Buenos Aires,AGSyOUT,0.003585402
-2015,Ciudad Autónoma de Buenos Aires,AGSyOUT,0.002656395
-2016,Ciudad Autónoma de Buenos Aires,AGSyOUT,0.002757977
-2017,Ciudad Autónoma de Buenos Aires,AGSyOUT,0.00283962
-2018,Ciudad Autónoma de Buenos Aires,AGSyOUT,0.002927738
-2010,Ciudad Autónoma de Buenos Aires,Residuos,0.65804456
-2011,Ciudad Autónoma de Buenos Aires,Residuos,0.668613786
-2012,Ciudad Autónoma de Buenos Aires,Residuos,0.727820521
-2013,Ciudad Autónoma de Buenos Aires,Residuos,0.832548923
-2014,Ciudad Autónoma de Buenos Aires,Residuos,0.895349541
-2015,Ciudad Autónoma de Buenos Aires,Residuos,0.931917418
-2016,Ciudad Autónoma de Buenos Aires,Residuos,0.956194892
-2017,Ciudad Autónoma de Buenos Aires,Residuos,0.968318925
-2018,Ciudad Autónoma de Buenos Aires,Residuos,0.988346522
-2010,Provincia de Buenos Aires,Energía,56.12271108
-2011,Provincia de Buenos Aires,Energía,58.5875611
-2012,Provincia de Buenos Aires,Energía,58.63953531
-2013,Provincia de Buenos Aires,Energía,59.86590018
-2014,Provincia de Buenos Aires,Energía,59.21867408
-2015,Provincia de Buenos Aires,Energía,59.69673068
-2016,Provincia de Buenos Aires,Energía,59.79149896
-2017,Provincia de Buenos Aires,Energía,56.91122005
-2018,Provincia de Buenos Aires,Energía,56.23058264
-2010,Provincia de Buenos Aires,PIUP,0.905138237
-2011,Provincia de Buenos Aires,PIUP,1.103242565
-2012,Provincia de Buenos Aires,PIUP,1.075577343
-2013,Provincia de Buenos Aires,PIUP,1.10451518
-2014,Provincia de Buenos Aires,PIUP,0.962024825
-2015,Provincia de Buenos Aires,PIUP,0.953997353
-2016,Provincia de Buenos Aires,PIUP,1.00056795
-2017,Provincia de Buenos Aires,PIUP,1.025923251
-2018,Provincia de Buenos Aires,PIUP,0.873962802
-2010,Provincia de Buenos Aires,AGSyOUT,23.09266417
-2011,Provincia de Buenos Aires,AGSyOUT,17.88921165
-2012,Provincia de Buenos Aires,AGSyOUT,24.55484948
-2013,Provincia de Buenos Aires,AGSyOUT,26.87774706
-2014,Provincia de Buenos Aires,AGSyOUT,26.6164327
-2015,Provincia de Buenos Aires,AGSyOUT,22.92319283
-2016,Provincia de Buenos Aires,AGSyOUT,27.67922129
-2017,Provincia de Buenos Aires,AGSyOUT,21.76848162
-2018,Provincia de Buenos Aires,AGSyOUT,30.46307927
-2010,Provincia de Buenos Aires,Residuos,4.675033189
-2011,Provincia de Buenos Aires,Residuos,4.706977461
-2012,Provincia de Buenos Aires,Residuos,4.948768213
-2013,Provincia de Buenos Aires,Residuos,5.156771475
-2014,Provincia de Buenos Aires,Residuos,5.451985827
-2015,Provincia de Buenos Aires,Residuos,5.707275744
-2016,Provincia de Buenos Aires,Residuos,5.903575219
-2017,Provincia de Buenos Aires,Residuos,6.055399219
-2018,Provincia de Buenos Aires,Residuos,6.224405661
-2010,Catamarca,Energía,0.643266936
-2011,Catamarca,Energía,0.702612484
-2012,Catamarca,Energía,0.692225273
-2013,Catamarca,Energía,0.744526386
-2014,Catamarca,Energía,0.739369695
-2015,Catamarca,Energía,0.763458601
-2016,Catamarca,Energía,0.680060627
-2017,Catamarca,Energía,0.684845071
-2018,Catamarca,Energía,0.570074882
-2010,Catamarca,PIUP,0.004266341
-2011,Catamarca,PIUP,0.002966987
-2012,Catamarca,PIUP,0.002588571
-2013,Catamarca,PIUP,0.006023937
-2014,Catamarca,PIUP,0.005322415
-2015,Catamarca,PIUP,0.002585528
-2016,Catamarca,PIUP,0.001471231
-2017,Catamarca,PIUP,0.001354355
-2018,Catamarca,PIUP,0.000934814
-2010,Catamarca,AGSyOUT,0.694001885
-2011,Catamarca,AGSyOUT,1.108473403
-2012,Catamarca,AGSyOUT,1.256006916
-2013,Catamarca,AGSyOUT,1.410900963
-2014,Catamarca,AGSyOUT,0.414885233
-2015,Catamarca,AGSyOUT,0.212263363
-2016,Catamarca,AGSyOUT,0.724323119
-2017,Catamarca,AGSyOUT,1.193337186
-2018,Catamarca,AGSyOUT,0.170955662
-2010,Catamarca,Residuos,0.070566709
-2011,Catamarca,Residuos,0.074338227
-2012,Catamarca,Residuos,0.077258293
-2013,Catamarca,Residuos,0.080073545
-2014,Catamarca,Residuos,0.082791486
-2015,Catamarca,Residuos,0.086011418
-2016,Catamarca,Residuos,0.088527809
-2017,Catamarca,Residuos,0.091308888
-2018,Catamarca,Residuos,0.093964038
-2010,Córdoba,Energía,10.26682278
-2011,Córdoba,Energía,11.19810762
-2012,Córdoba,Energía,10.97235816
-2013,Córdoba,Energía,11.03279223
-2014,Córdoba,Energía,10.31455811
-2015,Córdoba,Energía,10.95498814
-2016,Córdoba,Energía,10.99793226
-2017,Córdoba,Energía,10.82771698
-2018,Córdoba,Energía,10.64723684
-2010,Córdoba,PIUP,0.231448995
-2011,Córdoba,PIUP,0.26843695
-2012,Córdoba,PIUP,0.269178736
-2013,Córdoba,PIUP,0.246310175
-2014,Córdoba,PIUP,0.262984374
-2015,Córdoba,PIUP,0.333835583
-2016,Córdoba,PIUP,0.295133661
-2017,Córdoba,PIUP,0.329789975
-2018,Córdoba,PIUP,0.255897499
-2010,Córdoba,AGSyOUT,17.24655089
-2011,Córdoba,AGSyOUT,13.74545188
-2012,Córdoba,AGSyOUT,11.03118894
-2013,Córdoba,AGSyOUT,5.628141874
-2014,Córdoba,AGSyOUT,12.7865994
-2015,Córdoba,AGSyOUT,12.52704492
-2016,Córdoba,AGSyOUT,9.010266019
-2017,Córdoba,AGSyOUT,11.41149634
-2018,Córdoba,AGSyOUT,15.53535802
-2010,Córdoba,Residuos,1.017624693
-2011,Córdoba,Residuos,1.051624604
-2012,Córdoba,Residuos,1.080724036
-2013,Córdoba,Residuos,1.109635238
-2014,Córdoba,Residuos,1.138669268
-2015,Córdoba,Residuos,1.176016054
-2016,Córdoba,Residuos,1.20693071
-2017,Córdoba,Residuos,1.240125722
-2018,Córdoba,Residuos,1.272095783
-2010,Corrientes,Energía,1.023335111
-2011,Corrientes,Energía,1.066214641
-2012,Corrientes,Energía,1.061192597
-2013,Corrientes,Energía,0.89434425
-2014,Corrientes,Energía,0.836428545
-2015,Corrientes,Energía,0.884649187
-2016,Corrientes,Energía,0.919788305
-2017,Corrientes,Energía,1.021964206
-2018,Corrientes,Energía,0.964614314
-2010,Corrientes,PIUP,0.001389625
-2011,Corrientes,PIUP,0.001383891
-2012,Corrientes,PIUP,0.001279201
-2013,Corrientes,PIUP,0.001219585
-2014,Corrientes,PIUP,0.001238848
-2015,Corrientes,PIUP,0.001191842
-2016,Corrientes,PIUP,0.001039723
-2017,Corrientes,PIUP,0.001166738
-2018,Corrientes,PIUP,0.001083807
-2010,Corrientes,AGSyOUT,-2.860402547
-2011,Corrientes,AGSyOUT,-3.122029162
-2012,Corrientes,AGSyOUT,1.046300602
-2013,Corrientes,AGSyOUT,0.958126609
-2014,Corrientes,AGSyOUT,0.656473036
-2015,Corrientes,AGSyOUT,-0.83364457
-2016,Corrientes,AGSyOUT,-2.144092031
-2017,Corrientes,AGSyOUT,-0.77948886
-2018,Corrientes,AGSyOUT,-2.887693749
-2010,Corrientes,Residuos,0.253320356
-2011,Corrientes,Residuos,0.264523046
-2012,Corrientes,Residuos,0.273456832
-2013,Corrientes,Residuos,0.281420823
-2014,Corrientes,Residuos,0.289158185
-2015,Corrientes,Residuos,0.301473738
-2016,Corrientes,Residuos,0.310214519
-2017,Corrientes,Residuos,0.318532886
-2018,Corrientes,Residuos,0.325741015
-2010,Chaco,Energía,1.119046621
-2011,Chaco,Energía,1.133853671
-2012,Chaco,Energía,1.092251294
-2013,Chaco,Energía,1.107317942
-2014,Chaco,Energía,1.102056948
-2015,Chaco,Energía,1.190145899
-2016,Chaco,Energía,1.191771112
-2017,Chaco,Energía,1.294913896
-2018,Chaco,Energía,1.126578473
-2010,Chaco,PIUP,0.002832086
-2011,Chaco,PIUP,0.002842363
-2012,Chaco,PIUP,0.002861345
-2013,Chaco,PIUP,0.002485547
-2014,Chaco,PIUP,0.002412424
-2015,Chaco,PIUP,0.002599216
-2016,Chaco,PIUP,0.002646761
-2017,Chaco,PIUP,0.002477552
-2018,Chaco,PIUP,0.002137054
-2010,Chaco,AGSyOUT,22.17271978
-2011,Chaco,AGSyOUT,24.25671523
-2012,Chaco,AGSyOUT,29.33027337
-2013,Chaco,AGSyOUT,29.92536779
-2014,Chaco,AGSyOUT,19.28768743
-2015,Chaco,AGSyOUT,19.52879046
-2016,Chaco,AGSyOUT,18.05368052
-2017,Chaco,AGSyOUT,21.16457497
-2018,Chaco,AGSyOUT,18.64859271
-2010,Chaco,Residuos,0.227863638
-2011,Chaco,Residuos,0.23743726
-2012,Chaco,Residuos,0.245081385
-2013,Chaco,Residuos,0.2520248
-2014,Chaco,Residuos,0.258929531
-2015,Chaco,Residuos,0.2645328
-2016,Chaco,Residuos,0.268171858
-2017,Chaco,Residuos,0.272665197
-2018,Chaco,Residuos,0.276902658
-2010,Chubut,Energía,7.577049075
-2011,Chubut,Energía,8.31618455
-2012,Chubut,Energía,7.931175086
-2013,Chubut,Energía,8.104604841
-2014,Chubut,Energía,8.237488435
-2015,Chubut,Energía,8.776145776
-2016,Chubut,Energía,8.726731642
-2017,Chubut,Energía,8.175618546
-2018,Chubut,Energía,8.537078291
-2010,Chubut,PIUP,0.68207198
-2011,Chubut,PIUP,0.691215101
-2012,Chubut,PIUP,0.67559252
-2013,Chubut,PIUP,0.723849628
-2014,Chubut,PIUP,0.733661743
-2015,Chubut,PIUP,0.710917471
-2016,Chubut,PIUP,0.709298288
-2017,Chubut,PIUP,0.713327204
-2018,Chubut,PIUP,0.726126521
-2010,Chubut,AGSyOUT,1.209426466
-2011,Chubut,AGSyOUT,1.140324522
-2012,Chubut,AGSyOUT,1.022936073
-2013,Chubut,AGSyOUT,0.90981836
-2014,Chubut,AGSyOUT,9.937453108
-2015,Chubut,AGSyOUT,10.07020107
-2016,Chubut,AGSyOUT,9.909835426
-2017,Chubut,AGSyOUT,9.884971585
-2018,Chubut,AGSyOUT,0.120259546
-2010,Chubut,Residuos,0.105504552
-2011,Chubut,Residuos,0.11154237
-2012,Chubut,Residuos,0.117283794
-2013,Chubut,Residuos,0.122938364
-2014,Chubut,Residuos,0.128541865
-2015,Chubut,Residuos,0.135390701
-2016,Chubut,Residuos,0.141230861
-2017,Chubut,Residuos,0.147447258
-2018,Chubut,Residuos,0.153480317
-2010,Entre Ríos,Energía,2.43934653
-2011,Entre Ríos,Energía,2.576999992
-2012,Entre Ríos,Energía,2.53643541
-2013,Entre Ríos,Energía,2.549021344
-2014,Entre Ríos,Energía,2.415543447
-2015,Entre Ríos,Energía,2.433348178
-2016,Entre Ríos,Energía,2.408558918
-2017,Entre Ríos,Energía,2.365743031
-2018,Entre Ríos,Energía,2.310745127
-2010,Entre Ríos,PIUP,0.012660791
-2011,Entre Ríos,PIUP,0.008918337
-2012,Entre Ríos,PIUP,0.008618752
-2013,Entre Ríos,PIUP,0.007312451
-2014,Entre Ríos,PIUP,0.00707205
-2015,Entre Ríos,PIUP,0.006538776
-2016,Entre Ríos,PIUP,0.006238817
-2017,Entre Ríos,PIUP,0.00624958
-2018,Entre Ríos,PIUP,0.005117306
-2010,Entre Ríos,AGSyOUT,11.63064352
-2011,Entre Ríos,AGSyOUT,11.26207916
-2012,Entre Ríos,AGSyOUT,11.27337392
-2013,Entre Ríos,AGSyOUT,11.43724987
-2014,Entre Ríos,AGSyOUT,10.29772202
-2015,Entre Ríos,AGSyOUT,8.74702354
-2016,Entre Ríos,AGSyOUT,7.693376527
-2017,Entre Ríos,AGSyOUT,7.754414587
-2018,Entre Ríos,AGSyOUT,7.351761377
-2010,Entre Ríos,Residuos,0.285837525
-2011,Entre Ríos,Residuos,0.29467001
-2012,Entre Ríos,Residuos,0.302099201
-2013,Entre Ríos,Residuos,0.309317086
-2014,Entre Ríos,Residuos,0.316559416
-2015,Entre Ríos,Residuos,0.323169417
-2016,Entre Ríos,Residuos,0.327500575
-2017,Entre Ríos,Residuos,0.3328935
-2018,Entre Ríos,Residuos,0.337940199
-2010,Formosa,Energía,0.487023064
-2011,Formosa,Energía,0.422651695
-2012,Formosa,Energía,0.454643356
-2013,Formosa,Energía,0.439943289
-2014,Formosa,Energía,0.424665673
-2015,Formosa,Energía,0.448817869
-2016,Formosa,Energía,0.444460361
-2017,Formosa,Energía,0.428410659
-2018,Formosa,Energía,0.418904949
-2010,Formosa,PIUP,0.000646563
-2011,Formosa,PIUP,0.000718672
-2012,Formosa,PIUP,0.000872169
-2013,Formosa,PIUP,0.000754345
-2014,Formosa,PIUP,0.000651054
-2015,Formosa,PIUP,0.000653266
-2016,Formosa,PIUP,0.000545298
-2017,Formosa,PIUP,0.000523898
-2018,Formosa,PIUP,0.000489343
-2010,Formosa,AGSyOUT,15.99214266
-2011,Formosa,AGSyOUT,9.855020331
-2012,Formosa,AGSyOUT,15.05101622
-2013,Formosa,AGSyOUT,15.07035779
-2014,Formosa,AGSyOUT,9.387215986
-2015,Formosa,AGSyOUT,8.168917697
-2016,Formosa,AGSyOUT,9.946568615
-2017,Formosa,AGSyOUT,8.788097223
-2018,Formosa,AGSyOUT,9.907840384
-2010,Formosa,Residuos,0.100936148
-2011,Formosa,Residuos,0.10697582
-2012,Formosa,Residuos,0.110989831
-2013,Formosa,Residuos,0.114462485
-2014,Formosa,Residuos,0.117679087
-2015,Formosa,Residuos,0.122111892
-2016,Formosa,Residuos,0.125047611
-2017,Formosa,Residuos,0.128062219
-2018,Formosa,Residuos,0.130694287
-2010,Jujuy,Energía,1.180904655
-2011,Jujuy,Energía,1.166630504
-2012,Jujuy,Energía,1.129043572
-2013,Jujuy,Energía,1.203939006
-2014,Jujuy,Energía,1.186105939
-2015,Jujuy,Energía,1.204911753
-2016,Jujuy,Energía,1.158897976
-2017,Jujuy,Energía,1.356160967
-2018,Jujuy,Energía,1.338590385
-2010,Jujuy,PIUP,0.001439242
-2011,Jujuy,PIUP,0.001457837
-2012,Jujuy,PIUP,0.001607397
-2013,Jujuy,PIUP,0.001452187
-2014,Jujuy,PIUP,0.001493232
-2015,Jujuy,PIUP,0.001512143
-2016,Jujuy,PIUP,0.001453486
-2017,Jujuy,PIUP,0.001509135
-2018,Jujuy,PIUP,0.001344776
-2010,Jujuy,AGSyOUT,2.124578771
-2011,Jujuy,AGSyOUT,1.84005051
-2012,Jujuy,AGSyOUT,1.752138924
-2013,Jujuy,AGSyOUT,2.03091226
-2014,Jujuy,AGSyOUT,1.003705267
-2015,Jujuy,AGSyOUT,0.909106085
-2016,Jujuy,AGSyOUT,0.512186628
-2017,Jujuy,AGSyOUT,0.988700919
-2018,Jujuy,AGSyOUT,0.712563762
-2010,Jujuy,Residuos,0.15734506
-2011,Jujuy,Residuos,0.16272464
-2012,Jujuy,Residuos,0.167004864
-2013,Jujuy,Residuos,0.169135301
-2014,Jujuy,Residuos,0.175416779
-2015,Jujuy,Residuos,0.180823893
-2016,Jujuy,Residuos,0.185387478
-2017,Jujuy,Residuos,0.188727322
-2018,Jujuy,Residuos,0.193024901
-2010,La Pampa,Energía,1.518017248
-2011,La Pampa,Energía,1.625724462
-2012,La Pampa,Energía,1.653151313
-2013,La Pampa,Energía,1.577499914
-2014,La Pampa,Energía,1.600885155
-2015,La Pampa,Energía,1.632255633
-2016,La Pampa,Energía,1.801804804
-2017,La Pampa,Energía,1.839089897
-2018,La Pampa,Energía,1.77838792
-2010,La Pampa,PIUP,0.001323773
-2011,La Pampa,PIUP,0.001291382
-2012,La Pampa,PIUP,0.001434645
-2013,La Pampa,PIUP,0.001305879
-2014,La Pampa,PIUP,0.00128777
-2015,La Pampa,PIUP,0.00145935
-2016,La Pampa,PIUP,0.001663636
-2017,La Pampa,PIUP,0.001803349
-2018,La Pampa,PIUP,0.001664274
-2010,La Pampa,AGSyOUT,4.433550867
-2011,La Pampa,AGSyOUT,2.108964234
-2012,La Pampa,AGSyOUT,2.641895684
-2013,La Pampa,AGSyOUT,3.535716648
-2014,La Pampa,AGSyOUT,8.84617711
-2015,La Pampa,AGSyOUT,4.913566831
-2016,La Pampa,AGSyOUT,3.109858617
-2017,La Pampa,AGSyOUT,9.683406909
-2018,La Pampa,AGSyOUT,13.94155845
-2010,La Pampa,Residuos,0.075884404
-2011,La Pampa,Residuos,0.078952198
-2012,La Pampa,Residuos,0.081377263
-2013,La Pampa,Residuos,0.083734459
-2014,La Pampa,Residuos,0.086043871
-2015,La Pampa,Residuos,0.089293165
-2016,La Pampa,Residuos,0.091921592
-2017,La Pampa,Residuos,0.094766717
-2018,La Pampa,Residuos,0.097491885
-2010,La Rioja,Energía,0.361544492
-2011,La Rioja,Energía,0.39963618
-2012,La Rioja,Energía,0.415691117
-2013,La Rioja,Energía,0.441959058
-2014,La Rioja,Energía,0.419178657
-2015,La Rioja,Energía,0.441563013
-2016,La Rioja,Energía,0.429566125
-2017,La Rioja,Energía,0.446046782
-2018,La Rioja,Energía,0.418908303
-2010,La Rioja,PIUP,0.000918797
-2011,La Rioja,PIUP,0.000841038
-2012,La Rioja,PIUP,0.001417301
-2013,La Rioja,PIUP,0.000682738
-2014,La Rioja,PIUP,0.00066855
-2015,La Rioja,PIUP,0.000671437
-2016,La Rioja,PIUP,0.000665436
-2017,La Rioja,PIUP,0.000695853
-2018,La Rioja,PIUP,0.000541601
-2010,La Rioja,AGSyOUT,1.478279709
-2011,La Rioja,AGSyOUT,1.462291299
-2012,La Rioja,AGSyOUT,2.753199958
-2013,La Rioja,AGSyOUT,2.059345963
-2014,La Rioja,AGSyOUT,1.596947356
-2015,La Rioja,AGSyOUT,2.158328586
-2016,La Rioja,AGSyOUT,2.334812758
-2017,La Rioja,AGSyOUT,0.891550241
-2018,La Rioja,AGSyOUT,0.740812036
-2010,La Rioja,Residuos,0.071460311
-2011,La Rioja,Residuos,0.075471078
-2012,La Rioja,Residuos,0.078728671
-2013,La Rioja,Residuos,0.081872389
-2014,La Rioja,Residuos,0.084930803
-2015,La Rioja,Residuos,0.08872526
-2016,La Rioja,Residuos,0.091826918
-2017,La Rioja,Residuos,0.095138047
-2018,La Rioja,Residuos,0.098310356
-2010,Mendoza,Energía,7.334202301
-2011,Mendoza,Energía,7.556483989
-2012,Mendoza,Energía,7.673402284
-2013,Mendoza,Energía,8.048220489
-2014,Mendoza,Energía,7.85530246
-2015,Mendoza,Energía,8.361290022
-2016,Mendoza,Energía,7.904254048
-2017,Mendoza,Energía,7.413508364
-2018,Mendoza,Energía,7.371320284
-2010,Mendoza,PIUP,0.012633385
-2011,Mendoza,PIUP,0.012168895
-2012,Mendoza,PIUP,0.010457441
-2013,Mendoza,PIUP,0.009184575
-2014,Mendoza,PIUP,0.008920418
-2015,Mendoza,PIUP,0.011300227
-2016,Mendoza,PIUP,0.00812099
-2017,Mendoza,PIUP,0.008739822
-2018,Mendoza,PIUP,0.007895999
-2010,Mendoza,AGSyOUT,1.056323421
-2011,Mendoza,AGSyOUT,0.8681139
-2012,Mendoza,AGSyOUT,0.786791827
-2013,Mendoza,AGSyOUT,0.852980448
-2014,Mendoza,AGSyOUT,0.811548192
-2015,Mendoza,AGSyOUT,0.849784704
-2016,Mendoza,AGSyOUT,0.974257929
-2017,Mendoza,AGSyOUT,1.722029924
-2018,Mendoza,AGSyOUT,1.032219409
-2010,Mendoza,Residuos,0.408185081
-2011,Mendoza,Residuos,0.424041833
-2012,Mendoza,Residuos,0.437655774
-2013,Mendoza,Residuos,0.45096257
-2014,Mendoza,Residuos,0.46420566
-2015,Mendoza,Residuos,0.482984463
-2016,Mendoza,Residuos,0.498403096
-2017,Mendoza,Residuos,0.515062901
-2018,Mendoza,Residuos,0.53110582
-2010,Misiones,Energía,1.311720449
-2011,Misiones,Energía,1.438653712
-2012,Misiones,Energía,1.442889819
-2013,Misiones,Energía,1.472939186
-2014,Misiones,Energía,1.383744976
-2015,Misiones,Energía,1.325442608
-2016,Misiones,Energía,1.220054946
-2017,Misiones,Energía,1.304169363
-2018,Misiones,Energía,1.297589147
-2010,Misiones,PIUP,0.023383781
-2011,Misiones,PIUP,0.019780304
-2012,Misiones,PIUP,0.015460532
-2013,Misiones,PIUP,0.013980966
-2014,Misiones,PIUP,0.012389525
-2015,Misiones,PIUP,0.002760514
-2016,Misiones,PIUP,0.003116716
-2017,Misiones,PIUP,0.003030633
-2018,Misiones,PIUP,0.00207355
-2010,Misiones,AGSyOUT,-2.154956531
-2011,Misiones,AGSyOUT,-1.945276578
-2012,Misiones,AGSyOUT,-4.057771476
-2013,Misiones,AGSyOUT,-3.656925718
-2014,Misiones,AGSyOUT,-7.90591646
-2015,Misiones,AGSyOUT,-6.375212903
-2016,Misiones,AGSyOUT,-4.379390709
-2017,Misiones,AGSyOUT,-3.634224064
-2018,Misiones,AGSyOUT,-3.813353946
-2010,Misiones,Residuos,0.207775305
-2011,Misiones,Residuos,0.215315053
-2012,Misiones,Residuos,0.221437319
-2013,Misiones,Residuos,0.22706925
-2014,Misiones,Residuos,0.232489513
-2015,Misiones,Residuos,0.235367563
-2016,Misiones,Residuos,0.236741784
-2017,Misiones,Residuos,0.256551706
-2018,Misiones,Residuos,0.261717058
-2010,Neuquén,Energía,12.88222956
-2011,Neuquén,Energía,13.39844282
-2012,Neuquén,Energía,12.96427906
-2013,Neuquén,Energía,12.14920276
-2014,Neuquén,Energía,13.24820888
-2015,Neuquén,Energía,13.29451761
-2016,Neuquén,Energía,14.57631916
-2017,Neuquén,Energía,14.68039519
-2018,Neuquén,Energía,16.09998265
-2010,Neuquén,PIUP,0.007967906
-2011,Neuquén,PIUP,0.010810281
-2012,Neuquén,PIUP,0.007571819
-2013,Neuquén,PIUP,0.008972626
-2014,Neuquén,PIUP,0.008962085
-2015,Neuquén,PIUP,0.011547289
-2016,Neuquén,PIUP,0.009931628
-2017,Neuquén,PIUP,0.008777605
-2018,Neuquén,PIUP,0.009968099
-2010,Neuquén,AGSyOUT,0.533169851
-2011,Neuquén,AGSyOUT,0.512459782
-2012,Neuquén,AGSyOUT,0.353271208
-2013,Neuquén,AGSyOUT,0.146585578
-2014,Neuquén,AGSyOUT,-0.942080268
-2015,Neuquén,AGSyOUT,-0.837952857
-2016,Neuquén,AGSyOUT,-0.834324229
-2017,Neuquén,AGSyOUT,-0.845781101
-2018,Neuquén,AGSyOUT,-0.985396087
-2010,Neuquén,Residuos,0.117850229
-2011,Neuquén,Residuos,0.123354284
-2012,Neuquén,Residuos,0.127233686
-2013,Neuquén,Residuos,0.131146712
-2014,Neuquén,Residuos,0.134942126
-2015,Neuquén,Residuos,0.140135271
-2016,Neuquén,Residuos,0.144188213
-2017,Neuquén,Residuos,0.148824302
-2018,Neuquén,Residuos,0.153198738
-2010,Río Negro,Energía,3.355428909
-2011,Río Negro,Energía,3.491221909
-2012,Río Negro,Energía,3.59268064
-2013,Río Negro,Energía,3.812364698
-2014,Río Negro,Energía,3.988517186
-2015,Río Negro,Energía,4.051313305
-2016,Río Negro,Energía,4.096955141
-2017,Río Negro,Energía,3.920693518
-2018,Río Negro,Energía,4.150184762
-2010,Río Negro,PIUP,0.058623779
-2011,Río Negro,PIUP,0.06157576
-2012,Río Negro,PIUP,0.065071755
-2013,Río Negro,PIUP,0.067342801
-2014,Río Negro,PIUP,0.069739119
-2015,Río Negro,PIUP,0.071602796
-2016,Río Negro,PIUP,0.067833971
-2017,Río Negro,PIUP,0.069580268
-2018,Río Negro,PIUP,0.066293423
-2010,Río Negro,AGSyOUT,0.889598751
-2011,Río Negro,AGSyOUT,0.8890975
-2012,Río Negro,AGSyOUT,0.829431318
-2013,Río Negro,AGSyOUT,0.767592639
-2014,Río Negro,AGSyOUT,0.710100272
-2015,Río Negro,AGSyOUT,0.788097445
-2016,Río Negro,AGSyOUT,0.798428332
-2017,Río Negro,AGSyOUT,0.963267269
-2018,Río Negro,AGSyOUT,1.210105297
-2010,Río Negro,Residuos,0.136141508
-2011,Río Negro,Residuos,0.140809633
-2012,Río Negro,Residuos,0.144787117
-2013,Río Negro,Residuos,0.148725887
-2014,Río Negro,Residuos,0.152656783
-2015,Río Negro,Residuos,0.157897229
-2016,Río Negro,Residuos,0.16199173
-2017,Río Negro,Residuos,0.166641002
-2018,Río Negro,Residuos,0.171151316
-2010,Salta,Energía,5.181925532
-2011,Salta,Energía,5.353105105
-2012,Salta,Energía,5.250372776
-2013,Salta,Energía,5.151896354
-2014,Salta,Energía,5.113924538
-2015,Salta,Energía,5.278331946
-2016,Salta,Energía,5.346699574
-2017,Salta,Energía,5.452389033
-2018,Salta,Energía,5.165226717
-2010,Salta,PIUP,0.004909948
-2011,Salta,PIUP,0.013303066
-2012,Salta,PIUP,0.019710567
-2013,Salta,PIUP,0.019851506
-2014,Salta,PIUP,0.024579226
-2015,Salta,PIUP,0.023799657
-2016,Salta,PIUP,0.011892412
-2017,Salta,PIUP,0.015408334
-2018,Salta,PIUP,0.010798836
-2010,Salta,AGSyOUT,13.96371538
-2011,Salta,AGSyOUT,14.35432501
-2012,Salta,AGSyOUT,33.51073182
-2013,Salta,AGSyOUT,33.66944217
-2014,Salta,AGSyOUT,18.95768011
-2015,Salta,AGSyOUT,13.53660545
-2016,Salta,AGSyOUT,9.936473029
-2017,Salta,AGSyOUT,8.787675636
-2018,Salta,AGSyOUT,8.30780949
-2010,Salta,Residuos,0.253602242
-2011,Salta,Residuos,0.263987088
-2012,Salta,Residuos,0.272827784
-2013,Salta,Residuos,0.279861218
-2014,Salta,Residuos,0.288928125
-2015,Salta,Residuos,0.298875911
-2016,Salta,Residuos,0.30628616
-2017,Salta,Residuos,0.316464339
-2018,Salta,Residuos,0.323967119
-2010,San Juan,Energía,1.344928193
-2011,San Juan,Energía,1.58559219
-2012,San Juan,Energía,1.613485699
-2013,San Juan,Energía,1.625762868
-2014,San Juan,Energía,1.536623389
-2015,San Juan,Energía,1.594058041
-2016,San Juan,Energía,1.450813748
-2017,San Juan,Energía,1.498765398
-2018,San Juan,Energía,1.50563632
-2010,San Juan,PIUP,0.242303983
-2011,San Juan,PIUP,0.246245237
-2012,San Juan,PIUP,0.256766863
-2013,San Juan,PIUP,0.268281534
-2014,San Juan,PIUP,0.279242867
-2015,San Juan,PIUP,0.285592632
-2016,San Juan,PIUP,0.272706912
-2017,San Juan,PIUP,0.121469554
-2018,San Juan,PIUP,0.154677366
-2010,San Juan,AGSyOUT,0.001698036
-2011,San Juan,AGSyOUT,0.116454666
-2012,San Juan,AGSyOUT,0.005144679
-2013,San Juan,AGSyOUT,0.002527172
-2014,San Juan,AGSyOUT,0.003328573
-2015,San Juan,AGSyOUT,0.070676848
-2016,San Juan,AGSyOUT,0.087030579
-2017,San Juan,AGSyOUT,0.096807984
-2018,San Juan,AGSyOUT,0.121414055
-2010,San Juan,Residuos,0.152770686
-2011,San Juan,Residuos,0.158126931
-2012,San Juan,Residuos,0.162269763
-2013,San Juan,Residuos,0.166353863
-2014,San Juan,Residuos,0.170418266
-2015,San Juan,Residuos,0.176240632
-2016,San Juan,Residuos,0.180818121
-2017,San Juan,Residuos,0.185951303
-2018,San Juan,Residuos,0.190909704
-2010,San Luis,Energía,1.016704875
-2011,San Luis,Energía,1.046834651
-2012,San Luis,Energía,1.088311234
-2013,San Luis,Energía,1.251909882
-2014,San Luis,Energía,1.113236957
-2015,San Luis,Energía,1.167304224
-2016,San Luis,Energía,1.128018744
-2017,San Luis,Energía,1.106898
-2018,San Luis,Energía,1.093064582
-2010,San Luis,PIUP,0.055846821
-2011,San Luis,PIUP,0.008608462
-2012,San Luis,PIUP,0.001140664
-2013,San Luis,PIUP,0.230717538
-2014,San Luis,PIUP,0.803333666
-2015,San Luis,PIUP,0.859656669
-2016,San Luis,PIUP,0.612447867
-2017,San Luis,PIUP,0.640761407
-2018,San Luis,PIUP,0.418979596
-2010,San Luis,AGSyOUT,5.506721605
-2011,San Luis,AGSyOUT,4.252639804
-2012,San Luis,AGSyOUT,4.51819781
-2013,San Luis,AGSyOUT,1.907510287
-2014,San Luis,AGSyOUT,6.256109617
-2015,San Luis,AGSyOUT,3.850655844
-2016,San Luis,AGSyOUT,3.955511034
-2017,San Luis,AGSyOUT,8.316240954
-2018,San Luis,AGSyOUT,7.564169759
-2010,San Luis,Residuos,0.091379801
-2011,San Luis,Residuos,0.095813439
-2012,San Luis,Residuos,0.099348857
-2013,San Luis,Residuos,0.102805731
-2014,San Luis,Residuos,0.106205361
-2015,San Luis,Residuos,0.111501122
-2016,San Luis,Residuos,0.115936873
-2017,San Luis,Residuos,0.12067663
-2018,San Luis,Residuos,0.125252053
-2010,Santa Cruz,Energía,6.389888481
-2011,Santa Cruz,Energía,6.116580159
-2012,Santa Cruz,Energía,6.363173877
-2013,Santa Cruz,Energía,6.466552184
-2014,Santa Cruz,Energía,6.571709108
-2015,Santa Cruz,Energía,6.641343414
-2016,Santa Cruz,Energía,6.509094718
-2017,Santa Cruz,Energía,6.304926746
-2018,Santa Cruz,Energía,6.147447738
-2010,Santa Cruz,PIUP,0.005620454
-2011,Santa Cruz,PIUP,0.006076465
-2012,Santa Cruz,PIUP,0.006135122
-2013,Santa Cruz,PIUP,0.006336782
-2014,Santa Cruz,PIUP,0.004910722
-2015,Santa Cruz,PIUP,0.003877668
-2016,Santa Cruz,PIUP,0.004071393
-2017,Santa Cruz,PIUP,0.003813747
-2018,Santa Cruz,PIUP,0.003815698
-2010,Santa Cruz,AGSyOUT,0.7947542
-2011,Santa Cruz,AGSyOUT,0.756368736
-2012,Santa Cruz,AGSyOUT,0.829813777
-2013,Santa Cruz,AGSyOUT,0.749015651
-2014,Santa Cruz,AGSyOUT,0.739496625
-2015,Santa Cruz,AGSyOUT,0.757081437
-2016,Santa Cruz,AGSyOUT,0.755695709
-2017,Santa Cruz,AGSyOUT,0.730226508
-2018,Santa Cruz,AGSyOUT,0.750570673
-2010,Santa Cruz,Residuos,0.052361882
-2011,Santa Cruz,Residuos,0.054727791
-2012,Santa Cruz,Residuos,0.056995125
-2013,Santa Cruz,Residuos,0.05932602
-2014,Santa Cruz,Residuos,0.061640172
-2015,Santa Cruz,Residuos,0.064648603
-2016,Santa Cruz,Residuos,0.067123821
-2017,Santa Cruz,Residuos,0.069952855
-2018,Santa Cruz,Residuos,0.072701485
-2010,Santa Fe,Energía,11.84385245
-2011,Santa Fe,Energía,13.42226036
-2012,Santa Fe,Energía,13.14617853
-2013,Santa Fe,Energía,13.53816979
-2014,Santa Fe,Energía,13.13390417
-2015,Santa Fe,Energía,14.1123513
-2016,Santa Fe,Energía,14.91949396
-2017,Santa Fe,Energía,13.95871335
-2018,Santa Fe,Energía,14.20010516
-2010,Santa Fe,PIUP,0.017428752
-2011,Santa Fe,PIUP,0.018212452
-2012,Santa Fe,PIUP,0.017441509
-2013,Santa Fe,PIUP,0.017475087
-2014,Santa Fe,PIUP,0.018477931
-2015,Santa Fe,PIUP,0.018194727
-2016,Santa Fe,PIUP,0.016415736
-2017,Santa Fe,PIUP,0.016066919
-2018,Santa Fe,PIUP,0.014197936
-2010,Santa Fe,AGSyOUT,11.84234476
-2011,Santa Fe,AGSyOUT,12.55496373
-2012,Santa Fe,AGSyOUT,13.55966644
-2013,Santa Fe,AGSyOUT,15.02586661
-2014,Santa Fe,AGSyOUT,14.44507069
-2015,Santa Fe,AGSyOUT,13.07148485
-2016,Santa Fe,AGSyOUT,12.39495957
-2017,Santa Fe,AGSyOUT,12.01757946
-2018,Santa Fe,AGSyOUT,11.47384407
-2010,Santa Fe,Residuos,0.942814984
-2011,Santa Fe,Residuos,0.948870458
-2012,Santa Fe,Residuos,0.991422852
-2013,Santa Fe,Residuos,1.019102472
-2014,Santa Fe,Residuos,1.046795104
-2015,Santa Fe,Residuos,1.090476181
-2016,Santa Fe,Residuos,1.16601215
-2017,Santa Fe,Residuos,1.201481405
-2018,Santa Fe,Residuos,1.234164665
-2010,Santiago del Estero,Energía,1.003926981
-2011,Santiago del Estero,Energía,1.002577145
-2012,Santiago del Estero,Energía,0.993060677
-2013,Santiago del Estero,Energía,0.997385606
-2014,Santiago del Estero,Energía,1.0143885
-2015,Santiago del Estero,Energía,1.055287987
-2016,Santiago del Estero,Energía,1.139507355
-2017,Santiago del Estero,Energía,1.224630955
-2018,Santiago del Estero,Energía,1.199954034
-2010,Santiago del Estero,PIUP,0.001985502
-2011,Santiago del Estero,PIUP,0.002143552
-2012,Santiago del Estero,PIUP,0.0024678
-2013,Santiago del Estero,PIUP,0.002109222
-2014,Santiago del Estero,PIUP,0.002007431
-2015,Santiago del Estero,PIUP,0.008557598
-2016,Santiago del Estero,PIUP,0.003930224
-2017,Santiago del Estero,PIUP,0.007723784
-2018,Santiago del Estero,PIUP,0.001205197
-2010,Santiago del Estero,AGSyOUT,26.50996376
-2011,Santiago del Estero,AGSyOUT,29.45033986
-2012,Santiago del Estero,AGSyOUT,29.13710268
-2013,Santiago del Estero,AGSyOUT,30.1201421
-2014,Santiago del Estero,AGSyOUT,21.13216658
-2015,Santiago del Estero,AGSyOUT,17.47719408
-2016,Santiago del Estero,AGSyOUT,14.97259748
-2017,Santiago del Estero,AGSyOUT,18.71722627
-2018,Santiago del Estero,AGSyOUT,15.18068551
-2010,Santiago del Estero,Residuos,0.157408143
-2011,Santiago del Estero,Residuos,0.161616446
-2012,Santiago del Estero,Residuos,0.165457496
-2013,Santiago del Estero,Residuos,0.1692008
-2014,Santiago del Estero,Residuos,0.172870919
-2015,Santiago del Estero,Residuos,0.178176806
-2016,Santiago del Estero,Residuos,0.181931003
-2017,Santiago del Estero,Residuos,0.186397192
-2018,Santiago del Estero,Residuos,0.190659362
-2010,Tucumán,Energía,4.074415062
-2011,Tucumán,Energía,4.481204329
-2012,Tucumán,Energía,4.599206345
-2013,Tucumán,Energía,4.549574334
-2014,Tucumán,Energía,4.84709457
-2015,Tucumán,Energía,5.284838197
-2016,Tucumán,Energía,5.080315985
-2017,Tucumán,Energía,4.92836601
-2018,Tucumán,Energía,5.053513523
-2010,Tucumán,PIUP,0.010019942
-2011,Tucumán,PIUP,0.010018921
-2012,Tucumán,PIUP,0.008307954
-2013,Tucumán,PIUP,0.007362496
-2014,Tucumán,PIUP,0.006399461
-2015,Tucumán,PIUP,0.002319515
-2016,Tucumán,PIUP,0.003068368
-2017,Tucumán,PIUP,0.003854636
-2018,Tucumán,PIUP,0.003300833
-2010,Tucumán,AGSyOUT,2.614701783
-2011,Tucumán,AGSyOUT,2.17423827
-2012,Tucumán,AGSyOUT,2.871672154
-2013,Tucumán,AGSyOUT,2.594085506
-2014,Tucumán,AGSyOUT,2.279634343
-2015,Tucumán,AGSyOUT,2.074551273
-2016,Tucumán,AGSyOUT,1.383715398
-2017,Tucumán,AGSyOUT,1.523344562
-2018,Tucumán,AGSyOUT,1.052320824
-2010,Tucumán,Residuos,0.402183759
-2011,Tucumán,Residuos,0.424035841
-2012,Tucumán,Residuos,0.443224257
-2013,Tucumán,Residuos,0.455868273
-2014,Tucumán,Residuos,0.476135221
-2015,Tucumán,Residuos,0.493690067
-2016,Tucumán,Residuos,0.510281591
-2017,Tucumán,Residuos,0.520319586
-2018,Tucumán,Residuos,0.533435215
-2010,Tierra del Fuego,Energía,2.773064403
-2011,Tierra del Fuego,Energía,2.712711728
-2012,Tierra del Fuego,Energía,2.820003837
-2013,Tierra del Fuego,Energía,2.69844428
-2014,Tierra del Fuego,Energía,2.772752977
-2015,Tierra del Fuego,Energía,2.733672872
-2016,Tierra del Fuego,Energía,2.855816825
-2017,Tierra del Fuego,Energía,3.049085324
-2018,Tierra del Fuego,Energía,2.901147856
-2010,Tierra del Fuego,PIUP,0.000747158
-2011,Tierra del Fuego,PIUP,0.000704243
-2012,Tierra del Fuego,PIUP,0.001164669
-2013,Tierra del Fuego,PIUP,0.000881073
-2014,Tierra del Fuego,PIUP,0.000998225
-2015,Tierra del Fuego,PIUP,0.003945077
-2016,Tierra del Fuego,PIUP,0.004193523
-2017,Tierra del Fuego,PIUP,0.004026534
-2018,Tierra del Fuego,PIUP,0.003348406
-2010,Tierra del Fuego,AGSyOUT,2.222241618
-2011,Tierra del Fuego,AGSyOUT,2.185195544
-2012,Tierra del Fuego,AGSyOUT,2.180510683
-2013,Tierra del Fuego,AGSyOUT,2.165360723
-2014,Tierra del Fuego,AGSyOUT,0.295710773
-2015,Tierra del Fuego,AGSyOUT,0.291793162
-2016,Tierra del Fuego,AGSyOUT,0.375078012
-2017,Tierra del Fuego,AGSyOUT,0.247630572
-2018,Tierra del Fuego,AGSyOUT,0.203152163
-2010,Tierra del Fuego,Residuos,0.025482683
-2011,Tierra del Fuego,Residuos,0.026930299
-2012,Tierra del Fuego,Residuos,0.028156741
-2013,Tierra del Fuego,Residuos,0.029385312
-2014,Tierra del Fuego,Residuos,0.030647966
-2015,Tierra del Fuego,Residuos,0.032136279
-2016,Tierra del Fuego,Residuos,0.033362403
-2017,Tierra del Fuego,Residuos,0.034702376
-2018,Tierra del Fuego,Residuos,0.036008104
+"anio","provincia","sector","valor_en_mtco2e"
+"2010","Ciudad AutÃ³noma de Buenos Aires","EnergÃ­a","17.88"
+"2011","Ciudad AutÃ³noma de Buenos Aires","EnergÃ­a","20.05"
+"2012","Ciudad AutÃ³noma de Buenos Aires","EnergÃ­a","19.57"
+"2013","Ciudad AutÃ³noma de Buenos Aires","EnergÃ­a","18.36"
+"2014","Ciudad AutÃ³noma de Buenos Aires","EnergÃ­a","17.1"
+"2015","Ciudad AutÃ³noma de Buenos Aires","EnergÃ­a","17.75"
+"2016","Ciudad AutÃ³noma de Buenos Aires","EnergÃ­a","17.46"
+"2017","Ciudad AutÃ³noma de Buenos Aires","EnergÃ­a","16.62"
+"2018","Ciudad AutÃ³noma de Buenos Aires","EnergÃ­a","14.69"
+"2010","Ciudad AutÃ³noma de Buenos Aires","PIUP","0.01"
+"2011","Ciudad AutÃ³noma de Buenos Aires","PIUP","0.01"
+"2012","Ciudad AutÃ³noma de Buenos Aires","PIUP","0.01"
+"2013","Ciudad AutÃ³noma de Buenos Aires","PIUP","0.01"
+"2014","Ciudad AutÃ³noma de Buenos Aires","PIUP","0.01"
+"2015","Ciudad AutÃ³noma de Buenos Aires","PIUP","0.01"
+"2016","Ciudad AutÃ³noma de Buenos Aires","PIUP","0.01"
+"2017","Ciudad AutÃ³noma de Buenos Aires","PIUP","0.01"
+"2018","Ciudad AutÃ³noma de Buenos Aires","PIUP","0.01"
+"2010","Ciudad AutÃ³noma de Buenos Aires","AGSyOUT","0"
+"2011","Ciudad AutÃ³noma de Buenos Aires","AGSyOUT","0"
+"2012","Ciudad AutÃ³noma de Buenos Aires","AGSyOUT","0.01"
+"2013","Ciudad AutÃ³noma de Buenos Aires","AGSyOUT","0"
+"2014","Ciudad AutÃ³noma de Buenos Aires","AGSyOUT","0"
+"2015","Ciudad AutÃ³noma de Buenos Aires","AGSyOUT","0"
+"2016","Ciudad AutÃ³noma de Buenos Aires","AGSyOUT","0"
+"2017","Ciudad AutÃ³noma de Buenos Aires","AGSyOUT","0"
+"2018","Ciudad AutÃ³noma de Buenos Aires","AGSyOUT","0"
+"2010","Ciudad AutÃ³noma de Buenos Aires","Residuos","0.66"
+"2011","Ciudad AutÃ³noma de Buenos Aires","Residuos","0.67"
+"2012","Ciudad AutÃ³noma de Buenos Aires","Residuos","0.73"
+"2013","Ciudad AutÃ³noma de Buenos Aires","Residuos","0.83"
+"2014","Ciudad AutÃ³noma de Buenos Aires","Residuos","0.9"
+"2015","Ciudad AutÃ³noma de Buenos Aires","Residuos","0.93"
+"2016","Ciudad AutÃ³noma de Buenos Aires","Residuos","0.96"
+"2017","Ciudad AutÃ³noma de Buenos Aires","Residuos","0.97"
+"2018","Ciudad AutÃ³noma de Buenos Aires","Residuos","0.99"
+"2010","Buenos Aires","EnergÃ­a","56.12"
+"2011","Buenos Aires","EnergÃ­a","58.59"
+"2012","Buenos Aires","EnergÃ­a","58.64"
+"2013","Buenos Aires","EnergÃ­a","59.87"
+"2014","Buenos Aires","EnergÃ­a","59.22"
+"2015","Buenos Aires","EnergÃ­a","59.7"
+"2016","Buenos Aires","EnergÃ­a","59.79"
+"2017","Buenos Aires","EnergÃ­a","56.91"
+"2018","Buenos Aires","EnergÃ­a","56.23"
+"2010","Buenos Aires","PIUP","0.91"
+"2011","Buenos Aires","PIUP","1.1"
+"2012","Buenos Aires","PIUP","1.08"
+"2013","Buenos Aires","PIUP","1.1"
+"2014","Buenos Aires","PIUP","0.96"
+"2015","Buenos Aires","PIUP","0.95"
+"2016","Buenos Aires","PIUP","1"
+"2017","Buenos Aires","PIUP","1.03"
+"2018","Buenos Aires","PIUP","0.87"
+"2010","Buenos Aires","AGSyOUT","23.09"
+"2011","Buenos Aires","AGSyOUT","17.89"
+"2012","Buenos Aires","AGSyOUT","24.55"
+"2013","Buenos Aires","AGSyOUT","26.88"
+"2014","Buenos Aires","AGSyOUT","26.62"
+"2015","Buenos Aires","AGSyOUT","22.92"
+"2016","Buenos Aires","AGSyOUT","27.68"
+"2017","Buenos Aires","AGSyOUT","21.77"
+"2018","Buenos Aires","AGSyOUT","30.46"
+"2010","Buenos Aires","Residuos","4.68"
+"2011","Buenos Aires","Residuos","4.71"
+"2012","Buenos Aires","Residuos","4.95"
+"2013","Buenos Aires","Residuos","5.16"
+"2014","Buenos Aires","Residuos","5.45"
+"2015","Buenos Aires","Residuos","5.71"
+"2016","Buenos Aires","Residuos","5.9"
+"2017","Buenos Aires","Residuos","6.06"
+"2018","Buenos Aires","Residuos","6.22"
+"2010","Catamarca","EnergÃ­a","0.64"
+"2011","Catamarca","EnergÃ­a","0.7"
+"2012","Catamarca","EnergÃ­a","0.69"
+"2013","Catamarca","EnergÃ­a","0.74"
+"2014","Catamarca","EnergÃ­a","0.74"
+"2015","Catamarca","EnergÃ­a","0.76"
+"2016","Catamarca","EnergÃ­a","0.68"
+"2017","Catamarca","EnergÃ­a","0.68"
+"2018","Catamarca","EnergÃ­a","0.57"
+"2010","Catamarca","PIUP","0"
+"2011","Catamarca","PIUP","0"
+"2012","Catamarca","PIUP","0"
+"2013","Catamarca","PIUP","0.01"
+"2014","Catamarca","PIUP","0.01"
+"2015","Catamarca","PIUP","0"
+"2016","Catamarca","PIUP","0"
+"2017","Catamarca","PIUP","0"
+"2018","Catamarca","PIUP","0"
+"2010","Catamarca","AGSyOUT","0.69"
+"2011","Catamarca","AGSyOUT","1.11"
+"2012","Catamarca","AGSyOUT","1.26"
+"2013","Catamarca","AGSyOUT","1.41"
+"2014","Catamarca","AGSyOUT","0.41"
+"2015","Catamarca","AGSyOUT","0.21"
+"2016","Catamarca","AGSyOUT","0.72"
+"2017","Catamarca","AGSyOUT","1.19"
+"2018","Catamarca","AGSyOUT","0.17"
+"2010","Catamarca","Residuos","0.07"
+"2011","Catamarca","Residuos","0.07"
+"2012","Catamarca","Residuos","0.08"
+"2013","Catamarca","Residuos","0.08"
+"2014","Catamarca","Residuos","0.08"
+"2015","Catamarca","Residuos","0.09"
+"2016","Catamarca","Residuos","0.09"
+"2017","Catamarca","Residuos","0.09"
+"2018","Catamarca","Residuos","0.09"
+"2010","Cordoba","EnergÃ­a","10.27"
+"2011","Cordoba","EnergÃ­a","11.2"
+"2012","Cordoba","EnergÃ­a","10.97"
+"2013","Cordoba","EnergÃ­a","11.03"
+"2014","Cordoba","EnergÃ­a","10.31"
+"2015","Cordoba","EnergÃ­a","10.95"
+"2016","Cordoba","EnergÃ­a","11"
+"2017","Cordoba","EnergÃ­a","10.83"
+"2018","Cordoba","EnergÃ­a","10.65"
+"2010","Cordoba","PIUP","0.23"
+"2011","Cordoba","PIUP","0.27"
+"2012","Cordoba","PIUP","0.27"
+"2013","Cordoba","PIUP","0.25"
+"2014","Cordoba","PIUP","0.26"
+"2015","Cordoba","PIUP","0.33"
+"2016","Cordoba","PIUP","0.3"
+"2017","Cordoba","PIUP","0.33"
+"2018","Cordoba","PIUP","0.26"
+"2010","Cordoba","AGSyOUT","17.25"
+"2011","Cordoba","AGSyOUT","13.75"
+"2012","Cordoba","AGSyOUT","11.03"
+"2013","Cordoba","AGSyOUT","5.63"
+"2014","Cordoba","AGSyOUT","12.79"
+"2015","Cordoba","AGSyOUT","12.53"
+"2016","Cordoba","AGSyOUT","9.01"
+"2017","Cordoba","AGSyOUT","11.41"
+"2018","Cordoba","AGSyOUT","15.54"
+"2010","Cordoba","Residuos","1.02"
+"2011","Cordoba","Residuos","1.05"
+"2012","Cordoba","Residuos","1.08"
+"2013","Cordoba","Residuos","1.11"
+"2014","Cordoba","Residuos","1.14"
+"2015","Cordoba","Residuos","1.18"
+"2016","Cordoba","Residuos","1.21"
+"2017","Cordoba","Residuos","1.24"
+"2018","Cordoba","Residuos","1.27"
+"2010","Corrientes","EnergÃ­a","1.02"
+"2011","Corrientes","EnergÃ­a","1.07"
+"2012","Corrientes","EnergÃ­a","1.06"
+"2013","Corrientes","EnergÃ­a","0.89"
+"2014","Corrientes","EnergÃ­a","0.84"
+"2015","Corrientes","EnergÃ­a","0.88"
+"2016","Corrientes","EnergÃ­a","0.92"
+"2017","Corrientes","EnergÃ­a","1.02"
+"2018","Corrientes","EnergÃ­a","0.96"
+"2010","Corrientes","PIUP","0"
+"2011","Corrientes","PIUP","0"
+"2012","Corrientes","PIUP","0"
+"2013","Corrientes","PIUP","0"
+"2014","Corrientes","PIUP","0"
+"2015","Corrientes","PIUP","0"
+"2016","Corrientes","PIUP","0"
+"2017","Corrientes","PIUP","0"
+"2018","Corrientes","PIUP","0"
+"2010","Corrientes","AGSyOUT","-2.86"
+"2011","Corrientes","AGSyOUT","-3.12"
+"2012","Corrientes","AGSyOUT","1.05"
+"2013","Corrientes","AGSyOUT","0.96"
+"2014","Corrientes","AGSyOUT","0.66"
+"2015","Corrientes","AGSyOUT","-0.83"
+"2016","Corrientes","AGSyOUT","-2.14"
+"2017","Corrientes","AGSyOUT","-0.78"
+"2018","Corrientes","AGSyOUT","-2.89"
+"2010","Corrientes","Residuos","0.25"
+"2011","Corrientes","Residuos","0.26"
+"2012","Corrientes","Residuos","0.27"
+"2013","Corrientes","Residuos","0.28"
+"2014","Corrientes","Residuos","0.29"
+"2015","Corrientes","Residuos","0.3"
+"2016","Corrientes","Residuos","0.31"
+"2017","Corrientes","Residuos","0.32"
+"2018","Corrientes","Residuos","0.33"
+"2010","Chaco","EnergÃ­a","1.12"
+"2011","Chaco","EnergÃ­a","1.13"
+"2012","Chaco","EnergÃ­a","1.09"
+"2013","Chaco","EnergÃ­a","1.11"
+"2014","Chaco","EnergÃ­a","1.1"
+"2015","Chaco","EnergÃ­a","1.19"
+"2016","Chaco","EnergÃ­a","1.19"
+"2017","Chaco","EnergÃ­a","1.29"
+"2018","Chaco","EnergÃ­a","1.13"
+"2010","Chaco","PIUP","0"
+"2011","Chaco","PIUP","0"
+"2012","Chaco","PIUP","0"
+"2013","Chaco","PIUP","0"
+"2014","Chaco","PIUP","0"
+"2015","Chaco","PIUP","0"
+"2016","Chaco","PIUP","0"
+"2017","Chaco","PIUP","0"
+"2018","Chaco","PIUP","0"
+"2010","Chaco","AGSyOUT","22.17"
+"2011","Chaco","AGSyOUT","24.26"
+"2012","Chaco","AGSyOUT","29.33"
+"2013","Chaco","AGSyOUT","29.93"
+"2014","Chaco","AGSyOUT","19.29"
+"2015","Chaco","AGSyOUT","19.53"
+"2016","Chaco","AGSyOUT","18.05"
+"2017","Chaco","AGSyOUT","21.16"
+"2018","Chaco","AGSyOUT","18.65"
+"2010","Chaco","Residuos","0.23"
+"2011","Chaco","Residuos","0.24"
+"2012","Chaco","Residuos","0.25"
+"2013","Chaco","Residuos","0.25"
+"2014","Chaco","Residuos","0.26"
+"2015","Chaco","Residuos","0.26"
+"2016","Chaco","Residuos","0.27"
+"2017","Chaco","Residuos","0.27"
+"2018","Chaco","Residuos","0.28"
+"2010","Chubut","EnergÃ­a","7.58"
+"2011","Chubut","EnergÃ­a","8.32"
+"2012","Chubut","EnergÃ­a","7.93"
+"2013","Chubut","EnergÃ­a","8.1"
+"2014","Chubut","EnergÃ­a","8.24"
+"2015","Chubut","EnergÃ­a","8.78"
+"2016","Chubut","EnergÃ­a","8.73"
+"2017","Chubut","EnergÃ­a","8.18"
+"2018","Chubut","EnergÃ­a","8.54"
+"2010","Chubut","PIUP","0.68"
+"2011","Chubut","PIUP","0.69"
+"2012","Chubut","PIUP","0.68"
+"2013","Chubut","PIUP","0.72"
+"2014","Chubut","PIUP","0.73"
+"2015","Chubut","PIUP","0.71"
+"2016","Chubut","PIUP","0.71"
+"2017","Chubut","PIUP","0.71"
+"2018","Chubut","PIUP","0.73"
+"2010","Chubut","AGSyOUT","1.21"
+"2011","Chubut","AGSyOUT","1.14"
+"2012","Chubut","AGSyOUT","1.02"
+"2013","Chubut","AGSyOUT","0.91"
+"2014","Chubut","AGSyOUT","9.94"
+"2015","Chubut","AGSyOUT","10.07"
+"2016","Chubut","AGSyOUT","9.91"
+"2017","Chubut","AGSyOUT","9.88"
+"2018","Chubut","AGSyOUT","0.12"
+"2010","Chubut","Residuos","0.11"
+"2011","Chubut","Residuos","0.11"
+"2012","Chubut","Residuos","0.12"
+"2013","Chubut","Residuos","0.12"
+"2014","Chubut","Residuos","0.13"
+"2015","Chubut","Residuos","0.14"
+"2016","Chubut","Residuos","0.14"
+"2017","Chubut","Residuos","0.15"
+"2018","Chubut","Residuos","0.15"
+"2010","Entre Rios","EnergÃ­a","2.44"
+"2011","Entre Rios","EnergÃ­a","2.58"
+"2012","Entre Rios","EnergÃ­a","2.54"
+"2013","Entre Rios","EnergÃ­a","2.55"
+"2014","Entre Rios","EnergÃ­a","2.42"
+"2015","Entre Rios","EnergÃ­a","2.43"
+"2016","Entre Rios","EnergÃ­a","2.41"
+"2017","Entre Rios","EnergÃ­a","2.37"
+"2018","Entre Rios","EnergÃ­a","2.31"
+"2010","Entre Rios","PIUP","0.01"
+"2011","Entre Rios","PIUP","0.01"
+"2012","Entre Rios","PIUP","0.01"
+"2013","Entre Rios","PIUP","0.01"
+"2014","Entre Rios","PIUP","0.01"
+"2015","Entre Rios","PIUP","0.01"
+"2016","Entre Rios","PIUP","0.01"
+"2017","Entre Rios","PIUP","0.01"
+"2018","Entre Rios","PIUP","0.01"
+"2010","Entre Rios","AGSyOUT","11.63"
+"2011","Entre Rios","AGSyOUT","11.26"
+"2012","Entre Rios","AGSyOUT","11.27"
+"2013","Entre Rios","AGSyOUT","11.44"
+"2014","Entre Rios","AGSyOUT","10.3"
+"2015","Entre Rios","AGSyOUT","8.75"
+"2016","Entre Rios","AGSyOUT","7.69"
+"2017","Entre Rios","AGSyOUT","7.75"
+"2018","Entre Rios","AGSyOUT","7.35"
+"2010","Entre Rios","Residuos","0.29"
+"2011","Entre Rios","Residuos","0.29"
+"2012","Entre Rios","Residuos","0.3"
+"2013","Entre Rios","Residuos","0.31"
+"2014","Entre Rios","Residuos","0.32"
+"2015","Entre Rios","Residuos","0.32"
+"2016","Entre Rios","Residuos","0.33"
+"2017","Entre Rios","Residuos","0.33"
+"2018","Entre Rios","Residuos","0.34"
+"2010","Formosa","EnergÃ­a","0.49"
+"2011","Formosa","EnergÃ­a","0.42"
+"2012","Formosa","EnergÃ­a","0.45"
+"2013","Formosa","EnergÃ­a","0.44"
+"2014","Formosa","EnergÃ­a","0.42"
+"2015","Formosa","EnergÃ­a","0.45"
+"2016","Formosa","EnergÃ­a","0.44"
+"2017","Formosa","EnergÃ­a","0.43"
+"2018","Formosa","EnergÃ­a","0.42"
+"2010","Formosa","PIUP","0"
+"2011","Formosa","PIUP","0"
+"2012","Formosa","PIUP","0"
+"2013","Formosa","PIUP","0"
+"2014","Formosa","PIUP","0"
+"2015","Formosa","PIUP","0"
+"2016","Formosa","PIUP","0"
+"2017","Formosa","PIUP","0"
+"2018","Formosa","PIUP","0"
+"2010","Formosa","AGSyOUT","15.99"
+"2011","Formosa","AGSyOUT","9.86"
+"2012","Formosa","AGSyOUT","15.05"
+"2013","Formosa","AGSyOUT","15.07"
+"2014","Formosa","AGSyOUT","9.39"
+"2015","Formosa","AGSyOUT","8.17"
+"2016","Formosa","AGSyOUT","9.95"
+"2017","Formosa","AGSyOUT","8.79"
+"2018","Formosa","AGSyOUT","9.91"
+"2010","Formosa","Residuos","0.1"
+"2011","Formosa","Residuos","0.11"
+"2012","Formosa","Residuos","0.11"
+"2013","Formosa","Residuos","0.11"
+"2014","Formosa","Residuos","0.12"
+"2015","Formosa","Residuos","0.12"
+"2016","Formosa","Residuos","0.13"
+"2017","Formosa","Residuos","0.13"
+"2018","Formosa","Residuos","0.13"
+"2010","Jujuy","EnergÃ­a","1.18"
+"2011","Jujuy","EnergÃ­a","1.17"
+"2012","Jujuy","EnergÃ­a","1.13"
+"2013","Jujuy","EnergÃ­a","1.2"
+"2014","Jujuy","EnergÃ­a","1.19"
+"2015","Jujuy","EnergÃ­a","1.2"
+"2016","Jujuy","EnergÃ­a","1.16"
+"2017","Jujuy","EnergÃ­a","1.36"
+"2018","Jujuy","EnergÃ­a","1.34"
+"2010","Jujuy","PIUP","0"
+"2011","Jujuy","PIUP","0"
+"2012","Jujuy","PIUP","0"
+"2013","Jujuy","PIUP","0"
+"2014","Jujuy","PIUP","0"
+"2015","Jujuy","PIUP","0"
+"2016","Jujuy","PIUP","0"
+"2017","Jujuy","PIUP","0"
+"2018","Jujuy","PIUP","0"
+"2010","Jujuy","AGSyOUT","2.12"
+"2011","Jujuy","AGSyOUT","1.84"
+"2012","Jujuy","AGSyOUT","1.75"
+"2013","Jujuy","AGSyOUT","2.03"
+"2014","Jujuy","AGSyOUT","1"
+"2015","Jujuy","AGSyOUT","0.91"
+"2016","Jujuy","AGSyOUT","0.51"
+"2017","Jujuy","AGSyOUT","0.99"
+"2018","Jujuy","AGSyOUT","0.71"
+"2010","Jujuy","Residuos","0.16"
+"2011","Jujuy","Residuos","0.16"
+"2012","Jujuy","Residuos","0.17"
+"2013","Jujuy","Residuos","0.17"
+"2014","Jujuy","Residuos","0.18"
+"2015","Jujuy","Residuos","0.18"
+"2016","Jujuy","Residuos","0.19"
+"2017","Jujuy","Residuos","0.19"
+"2018","Jujuy","Residuos","0.19"
+"2010","La Pampa","EnergÃ­a","1.52"
+"2011","La Pampa","EnergÃ­a","1.63"
+"2012","La Pampa","EnergÃ­a","1.65"
+"2013","La Pampa","EnergÃ­a","1.58"
+"2014","La Pampa","EnergÃ­a","1.6"
+"2015","La Pampa","EnergÃ­a","1.63"
+"2016","La Pampa","EnergÃ­a","1.8"
+"2017","La Pampa","EnergÃ­a","1.84"
+"2018","La Pampa","EnergÃ­a","1.78"
+"2010","La Pampa","PIUP","0"
+"2011","La Pampa","PIUP","0"
+"2012","La Pampa","PIUP","0"
+"2013","La Pampa","PIUP","0"
+"2014","La Pampa","PIUP","0"
+"2015","La Pampa","PIUP","0"
+"2016","La Pampa","PIUP","0"
+"2017","La Pampa","PIUP","0"
+"2018","La Pampa","PIUP","0"
+"2010","La Pampa","AGSyOUT","4.43"
+"2011","La Pampa","AGSyOUT","2.11"
+"2012","La Pampa","AGSyOUT","2.64"
+"2013","La Pampa","AGSyOUT","3.54"
+"2014","La Pampa","AGSyOUT","8.85"
+"2015","La Pampa","AGSyOUT","4.91"
+"2016","La Pampa","AGSyOUT","3.11"
+"2017","La Pampa","AGSyOUT","9.68"
+"2018","La Pampa","AGSyOUT","13.94"
+"2010","La Pampa","Residuos","0.08"
+"2011","La Pampa","Residuos","0.08"
+"2012","La Pampa","Residuos","0.08"
+"2013","La Pampa","Residuos","0.08"
+"2014","La Pampa","Residuos","0.09"
+"2015","La Pampa","Residuos","0.09"
+"2016","La Pampa","Residuos","0.09"
+"2017","La Pampa","Residuos","0.09"
+"2018","La Pampa","Residuos","0.1"
+"2010","La Rioja","EnergÃ­a","0.36"
+"2011","La Rioja","EnergÃ­a","0.4"
+"2012","La Rioja","EnergÃ­a","0.42"
+"2013","La Rioja","EnergÃ­a","0.44"
+"2014","La Rioja","EnergÃ­a","0.42"
+"2015","La Rioja","EnergÃ­a","0.44"
+"2016","La Rioja","EnergÃ­a","0.43"
+"2017","La Rioja","EnergÃ­a","0.45"
+"2018","La Rioja","EnergÃ­a","0.42"
+"2010","La Rioja","PIUP","0"
+"2011","La Rioja","PIUP","0"
+"2012","La Rioja","PIUP","0"
+"2013","La Rioja","PIUP","0"
+"2014","La Rioja","PIUP","0"
+"2015","La Rioja","PIUP","0"
+"2016","La Rioja","PIUP","0"
+"2017","La Rioja","PIUP","0"
+"2018","La Rioja","PIUP","0"
+"2010","La Rioja","AGSyOUT","1.48"
+"2011","La Rioja","AGSyOUT","1.46"
+"2012","La Rioja","AGSyOUT","2.75"
+"2013","La Rioja","AGSyOUT","2.06"
+"2014","La Rioja","AGSyOUT","1.6"
+"2015","La Rioja","AGSyOUT","2.16"
+"2016","La Rioja","AGSyOUT","2.33"
+"2017","La Rioja","AGSyOUT","0.89"
+"2018","La Rioja","AGSyOUT","0.74"
+"2010","La Rioja","Residuos","0.07"
+"2011","La Rioja","Residuos","0.08"
+"2012","La Rioja","Residuos","0.08"
+"2013","La Rioja","Residuos","0.08"
+"2014","La Rioja","Residuos","0.08"
+"2015","La Rioja","Residuos","0.09"
+"2016","La Rioja","Residuos","0.09"
+"2017","La Rioja","Residuos","0.1"
+"2018","La Rioja","Residuos","0.1"
+"2010","Mendoza","EnergÃ­a","7.33"
+"2011","Mendoza","EnergÃ­a","7.56"
+"2012","Mendoza","EnergÃ­a","7.67"
+"2013","Mendoza","EnergÃ­a","8.05"
+"2014","Mendoza","EnergÃ­a","7.86"
+"2015","Mendoza","EnergÃ­a","8.36"
+"2016","Mendoza","EnergÃ­a","7.9"
+"2017","Mendoza","EnergÃ­a","7.41"
+"2018","Mendoza","EnergÃ­a","7.37"
+"2010","Mendoza","PIUP","0.01"
+"2011","Mendoza","PIUP","0.01"
+"2012","Mendoza","PIUP","0.01"
+"2013","Mendoza","PIUP","0.01"
+"2014","Mendoza","PIUP","0.01"
+"2015","Mendoza","PIUP","0.01"
+"2016","Mendoza","PIUP","0.01"
+"2017","Mendoza","PIUP","0.01"
+"2018","Mendoza","PIUP","0.01"
+"2010","Mendoza","AGSyOUT","1.06"
+"2011","Mendoza","AGSyOUT","0.87"
+"2012","Mendoza","AGSyOUT","0.79"
+"2013","Mendoza","AGSyOUT","0.85"
+"2014","Mendoza","AGSyOUT","0.81"
+"2015","Mendoza","AGSyOUT","0.85"
+"2016","Mendoza","AGSyOUT","0.97"
+"2017","Mendoza","AGSyOUT","1.72"
+"2018","Mendoza","AGSyOUT","1.03"
+"2010","Mendoza","Residuos","0.41"
+"2011","Mendoza","Residuos","0.42"
+"2012","Mendoza","Residuos","0.44"
+"2013","Mendoza","Residuos","0.45"
+"2014","Mendoza","Residuos","0.46"
+"2015","Mendoza","Residuos","0.48"
+"2016","Mendoza","Residuos","0.5"
+"2017","Mendoza","Residuos","0.52"
+"2018","Mendoza","Residuos","0.53"
+"2010","Misiones","EnergÃ­a","1.31"
+"2011","Misiones","EnergÃ­a","1.44"
+"2012","Misiones","EnergÃ­a","1.44"
+"2013","Misiones","EnergÃ­a","1.47"
+"2014","Misiones","EnergÃ­a","1.38"
+"2015","Misiones","EnergÃ­a","1.33"
+"2016","Misiones","EnergÃ­a","1.22"
+"2017","Misiones","EnergÃ­a","1.3"
+"2018","Misiones","EnergÃ­a","1.3"
+"2010","Misiones","PIUP","0.02"
+"2011","Misiones","PIUP","0.02"
+"2012","Misiones","PIUP","0.02"
+"2013","Misiones","PIUP","0.01"
+"2014","Misiones","PIUP","0.01"
+"2015","Misiones","PIUP","0"
+"2016","Misiones","PIUP","0"
+"2017","Misiones","PIUP","0"
+"2018","Misiones","PIUP","0"
+"2010","Misiones","AGSyOUT","-2.15"
+"2011","Misiones","AGSyOUT","-1.95"
+"2012","Misiones","AGSyOUT","-4.06"
+"2013","Misiones","AGSyOUT","-3.66"
+"2014","Misiones","AGSyOUT","-7.91"
+"2015","Misiones","AGSyOUT","-6.38"
+"2016","Misiones","AGSyOUT","-4.38"
+"2017","Misiones","AGSyOUT","-3.63"
+"2018","Misiones","AGSyOUT","-3.81"
+"2010","Misiones","Residuos","0.21"
+"2011","Misiones","Residuos","0.22"
+"2012","Misiones","Residuos","0.22"
+"2013","Misiones","Residuos","0.23"
+"2014","Misiones","Residuos","0.23"
+"2015","Misiones","Residuos","0.24"
+"2016","Misiones","Residuos","0.24"
+"2017","Misiones","Residuos","0.26"
+"2018","Misiones","Residuos","0.26"
+"2010","Neuquen","EnergÃ­a","12.88"
+"2011","Neuquen","EnergÃ­a","13.4"
+"2012","Neuquen","EnergÃ­a","12.96"
+"2013","Neuquen","EnergÃ­a","12.15"
+"2014","Neuquen","EnergÃ­a","13.25"
+"2015","Neuquen","EnergÃ­a","13.29"
+"2016","Neuquen","EnergÃ­a","14.58"
+"2017","Neuquen","EnergÃ­a","14.68"
+"2018","Neuquen","EnergÃ­a","16.1"
+"2010","Neuquen","PIUP","0.01"
+"2011","Neuquen","PIUP","0.01"
+"2012","Neuquen","PIUP","0.01"
+"2013","Neuquen","PIUP","0.01"
+"2014","Neuquen","PIUP","0.01"
+"2015","Neuquen","PIUP","0.01"
+"2016","Neuquen","PIUP","0.01"
+"2017","Neuquen","PIUP","0.01"
+"2018","Neuquen","PIUP","0.01"
+"2010","Neuquen","AGSyOUT","0.53"
+"2011","Neuquen","AGSyOUT","0.51"
+"2012","Neuquen","AGSyOUT","0.35"
+"2013","Neuquen","AGSyOUT","0.15"
+"2014","Neuquen","AGSyOUT","-0.94"
+"2015","Neuquen","AGSyOUT","-0.84"
+"2016","Neuquen","AGSyOUT","-0.83"
+"2017","Neuquen","AGSyOUT","-0.85"
+"2018","Neuquen","AGSyOUT","-0.99"
+"2010","Neuquen","Residuos","0.12"
+"2011","Neuquen","Residuos","0.12"
+"2012","Neuquen","Residuos","0.13"
+"2013","Neuquen","Residuos","0.13"
+"2014","Neuquen","Residuos","0.13"
+"2015","Neuquen","Residuos","0.14"
+"2016","Neuquen","Residuos","0.14"
+"2017","Neuquen","Residuos","0.15"
+"2018","Neuquen","Residuos","0.15"
+"2010","Rio Negro","EnergÃ­a","3.36"
+"2011","Rio Negro","EnergÃ­a","3.49"
+"2012","Rio Negro","EnergÃ­a","3.59"
+"2013","Rio Negro","EnergÃ­a","3.81"
+"2014","Rio Negro","EnergÃ­a","3.99"
+"2015","Rio Negro","EnergÃ­a","4.05"
+"2016","Rio Negro","EnergÃ­a","4.1"
+"2017","Rio Negro","EnergÃ­a","3.92"
+"2018","Rio Negro","EnergÃ­a","4.15"
+"2010","Rio Negro","PIUP","0.06"
+"2011","Rio Negro","PIUP","0.06"
+"2012","Rio Negro","PIUP","0.07"
+"2013","Rio Negro","PIUP","0.07"
+"2014","Rio Negro","PIUP","0.07"
+"2015","Rio Negro","PIUP","0.07"
+"2016","Rio Negro","PIUP","0.07"
+"2017","Rio Negro","PIUP","0.07"
+"2018","Rio Negro","PIUP","0.07"
+"2010","Rio Negro","AGSyOUT","0.89"
+"2011","Rio Negro","AGSyOUT","0.89"
+"2012","Rio Negro","AGSyOUT","0.83"
+"2013","Rio Negro","AGSyOUT","0.77"
+"2014","Rio Negro","AGSyOUT","0.71"
+"2015","Rio Negro","AGSyOUT","0.79"
+"2016","Rio Negro","AGSyOUT","0.8"
+"2017","Rio Negro","AGSyOUT","0.96"
+"2018","Rio Negro","AGSyOUT","1.21"
+"2010","Rio Negro","Residuos","0.14"
+"2011","Rio Negro","Residuos","0.14"
+"2012","Rio Negro","Residuos","0.14"
+"2013","Rio Negro","Residuos","0.15"
+"2014","Rio Negro","Residuos","0.15"
+"2015","Rio Negro","Residuos","0.16"
+"2016","Rio Negro","Residuos","0.16"
+"2017","Rio Negro","Residuos","0.17"
+"2018","Rio Negro","Residuos","0.17"
+"2010","Salta","EnergÃ­a","5.18"
+"2011","Salta","EnergÃ­a","5.35"
+"2012","Salta","EnergÃ­a","5.25"
+"2013","Salta","EnergÃ­a","5.15"
+"2014","Salta","EnergÃ­a","5.11"
+"2015","Salta","EnergÃ­a","5.28"
+"2016","Salta","EnergÃ­a","5.35"
+"2017","Salta","EnergÃ­a","5.45"
+"2018","Salta","EnergÃ­a","5.17"
+"2010","Salta","PIUP","0"
+"2011","Salta","PIUP","0.01"
+"2012","Salta","PIUP","0.02"
+"2013","Salta","PIUP","0.02"
+"2014","Salta","PIUP","0.02"
+"2015","Salta","PIUP","0.02"
+"2016","Salta","PIUP","0.01"
+"2017","Salta","PIUP","0.02"
+"2018","Salta","PIUP","0.01"
+"2010","Salta","AGSyOUT","13.96"
+"2011","Salta","AGSyOUT","14.35"
+"2012","Salta","AGSyOUT","33.51"
+"2013","Salta","AGSyOUT","33.67"
+"2014","Salta","AGSyOUT","18.96"
+"2015","Salta","AGSyOUT","13.54"
+"2016","Salta","AGSyOUT","9.94"
+"2017","Salta","AGSyOUT","8.79"
+"2018","Salta","AGSyOUT","8.31"
+"2010","Salta","Residuos","0.25"
+"2011","Salta","Residuos","0.26"
+"2012","Salta","Residuos","0.27"
+"2013","Salta","Residuos","0.28"
+"2014","Salta","Residuos","0.29"
+"2015","Salta","Residuos","0.3"
+"2016","Salta","Residuos","0.31"
+"2017","Salta","Residuos","0.32"
+"2018","Salta","Residuos","0.32"
+"2010","San Juan","EnergÃ­a","1.34"
+"2011","San Juan","EnergÃ­a","1.59"
+"2012","San Juan","EnergÃ­a","1.61"
+"2013","San Juan","EnergÃ­a","1.63"
+"2014","San Juan","EnergÃ­a","1.54"
+"2015","San Juan","EnergÃ­a","1.59"
+"2016","San Juan","EnergÃ­a","1.45"
+"2017","San Juan","EnergÃ­a","1.5"
+"2018","San Juan","EnergÃ­a","1.51"
+"2010","San Juan","PIUP","0.24"
+"2011","San Juan","PIUP","0.25"
+"2012","San Juan","PIUP","0.26"
+"2013","San Juan","PIUP","0.27"
+"2014","San Juan","PIUP","0.28"
+"2015","San Juan","PIUP","0.29"
+"2016","San Juan","PIUP","0.27"
+"2017","San Juan","PIUP","0.12"
+"2018","San Juan","PIUP","0.15"
+"2010","San Juan","AGSyOUT","0"
+"2011","San Juan","AGSyOUT","0.12"
+"2012","San Juan","AGSyOUT","0.01"
+"2013","San Juan","AGSyOUT","0"
+"2014","San Juan","AGSyOUT","0"
+"2015","San Juan","AGSyOUT","0.07"
+"2016","San Juan","AGSyOUT","0.09"
+"2017","San Juan","AGSyOUT","0.1"
+"2018","San Juan","AGSyOUT","0.12"
+"2010","San Juan","Residuos","0.15"
+"2011","San Juan","Residuos","0.16"
+"2012","San Juan","Residuos","0.16"
+"2013","San Juan","Residuos","0.17"
+"2014","San Juan","Residuos","0.17"
+"2015","San Juan","Residuos","0.18"
+"2016","San Juan","Residuos","0.18"
+"2017","San Juan","Residuos","0.19"
+"2018","San Juan","Residuos","0.19"
+"2010","San Luis","EnergÃ­a","1.02"
+"2011","San Luis","EnergÃ­a","1.05"
+"2012","San Luis","EnergÃ­a","1.09"
+"2013","San Luis","EnergÃ­a","1.25"
+"2014","San Luis","EnergÃ­a","1.11"
+"2015","San Luis","EnergÃ­a","1.17"
+"2016","San Luis","EnergÃ­a","1.13"
+"2017","San Luis","EnergÃ­a","1.11"
+"2018","San Luis","EnergÃ­a","1.09"
+"2010","San Luis","PIUP","0.06"
+"2011","San Luis","PIUP","0.01"
+"2012","San Luis","PIUP","0"
+"2013","San Luis","PIUP","0.23"
+"2014","San Luis","PIUP","0.8"
+"2015","San Luis","PIUP","0.86"
+"2016","San Luis","PIUP","0.61"
+"2017","San Luis","PIUP","0.64"
+"2018","San Luis","PIUP","0.42"
+"2010","San Luis","AGSyOUT","5.51"
+"2011","San Luis","AGSyOUT","4.25"
+"2012","San Luis","AGSyOUT","4.52"
+"2013","San Luis","AGSyOUT","1.91"
+"2014","San Luis","AGSyOUT","6.26"
+"2015","San Luis","AGSyOUT","3.85"
+"2016","San Luis","AGSyOUT","3.96"
+"2017","San Luis","AGSyOUT","8.32"
+"2018","San Luis","AGSyOUT","7.56"
+"2010","San Luis","Residuos","0.09"
+"2011","San Luis","Residuos","0.1"
+"2012","San Luis","Residuos","0.1"
+"2013","San Luis","Residuos","0.1"
+"2014","San Luis","Residuos","0.11"
+"2015","San Luis","Residuos","0.11"
+"2016","San Luis","Residuos","0.12"
+"2017","San Luis","Residuos","0.12"
+"2018","San Luis","Residuos","0.13"
+"2010","Santa Cruz","EnergÃ­a","6.39"
+"2011","Santa Cruz","EnergÃ­a","6.12"
+"2012","Santa Cruz","EnergÃ­a","6.36"
+"2013","Santa Cruz","EnergÃ­a","6.47"
+"2014","Santa Cruz","EnergÃ­a","6.57"
+"2015","Santa Cruz","EnergÃ­a","6.64"
+"2016","Santa Cruz","EnergÃ­a","6.51"
+"2017","Santa Cruz","EnergÃ­a","6.3"
+"2018","Santa Cruz","EnergÃ­a","6.15"
+"2010","Santa Cruz","PIUP","0.01"
+"2011","Santa Cruz","PIUP","0.01"
+"2012","Santa Cruz","PIUP","0.01"
+"2013","Santa Cruz","PIUP","0.01"
+"2014","Santa Cruz","PIUP","0"
+"2015","Santa Cruz","PIUP","0"
+"2016","Santa Cruz","PIUP","0"
+"2017","Santa Cruz","PIUP","0"
+"2018","Santa Cruz","PIUP","0"
+"2010","Santa Cruz","AGSyOUT","0.79"
+"2011","Santa Cruz","AGSyOUT","0.76"
+"2012","Santa Cruz","AGSyOUT","0.83"
+"2013","Santa Cruz","AGSyOUT","0.75"
+"2014","Santa Cruz","AGSyOUT","0.74"
+"2015","Santa Cruz","AGSyOUT","0.76"
+"2016","Santa Cruz","AGSyOUT","0.76"
+"2017","Santa Cruz","AGSyOUT","0.73"
+"2018","Santa Cruz","AGSyOUT","0.75"
+"2010","Santa Cruz","Residuos","0.05"
+"2011","Santa Cruz","Residuos","0.05"
+"2012","Santa Cruz","Residuos","0.06"
+"2013","Santa Cruz","Residuos","0.06"
+"2014","Santa Cruz","Residuos","0.06"
+"2015","Santa Cruz","Residuos","0.06"
+"2016","Santa Cruz","Residuos","0.07"
+"2017","Santa Cruz","Residuos","0.07"
+"2018","Santa Cruz","Residuos","0.07"
+"2010","Santa Fe","EnergÃ­a","11.84"
+"2011","Santa Fe","EnergÃ­a","13.42"
+"2012","Santa Fe","EnergÃ­a","13.15"
+"2013","Santa Fe","EnergÃ­a","13.54"
+"2014","Santa Fe","EnergÃ­a","13.13"
+"2015","Santa Fe","EnergÃ­a","14.11"
+"2016","Santa Fe","EnergÃ­a","14.92"
+"2017","Santa Fe","EnergÃ­a","13.96"
+"2018","Santa Fe","EnergÃ­a","14.2"
+"2010","Santa Fe","PIUP","0.02"
+"2011","Santa Fe","PIUP","0.02"
+"2012","Santa Fe","PIUP","0.02"
+"2013","Santa Fe","PIUP","0.02"
+"2014","Santa Fe","PIUP","0.02"
+"2015","Santa Fe","PIUP","0.02"
+"2016","Santa Fe","PIUP","0.02"
+"2017","Santa Fe","PIUP","0.02"
+"2018","Santa Fe","PIUP","0.01"
+"2010","Santa Fe","AGSyOUT","11.84"
+"2011","Santa Fe","AGSyOUT","12.55"
+"2012","Santa Fe","AGSyOUT","13.56"
+"2013","Santa Fe","AGSyOUT","15.03"
+"2014","Santa Fe","AGSyOUT","14.45"
+"2015","Santa Fe","AGSyOUT","13.07"
+"2016","Santa Fe","AGSyOUT","12.39"
+"2017","Santa Fe","AGSyOUT","12.02"
+"2018","Santa Fe","AGSyOUT","11.47"
+"2010","Santa Fe","Residuos","0.94"
+"2011","Santa Fe","Residuos","0.95"
+"2012","Santa Fe","Residuos","0.99"
+"2013","Santa Fe","Residuos","1.02"
+"2014","Santa Fe","Residuos","1.05"
+"2015","Santa Fe","Residuos","1.09"
+"2016","Santa Fe","Residuos","1.17"
+"2017","Santa Fe","Residuos","1.2"
+"2018","Santa Fe","Residuos","1.23"
+"2010","Santiago del Estero","EnergÃ­a","1"
+"2011","Santiago del Estero","EnergÃ­a","1"
+"2012","Santiago del Estero","EnergÃ­a","0.99"
+"2013","Santiago del Estero","EnergÃ­a","1"
+"2014","Santiago del Estero","EnergÃ­a","1.01"
+"2015","Santiago del Estero","EnergÃ­a","1.06"
+"2016","Santiago del Estero","EnergÃ­a","1.14"
+"2017","Santiago del Estero","EnergÃ­a","1.22"
+"2018","Santiago del Estero","EnergÃ­a","1.2"
+"2010","Santiago del Estero","PIUP","0"
+"2011","Santiago del Estero","PIUP","0"
+"2012","Santiago del Estero","PIUP","0"
+"2013","Santiago del Estero","PIUP","0"
+"2014","Santiago del Estero","PIUP","0"
+"2015","Santiago del Estero","PIUP","0.01"
+"2016","Santiago del Estero","PIUP","0"
+"2017","Santiago del Estero","PIUP","0.01"
+"2018","Santiago del Estero","PIUP","0"
+"2010","Santiago del Estero","AGSyOUT","26.51"
+"2011","Santiago del Estero","AGSyOUT","29.45"
+"2012","Santiago del Estero","AGSyOUT","29.14"
+"2013","Santiago del Estero","AGSyOUT","30.12"
+"2014","Santiago del Estero","AGSyOUT","21.13"
+"2015","Santiago del Estero","AGSyOUT","17.48"
+"2016","Santiago del Estero","AGSyOUT","14.97"
+"2017","Santiago del Estero","AGSyOUT","18.72"
+"2018","Santiago del Estero","AGSyOUT","15.18"
+"2010","Santiago del Estero","Residuos","0.16"
+"2011","Santiago del Estero","Residuos","0.16"
+"2012","Santiago del Estero","Residuos","0.17"
+"2013","Santiago del Estero","Residuos","0.17"
+"2014","Santiago del Estero","Residuos","0.17"
+"2015","Santiago del Estero","Residuos","0.18"
+"2016","Santiago del Estero","Residuos","0.18"
+"2017","Santiago del Estero","Residuos","0.19"
+"2018","Santiago del Estero","Residuos","0.19"
+"2010","TucumÃ¡n","EnergÃ­a","4.07"
+"2011","TucumÃ¡n","EnergÃ­a","4.48"
+"2012","TucumÃ¡n","EnergÃ­a","4.6"
+"2013","TucumÃ¡n","EnergÃ­a","4.55"
+"2014","TucumÃ¡n","EnergÃ­a","4.85"
+"2015","TucumÃ¡n","EnergÃ­a","5.28"
+"2016","TucumÃ¡n","EnergÃ­a","5.08"
+"2017","TucumÃ¡n","EnergÃ­a","4.93"
+"2018","TucumÃ¡n","EnergÃ­a","5.05"
+"2010","TucumÃ¡n","PIUP","0.01"
+"2011","TucumÃ¡n","PIUP","0.01"
+"2012","TucumÃ¡n","PIUP","0.01"
+"2013","TucumÃ¡n","PIUP","0.01"
+"2014","TucumÃ¡n","PIUP","0.01"
+"2015","TucumÃ¡n","PIUP","0"
+"2016","TucumÃ¡n","PIUP","0"
+"2017","TucumÃ¡n","PIUP","0"
+"2018","TucumÃ¡n","PIUP","0"
+"2010","TucumÃ¡n","AGSyOUT","2.61"
+"2011","TucumÃ¡n","AGSyOUT","2.17"
+"2012","TucumÃ¡n","AGSyOUT","2.87"
+"2013","TucumÃ¡n","AGSyOUT","2.59"
+"2014","TucumÃ¡n","AGSyOUT","2.28"
+"2015","TucumÃ¡n","AGSyOUT","2.07"
+"2016","TucumÃ¡n","AGSyOUT","1.38"
+"2017","TucumÃ¡n","AGSyOUT","1.52"
+"2018","TucumÃ¡n","AGSyOUT","1.05"
+"2010","TucumÃ¡n","Residuos","0.4"
+"2011","TucumÃ¡n","Residuos","0.42"
+"2012","TucumÃ¡n","Residuos","0.44"
+"2013","TucumÃ¡n","Residuos","0.46"
+"2014","TucumÃ¡n","Residuos","0.48"
+"2015","TucumÃ¡n","Residuos","0.49"
+"2016","TucumÃ¡n","Residuos","0.51"
+"2017","TucumÃ¡n","Residuos","0.52"
+"2018","TucumÃ¡n","Residuos","0.53"
+"2010","Tierra del Fuego","EnergÃ­a","2.77"
+"2011","Tierra del Fuego","EnergÃ­a","2.71"
+"2012","Tierra del Fuego","EnergÃ­a","2.82"
+"2013","Tierra del Fuego","EnergÃ­a","2.7"
+"2014","Tierra del Fuego","EnergÃ­a","2.77"
+"2015","Tierra del Fuego","EnergÃ­a","2.73"
+"2016","Tierra del Fuego","EnergÃ­a","2.86"
+"2017","Tierra del Fuego","EnergÃ­a","3.05"
+"2018","Tierra del Fuego","EnergÃ­a","2.9"
+"2010","Tierra del Fuego","PIUP","0"
+"2011","Tierra del Fuego","PIUP","0"
+"2012","Tierra del Fuego","PIUP","0"
+"2013","Tierra del Fuego","PIUP","0"
+"2014","Tierra del Fuego","PIUP","0"
+"2015","Tierra del Fuego","PIUP","0"
+"2016","Tierra del Fuego","PIUP","0"
+"2017","Tierra del Fuego","PIUP","0"
+"2018","Tierra del Fuego","PIUP","0"
+"2010","Tierra del Fuego","AGSyOUT","2.22"
+"2011","Tierra del Fuego","AGSyOUT","2.19"
+"2012","Tierra del Fuego","AGSyOUT","2.18"
+"2013","Tierra del Fuego","AGSyOUT","2.17"
+"2014","Tierra del Fuego","AGSyOUT","0.3"
+"2015","Tierra del Fuego","AGSyOUT","0.29"
+"2016","Tierra del Fuego","AGSyOUT","0.38"
+"2017","Tierra del Fuego","AGSyOUT","0.25"
+"2018","Tierra del Fuego","AGSyOUT","0.2"
+"2010","Tierra del Fuego","Residuos","0.03"
+"2011","Tierra del Fuego","Residuos","0.03"
+"2012","Tierra del Fuego","Residuos","0.03"
+"2013","Tierra del Fuego","Residuos","0.03"
+"2014","Tierra del Fuego","Residuos","0.03"
+"2015","Tierra del Fuego","Residuos","0.03"
+"2016","Tierra del Fuego","Residuos","0.03"
+"2017","Tierra del Fuego","Residuos","0.03"
+"2018","Tierra del Fuego","Residuos","0.04"

@@ -1,16 +1,16 @@
-sector,anio,subsector,valor_en_mtco2e,valor_en_porcent
-Energía,2018,Industrias de la energía,58.62703942,16.0231415
-Energía,2018,Industrias manufactureras y de la construcción,33.10153964,9.046860607
-Energía,2018,Transporte,51.03338087,13.94774648
-Energía,2018,Otros sectores,31.91984898,8.723897059
-Energía,2018,Emisiones fugitivas provenientes de la fabricación de combustibles,10.81109119,2.954739751
-Procesos industriales y uso de productos,2018,Industria de los minerales,7.409612001,2.025093928
-Procesos industriales y uso de productos,2018,Industria química,2.424907305,0.662742537
-Procesos industriales y uso de productos,2018,Industria de los metales,6.094298837,1.665610503
-Procesos industriales y uso de productos,2018,Otros ,4.840626153,1.322973811
-AGSyOUT,2018,Ganado,57.85076653,15.8109812
-AGSyOUT,2018,Tierra,39.28364883,10.73647024
-AGSyOUT,2018,Emisiones de la quema de biomasa,4.524768126,1.23664781
-AGSyOUT,2018,Emisiones directas e indirectas de N2O y otros,41.53635704,11.35214967
-Residuos,2018,Residuos sólidos,9.732614186,2.65998515
-Residuos,2018,Aguas residuales,6.699294901,1.830959762
+"sector","anio","subsector","valor_en_mtco2e","valor_en_porcent"
+"AGSyOUT","2018","Emisiones de la quema de biomasa","4.5247681262547","1.23664781045548"
+"AGSyOUT","2018","Emisiones directas e indirectas de N2O y otros","42.6386323200809","11.6534084903683"
+"AGSyOUT","2018","Ganado","57.8507665264705","15.8109811954823"
+"AGSyOUT","2018","Tierra","39.2836488309897","10.7364702362675"
+"EnergÃ­a","2018","Emisiones fugitivas provenientes de la fabricaciÃ³n de combustibles","10.811091186041","2.95473975037006"
+"EnergÃ­a","2018","Industrias de la energÃ­a","58.6270394166336","16.0231414969939"
+"EnergÃ­a","2018","Industrias manufactureras y de la construcciÃ³n","33.1015396444227","9.04686060849352"
+"EnergÃ­a","2018","Otros sectores","31.9198489766713","8.72389705850933"
+"EnergÃ­a","2018","Transporte","51.0333808739475","13.9477464826792"
+"Procesos industriales y uso de productos","2018","Industria de los metales","6.09429883707958","1.6656105026478"
+"Procesos industriales y uso de productos","2018","Industria de los minerales","7.40961200065527","2.02509392774555"
+"Procesos industriales y uso de productos","2018","Industria quÃ­mica","2.4249073048036","0.662742537378384"
+"Procesos industriales y uso de productos","2018","Otros","4.8406261532184","1.32297381138202"
+"Residuos","2018","Aguas residuales","6.69929490113365","1.83095976189613"
+"Residuos","2018","Residuos sÃ³lidos","9.67385505334138","2.64392590660344"
