@@ -1,30 +1,30 @@
-sector,subsector,subsubsector,valor_en_porcent
-Energía,Industrias manufactureras y de la construcción,Hierro y acero,7.2
-Energía,Industrias manufactureras y de la construcción,Metales no ferrosos,0.7
-Energía,Industrias manufactureras y de la construcción,Química y petroquímica,3.6
-Energía,Industrias manufactureras y de la construcción,Alimentación y tabaco,1
-Energía,Industrias manufactureras y de la construcción,Papel,0.6
-Energía,Industrias manufactureras y de la construcción,Maquinaria,0.5
-Energía,Industrias manufactureras y de la construcción,Otras industrias,10.6
-Energía,Transporte,Carretera,11.9
-Energía,Transporte,Aviación,1.9
-Energía,Transporte,Transporte marítimo,1.7
-Energía,Transporte,Ferrocarril,0.4
-Energía,Transporte,Tuberías,0.3
-Energía,Edificaciones,Residencial,10.9
-Energía,Edificaciones,Comercial,6.6
-Energía,Industria de la energía,Industria de la energía,7.8
-Energía,Emisiones fugitivas de la fabricación de combustibles,Carbón,1.9
-Energía,Emisiones fugitivas de la fabricación de combustibles,Petróleo y gas,3.9
-Energía,"Agricultura, ganadería y pesca","Agricultura, ganadería y pesca",1.7
-AGSyOUT,Ganadería y manejo de estiércol,Ganadería y manejo de estiércol,5.8
-AGSyOUT,Tierras,Suelos agrícolas,4.1
-AGSyOUT,Tierras,Tierras forestales,2.2
-AGSyOUT,Tierras,Tierras de cultivo,1.4
-AGSyOUT,Tierras,Pastizales,0.1
-AGSyOUT,Quema de biomasa,Quema de biomasa,3.5
-AGSyOUT,Cultivo de arroz,Cultivo de arroz,1.3
-PIUP,Industria de los minerales,Cemento,3
-PIUP,Industria química y petroquímica,Industria química y petroquímica,2.2
-Residuos,Residuos sólidos,Residuos sólidos,1.9
-Residuos,Aguas residuales,Aguas residuales,1.3
+"sector","subsector","subsubsector","valor_en_porcent"
+"EnergÃ­a","Transporte","Carretera","11.9"
+"EnergÃ­a","Transporte","AviaciÃ³n","1.9"
+"EnergÃ­a","Transporte","Tren","0.4"
+"EnergÃ­a","Transporte","TuberÃ­as","0.3"
+"EnergÃ­a","Transporte","MarÃ­timo","1.7"
+"EnergÃ­a","Edificaciones","Residencial","10.9"
+"EnergÃ­a","Edificaciones","Comercial","6.6"
+"EnergÃ­a","Edificaciones","Hierro y acero","7.2"
+"EnergÃ­a","Edificaciones","Metales no ferrosos","0.7"
+"EnergÃ­a","Edificaciones","Maquinaria","0.5"
+"EnergÃ­a","Edificaciones","AlimentaciÃ³n y tabaco","1"
+"EnergÃ­a","Edificaciones","Papel","0.6"
+"EnergÃ­a","Edificaciones","QuÃ­mica y petroquÃ­mica","3.6"
+"EnergÃ­a","Edificaciones","Otras industrias","10.6"
+"EnergÃ­a","Agricultura, ganaderÃ­a y pesca","Agricultura, ganaderÃ­a y pesca","1.7"
+"EnergÃ­a","Industria de la energÃ­a","Industria de la energÃ­a","7.8"
+"EnergÃ­a","Industria de la energÃ­a","CarbÃ³n","1.9"
+"EnergÃ­a","Industria de la energÃ­a","PetrÃ³leo y gas","3.9"
+"Industria QuÃ­mica","Industria de los minerales","Cemento","3"
+"Industria QuÃ­mica","Industria quÃ­mica y petroquÃ­mica","Industria quÃ­mica y petroquÃ­mica","2.2"
+"AGSyOUT","GanaderÃ­a y manejo de estiÃ©rcol","GanaderÃ­a y manejo de estiÃ©rcol","5.8"
+"AGSyOUT","Cultivo de arroz","Cultivo de arroz","1.3"
+"AGSyOUT","Tierras","Suelos agrÃ­colas","4.1"
+"AGSyOUT","Quema de biomasa","Quema de biomasa","3.5"
+"AGSyOUT","Tierras","Tierras forestales","2.2"
+"AGSyOUT","Tierras","Tierras de cultivo","1.4"
+"AGSyOUT","Tierras","Pastizales","0.1"
+"Residuos","Residuos sÃ³lidos","Residuos sÃ³lidos","1.9"
+"Residuos","Aguas residuales","Aguas residuales","1.3"

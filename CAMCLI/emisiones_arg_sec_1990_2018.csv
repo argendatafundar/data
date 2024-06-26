@@ -1,117 +1,117 @@
-anio,sector,valor_en_mtco2e
-1990,AGSyOUT,151.9696918
-1990,Energía,95.45461391
-1990,Procesos industriales y uso de productos,8.35735666
-1990,Residuos,7.756959156
-1991,AGSyOUT,172.0397496
-1991,Energía,100.876852
-1991,Procesos industriales y uso de productos,7.68720404
-1991,Residuos,8.041318155
-1992,AGSyOUT,175.879428
-1992,Energía,104.2388673
-1992,Procesos industriales y uso de productos,7.59837811
-1992,Residuos,8.295927736
-1993,AGSyOUT,170.2672794
-1993,Energía,105.2653926
-1993,Procesos industriales y uso de productos,8.272931748
-1993,Residuos,8.689179083
-1994,AGSyOUT,170.4563593
-1994,Energía,110.118054
-1994,Procesos industriales y uso de productos,9.44175703
-1994,Residuos,8.985467787
-1995,AGSyOUT,173.1601547
-1995,Energía,112.302739
-1995,Procesos industriales y uso de productos,9.356635757
-1995,Residuos,9.320432122
-1996,AGSyOUT,189.4366735
-1996,Energía,127.7143989
-1996,Procesos industriales y uso de productos,10.05130608
-1996,Residuos,9.667642083
-1997,AGSyOUT,183.6016942
-1997,Energía,128.1979336
-1997,Procesos industriales y uso de productos,11.18193284
-1997,Residuos,10.01719552
-1998,AGSyOUT,200.1022317
-1998,Energía,135.7472391
-1998,Procesos industriales y uso de productos,11.45382392
-1998,Residuos,10.3221721
-1999,AGSyOUT,188.6379423
-1999,Energía,138.1571751
-1999,Procesos industriales y uso de productos,10.77814245
-1999,Residuos,10.5982144
-2000,AGSyOUT,192.0061793
-2000,Energía,134.8667537
-2000,Procesos industriales y uso de productos,10.42311637
-2000,Residuos,10.9532025
-2001,AGSyOUT,194.4155362
-2001,Energía,131.3920272
-2001,Procesos industriales y uso de productos,10.81719627
-2001,Residuos,11.37921365
-2002,AGSyOUT,205.1460651
-2002,Energía,124.0526585
-2002,Procesos industriales y uso de productos,10.67743166
-2002,Residuos,11.60855744
-2003,AGSyOUT,209.6006309
-2003,Energía,133.2712993
-2003,Procesos industriales y uso de productos,12.48210715
-2003,Residuos,12.01159878
-2004,AGSyOUT,211.7381998
-2004,Energía,144.9784837
-2004,Procesos industriales y uso de productos,13.84055488
-2004,Residuos,12.36957588
-2005,AGSyOUT,201.8288579
-2005,Energía,149.1132886
-2005,Procesos industriales y uso de productos,15.10814521
-2005,Residuos,12.83882127
-2006,AGSyOUT,218.8681169
-2006,Energía,157.2089014
-2006,Procesos industriales y uso de productos,15.67507429
-2006,Residuos,13.21871758
-2007,AGSyOUT,223.5340142
-2007,Energía,171.5621518
-2007,Procesos industriales y uso de productos,16.29897069
-2007,Residuos,13.23190387
-2008,AGSyOUT,197.7350772
-2008,Energía,176.8840834
-2008,Procesos industriales y uso de productos,16.23701484
-2008,Residuos,12.98131175
-2009,AGSyOUT,168.3423292
-2009,Energía,164.5463327
-2009,Procesos industriales y uso de productos,14.25100619
-2009,Residuos,12.72534145
-2010,AGSyOUT,165.3846361
-2010,Energía,178.633871
-2010,Procesos industriales y uso de productos,16.51924603
-2010,Residuos,12.93998159
-2011,AGSyOUT,152.9160695
-2011,Energía,187.167357
-2011,Procesos industriales y uso de productos,17.82681366
-2011,Residuos,13.27968309
-2012,AGSyOUT,189.4879214
-2012,Energía,187.5969715
-2012,Procesos industriales y uso de productos,16.83886051
-2012,Residuos,13.7354126
-2013,AGSyOUT,187.7522968
-2013,Energía,190.4163418
-2013,Procesos industriales y uso de productos,18.65659354
-2013,Residuos,14.20574669
-2014,AGSyOUT,162.2379193
-2014,Energía,187.138582
-2014,Procesos industriales y uso de productos,19.93574581
-2014,Residuos,14.71172344
-2015,AGSyOUT,137.6940721
-2015,Energía,192.8606171
-2015,Procesos industriales y uso de productos,20.58153367
-2015,Residuos,15.2600437
-2016,AGSyOUT,131.6091045
-2016,Energía,193.3958263
-2016,Procesos industriales y uso de productos,18.98956454
-2016,Residuos,15.67855707
-2017,AGSyOUT,146.0126558
-2017,Energía,187.6992155
-2017,Procesos industriales y uso de productos,20.38283097
-2017,Residuos,16.06502171
-2018,AGSyOUT,143.1955405
-2018,Energía,185.4929001
-2018,Procesos industriales y uso de productos,20.7694443
-2018,Residuos,16.43190909
+"anio","sector","valor_en_mtco2e"
+1990,"AGSyOUT","151.97"
+1990,"EnergÃ­a","95.45"
+1990,"Procesos industriales y uso de productos","8.36"
+1990,"Residuos","7.76"
+1991,"AGSyOUT","172.04"
+1991,"EnergÃ­a","100.88"
+1991,"Procesos industriales y uso de productos","7.69"
+1991,"Residuos","8.04"
+1992,"AGSyOUT","175.88"
+1992,"EnergÃ­a","104.24"
+1992,"Procesos industriales y uso de productos","7.6"
+1992,"Residuos","8.3"
+1993,"AGSyOUT","170.27"
+1993,"EnergÃ­a","105.27"
+1993,"Procesos industriales y uso de productos","8.27"
+1993,"Residuos","8.69"
+1994,"AGSyOUT","170.46"
+1994,"EnergÃ­a","110.12"
+1994,"Procesos industriales y uso de productos","9.44"
+1994,"Residuos","8.99"
+1995,"AGSyOUT","173.16"
+1995,"EnergÃ­a","112.3"
+1995,"Procesos industriales y uso de productos","9.36"
+1995,"Residuos","9.32"
+1996,"AGSyOUT","189.44"
+1996,"EnergÃ­a","127.71"
+1996,"Procesos industriales y uso de productos","10.05"
+1996,"Residuos","9.67"
+1997,"AGSyOUT","183.6"
+1997,"EnergÃ­a","128.2"
+1997,"Procesos industriales y uso de productos","11.18"
+1997,"Residuos","10.02"
+1998,"AGSyOUT","200.1"
+1998,"EnergÃ­a","135.75"
+1998,"Procesos industriales y uso de productos","11.45"
+1998,"Residuos","10.32"
+1999,"AGSyOUT","188.64"
+1999,"EnergÃ­a","138.16"
+1999,"Procesos industriales y uso de productos","10.78"
+1999,"Residuos","10.6"
+2000,"AGSyOUT","192.01"
+2000,"EnergÃ­a","134.87"
+2000,"Procesos industriales y uso de productos","10.42"
+2000,"Residuos","10.95"
+2001,"AGSyOUT","194.42"
+2001,"EnergÃ­a","131.39"
+2001,"Procesos industriales y uso de productos","10.82"
+2001,"Residuos","11.38"
+2002,"AGSyOUT","205.15"
+2002,"EnergÃ­a","124.05"
+2002,"Procesos industriales y uso de productos","10.68"
+2002,"Residuos","11.61"
+2003,"AGSyOUT","209.6"
+2003,"EnergÃ­a","133.27"
+2003,"Procesos industriales y uso de productos","12.48"
+2003,"Residuos","12.01"
+2004,"AGSyOUT","211.74"
+2004,"EnergÃ­a","144.98"
+2004,"Procesos industriales y uso de productos","13.84"
+2004,"Residuos","12.37"
+2005,"AGSyOUT","201.83"
+2005,"EnergÃ­a","149.11"
+2005,"Procesos industriales y uso de productos","15.11"
+2005,"Residuos","12.84"
+2006,"AGSyOUT","218.87"
+2006,"EnergÃ­a","157.21"
+2006,"Procesos industriales y uso de productos","15.68"
+2006,"Residuos","13.22"
+2007,"AGSyOUT","223.53"
+2007,"EnergÃ­a","171.56"
+2007,"Procesos industriales y uso de productos","16.3"
+2007,"Residuos","13.23"
+2008,"AGSyOUT","197.74"
+2008,"EnergÃ­a","176.88"
+2008,"Procesos industriales y uso de productos","16.24"
+2008,"Residuos","12.98"
+2009,"AGSyOUT","168.34"
+2009,"EnergÃ­a","164.55"
+2009,"Procesos industriales y uso de productos","14.25"
+2009,"Residuos","12.73"
+2010,"AGSyOUT","165.38"
+2010,"EnergÃ­a","178.63"
+2010,"Procesos industriales y uso de productos","16.52"
+2010,"Residuos","12.94"
+2011,"AGSyOUT","152.92"
+2011,"EnergÃ­a","187.17"
+2011,"Procesos industriales y uso de productos","17.83"
+2011,"Residuos","13.28"
+2012,"AGSyOUT","189.49"
+2012,"EnergÃ­a","187.6"
+2012,"Procesos industriales y uso de productos","16.84"
+2012,"Residuos","13.74"
+2013,"AGSyOUT","187.75"
+2013,"EnergÃ­a","190.42"
+2013,"Procesos industriales y uso de productos","18.66"
+2013,"Residuos","14.21"
+2014,"AGSyOUT","162.24"
+2014,"EnergÃ­a","187.14"
+2014,"Procesos industriales y uso de productos","19.94"
+2014,"Residuos","14.71"
+2015,"AGSyOUT","137.69"
+2015,"EnergÃ­a","192.86"
+2015,"Procesos industriales y uso de productos","20.58"
+2015,"Residuos","15.26"
+2016,"AGSyOUT","131.61"
+2016,"EnergÃ­a","193.4"
+2016,"Procesos industriales y uso de productos","18.99"
+2016,"Residuos","15.68"
+2017,"AGSyOUT","146.01"
+2017,"EnergÃ­a","187.7"
+2017,"Procesos industriales y uso de productos","20.38"
+2017,"Residuos","16.07"
+2018,"AGSyOUT","143.2"
+2018,"EnergÃ­a","185.49"
+2018,"Procesos industriales y uso de productos","20.77"
+2018,"Residuos","16.43"
