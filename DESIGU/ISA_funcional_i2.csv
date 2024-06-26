@@ -1,22 +1,25 @@
-﻿ano,variable,valor
-2016,remuneraciontrabajo,52
-2016,ingresobrutomixto,11.3
-2016,excedentebruto,40.299999
-2017,remuneraciontrabajo,51.799999
-2017,ingresobrutomixto,11.5
-2017,excedentebruto,38.799999
-2018,remuneraciontrabajo,47.400002
-2018,ingresobrutomixto,11.7
-2018,excedentebruto,42.5
-2019,remuneraciontrabajo,46.099998
-2019,ingresobrutomixto,12.8
-2019,excedentebruto,42.700001
-2020,remuneraciontrabajo,48.599998
-2020,ingresobrutomixto,13.6
-2020,excedentebruto,42.700001
-2021,remuneraciontrabajo,43.099998
-2021,ingresobrutomixto,13.6
-2021,excedentebruto,47.099998
-2022,remuneraciontrabajo,43.799999
-2022,ingresobrutomixto,13.8
-2022,excedentebruto,45.299999
+"anio","categoria","participacion"
+"2016","Remuneración al trabajo asalariado","51.8371104876087"
+"2016","Ingreso mixto bruto","11.3864916505238"
+"2016","Excedente de explotación bruto","40.2064932512075"
+"2017","Remuneración al trabajo asalariado","51.7764565632951"
+"2017","Ingreso mixto bruto","11.463195260341"
+"2017","Excedente de explotación bruto","38.9630735593436"
+"2018","Remuneración al trabajo asalariado","47.4137840134982"
+"2018","Ingreso mixto bruto","12.3008027449923"
+"2018","Excedente de explotación bruto","41.9525172965211"
+"2019","Remuneración al trabajo asalariado","46.1769982257363"
+"2019","Ingreso mixto bruto","13.3693611082767"
+"2019","Excedente de explotación bruto","42.2002341991687"
+"2020","Remuneración al trabajo asalariado","47.9709026962324"
+"2020","Ingreso mixto bruto","13.5723854786756"
+"2020","Excedente de explotación bruto","43.35162109781"
+"2021","Remuneración al trabajo asalariado","43.0795509364746"
+"2021","Ingreso mixto bruto","13.5506131118689"
+"2021","Excedente de explotación bruto","47.0566203596635"
+"2022","Remuneración al trabajo asalariado","43.7615899354263"
+"2022","Ingreso mixto bruto","13.8180761241378"
+"2022","Excedente de explotación bruto","45.3460215266955"
+"2023","Remuneración al trabajo asalariado","45.2926825561807"
+"2023","Ingreso mixto bruto","13.990244453933"
+"2023","Excedente de explotación bruto","43.3321621010669"
