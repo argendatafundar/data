@@ -1,6 +1,6 @@
 # Datos de Argendata
 
-En este repositorio se comparten conjuntos de datos publicados en cada tópico de Argendata. Estos corresponden a la salida del proceso semi automatizado de [rerproductibilida (ETL)](https://github.com/argendata/etl), equivalente a los datos producidos por investigadores [^2]. 
+En este repositorio se comparten conjuntos de datos publicados en cada tópico de Argendata. Estos corresponden a la salida del proceso semi automatizado de [rerproductibilidad (ETL)](https://github.com/argendata/etl), equivalente a los datos producidos por investigadores [^2]. 
 
 [^2]: El flujo de trabajo definido para la reproductibilidad cuenta con una librería de `R` que reune un conjunto de funciones para facilitar el flujo de trabajo con fuentes y recursos en Argendata [https://github.com/argendata/argendataR](https://github.com/argendata/argendataR)
 
