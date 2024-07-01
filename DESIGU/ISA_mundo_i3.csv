@@ -1,17 +1,17 @@
-﻿ano,variable,valor
-1980,americalatina,48.919998
-1980,argentina ,39.830002
-1986,americalatina,50.23
-1986,argentina ,42.73
-1992,americalatina,50.639999
-1992,argentina ,43.189999
-1998,americalatina,52.560001
-1998,argentina ,48.18
-2002,americalatina,52.709999
-2002,argentina ,51.18
-2008,americalatina,48.709999
-2008,argentina ,44.77
-2014,americalatina,46.240002
-2014,argentina ,41.560001
-2022,americalatina,45.099998
-2022,argentina ,41.200001
+"variable","ano","valor"
+"americalatina","1980","48.92"
+"americalatina","1986","50.23"
+"americalatina","1992","50.64"
+"americalatina","1998","52.56"
+"americalatina","2002","52.71"
+"americalatina","2008","48.71"
+"americalatina","2014","46.24"
+"americalatina","2022","45.1"
+"argentina ","1980","39.83"
+"argentina ","1986","42.73"
+"argentina ","1992","43.19"
+"argentina ","1998","48.18"
+"argentina ","2002","51.18"
+"argentina ","2008","44.77"
+"argentina ","2014","41.56"
+"argentina ","2022","41.2"
