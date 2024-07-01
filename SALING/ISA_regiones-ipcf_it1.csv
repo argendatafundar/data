@@ -1,15 +1,15 @@
-year,semestre,region,deflactor,indice
-2023,1,Partidos del GBA,ipc,.94068354
-2023,1,CABA,ipc,1.6315304
-2023,1,Pampeana,ipc,.99719048
-2023,1,NEA,ipc,.71657139
-2023,1,NOA,ipc,.70672309
-2023,1,Cuyo,ipc,.84550142
-2023,1,Patagonia,ipc,1.3025533
-2023,1,Partidos del GBA,linea de pobreza,.92422569
-2023,1,CABA,linea de pobreza,1.6021247
-2023,1,Pampeana,linea de pobreza,.98561513
-2023,1,NEA,linea de pobreza,.83301908
-2023,1,NOA,linea de pobreza,.85668755
-2023,1,Cuyo,linea de pobreza,.8667528
-2023,1,Patagonia,linea de pobreza,1.0809371
+"year","semestre","region","deflactor","indice"
+"2023","1","Partidos del GBA","ipc","0.94068354"
+"2023","1","CABA","ipc","1.6315304"
+"2023","1","Pampeana","ipc","0.99719048"
+"2023","1","NEA","ipc","0.71657139"
+"2023","1","NOA","ipc","0.70672309"
+"2023","1","Cuyo","ipc","0.84550142"
+"2023","1","Patagonia","ipc","1.3025533"
+"2023","1","Partidos del GBA","linea de pobreza","0.92422569"
+"2023","1","CABA","linea de pobreza","1.6021247"
+"2023","1","Pampeana","linea de pobreza","0.98561513"
+"2023","1","NEA","linea de pobreza","0.83301908"
+"2023","1","NOA","linea de pobreza","0.85668755"
+"2023","1","Cuyo","linea de pobreza","0.8667528"
+"2023","1","Patagonia","linea de pobreza","1.0809371"

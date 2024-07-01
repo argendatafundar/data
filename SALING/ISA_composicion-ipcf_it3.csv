@@ -1,31 +1,31 @@
-﻿year,semestre,edad_jefe,fuente,proporcion
-2023,1,24 o menos,Ingreso laboral,.71483225
-2023,1,25 a 34,Ingreso laboral,.86366439
-2023,1,35 a 44,Ingreso laboral,.90599132
-2023,1,45 a 54,Ingreso laboral,.8979522
-2023,1,55 a 64,Ingreso laboral,.79037809
-2023,1,65 o mas,Ingreso laboral,.41523993
-2023,1,24 o menos,Ingreso de capital,.0096792309
-2023,1,25 a 34,Ingreso de capital,.009834121
-2023,1,35 a 44,Ingreso de capital,.0083950954
-2023,1,45 a 54,Ingreso de capital,.011508266
-2023,1,55 a 64,Ingreso de capital,.023655724
-2023,1,65 o mas,Ingreso de capital,.015799239
-2023,1,24 o menos,Ingreso de jubilaciones,.0270717
-2023,1,25 a 34,Ingreso de jubilaciones,.019155778
-2023,1,35 a 44,Ingreso de jubilaciones,.027005343
-2023,1,45 a 54,Ingreso de jubilaciones,.047498118
-2023,1,55 a 64,Ingreso de jubilaciones,.15975052
-2023,1,65 o mas,Ingreso de jubilaciones,.54048783
-2023,1,24 o menos,Ingreso de transferencias estatales,.07216052
-2023,1,25 a 34,Ingreso de transferencias estatales,.072784163
-2023,1,35 a 44,Ingreso de transferencias estatales,.042493094
-2023,1,45 a 54,Ingreso de transferencias estatales,.021839825
-2023,1,55 a 64,Ingreso de transferencias estatales,.017156688
-2023,1,65 o mas,Ingreso de transferencias estatales,.014324848
-2023,1,24 o menos,Otros ingresos,.1762563
-2023,1,25 a 34,Otros ingresos,.034561511
-2023,1,35 a 44,Otros ingresos,.016115187
-2023,1,45 a 54,Otros ingresos,.021201568
-2023,1,55 a 64,Otros ingresos,.0090589961
-2023,1,65 o mas,Otros ingresos,.014148119
+"year","semestre","edad_jefe","fuente","proporcion"
+"2023","1","24 o menos","Ingreso laboral","0.71483225"
+"2023","1","25 a 34","Ingreso laboral","0.86366439"
+"2023","1","35 a 44","Ingreso laboral","0.90599132"
+"2023","1","45 a 54","Ingreso laboral","0.8979522"
+"2023","1","55 a 64","Ingreso laboral","0.79037809"
+"2023","1","65 o mas","Ingreso laboral","0.41523993"
+"2023","1","24 o menos","Ingreso de capital","0.0096792309"
+"2023","1","25 a 34","Ingreso de capital","0.009834121"
+"2023","1","35 a 44","Ingreso de capital","0.0083950954"
+"2023","1","45 a 54","Ingreso de capital","0.011508266"
+"2023","1","55 a 64","Ingreso de capital","0.023655724"
+"2023","1","65 o mas","Ingreso de capital","0.015799239"
+"2023","1","24 o menos","Ingreso de jubilaciones","0.0270717"
+"2023","1","25 a 34","Ingreso de jubilaciones","0.019155778"
+"2023","1","35 a 44","Ingreso de jubilaciones","0.027005343"
+"2023","1","45 a 54","Ingreso de jubilaciones","0.047498118"
+"2023","1","55 a 64","Ingreso de jubilaciones","0.15975052"
+"2023","1","65 o mas","Ingreso de jubilaciones","0.54048783"
+"2023","1","24 o menos","Ingreso de transferencias estatales","0.07216052"
+"2023","1","25 a 34","Ingreso de transferencias estatales","0.072784163"
+"2023","1","35 a 44","Ingreso de transferencias estatales","0.042493094"
+"2023","1","45 a 54","Ingreso de transferencias estatales","0.021839825"
+"2023","1","55 a 64","Ingreso de transferencias estatales","0.017156688"
+"2023","1","65 o mas","Ingreso de transferencias estatales","0.014324848"
+"2023","1","24 o menos","Otros ingresos","0.1762563"
+"2023","1","25 a 34","Otros ingresos","0.034561511"
+"2023","1","35 a 44","Otros ingresos","0.016115187"
+"2023","1","45 a 54","Otros ingresos","0.021201568"
+"2023","1","55 a 64","Otros ingresos","0.0090589961"
+"2023","1","65 o mas","Otros ingresos","0.014148119"
