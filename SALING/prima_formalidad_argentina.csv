@@ -1,43 +1,43 @@
-anio,tipo_prima,prima
-2003,Controlando por variables sociodemográficas,.41374925
-2003,Sin control por otras variables,.70877773
-2004,Controlando por variables sociodemográficas,.44645724
-2004,Sin control por otras variables,.72329617
-2005,Controlando por variables sociodemográficas,.48058602
-2005,Sin control por otras variables,.76532245
-2006,Controlando por variables sociodemográficas,.53463179
-2006,Sin control por otras variables,.82751834
-2007,Controlando por variables sociodemográficas,.53051895
-2007,Sin control por otras variables,.82167172
-2008,Controlando por variables sociodemográficas,.51821512
-2008,Sin control por otras variables,.80318844
-2009,Controlando por variables sociodemográficas,.50617111
-2009,Sin control por otras variables,.78679055
-2010,Controlando por variables sociodemográficas,.49129546
-2010,Sin control por otras variables,.76670665
-2011,Controlando por variables sociodemográficas,.4827303
-2011,Sin control por otras variables,.74413836
-2012,Controlando por variables sociodemográficas,.47110978
-2012,Sin control por otras variables,.72531652
-2013,Controlando por variables sociodemográficas,.43394727
-2013,Sin control por otras variables,.68733406
-2014,Controlando por variables sociodemográficas,.43062064
-2014,Sin control por otras variables,.67529464
-2015,Controlando por variables sociodemográficas,.41179204
-2015,Sin control por otras variables,.65302795
-2016,Controlando por variables sociodemográficas,.46762374
-2016,Sin control por otras variables,.71642858
-2017,Controlando por variables sociodemográficas,.46180701
-2017,Sin control por otras variables,.69879436
-2018,Controlando por variables sociodemográficas,.44729245
-2018,Sin control por otras variables,.67516124
-2019,Controlando por variables sociodemográficas,.4675239
-2019,Sin control por otras variables,.69940108
-2020,Controlando por variables sociodemográficas,.52481824
-2020,Sin control por otras variables,.785344
-2021,Controlando por variables sociodemográficas,.48361722
-2021,Sin control por otras variables,.72959971
-2022,Controlando por variables sociodemográficas,.4191246
-2022,Sin control por otras variables,.65302324
-2023,Controlando por variables sociodemográficas,.45262605
-2023,Sin control por otras variables,.67694026
+"anio","prima","tipo_prima"
+"2003","0.438928903342537","Controlando por variables sociodemográficas"
+"2003","0.73737903752531","Sin control por otras variables"
+"2004","0.474913980746745","Controlando por variables sociodemográficas"
+"2004","0.750121076379986","Sin control por otras variables"
+"2005","0.509567538532103","Controlando por variables sociodemográficas"
+"2005","0.792218768223897","Sin control por otras variables"
+"2006","0.56578045896255","Controlando por variables sociodemográficas"
+"2006","0.85555665334243","Sin control por otras variables"
+"2007","0.541107420940896","Controlando por variables sociodemográficas"
+"2007","0.833183567115046","Sin control por otras variables"
+"2008","0.518215132380417","Controlando por variables sociodemográficas"
+"2008","0.803188413765842","Sin control por otras variables"
+"2009","0.506153286892001","Controlando por variables sociodemográficas"
+"2009","0.786781993964566","Sin control por otras variables"
+"2010","0.491295485114382","Controlando por variables sociodemográficas"
+"2010","0.766706666691399","Sin control por otras variables"
+"2011","0.482730314458188","Controlando por variables sociodemográficas"
+"2011","0.744138407312585","Sin control por otras variables"
+"2012","0.471109783208078","Controlando por variables sociodemográficas"
+"2012","0.725316548760005","Sin control por otras variables"
+"2013","0.433947271597445","Controlando por variables sociodemográficas"
+"2013","0.68733407735858","Sin control por otras variables"
+"2014","0.430620644255149","Controlando por variables sociodemográficas"
+"2014","0.675294597519906","Sin control por otras variables"
+"2015","0.411792054146557","Controlando por variables sociodemográficas"
+"2015","0.653027958209275","Sin control por otras variables"
+"2016","0.467623723372386","Controlando por variables sociodemográficas"
+"2016","0.716428555606026","Sin control por otras variables"
+"2017","0.461807020908332","Controlando por variables sociodemográficas"
+"2017","0.698794378786809","Sin control por otras variables"
+"2018","0.447292435997225","Controlando por variables sociodemográficas"
+"2018","0.675161243997814","Sin control por otras variables"
+"2019","0.467523912447425","Controlando por variables sociodemográficas"
+"2019","0.699401094334058","Sin control por otras variables"
+"2020","0.523668390775279","Controlando por variables sociodemográficas"
+"2020","0.784236015972029","Sin control por otras variables"
+"2021","0.483846986562012","Controlando por variables sociodemográficas"
+"2021","0.730159302306127","Sin control por otras variables"
+"2022","0.4191246068877","Controlando por variables sociodemográficas"
+"2022","0.653023257853514","Sin control por otras variables"
+"2023","0.456080408658927","Controlando por variables sociodemográficas"
+"2023","0.685623004944819","Sin control por otras variables"
