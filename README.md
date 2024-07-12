@@ -2,8 +2,6 @@
 
 En este repositorio se comparten conjuntos de datos publicados en cada tópico de Argendata. Estos corresponden a la salida del proceso semi automatizado de [rerproductibilidad (ETL)](https://github.com/argendata/etl), equivalente a los datos producidos por investigadores [^2]. 
 
-[^2]: El flujo de trabajo definido para la reproductibilidad cuenta con una librería de `R` que reune un conjunto de funciones para facilitar el flujo de trabajo con fuentes y recursos en Argendata [https://github.com/argendata/argendataR](https://github.com/argendata/argendataR)
-
 En el siguiente esquema se muestra como ejemplo la organización de la infromación: **(i)** el sistema de archivos se organiza a partir de tópicos (`AGROPE`, `CAMCLI`, `COMEXT`, etc.); **(ii)** al interior de cada directorio se guardan las salidas del proceso de ETL (datos y metadatos). 
 
 ```
@@ -66,11 +64,10 @@ En el siguiente esquema se muestra como ejemplo la organización de la infromaci
 
 ```
 
-En el ejemplo, para el tópico de Comercio Exterior (`COMEXT`) se visualizan archvios `.csv` y `.json` asociados a cada uno de los items (`cambio_destinos_exportacion`, por ejemplo). El primero de ellos contiene los datos. El segundo también incluye los metadatos asociados (fuente de información, institución productora, fechas de procesamiento, etc.):
+En el ejemplo, para el tópico de **[Comercio Exterior](https://argendata.fund.ar/topico/comercio-exterior/)**(`COMEXT`) se visualizan archvios `.csv` y `.json` asociados a cada uno de los items (`cambio_destinos_exportacion`, por ejemplo). El primero de ellos contiene los datos. El segundo también incluye los metadatos asociados (fuente de información, institución productora, fechas de procesamiento, etc.):
 
 
-
-### `cambio_destinos_exportacion.csv`
+### `cambio_destinos_exportacion.csv` [^3]
 ```
 "iso3","location_name_short_en","partner_code","partner_name_short_en","export_value_pca","export_value_pcb"
 "AFG","Afghanistan","ANT","Netherlands Antilles","0",
@@ -88,9 +85,9 @@ En el ejemplo, para el tópico de Comercio Exterior (`COMEXT`) se visualizan arc
 Estos datos, que son los que se disponibilizan para la descarga de usuarios de Argendata, son procesados luego por [transformers](https://github.com/argendata/transformers) para servir de insumo para la graficación en el [Frontend](https://argendata.fund.ar/) [^1]. 
 
 
-
 [^1]: Para este proceso se desarrolló una [librería para `Python`](https://github.com/argendata/data-transformers) que busca facilitar la escritura, ejecución, reproducibilidad y el versionado del código fuente que se realice para manipular datos estructurados para la graficación. Típicamente se trata de dar un formato estandarizado a los datos a través de acciones como el filtrado de valores o la selección / renombrado de variables. El [siguiente _transformer_](https://github.com/argendata/transformers/blob/main/COMEXT/COMEXT_g18_transformer.py) se corresponde con el ejemplo antes expuesto. 
 
+[^2]: El flujo de trabajo definido para la reproductibilidad cuenta con una librería de `R` que reune un conjunto de funciones para facilitar el flujo de trabajo con fuentes y recursos en Argendata [https://github.com/argendata/argendataR](https://github.com/argendata/argendataR)
 
-
+[^3]: El código que genera esta salida es parte del proceso de ETL y puede consultarse en el _script_ [`18_cambio_destinos_exportacion.R`](https://github.com/argendata/etl/blob/main/scripts/subtopicos/COMEXT/18_cambio_destinos_exportacion.R)
 
