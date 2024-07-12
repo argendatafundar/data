@@ -66,8 +66,9 @@ En el siguiente esquema se muestra como ejemplo la organización de la infromaci
 
 ```
 
-En el ejemplo, para el tópico de Comercio Exterior (`COMEXT`) se visualizan archvios `.csv` y `.json` asociados a cada uno de los items (`cambio_destinos_exportacion`, por ejemplo). El primero de ellos contiene los datos. El segundo también incluye los metadatos asociados (fuente de información, institución productora, fechas de procesamiento, etc.):
+En el ejemplo, para el tópico de **[Comercio Exterior](https://argendata.fund.ar/topico/comercio-exterior/)**(`COMEXT`) se visualizan archvios `.csv` y `.json` asociados a cada uno de los items (`cambio_destinos_exportacion` [^3], por ejemplo). El primero de ellos contiene los datos. El segundo también incluye los metadatos asociados (fuente de información, institución productora, fechas de procesamiento, etc.):
 
+[^3]: El código que genera esta salida es parte del proceso de ETL y puede consultarse en el _script_ [`18_cambio_destinos_exportacion.R`](https://github.com/argendata/etl/blob/main/scripts/subtopicos/COMEXT/18_cambio_destinos_exportacion.R)
 
 
 ### `cambio_destinos_exportacion.csv`
