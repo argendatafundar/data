@@ -63,3 +63,12 @@ Estos datos, que son los que se disponibilizan para la descarga de usuarios de A
 
 [^3]: El código que genera esta salida es parte del proceso de ETL y puede consultarse en el _script_ [`18_cambio_destinos_exportacion.R`](https://github.com/argendata/etl/blob/main/scripts/subtopicos/COMEXT/18_cambio_destinos_exportacion.R)
 
+<div align='center'>
+<a href="https://www.github.com/argendatafundar">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/af62f153-a62c-44dc-a0f5-f6351d688593">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/917ec92b-52a5-45dd-8dcc-9ab8ab7d63cf">
+    <img src="github.com/argendatafundar"></img>
+  </picture>
+</a>
+</div>
