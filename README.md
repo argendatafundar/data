@@ -10,64 +10,30 @@ En este repositorio se comparten conjuntos de datos publicados en cada tópico d
 
 En el siguiente esquema se muestra como ejemplo la organización de la infromación: **(i)** el sistema de archivos se organiza a partir de tópicos (`AGROPE`, `CAMCLI`, `COMEXT`, etc.); **(ii)** al interior de cada directorio se guardan las salidas del proceso de ETL (datos y metadatos). 
 
+## Esquema del sistema de archivos
 ```
-├── AGROPE
+├── TOPICO
+├── ...
 ├── CAMCLI
-├── COMEXT
-│   ├── cambio_destinos_exportacion.csv
-│   ├── cambio_destinos_exportacion.json
-│   ├── cambio_origenes_importacion.csv
-│   ├── cambio_origenes_importacion.json
-│   ├── composicion_exportaciones_bienes_diferenciado_Bernini.csv
-│   ├── composicion_exportaciones_bienes_diferenciado_Bernini.json
-│   ├── composicion_exportaciones_bienes_regiones_mundo.csv
-│   ├── composicion_exportaciones_bienes_regiones_mundo.json
-│   ├── composicion_exportaciones_bienes_sectores_Brambilla_Porto.csv
-│   ├── composicion_exportaciones_bienes_sectores_Brambilla_Porto.json
-│   ├── composicion_exportaciones_bienes_sitc_seccion.csv
-│   ├── composicion_exportaciones_bienes_sitc_seccion.json
-│   ├── composicion_exportaciones_servicios_EBOPS_2digitos_agrupado.csv
-│   ├── composicion_exportaciones_servicios_EBOPS_2digitos_agrupado.json
-│   ├── composicion_importaciones_bienes_diferenciado_Bernini.csv
-│   ├── composicion_importaciones_bienes_diferenciado_Bernini.json
-│   ├── composicion_importaciones_bienes_regiones_mundo.csv
-│   ├── composicion_importaciones_bienes_regiones_mundo.json
-│   ├── composicion_importaciones_bienes_sectores_Brambilla_Porto.csv
-│   ├── composicion_importaciones_bienes_sectores_Brambilla_Porto.json
-│   ├── composicion_importaciones_bienes_sitc_seccion.csv
-│   ├── composicion_importaciones_bienes_sitc_seccion.json
-│   ├── exportaciones_bienes_servicios_millones_usd_constantes_2015.csv
-│   ├── exportaciones_bienes_servicios_millones_usd_constantes_2015.json
-│   ├── exportaciones_servicios_top_20_destinos.csv
-│   ├── exportaciones_servicios_top_20_destinos.json
-│   ├── indice_apertura_comercial.csv
-│   ├── indice_apertura_comercial.json
-│   ├── indice_cantidad_exportaciones_argentina.csv
-│   ├── indice_cantidad_exportaciones_argentina.json
-│   ├── indice_valores_unitarios_exportacion_bienes_2000.csv
-│   ├── indice_valores_unitarios_exportacion_bienes_2000.json
-│   ├── indice_volumen_exportaciones_bienes_2000.csv
-│   ├── indice_volumen_exportaciones_bienes_2000.json
-│   ├── participacion_exportaciones_bienes_servicios_mundo.csv
-│   ├── participacion_exportaciones_bienes_servicios_mundo.json
-│   ├── participacion_exportaciones_bienes_servicios_porcentaje_pib.csv
-│   ├── participacion_exportaciones_bienes_servicios_porcentaje_pib.json
-│   ├── participacion_exportaciones_servicios_porcentaje_exportaciones.csv
-│   └── participacion_exportaciones_servicios_porcentaje_exportaciones.json
-├── CRECIM
-├── DESHUM
-├── DESIGU
-├── ESTPRO
-├── INFDES
-├── MERTRA
-├── MINERI
-├── POBREZ
-├── PRECIO
-├── SALING
-├── SEBACO
-└── TRANEN
- 
-
+│   ├── dataset.csv
+│   ├── dataset.json
+│   └── ...
+└── COMEXT
+    ├── cambio_destinos_exportacion.csv
+    ├── cambio_destinos_exportacion.json
+    ├── cambio_origenes_importacion.csv
+    ├── cambio_origenes_importacion.json
+    ├── composicion_exportaciones_bienes_diferenciado_Bernini.csv
+    ├── composicion_exportaciones_bienes_diferenciado_Bernini.json
+    ├── composicion_exportaciones_bienes_regiones_mundo.csv
+    ├── composicion_exportaciones_bienes_regiones_mundo.json
+    ├── composicion_exportaciones_bienes_sectores_Brambilla_Porto.csv
+    ├── composicion_exportaciones_bienes_sectores_Brambilla_Porto.json
+    ├── composicion_exportaciones_bienes_sitc_seccion.csv
+    ├── composicion_exportaciones_bienes_sitc_seccion.json
+    ├── composicion_exportaciones_servicios_EBOPS_2digitos_agrupado.csv
+    ├── composicion_exportaciones_servicios_EBOPS_2digitos_agrupado.json
+    └── ...
 ```
 
 En el ejemplo, para el tópico de **[Comercio Exterior](https://argendata.fund.ar/topico/comercio-exterior/)**(`COMEXT`) se visualizan archvios `.csv` y `.json` asociados a cada uno de los items (`cambio_destinos_exportacion`, por ejemplo). El primero de ellos contiene los datos. El segundo también incluye los metadatos asociados (fuente de información, institución productora, fechas de procesamiento, etc.):
