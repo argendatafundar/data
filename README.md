@@ -1,10 +1,12 @@
 <div align='left'>
-<img src="https://github.com/user-attachments/assets/0730507d-59cf-4905-95f2-01469c091b08" style="width: 300px;" />
+    <a href="https://fund.ar">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/0730507d-59cf-4905-95f2-01469c091b08">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/ca91a731-6d35-4028-a5f6-bdd8e15d03aa">
+    <img src="fund.ar"></img>
+  </picture>
+</a>
 </div>
-
-<!-- ![data](https://github.com/user-attachments/assets/ca91a731-6d35-4028-a5f6-bdd8e15d03aa) -->
-
-
 
 En este repositorio se comparten conjuntos de datos publicados en cada tópico de Argendata. Estos corresponden a la salida del proceso semi automatizado de [rerproductibilidad (ETL)](https://github.com/argendata/etl), equivalente a los datos producidos por investigadores [^2]. 
 
