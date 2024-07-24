@@ -12,6 +12,101 @@ En este repositorio se comparten conjuntos de datos publicados en cada tópico d
 
 En el siguiente esquema se muestra como ejemplo la organización de la infromación: **(i)** el sistema de archivos se organiza a partir de tópicos (`AGROPE`, `CAMCLI`, `COMEXT`, etc.); **(ii)** al interior de cada directorio se guardan las salidas del proceso de ETL (datos y metadatos). 
 
+<div align='center', width="100%">
+    <table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>topico</th>
+      <th>subtopico</th>
+      <th>codigo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://argendata.fund.ar/categorias/ambiente">Ambiente</a></td>
+      <td><a href="https://argendata.fund.ar/topico/emisiones-de-gases-de-efecto-invernadero/">Emisiones de gases de efecto invernadero</a></td>
+      <td>CAMCLI</td>
+    </tr>
+    <tr>
+      <td><a href="https://argendata.fund.ar/categorias/ambiente">Ambiente</a></td>
+      <td><a href="https://argendata.fund.ar/topico/cambio-climatico/">Cambio climático</a></td>
+      <td>CAMCLI</td>
+    </tr>
+    <tr>
+      <td><a href="https://argendata.fund.ar/categorias/ambiente">Ambiente</a></td>
+      <td><a href="https://argendata.fund.ar/topico/transicion-energetica/">Transición energética</a></td>
+      <td>TRANEN</td>
+    </tr>
+    <tr>
+      <td><a href="https://argendata.fund.ar/categorias/macroeconomia">Macroeconomía</a></td>
+      <td><a href="https://argendata.fund.ar/topico/crecimiento/">Crecimiento</a></td>
+      <td>CRECIM</td>
+    </tr>
+    <tr>
+      <td><a href="https://argendata.fund.ar/categorias/macroeconomia">Macroeconomía</a></td>
+      <td><a href="https://argendata.fund.ar/topico/inflacion/">Inflación</a></td>
+      <td>PRECIO</td>
+    </tr>
+    <tr>
+      <td><a href="https://argendata.fund.ar/categorias/desarrollo">Desarrollo</a></td>
+      <td><a href="https://argendata.fund.ar/topico/pobreza/">Pobreza</a></td>
+      <td>POBREZ</td>
+    </tr>
+    <tr>
+      <td><a href="https://argendata.fund.ar/categorias/desarrollo">Desarrollo</a></td>
+      <td><a href="https://argendata.fund.ar/topico/estructura-productiva/">Estructura productiva</a></td>
+      <td>ESTPRO</td>
+    </tr>
+    <tr>
+      <td><a href="https://argendata.fund.ar/categorias/desarrollo">Desarrollo</a></td>
+      <td><a href="https://argendata.fund.ar/topico/desarrollo-humano/">Desarrollo humano</a></td>
+      <td>DESHUM</td>
+    </tr>
+    <tr>
+      <td><a href="https://argendata.fund.ar/categorias/desarrollo">Desarrollo</a></td>
+      <td><a href="https://argendata.fund.ar/topico/comercio-exterior/">Comercio exterior</a></td>
+      <td>COMEXT</td>
+    </tr>
+    <tr>
+      <td><a href="https://argendata.fund.ar/categorias/desigualdad">Desigualdad</a></td>
+      <td><a href="https://argendata.fund.ar/topico/desigualdad/">Desigualdad</a></td>
+      <td>DESIGU</td>
+    </tr>
+    <tr>
+      <td><a href="https://argendata.fund.ar/categorias/sectores-productivos">Sectores productivos</a></td>
+      <td><a href="https://argendata.fund.ar/topico/agroindustria/">Agroindustria</a></td>
+      <td>AGROPE</td>
+    </tr>
+    <tr>
+      <td><a href="https://argendata.fund.ar/categorias/sectores-productivos">Sectores productivos</a></td>
+      <td><a href="https://argendata.fund.ar/topico/servicios-basados-en-el-conocimiento/">Servicios basados en el conocimiento</a></td>
+      <td>SEBACO</td>
+    </tr>
+    <tr>
+      <td><a href="https://argendata.fund.ar/categorias/sectores-productivos">Sectores productivos</a></td>
+      <td><a href="https://argendata.fund.ar/topico/mineria/">Minería</a></td>
+      <td>MINERI</td>
+    </tr>
+    <tr>
+      <td><a href='https://argendata.fund.ar/categorias/trabajo-e-ingresos/'>Trabajo e ingresos</a></td>
+      <td><a href="https://argendata.fund.ar/topico/salarios-e-ingresos/">Salarios e ingresos</a></td>
+      <td>SALING</td>
+    </tr>
+    <tr>
+      <td><a href='https://argendata.fund.ar/categorias/trabajo-e-ingresos/'>Trabajo e ingresos</a></td>
+      <td><a href="https://argendata.fund.ar/topico/trabajo-y-participacion-laboral/">Trabajo y participación laboral</a></td>
+      <td>MERTRA</td>
+    </tr>
+    <tr>
+      <td><a href='https://argendata.fund.ar/categorias/trabajo-e-ingresos/'>Trabajo e ingresos</a></td>
+      <td><a href="https://argendata.fund.ar/topico/informalidad-y-desempleo/">Informalidad y desempleo</a></td>
+      <td>INFDES</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
 ## Esquema del sistema de archivos
 ```
 ├── TOPICO
