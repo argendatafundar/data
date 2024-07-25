@@ -16,8 +16,8 @@ En el siguiente esquema se muestra como ejemplo la organización de la infromaci
     <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
+      <th>categoria</th>
       <th>topico</th>
-      <th>subtopico</th>
       <th>codigo</th>
     </tr>
   </thead>
