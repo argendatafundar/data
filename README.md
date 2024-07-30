@@ -68,7 +68,7 @@ En el siguiente esquema se muestra como ejemplo la organización de la infromaci
       <td>COMEXT</td>
     </tr>
     <tr>
-      <td><a href="https://argendata.fund.ar/categorias/desigualdad">Desigualdad</a></td>
+      <td><a href="https://argendata.fund.ar/categorias/desigualdad">Desarrollo</a></td>
       <td><a href="https://argendata.fund.ar/topico/desigualdad/">Desigualdad</a></td>
       <td>DESIGU</td>
     </tr>
