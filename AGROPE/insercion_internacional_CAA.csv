@@ -1,32 +1,33 @@
 tipo_cadena,valor
-Ajo,0.111
-Algodón,0.483
-Arroz,0.121
-Avícola,0.058
-Berries,0.023
-Bovino,0.143
-Caña de azúcar,0.231
-Caprino,0.036
-Cebada,0.400
-Cítrico,0.066
-Colza,0.593
-Forestal,0.148
-Girasol,0.475
-Lácteo,0.110
-Limón,0.440
-Maíz,0.693
-Maní,0.605
 Miel,0.855
-Olivo,0.713
-Ovinos,0.028
-Papa,0.727
-Peras y Manzanas,0.150
-Porcinos,0.003
-Soja,0.641
-Sorgo,0.760
-Tabaco,0.218
 Té,0.852
-Tomate,0.041
+Sorgo,0.760
+Papa,0.727
+Olivo,0.713
+Maíz,0.693
+Soja,0.641
+Maní,0.605
+Colza,0.593
+Algodón,0.483
+Girasol,0.475
+Limón,0.440
+Cebada,0.400
 Trigo,0.381
 Uva,0.381
+Media economía,0.339
+Caña de azúcar,0.231
+Tabaco,0.218
+Peras y Manzanas,0.150
+Forestal,0.148
+Bovino,0.143
+Arroz,0.121
+Ajo,0.111
+Lácteo,0.110
+Cítrico,0.066
+Avícola,0.058
+Tomate,0.041
+Caprino,0.036
 Yerba Mate,0.036
+Ovinos,0.028
+Berries,0.023
+Porcinos,0.003
