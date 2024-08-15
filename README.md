@@ -104,6 +104,7 @@ En el siguiente esquema se muestra como ejemplo la organización de la infromaci
     </tr>
   </tbody>
 </table>
+</div>
 
 - [Actividad económica](#actividad-económica)
 - [Agroindustria](#agroindustria)
@@ -528,9 +529,6 @@ En el siguiente esquema se muestra como ejemplo la organización de la infromaci
 | Intensidad de carbono de la matriz eléctrica en Argentina | [intensidad-de-carbono-de-la-matriz-electrica-en-argentina](https://argendata.fund.ar/graficos/intensidad-de-carbono-de-la-matriz-electrica-en-argentina/) |
 | Intensidad de carbono de la matriz eléctrica global       | [intensidad-de-carbono-de-la-matriz-electrica-global](https://argendata.fund.ar/graficos/intensidad-de-carbono-de-la-matriz-electrica-global/)             |
 
-
-
-</div>
 
 ## Esquema del sistema de archivos
 ```
