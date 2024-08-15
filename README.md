@@ -106,6 +106,9 @@ En el siguiente esquema se muestra como ejemplo la organización de la infromaci
 </table>
 </div>
 
+---
+## Índice
+
 - [Actividad económica](#actividad-económica)
 - [Agroindustria](#agroindustria)
 - [Cambio climático y emisiones de gases de efecto invernadero](#cambio-climático-y-emisiones-de-gases-de-efecto-invernadero)
@@ -122,8 +125,10 @@ En el siguiente esquema se muestra como ejemplo la organización de la infromaci
 - [Salarios e ingresos](#salarios-e-ingresos)
 - [Servicios basados en el conocimiento](#servicios-basados-en-el-conocimiento)
 - [Transición energética](#transición-energética)
-
+---
 ## [Actividad económica](./ACECON/)
+[(volver al índice)](#índice)
+
 | titulo                                                    | link                                                                                                                                                       |
 |:----------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------|
 | La demanda agregada de Argentina y su relación con el PIB | [la-demanda-agregada-de-argentina-y-su-relacion-con-el-pib](https://argendata.fund.ar/graficos/la-demanda-agregada-de-argentina-y-su-relacion-con-el-pib/) |
@@ -131,6 +136,8 @@ En el siguiente esquema se muestra como ejemplo la organización de la infromaci
 | Participación de los factores productivos en el PIB       | [participacion-de-los-factores-productivos-en-el-pib](https://argendata.fund.ar/graficos/participacion-de-los-factores-productivos-en-el-pib/)             |
 
 ## [Agroindustria](./AGROPE/)
+[(volver al índice)](#índice)
+
 | titulo                                                                             | link                                                                                                                                                                                                         |
 |:-----------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Principales productos exportados vinculados al sector agroindustrial               | [principales-productos-exportados-vinculados-al-sector-agroindustrial-2](https://argendata.fund.ar/graficos/principales-productos-exportados-vinculados-al-sector-agroindustrial-2/)                         |
@@ -171,6 +178,8 @@ En el siguiente esquema se muestra como ejemplo la organización de la infromaci
 | Principales exportaciones argentinas del sector agroindustrial                     | [principales-exportaciones-argentinas-del-sector-agroindustrial](https://argendata.fund.ar/graficos/principales-exportaciones-argentinas-del-sector-agroindustrial/)                                         |
 
 ## [Cambio climático y emisiones de gases de efecto invernadero](./CAMCLI/)
+[(volver al índice)](#índice)
+
 | titulo                                                                                             | link                                                                                                                                                                                   |
 |:---------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Anomalía anual de temperatura media a nivel país                                                   | [anomalia-anual-de-temperatura-media-a-nivel-pais](https://argendata.fund.ar/graficos/anomalia-anual-de-temperatura-media-a-nivel-pais/)                                               |
@@ -207,6 +216,8 @@ En el siguiente esquema se muestra como ejemplo la organización de la infromaci
 | Aumentos y descensos de temperatura en el Mar Argentino                                            | [aumentos-y-descensos-de-temperatura-en-el-mar-argentino](https://argendata.fund.ar/graficos/aumentos-y-descensos-de-temperatura-en-el-mar-argentino/)                                 |
 
 ## [Comercio exterior](./COMEXT/)
+[(volver al índice)](#índice)
+
 | titulo                                                                                       | link                                                                                                                                                                                                                             |
 |:---------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Exportaciones de Argentina en el largo plazo                                                 | [exportaciones-de-argentina-en-el-largo-plazo](https://argendata.fund.ar/graficos/exportaciones-de-argentina-en-el-largo-plazo/)                                                                                                 |
@@ -232,6 +243,8 @@ En el siguiente esquema se muestra como ejemplo la organización de la infromaci
 | Top 20 países de destino de las exportaciones argentinas de servicios                        | [top-20-paises-de-destino-de-las-exportaciones-argentinas-de-servicios](https://argendata.fund.ar/graficos/top-20-paises-de-destino-de-las-exportaciones-argentinas-de-servicios/)                                               |
 
 ## [Crecimiento](./CRECIM/)
+[(volver al índice)](#índice)
+
 | titulo                                                                                                | link                                                                                                                                                                                                                       |
 |:------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Primeros diez países según PIB y PIB per cápita                                                       | [primeros-diez-paises-segun-pib-y-pib-per-capita](https://argendata.fund.ar/graficos/primeros-diez-paises-segun-pib-y-pib-per-capita/)                                                                                     |
@@ -261,6 +274,8 @@ En el siguiente esquema se muestra como ejemplo la organización de la infromaci
 | PIB per cápita de Argentina en relación al de otros países latinoamericanos                           | [pib-per-capita-de-argentina-como-porcentaje-del-de-otros-paises-latinoamericanos](https://argendata.fund.ar/graficos/pib-per-capita-de-argentina-como-porcentaje-del-de-otros-paises-latinoamericanos/)                   |
 
 ## [Desarrollo humano](./DESHUM/)
+[(volver al índice)](#índice)
+
 | titulo                                                                                                       | link                                                                                                                                                                                             |
 |:-------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Índice de Desarrollo Humano en el mundo                                                                      | [indice-de-desarrollo-humano-en-el-mundo](https://argendata.fund.ar/graficos/indice-de-desarrollo-humano-en-el-mundo/)                                                                           |
@@ -284,6 +299,8 @@ En el siguiente esquema se muestra como ejemplo la organización de la infromaci
 | Índice de Desarrollo Humano aumentado para países y regiones seleccionadas                                   | [idh-aumentado-para-paises-y-regiones-seleccionadas](https://argendata.fund.ar/graficos/idh-aumentado-para-paises-y-regiones-seleccionadas/)                                                     |
 
 ## [Desigualdad](./DESIGU/)
+[(volver al índice)](#índice)
+
 | titulo                                                          | link                                                                                                                                                                   |
 |:----------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Desigualdad de ingresos por decil                               | [desigualdad-de-ingresos-por-decil](https://argendata.fund.ar/graficos/desigualdad-de-ingresos-por-decil/)                                                             |
@@ -313,6 +330,8 @@ En el siguiente esquema se muestra como ejemplo la organización de la infromaci
 | Cantidad de horas trabajadas remuneradas                        | [cantidad-de-horas-trabajadas-remuneradas](https://argendata.fund.ar/graficos/cantidad-de-horas-trabajadas-remuneradas/)                                               |
 
 ## [Estructura productiva](./ESTPRO/)
+[(volver al índice)](#índice)
+
 | titulo                                                                                   | link                                                                                                                                                                                                                                                                                                                                                                       |
 |:-----------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Peso de los diferentes sectores en la estructura productiva argentina                    | [peso-de-los-diferentes-sectores-de-la-estructura-productiva-argentina](https://argendata.fund.ar/graficos/peso-de-los-diferentes-sectores-de-la-estructura-productiva-argentina/)                                                                                                                                                                                         |
@@ -341,6 +360,8 @@ En el siguiente esquema se muestra como ejemplo la organización de la infromaci
 | Peso de los bienes y servicios de media y alta intensidad en I+D en países seleccionados | [peso-de-los-bienes-y-servicios-de-media-y-alta-intensidad-en-id-en-paises-seleccionados](https://argendata.fund.ar/graficos/peso-de-los-bienes-y-servicios-de-media-y-alta-intensidad-en-id-en-paises-seleccionados/)                                                                                                                                                     |
 
 ## [Informalidad y desempleo](./INFDES/)
+[(volver al índice)](#índice)
+
 | titulo                                                         | link                                                                                                                                                                 |
 |:---------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Informalidad en América Latina                                 | [informalidad-en-america-latina](https://argendata.fund.ar/graficos/informalidad-en-america-latina/)                                                                 |
@@ -359,6 +380,8 @@ En el siguiente esquema se muestra como ejemplo la organización de la infromaci
 | Desocupación según nivel educativo                             | [desocupacion-segun-nivel-educativo](https://argendata.fund.ar/graficos/desocupacion-segun-nivel-educativo/)                                                         |
 
 ## [Trabajo y participación laboral](./MERTRA/)
+[(volver al índice)](#índice)
+
 | titulo                                                                                             | link                                                                                                                                                                                                                                                                                                                                 |
 |:---------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Participación laboral por género                                                                   | [participacion-laboral-por-genero](https://argendata.fund.ar/graficos/participacion-laboral-por-genero/)                                                                                                                                                                                                                             |
@@ -384,6 +407,8 @@ En el siguiente esquema se muestra como ejemplo la organización de la infromaci
 | Tiempo dedicado al trabajo no remunerado realizado por mujeres para países seleccionados           | [tiempo-dedicado-al-trabajo-no-remunerado-realizado-por-mujeres-para-paises-seleccionados](https://argendata.fund.ar/graficos/tiempo-dedicado-al-trabajo-no-remunerado-realizado-por-mujeres-para-paises-seleccionados/)                                                                                                             |
 
 ## [Minería](./MINERI/)
+[(volver al índice)](#índice)
+
 | titulo                                                                                                  | link                                                                                                                                                                                                                                                   |
 |:--------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Participación de la minería en el PIB                                                                   | [estadisticas-de-la-participacion-de-la-mineria-en-el-pib](https://argendata.fund.ar/graficos/estadisticas-de-la-participacion-de-la-mineria-en-el-pib/)                                                                                               |
@@ -408,8 +433,9 @@ En el siguiente esquema se muestra como ejemplo la organización de la infromaci
 | Minerales utilizados por tipo de vehículo (combustión versus eléctrico)                                 | [minerales-utilizados-por-tipo-de-vehiculo-combustion-versus-electrico](https://argendata.fund.ar/graficos/minerales-utilizados-por-tipo-de-vehiculo-combustion-versus-electrico/)                                                                     |
 | Posición argentina en la producción de minerales seleccionados                                          | [posicion-argentina-en-la-produccion-de-minerales-seleccionados-2](https://argendata.fund.ar/graficos/posicion-argentina-en-la-produccion-de-minerales-seleccionados-2/)                                                                               |
 
-
 ## [Pobreza](./POBREZ/)
+[(volver al índice)](#índice)
+
 | titulo                                                                   | link                                                                                                                                                                                     |
 |:-------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Porcentaje de Hogares con NBI                                            | [porcentaje-de-hogares-con-nbi](https://argendata.fund.ar/graficos/porcentaje-de-hogares-con-nbi/)                                                                                       |
@@ -435,6 +461,8 @@ En el siguiente esquema se muestra como ejemplo la organización de la infromaci
 | Pobreza en Argentina                                                     | [pobreza-en-argentina-2](https://argendata.fund.ar/graficos/pobreza-en-argentina-2/)                                                                                                     |
 
 ## [Inflación](./PRECIO/)
+[(volver al índice)](#índice)
+
 | titulo                                                             | link                                                                                                                                                                 |
 |:-------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Índice de Precios al Consumidor en Argentina                       | [el-indice-de-precios-al-consumidor-ipc-en-argentina](https://argendata.fund.ar/graficos/el-indice-de-precios-al-consumidor-ipc-en-argentina/)                       |
@@ -450,6 +478,8 @@ En el siguiente esquema se muestra como ejemplo la organización de la infromaci
 | Inflación en la Argentina (recortado)                              | [inflacion-en-la-argentina-log](https://argendata.fund.ar/graficos/inflacion-en-la-argentina-log/)                                                                   |
 
 ## [Salarios e ingresos](./SALING/)
+[(volver al índice)](#índice)
+
 | titulo                                                                                         | link                                                                                                                                                                                             |
 |:-----------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Ingreso per cápita familiar                                                                    | [ingreso-per-capita-familiar](https://argendata.fund.ar/graficos/ingreso-per-capita-familiar/)                                                                                                   |
@@ -474,6 +504,8 @@ En el siguiente esquema se muestra como ejemplo la organización de la infromaci
 | Brecha en el salario entre asalariados registrados y no registrados                            | [brecha-en-el-salario-entre-asalariados-registrados-y-no-registrados](https://argendata.fund.ar/graficos/brecha-en-el-salario-entre-asalariados-registrados-y-no-registrados/)                   |
 
 ## [Servicios basados en el conocimiento](./SEBACO/)
+[(volver al índice)](#índice)
+
 | titulo                                                                                  | link                                                                                                                                                                                                     |
 |:----------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Relevancia de las ventas de SBC sobre el total nacional                                 | [relevancia-de-las-ventas-de-sbc-sobre-el-total-nacional](https://argendata.fund.ar/graficos/relevancia-de-las-ventas-de-sbc-sobre-el-total-nacional/)                                                   |
@@ -503,6 +535,8 @@ En el siguiente esquema se muestra como ejemplo la organización de la infromaci
 | Importaciones argentinas de SBC según país de origen                                    | [importaciones-argentinas-de-sbc-segun-pais-de-origen](https://argendata.fund.ar/graficos/importaciones-argentinas-de-sbc-segun-pais-de-origen/)                                                         |
 
 ## [Transición energética](./TRANEN/)
+[(volver al índice)](#índice)
+
 | titulo                                                    | link                                                                                                                                                       |
 |:----------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Trilema energético                                        | [trilema-energetico](https://argendata.fund.ar/graficos/trilema-energetico/)                                                                               |
@@ -528,6 +562,7 @@ En el siguiente esquema se muestra como ejemplo la organización de la infromaci
 | Intensidad energética                                     | [intensidad-energetica](https://argendata.fund.ar/graficos/intensidad-energetica/)                                                                         |
 | Intensidad de carbono de la matriz eléctrica en Argentina | [intensidad-de-carbono-de-la-matriz-electrica-en-argentina](https://argendata.fund.ar/graficos/intensidad-de-carbono-de-la-matriz-electrica-en-argentina/) |
 | Intensidad de carbono de la matriz eléctrica global       | [intensidad-de-carbono-de-la-matriz-electrica-global](https://argendata.fund.ar/graficos/intensidad-de-carbono-de-la-matriz-electrica-global/)             |
+
 
 
 ## Esquema del sistema de archivos
