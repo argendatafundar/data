@@ -120,6 +120,46 @@ Cada tópico de ArgenData tiene asignado un nombre en clave de seis letras mayú
 
 ## Esquema del respositorio
 
+En la carpeta de cada tópico, pueden hallarse dos tipos de archivos por dataset único:
+- El dataset original limpio en formato `.csv` (ó, aveces, `.geojson`).
+- Metadatos en formato `.json` sobre el dataset de mismo nombre. Incluyen fuentes, extensión, tipos de dato por variable, entre otros.
+
+Por ejemplo, tomemos a `PRECIO/12_tasa_de_inflacion_mensual_argentina_ene1989_dic1993`:
+
+`.csv`
+```csv
+"fecha","inflacion_mensual"
+"1989-01-01","8.92000661557979"
+"1989-02-01","9.59153717669683"
+"1989-03-01","17.0053574727509"
+"1989-04-01","33.3701744690931"
+...
+```
+
+`.json`
+```json
+{
+  "subtopico": [
+    "PRECIO"
+  ],
+  "output_name": [
+    "12_tasa_de_inflacion_mensual_argentina_ene1989_dic1993"
+  ],
+  "extension": [
+    "csv"
+  ],
+  "analista": [
+    ""
+  ],
+  "fuentes": [
+    "R128C53"
+  ]
+  
+  // ...
+}
+```
+
+
 
 ```
 ├── TOPICO
@@ -147,22 +187,6 @@ Cada tópico de ArgenData tiene asignado un nombre en clave de seis letras mayú
 ```
 
 <!--En el ejemplo, para el tópico de **[Comercio Exterior](https://argendata.fund.ar/topico/comercio-exterior/)** (`COMEXT`) se visualizan archvios `.csv` y `.json` asociados a cada uno de los items (`cambio_destinos_exportacion`, por ejemplo). El primero de ellos contiene los datos. El segundo también incluye los metadatos asociados (fuente de información, institución productora, fechas de procesamiento, etc.): -->
-
-
-### `cambio_destinos_exportacion.csv` [^3]
-```
-"iso3","location_name_short_en","partner_code","partner_name_short_en","export_value_pca","export_value_pcb"
-"AFG","Afghanistan","ANT","Netherlands Antilles","0",
-"AFG","Afghanistan","AUT","Austria","0.688627518615602","0.0733990364249315"
-"AFG","Afghanistan","BEL","Belgium","0","0.0683462241450678"
-"AFG","Afghanistan","BGR","Bulgaria","0","0.00372820071862202"
-"AFG","Afghanistan","CHE","Switzerland","2.41999320416714","0.188186688833644"
-"AFG","Afghanistan","CHN","China","0.451026512726798","1.8664145222227"
-"AFG","Afghanistan","COD","Congo (Democratic Republic of the)","0","0.00539090999076861"
-"AFG","Afghanistan","CSK","Czechoslovakia","3.41910119179182",
-"AFG","Afghanistan","DEU","Germany","15.53527024738","0.854150132334422"
-"AFG","Afghanistan","DNK","Denmark","0.228550053266833","0.146499065976512"
-```
 
 Estos datos, que son los que se disponibilizan para la descarga de usuarios de Argendata, son procesados luego por [transformers](https://github.com/argendata/transformers) para servir de insumo para la graficación en el [Frontend](https://argendata.fund.ar/) [^1]. 
 
