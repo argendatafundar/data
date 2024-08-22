@@ -37,82 +37,82 @@ Cada tópico de ArgenData tiene asignado un nombre en clave de seis letras mayú
     <tr>
       <td><a href="https://argendata.fund.ar/categorias/ambiente">Ambiente</a></td>
       <td><a href="https://argendata.fund.ar/topico/emisiones-de-gases-de-efecto-invernadero/">Emisiones de gases de efecto invernadero</a></td>
-      <td>[CAMCLI](https://github.com/argendatafundar/data/tree/main/CAMCLI#CAMCLI)</td>
+      <td><a href="https://github.com/argendatafundar/data/tree/main/CAMCLI#CAMCLI">CAMCLI</a></td>
     </tr>
     <tr>
       <td><a href="https://argendata.fund.ar/categorias/ambiente">Ambiente</a></td>
       <td><a href="https://argendata.fund.ar/topico/cambio-climatico/">Cambio climático</a></td>
-      <td>[CAMCLI](https://github.com/argendatafundar/data/tree/main/CAMCLI#CAMCLI)</td>
+      <td><a href="https://github.com/argendatafundar/data/tree/main/CAMCLI#CAMCLI">CAMCLI</a></td>
     </tr>
     <tr>
       <td><a href="https://argendata.fund.ar/categorias/ambiente">Ambiente</a></td>
       <td><a href="https://argendata.fund.ar/topico/transicion-energetica/">Transición energética</a></td>
-      <td>[TRANEN](https://github.com/argendatafundar/data/tree/main/TRANEN#TRANEN)</td>
+      <td><a href="https://github.com/argendatafundar/data/tree/main/TRANEN#TRANEN">TRANEN</a></td>
     </tr>
     <tr>
       <td><a href="https://argendata.fund.ar/categorias/macroeconomia">Macroeconomía</a></td>
       <td><a href="https://argendata.fund.ar/topico/crecimiento/">Crecimiento</a></td>
-      <td>[CRECIM](https://github.com/argendatafundar/data/tree/main/CRECIM#CRECIM)</td>
+      <td><a href="https://github.com/argendatafundar/data/tree/main/CRECIM#CRECIM">CRECIM</a></td>
     </tr>
     <tr>
       <td><a href="https://argendata.fund.ar/categorias/macroeconomia">Macroeconomía</a></td>
       <td><a href="https://argendata.fund.ar/topico/inflacion/">Inflación</a></td>
-      <td>[PRECIO](https://github.com/argendatafundar/data/tree/main/PRECIO#PRECIO)</td>
+      <td><a href="https://github.com/argendatafundar/data/tree/main/PRECIO#PRECIO">PRECIO</a></td>
     </tr>
     <tr>
       <td><a href="https://argendata.fund.ar/categorias/desarrollo">Desarrollo</a></td>
       <td><a href="https://argendata.fund.ar/topico/pobreza/">Pobreza</a></td>
-      <td>[POBREZ](https://github.com/argendatafundar/data/tree/main/POBREZ#POBREZ)</td>
+      <td><a href="https://github.com/argendatafundar/data/tree/main/POBREZ#POBREZ">POBREZ</a></td>
     </tr>
     <tr>
       <td><a href="https://argendata.fund.ar/categorias/desarrollo">Desarrollo</a></td>
       <td><a href="https://argendata.fund.ar/topico/estructura-productiva/">Estructura productiva</a></td>
-      <td>[ESTPRO](https://github.com/argendatafundar/data/tree/main/ESTPRO#ESTPRO)</td>
+      <td><a href="https://github.com/argendatafundar/data/tree/main/ESTPRO#ESTPRO">ESTPRO</a></td>
     </tr>
     <tr>
       <td><a href="https://argendata.fund.ar/categorias/desarrollo">Desarrollo</a></td>
       <td><a href="https://argendata.fund.ar/topico/desarrollo-humano/">Desarrollo humano</a></td>
-      <td>[DESHUM](https://github.com/argendatafundar/data/tree/main/DESHUM#DESHUM)</td>
+      <td><a href="https://github.com/argendatafundar/data/tree/main/DESHUM#DESHUM">DESHUM</a></td>
     </tr>
     <tr>
       <td><a href="https://argendata.fund.ar/categorias/desarrollo">Desarrollo</a></td>
       <td><a href="https://argendata.fund.ar/topico/comercio-exterior/">Comercio exterior</a></td>
-      <td>[COMEXT](https://github.com/argendatafundar/data/tree/main/COMEXT#COMEXT)</td>
+      <td><a href="https://github.com/argendatafundar/data/tree/main/COMEXT#COMEXT">COMEXT</a></td>
     </tr>
     <tr>
       <td><a href="https://argendata.fund.ar/categorias/desarrollo">Desarrollo</a></td>
       <td><a href="https://argendata.fund.ar/topico/desigualdad/">Desigualdad</a></td>
-      <td>[DESIGU](https://github.com/argendatafundar/data/tree/main/DESIGU#DESIGU)</td>
+      <td><a href="https://github.com/argendatafundar/data/tree/main/DESIGU#DESIGU">DESIGU</a></td>
     </tr>
     <tr>
       <td><a href="https://argendata.fund.ar/categorias/sectores-productivos">Sectores productivos</a></td>
       <td><a href="https://argendata.fund.ar/topico/agroindustria/">Agroindustria</a></td>
-      <td>[AGROPE](https://github.com/argendatafundar/data/tree/main/AGROPE#AGROPE)</td>
+      <td><a href="https://github.com/argendatafundar/data/tree/main/AGROPE#AGROPE">AGROPE</a></td>
     </tr>
     <tr>
       <td><a href="https://argendata.fund.ar/categorias/sectores-productivos">Sectores productivos</a></td>
       <td><a href="https://argendata.fund.ar/topico/servicios-basados-en-el-conocimiento/">Servicios basados en el conocimiento</a></td>
-      <td>[SEBACO](https://github.com/argendatafundar/data/tree/main/SEBACO#SEBACO)</td>
+      <td><a href="https://github.com/argendatafundar/data/tree/main/SEBACO#SEBACO">SEBACO</a></td>
     </tr>
     <tr>
       <td><a href="https://argendata.fund.ar/categorias/sectores-productivos">Sectores productivos</a></td>
       <td><a href="https://argendata.fund.ar/topico/mineria/">Minería</a></td>
-      <td>[MINERI](https://github.com/argendatafundar/data/tree/main/MINERI#MINERI)</td>
+      <td><a href="https://github.com/argendatafundar/data/tree/main/MINERI#MINERI">MINERI</a></td>
     </tr>
     <tr>
       <td><a href='https://argendata.fund.ar/categorias/trabajo-e-ingresos/'>Trabajo e ingresos</a></td>
       <td><a href="https://argendata.fund.ar/topico/salarios-e-ingresos/">Salarios e ingresos</a></td>
-      <td>[SALING](https://github.com/argendatafundar/data/tree/main/SALING#SALING)</td>
+      <td><a href="https://github.com/argendatafundar/data/tree/main/SALING#SALING">SALING</a></td>
     </tr>
     <tr>
       <td><a href='https://argendata.fund.ar/categorias/trabajo-e-ingresos/'>Trabajo e ingresos</a></td>
       <td><a href="https://argendata.fund.ar/topico/trabajo-y-participacion-laboral/">Trabajo y participación laboral</a></td>
-      <td>[MERTRA](https://github.com/argendatafundar/data/tree/main/MERTRA#MERTRA)</td>
+      <td><a href="https://github.com/argendatafundar/data/tree/main/MERTRA#MERTRA">MERTRA</a></td>
     </tr>
     <tr>
       <td><a href='https://argendata.fund.ar/categorias/trabajo-e-ingresos/'>Trabajo e ingresos</a></td>
       <td><a href="https://argendata.fund.ar/topico/informalidad-y-desempleo/">Informalidad y desempleo</a></td>
-      <td>[INFDES](https://github.com/argendatafundar/data/tree/main/INFDES#INFDES)</td>
+      <td><a href="https://github.com/argendatafundar/data/tree/main/INFDES#INFDES">INFDES</a></td>
     </tr>
   </tbody>
 </table>
