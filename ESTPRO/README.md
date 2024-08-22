@@ -1,6 +1,6 @@
 ## ESTPRO 
 
-### particip_sector_vab.csv
+### [particip_sector_vab.csv](https://github.com/argendatafundar/data/blob/main//ESTPRO/particip_sector_vab.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -15,7 +15,7 @@
  | particip_vab | real | Participación del VAB por sector productivo (a nivel de letra) |
 
 
-### vab_por_sector.csv
+### [vab_por_sector.csv](https://github.com/argendatafundar/data/blob/main//ESTPRO/vab_por_sector.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -25,7 +25,7 @@
 | letra | alfanumerico | Descripción del sector económico |
 
 
-### va_sectorial_pais_bys.csv
+### [va_sectorial_pais_bys.csv](https://github.com/argendatafundar/data/blob/main//ESTPRO/va_sectorial_pais_bys.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -36,7 +36,7 @@
 | particip_servicios_pib | real | Participación de los sectores de servicios en el PBI nacional. Para todos los países de la muestra. |
 
 
-### va_sectorial_pais.csv
+### [va_sectorial_pais.csv](https://github.com/argendatafundar/data/blob/main//ESTPRO/va_sectorial_pais.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -51,7 +51,7 @@
 | particip_va_pib | real | Participación sectorial en el PBI nacional, por parte de cada sector productivo. Para todos los países de la muestra. |
 
 
-### particip_va_intensivos_id_bys.csv
+### [particip_va_intensivos_id_bys.csv](https://github.com/argendatafundar/data/blob/main//ESTPRO/particip_va_intensivos_id_bys.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -62,7 +62,7 @@
 | particip_bys_alta_intensidad | real | Participación sectorial en el PBI nacional de parte de los bienes y servicios de alta intensidad. Para todos los países de la muestra. |
 
 
-### particip_sectorial_empleo.csv
+### [particip_sectorial_empleo.csv](https://github.com/argendatafundar/data/blob/main//ESTPRO/particip_sectorial_empleo.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -74,7 +74,7 @@
 | tipo_sector | alfanumerico | Indica si los sectores productivos son bienes o servicios (descripción) |
 
 
-### particip_sectorial_empleoyvab.csv
+### [particip_sectorial_empleoyvab.csv](https://github.com/argendatafundar/data/blob/main//ESTPRO/particip_sectorial_empleoyvab.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -87,7 +87,7 @@
 | share_vab | real | Participación sectorial en el PBI nacional, por parte de cada sector productivo. Para todas las provincias de la muestra. |
 
 
-### empleo_sectores_ggdc_1950_2018.csv
+### [empleo_sectores_ggdc_1950_2018.csv](https://github.com/argendatafundar/data/blob/main//ESTPRO/empleo_sectores_ggdc_1950_2018.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -100,7 +100,7 @@
 | share_empleo | real | Participación sectorial en el empleo por sector productivo |
 
 
-### empn_tim_ocde.csv
+### [empn_tim_ocde.csv](https://github.com/argendatafundar/data/blob/main//ESTPRO/empn_tim_ocde.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -119,7 +119,7 @@
 | valor | real | Participación en el empleo de acuerdo a la categoría de intensidad tecnológica |
 
 
-### particip_calificados_sector.csv
+### [particip_calificados_sector.csv](https://github.com/argendatafundar/data/blob/main//ESTPRO/particip_calificados_sector.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -131,7 +131,7 @@
 | particip_calif | real | Porcentaje de personas calificadas sobre el total de ocupados de ese sector productivo. |
 
 
-### particip_mujer_varon.csv
+### [particip_mujer_varon.csv](https://github.com/argendatafundar/data/blob/main//ESTPRO/particip_mujer_varon.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -142,7 +142,7 @@
 | porc_varones | real | Porcentaje de varones sobre la fuerza laboral total. |
 
 
-### particip_mujer.csv
+### [particip_mujer.csv](https://github.com/argendatafundar/data/blob/main//ESTPRO/particip_mujer.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -152,7 +152,7 @@
 | porc_mujeres | real | Porcentaje de mujeres sobre la fuerza laboral total. |
 
 
-### vab_sectorial_granregion.csv
+### [vab_sectorial_granregion.csv](https://github.com/argendatafundar/data/blob/main//ESTPRO/vab_sectorial_granregion.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -164,7 +164,7 @@
 | share_vab_sectorial | real | Participación sectorial en el PBI nacional, por parte de cada sector productivo. Para todas las grandes regiones de la muestra. |
 
 
-### vab_sectorial_provincia.csv
+### [vab_sectorial_provincia.csv](https://github.com/argendatafundar/data/blob/main//ESTPRO/vab_sectorial_provincia.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -179,7 +179,7 @@
 | share_vab_sectorial | real | Participación sectorial en el PBI nacional, por parte de cada sector productivo. Para todas las provincias de la muestra. |
 
 
-### productividad_internacional.csv
+### [productividad_internacional.csv](https://github.com/argendatafundar/data/blob/main//ESTPRO/productividad_internacional.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -189,7 +189,7 @@
 | valor | real | Productividad en dólares a paridad de poder adquisitivo constantes de 2017 |
 
 
-### pib_por_ocupado.csv
+### [pib_por_ocupado.csv](https://github.com/argendatafundar/data/blob/main//ESTPRO/pib_por_ocupado.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -200,7 +200,7 @@
 | pib_por_ocupado | real | PIB por ocupado, en dólares PPP de 2017 |
 
 
-### va_por_trabajador.csv
+### [va_por_trabajador.csv](https://github.com/argendatafundar/data/blob/main//ESTPRO/va_por_trabajador.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -211,7 +211,7 @@
 | indice_va_trab | real | Índice de valor agregado por trabajador. El promedio de la economía es = 100. |
 
 
-### va_por_trabajador_pais.csv
+### [va_por_trabajador_pais.csv](https://github.com/argendatafundar/data/blob/main//ESTPRO/va_por_trabajador_pais.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -224,7 +224,7 @@
 | valor_relativo_arg | real | Índice de valor agregado por trabajador, relativo a Argentina (ARG base 100) |
 
 
-### empresas_nacional.csv
+### [empresas_nacional.csv](https://github.com/argendatafundar/data/blob/main//ESTPRO/empresas_nacional.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -232,7 +232,7 @@
 | empresas | entero | Cantidad de firmas privadas que declaran empleo Sistema Integrado Previsional Argentino |
 
 
-### sector_escala.csv
+### [sector_escala.csv](https://github.com/argendatafundar/data/blob/main//ESTPRO/sector_escala.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -242,7 +242,7 @@
 | escala | real | Empleo registrado sobre firmas que declararon trabajadores |
 
 
-### escala_salarios.csv
+### [escala_salarios.csv](https://github.com/argendatafundar/data/blob/main//ESTPRO/escala_salarios.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -253,7 +253,7 @@
 | escala | real | Empleo registrado sobre firmas que declararon trabajadores |
 
 
-### densidad_empresarial_depto.csv
+### [densidad_empresarial_depto.csv](https://github.com/argendatafundar/data/blob/main//ESTPRO/densidad_empresarial_depto.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -265,7 +265,7 @@
 | densidad_emp | real | Cantidad de establecimientos por cada 1,000 habitantes |
 
 
-### tasa_informalidad_tamanio_empresa.csv
+### [tasa_informalidad_tamanio_empresa.csv](https://github.com/argendatafundar/data/blob/main//ESTPRO/tasa_informalidad_tamanio_empresa.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -275,7 +275,7 @@
 | tasa_informalidad | real | Tasa de informalidad asalariada |
 
 
-### densidad_nbi.csv
+### [densidad_nbi.csv](https://github.com/argendatafundar/data/blob/main//ESTPRO/densidad_nbi.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -289,7 +289,7 @@
 | share_pb_nbi | real | Porcentaje de población con Necesidades Básicas Insatisfechas (NBI) |
 
 
-### empleo_invdes_tim_ocde.csv
+### [empleo_invdes_tim_ocde.csv](https://github.com/argendatafundar/data/blob/main//ESTPRO/empleo_invdes_tim_ocde.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|

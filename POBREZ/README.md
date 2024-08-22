@@ -1,6 +1,6 @@
 ## POBREZ 
 
-### ISA_nbi-multidimensional_it1-it2.csv
+### [ISA_nbi-multidimensional_it1-it2.csv](https://github.com/argendatafundar/data/blob/main//POBREZ/ISA_nbi-multidimensional_it1-it2.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -9,7 +9,7 @@
 | nbi_rate | real | Porcentajes de hogares con NBI |
 
 
-### ISA_nbi-multidimensional_it3-it4.csv
+### [ISA_nbi-multidimensional_it3-it4.csv](https://github.com/argendatafundar/data/blob/main//POBREZ/ISA_nbi-multidimensional_it3-it4.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -20,7 +20,7 @@
 | pov_rate | real | Tasa de pobreza multidimensional (% de personas) |
 
 
-### ISA_pobreza_monetaria_it1.csv
+### [ISA_pobreza_monetaria_it1.csv](https://github.com/argendatafundar/data/blob/main//POBREZ/ISA_pobreza_monetaria_it1.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -29,7 +29,7 @@
 | poverty_rate | real | Tasa de pobreza en el GBA, 1974-1989 (% de hogares). |
 
 
-### ISA_pobreza_monetaria_it2.csv
+### [ISA_pobreza_monetaria_it2.csv](https://github.com/argendatafundar/data/blob/main//POBREZ/ISA_pobreza_monetaria_it2.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -41,7 +41,7 @@
 | poverty_rate | real | Tasa de pobreza en el GBA, 1988-2003 (% de personas). |
 
 
-### ISA_pobreza_monetaria_it3_OLD.csv
+### [ISA_pobreza_monetaria_it3_OLD.csv](https://github.com/argendatafundar/data/blob/main//POBREZ/ISA_pobreza_monetaria_it3_OLD.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -53,7 +53,7 @@
 | poverty_rate | real | Tasa de indigencia/pobreza (% de personas) |
 
 
-### ISA_global-poverty_it1.csv
+### [ISA_global-poverty_it1.csv](https://github.com/argendatafundar/data/blob/main//POBREZ/ISA_global-poverty_it1.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -63,7 +63,7 @@
 | poverty_rate | real | Tasa de pobreza (% de personas) |
 
 
-### ISA_global-poverty_it2.csv
+### [ISA_global-poverty_it2.csv](https://github.com/argendatafundar/data/blob/main//POBREZ/ISA_global-poverty_it2.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -73,7 +73,7 @@
 | poverty_rate | real | Tasa de pobreza (% de personas) |
 
 
-### ISA_global-poverty_it3.csv
+### [ISA_global-poverty_it3.csv](https://github.com/argendatafundar/data/blob/main//POBREZ/ISA_global-poverty_it3.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -84,7 +84,7 @@
 | poverty_rate | real | Tasa de pobreza (% de personas) |
 
 
-### ISA_region-pobreza_it1-it2.csv
+### [ISA_region-pobreza_it1-it2.csv](https://github.com/argendatafundar/data/blob/main//POBREZ/ISA_region-pobreza_it1-it2.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -95,7 +95,7 @@
 | poverty_rate | real | Tasa de indigencia/pobreza (% de personas) |
 
 
-### ISA_genero-pobreza_it1.csv
+### [ISA_genero-pobreza_it1.csv](https://github.com/argendatafundar/data/blob/main//POBREZ/ISA_genero-pobreza_it1.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -106,7 +106,7 @@
 | poverty_rate | real | Tasa de indigencia/pobreza (% de personas) |
 
 
-### ISA_genero-pobreza_it2.csv
+### [ISA_genero-pobreza_it2.csv](https://github.com/argendatafundar/data/blob/main//POBREZ/ISA_genero-pobreza_it2.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -117,7 +117,7 @@
 | poverty_rate | real | Tasa de indigencia/pobreza (% de personas) |
 
 
-### ISA_laboral-pobreza_it1-it2.csv
+### [ISA_laboral-pobreza_it1-it2.csv](https://github.com/argendatafundar/data/blob/main//POBREZ/ISA_laboral-pobreza_it1-it2.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -128,7 +128,7 @@
 | poverty_rate | real | Tasa de indigencia/pobreza (% de personas) |
 
 
-### ISA_educacion-pobreza_it1_it2.csv
+### [ISA_educacion-pobreza_it1_it2.csv](https://github.com/argendatafundar/data/blob/main//POBREZ/ISA_educacion-pobreza_it1_it2.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -139,7 +139,7 @@
 | poverty_rate | real | Tasa de indigencia/pobreza (% de personas) |
 
 
-### ISA_etario-pobreza_it1.csv
+### [ISA_etario-pobreza_it1.csv](https://github.com/argendatafundar/data/blob/main//POBREZ/ISA_etario-pobreza_it1.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -150,7 +150,7 @@
 | poverty_rate | real | Tasa de indigencia/pobreza (% de personas) |
 
 
-### ISA_etario-pobreza_it2.csv
+### [ISA_etario-pobreza_it2.csv](https://github.com/argendatafundar/data/blob/main//POBREZ/ISA_etario-pobreza_it2.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -161,7 +161,7 @@
 | poverty_rate | real | Tasa de indigencia/pobreza (% de personas) |
 
 
-### ISA_transf-pobreza_it1.csv
+### [ISA_transf-pobreza_it1.csv](https://github.com/argendatafundar/data/blob/main//POBREZ/ISA_transf-pobreza_it1.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -172,7 +172,7 @@
 | poverty_rate | real | Tasa de indigencia/pobreza (% de personas) |
 
 
-### ISA_transf-pobreza_it2.csv
+### [ISA_transf-pobreza_it2.csv](https://github.com/argendatafundar/data/blob/main//POBREZ/ISA_transf-pobreza_it2.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -183,7 +183,7 @@
 | poverty_rate | real | Tasa de indigencia/pobreza (% de personas) |
 
 
-### ISA_pobreza_monetaria_it3.csv
+### [ISA_pobreza_monetaria_it3.csv](https://github.com/argendatafundar/data/blob/main//POBREZ/ISA_pobreza_monetaria_it3.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|

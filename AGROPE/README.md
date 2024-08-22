@@ -1,6 +1,6 @@
 ## AGROPE 
 
-### participacion_agropecuario.csv
+### [participacion_agropecuario.csv](https://github.com/argendatafundar/data/blob/main//AGROPE/participacion_agropecuario.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -8,7 +8,7 @@
 | participacion_agro | real | Cociente entre el PBI Agropecuario y el PBI Total de Argentina |
 
 
-### pbi_agro.csv
+### [pbi_agro.csv](https://github.com/argendatafundar/data/blob/main//AGROPE/pbi_agro.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -16,7 +16,7 @@
 | pbi_agro_pcons | entero | PBI Agricultura, ganadería, caza y silvicultura en millones de pesos a precios constantes de 2004 |
 
 
-### apertura_cuentas_actividad_agropecuaria.csv
+### [apertura_cuentas_actividad_agropecuaria.csv](https://github.com/argendatafundar/data/blob/main//AGROPE/apertura_cuentas_actividad_agropecuaria.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -25,7 +25,7 @@
 | participacion_pbi | real | Cociente entre el valor agregado de cada Subrama de actividad económica dentro de Agricultura, ganadería, caza y silvicultura y PBI |
 
 
-### agro_global.csv
+### [agro_global.csv](https://github.com/argendatafundar/data/blob/main//AGROPE/agro_global.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -35,7 +35,7 @@
 | va_agro_sobre_pbi | real | Valor agregado de agricultura, ganadería, caza y pesca sobre el PBI |
 
 
-### PBG_participacion_agro_provincia_evolucion.csv
+### [PBG_participacion_agro_provincia_evolucion.csv](https://github.com/argendatafundar/data/blob/main//AGROPE/PBG_participacion_agro_provincia_evolucion.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -45,7 +45,7 @@
 | cod_pcia | entero | Identificador provincia |
 
 
-### share_cultivos.csv
+### [share_cultivos.csv](https://github.com/argendatafundar/data/blob/main//AGROPE/share_cultivos.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -55,7 +55,7 @@
 | share | real | Participación de la producción de cada cultivo en la producción total de todos los cultivos |
 
 
-### produccion_principales_cultivos.csv
+### [produccion_principales_cultivos.csv](https://github.com/argendatafundar/data/blob/main//AGROPE/produccion_principales_cultivos.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -64,7 +64,7 @@
 | q_total | real | Producción Total del país |
 
 
-### superficie_sembrada_principales_cultivos.csv
+### [superficie_sembrada_principales_cultivos.csv](https://github.com/argendatafundar/data/blob/main//AGROPE/superficie_sembrada_principales_cultivos.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -73,7 +73,7 @@
 | supsem_total | real | Superficie Sembrada por cultivo (hectáreas) |
 
 
-### rindes_principales_cultivos.csv
+### [rindes_principales_cultivos.csv](https://github.com/argendatafundar/data/blob/main//AGROPE/rindes_principales_cultivos.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -82,7 +82,7 @@
 | rindes_avg | real | Rinde promedio anual por cultivo en Kg por hectárea |
 
 
-### rindes_maiz_internacional.csv
+### [rindes_maiz_internacional.csv](https://github.com/argendatafundar/data/blob/main//AGROPE/rindes_maiz_internacional.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -93,7 +93,7 @@
 | rindes_maiz_ma5 | real | Media móvil 5 años Rendimiento del cultivo de maíz |
 
 
-### rindes_soja_internacional.csv
+### [rindes_soja_internacional.csv](https://github.com/argendatafundar/data/blob/main//AGROPE/rindes_soja_internacional.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -104,7 +104,7 @@
 | rindes_soja_ma5 | real | Media móvil 5 años Rendimiento del cultivo de soja |
 
 
-### rindes_trigo_internacional.csv
+### [rindes_trigo_internacional.csv](https://github.com/argendatafundar/data/blob/main//AGROPE/rindes_trigo_internacional.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -115,7 +115,7 @@
 | rindes_trigo_ma5 | real | Media móvil 5 años Rendimiento del cultivo de trigo |
 
 
-### superficie_agricultura_paises_evo.csv
+### [superficie_agricultura_paises_evo.csv](https://github.com/argendatafundar/data/blob/main//AGROPE/superficie_agricultura_paises_evo.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -125,7 +125,7 @@
 | valor | real | Superficie destinada a cultivos en miles de hectáreas |
 
 
-### produccion_soja_paises_evo.csv
+### [produccion_soja_paises_evo.csv](https://github.com/argendatafundar/data/blob/main//AGROPE/produccion_soja_paises_evo.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -135,7 +135,7 @@
 | valor | real | Producción de soja en toneladas |
 
 
-### produccion_maiz_paises_evo.csv
+### [produccion_maiz_paises_evo.csv](https://github.com/argendatafundar/data/blob/main//AGROPE/produccion_maiz_paises_evo.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -145,7 +145,7 @@
 | valor | real | Producción de maiz en toneladas |
 
 
-### produccion_carne_tipos_arg_evo.csv
+### [produccion_carne_tipos_arg_evo.csv](https://github.com/argendatafundar/data/blob/main//AGROPE/produccion_carne_tipos_arg_evo.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -154,7 +154,7 @@
 | valor | real | Toneladas producidas |
 
 
-### consumo_carne_tipos_arg_evo.csv
+### [consumo_carne_tipos_arg_evo.csv](https://github.com/argendatafundar/data/blob/main//AGROPE/consumo_carne_tipos_arg_evo.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -163,7 +163,7 @@
 | valor | real | kilogramos per cápita de carne consumida al año |
 
 
-### consumo_carne_tipos_mundo_2020.csv
+### [consumo_carne_tipos_mundo_2020.csv](https://github.com/argendatafundar/data/blob/main//AGROPE/consumo_carne_tipos_mundo_2020.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -173,7 +173,7 @@
 | valor | real | kilogramos per cápita de carne consumida al año |
 
 
-### produccion_global_carne_bovina_2021.csv
+### [produccion_global_carne_bovina_2021.csv](https://github.com/argendatafundar/data/blob/main//AGROPE/produccion_global_carne_bovina_2021.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -182,7 +182,7 @@
 | valor | real | Produccion de carne bovina en toneladas |
 
 
-### produccion_global_carne_aviar_2021.csv
+### [produccion_global_carne_aviar_2021.csv](https://github.com/argendatafundar/data/blob/main//AGROPE/produccion_global_carne_aviar_2021.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -191,7 +191,7 @@
 | valor | real | Produccion de carne aviar en toneladas |
 
 
-### produccion_global_carne_bovina_evo.csv
+### [produccion_global_carne_bovina_evo.csv](https://github.com/argendatafundar/data/blob/main//AGROPE/produccion_global_carne_bovina_evo.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -201,7 +201,7 @@
 | valor | real | Producción de carne bovina en toneladas |
 
 
-### share_carne_expo_paises_seleccionados_1962_2021.csv
+### [share_carne_expo_paises_seleccionados_1962_2021.csv](https://github.com/argendatafundar/data/blob/main//AGROPE/share_carne_expo_paises_seleccionados_1962_2021.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -211,7 +211,7 @@
 | pais | alfanumerico | Nombre País |
 
 
-### share_carne_expo_argentinas_1962_2021.csv
+### [share_carne_expo_argentinas_1962_2021.csv](https://github.com/argendatafundar/data/blob/main//AGROPE/share_carne_expo_argentinas_1962_2021.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -222,7 +222,7 @@
 | pais | alfanumerico | nombre del país |
 
 
-### stock_bovina_regiones_argentina.csv
+### [stock_bovina_regiones_argentina.csv](https://github.com/argendatafundar/data/blob/main//AGROPE/stock_bovina_regiones_argentina.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -231,7 +231,7 @@
 | valor | real | stock bovino en cabezas |
 
 
-### participacion_PIB_pesca_PIB_evo.csv
+### [participacion_PIB_pesca_PIB_evo.csv](https://github.com/argendatafundar/data/blob/main//AGROPE/participacion_PIB_pesca_PIB_evo.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -240,7 +240,7 @@
 | nota | alfanumerico | Aclaración sobre si es valor oficial o estimado |
 
 
-### pesca_especie_arg_evo.csv
+### [pesca_especie_arg_evo.csv](https://github.com/argendatafundar/data/blob/main//AGROPE/pesca_especie_arg_evo.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -249,7 +249,7 @@
 | valor | real | toneladas de peso vivo |
 
 
-### consumo_peces_percapita_global_2020.csv
+### [consumo_peces_percapita_global_2020.csv](https://github.com/argendatafundar/data/blob/main//AGROPE/consumo_peces_percapita_global_2020.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -258,7 +258,7 @@
 | pescado_mariscos | real | kilogramos per cápita de carne consumida al año |
 
 
-### exportaciones_pesca_argentina_evo.csv
+### [exportaciones_pesca_argentina_evo.csv](https://github.com/argendatafundar/data/blob/main//AGROPE/exportaciones_pesca_argentina_evo.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -266,7 +266,7 @@
 | valor | real | Exportaciones en millones de dolares |
 
 
-### produccion_acuicultura_argentina_evo.csv
+### [produccion_acuicultura_argentina_evo.csv](https://github.com/argendatafundar/data/blob/main//AGROPE/produccion_acuicultura_argentina_evo.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -274,7 +274,7 @@
 | valor | real | toneladas de peso vivo |
 
 
-### produccion_acuicultura_global_2021.csv
+### [produccion_acuicultura_global_2021.csv](https://github.com/argendatafundar/data/blob/main//AGROPE/produccion_acuicultura_global_2021.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -283,7 +283,7 @@
 | valor | real | toneladas de peso vivo |
 
 
-### participacion_CAA_PIB_arg_evo.csv
+### [participacion_CAA_PIB_arg_evo.csv](https://github.com/argendatafundar/data/blob/main//AGROPE/participacion_CAA_PIB_arg_evo.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -291,7 +291,7 @@
 | valor | real | Participación del VAB de las cadenas agroindustriales en el PIB argentino |
 
 
-### participacion_tipos_CAA_VAB.csv
+### [participacion_tipos_CAA_VAB.csv](https://github.com/argendatafundar/data/blob/main//AGROPE/participacion_tipos_CAA_VAB.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -299,7 +299,7 @@
 | valor | real | Participación dentro del VAB de cadenas agroindustriales |
 
 
-### evolucion_vab_constantes_tipo_cadenas.csv
+### [evolucion_vab_constantes_tipo_cadenas.csv](https://github.com/argendatafundar/data/blob/main//AGROPE/evolucion_vab_constantes_tipo_cadenas.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -308,7 +308,7 @@
 | valor | real | Valor agregado en millones pesos constantes de 2007 |
 
 
-### drawing_data.geojson
+### [drawing_data.geojson](https://github.com/argendatafundar/data/blob/main//AGROPE/drawing_data.geojson)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -320,7 +320,7 @@
 | geometry | polígono | geolocalización de la provincia |
 
 
-### insercion_internacional_CAA.csv
+### [insercion_internacional_CAA.csv](https://github.com/argendatafundar/data/blob/main//AGROPE/insercion_internacional_CAA.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -328,7 +328,7 @@
 | valor | real | Cociente entre VBP y valor exportado |
 
 
-### comex_arg_agroindustria_MOA_PP_evo.csv
+### [comex_arg_agroindustria_MOA_PP_evo.csv](https://github.com/argendatafundar/data/blob/main//AGROPE/comex_arg_agroindustria_MOA_PP_evo.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -338,7 +338,7 @@
 | participacion_expo_totales | real | Participación exportaciones agroindustriales en el total de exportaciones nacionales |
 
 
-### indices_precios_exportacion.csv
+### [indices_precios_exportacion.csv](https://github.com/argendatafundar/data/blob/main//AGROPE/indices_precios_exportacion.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|

@@ -1,6 +1,6 @@
 ## COMEXT 
 
-### indice_cantidad_exportaciones_argentina.csv
+### [indice_cantidad_exportaciones_argentina.csv](https://github.com/argendatafundar/data/blob/main//COMEXT/indice_cantidad_exportaciones_argentina.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -9,7 +9,7 @@
 | cantidades_exportacion_indec | real | Índice de cantidad de las exportaciones de Argentina (2004=100) de INDEC |
 
 
-### exportaciones_bienes_servicios_millones_usd_constantes_2015.csv
+### [exportaciones_bienes_servicios_millones_usd_constantes_2015.csv](https://github.com/argendatafundar/data/blob/main//COMEXT/exportaciones_bienes_servicios_millones_usd_constantes_2015.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -20,7 +20,7 @@
 | exportsconstant_servi_v2 | real | Exportaciones de servicios (millones de USD constantes 2015) |
 
 
-### participacion_exportaciones_servicios_porcentaje_exportaciones.csv
+### [participacion_exportaciones_servicios_porcentaje_exportaciones.csv](https://github.com/argendatafundar/data/blob/main//COMEXT/participacion_exportaciones_servicios_porcentaje_exportaciones.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -30,7 +30,7 @@
 | servicesexportsbop_pc_v2 | real | Participación de servicios en las exportaciones (% de las exportaciones) |
 
 
-### participacion_exportaciones_bienes_servicios_porcentaje_pib.csv
+### [participacion_exportaciones_bienes_servicios_porcentaje_pib.csv](https://github.com/argendatafundar/data/blob/main//COMEXT/participacion_exportaciones_bienes_servicios_porcentaje_pib.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -40,7 +40,7 @@
 | exportsofgoodsandservicesofgdp | real | Exportaciones de bienes y servicios (% del PIB) |
 
 
-### participacion_exportaciones_bienes_servicios_mundo.csv
+### [participacion_exportaciones_bienes_servicios_mundo.csv](https://github.com/argendatafundar/data/blob/main//COMEXT/participacion_exportaciones_bienes_servicios_mundo.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -50,7 +50,7 @@
 | x_tt_pc | real | Exportaciones de Bienes y Servicios (% del Mundo) |
 
 
-### indice_valores_unitarios_exportacion_bienes_2000.csv
+### [indice_valores_unitarios_exportacion_bienes_2000.csv](https://github.com/argendatafundar/data/blob/main//COMEXT/indice_valores_unitarios_exportacion_bienes_2000.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -60,7 +60,7 @@
 | exportunitvalueindex_2000 | real | Índice de valores unitarios de la exportación de bienes (2000 = 100) |
 
 
-### indice_volumen_exportaciones_bienes_2000.csv
+### [indice_volumen_exportaciones_bienes_2000.csv](https://github.com/argendatafundar/data/blob/main//COMEXT/indice_volumen_exportaciones_bienes_2000.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -70,7 +70,7 @@
 | exportvolumeindex | real | Índice de volumen de exportaciones (2000 = 100) |
 
 
-### indice_apertura_comercial.csv
+### [indice_apertura_comercial.csv](https://github.com/argendatafundar/data/blob/main//COMEXT/indice_apertura_comercial.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -80,7 +80,7 @@
 | tradeofgdp | real | Exportaciones e importaciones de bienes y servicios (% del PIB) |
 
 
-### composicion_exportaciones_bienes_sitc_seccion.csv
+### [composicion_exportaciones_bienes_sitc_seccion.csv](https://github.com/argendatafundar/data/blob/main//COMEXT/composicion_exportaciones_bienes_sitc_seccion.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -92,7 +92,7 @@
 | export_value_pc | real | Exportaciones de bienes (% del total exportado en bienes) |
 
 
-### composicion_importaciones_bienes_sitc_seccion.csv
+### [composicion_importaciones_bienes_sitc_seccion.csv](https://github.com/argendatafundar/data/blob/main//COMEXT/composicion_importaciones_bienes_sitc_seccion.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -104,7 +104,7 @@
 | import_value_pc | real | Importaciones de bienes (% del total importado en bienes) |
 
 
-### composicion_exportaciones_bienes_sectores_Brambilla_Porto.csv
+### [composicion_exportaciones_bienes_sectores_Brambilla_Porto.csv](https://github.com/argendatafundar/data/blob/main//COMEXT/composicion_exportaciones_bienes_sectores_Brambilla_Porto.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -116,7 +116,7 @@
 | export_value_pc | real | Exportaciones de bienes (% del total exportado en bienes) |
 
 
-### composicion_importaciones_bienes_sectores_Brambilla_Porto.csv
+### [composicion_importaciones_bienes_sectores_Brambilla_Porto.csv](https://github.com/argendatafundar/data/blob/main//COMEXT/composicion_importaciones_bienes_sectores_Brambilla_Porto.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -128,7 +128,7 @@
 | import_value_pc | real | Importaciones de bienes (% del total importado en bienes) |
 
 
-### composicion_exportaciones_bienes_diferenciado_Bernini.csv
+### [composicion_exportaciones_bienes_diferenciado_Bernini.csv](https://github.com/argendatafundar/data/blob/main//COMEXT/composicion_exportaciones_bienes_diferenciado_Bernini.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -140,7 +140,7 @@
 | export_value_pc | real | Exportaciones de bienes (% del total exportado en bienes) |
 
 
-### composicion_importaciones_bienes_diferenciado_Bernini.csv
+### [composicion_importaciones_bienes_diferenciado_Bernini.csv](https://github.com/argendatafundar/data/blob/main//COMEXT/composicion_importaciones_bienes_diferenciado_Bernini.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -152,7 +152,7 @@
 | import_value_pc | real | Importaciones de bienes (% del total importado en bienes) |
 
 
-### composicion_exportaciones_bienes_regiones_mundo.csv
+### [composicion_exportaciones_bienes_regiones_mundo.csv](https://github.com/argendatafundar/data/blob/main//COMEXT/composicion_exportaciones_bienes_regiones_mundo.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -164,7 +164,7 @@
 | export_value_pc | real | Exportaciones de bienes (% del total exportado en bienes) |
 
 
-### composicion_importaciones_bienes_regiones_mundo.csv
+### [composicion_importaciones_bienes_regiones_mundo.csv](https://github.com/argendatafundar/data/blob/main//COMEXT/composicion_importaciones_bienes_regiones_mundo.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -176,7 +176,7 @@
 | import_value_pc | real | Importaciones de bienes (% del total importado en bienes) |
 
 
-### cambio_destinos_exportacion.csv
+### [cambio_destinos_exportacion.csv](https://github.com/argendatafundar/data/blob/main//COMEXT/cambio_destinos_exportacion.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -188,7 +188,7 @@
 | export_value_pcb | real | % de las exportaciones argentinas al mundo (promedio 2017-2021) |
 
 
-### cambio_origenes_importacion.csv
+### [cambio_origenes_importacion.csv](https://github.com/argendatafundar/data/blob/main//COMEXT/cambio_origenes_importacion.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -200,7 +200,7 @@
 | import_value_pcb | real | % de las importaciones argentinas al mundo (promedio 2017-2021) |
 
 
-### composicion_exportaciones_servicios_EBOPS_2digitos_agrupado.csv
+### [composicion_exportaciones_servicios_EBOPS_2digitos_agrupado.csv](https://github.com/argendatafundar/data/blob/main//COMEXT/composicion_exportaciones_servicios_EBOPS_2digitos_agrupado.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -211,7 +211,7 @@
 | export_value_pc | real | Exportaciones de servicios (% del total exportado en servicios) |
 
 
-### exportaciones_servicios_top_20_destinos.csv
+### [exportaciones_servicios_top_20_destinos.csv](https://github.com/argendatafundar/data/blob/main//COMEXT/exportaciones_servicios_top_20_destinos.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|

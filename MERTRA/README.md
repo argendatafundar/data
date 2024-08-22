@@ -1,6 +1,6 @@
 ## MERTRA 
 
-### tasa_participacion_censos.csv
+### [tasa_participacion_censos.csv](https://github.com/argendatafundar/data/blob/main//MERTRA/tasa_participacion_censos.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -9,7 +9,7 @@
 | tasa_participacion | real | Porcentaje que representa la población económicamente activa (PEA) respecto a la de 14 y más años de edad |
 
 
-### ratio_tasa_actividad_mujer_varon_por_pais_anio.csv
+### [ratio_tasa_actividad_mujer_varon_por_pais_anio.csv](https://github.com/argendatafundar/data/blob/main//MERTRA/ratio_tasa_actividad_mujer_varon_por_pais_anio.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -20,7 +20,7 @@
 | anio | entero | Año de referencia |
 
 
-### tasa_actividad_por_pais_anio.csv
+### [tasa_actividad_por_pais_anio.csv](https://github.com/argendatafundar/data/blob/main//MERTRA/tasa_actividad_por_pais_anio.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -31,7 +31,7 @@
 | nivel_agregacion | entero | Identificador de país: 0 o region de paises: 1 |
 
 
-### media_movil_por_edad_de_tasa_actividad.csv
+### [media_movil_por_edad_de_tasa_actividad.csv](https://github.com/argendatafundar/data/blob/main//MERTRA/media_movil_por_edad_de_tasa_actividad.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -40,7 +40,7 @@
 | anio | entero | Año de referencia |
 
 
-### media_movil_por_edad_sexo_de_tasa_actividad_brecha.csv
+### [media_movil_por_edad_sexo_de_tasa_actividad_brecha.csv](https://github.com/argendatafundar/data/blob/main//MERTRA/media_movil_por_edad_sexo_de_tasa_actividad_brecha.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -50,7 +50,7 @@
 | valor | real | Media móvil por quinquenios etarios de la tasa de actividad |
 
 
-### media_movil_por_edad_reg_desc_fundar_de_tasa_actividad.csv
+### [media_movil_por_edad_reg_desc_fundar_de_tasa_actividad.csv](https://github.com/argendatafundar/data/blob/main//MERTRA/media_movil_por_edad_reg_desc_fundar_de_tasa_actividad.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -60,7 +60,7 @@
 | tasa_actividad | real | Media móvil por quinquenios etarios de la tasa de actividad |
 
 
-### puestos_percapita_anio_pais.csv
+### [puestos_percapita_anio_pais.csv](https://github.com/argendatafundar/data/blob/main//MERTRA/puestos_percapita_anio_pais.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -69,7 +69,7 @@
 | anio | entero | Año de referencia |
 
 
-### tasa_empleo_anio_provincia.csv
+### [tasa_empleo_anio_provincia.csv](https://github.com/argendatafundar/data/blob/main//MERTRA/tasa_empleo_anio_provincia.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -78,7 +78,7 @@
 | tasa_empleo | real | Ratio entre la cantidad de personas ocupadas y la cantidad de personas pertenecientes a la población económicamente activa |
 
 
-### tasa_empleo_por_franja_etaria_anio_provincia.csv
+### [tasa_empleo_por_franja_etaria_anio_provincia.csv](https://github.com/argendatafundar/data/blob/main//MERTRA/tasa_empleo_por_franja_etaria_anio_provincia.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -88,7 +88,7 @@
 | tasa_empleo | real | Ratio entre la cantidad de personas ocupadas y la cantidad de personas pertenecientes a la población económicamente activa |
 
 
-### tasa_empleo_anio_provincia_sexo.csv
+### [tasa_empleo_anio_provincia_sexo.csv](https://github.com/argendatafundar/data/blob/main//MERTRA/tasa_empleo_anio_provincia_sexo.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -98,7 +98,7 @@
 | tasa_empleo | real | Ratio entre la cantidad de personas ocupadas y la cantidad de personas pertenecientes a la población económicamente activa |
 
 
-### tasa_empleo_menores_provincia.csv
+### [tasa_empleo_menores_provincia.csv](https://github.com/argendatafundar/data/blob/main//MERTRA/tasa_empleo_menores_provincia.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -108,7 +108,7 @@
 | tasa_menor_18 | real | Participación de personas menores a 18 años de edad en la población |
 
 
-### establecimientos_tasa_empleo_provincia.csv
+### [establecimientos_tasa_empleo_provincia.csv](https://github.com/argendatafundar/data/blob/main//MERTRA/establecimientos_tasa_empleo_provincia.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -118,7 +118,7 @@
 | provincia_desc | alfanumerico | Provincia de referencia (incluye Total) |
 
 
-### tasa_empleo_mujer_salario_provincia_anio.csv
+### [tasa_empleo_mujer_salario_provincia_anio.csv](https://github.com/argendatafundar/data/blob/main//MERTRA/tasa_empleo_mujer_salario_provincia_anio.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -128,7 +128,7 @@
 | tasa_empleo_mujer | real | Proporción de la población de mujeres entre 18 y 65 años que se encuentra empleada |
 
 
-### lavarropas_tasa_empleo_fem_provincia.csv
+### [lavarropas_tasa_empleo_fem_provincia.csv](https://github.com/argendatafundar/data/blob/main//MERTRA/lavarropas_tasa_empleo_fem_provincia.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -138,7 +138,7 @@
 | tasa_empleo_18_65_mujeres | real | Ratio entre la cantidad de personas sexo femenino ocupadas entre 18 y 65 años y la cantidad de personas sexo femenino entre 18 y 65 años pertenecientes a la población económicamente activa |
 
 
-### share_acuerdo_varones_empleo_region_arg.csv
+### [share_acuerdo_varones_empleo_region_arg.csv](https://github.com/argendatafundar/data/blob/main//MERTRA/share_acuerdo_varones_empleo_region_arg.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -148,7 +148,7 @@
 | valor | real | Participación del nivel de acuerdo en el total de encuestados |
 
 
-### tasa_empleo_provincia_nivel_educativo.csv
+### [tasa_empleo_provincia_nivel_educativo.csv](https://github.com/argendatafundar/data/blob/main//MERTRA/tasa_empleo_provincia_nivel_educativo.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -158,7 +158,7 @@
 | ocupado | real | Ratio entre la cantidad de personas ocupadas y la cantidad de personas pertenecientes a la población económicamente activa |
 
 
-### tiempo_social_trabajo_sexo.csv
+### [tiempo_social_trabajo_sexo.csv](https://github.com/argendatafundar/data/blob/main//MERTRA/tiempo_social_trabajo_sexo.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -167,7 +167,7 @@
 | minutos | entero | Promedio de minutos diarios dedicados al trabajo |
 
 
-### tiempo_social_trabajo_sexo_edad.csv
+### [tiempo_social_trabajo_sexo_edad.csv](https://github.com/argendatafundar/data/blob/main//MERTRA/tiempo_social_trabajo_sexo_edad.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -176,7 +176,7 @@
 | minutos | real | Promedio de minutos diarios dedicados al trabajo |
 
 
-### tiempo_social_trabajo_sexo_niveleducativo.csv
+### [tiempo_social_trabajo_sexo_niveleducativo.csv](https://github.com/argendatafundar/data/blob/main//MERTRA/tiempo_social_trabajo_sexo_niveleducativo.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -185,7 +185,7 @@
 | minutos | real | Promedio de minutos diarios dedicados al trabajo |
 
 
-### tipo_trabajo_no_rem_sexo.csv
+### [tipo_trabajo_no_rem_sexo.csv](https://github.com/argendatafundar/data/blob/main//MERTRA/tipo_trabajo_no_rem_sexo.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -194,7 +194,7 @@
 | minutos | real | Promedio de minutos diarios dedicados |
 
 
-### trabajo_no_remunerado_sexo_internacional.csv
+### [trabajo_no_remunerado_sexo_internacional.csv](https://github.com/argendatafundar/data/blob/main//MERTRA/trabajo_no_remunerado_sexo_internacional.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|

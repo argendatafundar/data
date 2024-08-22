@@ -1,6 +1,6 @@
 ## INFDES 
 
-### tasa_informalidad_productive_legal_ultimo_anio_latam.csv
+### [tasa_informalidad_productive_legal_ultimo_anio_latam.csv](https://github.com/argendatafundar/data/blob/main//INFDES/tasa_informalidad_productive_legal_ultimo_anio_latam.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -11,7 +11,7 @@
 | valor | real | Participación de trabajadores en el sector informal |
 
 
-### tasa_formalidad_productiva_pib_per_capita.csv
+### [tasa_formalidad_productiva_pib_per_capita.csv](https://github.com/argendatafundar/data/blob/main//INFDES/tasa_formalidad_productiva_pib_per_capita.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -22,7 +22,7 @@
 | tasa_formalidad_productiva | real | Porcentaje de los empleados que son formales (definición productiva) |
 
 
-### composicion_empleo_ultimo_anio_latam.csv
+### [composicion_empleo_ultimo_anio_latam.csv](https://github.com/argendatafundar/data/blob/main//INFDES/composicion_empleo_ultimo_anio_latam.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -36,7 +36,7 @@
  | valor | real | Participación en el total de trabajadores |
 
 
-### tasa_informalidad_argentina_tipo_anio.csv
+### [tasa_informalidad_argentina_tipo_anio.csv](https://github.com/argendatafundar/data/blob/main//INFDES/tasa_informalidad_argentina_tipo_anio.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -45,7 +45,7 @@
 | valor | real | Participación de trabajadores en el sector informal |
 
 
-### tasa_informalidad_legal_latam.csv
+### [tasa_informalidad_legal_latam.csv](https://github.com/argendatafundar/data/blob/main//INFDES/tasa_informalidad_legal_latam.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -56,7 +56,7 @@
 | valor | real | Participación de trabajadores en el sector informal |
 
 
-### tasa_informalidad_provincia_definicion_productiva_legal.csv
+### [tasa_informalidad_provincia_definicion_productiva_legal.csv](https://github.com/argendatafundar/data/blob/main//INFDES/tasa_informalidad_provincia_definicion_productiva_legal.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -67,7 +67,7 @@
 | valor | real | Participación de trabajadores en el sector informal |
 
 
-### tasa_informalidad_legal_por_edad_sexo.csv
+### [tasa_informalidad_legal_por_edad_sexo.csv](https://github.com/argendatafundar/data/blob/main//INFDES/tasa_informalidad_legal_por_edad_sexo.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -77,7 +77,7 @@
 | tasa_informalidad_legal | real | Porcentaje de los empleados que son informales (definición legal) |
 
 
-### tasa_informalidad_argentina_genero.csv
+### [tasa_informalidad_argentina_genero.csv](https://github.com/argendatafundar/data/blob/main//INFDES/tasa_informalidad_argentina_genero.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -86,7 +86,7 @@
 | valor | real | Tasa de informalidad |
 
 
-### brecha_tasa_informalidad_genero_latam_2000_2021.csv
+### [brecha_tasa_informalidad_genero_latam_2000_2021.csv](https://github.com/argendatafundar/data/blob/main//INFDES/brecha_tasa_informalidad_genero_latam_2000_2021.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -97,7 +97,7 @@
 | brecha | real | Brecha entre tasa de informalidad femenina y la tasa de informalidad masculina, en puntos porcentuales |
 
 
-### anios_educacion_genero_por_pais.csv
+### [anios_educacion_genero_por_pais.csv](https://github.com/argendatafundar/data/blob/main//INFDES/anios_educacion_genero_por_pais.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -108,7 +108,7 @@
 | valor | real | Cantidad de años promedio de estudio |
 
 
-### tasa_desempleo_arg_mundial_modelada.csv
+### [tasa_desempleo_arg_mundial_modelada.csv](https://github.com/argendatafundar/data/blob/main//INFDES/tasa_desempleo_arg_mundial_modelada.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -118,7 +118,7 @@
 | tasa_desempleo | real | Tasa de desempleo |
 
 
-### tasa_desempleo_sexo_paises_modelada.csv
+### [tasa_desempleo_sexo_paises_modelada.csv](https://github.com/argendatafundar/data/blob/main//INFDES/tasa_desempleo_sexo_paises_modelada.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -130,7 +130,7 @@
 | tasa_desempleo | real | Tasa de desempleo |
 
 
-### satisfaccion_vida_desempleo_pais.csv
+### [satisfaccion_vida_desempleo_pais.csv](https://github.com/argendatafundar/data/blob/main//INFDES/satisfaccion_vida_desempleo_pais.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -141,7 +141,7 @@
 | satisfaccion_vida | real | Promedio del nivel de satisfacción con la vida (valores en la escala de 0 a 10) |
 
 
-### tasa_desempleo_ephtu_sexo_edad.csv
+### [tasa_desempleo_ephtu_sexo_edad.csv](https://github.com/argendatafundar/data/blob/main//INFDES/tasa_desempleo_ephtu_sexo_edad.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -152,7 +152,7 @@
 | tasa_desocupacion | real | Tasa de desocupación |
 
 
-### tasa_desempleo_eph_niveled.csv
+### [tasa_desempleo_eph_niveled.csv](https://github.com/argendatafundar/data/blob/main//INFDES/tasa_desempleo_eph_niveled.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|

@@ -1,6 +1,6 @@
 ## DESHUM 
 
-### indice_desarrollo_humano.csv
+### [indice_desarrollo_humano.csv](https://github.com/argendatafundar/data/blob/main//DESHUM/indice_desarrollo_humano.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -12,7 +12,7 @@
 | idh | real | Índice de Desarrollo Humano (IDH) |
 
 
-### expectativa_vida.csv
+### [expectativa_vida.csv](https://github.com/argendatafundar/data/blob/main//DESHUM/expectativa_vida.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -24,7 +24,7 @@
 | expectativa_vida | real | Expectativa de vida al nacer, en años |
 
 
-### inb_pc.csv
+### [inb_pc.csv](https://github.com/argendatafundar/data/blob/main//DESHUM/inb_pc.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -36,7 +36,7 @@
 | inb_pc | real | Ingreso Nacional Bruto (INB) per cápita, en dólares PPP de 2017 |
 
 
-### anios_prom_educ.csv
+### [anios_prom_educ.csv](https://github.com/argendatafundar/data/blob/main//DESHUM/anios_prom_educ.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -48,7 +48,7 @@
 | anios_prom_educ | real | Años promedio de educación de la pblación de 25 años o más |
 
 
-### expectativa_educ.csv
+### [expectativa_educ.csv](https://github.com/argendatafundar/data/blob/main//DESHUM/expectativa_educ.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -60,7 +60,7 @@
 | expectativa_educ | real | Años de educación esperados |
 
 
-### idh_subcomponentes.csv
+### [idh_subcomponentes.csv](https://github.com/argendatafundar/data/blob/main//DESHUM/idh_subcomponentes.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -71,7 +71,7 @@
 | valor | real | Valor del IDH que corresponda, según idh_tipo |
 
 
-### idh_idhd.csv
+### [idh_idhd.csv](https://github.com/argendatafundar/data/blob/main//DESHUM/idh_idhd.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -82,7 +82,7 @@
 | idh_d | real | Índice de Desarrollo Humano ájustado por desigualdad |
 
 
-### indice_desarrollo_humano_desigualdad.csv
+### [indice_desarrollo_humano_desigualdad.csv](https://github.com/argendatafundar/data/blob/main//DESHUM/indice_desarrollo_humano_desigualdad.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -94,7 +94,7 @@
 | idhd | real | Índice de Desarrollo Humano (IDH) ajustado por desigualdad |
 
 
-### gdi.csv
+### [gdi.csv](https://github.com/argendatafundar/data/blob/main//DESHUM/gdi.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -104,7 +104,7 @@
 | gdi | real | Índice de Desarrollo de Género |
 
 
-### idh_sexo.csv
+### [idh_sexo.csv](https://github.com/argendatafundar/data/blob/main//DESHUM/idh_sexo.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -115,7 +115,7 @@
 | idh | real | Índice de Desarrollo Humano (IDH) |
 
 
-### idh_dif_idhp.csv
+### [idh_dif_idhp.csv](https://github.com/argendatafundar/data/blob/main//DESHUM/idh_dif_idhp.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -128,7 +128,7 @@
 | dif_idh_idhp | real | Pérdida de IDH al ajustar por presiones planetarias (en porcentaje) |
 
 
-### ranking_diferencia_idh_idhp_2022_flourish.csv
+### [ranking_diferencia_idh_idhp_2022_flourish.csv](https://github.com/argendatafundar/data/blob/main//DESHUM/ranking_diferencia_idh_idhp_2022_flourish.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -138,7 +138,7 @@
 | ranking_2022 | entero | Ubicación en el ranking de IDH o IDH-P, segun corresponda |
 
 
-### idh_idhp.csv
+### [idh_idhp.csv](https://github.com/argendatafundar/data/blob/main//DESHUM/idh_idhp.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -149,7 +149,7 @@
 | valor | real | Valor del IDH que corresponda, según tipo_idh |
 
 
-### idha_subindices.csv
+### [idha_subindices.csv](https://github.com/argendatafundar/data/blob/main//DESHUM/idha_subindices.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -160,7 +160,7 @@
 | valor | real | Valor del IDH que corresponda, según tipo_idh |
 
 
-### idha.csv
+### [idha.csv](https://github.com/argendatafundar/data/blob/main//DESHUM/idha.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|

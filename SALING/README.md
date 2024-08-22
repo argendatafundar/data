@@ -1,6 +1,6 @@
 ## SALING 
 
-### ISA_ipcf_it1.csv
+### [ISA_ipcf_it1.csv](https://github.com/argendatafundar/data/blob/main//SALING/ISA_ipcf_it1.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -9,7 +9,7 @@
 | ipcf_index | real | Índice evolución ingreso per cápita familiar (2003-II = 100) |
 
 
-### ISA_ipcf-LAC_it1.csv
+### [ISA_ipcf-LAC_it1.csv](https://github.com/argendatafundar/data/blob/main//SALING/ISA_ipcf-LAC_it1.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -18,7 +18,7 @@
 | ipcf_promedio | real | Ingreso per cápita familiar promedio en dólares a PPA 2017 |
 
 
-### ISA_ipcf-LAC_it2.csv
+### [ISA_ipcf-LAC_it2.csv](https://github.com/argendatafundar/data/blob/main//SALING/ISA_ipcf-LAC_it2.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -27,7 +27,7 @@
 | ipcf_promedio | real | Ingreso per cápita familiar promedio en dólares a PPA 2017 |
 
 
-### ISA_regiones-ipcf_it1.csv
+### [ISA_regiones-ipcf_it1.csv](https://github.com/argendatafundar/data/blob/main//SALING/ISA_regiones-ipcf_it1.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -38,7 +38,7 @@
 | indice | real | Valor relativo del ingreso regional respecto al nacional en 2023-I |
 
 
-### ISA_regiones-ipcf_it2.csv
+### [ISA_regiones-ipcf_it2.csv](https://github.com/argendatafundar/data/blob/main//SALING/ISA_regiones-ipcf_it2.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -48,7 +48,7 @@
 | indice | real | Valor relativo del ingreso regional respecto al nacional en 2003-II |
 
 
-### ISA_composicion-ipcf_it1.csv
+### [ISA_composicion-ipcf_it1.csv](https://github.com/argendatafundar/data/blob/main//SALING/ISA_composicion-ipcf_it1.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -57,7 +57,7 @@
 | proporcion | real | Proporción del ingreso total familiar representada por el ingreso laboral |
 
 
-### ISA_composicion-ipcf_it2.csv
+### [ISA_composicion-ipcf_it2.csv](https://github.com/argendatafundar/data/blob/main//SALING/ISA_composicion-ipcf_it2.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -68,7 +68,7 @@
 | proporcion | real | Proporción representada por las distintas fuentes de ingreso en el ingreso total |
 
 
-### ISA_composicion-ipcf_it3.csv
+### [ISA_composicion-ipcf_it3.csv](https://github.com/argendatafundar/data/blob/main//SALING/ISA_composicion-ipcf_it3.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -79,7 +79,7 @@
 | proporcion | real | Proporción representada por las distintas fuentes de ingreso en el ingreso total |
 
 
-### ISA_composicion-ipcf_it4.csv
+### [ISA_composicion-ipcf_it4.csv](https://github.com/argendatafundar/data/blob/main//SALING/ISA_composicion-ipcf_it4.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -89,7 +89,7 @@
 | proporcion | real | Proporción del ingreso total familiar representada por el ingreso laboral |
 
 
-### ISA_composicion-ipcf_it5.csv
+### [ISA_composicion-ipcf_it5.csv](https://github.com/argendatafundar/data/blob/main//SALING/ISA_composicion-ipcf_it5.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -99,7 +99,7 @@
 | indice | real | Valor del ingreso real promedio en las distintas fuentes de ingreso (2003-II = 100) |
 
 
-### ISA_salario_real_i1.csv
+### [ISA_salario_real_i1.csv](https://github.com/argendatafundar/data/blob/main//SALING/ISA_salario_real_i1.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -108,7 +108,7 @@
 | valor | real | Valor que toma la variable considerada |
 
 
-### ISA_salario_real_i2.csv
+### [ISA_salario_real_i2.csv](https://github.com/argendatafundar/data/blob/main//SALING/ISA_salario_real_i2.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -117,7 +117,7 @@
 | indice | real | Valor mensual del salario calculado a partir del Índice de Salarios publicado por INDEC, en términos reales, deflactado por el IPC nivel general de INDEC (octubre 2016=100) |
 
 
-### ISA_salario_real_i3.csv
+### [ISA_salario_real_i3.csv](https://github.com/argendatafundar/data/blob/main//SALING/ISA_salario_real_i3.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -125,7 +125,7 @@
 | salario | real | Salario medio real a pesos constantes de 2014 |
 
 
-### ISA_salarios_mundo_i1.csv
+### [ISA_salarios_mundo_i1.csv](https://github.com/argendatafundar/data/blob/main//SALING/ISA_salarios_mundo_i1.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -133,7 +133,7 @@
 | salariohorario | real | Valor promedio por país del ingreso laboral por hora de la ocupación principal de todos los trabajadores expresados en dólares a paridad de poder de compra (PPP 2011) |
 
 
-### ISA_salarios_mundo_i2.csv
+### [ISA_salarios_mundo_i2.csv](https://github.com/argendatafundar/data/blob/main//SALING/ISA_salarios_mundo_i2.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -142,7 +142,7 @@
 | valor | real | Valor que toma la variable considerada |
 
 
-### ISA_tipo_empleo_i1.csv
+### [ISA_tipo_empleo_i1.csv](https://github.com/argendatafundar/data/blob/main//SALING/ISA_tipo_empleo_i1.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -151,7 +151,7 @@
 | valor | entero | Valor que toma la variable considerada |
 
 
-### ISA_tipo_empleo_i2.csv
+### [ISA_tipo_empleo_i2.csv](https://github.com/argendatafundar/data/blob/main//SALING/ISA_tipo_empleo_i2.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -161,7 +161,7 @@
 | valor | real | Valor que toma la variable considerada |
 
 
-### ISA_tipo_empleo_i3.csv
+### [ISA_tipo_empleo_i3.csv](https://github.com/argendatafundar/data/blob/main//SALING/ISA_tipo_empleo_i3.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -170,7 +170,7 @@
 | valor | real | Valor que toma la variable considerada |
 
 
-### ISA_salarios_region_i1.csv
+### [ISA_salarios_region_i1.csv](https://github.com/argendatafundar/data/blob/main//SALING/ISA_salarios_region_i1.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -179,7 +179,7 @@
 | valor | real | Valor que toma la variable considerada |
 
 
-### ISA_salarios_region_i2.csv
+### [ISA_salarios_region_i2.csv](https://github.com/argendatafundar/data/blob/main//SALING/ISA_salarios_region_i2.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -188,7 +188,7 @@
 | valor | real | Valor que toma la variable considerada |
 
 
-### ISA_edad_genero_i1.csv
+### [ISA_edad_genero_i1.csv](https://github.com/argendatafundar/data/blob/main//SALING/ISA_edad_genero_i1.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -197,7 +197,7 @@
 | valor | entero | Valor que toma la variable considerada |
 
 
-### ISA_edad_genero_i2.csv
+### [ISA_edad_genero_i2.csv](https://github.com/argendatafundar/data/blob/main//SALING/ISA_edad_genero_i2.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -206,7 +206,7 @@
 | valor | entero | Valor que toma la variable considerada |
 
 
-### ISA_edad_genero_i3.csv
+### [ISA_edad_genero_i3.csv](https://github.com/argendatafundar/data/blob/main//SALING/ISA_edad_genero_i3.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -215,7 +215,7 @@
 | valor | entero | Valor que toma la variable considerada |
 
 
-### salario_real_base1970.csv
+### [salario_real_base1970.csv](https://github.com/argendatafundar/data/blob/main//SALING/salario_real_base1970.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -223,7 +223,7 @@
 | salario_real_base1970 | entero | Indice con base 100 en el año 1970, del salario real promedio |
 
 
-### salario_real_ppa2017_ceped.csv
+### [salario_real_ppa2017_ceped.csv](https://github.com/argendatafundar/data/blob/main//SALING/salario_real_ppa2017_ceped.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -232,7 +232,7 @@
 | salario_real_ppa_consumo_privado_2017 | real | Salario real en dólares de paridad de poder adquisitivo de 2017 (PPA de consumo privado) |
 
 
-### prima_formalidad_argentina.csv
+### [prima_formalidad_argentina.csv](https://github.com/argendatafundar/data/blob/main//SALING/prima_formalidad_argentina.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|

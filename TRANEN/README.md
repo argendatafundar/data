@@ -1,6 +1,6 @@
 ## TRANEN 
 
-### matriz_prim_mundo_historic_larga.csv
+### [matriz_prim_mundo_historic_larga.csv](https://github.com/argendatafundar/data/blob/main//TRANEN/matriz_prim_mundo_historic_larga.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -10,7 +10,7 @@
 | porcentaje | real | Porcentaje |
 
 
-### matriz_prim_mundo_historic.csv
+### [matriz_prim_mundo_historic.csv](https://github.com/argendatafundar/data/blob/main//TRANEN/matriz_prim_mundo_historic.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -22,7 +22,7 @@
 | fuente_energia | alfanumerico | Fuente de energía |
 
 
-### energia_baja_carbono.csv
+### [energia_baja_carbono.csv](https://github.com/argendatafundar/data/blob/main//TRANEN/energia_baja_carbono.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -31,7 +31,7 @@
 | valor_en_porcentaje | real | Porcentaje |
 
 
-### generacion_hidro_twh.csv
+### [generacion_hidro_twh.csv](https://github.com/argendatafundar/data/blob/main//TRANEN/generacion_hidro_twh.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -40,7 +40,7 @@
 | iso3 | alfanumerico | Código de país |
 
 
-### generacion_nuclear_twh.csv
+### [generacion_nuclear_twh.csv](https://github.com/argendatafundar/data/blob/main//TRANEN/generacion_nuclear_twh.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -49,7 +49,7 @@
 | iso3 | alfanumerico | Código de país |
 
 
-### capacidad_instalada_fv_gw.csv
+### [capacidad_instalada_fv_gw.csv](https://github.com/argendatafundar/data/blob/main//TRANEN/capacidad_instalada_fv_gw.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -58,7 +58,7 @@
 | valor_en_gw | real | Capacidad instalada fotovoltaica |
 
 
-### capacidad_instalada_eolica_gw.csv
+### [capacidad_instalada_eolica_gw.csv](https://github.com/argendatafundar/data/blob/main//TRANEN/capacidad_instalada_eolica_gw.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -67,7 +67,7 @@
 | valor_en_gw | real | Capacidad instalada eólica |
 
 
-### produccion_biocomb.csv
+### [produccion_biocomb.csv](https://github.com/argendatafundar/data/blob/main//TRANEN/produccion_biocomb.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -76,7 +76,7 @@
 | valor_en_twh | real | Producción de biocombustibles |
 
 
-### produc_electricidad_fuente_mundo_twh.csv
+### [produc_electricidad_fuente_mundo_twh.csv](https://github.com/argendatafundar/data/blob/main//TRANEN/produc_electricidad_fuente_mundo_twh.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -87,7 +87,7 @@
 | porcentaje | real | Porcentaje |
 
 
-### potencia_instalada_renov_regional.csv
+### [potencia_instalada_renov_regional.csv](https://github.com/argendatafundar/data/blob/main//TRANEN/potencia_instalada_renov_regional.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -97,7 +97,7 @@
 | porcentaje | real | Porcentaje |
 
 
-### identidad_kaya_mundo.csv
+### [identidad_kaya_mundo.csv](https://github.com/argendatafundar/data/blob/main//TRANEN/identidad_kaya_mundo.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -111,7 +111,7 @@
  | emision_anual_kgco2_por_kwh | real | Intensidad de carbono (CO2/energía) |
 
 
-### intensidad_energ_mundo.csv
+### [intensidad_energ_mundo.csv](https://github.com/argendatafundar/data/blob/main//TRANEN/intensidad_energ_mundo.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -120,7 +120,7 @@
 | valor_en_kwh_por_dolar | real | Consumo energético por unidad de PIB (en dólares PPA 2011) |
 
 
-### intensidad_carbono_electri_mundo.csv
+### [intensidad_carbono_electri_mundo.csv](https://github.com/argendatafundar/data/blob/main//TRANEN/intensidad_carbono_electri_mundo.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|

@@ -1,6 +1,6 @@
 ## PRECIO 
 
-### 1_composicion_ipc_argentina.csv
+### [1_composicion_ipc_argentina.csv](https://github.com/argendatafundar/data/blob/main//PRECIO/1_composicion_ipc_argentina.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -8,7 +8,7 @@
 | valor | real | Valor IPC |
 
 
-### 2_composicion_ipc_por_regiones_argentinas.csv
+### [2_composicion_ipc_por_regiones_argentinas.csv](https://github.com/argendatafundar/data/blob/main//PRECIO/2_composicion_ipc_por_regiones_argentinas.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -17,7 +17,7 @@
 | valor | real | Valor IPC |
 
 
-### 3_tasa_de_inflacion_anual_argentina_1935_2022.csv
+### [3_tasa_de_inflacion_anual_argentina_1935_2022.csv](https://github.com/argendatafundar/data/blob/main//PRECIO/3_tasa_de_inflacion_anual_argentina_1935_2022.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -26,7 +26,7 @@
 | inflacion_positivos | real | Inflación [valores negativos excluídos] |
 
 
-### 4_tasa_de_inflacion_anual_paises_promedio_2007_2022.csv
+### [4_tasa_de_inflacion_anual_paises_promedio_2007_2022.csv](https://github.com/argendatafundar/data/blob/main//PRECIO/4_tasa_de_inflacion_anual_paises_promedio_2007_2022.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -35,7 +35,7 @@
 | inflacion_prom_07_22 | real | Inflación Promedio 2007-2022 |
 
 
-### 5_tasa_de_inflacion_anual_paises_2000_2022.csv
+### [5_tasa_de_inflacion_anual_paises_2000_2022.csv](https://github.com/argendatafundar/data/blob/main//PRECIO/5_tasa_de_inflacion_anual_paises_2000_2022.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -45,7 +45,7 @@
 | inflacion | real | Inflación |
 
 
-### 6_comparacion_inflacion_mediana_latam_altosing_1980_2022.csv
+### [6_comparacion_inflacion_mediana_latam_altosing_1980_2022.csv](https://github.com/argendatafundar/data/blob/main//PRECIO/6_comparacion_inflacion_mediana_latam_altosing_1980_2022.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -54,7 +54,7 @@
 | mediana_paises_inflacion | real | Inflación Países Mediana |
 
 
-### 7_comparacion_inflacion_mediana_argentina_latam_1992_2022.csv
+### [7_comparacion_inflacion_mediana_argentina_latam_1992_2022.csv](https://github.com/argendatafundar/data/blob/main//PRECIO/7_comparacion_inflacion_mediana_argentina_latam_1992_2022.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -63,7 +63,7 @@
 | mediana_paises_inflacion | real | Inflación Países Mediana |
 
 
-### 8_evol_precios_aperturas_relativos_a_evol_precios_generales_argentina_1947_2022.csv
+### [8_evol_precios_aperturas_relativos_a_evol_precios_generales_argentina_1947_2022.csv](https://github.com/argendatafundar/data/blob/main//PRECIO/8_evol_precios_aperturas_relativos_a_evol_precios_generales_argentina_1947_2022.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -72,7 +72,7 @@
 | valor | real | Valor IPC |
 
 
-### 9_inflacion_acumulada_argentina_dic2001_dic2002.csv
+### [9_inflacion_acumulada_argentina_dic2001_dic2002.csv](https://github.com/argendatafundar/data/blob/main//PRECIO/9_inflacion_acumulada_argentina_dic2001_dic2002.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -81,7 +81,7 @@
 | valor | real | Valor IPC acumulado |
 
 
-### 10_tasa_trimestral_inflacion_y_pib_desestacionalizado_argentina_1984_1988.csv
+### [10_tasa_trimestral_inflacion_y_pib_desestacionalizado_argentina_1984_1988.csv](https://github.com/argendatafundar/data/blob/main//PRECIO/10_tasa_trimestral_inflacion_y_pib_desestacionalizado_argentina_1984_1988.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -90,7 +90,7 @@
 | pbi_desestacionalizado_en_millones_de_pesos_de_1993 | real | PBI Desestacionalizado (en millones de $ de 1993) |
 
 
-### 11_tasa_de_inflacion_mensual_argentina_feb1989_jun1990.csv
+### [11_tasa_de_inflacion_mensual_argentina_feb1989_jun1990.csv](https://github.com/argendatafundar/data/blob/main//PRECIO/11_tasa_de_inflacion_mensual_argentina_feb1989_jun1990.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -98,7 +98,7 @@
 | inflacion_mensual | real | Inflación Mensual |
 
 
-### 12_tasa_de_inflacion_mensual_argentina_ene1989_dic1993.csv
+### [12_tasa_de_inflacion_mensual_argentina_ene1989_dic1993.csv](https://github.com/argendatafundar/data/blob/main//PRECIO/12_tasa_de_inflacion_mensual_argentina_ene1989_dic1993.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -106,7 +106,7 @@
 | inflacion_mensual | real | Inflación Mensual |
 
 
-### ponderadores_engho_evolucion.csv
+### [ponderadores_engho_evolucion.csv](https://github.com/argendatafundar/data/blob/main//PRECIO/ponderadores_engho_evolucion.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -115,7 +115,7 @@
 | porcentaje | real | Proporción del gasto de hogares |
 
 
-### precios_relativos_caba_empalmada.csv
+### [precios_relativos_caba_empalmada.csv](https://github.com/argendatafundar/data/blob/main//PRECIO/precios_relativos_caba_empalmada.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -126,7 +126,7 @@
 | precio_relativo | real | Indice del precio relativo al nivel general |
 
 
-### precios_relativos_empalmada.csv
+### [precios_relativos_empalmada.csv](https://github.com/argendatafundar/data/blob/main//PRECIO/precios_relativos_empalmada.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -135,7 +135,7 @@
 | precio_relativo | real | Precio relativo al nivel general |
 
 
-### tasa_de_inflacion_anual_argentina_1935_2022_escala_lineal.csv
+### [tasa_de_inflacion_anual_argentina_1935_2022_escala_lineal.csv](https://github.com/argendatafundar/data/blob/main//PRECIO/tasa_de_inflacion_anual_argentina_1935_2022_escala_lineal.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -143,7 +143,7 @@
 | tasa_inflacion | real | Inflación |
 
 
-### tasa_de_inflacion_anual_argentina_1935_2022_valores_positivos.csv
+### [tasa_de_inflacion_anual_argentina_1935_2022_valores_positivos.csv](https://github.com/argendatafundar/data/blob/main//PRECIO/tasa_de_inflacion_anual_argentina_1935_2022_valores_positivos.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|

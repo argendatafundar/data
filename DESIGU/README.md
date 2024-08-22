@@ -1,6 +1,6 @@
 ## DESIGU 
 
-### ISA_desigualdad_i1.csv
+### [ISA_desigualdad_i1.csv](https://github.com/argendatafundar/data/blob/main//DESIGU/ISA_desigualdad_i1.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -9,7 +9,7 @@
 | valor | real | Valor que toma la variable considerada |
 
 
-### ISA_desigualdad_i2.csv
+### [ISA_desigualdad_i2.csv](https://github.com/argendatafundar/data/blob/main//DESIGU/ISA_desigualdad_i2.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -17,7 +17,7 @@
 | gini | real | Coeficiente de Gini de la distribución del ingreso per cápita familiar |
 
 
-### ISA_desigualdad_i3.csv
+### [ISA_desigualdad_i3.csv](https://github.com/argendatafundar/data/blob/main//DESIGU/ISA_desigualdad_i3.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -25,7 +25,7 @@
 | brecha | real | Cociente del ingreso promedio de los deciles 10 y 1 de la distribución del ingreso per cápita familiar |
 
 
-### ISA_mundo_i1.csv
+### [ISA_mundo_i1.csv](https://github.com/argendatafundar/data/blob/main//DESIGU/ISA_mundo_i1.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -34,7 +34,7 @@
 | gini | real | Coeficiente de Gini del consumo per cápita familiar |
 
 
-### ISA_mundo_i2.csv
+### [ISA_mundo_i2.csv](https://github.com/argendatafundar/data/blob/main//DESIGU/ISA_mundo_i2.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -44,7 +44,7 @@
 | valor | real | Valor que toma la variable considerada |
 
 
-### ISA_mundo_i3.csv
+### [ISA_mundo_i3.csv](https://github.com/argendatafundar/data/blob/main//DESIGU/ISA_mundo_i3.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -53,7 +53,7 @@
 | valor | real | Valor que toma la variable considerada |
 
 
-### ISA_movilidad_i1.csv
+### [ISA_movilidad_i1.csv](https://github.com/argendatafundar/data/blob/main//DESIGU/ISA_movilidad_i1.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -61,7 +61,7 @@
 | indicadormovilidad | real | Indicador de movilidad, definido como: 1 menos el coeficiente de regresión lineal entre los años de educación de padres e hijos |
 
 
-### ISA_movilidad_i2.csv
+### [ISA_movilidad_i2.csv](https://github.com/argendatafundar/data/blob/main//DESIGU/ISA_movilidad_i2.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -71,7 +71,7 @@
 | indicador | real | Indicador de movilidad, definido como: 1 menos el coeficiente de regresión lineal entre los años de educación de padres e hijos |
 
 
-### ISA_desigualdad_laboral_i1.csv
+### [ISA_desigualdad_laboral_i1.csv](https://github.com/argendatafundar/data/blob/main//DESIGU/ISA_desigualdad_laboral_i1.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -80,7 +80,7 @@
 | valor | real | Valor que toma la variable considerada |
 
 
-### ISA_desigualdad_laboral_i2.csv
+### [ISA_desigualdad_laboral_i2.csv](https://github.com/argendatafundar/data/blob/main//DESIGU/ISA_desigualdad_laboral_i2.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -89,7 +89,7 @@
 | valor | real | Valor que toma la variable considerada |
 
 
-### ISA_desigualdad_laboral_i3.csv
+### [ISA_desigualdad_laboral_i3.csv](https://github.com/argendatafundar/data/blob/main//DESIGU/ISA_desigualdad_laboral_i3.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -98,7 +98,7 @@
 | valor | real | Valor que toma la variable considerada |
 
 
-### ISA_brechas_educativas_i1.csv
+### [ISA_brechas_educativas_i1.csv](https://github.com/argendatafundar/data/blob/main//DESIGU/ISA_brechas_educativas_i1.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -107,7 +107,7 @@
 | valor | real | Valor que toma la variable considerada |
 
 
-### ISA_brechas_educativas_i2.csv
+### [ISA_brechas_educativas_i2.csv](https://github.com/argendatafundar/data/blob/main//DESIGU/ISA_brechas_educativas_i2.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -116,7 +116,7 @@
 | valor | real | Valor que toma la variable considerada |
 
 
-### ISA_brechas_educativas_i3.csv
+### [ISA_brechas_educativas_i3.csv](https://github.com/argendatafundar/data/blob/main//DESIGU/ISA_brechas_educativas_i3.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -125,7 +125,7 @@
 | valor | real | Valor que toma la variable considerada |
 
 
-### ISA_funcional_i1.csv
+### [ISA_funcional_i1.csv](https://github.com/argendatafundar/data/blob/main//DESIGU/ISA_funcional_i1.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -133,7 +133,7 @@
 | part_salarial_vab | real | Participación de los ingresos del trabajo en el Valor Agregado Bruto a precios básicos (participacion) |
 
 
-### ISA_funcional_i2.csv
+### [ISA_funcional_i2.csv](https://github.com/argendatafundar/data/blob/main//DESIGU/ISA_funcional_i2.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -142,7 +142,7 @@
 | participacion | real | Participacion |
 
 
-### ISA_regiones_i1.csv
+### [ISA_regiones_i1.csv](https://github.com/argendatafundar/data/blob/main//DESIGU/ISA_regiones_i1.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -151,7 +151,7 @@
 | valor | real | Valor que toma la variable considerada |
 
 
-### ISA_regiones_i2.csv
+### [ISA_regiones_i2.csv](https://github.com/argendatafundar/data/blob/main//DESIGU/ISA_regiones_i2.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -160,7 +160,7 @@
 | valor | real | Valor que toma la variable considerada |
 
 
-### ISA_demografia_i1.csv
+### [ISA_demografia_i1.csv](https://github.com/argendatafundar/data/blob/main//DESIGU/ISA_demografia_i1.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -169,7 +169,7 @@
 | valor | real | Valor que toma la variable considerada |
 
 
-### ISA_demografia_i2.csv
+### [ISA_demografia_i2.csv](https://github.com/argendatafundar/data/blob/main//DESIGU/ISA_demografia_i2.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -177,7 +177,7 @@
 | indice | real | Coeficiente de correlación lineal de los años de educación formal entre los dos miembros de una pareja |
 
 
-### ISA_genero_i1.csv
+### [ISA_genero_i1.csv](https://github.com/argendatafundar/data/blob/main//DESIGU/ISA_genero_i1.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -185,7 +185,7 @@
 | brecha | real | 1 - menos el coeficiente de regresión de la variable dicotómica mujer en una ecuación de Mincer |
 
 
-### ISA_genero_i2.csv
+### [ISA_genero_i2.csv](https://github.com/argendatafundar/data/blob/main//DESIGU/ISA_genero_i2.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -194,7 +194,7 @@
 | valor | real | Valor que toma la variable considerada |
 
 
-### ISA_vivienda_i1.csv
+### [ISA_vivienda_i1.csv](https://github.com/argendatafundar/data/blob/main//DESIGU/ISA_vivienda_i1.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -203,7 +203,7 @@
 | valor | real | Valor que toma la variable considerada |
 
 
-### ISA_vivienda_i2.csv
+### [ISA_vivienda_i2.csv](https://github.com/argendatafundar/data/blob/main//DESIGU/ISA_vivienda_i2.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -212,7 +212,7 @@
 | valor | real | Valor que toma la variable considerada |
 
 
-### brecha_horas_trabajadas_genero.csv
+### [brecha_horas_trabajadas_genero.csv](https://github.com/argendatafundar/data/blob/main//DESIGU/brecha_horas_trabajadas_genero.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|

@@ -1,6 +1,6 @@
 ## MINERI 
 
-### pbi_minero.csv
+### [pbi_minero.csv](https://github.com/argendatafundar/data/blob/main//MINERI/pbi_minero.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -9,7 +9,7 @@
 | mineria | real | Paricipación de Extracción de minerales metalíferos. Explotación de minas y canteras n.c.p. sobre el PBI a precios corrientes |
 
 
-### minerales_vbp_mundial.csv
+### [minerales_vbp_mundial.csv](https://github.com/argendatafundar/data/blob/main//MINERI/minerales_vbp_mundial.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -20,7 +20,7 @@
 | tamanio_mercado | real | Tamaño de Mercado por mineral calculado como precio por producción mundial |
 
 
-### expo_por_sectores.csv
+### [expo_por_sectores.csv](https://github.com/argendatafundar/data/blob/main//MINERI/expo_por_sectores.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -29,7 +29,7 @@
 | exportaciones_sector_perc | real | Exportaciones de minerales por sector en relación a las exportaciones nacionales totales |
 
 
-### expo_mineras_por_grupo.csv
+### [expo_mineras_por_grupo.csv](https://github.com/argendatafundar/data/blob/main//MINERI/expo_mineras_por_grupo.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -38,7 +38,7 @@
 | expo_grupo | real | Exportaciones en dólares norteamericanos |
 
 
-### importaciones_por_sector.csv
+### [importaciones_por_sector.csv](https://github.com/argendatafundar/data/blob/main//MINERI/importaciones_por_sector.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -47,7 +47,7 @@
 | importaciones_sector_perc | real | Importaciones de minerales por sector en relación a las exportaciones nacionales totales |
 
 
-### importaciones_por_grupo.csv
+### [importaciones_por_grupo.csv](https://github.com/argendatafundar/data/blob/main//MINERI/importaciones_por_grupo.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -56,7 +56,7 @@
 | impo_grupo | real | Importaciones CIF en dólares norteamericanos |
 
 
-### balanza_comercial_minera.csv
+### [balanza_comercial_minera.csv](https://github.com/argendatafundar/data/blob/main//MINERI/balanza_comercial_minera.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -66,7 +66,7 @@
 | saldo_comercial_minero | real | Exportaciones menos Importaciones del sector minero - Saldo Comercial en dólares |
 
 
-### precios_metales.csv
+### [precios_metales.csv](https://github.com/argendatafundar/data/blob/main//MINERI/precios_metales.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -75,7 +75,7 @@
 | valor | real | Valor de la variable. |
 
 
-### precios_metales_real.csv
+### [precios_metales_real.csv](https://github.com/argendatafundar/data/blob/main//MINERI/precios_metales_real.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -84,7 +84,7 @@
 | valor | real | Valor de la variable. |
 
 
-### peso_va_min_por_provincia.csv
+### [peso_va_min_por_provincia.csv](https://github.com/argendatafundar/data/blob/main//MINERI/peso_va_min_por_provincia.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -93,7 +93,7 @@
 | vab_min_vab_total_prov | real | Valor Agregado Bruto Minería a precios básicos a pesos constantes de 2004 como porcentaje del Valor Agregado Bruto a precios básicos a pesos constantes de 2004 total de la provincia |
 
 
-### dist_provincial_pbi_minero.csv
+### [dist_provincial_pbi_minero.csv](https://github.com/argendatafundar/data/blob/main//MINERI/dist_provincial_pbi_minero.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -102,7 +102,7 @@
 | vab_min_provincial | real | Valor Agregado Bruto a precios básicos (Extracción de minerales metalíferos. Explotación de  minas y canteras n.c.p.) en millones de pesos a precios constantes de 2004 |
 
 
-### exportaciones_mineras_provinciales.csv
+### [exportaciones_mineras_provinciales.csv](https://github.com/argendatafundar/data/blob/main//MINERI/exportaciones_mineras_provinciales.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -112,7 +112,7 @@
 | fob | entero | Valor Fob de exportaciones |
 
 
-### empleo_minero.csv
+### [empleo_minero.csv](https://github.com/argendatafundar/data/blob/main//MINERI/empleo_minero.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -122,7 +122,7 @@
 | cantidad_puestos | real | Cantidad de Puestos de Trabajo |
 
 
-### min_comp_categoria_ocupacional_rama.csv
+### [min_comp_categoria_ocupacional_rama.csv](https://github.com/argendatafundar/data/blob/main//MINERI/min_comp_categoria_ocupacional_rama.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -131,7 +131,7 @@
 | porcentaje_sobre_total_rama | real | Participación de cada categoría ocupacional sobre el total de la rama |
 
 
-### empleo_genero.csv
+### [empleo_genero.csv](https://github.com/argendatafundar/data/blob/main//MINERI/empleo_genero.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -139,7 +139,7 @@
 | tasa_feminizacion | real | Cantidad de Puestos de Trabajo mujeres en el sector minero como porcentaje del empleo minero total |
 
 
-### tasa_feminizacion_sector.csv
+### [tasa_feminizacion_sector.csv](https://github.com/argendatafundar/data/blob/main//MINERI/tasa_feminizacion_sector.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -147,7 +147,7 @@
 | tasa_feminizacion | real | Participación laboral de las mujeres sobre el total de empleo sectorial |
 
 
-### desc_ventas_min_metalifera.csv
+### [desc_ventas_min_metalifera.csv](https://github.com/argendatafundar/data/blob/main//MINERI/desc_ventas_min_metalifera.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -156,7 +156,7 @@
 | porcentaje_total | real | Porcentaje de las ventas por concepto sobre el total (2017-2019) |
 
 
-### compras_sector_minero_rama.csv
+### [compras_sector_minero_rama.csv](https://github.com/argendatafundar/data/blob/main//MINERI/compras_sector_minero_rama.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -164,7 +164,7 @@
 | porcentaje_compra_sector_minero | real | Participación de compras totales por rama |
 
 
-### importaciones_directas_mineria.csv
+### [importaciones_directas_mineria.csv](https://github.com/argendatafundar/data/blob/main//MINERI/importaciones_directas_mineria.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -174,7 +174,7 @@
 | perc_total | real | Porcentaje de importaciones sobre el total |
 
 
-### crecimiento_demanda_minerales_2040.csv
+### [crecimiento_demanda_minerales_2040.csv](https://github.com/argendatafundar/data/blob/main//MINERI/crecimiento_demanda_minerales_2040.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -183,7 +183,7 @@
 | escenario_base | real | Crecimiento proyectado de demanda por mineral a 2040 en base a un escenario conservador considerando solo las políticas actuales y en desarrollo para alcanzar las metas declaradas (2020=1) |
 
 
-### minerales_criticos_energia.csv
+### [minerales_criticos_energia.csv](https://github.com/argendatafundar/data/blob/main//MINERI/minerales_criticos_energia.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -192,7 +192,7 @@
 | mineral_utilizado | real | Cantidad utilizada de mineral para generación eléctrica |
 
 
-### minerales_criticos_vehiculos.csv
+### [minerales_criticos_vehiculos.csv](https://github.com/argendatafundar/data/blob/main//MINERI/minerales_criticos_vehiculos.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
@@ -201,7 +201,7 @@
 | mineral_utilizado_kg_por_vehiculo | real | Cantidad utilizada de mineral en kg para la fabricación del vehículo completo (Batería, motor y carrocería) |
 
 
-### ranking_minerales_argentina.csv
+### [ranking_minerales_argentina.csv](https://github.com/argendatafundar/data/blob/main//MINERI/ranking_minerales_argentina.csv)
 
 |**Variable**|**Tipo de dato**|**Descripcion**|
 |:-------------:|:-------------:|:-------------:|
