@@ -13,8 +13,8 @@ En este repositorio se comparten conjuntos de datos publicados en cada tópico d
 # Tabla de contenidos
 
 - [Cómo están organizados los datos](#cómo-están-organizados-los-datos)
-  - [Esquema del repositorio](#esquema-del-respositorio)
-  - Esquema del sistema de archivos
+  - [Esquema de los datos](#esquema-de-lost-datos)
+  - [Esquema del sistema de archivos](#esquema-del-sistema-de-archivos)
 - Contenidos por tópico
 
 ---
@@ -118,7 +118,7 @@ Cada tópico de ArgenData tiene asignado un nombre en clave de seis letras mayú
 </table>
 </div>
 
-## Esquema del respositorio
+## Esquema de los datos
 
 En la carpeta de cada tópico, pueden hallarse dos tipos de archivos por dataset único:
 - El dataset original limpio en formato `.csv` (ó, aveces, `.geojson`).
@@ -157,7 +157,9 @@ Por ejemplo, tomemos a `PRECIO/12_tasa_de_inflacion_mensual_argentina_ene1989_di
 }
 ```
 
+### Esquema del sistema de archivos
 
+Juntando lo establecido actualmente, este repositorio organiza sus datos agrupando datasets por tópico (usando su código de seis letras correspondiente), en cada carpeta pueden encontrarse los datos y metadatos almacenados.
 
 ```
 ├── TOPICO
@@ -169,27 +171,15 @@ Por ejemplo, tomemos a `PRECIO/12_tasa_de_inflacion_mensual_argentina_ene1989_di
 └── COMEXT
     ├── cambio_destinos_exportacion.csv
     ├── cambio_destinos_exportacion.json
-    ├── cambio_origenes_importacion.csv
-    ├── cambio_origenes_importacion.json
-    ├── composicion_exportaciones_bienes_diferenciado_Bernini.csv
-    ├── composicion_exportaciones_bienes_diferenciado_Bernini.json
-    ├── composicion_exportaciones_bienes_regiones_mundo.csv
-    ├── composicion_exportaciones_bienes_regiones_mundo.json
-    ├── composicion_exportaciones_bienes_sectores_Brambilla_Porto.csv
-    ├── composicion_exportaciones_bienes_sectores_Brambilla_Porto.json
-    ├── composicion_exportaciones_bienes_sitc_seccion.csv
-    ├── composicion_exportaciones_bienes_sitc_seccion.json
-    ├── composicion_exportaciones_servicios_EBOPS_2digitos_agrupado.csv
-    ├── composicion_exportaciones_servicios_EBOPS_2digitos_agrupado.json
-    └── ...
+    ...
 ```
 
-<!--En el ejemplo, para el tópico de **[Comercio Exterior](https://argendata.fund.ar/topico/comercio-exterior/)** (`COMEXT`) se visualizan archvios `.csv` y `.json` asociados a cada uno de los items (`cambio_destinos_exportacion`, por ejemplo). El primero de ellos contiene los datos. El segundo también incluye los metadatos asociados (fuente de información, institución productora, fechas de procesamiento, etc.): -->
-
-Estos datos, que son los que se disponibilizan para la descarga de usuarios de Argendata, son procesados luego por [transformers](https://github.com/argendata/transformers) para servir de insumo para la graficación en el [Frontend](https://argendata.fund.ar/) [^1]. 
+Estos datos, que son los que se disponibilizan para la descarga de usuarios de Argendata, son posteriormente procesados por [transformers](https://github.com/argendata/transformers) para servir de insumo para la graficación en el [Frontend](https://argendata.fund.ar/) [^1]. 
 
 ---
-## Índice
+## Contenido por tópico
+
+Cada gráfico de ArgenData tiene asociado un dataset [^4]. El resto de este archivo contiene un desglose de los gráficos por tópico, modo de anexo. Cada gráfico puede o bien visualizarse en la web, o bien visualizarse en este repositorio junto con su ficha de metadatos.
 
 - [Actividad económica](#actividad-económica)
 - [Agroindustria](#agroindustria)
@@ -639,7 +629,10 @@ Estos datos, que son los que se disponibilizan para la descarga de usuarios de A
 
 [^2]: El flujo de trabajo definido para la reproductibilidad cuenta con una librería de `R` que reune un conjunto de funciones para facilitar el flujo de trabajo con fuentes y recursos en Argendata [https://github.com/argendata/argendataR](https://github.com/argendata/argendataR)
 
-[^3]: El código que genera esta salida es parte del proceso de ETL y puede consultarse en el _script_ [`18_cambio_destinos_exportacion.R`](https://github.com/argendata/etl/blob/main/scripts/subtopicos/COMEXT/18_cambio_destinos_exportacion.R)
+[^3]: El código que genera esta salida es parte del proceso de ETL y puede consultarse en el _script_ 
+[^4] Pero no al revés; es decir, múltiples gráficos pueden usar un mismo dataset.
+
+[`18_cambio_destinos_exportacion.R`](https://github.com/argendata/etl/blob/main/scripts/subtopicos/COMEXT/18_cambio_destinos_exportacion.R)
 
 <div>
 <a href="https://fund.ar">
