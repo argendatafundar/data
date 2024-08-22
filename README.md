@@ -627,6 +627,7 @@ Cada gráfico de ArgenData tiene asociado un dataset [^4]. El resto de este arch
 
 [^1]: Para este proceso se desarrolló una [librería para `Python`](https://github.com/argendata/data-transformers) que busca facilitar la escritura, ejecución, reproducibilidad y el versionado del código fuente que se realice para manipular datos estructurados para la graficación. Típicamente se trata de dar un formato estandarizado a los datos a través de acciones como el filtrado de valores o la selección / renombrado de variables. El [siguiente _transformer_](https://github.com/argendata/transformers/blob/main/COMEXT/COMEXT_g18_transformer.py) se corresponde con el ejemplo antes expuesto. 
 
+
 [^2]: El flujo de trabajo definido para la reproductibilidad cuenta con una librería de `R` que reune un conjunto de funciones para facilitar el flujo de trabajo con fuentes y recursos en Argendata [https://github.com/argendata/argendataR](https://github.com/argendata/argendataR)
 
 
