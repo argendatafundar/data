@@ -12,8 +12,8 @@ En este repositorio se comparten conjuntos de datos publicados en cada tópico d
 
 # Tabla de contenidos
 
-- Cómo están organizados los datos
-  - Esquema del repositorio
+- [Cómo están organizados los datos](#cómo-están-organizados-los-datos)
+  - [Esquema del repositorio](#esquema-del-respositorio)
   - Esquema del sistema de archivos
 - Contenidos por tópico
 
@@ -146,7 +146,7 @@ Cada tópico de ArgenData tiene asignado un nombre en clave de seis letras mayú
     └── ...
 ```
 
-En el ejemplo, para el tópico de **[Comercio Exterior](https://argendata.fund.ar/topico/comercio-exterior/)**(`COMEXT`) se visualizan archvios `.csv` y `.json` asociados a cada uno de los items (`cambio_destinos_exportacion`, por ejemplo). El primero de ellos contiene los datos. El segundo también incluye los metadatos asociados (fuente de información, institución productora, fechas de procesamiento, etc.):
+<!--En el ejemplo, para el tópico de **[Comercio Exterior](https://argendata.fund.ar/topico/comercio-exterior/)** (`COMEXT`) se visualizan archvios `.csv` y `.json` asociados a cada uno de los items (`cambio_destinos_exportacion`, por ejemplo). El primero de ellos contiene los datos. El segundo también incluye los metadatos asociados (fuente de información, institución productora, fechas de procesamiento, etc.): -->
 
 
 ### `cambio_destinos_exportacion.csv` [^3]
