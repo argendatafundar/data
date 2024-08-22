@@ -10,7 +10,19 @@
 
 En este repositorio se comparten conjuntos de datos publicados en cada tópico de Argendata. Estos corresponden a la salida del proceso semi automatizado de [rerproductibilidad (ETL)](https://github.com/argendata/etl), equivalente a los datos producidos por investigadores [^2]. 
 
-En el siguiente esquema se muestra como ejemplo la organización de la infromación: **(i)** el sistema de archivos se organiza a partir de tópicos (`AGROPE`, `CAMCLI`, `COMEXT`, etc.); **(ii)** al interior de cada directorio se guardan las salidas del proceso de ETL (datos y metadatos). 
+# Tabla de contenidos
+
+- Cómo están organizados los datos
+  - Esquema del repositorio
+  - Esquema del sistema de archivos
+- Contenidos por tópico
+
+---
+
+# Cómo están organizados los datos
+
+Cada tópico de ArgenData tiene asignado un nombre en clave de seis letras mayúsculas que lo identifican unívocamente, dicha codificación se puede ver reflejada en la siguiente tabla, donde _categoría_ corresponde al grupo de tópicos al que pertenece, _topico_ es el nombre como aparece en la web, y _código_ refiere al nombre en clave de seis letras.
+
 
 <div align='center', width="100%">
     <table border="1" class="dataframe">
@@ -25,86 +37,134 @@ En el siguiente esquema se muestra como ejemplo la organización de la infromaci
     <tr>
       <td><a href="https://argendata.fund.ar/categorias/ambiente">Ambiente</a></td>
       <td><a href="https://argendata.fund.ar/topico/emisiones-de-gases-de-efecto-invernadero/">Emisiones de gases de efecto invernadero</a></td>
-      <td>CAMCLI</td>
+      <td>[CAMCLI](https://github.com/argendatafundar/data/tree/main/CAMCLI#CAMCLI)</td>
     </tr>
     <tr>
       <td><a href="https://argendata.fund.ar/categorias/ambiente">Ambiente</a></td>
       <td><a href="https://argendata.fund.ar/topico/cambio-climatico/">Cambio climático</a></td>
-      <td>CAMCLI</td>
+      <td>[CAMCLI](https://github.com/argendatafundar/data/tree/main/CAMCLI#CAMCLI)</td>
     </tr>
     <tr>
       <td><a href="https://argendata.fund.ar/categorias/ambiente">Ambiente</a></td>
       <td><a href="https://argendata.fund.ar/topico/transicion-energetica/">Transición energética</a></td>
-      <td>TRANEN</td>
+      <td>[TRANEN](https://github.com/argendatafundar/data/tree/main/TRANEN#TRANEN)</td>
     </tr>
     <tr>
       <td><a href="https://argendata.fund.ar/categorias/macroeconomia">Macroeconomía</a></td>
       <td><a href="https://argendata.fund.ar/topico/crecimiento/">Crecimiento</a></td>
-      <td>CRECIM</td>
+      <td>[CRECIM](https://github.com/argendatafundar/data/tree/main/CRECIM#CRECIM)</td>
     </tr>
     <tr>
       <td><a href="https://argendata.fund.ar/categorias/macroeconomia">Macroeconomía</a></td>
       <td><a href="https://argendata.fund.ar/topico/inflacion/">Inflación</a></td>
-      <td>PRECIO</td>
+      <td>[PRECIO](https://github.com/argendatafundar/data/tree/main/PRECIO#PRECIO)</td>
     </tr>
     <tr>
       <td><a href="https://argendata.fund.ar/categorias/desarrollo">Desarrollo</a></td>
       <td><a href="https://argendata.fund.ar/topico/pobreza/">Pobreza</a></td>
-      <td>POBREZ</td>
+      <td>[POBREZ](https://github.com/argendatafundar/data/tree/main/POBREZ#POBREZ)</td>
     </tr>
     <tr>
       <td><a href="https://argendata.fund.ar/categorias/desarrollo">Desarrollo</a></td>
       <td><a href="https://argendata.fund.ar/topico/estructura-productiva/">Estructura productiva</a></td>
-      <td>ESTPRO</td>
+      <td>[ESTPRO](https://github.com/argendatafundar/data/tree/main/ESTPRO#ESTPRO)</td>
     </tr>
     <tr>
       <td><a href="https://argendata.fund.ar/categorias/desarrollo">Desarrollo</a></td>
       <td><a href="https://argendata.fund.ar/topico/desarrollo-humano/">Desarrollo humano</a></td>
-      <td>DESHUM</td>
+      <td>[DESHUM](https://github.com/argendatafundar/data/tree/main/DESHUM#DESHUM)</td>
     </tr>
     <tr>
       <td><a href="https://argendata.fund.ar/categorias/desarrollo">Desarrollo</a></td>
       <td><a href="https://argendata.fund.ar/topico/comercio-exterior/">Comercio exterior</a></td>
-      <td>COMEXT</td>
+      <td>[COMEXT](https://github.com/argendatafundar/data/tree/main/COMEXT#COMEXT)</td>
     </tr>
     <tr>
       <td><a href="https://argendata.fund.ar/categorias/desarrollo">Desarrollo</a></td>
       <td><a href="https://argendata.fund.ar/topico/desigualdad/">Desigualdad</a></td>
-      <td>DESIGU</td>
+      <td>[DESIGU](https://github.com/argendatafundar/data/tree/main/DESIGU#DESIGU)</td>
     </tr>
     <tr>
       <td><a href="https://argendata.fund.ar/categorias/sectores-productivos">Sectores productivos</a></td>
       <td><a href="https://argendata.fund.ar/topico/agroindustria/">Agroindustria</a></td>
-      <td>AGROPE</td>
+      <td>[AGROPE](https://github.com/argendatafundar/data/tree/main/AGROPE#AGROPE)</td>
     </tr>
     <tr>
       <td><a href="https://argendata.fund.ar/categorias/sectores-productivos">Sectores productivos</a></td>
       <td><a href="https://argendata.fund.ar/topico/servicios-basados-en-el-conocimiento/">Servicios basados en el conocimiento</a></td>
-      <td>SEBACO</td>
+      <td>[SEBACO](https://github.com/argendatafundar/data/tree/main/SEBACO#SEBACO)</td>
     </tr>
     <tr>
       <td><a href="https://argendata.fund.ar/categorias/sectores-productivos">Sectores productivos</a></td>
       <td><a href="https://argendata.fund.ar/topico/mineria/">Minería</a></td>
-      <td>MINERI</td>
+      <td>[MINERI](https://github.com/argendatafundar/data/tree/main/MINERI#MINERI)</td>
     </tr>
     <tr>
       <td><a href='https://argendata.fund.ar/categorias/trabajo-e-ingresos/'>Trabajo e ingresos</a></td>
       <td><a href="https://argendata.fund.ar/topico/salarios-e-ingresos/">Salarios e ingresos</a></td>
-      <td>SALING</td>
+      <td>[SALING](https://github.com/argendatafundar/data/tree/main/SALING#SALING)</td>
     </tr>
     <tr>
       <td><a href='https://argendata.fund.ar/categorias/trabajo-e-ingresos/'>Trabajo e ingresos</a></td>
       <td><a href="https://argendata.fund.ar/topico/trabajo-y-participacion-laboral/">Trabajo y participación laboral</a></td>
-      <td>MERTRA</td>
+      <td>[MERTRA](https://github.com/argendatafundar/data/tree/main/MERTRA#MERTRA)</td>
     </tr>
     <tr>
       <td><a href='https://argendata.fund.ar/categorias/trabajo-e-ingresos/'>Trabajo e ingresos</a></td>
       <td><a href="https://argendata.fund.ar/topico/informalidad-y-desempleo/">Informalidad y desempleo</a></td>
-      <td>INFDES</td>
+      <td>[INFDES](https://github.com/argendatafundar/data/tree/main/INFDES#INFDES)</td>
     </tr>
   </tbody>
 </table>
 </div>
+
+## Esquema del respositorio
+
+
+```
+├── TOPICO
+├── ...
+├── CAMCLI
+│   ├── dataset.csv
+│   ├── dataset.json
+│   └── ...
+└── COMEXT
+    ├── cambio_destinos_exportacion.csv
+    ├── cambio_destinos_exportacion.json
+    ├── cambio_origenes_importacion.csv
+    ├── cambio_origenes_importacion.json
+    ├── composicion_exportaciones_bienes_diferenciado_Bernini.csv
+    ├── composicion_exportaciones_bienes_diferenciado_Bernini.json
+    ├── composicion_exportaciones_bienes_regiones_mundo.csv
+    ├── composicion_exportaciones_bienes_regiones_mundo.json
+    ├── composicion_exportaciones_bienes_sectores_Brambilla_Porto.csv
+    ├── composicion_exportaciones_bienes_sectores_Brambilla_Porto.json
+    ├── composicion_exportaciones_bienes_sitc_seccion.csv
+    ├── composicion_exportaciones_bienes_sitc_seccion.json
+    ├── composicion_exportaciones_servicios_EBOPS_2digitos_agrupado.csv
+    ├── composicion_exportaciones_servicios_EBOPS_2digitos_agrupado.json
+    └── ...
+```
+
+En el ejemplo, para el tópico de **[Comercio Exterior](https://argendata.fund.ar/topico/comercio-exterior/)**(`COMEXT`) se visualizan archvios `.csv` y `.json` asociados a cada uno de los items (`cambio_destinos_exportacion`, por ejemplo). El primero de ellos contiene los datos. El segundo también incluye los metadatos asociados (fuente de información, institución productora, fechas de procesamiento, etc.):
+
+
+### `cambio_destinos_exportacion.csv` [^3]
+```
+"iso3","location_name_short_en","partner_code","partner_name_short_en","export_value_pca","export_value_pcb"
+"AFG","Afghanistan","ANT","Netherlands Antilles","0",
+"AFG","Afghanistan","AUT","Austria","0.688627518615602","0.0733990364249315"
+"AFG","Afghanistan","BEL","Belgium","0","0.0683462241450678"
+"AFG","Afghanistan","BGR","Bulgaria","0","0.00372820071862202"
+"AFG","Afghanistan","CHE","Switzerland","2.41999320416714","0.188186688833644"
+"AFG","Afghanistan","CHN","China","0.451026512726798","1.8664145222227"
+"AFG","Afghanistan","COD","Congo (Democratic Republic of the)","0","0.00539090999076861"
+"AFG","Afghanistan","CSK","Czechoslovakia","3.41910119179182",
+"AFG","Afghanistan","DEU","Germany","15.53527024738","0.854150132334422"
+"AFG","Afghanistan","DNK","Denmark","0.228550053266833","0.146499065976512"
+```
+
+Estos datos, que son los que se disponibilizan para la descarga de usuarios de Argendata, son procesados luego por [transformers](https://github.com/argendata/transformers) para servir de insumo para la graficación en el [Frontend](https://argendata.fund.ar/) [^1]. 
 
 ---
 ## Índice
@@ -551,52 +611,6 @@ En el siguiente esquema se muestra como ejemplo la organización de la infromaci
 | Intensidad de carbono de la matriz eléctrica en Argentina | [intensidad-de-carbono-de-la-matriz-electrica-en-argentina](https://argendata.fund.ar/graficos/intensidad-de-carbono-de-la-matriz-electrica-en-argentina/) | [intensidad_carbono_electri_mundo](https://github.com/argendatafundar/data/tree/main/TRANEN#intensidad_carbono_electri_mundocsv)         |
 | Intensidad de carbono de la matriz eléctrica global       | [intensidad-de-carbono-de-la-matriz-electrica-global](https://argendata.fund.ar/graficos/intensidad-de-carbono-de-la-matriz-electrica-global/)             | [intensidad_carbono_electri_mundo](https://github.com/argendatafundar/data/tree/main/TRANEN#intensidad_carbono_electri_mundocsv)         |
 
-
-## Esquema del sistema de archivos
-```
-├── TOPICO
-├── ...
-├── CAMCLI
-│   ├── dataset.csv
-│   ├── dataset.json
-│   └── ...
-└── COMEXT
-    ├── cambio_destinos_exportacion.csv
-    ├── cambio_destinos_exportacion.json
-    ├── cambio_origenes_importacion.csv
-    ├── cambio_origenes_importacion.json
-    ├── composicion_exportaciones_bienes_diferenciado_Bernini.csv
-    ├── composicion_exportaciones_bienes_diferenciado_Bernini.json
-    ├── composicion_exportaciones_bienes_regiones_mundo.csv
-    ├── composicion_exportaciones_bienes_regiones_mundo.json
-    ├── composicion_exportaciones_bienes_sectores_Brambilla_Porto.csv
-    ├── composicion_exportaciones_bienes_sectores_Brambilla_Porto.json
-    ├── composicion_exportaciones_bienes_sitc_seccion.csv
-    ├── composicion_exportaciones_bienes_sitc_seccion.json
-    ├── composicion_exportaciones_servicios_EBOPS_2digitos_agrupado.csv
-    ├── composicion_exportaciones_servicios_EBOPS_2digitos_agrupado.json
-    └── ...
-```
-
-En el ejemplo, para el tópico de **[Comercio Exterior](https://argendata.fund.ar/topico/comercio-exterior/)**(`COMEXT`) se visualizan archvios `.csv` y `.json` asociados a cada uno de los items (`cambio_destinos_exportacion`, por ejemplo). El primero de ellos contiene los datos. El segundo también incluye los metadatos asociados (fuente de información, institución productora, fechas de procesamiento, etc.):
-
-
-### `cambio_destinos_exportacion.csv` [^3]
-```
-"iso3","location_name_short_en","partner_code","partner_name_short_en","export_value_pca","export_value_pcb"
-"AFG","Afghanistan","ANT","Netherlands Antilles","0",
-"AFG","Afghanistan","AUT","Austria","0.688627518615602","0.0733990364249315"
-"AFG","Afghanistan","BEL","Belgium","0","0.0683462241450678"
-"AFG","Afghanistan","BGR","Bulgaria","0","0.00372820071862202"
-"AFG","Afghanistan","CHE","Switzerland","2.41999320416714","0.188186688833644"
-"AFG","Afghanistan","CHN","China","0.451026512726798","1.8664145222227"
-"AFG","Afghanistan","COD","Congo (Democratic Republic of the)","0","0.00539090999076861"
-"AFG","Afghanistan","CSK","Czechoslovakia","3.41910119179182",
-"AFG","Afghanistan","DEU","Germany","15.53527024738","0.854150132334422"
-"AFG","Afghanistan","DNK","Denmark","0.228550053266833","0.146499065976512"
-```
-
-Estos datos, que son los que se disponibilizan para la descarga de usuarios de Argendata, son procesados luego por [transformers](https://github.com/argendata/transformers) para servir de insumo para la graficación en el [Frontend](https://argendata.fund.ar/) [^1]. 
 
 
 [^1]: Para este proceso se desarrolló una [librería para `Python`](https://github.com/argendata/data-transformers) que busca facilitar la escritura, ejecución, reproducibilidad y el versionado del código fuente que se realice para manipular datos estructurados para la graficación. Típicamente se trata de dar un formato estandarizado a los datos a través de acciones como el filtrado de valores o la selección / renombrado de variables. El [siguiente _transformer_](https://github.com/argendata/transformers/blob/main/COMEXT/COMEXT_g18_transformer.py) se corresponde con el ejemplo antes expuesto. 
