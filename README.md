@@ -15,7 +15,7 @@ En este repositorio se comparten conjuntos de datos publicados en cada tópico d
 - [Cómo están organizados los datos](#cómo-están-organizados-los-datos)
   - [Esquema de los datos](#esquema-de-lost-datos)
   - [Esquema del sistema de archivos](#esquema-del-sistema-de-archivos)
-- Contenidos por tópico
+- [Contenidos por tópico](#contenidos-por-tópico)
 
 ---
 
@@ -177,7 +177,7 @@ Juntando lo establecido actualmente, este repositorio organiza sus datos agrupan
 Estos datos, que son los que se disponibilizan para la descarga de usuarios de Argendata, son posteriormente procesados por [transformers](https://github.com/argendata/transformers) para servir de insumo para la graficación en el [Frontend](https://argendata.fund.ar/) [^1]. 
 
 ---
-## Contenido por tópico
+## Contenidos por tópico
 
 Cada gráfico de ArgenData tiene asociado un dataset [^4]. El resto de este archivo contiene un desglose de los gráficos por tópico, modo de anexo. Cada gráfico puede o bien visualizarse en la web, o bien visualizarse en este repositorio junto con su ficha de metadatos.
 
