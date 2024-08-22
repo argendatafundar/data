@@ -633,7 +633,7 @@ Cada gráfico de ArgenData tiene asociado un dataset [^4]. El resto de este arch
 [^3]: El código que genera esta salida es parte del proceso de ETL y puede consultarse en el _script_ 
 
 
-[^4] Pero no al revés; es decir, múltiples gráficos pueden usar un mismo dataset.
+[^4]: Pero no al revés; es decir, múltiples gráficos pueden usar un mismo dataset.
 
 <div>
 <a href="https://fund.ar">
