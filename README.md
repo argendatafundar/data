@@ -13,7 +13,7 @@ En este repositorio se comparten conjuntos de datos publicados en cada tópico d
 # Tabla de contenidos
 
 - [Cómo están organizados los datos](#cómo-están-organizados-los-datos)
-  - [Esquema de los datos](#esquema-de-lost-datos)
+  - [Esquema de los datos](#esquema-de-los-datos)
   - [Esquema del sistema de archivos](#esquema-del-sistema-de-archivos)
 - [Contenidos por tópico](#contenidos-por-tópico)
 
