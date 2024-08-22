@@ -629,10 +629,11 @@ Cada gráfico de ArgenData tiene asociado un dataset [^4]. El resto de este arch
 
 [^2]: El flujo de trabajo definido para la reproductibilidad cuenta con una librería de `R` que reune un conjunto de funciones para facilitar el flujo de trabajo con fuentes y recursos en Argendata [https://github.com/argendata/argendataR](https://github.com/argendata/argendataR)
 
-[^3]: El código que genera esta salida es parte del proceso de ETL y puede consultarse en el _script_ 
-[^4] Pero no al revés; es decir, múltiples gráficos pueden usar un mismo dataset.
 
-[`18_cambio_destinos_exportacion.R`](https://github.com/argendata/etl/blob/main/scripts/subtopicos/COMEXT/18_cambio_destinos_exportacion.R)
+[^3]: El código que genera esta salida es parte del proceso de ETL y puede consultarse en el _script_ 
+
+
+[^4] Pero no al revés; es decir, múltiples gráficos pueden usar un mismo dataset.
 
 <div>
 <a href="https://fund.ar">
