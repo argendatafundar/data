@@ -154,8 +154,6 @@ Por ejemplo, tomemos a `PRECIO/12_tasa_de_inflacion_mensual_argentina_ene1989_di
   "fuentes": [
     "R128C53"
   ]
-  
-  // ...
 }
 ```
 
