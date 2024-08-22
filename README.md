@@ -127,14 +127,13 @@ En la carpeta de cada tópico, pueden hallarse dos tipos de archivos por dataset
 Por ejemplo, tomemos a `PRECIO/12_tasa_de_inflacion_mensual_argentina_ene1989_dic1993`:
 
 `.csv`
-```csv
-"fecha","inflacion_mensual"
-"1989-01-01","8.92000661557979"
-"1989-02-01","9.59153717669683"
-"1989-03-01","17.0053574727509"
-"1989-04-01","33.3701744690931"
-...
-```
+|    | fecha      |   inflacion_mensual |
+|---:|:-----------|--------------------:|
+|  0 | 1989-01-01 |             8.92001 |
+|  1 | 1989-02-01 |             9.59154 |
+|  2 | 1989-03-01 |            17.0054  |
+|  3 | 1989-04-01 |            33.3702  |
+| ...|   ...      |                ...  |
 
 `.json`
 ```json
