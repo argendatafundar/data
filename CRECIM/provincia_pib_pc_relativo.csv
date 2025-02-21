@@ -1,673 +1,673 @@
-provincia_id,provincia_nombre,region_pbg,anio,pib_pc_relativo
-02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,1895,139.29
-02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,1914,135.1
-02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,1937,174.89
-02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,1946,188.51
-02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,1953,185.37
-02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,1965,195.84
-02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,1975,255.53
-02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,1986,261.82
-02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,1993,280.67
-02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,2004,274.38
-02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,2005,274.98
-02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,2006,278.92
-02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,2007,285.73
-02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,2008,289.03
-02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,2009,299.36
-02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,2010,289.3
-02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,2011,290.83
-02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,2012,293.46
-02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,2013,290.09
-02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,2014,292.09
-02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,2015,291.21
-02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,2016,297.96
-02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,2017,299.66
-02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,2018,305.96
-02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,2019,298.9
-02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,2020,294.58
-02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,2021,293.46
-02,Ciudad Autónoma de Buenos Aires,Pampeana y CABA,2022,296
-06,Buenos Aires,Pampeana y CABA,1895,101.86
-06,Buenos Aires,Pampeana y CABA,1914,106.67
-06,Buenos Aires,Pampeana y CABA,1937,97.06
-06,Buenos Aires,Pampeana y CABA,1946,99.94
-06,Buenos Aires,Pampeana y CABA,1953,101.86
-06,Buenos Aires,Pampeana y CABA,1965,99.94
-06,Buenos Aires,Pampeana y CABA,1975,80.72
-06,Buenos Aires,Pampeana y CABA,1986,95.14
-06,Buenos Aires,Pampeana y CABA,1993,85.53
-06,Buenos Aires,Pampeana y CABA,2004,83.60000000000001
-06,Buenos Aires,Pampeana y CABA,2005,83.63
-06,Buenos Aires,Pampeana y CABA,2006,83.25
-06,Buenos Aires,Pampeana y CABA,2007,82.48999999999999
-06,Buenos Aires,Pampeana y CABA,2008,83.22
-06,Buenos Aires,Pampeana y CABA,2009,82.61
-06,Buenos Aires,Pampeana y CABA,2010,84.01000000000001
-06,Buenos Aires,Pampeana y CABA,2011,84.61
-06,Buenos Aires,Pampeana y CABA,2012,85.36
-06,Buenos Aires,Pampeana y CABA,2013,85.07000000000001
-06,Buenos Aires,Pampeana y CABA,2014,83.57000000000001
-06,Buenos Aires,Pampeana y CABA,2015,83.93000000000001
-06,Buenos Aires,Pampeana y CABA,2016,84
-06,Buenos Aires,Pampeana y CABA,2017,83.94
-06,Buenos Aires,Pampeana y CABA,2018,83.46000000000001
-06,Buenos Aires,Pampeana y CABA,2019,82.68000000000001
-06,Buenos Aires,Pampeana y CABA,2020,83.44
-06,Buenos Aires,Pampeana y CABA,2021,83.92
-06,Buenos Aires,Pampeana y CABA,2022,84.14
-10,Catamarca,NOA,1895,44.54
-10,Catamarca,NOA,1914,50.1
-10,Catamarca,NOA,1937,32.29
-10,Catamarca,NOA,1946,42.31
-10,Catamarca,NOA,1953,38.97
-10,Catamarca,NOA,1965,37.86
-10,Catamarca,NOA,1975,60.13
-10,Catamarca,NOA,1986,59.01
-10,Catamarca,NOA,1993,71.26000000000001
-10,Catamarca,NOA,2004,101.32
-10,Catamarca,NOA,2005,104.57
-10,Catamarca,NOA,2006,102.39
-10,Catamarca,NOA,2007,97.82000000000001
-10,Catamarca,NOA,2008,90.71000000000001
-10,Catamarca,NOA,2009,87.76000000000001
-10,Catamarca,NOA,2010,81.67
-10,Catamarca,NOA,2011,77.06
-10,Catamarca,NOA,2012,79.96000000000001
-10,Catamarca,NOA,2013,74.91
-10,Catamarca,NOA,2014,78.7
-10,Catamarca,NOA,2015,69.36
-10,Catamarca,NOA,2016,71.05
-10,Catamarca,NOA,2017,68.25
-10,Catamarca,NOA,2018,67
-10,Catamarca,NOA,2019,61.71
-10,Catamarca,NOA,2020,61.68
-10,Catamarca,NOA,2021,64.65000000000001
-10,Catamarca,NOA,2022,68.57000000000001
-14,Córdoba,Pampeana y CABA,1895,78.45
-14,Córdoba,Pampeana y CABA,1914,92.54000000000001
-14,Córdoba,Pampeana y CABA,1937,94.55
-14,Córdoba,Pampeana y CABA,1946,70.41
-14,Córdoba,Pampeana y CABA,1953,71.41
-14,Córdoba,Pampeana y CABA,1965,88.51000000000001
-14,Córdoba,Pampeana y CABA,1975,75.44
-14,Córdoba,Pampeana y CABA,1986,82.48
-14,Córdoba,Pampeana y CABA,1993,94.55
-14,Córdoba,Pampeana y CABA,2004,93.54000000000001
-14,Córdoba,Pampeana y CABA,2005,99.86
-14,Córdoba,Pampeana y CABA,2006,98.82000000000001
-14,Córdoba,Pampeana y CABA,2007,103.94
-14,Córdoba,Pampeana y CABA,2008,102.78
-14,Córdoba,Pampeana y CABA,2009,99.34
-14,Córdoba,Pampeana y CABA,2010,102.12
-14,Córdoba,Pampeana y CABA,2011,101.21
-14,Córdoba,Pampeana y CABA,2012,97.95
-14,Córdoba,Pampeana y CABA,2013,102.99
-14,Córdoba,Pampeana y CABA,2014,103.5
-14,Córdoba,Pampeana y CABA,2015,104.75
-14,Córdoba,Pampeana y CABA,2016,105.41
-14,Córdoba,Pampeana y CABA,2017,104.87
-14,Córdoba,Pampeana y CABA,2018,100.64
-14,Córdoba,Pampeana y CABA,2019,104.66
-14,Córdoba,Pampeana y CABA,2020,103.22
-14,Córdoba,Pampeana y CABA,2021,104.8
-14,Córdoba,Pampeana y CABA,2022,102.52
-18,Corrientes,NEA,1895,60.43
-18,Corrientes,NEA,1914,60.43
-18,Corrientes,NEA,1937,51.52
-18,Corrientes,NEA,1946,50.53
-18,Corrientes,NEA,1953,45.57
-18,Corrientes,NEA,1965,48.54
-18,Corrientes,NEA,1975,53.5
-18,Corrientes,NEA,1986,45.57
-18,Corrientes,NEA,1993,54.49
-18,Corrientes,NEA,2004,45.57
-18,Corrientes,NEA,2005,47.47
-18,Corrientes,NEA,2006,46.58
-18,Corrientes,NEA,2007,46.15
-18,Corrientes,NEA,2008,46.51
-18,Corrientes,NEA,2009,47.97
-18,Corrientes,NEA,2010,46.25
-18,Corrientes,NEA,2011,48.19
-18,Corrientes,NEA,2012,49.19
-18,Corrientes,NEA,2013,49.43
-18,Corrientes,NEA,2014,50.58
-18,Corrientes,NEA,2015,50.64
-18,Corrientes,NEA,2016,50.78
-18,Corrientes,NEA,2017,51.93
-18,Corrientes,NEA,2018,54.05
-18,Corrientes,NEA,2019,53
-18,Corrientes,NEA,2020,53.79
-18,Corrientes,NEA,2021,53.12
-18,Corrientes,NEA,2022,51.49
-22,Chaco,NEA,1895,111.16
-22,Chaco,NEA,1914,79.25
-22,Chaco,NEA,1937,55.58
-22,Chaco,NEA,1946,54.55
-22,Chaco,NEA,1953,66.90000000000001
-22,Chaco,NEA,1965,65.87
-22,Chaco,NEA,1975,47.35
-22,Chaco,NEA,1986,36.02
-22,Chaco,NEA,1993,50.43
-22,Chaco,NEA,2004,50.43
-22,Chaco,NEA,2005,51.73
-22,Chaco,NEA,2006,52.86
-22,Chaco,NEA,2007,53.48
-22,Chaco,NEA,2008,54.6
-22,Chaco,NEA,2009,55.33
-22,Chaco,NEA,2010,56.81
-22,Chaco,NEA,2011,59.54
-22,Chaco,NEA,2012,55.03
-22,Chaco,NEA,2013,56.48
-22,Chaco,NEA,2014,62.09
-22,Chaco,NEA,2015,59.75
-22,Chaco,NEA,2016,60.36
-22,Chaco,NEA,2017,61.15
-22,Chaco,NEA,2018,62.02
-22,Chaco,NEA,2019,59.58
-22,Chaco,NEA,2020,62.19
-22,Chaco,NEA,2021,60.18
-22,Chaco,NEA,2022,61.42
-26,Chubut,Patagonia,1895,73.98
-26,Chubut,Patagonia,1914,99.32000000000001
-26,Chubut,Patagonia,1937,221.95
-26,Chubut,Patagonia,1946,182.42
-26,Chubut,Patagonia,1953,140.87
-26,Chubut,Patagonia,1965,117.56
-26,Chubut,Patagonia,1975,169.25
-26,Chubut,Patagonia,1986,164.18
-26,Chubut,Patagonia,1993,118.58
-26,Chubut,Patagonia,2004,196.61
-26,Chubut,Patagonia,2005,185.84
-26,Chubut,Patagonia,2006,188.52
-26,Chubut,Patagonia,2007,175.76
-26,Chubut,Patagonia,2008,169.42
-26,Chubut,Patagonia,2009,168.21
-26,Chubut,Patagonia,2010,161.7
-26,Chubut,Patagonia,2011,158.1
-26,Chubut,Patagonia,2012,153.33
-26,Chubut,Patagonia,2013,153.39
-26,Chubut,Patagonia,2014,159.03
-26,Chubut,Patagonia,2015,154.91
-26,Chubut,Patagonia,2016,151.18
-26,Chubut,Patagonia,2017,150.29
-26,Chubut,Patagonia,2018,152.64
-26,Chubut,Patagonia,2019,155.95
-26,Chubut,Patagonia,2020,154.06
-26,Chubut,Patagonia,2021,144.43
-26,Chubut,Patagonia,2022,138.51
-30,Entre Ríos,Pampeana y CABA,1895,94.82000000000001
-30,Entre Ríos,Pampeana y CABA,1914,82.32000000000001
-30,Entre Ríos,Pampeana y CABA,1937,65.65000000000001
-30,Entre Ríos,Pampeana y CABA,1946,58.35
-30,Entre Ríos,Pampeana y CABA,1953,65.65000000000001
-30,Entre Ríos,Pampeana y CABA,1965,61.48
-30,Entre Ríos,Pampeana y CABA,1975,71.90000000000001
-30,Entre Ríos,Pampeana y CABA,1986,54.19
-30,Entre Ríos,Pampeana y CABA,1993,72.94
-30,Entre Ríos,Pampeana y CABA,2004,80.23999999999999
-30,Entre Ríos,Pampeana y CABA,2005,82.72
-30,Entre Ríos,Pampeana y CABA,2006,82.17
-30,Entre Ríos,Pampeana y CABA,2007,84.41
-30,Entre Ríos,Pampeana y CABA,2008,83.7
-30,Entre Ríos,Pampeana y CABA,2009,82.28
-30,Entre Ríos,Pampeana y CABA,2010,86.29000000000001
-30,Entre Ríos,Pampeana y CABA,2011,85.76000000000001
-30,Entre Ríos,Pampeana y CABA,2012,86.73999999999999
-30,Entre Ríos,Pampeana y CABA,2013,87.77
-30,Entre Ríos,Pampeana y CABA,2014,88.19
-30,Entre Ríos,Pampeana y CABA,2015,88.97
-30,Entre Ríos,Pampeana y CABA,2016,86.8
-30,Entre Ríos,Pampeana y CABA,2017,88.90000000000001
-30,Entre Ríos,Pampeana y CABA,2018,87.81
-30,Entre Ríos,Pampeana y CABA,2019,90.68000000000001
-30,Entre Ríos,Pampeana y CABA,2020,94.01000000000001
-30,Entre Ríos,Pampeana y CABA,2021,90.72
-30,Entre Ríos,Pampeana y CABA,2022,91.03
-34,Formosa,NEA,1895,131.04
-34,Formosa,NEA,1914,98.82000000000001
-34,Formosa,NEA,1937,79.48
-34,Formosa,NEA,1946,66.59999999999999
-34,Formosa,NEA,1953,63.37
-34,Formosa,NEA,1965,39.74
-34,Formosa,NEA,1975,55.85
-34,Formosa,NEA,1986,30.08
-34,Formosa,NEA,1993,50.48
-34,Formosa,NEA,2004,40.82
-34,Formosa,NEA,2005,42.17
-34,Formosa,NEA,2006,41.88
-34,Formosa,NEA,2007,41.94
-34,Formosa,NEA,2008,40.22
-34,Formosa,NEA,2009,42.61
-34,Formosa,NEA,2010,40.73
-34,Formosa,NEA,2011,42.08
-34,Formosa,NEA,2012,42.78
-34,Formosa,NEA,2013,42.97
-34,Formosa,NEA,2014,43.29
-34,Formosa,NEA,2015,44.72
-34,Formosa,NEA,2016,45.62
-34,Formosa,NEA,2017,45.68
-34,Formosa,NEA,2018,46.76
-34,Formosa,NEA,2019,44.84
-34,Formosa,NEA,2020,46.49
-34,Formosa,NEA,2021,47.25
-34,Formosa,NEA,2022,47.87
-38,Jujuy,NOA,1895,64.25
-38,Jujuy,NOA,1914,92.69
-38,Jujuy,NOA,1937,65.31
-38,Jujuy,NOA,1946,69.52
-38,Jujuy,NOA,1953,77.95
-38,Jujuy,NOA,1965,53.72
-38,Jujuy,NOA,1975,79
-38,Jujuy,NOA,1986,47.4
-38,Jujuy,NOA,1993,57.93
-38,Jujuy,NOA,2004,52.67
-38,Jujuy,NOA,2005,50.89
-38,Jujuy,NOA,2006,50.3
-38,Jujuy,NOA,2007,50.4
-38,Jujuy,NOA,2008,50.91
-38,Jujuy,NOA,2009,53.39
-38,Jujuy,NOA,2010,53.65
-38,Jujuy,NOA,2011,53.39
-38,Jujuy,NOA,2012,55.4
-38,Jujuy,NOA,2013,54.34
-38,Jujuy,NOA,2014,55.73
-38,Jujuy,NOA,2015,56.72
-38,Jujuy,NOA,2016,55.81
-38,Jujuy,NOA,2017,55.98
-38,Jujuy,NOA,2018,56.79
-38,Jujuy,NOA,2019,58.4
-38,Jujuy,NOA,2020,58.95
-38,Jujuy,NOA,2021,60.1
-38,Jujuy,NOA,2022,63.44
-42,La Pampa,Pampeana y CABA,1895,102.84
-42,La Pampa,Pampeana y CABA,1914,125.34
-42,La Pampa,Pampeana y CABA,1937,98.56
-42,La Pampa,Pampeana y CABA,1946,101.77
-42,La Pampa,Pampeana y CABA,1953,108.2
-42,La Pampa,Pampeana y CABA,1965,137.12
-42,La Pampa,Pampeana y CABA,1975,85.7
-42,La Pampa,Pampeana y CABA,1986,146.77
-42,La Pampa,Pampeana y CABA,1993,113.56
-42,La Pampa,Pampeana y CABA,2004,113.56
-42,La Pampa,Pampeana y CABA,2005,125.6
-42,La Pampa,Pampeana y CABA,2006,117.29
-42,La Pampa,Pampeana y CABA,2007,122
-42,La Pampa,Pampeana y CABA,2008,127.32
-42,La Pampa,Pampeana y CABA,2009,125.45
-42,La Pampa,Pampeana y CABA,2010,122.21
-42,La Pampa,Pampeana y CABA,2011,124.16
-42,La Pampa,Pampeana y CABA,2012,126.23
-42,La Pampa,Pampeana y CABA,2013,124.88
-42,La Pampa,Pampeana y CABA,2014,121.41
-42,La Pampa,Pampeana y CABA,2015,124.83
-42,La Pampa,Pampeana y CABA,2016,132.29
-42,La Pampa,Pampeana y CABA,2017,125.37
-42,La Pampa,Pampeana y CABA,2018,126.86
-42,La Pampa,Pampeana y CABA,2019,132.19
-42,La Pampa,Pampeana y CABA,2020,131.98
-42,La Pampa,Pampeana y CABA,2021,129.24
-42,La Pampa,Pampeana y CABA,2022,134.59
-46,La Rioja,NOA,1895,47.67
-46,La Rioja,NOA,1914,77.34
-46,La Rioja,NOA,1937,37.08
-46,La Rioja,NOA,1946,45.56
-46,La Rioja,NOA,1953,43.44
-46,La Rioja,NOA,1965,37.08
-46,La Rioja,NOA,1975,69.92
-46,La Rioja,NOA,1986,90.05
-46,La Rioja,NOA,1993,81.58
-46,La Rioja,NOA,2004,75.22
-46,La Rioja,NOA,2005,73.87
-46,La Rioja,NOA,2006,71.63
-46,La Rioja,NOA,2007,72.36
-46,La Rioja,NOA,2008,68.36
-46,La Rioja,NOA,2009,69.54000000000001
-46,La Rioja,NOA,2010,69.46000000000001
-46,La Rioja,NOA,2011,69.26000000000001
-46,La Rioja,NOA,2012,67.48999999999999
-46,La Rioja,NOA,2013,68.92
-46,La Rioja,NOA,2014,67.51000000000001
-46,La Rioja,NOA,2015,66.97
-46,La Rioja,NOA,2016,67.27
-46,La Rioja,NOA,2017,67.48999999999999
-46,La Rioja,NOA,2018,66.67
-46,La Rioja,NOA,2019,65.84
-46,La Rioja,NOA,2020,64.34
-46,La Rioja,NOA,2021,64.06
-46,La Rioja,NOA,2022,66.08
-50,Mendoza,Cuyo,1895,120.03
-50,Mendoza,Cuyo,1914,83.72
-50,Mendoza,Cuyo,1937,67.58
-50,Mendoza,Cuyo,1946,99.86
-50,Mendoza,Cuyo,1953,99.86
-50,Mendoza,Cuyo,1965,92.8
-50,Mendoza,Cuyo,1975,105.91
-50,Mendoza,Cuyo,1986,61.53
-50,Mendoza,Cuyo,1993,90.78
-50,Mendoza,Cuyo,2004,90.78
-50,Mendoza,Cuyo,2005,86.08
-50,Mendoza,Cuyo,2006,87.85000000000001
-50,Mendoza,Cuyo,2007,86.54000000000001
-50,Mendoza,Cuyo,2008,86.54000000000001
-50,Mendoza,Cuyo,2009,86.51000000000001
-50,Mendoza,Cuyo,2010,82.19
-50,Mendoza,Cuyo,2011,82.3
-50,Mendoza,Cuyo,2012,84.03
-50,Mendoza,Cuyo,2013,82.69
-50,Mendoza,Cuyo,2014,82
-50,Mendoza,Cuyo,2015,82.64
-50,Mendoza,Cuyo,2016,80.35000000000001
-50,Mendoza,Cuyo,2017,79.21000000000001
-50,Mendoza,Cuyo,2018,81.32000000000001
-50,Mendoza,Cuyo,2019,81.48
-50,Mendoza,Cuyo,2020,78.51000000000001
-50,Mendoza,Cuyo,2021,75.56
-50,Mendoza,Cuyo,2022,74.10000000000001
-54,Misiones,NEA,1895,78.7
-54,Misiones,NEA,1914,46.6
-54,Misiones,NEA,1937,49.7
-54,Misiones,NEA,1946,61.09
-54,Misiones,NEA,1953,48.67
-54,Misiones,NEA,1965,44.53
-54,Misiones,NEA,1975,77.66
-54,Misiones,NEA,1986,62.13
-54,Misiones,NEA,1993,56.95
-54,Misiones,NEA,2004,48.67
-54,Misiones,NEA,2005,47.39
-54,Misiones,NEA,2006,46.4
-54,Misiones,NEA,2007,44.85
-54,Misiones,NEA,2008,42.74
-54,Misiones,NEA,2009,42.94
-54,Misiones,NEA,2010,42.08
-54,Misiones,NEA,2011,42.41
-54,Misiones,NEA,2012,43.44
-54,Misiones,NEA,2013,44.26
-54,Misiones,NEA,2014,45.38
-54,Misiones,NEA,2015,45.4
-54,Misiones,NEA,2016,45.22
-54,Misiones,NEA,2017,45.08
-54,Misiones,NEA,2018,45.57
-54,Misiones,NEA,2019,45.11
-54,Misiones,NEA,2020,47.87
-54,Misiones,NEA,2021,48.5
-54,Misiones,NEA,2022,47.86
-58,Neuquén,Patagonia,1895,40.75
-58,Neuquén,Patagonia,1914,75.23
-58,Neuquén,Patagonia,1937,74.18000000000001
-58,Neuquén,Patagonia,1946,75.23
-58,Neuquén,Patagonia,1953,65.82000000000001
-58,Neuquén,Patagonia,1965,62.69
-58,Neuquén,Patagonia,1975,145.23
-58,Neuquén,Patagonia,1986,105.53
-58,Neuquén,Patagonia,1993,141.05
-58,Neuquén,Patagonia,2004,242.4
-58,Neuquén,Patagonia,2005,217.29
-58,Neuquén,Patagonia,2006,206.98
-58,Neuquén,Patagonia,2007,194.6
-58,Neuquén,Patagonia,2008,187.08
-58,Neuquén,Patagonia,2009,187.29
-58,Neuquén,Patagonia,2010,169.51
-58,Neuquén,Patagonia,2011,159.92
-58,Neuquén,Patagonia,2012,154.93
-58,Neuquén,Patagonia,2013,150.61
-58,Neuquén,Patagonia,2014,158.14
-58,Neuquén,Patagonia,2015,161.4
-58,Neuquén,Patagonia,2016,161.39
-58,Neuquén,Patagonia,2017,155.71
-58,Neuquén,Patagonia,2018,169.09
-58,Neuquén,Patagonia,2019,187.01
-58,Neuquén,Patagonia,2020,191.3
-58,Neuquén,Patagonia,2021,208.67
-58,Neuquén,Patagonia,2022,236.1
-62,Río Negro,Patagonia,1895,78.16
-62,Río Negro,Patagonia,1914,96.92
-62,Río Negro,Patagonia,1937,75.04000000000001
-62,Río Negro,Patagonia,1946,90.67
-62,Río Negro,Patagonia,1953,141.74
-62,Río Negro,Patagonia,1965,93.8
-62,Río Negro,Patagonia,1975,108.39
-62,Río Negro,Patagonia,1986,108.39
-62,Río Negro,Patagonia,1993,93.8
-62,Río Negro,Patagonia,2004,91.71000000000001
-62,Río Negro,Patagonia,2005,91.62
-62,Río Negro,Patagonia,2006,92.88
-62,Río Negro,Patagonia,2007,89.73
-62,Río Negro,Patagonia,2008,87.75
-62,Río Negro,Patagonia,2009,89.81
-62,Río Negro,Patagonia,2010,86.06
-62,Río Negro,Patagonia,2011,87.43000000000001
-62,Río Negro,Patagonia,2012,90
-62,Río Negro,Patagonia,2013,90.59
-62,Río Negro,Patagonia,2014,90.05
-62,Río Negro,Patagonia,2015,90.02
-62,Río Negro,Patagonia,2016,89.08
-62,Río Negro,Patagonia,2017,87.56
-62,Río Negro,Patagonia,2018,90.18000000000001
-62,Río Negro,Patagonia,2019,89.86
-62,Río Negro,Patagonia,2020,90.04000000000001
-62,Río Negro,Patagonia,2021,86.47
-62,Río Negro,Patagonia,2022,85.44
-66,Salta,NOA,1895,60.85
-66,Salta,NOA,1914,64.90000000000001
-66,Salta,NOA,1937,64.90000000000001
-66,Salta,NOA,1946,58.82
-66,Salta,NOA,1953,58.82
-66,Salta,NOA,1965,59.83
-66,Salta,NOA,1975,60.85
-66,Salta,NOA,1986,60.85
-66,Salta,NOA,1993,54.76
-66,Salta,NOA,2004,58.82
-66,Salta,NOA,2005,57.72
-66,Salta,NOA,2006,58.8
-66,Salta,NOA,2007,58.31
-66,Salta,NOA,2008,58.44
-66,Salta,NOA,2009,59.21
-66,Salta,NOA,2010,57.98
-66,Salta,NOA,2011,57.79
-66,Salta,NOA,2012,55.45
-66,Salta,NOA,2013,51.79
-66,Salta,NOA,2014,55.44
-66,Salta,NOA,2015,57.96
-66,Salta,NOA,2016,57.1
-66,Salta,NOA,2017,57.56
-66,Salta,NOA,2018,58.37
-66,Salta,NOA,2019,59.73
-66,Salta,NOA,2020,60.98
-66,Salta,NOA,2021,59.48
-66,Salta,NOA,2022,59.19
-70,San Juan,Cuyo,1895,127.55
-70,San Juan,Cuyo,1914,68.03
-70,San Juan,Cuyo,1937,51.02
-70,San Juan,Cuyo,1946,85.03
-70,San Juan,Cuyo,1953,70.15000000000001
-70,San Juan,Cuyo,1965,73.34
-70,San Juan,Cuyo,1975,62.71
-70,San Juan,Cuyo,1986,60.59
-70,San Juan,Cuyo,1993,72.28
-70,San Juan,Cuyo,2004,68.03
-70,San Juan,Cuyo,2005,68.34
-70,San Juan,Cuyo,2006,71.06
-70,San Juan,Cuyo,2007,70.10000000000001
-70,San Juan,Cuyo,2008,72.25
-70,San Juan,Cuyo,2009,77.44
-70,San Juan,Cuyo,2010,82.04000000000001
-70,San Juan,Cuyo,2011,81.85000000000001
-70,San Juan,Cuyo,2012,83.7
-70,San Juan,Cuyo,2013,83.86
-70,San Juan,Cuyo,2014,81.26000000000001
-70,San Juan,Cuyo,2015,76.44
-70,San Juan,Cuyo,2016,74.38
-70,San Juan,Cuyo,2017,74.12
-70,San Juan,Cuyo,2018,74.98999999999999
-70,San Juan,Cuyo,2019,73.81
-70,San Juan,Cuyo,2020,73.59
-70,San Juan,Cuyo,2021,73.98
-70,San Juan,Cuyo,2022,75.36
-74,San Luis,Cuyo,1895,47.26
-74,San Luis,Cuyo,1914,93.48999999999999
-74,San Luis,Cuyo,1937,48.29
-74,San Luis,Cuyo,1946,47.26
-74,San Luis,Cuyo,1953,53.42
-74,San Luis,Cuyo,1965,66.78
-74,San Luis,Cuyo,1975,60.62
-74,San Luis,Cuyo,1986,144.86
-74,San Luis,Cuyo,1993,117.12
-74,San Luis,Cuyo,2004,104.79
-74,San Luis,Cuyo,2005,101.52
-74,San Luis,Cuyo,2006,96.85000000000001
-74,San Luis,Cuyo,2007,94.97
-74,San Luis,Cuyo,2008,94.09
-74,San Luis,Cuyo,2009,93.98
-74,San Luis,Cuyo,2010,90.78
-74,San Luis,Cuyo,2011,91.19
-74,San Luis,Cuyo,2012,90.91
-74,San Luis,Cuyo,2013,94.94
-74,San Luis,Cuyo,2014,94.19
-74,San Luis,Cuyo,2015,96.59
-74,San Luis,Cuyo,2016,95.41
-74,San Luis,Cuyo,2017,94.03
-74,San Luis,Cuyo,2018,91.04000000000001
-74,San Luis,Cuyo,2019,89.98999999999999
-74,San Luis,Cuyo,2020,86.82000000000001
-74,San Luis,Cuyo,2021,92.17
-74,San Luis,Cuyo,2022,91.38
-78,Santa Cruz,Patagonia,1895,187.5
-78,Santa Cruz,Patagonia,1914,207.34
-78,Santa Cruz,Patagonia,1937,131.94
-78,Santa Cruz,Patagonia,1946,157.74
-78,Santa Cruz,Patagonia,1953,198.41
-78,Santa Cruz,Patagonia,1965,272.81
-78,Santa Cruz,Patagonia,1975,167.66
-78,Santa Cruz,Patagonia,1986,163.69
-78,Santa Cruz,Patagonia,1993,185.51
-78,Santa Cruz,Patagonia,2004,308.53
-78,Santa Cruz,Patagonia,2005,281.52
-78,Santa Cruz,Patagonia,2006,277.69
-78,Santa Cruz,Patagonia,2007,251.03
-78,Santa Cruz,Patagonia,2008,236.31
-78,Santa Cruz,Patagonia,2009,250.13
-78,Santa Cruz,Patagonia,2010,226.9
-78,Santa Cruz,Patagonia,2011,210.35
-78,Santa Cruz,Patagonia,2012,224.23
-78,Santa Cruz,Patagonia,2013,217.64
-78,Santa Cruz,Patagonia,2014,220.39
-78,Santa Cruz,Patagonia,2015,230.38
-78,Santa Cruz,Patagonia,2016,214.12
-78,Santa Cruz,Patagonia,2017,200.58
-78,Santa Cruz,Patagonia,2018,200.08
-78,Santa Cruz,Patagonia,2019,195.89
-78,Santa Cruz,Patagonia,2020,185.77
-78,Santa Cruz,Patagonia,2021,176.13
-78,Santa Cruz,Patagonia,2022,170.89
-82,Santa Fe,Pampeana y CABA,1895,135.61
-82,Santa Fe,Pampeana y CABA,1914,107.52
-82,Santa Fe,Pampeana y CABA,1937,102.68
-82,Santa Fe,Pampeana y CABA,1946,86.21000000000001
-82,Santa Fe,Pampeana y CABA,1953,87.18000000000001
-82,Santa Fe,Pampeana y CABA,1965,96.87
-82,Santa Fe,Pampeana y CABA,1975,92.02
-82,Santa Fe,Pampeana y CABA,1986,91.05
-82,Santa Fe,Pampeana y CABA,1993,89.12
-82,Santa Fe,Pampeana y CABA,2004,103.65
-82,Santa Fe,Pampeana y CABA,2005,105.42
-82,Santa Fe,Pampeana y CABA,2006,103.33
-82,Santa Fe,Pampeana y CABA,2007,102.83
-82,Santa Fe,Pampeana y CABA,2008,102.35
-82,Santa Fe,Pampeana y CABA,2009,97.57000000000001
-82,Santa Fe,Pampeana y CABA,2010,103.05
-82,Santa Fe,Pampeana y CABA,2011,100.83
-82,Santa Fe,Pampeana y CABA,2012,98.92
-82,Santa Fe,Pampeana y CABA,2013,101.31
-82,Santa Fe,Pampeana y CABA,2014,99.87
-82,Santa Fe,Pampeana y CABA,2015,99.40000000000001
-82,Santa Fe,Pampeana y CABA,2016,96.44
-82,Santa Fe,Pampeana y CABA,2017,99.72
-82,Santa Fe,Pampeana y CABA,2018,98.08
-82,Santa Fe,Pampeana y CABA,2019,100.96
-82,Santa Fe,Pampeana y CABA,2020,102.1
-82,Santa Fe,Pampeana y CABA,2021,104.08
-82,Santa Fe,Pampeana y CABA,2022,100.75
-86,Santiago del Estero,NOA,1895,44.36
-86,Santiago del Estero,NOA,1914,45.42
-86,Santiago del Estero,NOA,1937,36.97
-86,Santiago del Estero,NOA,1946,38.02
-86,Santiago del Estero,NOA,1953,42.25
-86,Santiago del Estero,NOA,1965,32.74
-86,Santiago del Estero,NOA,1975,50.7
-86,Santiago del Estero,NOA,1986,30.63
-86,Santiago del Estero,NOA,1993,46.47
-86,Santiago del Estero,NOA,2004,57.03
-86,Santiago del Estero,NOA,2005,52.73
-86,Santiago del Estero,NOA,2006,60.56
-86,Santiago del Estero,NOA,2007,62.87
-86,Santiago del Estero,NOA,2008,63.27
-86,Santiago del Estero,NOA,2009,57.55
-86,Santiago del Estero,NOA,2010,69.09
-86,Santiago del Estero,NOA,2011,69.48
-86,Santiago del Estero,NOA,2012,64.87
-86,Santiago del Estero,NOA,2013,71.33
-86,Santiago del Estero,NOA,2014,84.11
-86,Santiago del Estero,NOA,2015,80.56
-86,Santiago del Estero,NOA,2016,84.7
-86,Santiago del Estero,NOA,2017,87.48
-86,Santiago del Estero,NOA,2018,79.21000000000001
-86,Santiago del Estero,NOA,2019,84.60000000000001
-86,Santiago del Estero,NOA,2020,84.86
-86,Santiago del Estero,NOA,2021,82.57000000000001
-86,Santiago del Estero,NOA,2022,83.81
-90,Tucumán,NOA,1895,125.96
-90,Tucumán,NOA,1914,73.91
-90,Tucumán,NOA,1937,66.62
-90,Tucumán,NOA,1946,60.38
-90,Tucumán,NOA,1953,67.66
-90,Tucumán,NOA,1965,42.68
-90,Tucumán,NOA,1975,88.48
-90,Tucumán,NOA,1986,52.05
-90,Tucumán,NOA,1993,59.34
-90,Tucumán,NOA,2004,48.93
-90,Tucumán,NOA,2005,49.57
-90,Tucumán,NOA,2006,51.12
-90,Tucumán,NOA,2007,50.92
-90,Tucumán,NOA,2008,51.78
-90,Tucumán,NOA,2009,52.62
-90,Tucumán,NOA,2010,50.96
-90,Tucumán,NOA,2011,52.33
-90,Tucumán,NOA,2012,52.46
-90,Tucumán,NOA,2013,50.97
-90,Tucumán,NOA,2014,50.69
-90,Tucumán,NOA,2015,50.63
-90,Tucumán,NOA,2016,52.49
-90,Tucumán,NOA,2017,52.74
-90,Tucumán,NOA,2018,54.63
-90,Tucumán,NOA,2019,55.86
-90,Tucumán,NOA,2020,55.73
-90,Tucumán,NOA,2021,55.06
-90,Tucumán,NOA,2022,52.34
-94,Tierra del Fuego,Patagonia,1895,168.43
-94,Tierra del Fuego,Patagonia,1914,193.8
-94,Tierra del Fuego,Patagonia,1937,221.19
-94,Tierra del Fuego,Patagonia,1946,258.74
-94,Tierra del Fuego,Patagonia,1953,251.63
-94,Tierra del Fuego,Patagonia,1965,248.59
-94,Tierra del Fuego,Patagonia,1975,293.23
-94,Tierra del Fuego,Patagonia,1986,426.15
-94,Tierra del Fuego,Patagonia,1993,286.13
-94,Tierra del Fuego,Patagonia,2004,275.99
-94,Tierra del Fuego,Patagonia,2005,270.66
-94,Tierra del Fuego,Patagonia,2006,279.92
-94,Tierra del Fuego,Patagonia,2007,264.77
-94,Tierra del Fuego,Patagonia,2008,250.67
-94,Tierra del Fuego,Patagonia,2009,235.74
-94,Tierra del Fuego,Patagonia,2010,264.86
-94,Tierra del Fuego,Patagonia,2011,305.71
-94,Tierra del Fuego,Patagonia,2012,327.88
-94,Tierra del Fuego,Patagonia,2013,315.39
-94,Tierra del Fuego,Patagonia,2014,280.8
-94,Tierra del Fuego,Patagonia,2015,277.86
-94,Tierra del Fuego,Patagonia,2016,266.25
-94,Tierra del Fuego,Patagonia,2017,256.97
-94,Tierra del Fuego,Patagonia,2018,257.5
-94,Tierra del Fuego,Patagonia,2019,233.35
-94,Tierra del Fuego,Patagonia,2020,237.69
-94,Tierra del Fuego,Patagonia,2021,243.12
-94,Tierra del Fuego,Patagonia,2022,245.98
+"region_pbg","anio","pib_pc_relativo","provincia_id"
+"Pampeana y AMBA","1895","102.681762991023","AR-B"
+"Pampeana y AMBA","1914","107.946879601583","AR-B"
+"Pampeana y AMBA","1937","98.5390745564485","AR-B"
+"Pampeana y AMBA","1946","101.31722394839","AR-B"
+"Pampeana y AMBA","1953","102.068287283855","AR-B"
+"Pampeana y AMBA","1965","102.836291856175","AR-B"
+"Pampeana y AMBA","1975","81.9212506282314","AR-B"
+"Pampeana y AMBA","1986","98.5337119651371","AR-B"
+"Pampeana y AMBA","1993","86.8880650645645","AR-B"
+"Pampeana y AMBA","2004","83.6063623683343","AR-B"
+"Pampeana y AMBA","2005","83.633053650058","AR-B"
+"Pampeana y AMBA","2006","83.2494865831295","AR-B"
+"Pampeana y AMBA","2007","82.4906192977423","AR-B"
+"Pampeana y AMBA","2008","83.2191327584067","AR-B"
+"Pampeana y AMBA","2009","82.608504311301","AR-B"
+"Pampeana y AMBA","2010","84.005788818919","AR-B"
+"Pampeana y AMBA","2011","84.6136503590507","AR-B"
+"Pampeana y AMBA","2012","85.3595939201421","AR-B"
+"Pampeana y AMBA","2013","85.0693486583349","AR-B"
+"Pampeana y AMBA","2014","83.5747895101037","AR-B"
+"Pampeana y AMBA","2015","83.9260318097433","AR-B"
+"Pampeana y AMBA","2016","83.9962754335067","AR-B"
+"Pampeana y AMBA","2017","83.9426791981132","AR-B"
+"Pampeana y AMBA","2018","83.4589176972875","AR-B"
+"Pampeana y AMBA","2019","82.6836546912065","AR-B"
+"Pampeana y AMBA","2020","83.4428780474612","AR-B"
+"Pampeana y AMBA","2021","83.9165690404522","AR-B"
+"Pampeana y AMBA","2022","84.1437127701636","AR-B"
+"Pampeana y AMBA","1895","133.608659272906","AR-C"
+"Pampeana y AMBA","1914","130.813848717061","AR-C"
+"Pampeana y AMBA","1937","166.388091297308","AR-C"
+"Pampeana y AMBA","1946","181.070762709343","AR-C"
+"Pampeana y AMBA","1953","179.363277857775","AR-C"
+"Pampeana y AMBA","1965","183.922499330523","AR-C"
+"Pampeana y AMBA","1975","241.249930757462","AR-C"
+"Pampeana y AMBA","1986","245.904861497362","AR-C"
+"Pampeana y AMBA","1993","273.438309336086","AR-C"
+"Pampeana y AMBA","2004","265.0874076768","AR-C"
+"Pampeana y AMBA","2005","267.186366293705","AR-C"
+"Pampeana y AMBA","2006","272.573448954373","AR-C"
+"Pampeana y AMBA","2007","280.842897635919","AR-C"
+"Pampeana y AMBA","2008","285.722246579658","AR-C"
+"Pampeana y AMBA","2009","297.641239733292","AR-C"
+"Pampeana y AMBA","2010","289.297432248232","AR-C"
+"Pampeana y AMBA","2011","290.828262071233","AR-C"
+"Pampeana y AMBA","2012","293.458057101338","AR-C"
+"Pampeana y AMBA","2013","290.092253800649","AR-C"
+"Pampeana y AMBA","2014","292.086703476435","AR-C"
+"Pampeana y AMBA","2015","291.2051028183","AR-C"
+"Pampeana y AMBA","2016","297.961844037085","AR-C"
+"Pampeana y AMBA","2017","299.659818111345","AR-C"
+"Pampeana y AMBA","2018","305.961115109742","AR-C"
+"Pampeana y AMBA","2019","298.903919968649","AR-C"
+"Pampeana y AMBA","2020","294.578268142279","AR-C"
+"Pampeana y AMBA","2021","293.458487572385","AR-C"
+"Pampeana y AMBA","2022","295.999039291963","AR-C"
+"NOA","1895","43.9594667631719","AR-K"
+"NOA","1914","50.1540572720218","AR-K"
+"NOA","1937","31.158425032509","AR-K"
+"NOA","1946","41.2333703314936","AR-K"
+"NOA","1953","39.7205972968881","AR-K"
+"NOA","1965","37.9304247097225","AR-K"
+"NOA","1975","59.5463461504988","AR-K"
+"NOA","1986","55.3665062826099","AR-K"
+"NOA","1993","70.0702460516814","AR-K"
+"NOA","2004","102.71428183938","AR-K"
+"NOA","2005","105.768593989931","AR-K"
+"NOA","2006","103.324210504163","AR-K"
+"NOA","2007","98.4843111101891","AR-K"
+"NOA","2008","91.1246381773193","AR-K"
+"NOA","2009","87.9531940404354","AR-K"
+"NOA","2010","81.6668910528061","AR-K"
+"NOA","2011","77.0561287817183","AR-K"
+"NOA","2012","79.9630501574089","AR-K"
+"NOA","2013","74.9116478951234","AR-K"
+"NOA","2014","78.7045506041792","AR-K"
+"NOA","2015","69.3574101034463","AR-K"
+"NOA","2016","71.049855434925","AR-K"
+"NOA","2017","68.2523128145682","AR-K"
+"NOA","2018","67.0030120174684","AR-K"
+"NOA","2019","61.7075143030471","AR-K"
+"NOA","2020","61.6782522564695","AR-K"
+"NOA","2021","64.6473576989919","AR-K"
+"NOA","2022","68.5689895234344","AR-K"
+"NEA","1895","114.959127038653","AR-H"
+"NEA","1914","82.166086325045","AR-H"
+"NEA","1937","74.5040596113284","AR-H"
+"NEA","1946","58.1960385665313","AR-H"
+"NEA","1953","68.4535948375677","AR-H"
+"NEA","1965","66.2464883300783","AR-H"
+"NEA","1975","48.3115237917013","AR-H"
+"NEA","1986","36.6886356163051","AR-H"
+"NEA","1993","50.7031860839871","AR-H"
+"NEA","2004","51.0161787640443","AR-H"
+"NEA","2005","52.224550623873","AR-H"
+"NEA","2006","53.2675616049092","AR-H"
+"NEA","2007","53.7870187959506","AR-H"
+"NEA","2008","54.8035991253529","AR-H"
+"NEA","2009","55.4302367310258","AR-H"
+"NEA","2010","56.8067425839521","AR-H"
+"NEA","2011","59.5410394742857","AR-H"
+"NEA","2012","55.0293926478356","AR-H"
+"NEA","2013","56.4830813114464","AR-H"
+"NEA","2014","62.0867248609892","AR-H"
+"NEA","2015","59.753530067051","AR-H"
+"NEA","2016","60.3620450376004","AR-H"
+"NEA","2017","61.1519798470759","AR-H"
+"NEA","2018","62.0161353588245","AR-H"
+"NEA","2019","59.5846640872208","AR-H"
+"NEA","2020","62.1875447869198","AR-H"
+"NEA","2021","60.1766798966101","AR-H"
+"NEA","2022","61.4161050294671","AR-H"
+"Patagonia","1895","76.7263110284358","AR-U"
+"Patagonia","1914","103.339340060492","AR-U"
+"Patagonia","1937","251.964651902264","AR-U"
+"Patagonia","1946","189.725200209944","AR-U"
+"Patagonia","1953","154.304064823886","AR-U"
+"Patagonia","1965","120.722640052595","AR-U"
+"Patagonia","1975","173.505307372913","AR-U"
+"Patagonia","1986","164.266437609498","AR-U"
+"Patagonia","1993","122.862541620342","AR-U"
+"Patagonia","2004","196.005433606479","AR-U"
+"Patagonia","2005","185.360707564186","AR-U"
+"Patagonia","2006","188.125561942373","AR-U"
+"Patagonia","2007","175.485784339542","AR-U"
+"Patagonia","2008","169.237420076254","AR-U"
+"Patagonia","2009","168.123986389214","AR-U"
+"Patagonia","2010","161.69900323654","AR-U"
+"Patagonia","2011","158.097634009613","AR-U"
+"Patagonia","2012","153.329803451764","AR-U"
+"Patagonia","2013","153.394710359119","AR-U"
+"Patagonia","2014","159.033132544507","AR-U"
+"Patagonia","2015","154.914323390371","AR-U"
+"Patagonia","2016","151.175897298705","AR-U"
+"Patagonia","2017","150.293231072152","AR-U"
+"Patagonia","2018","152.640410738293","AR-U"
+"Patagonia","2019","155.953809414727","AR-U"
+"Patagonia","2020","154.063398011874","AR-U"
+"Patagonia","2021","144.4324795874","AR-U"
+"Patagonia","2022","138.509358998087","AR-U"
+"NEA","1895","59.6625797572829","AR-W"
+"NEA","1914","59.7945894961192","AR-W"
+"NEA","1937","48.3114262775234","AR-W"
+"NEA","1946","49.8064819151395","AR-W"
+"NEA","1953","45.8735382752183","AR-W"
+"NEA","1965","49.0141425948665","AR-W"
+"NEA","1975","54.2843500492972","AR-W"
+"NEA","1986","44.6882540039555","AR-W"
+"NEA","1993","53.9275912400169","AR-W"
+"NEA","2004","46.0474616369133","AR-W"
+"NEA","2005","47.884579243551","AR-W"
+"NEA","2006","46.9014835973056","AR-W"
+"NEA","2007","46.3877110376593","AR-W"
+"NEA","2008","46.6720796374555","AR-W"
+"NEA","2009","48.0522166258556","AR-W"
+"NEA","2010","46.248311855933","AR-W"
+"NEA","2011","48.1863048426865","AR-W"
+"NEA","2012","49.1904303872892","AR-W"
+"NEA","2013","49.4275865305157","AR-W"
+"NEA","2014","50.5750828078361","AR-W"
+"NEA","2015","50.6382203889226","AR-W"
+"NEA","2016","50.7752454550186","AR-W"
+"NEA","2017","51.9305063422824","AR-W"
+"NEA","2018","54.0487760018746","AR-W"
+"NEA","2019","53.0002501084791","AR-W"
+"NEA","2020","53.7874227792588","AR-W"
+"NEA","2021","53.1231301729081","AR-W"
+"NEA","2022","51.4895835049389","AR-W"
+"Pampeana y AMBA","1895","78.3905923989406","AR-X"
+"Pampeana y AMBA","1914","92.7842757524013","AR-X"
+"Pampeana y AMBA","1937","94.4248486988694","AR-X"
+"Pampeana y AMBA","1946","69.7801476668378","AR-X"
+"Pampeana y AMBA","1953","72.0853752394065","AR-X"
+"Pampeana y AMBA","1965","88.9337278393023","AR-X"
+"Pampeana y AMBA","1975","75.4557672070697","AR-X"
+"Pampeana y AMBA","1986","83.7214560450283","AR-X"
+"Pampeana y AMBA","1993","93.61275336145","AR-X"
+"Pampeana y AMBA","2004","93.4999478109584","AR-X"
+"Pampeana y AMBA","2005","99.8184137897386","AR-X"
+"Pampeana y AMBA","2006","98.7895227359064","AR-X"
+"Pampeana y AMBA","2007","103.914483115005","AR-X"
+"Pampeana y AMBA","2008","102.764431044036","AR-X"
+"Pampeana y AMBA","2009","99.3320917013222","AR-X"
+"Pampeana y AMBA","2010","102.119222574567","AR-X"
+"Pampeana y AMBA","2011","101.214520583555","AR-X"
+"Pampeana y AMBA","2012","97.9549174005069","AR-X"
+"Pampeana y AMBA","2013","102.988964754694","AR-X"
+"Pampeana y AMBA","2014","103.496214952833","AR-X"
+"Pampeana y AMBA","2015","104.747199529146","AR-X"
+"Pampeana y AMBA","2016","105.406562544794","AR-X"
+"Pampeana y AMBA","2017","104.87300523009","AR-X"
+"Pampeana y AMBA","2018","100.644180156801","AR-X"
+"Pampeana y AMBA","2019","104.656112414981","AR-X"
+"Pampeana y AMBA","2020","103.217251562974","AR-X"
+"Pampeana y AMBA","2021","104.795018249577","AR-X"
+"Pampeana y AMBA","2022","102.520061126064","AR-X"
+"Pampeana y AMBA","1895","94.8178656322523","AR-E"
+"Pampeana y AMBA","1914","82.3618903086908","AR-E"
+"Pampeana y AMBA","1937","64.1103565171954","AR-E"
+"Pampeana y AMBA","1946","58.556307178511","AR-E"
+"Pampeana y AMBA","1953","66.5508234644344","AR-E"
+"Pampeana y AMBA","1965","61.8519698735563","AR-E"
+"Pampeana y AMBA","1975","72.3015869084169","AR-E"
+"Pampeana y AMBA","1986","54.5641212649736","AR-E"
+"Pampeana y AMBA","1993","72.0022028497495","AR-E"
+"Pampeana y AMBA","2004","80.8327332374536","AR-E"
+"Pampeana y AMBA","2005","83.234369017965","AR-E"
+"Pampeana y AMBA","2006","82.5781528838518","AR-E"
+"Pampeana y AMBA","2007","84.7164684015439","AR-E"
+"Pampeana y AMBA","2008","83.9058721177689","AR-E"
+"Pampeana y AMBA","2009","82.3766478899827","AR-E"
+"Pampeana y AMBA","2010","86.291899320001","AR-E"
+"Pampeana y AMBA","2011","85.7564942883917","AR-E"
+"Pampeana y AMBA","2012","86.7439662444778","AR-E"
+"Pampeana y AMBA","2013","87.7651984419378","AR-E"
+"Pampeana y AMBA","2014","88.1870195240133","AR-E"
+"Pampeana y AMBA","2015","88.9718201666781","AR-E"
+"Pampeana y AMBA","2016","86.7950134261981","AR-E"
+"Pampeana y AMBA","2017","88.9048965153269","AR-E"
+"Pampeana y AMBA","2018","87.8120618384656","AR-E"
+"Pampeana y AMBA","2019","90.6779316596725","AR-E"
+"Pampeana y AMBA","2020","94.006589537138","AR-E"
+"Pampeana y AMBA","2021","90.7199869959483","AR-E"
+"Pampeana y AMBA","2022","91.0309503784044","AR-E"
+"NEA","1895","132.287208027345","AR-P"
+"NEA","1914","97.219236790978","AR-P"
+"NEA","1937","95.4499022808358","AR-P"
+"NEA","1946","68.4075426453189","AR-P"
+"NEA","1953","63.7580114141265","AR-P"
+"NEA","1965","40.0444582592913","AR-P"
+"NEA","1975","56.5080246313514","AR-P"
+"NEA","1986","28.3423712995829","AR-P"
+"NEA","1993","51.2835299317403","AR-P"
+"NEA","2004","41.3079990976843","AR-P"
+"NEA","2005","42.5959035526801","AR-P"
+"NEA","2006","42.2153211749605","AR-P"
+"NEA","2007","42.1953455670985","AR-P"
+"NEA","2008","40.3757428597583","AR-P"
+"NEA","2009","42.6900785650818","AR-P"
+"NEA","2010","40.7280472515764","AR-P"
+"NEA","2011","42.0789164613577","AR-P"
+"NEA","2012","42.7849894815767","AR-P"
+"NEA","2013","42.9710746484069","AR-P"
+"NEA","2014","43.2948006898642","AR-P"
+"NEA","2015","44.7200396089629","AR-P"
+"NEA","2016","45.6173772227514","AR-P"
+"NEA","2017","45.6776008939004","AR-P"
+"NEA","2018","46.7646552453137","AR-P"
+"NEA","2019","44.8444639240693","AR-P"
+"NEA","2020","46.4868982820622","AR-P"
+"NEA","2021","47.252342199412","AR-P"
+"NEA","2022","47.8716537123702","AR-P"
+"NOA","1895","64.6687570342573","AR-Y"
+"NOA","1914","93.7572710951633","AR-Y"
+"NOA","1937","64.4269380470292","AR-Y"
+"NOA","1946","69.6264013314202","AR-Y"
+"NOA","1953","78.1774578286985","AR-Y"
+"NOA","1965","54.3039512830815","AR-Y"
+"NOA","1975","79.7383454660254","AR-Y"
+"NOA","1986","48.0383505464231","AR-Y"
+"NOA","1993","57.7887723143894","AR-Y"
+"NOA","2004","53.2285217339431","AR-Y"
+"NOA","2005","51.3417580642237","AR-Y"
+"NOA","2006","50.6534134780826","AR-Y"
+"NOA","2007","50.6630639846703","AR-Y"
+"NOA","2008","51.0862688611073","AR-Y"
+"NOA","2009","53.478533104902","AR-Y"
+"NOA","2010","53.6498247353299","AR-Y"
+"NOA","2011","53.3929419565691","AR-Y"
+"NOA","2012","55.3972490166353","AR-Y"
+"NOA","2013","54.3391750682581","AR-Y"
+"NOA","2014","55.7272759198262","AR-Y"
+"NOA","2015","56.7217555115956","AR-Y"
+"NOA","2016","55.8125299009222","AR-Y"
+"NOA","2017","55.9776684840558","AR-Y"
+"NOA","2018","56.7897234537027","AR-Y"
+"NOA","2019","58.3971221512604","AR-Y"
+"NOA","2020","58.9480523254065","AR-Y"
+"NOA","2021","60.1042070805497","AR-Y"
+"NOA","2022","63.4382973878997","AR-Y"
+"Pampeana y AMBA","1895","101.431763198956","AR-L"
+"Pampeana y AMBA","1914","123.555503386343","AR-L"
+"Pampeana y AMBA","1937","116.425842809489","AR-L"
+"Pampeana y AMBA","1946","100.398311897077","AR-L"
+"Pampeana y AMBA","1953","107.552589160232","AR-L"
+"Pampeana y AMBA","1965","134.495025577801","AR-L"
+"Pampeana y AMBA","1975","85.5240766196787","AR-L"
+"Pampeana y AMBA","1986","141.147340867578","AR-L"
+"Pampeana y AMBA","1993","111.952488260081","AR-L"
+"Pampeana y AMBA","2004","113.710238584353","AR-L"
+"Pampeana y AMBA","2005","125.73838764078","AR-L"
+"Pampeana y AMBA","2006","117.393674210631","AR-L"
+"Pampeana y AMBA","2007","122.083840103507","AR-L"
+"Pampeana y AMBA","2008","127.378404871353","AR-L"
+"Pampeana y AMBA","2009","125.47550776604","AR-L"
+"Pampeana y AMBA","2010","122.209828481608","AR-L"
+"Pampeana y AMBA","2011","124.155531510773","AR-L"
+"Pampeana y AMBA","2012","126.231430646729","AR-L"
+"Pampeana y AMBA","2013","124.884817660475","AR-L"
+"Pampeana y AMBA","2014","121.408465984376","AR-L"
+"Pampeana y AMBA","2015","124.827451367056","AR-L"
+"Pampeana y AMBA","2016","132.291532432285","AR-L"
+"Pampeana y AMBA","2017","125.369546799025","AR-L"
+"Pampeana y AMBA","2018","126.85833169351","AR-L"
+"Pampeana y AMBA","2019","132.194780871616","AR-L"
+"Pampeana y AMBA","2020","131.98452684008","AR-L"
+"Pampeana y AMBA","2021","129.244989747818","AR-L"
+"Pampeana y AMBA","2022","134.586881653116","AR-L"
+"NOA","1895","47.997284945614","AR-F"
+"NOA","1914","77.4066935042017","AR-F"
+"NOA","1937","36.3558020903542","AR-F"
+"NOA","1946","44.9103473358127","AR-F"
+"NOA","1953","43.9663329805115","AR-F"
+"NOA","1965","36.3861994161883","AR-F"
+"NOA","1975","68.5052756574078","AR-F"
+"NOA","1986","85.0846203744616","AR-F"
+"NOA","1993","79.2820092172904","AR-F"
+"NOA","2004","75.6492932845292","AR-F"
+"NOA","2005","74.2164638335193","AR-F"
+"NOA","2006","71.8975972831551","AR-F"
+"NOA","2007","72.5593382771986","AR-F"
+"NOA","2008","68.490744659584","AR-F"
+"NOA","2009","69.603265072857","AR-F"
+"NOA","2010","69.4577978978705","AR-F"
+"NOA","2011","69.2598918773","AR-F"
+"NOA","2012","67.491626472663","AR-F"
+"NOA","2013","68.9228479242022","AR-F"
+"NOA","2014","67.5076721789777","AR-F"
+"NOA","2015","66.9729177126653","AR-F"
+"NOA","2016","67.2724202863626","AR-F"
+"NOA","2017","67.4889225822615","AR-F"
+"NOA","2018","66.6692162626903","AR-F"
+"NOA","2019","65.8423562851219","AR-F"
+"NOA","2020","64.3447302616826","AR-F"
+"NOA","2021","64.0602503973592","AR-F"
+"NOA","2022","66.0814930138388","AR-F"
+"Cuyo","1895","119.971259999391","AR-M"
+"Cuyo","1914","84.2499568438255","AR-M"
+"Cuyo","1937","67.2594619349428","AR-M"
+"Cuyo","1946","99.6744872112658","AR-M"
+"Cuyo","1953","100.483057631603","AR-M"
+"Cuyo","1965","93.6948890484928","AR-M"
+"Cuyo","1975","106.150098253921","AR-M"
+"Cuyo","1986","62.0731355925985","AR-M"
+"Cuyo","1993","91.0499738264877","AR-M"
+"Cuyo","2004","91.2524518732174","AR-M"
+"Cuyo","2005","86.4505198247203","AR-M"
+"Cuyo","2006","88.1533702170228","AR-M"
+"Cuyo","2007","86.7574566684173","AR-M"
+"Cuyo","2008","86.684424779844","AR-M"
+"Cuyo","2009","86.5804190001157","AR-M"
+"Cuyo","2010","82.1871382992603","AR-M"
+"Cuyo","2011","82.3022072707687","AR-M"
+"Cuyo","2012","84.033527256046","AR-M"
+"Cuyo","2013","82.6861729092026","AR-M"
+"Cuyo","2014","82.0048413964757","AR-M"
+"Cuyo","2015","82.636051244848","AR-M"
+"Cuyo","2016","80.3506769711228","AR-M"
+"Cuyo","2017","79.2087989216317","AR-M"
+"Cuyo","2018","81.3178170706054","AR-M"
+"Cuyo","2019","81.4789144201012","AR-M"
+"Cuyo","2020","78.513765563775","AR-M"
+"Cuyo","2021","75.5612446250384","AR-M"
+"Cuyo","2022","74.0990780189429","AR-M"
+"NEA","1895","79.7897304415734","AR-N"
+"NEA","1914","46.3289525314053","AR-N"
+"NEA","1937","52.6217567342743","AR-N"
+"NEA","1946","62.95369495987","AR-N"
+"NEA","1953","51.4437680147559","AR-N"
+"NEA","1965","45.3941495860923","AR-N"
+"NEA","1975","78.5098753167304","AR-N"
+"NEA","1986","61.9192412341772","AR-N"
+"NEA","1993","57.5374609550961","AR-N"
+"NEA","2004","49.3705594499496","AR-N"
+"NEA","2005","47.9560482443713","AR-N"
+"NEA","2006","46.8436236772461","AR-N"
+"NEA","2007","45.1665725997058","AR-N"
+"NEA","2008","42.9418804291553","AR-N"
+"NEA","2009","43.0392168340005","AR-N"
+"NEA","2010","42.0760214851485","AR-N"
+"NEA","2011","42.4102376870884","AR-N"
+"NEA","2012","43.4350498445413","AR-N"
+"NEA","2013","44.2557405022823","AR-N"
+"NEA","2014","45.3842324800799","AR-N"
+"NEA","2015","45.395597911764","AR-N"
+"NEA","2016","45.2167538102056","AR-N"
+"NEA","2017","45.0777662569286","AR-N"
+"NEA","2018","45.5674818546393","AR-N"
+"NEA","2019","45.1145902155926","AR-N"
+"NEA","2020","47.8655083429037","AR-N"
+"NEA","2021","48.5043774742325","AR-N"
+"NEA","2022","47.8649486251161","AR-N"
+"Patagonia","1895","39.7918740965754","AR-Q"
+"Patagonia","1914","74.3541580380207","AR-Q"
+"Patagonia","1937","77.259208131004","AR-Q"
+"Patagonia","1946","75.3401401125702","AR-Q"
+"Patagonia","1953","66.5241100456435","AR-Q"
+"Patagonia","1965","64.3520868034058","AR-Q"
+"Patagonia","1975","145.726547227693","AR-Q"
+"Patagonia","1986","99.2543033415323","AR-Q"
+"Patagonia","1993","147.278680885513","AR-Q"
+"Patagonia","2004","242.08420803748","AR-Q"
+"Patagonia","2005","217.045287116337","AR-Q"
+"Patagonia","2006","206.792760617224","AR-Q"
+"Patagonia","2007","194.471137575082","AR-Q"
+"Patagonia","2008","186.994398098144","AR-Q"
+"Patagonia","2009","187.250318135545","AR-Q"
+"Patagonia","2010","169.506009207417","AR-Q"
+"Patagonia","2011","159.923155636078","AR-Q"
+"Patagonia","2012","154.931472642514","AR-Q"
+"Patagonia","2013","150.611051570086","AR-Q"
+"Patagonia","2014","158.138191546878","AR-Q"
+"Patagonia","2015","161.397974613648","AR-Q"
+"Patagonia","2016","161.392352425528","AR-Q"
+"Patagonia","2017","155.71025581753","AR-Q"
+"Patagonia","2018","169.086250355975","AR-Q"
+"Patagonia","2019","187.005865428059","AR-Q"
+"Patagonia","2020","191.296299748915","AR-Q"
+"Patagonia","2021","208.671182552803","AR-Q"
+"Patagonia","2022","236.099819980751","AR-Q"
+"Patagonia","1895","81.5129997909446","AR-R"
+"Patagonia","1914","99.1001146900349","AR-R"
+"Patagonia","1937","83.0507650990096","AR-R"
+"Patagonia","1946","93.9730248454266","AR-R"
+"Patagonia","1953","109.2796864174","AR-R"
+"Patagonia","1965","95.8843079377718","AR-R"
+"Patagonia","1975","110.019717987474","AR-R"
+"Patagonia","1986","107.115664072946","AR-R"
+"Patagonia","1993","97.7423966737064","AR-R"
+"Patagonia","2004","90.9667042940083","AR-R"
+"Patagonia","2005","91.0003342147015","AR-R"
+"Patagonia","2006","92.3726249942186","AR-R"
+"Patagonia","2007","89.3583510888468","AR-R"
+"Patagonia","2008","87.5140609776143","AR-R"
+"Patagonia","2009","89.6818967225637","AR-R"
+"Patagonia","2010","86.0588685874128","AR-R"
+"Patagonia","2011","87.4311357062636","AR-R"
+"Patagonia","2012","89.9952166108125","AR-R"
+"Patagonia","2013","90.588407422237","AR-R"
+"Patagonia","2014","90.0484129475462","AR-R"
+"Patagonia","2015","90.0244972332068","AR-R"
+"Patagonia","2016","89.0794196976068","AR-R"
+"Patagonia","2017","87.561596725542","AR-R"
+"Patagonia","2018","90.1759039480498","AR-R"
+"Patagonia","2019","89.8557499132125","AR-R"
+"Patagonia","2020","90.0411685848479","AR-R"
+"Patagonia","2021","86.4675863511793","AR-R"
+"Patagonia","2022","85.4357968778642","AR-R"
+"NOA","1895","60.4180279268364","AR-A"
+"NOA","1914","64.4701461324292","AR-A"
+"NOA","1937","61.694615371212","AR-A"
+"NOA","1946","58.9563062029357","AR-A"
+"NOA","1953","59.2687904884636","AR-A"
+"NOA","1965","59.6046486431887","AR-A"
+"NOA","1975","60.2625196058716","AR-A"
+"NOA","1986","60.1428644984767","AR-A"
+"NOA","1993","54.5713361102692","AR-A"
+"NOA","2004","59.5959832990824","AR-A"
+"NOA","2005","58.3554293727615","AR-A"
+"NOA","2006","59.3172272444884","AR-A"
+"NOA","2007","58.6901306683705","AR-A"
+"NOA","2008","58.691011298131","AR-A"
+"NOA","2009","59.3406159612223","AR-A"
+"NOA","2010","57.9800011606731","AR-A"
+"NOA","2011","57.792602209276","AR-A"
+"NOA","2012","55.4455574206425","AR-A"
+"NOA","2013","51.7910312454159","AR-A"
+"NOA","2014","55.4388253283977","AR-A"
+"NOA","2015","57.961798351847","AR-A"
+"NOA","2016","57.0963494644938","AR-A"
+"NOA","2017","57.5579903272638","AR-A"
+"NOA","2018","58.3697750333954","AR-A"
+"NOA","2019","59.7339212557943","AR-A"
+"NOA","2020","60.9799222070491","AR-A"
+"NOA","2021","59.4762718099373","AR-A"
+"NOA","2022","59.193152358502","AR-A"
+"Cuyo","1895","126.509819492659","AR-J"
+"Cuyo","1914","68.0206013338334","AR-J"
+"Cuyo","1937","48.6158027657533","AR-J"
+"Cuyo","1946","84.4962913300494","AR-J"
+"Cuyo","1953","70.888567151033","AR-J"
+"Cuyo","1965","72.9840108538441","AR-J"
+"Cuyo","1975","62.5965355102688","AR-J"
+"Cuyo","1986","60.7623736860139","AR-J"
+"Cuyo","1993","70.1637449891398","AR-J"
+"Cuyo","2004","68.5582764314249","AR-J"
+"Cuyo","2005","68.7835420011642","AR-J"
+"Cuyo","2006","71.4261279924443","AR-J"
+"Cuyo","2007","70.3709124708191","AR-J"
+"Cuyo","2008","72.4325202737166","AR-J"
+"Cuyo","2009","77.5406865438262","AR-J"
+"Cuyo","2010","82.0448961563162","AR-J"
+"Cuyo","2011","81.8463755063042","AR-J"
+"Cuyo","2012","83.6993827876253","AR-J"
+"Cuyo","2013","83.8630208682674","AR-J"
+"Cuyo","2014","81.2618409520118","AR-J"
+"Cuyo","2015","76.4413272688653","AR-J"
+"Cuyo","2016","74.3819999780104","AR-J"
+"Cuyo","2017","74.1198711178316","AR-J"
+"Cuyo","2018","74.9897968880879","AR-J"
+"Cuyo","2019","73.8094626016289","AR-J"
+"Cuyo","2020","73.5909274269058","AR-J"
+"Cuyo","2021","73.977577056852","AR-J"
+"Cuyo","2022","75.3595660659492","AR-J"
+"Cuyo","1895","47.4238573901705","AR-D"
+"Cuyo","1914","93.4701744221325","AR-D"
+"Cuyo","1937","49.0456180674542","AR-D"
+"Cuyo","1946","46.4192918517326","AR-D"
+"Cuyo","1953","54.0075039692448","AR-D"
+"Cuyo","1965","65.4895665471569","AR-D"
+"Cuyo","1975","59.034105061298","AR-D"
+"Cuyo","1986","133.597077904484","AR-D"
+"Cuyo","1993","114.296757008315","AR-D"
+"Cuyo","2004","105.56721854256","AR-D"
+"Cuyo","2005","102.138934887606","AR-D"
+"Cuyo","2006","97.3212249715772","AR-D"
+"Cuyo","2007","95.3201821164181","AR-D"
+"Cuyo","2008","94.3192948683387","AR-D"
+"Cuyo","2009","94.0942778566391","AR-D"
+"Cuyo","2010","90.7772276147416","AR-D"
+"Cuyo","2011","91.1865751693387","AR-D"
+"Cuyo","2012","90.9065752265985","AR-D"
+"Cuyo","2013","94.9361865572173","AR-D"
+"Cuyo","2014","94.1902638406383","AR-D"
+"Cuyo","2015","96.5889616752819","AR-D"
+"Cuyo","2016","95.4121559272691","AR-D"
+"Cuyo","2017","94.0260250539854","AR-D"
+"Cuyo","2018","91.0448583012731","AR-D"
+"Cuyo","2019","89.9909706780276","AR-D"
+"Cuyo","2020","86.8187027140936","AR-D"
+"Cuyo","2021","92.1736496485296","AR-D"
+"Cuyo","2022","91.3822156113227","AR-D"
+"Patagonia","1895","196.982153504622","AR-Z"
+"Patagonia","1914","217.94926057608","AR-Z"
+"Patagonia","1937","181.291434131103","AR-Z"
+"Patagonia","1946","171.985891201053","AR-Z"
+"Patagonia","1953","185.010131546073","AR-Z"
+"Patagonia","1965","304.770472626784","AR-Z"
+"Patagonia","1975","177.817138674899","AR-Z"
+"Patagonia","1986","173.069227136121","AR-Z"
+"Patagonia","1993","201.275184398314","AR-Z"
+"Patagonia","2004","312.341452446622","AR-Z"
+"Patagonia","2005","284.410913757407","AR-Z"
+"Patagonia","2006","279.970729134934","AR-Z"
+"Patagonia","2007","252.571750248036","AR-Z"
+"Patagonia","2008","237.274650915615","AR-Z"
+"Patagonia","2009","250.63946518095","AR-Z"
+"Patagonia","2010","226.896456576608","AR-Z"
+"Patagonia","2011","210.352638238681","AR-Z"
+"Patagonia","2012","224.227195992267","AR-Z"
+"Patagonia","2013","217.640652911607","AR-Z"
+"Patagonia","2014","220.39090943717","AR-Z"
+"Patagonia","2015","230.3766532905","AR-Z"
+"Patagonia","2016","214.118647230596","AR-Z"
+"Patagonia","2017","200.584554751689","AR-Z"
+"Patagonia","2018","200.084454910121","AR-Z"
+"Patagonia","2019","195.888925879918","AR-Z"
+"Patagonia","2020","185.771106130342","AR-Z"
+"Patagonia","2021","176.130394369831","AR-Z"
+"Patagonia","2022","170.892788258366","AR-Z"
+"Pampeana y AMBA","1895","134.273249878056","AR-S"
+"Pampeana y AMBA","1914","107.358935508652","AR-S"
+"Pampeana y AMBA","1937","103.640173630517","AR-S"
+"Pampeana y AMBA","1946","85.999876077163","AR-S"
+"Pampeana y AMBA","1953","86.7714435301615","AR-S"
+"Pampeana y AMBA","1965","95.7260531636712","AR-S"
+"Pampeana y AMBA","1975","91.3766485588526","AR-S"
+"Pampeana y AMBA","1986","91.1993706074488","AR-S"
+"Pampeana y AMBA","1993","88.7706619552588","AR-S"
+"Pampeana y AMBA","2004","103.178710635911","AR-S"
+"Pampeana y AMBA","2005","105.025649967813","AR-S"
+"Pampeana y AMBA","2006","103.018095855458","AR-S"
+"Pampeana y AMBA","2007","102.592004262769","AR-S"
+"Pampeana y AMBA","2008","102.190334402375","AR-S"
+"Pampeana y AMBA","2009","97.4954442559502","AR-S"
+"Pampeana y AMBA","2010","103.047548931633","AR-S"
+"Pampeana y AMBA","2011","100.832653473848","AR-S"
+"Pampeana y AMBA","2012","98.9197457907969","AR-S"
+"Pampeana y AMBA","2013","101.306534322249","AR-S"
+"Pampeana y AMBA","2014","99.873987270752","AR-S"
+"Pampeana y AMBA","2015","99.396633994037","AR-S"
+"Pampeana y AMBA","2016","96.4369344427785","AR-S"
+"Pampeana y AMBA","2017","99.7234129791394","AR-S"
+"Pampeana y AMBA","2018","98.0819470979269","AR-S"
+"Pampeana y AMBA","2019","100.961089475043","AR-S"
+"Pampeana y AMBA","2020","102.099601229856","AR-S"
+"Pampeana y AMBA","2021","104.081550235696","AR-S"
+"Pampeana y AMBA","2022","100.750876616702","AR-S"
+"NOA","1895","45.1215498394475","AR-G"
+"NOA","1914","46.3209625362273","AR-G"
+"NOA","1937","35.0570068609859","AR-G"
+"NOA","1946","37.9080496394573","AR-G"
+"NOA","1953","43.0996947939202","AR-G"
+"NOA","1965","33.0432109095857","AR-G"
+"NOA","1975","51.4743712736195","AR-G"
+"NOA","1986","30.8676729433369","AR-G"
+"NOA","1993","46.4992232381863","AR-G"
+"NOA","2004","57.752007957227","AR-G"
+"NOA","2005","53.2835084533873","AR-G"
+"NOA","2006","61.0655090139604","AR-G"
+"NOA","2007","63.2589735784176","AR-G"
+"NOA","2008","63.5333595423151","AR-G"
+"NOA","2009","57.6738751844448","AR-G"
+"NOA","2010","69.0885187151734","AR-G"
+"NOA","2011","69.4796596445708","AR-G"
+"NOA","2012","64.8714760720821","AR-G"
+"NOA","2013","71.3270906718357","AR-G"
+"NOA","2014","84.1051937367146","AR-G"
+"NOA","2015","80.5649865241988","AR-G"
+"NOA","2016","84.6969630816847","AR-G"
+"NOA","2017","87.4803512217068","AR-G"
+"NOA","2018","79.2079013286153","AR-G"
+"NOA","2019","84.5999202911041","AR-G"
+"NOA","2020","84.8642993736612","AR-G"
+"NOA","2021","82.5740625876842","AR-G"
+"NOA","2022","83.8052492369884","AR-G"
+"Patagonia","1895","167.473707380803","AR-V"
+"Patagonia","1914","191.48167940436","AR-V"
+"Patagonia","1937","253.549696903423","AR-V"
+"Patagonia","1946","254.678087037881","AR-V"
+"Patagonia","1953","244.392993242175","AR-V"
+"Patagonia","1965","198.693436180469","AR-V"
+"Patagonia","1975","252.839327542632","AR-V"
+"Patagonia","1986","492.585068066411","AR-V"
+"Patagonia","1993","297.720199875109","AR-V"
+"Patagonia","2004","280.184733418828","AR-V"
+"Patagonia","2005","274.084159985303","AR-V"
+"Patagonia","2006","282.745969541455","AR-V"
+"Patagonia","2007","266.763894004066","AR-V"
+"Patagonia","2008","251.930339153438","AR-V"
+"Patagonia","2009","236.329873586017","AR-V"
+"Patagonia","2010","264.859965652542","AR-V"
+"Patagonia","2011","305.71461791997","AR-V"
+"Patagonia","2012","327.876679238072","AR-V"
+"Patagonia","2013","315.390734899909","AR-V"
+"Patagonia","2014","280.800908612349","AR-V"
+"Patagonia","2015","277.86299059598","AR-V"
+"Patagonia","2016","266.254928503098","AR-V"
+"Patagonia","2017","256.968577680642","AR-V"
+"Patagonia","2018","257.501337557099","AR-V"
+"Patagonia","2019","233.345635689619","AR-V"
+"Patagonia","2020","237.692107484719","AR-V"
+"Patagonia","2021","243.1232002621","AR-V"
+"Patagonia","2022","245.982498253736","AR-V"
+"NOA","1895","124.945430420205","AR-T"
+"NOA","1914","73.4952534442924","AR-T"
+"NOA","1937","62.2185472874945","AR-T"
+"NOA","1946","59.9262310511576","AR-T"
+"NOA","1953","67.7508215269451","AR-T"
+"NOA","1965","42.5966177793667","AR-T"
+"NOA","1975","89.4834085147057","AR-T"
+"NOA","1986","52.3496126606258","AR-T"
+"NOA","1993","58.1731419191857","AR-T"
+"NOA","2004","49.3565145568826","AR-T"
+"NOA","2005","49.9336187803256","AR-T"
+"NOA","2006","51.422128727218","AR-T"
+"NOA","2007","51.1446183565591","AR-T"
+"NOA","2008","51.9342495024731","AR-T"
+"NOA","2009","52.6948425377219","AR-T"
+"NOA","2010","50.962645319521","AR-T"
+"NOA","2011","52.3311924564617","AR-T"
+"NOA","2012","52.4559259392344","AR-T"
+"NOA","2013","50.9748644059896","AR-T"
+"NOA","2014","50.6881426283946","AR-T"
+"NOA","2015","50.6321320354937","AR-T"
+"NOA","2016","52.4917337534787","AR-T"
+"NOA","2017","52.7382053820574","AR-T"
+"NOA","2018","54.6290191101199","AR-T"
+"NOA","2019","55.8614104877775","AR-T"
+"NOA","2020","55.725741351012","AR-T"
+"NOA","2021","55.0566024300353","AR-T"
+"NOA","2022","52.3382533201041","AR-T"
