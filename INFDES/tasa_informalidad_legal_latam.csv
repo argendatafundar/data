@@ -1,287 +1,287 @@
-"iso3","pais","anio","valor","serie"
-"ARG","Argentina","1986","0.268756321189501","Serie empalmada"
-"ARG","Argentina","1987","0.291626042044983","Serie empalmada"
-"ARG","Argentina","1988","0.335137916013318","Serie empalmada"
-"ARG","Argentina","1991","0.363177770751138","Serie empalmada"
-"ARG","Argentina","1992","0.350230542401601","Serie empalmada"
-"ARG","Argentina","1993","0.358084702274756","Serie empalmada"
-"ARG","Argentina","1994","0.326700026092041","Serie empalmada"
-"ARG","Argentina","1995","0.371748055998615","Serie empalmada"
-"ARG","Argentina","1996","0.394931203195928","Serie empalmada"
-"ARG","Argentina","1997","0.407459370355928","Serie empalmada"
-"ARG","Argentina","1998","0.417649628826271","Serie empalmada"
-"ARG","Argentina","1999","0.421346070192165","Serie empalmada"
-"ARG","Argentina","2000","0.423504303020809","Serie empalmada"
-"ARG","Argentina","2001","0.42616969733323","Serie empalmada"
-"ARG","Argentina","2002","0.485660188585373","Serie empalmada"
-"ARG","Argentina","2003","0.49397174","Serie empalmada"
-"ARG","Argentina","2004","0.479749915","Serie empalmada"
-"ARG","Argentina","2005","0.46296506","Serie empalmada"
-"ARG","Argentina","2006","0.4327783","Serie empalmada"
-"ARG","Argentina","2007","0.402359935","Serie empalmada"
-"ARG","Argentina","2008","0.37030458","Serie empalmada"
-"ARG","Argentina","2009","0.359004695","Serie empalmada"
-"ARG","Argentina","2010","0.34945948","Serie empalmada"
-"ARG","Argentina","2011","0.342224225","Serie empalmada"
-"ARG","Argentina","2012","0.34314008","Serie empalmada"
-"ARG","Argentina","2013","0.334374725","Serie empalmada"
-"ARG","Argentina","2014","0.3301629","Serie empalmada"
-"ARG","Argentina","2015","0.32617354","Serie empalmada"
-"ARG","Argentina","2016","0.33529979","Serie empalmada"
-"ARG","Argentina","2017","0.33841891","Serie empalmada"
-"ARG","Argentina","2018","0.344848815","Serie empalmada"
-"ARG","Argentina","2019","0.34955574","Serie empalmada"
-"ARG","Argentina","2020","0.30802683","Serie empalmada"
-"ARG","Argentina","2021","0.32707735","Serie empalmada"
-"ARG","Argentina","2022","0.366","Serie empalmada"
-"BRA","Brasil","1992","0.361517648958884","Serie empalmada"
-"BRA","Brasil","1993","0.371325423481065","Serie empalmada"
-"BRA","Brasil","1995","0.365728730517572","Serie empalmada"
-"BRA","Brasil","1996","0.373488538724141","Serie empalmada"
-"BRA","Brasil","1997","0.363350538035022","Serie empalmada"
-"BRA","Brasil","1998","0.347930658720132","Serie empalmada"
-"BRA","Brasil","1999","0.351354503660064","Serie empalmada"
-"BRA","Brasil","2001","0.34351037974515","Serie empalmada"
-"BRA","Brasil","2002","0.345676975078694","Serie empalmada"
-"BRA","Brasil","2003","0.333410965993198","Serie empalmada"
-"BRA","Brasil","2004","0.3331930970328","Serie empalmada"
-"BRA","Brasil","2005","0.321444015321794","Serie empalmada"
-"BRA","Brasil","2006","0.315360388111127","Serie empalmada"
-"BRA","Brasil","2007","0.296065357325105","Serie empalmada"
-"BRA","Brasil","2008","0.283165906373254","Serie empalmada"
-"BRA","Brasil","2009","0.274786804180726","Serie empalmada"
-"BRA","Brasil","2011","0.234646622906912","Serie empalmada"
-"BRA","Brasil","2012","0.23067231","Serie empalmada"
-"BRA","Brasil","2013","0.22165537","Serie empalmada"
-"BRA","Brasil","2014","0.2087885","Serie empalmada"
-"BRA","Brasil","2015","0.20524469","Serie empalmada"
-"BRA","Brasil","2016","0.21073907","Serie empalmada"
-"BRA","Brasil","2017","0.2232541","Serie empalmada"
-"BRA","Brasil","2018","0.22974869","Serie empalmada"
-"BRA","Brasil","2019","0.23177073","Serie empalmada"
-"BRA","Brasil","2020","0.20545703","Serie empalmada"
-"BRA","Brasil","2021","0.21715387","Serie empalmada"
-"BRA","Brasil","2022","0.23577382","Serie empalmada"
-"DOM","Dominicana","2008","0.42488163773823","Serie empalmada"
-"DOM","Dominicana","2009","0.4181859954056","Serie empalmada"
-"DOM","Dominicana","2010","0.373321927380934","Serie empalmada"
-"DOM","Dominicana","2011","0.420887253129168","Serie empalmada"
-"DOM","Dominicana","2012","0.432589152833879","Serie empalmada"
-"DOM","Dominicana","2013","0.428456346431126","Serie empalmada"
-"DOM","Dominicana","2014","0.331439696120409","Serie empalmada"
-"DOM","Dominicana","2015","0.326318284777551","Serie empalmada"
-"DOM","Dominicana","2016","0.31082424","Serie empalmada"
-"DOM","Dominicana","2017","0.29930904","Serie empalmada"
-"DOM","Dominicana","2018","0.30926943","Serie empalmada"
-"DOM","Dominicana","2019","0.2642645","Serie empalmada"
-"DOM","Dominicana","2020","0.25628586","Serie empalmada"
-"DOM","Dominicana","2021","0.3053236","Serie empalmada"
-"DOM","Dominicana","2022","0.2943513","Serie empalmada"
-"PER","Perú","2001","0.714227592839585","Serie empalmada"
-"PER","Perú","2002","0.705463160247832","Serie empalmada"
-"PER","Perú","2003","0.68928082","Serie empalmada"
-"PER","Perú","2005","0.70204341","Serie empalmada"
-"PER","Perú","2006","0.67699776","Serie empalmada"
-"PER","Perú","2007","0.64561398","Serie empalmada"
-"PER","Perú","2008","0.63503923","Serie empalmada"
-"PER","Perú","2009","0.59970396","Serie empalmada"
-"PER","Perú","2010","0.60141951","Serie empalmada"
-"PER","Perú","2011","0.56867593","Serie empalmada"
-"PER","Perú","2012","0.54675741","Serie empalmada"
-"PER","Perú","2013","0.53937766","Serie empalmada"
-"PER","Perú","2014","0.52250688","Serie empalmada"
-"PER","Perú","2015","0.53232903","Serie empalmada"
-"PER","Perú","2016","0.52887327","Serie empalmada"
-"PER","Perú","2017","0.5318406","Serie empalmada"
-"PER","Perú","2018","0.53011504","Serie empalmada"
-"PER","Perú","2019","0.5331546","Serie empalmada"
-"PER","Perú","2020","0.53282939","Serie empalmada"
-"PER","Perú","2021","0.56430309","Serie empalmada"
-"PER","Perú","2022","0.57736026","Serie empalmada"
-"PRY","Paraguay","1995","0.68997416","Serie empalmada"
-"PRY","Paraguay","1997","0.75276001","Serie empalmada"
-"PRY","Paraguay","1999","0.73242011","Serie empalmada"
-"PRY","Paraguay","2001","0.72180622","Serie empalmada"
-"PRY","Paraguay","2002","0.7385741","Serie empalmada"
-"PRY","Paraguay","2003","0.74154435","Serie empalmada"
-"PRY","Paraguay","2004","0.76751052","Serie empalmada"
-"PRY","Paraguay","2005","0.7198681","Serie empalmada"
-"PRY","Paraguay","2006","0.74688321","Serie empalmada"
-"PRY","Paraguay","2007","0.71025063","Serie empalmada"
-"PRY","Paraguay","2008","0.69590207","Serie empalmada"
-"PRY","Paraguay","2009","0.69055886","Serie empalmada"
-"PRY","Paraguay","2010","0.68716586","Serie empalmada"
-"PRY","Paraguay","2011","0.66046982","Serie empalmada"
-"PRY","Paraguay","2012","0.64365246","Serie empalmada"
-"PRY","Paraguay","2013","0.62798207","Serie empalmada"
-"PRY","Paraguay","2014","0.62960526","Serie empalmada"
-"PRY","Paraguay","2015","0.62257592","Serie empalmada"
-"PRY","Paraguay","2016","0.62917038","Serie empalmada"
-"PRY","Paraguay","2017","0.61427218","Serie empalmada"
-"PRY","Paraguay","2018","0.60255305","Serie empalmada"
-"PRY","Paraguay","2019","0.59594852","Serie empalmada"
-"PRY","Paraguay","2020","0.60266063","Serie empalmada"
-"PRY","Paraguay","2021","0.61286861","Serie empalmada"
-"URY","Uruguay","2001","0.239372363745994","Serie empalmada"
-"URY","Uruguay","2002","0.244130464817601","Serie empalmada"
-"URY","Uruguay","2003","0.266510301246964","Serie empalmada"
-"URY","Uruguay","2004","0.284281760027434","Serie empalmada"
-"URY","Uruguay","2005","0.270521816576511","Serie empalmada"
-"URY","Uruguay","2006","0.22661599","Serie empalmada"
-"URY","Uruguay","2007","0.22081147","Serie empalmada"
-"URY","Uruguay","2008","0.20784721","Serie empalmada"
-"URY","Uruguay","2009","0.19505072","Serie empalmada"
-"URY","Uruguay","2010","0.19041001","Serie empalmada"
-"URY","Uruguay","2011","0.16131647","Serie empalmada"
-"URY","Uruguay","2012","0.14192705","Serie empalmada"
-"URY","Uruguay","2013","0.13019395","Serie empalmada"
-"URY","Uruguay","2014","0.12458388","Serie empalmada"
-"URY","Uruguay","2015","0.11916815","Serie empalmada"
-"URY","Uruguay","2016","0.12150834","Serie empalmada"
-"URY","Uruguay","2017","0.11692648","Serie empalmada"
-"URY","Uruguay","2018","0.11310452","Serie empalmada"
-"URY","Uruguay","2019","0.11325215","Serie empalmada"
-"URY","Uruguay","2020","0.080811616","Serie empalmada"
-"BOL","Bolivia","1999","0.64645058","Serie original"
-"BOL","Bolivia","2000","0.6625497","Serie original"
-"BOL","Bolivia","2001","0.70382784","Serie original"
-"BOL","Bolivia","2002","0.74408387","Serie original"
-"BOL","Bolivia","2007","0.68177535","Serie original"
-"BOL","Bolivia","2008","0.69968926","Serie original"
-"BOL","Bolivia","2009","0.67897467","Serie original"
-"BOL","Bolivia","2011","0.60981302","Serie original"
-"BOL","Bolivia","2012","0.60412632","Serie original"
-"BOL","Bolivia","2013","0.53849285","Serie original"
-"BOL","Bolivia","2014","0.61391989","Serie original"
-"BOL","Bolivia","2015","0.59832514","Serie original"
-"BOL","Bolivia","2016","0.58073303","Serie original"
-"BOL","Bolivia","2017","0.57314308","Serie original"
-"BOL","Bolivia","2018","0.530487","Serie original"
-"BOL","Bolivia","2019","0.52541494","Serie original"
-"BOL","Bolivia","2020","0.4963241","Serie original"
-"BOL","Bolivia","2021","0.53709129","Serie original"
-"CHL","Chile","1990","0.21387903","Serie original"
-"CHL","Chile","1992","0.22831814","Serie original"
-"CHL","Chile","1996","0.22025575","Serie original"
-"CHL","Chile","1998","0.22904469","Serie original"
-"CHL","Chile","2000","0.23057697","Serie original"
-"CHL","Chile","2003","0.222632","Serie original"
-"CHL","Chile","2006","0.20209276","Serie original"
-"CHL","Chile","2009","0.21974087","Serie original"
-"CHL","Chile","2011","0.17654394","Serie original"
-"CHL","Chile","2013","0.15457424","Serie original"
-"CHL","Chile","2015","0.17480892","Serie original"
-"CHL","Chile","2017","0.15918436","Serie original"
-"CHL","Chile","2020","0.10966433","Serie original"
-"CHL","Chile","2022","0.14787875","Serie original"
-"COL","Colombia","2008","0.44326477","Serie original"
-"COL","Colombia","2009","0.44345825","Serie original"
-"COL","Colombia","2010","0.43838677","Serie original"
-"COL","Colombia","2011","0.43254327","Serie original"
-"COL","Colombia","2012","0.41981003","Serie original"
-"COL","Colombia","2013","0.40135163","Serie original"
-"COL","Colombia","2014","0.37661508","Serie original"
-"COL","Colombia","2015","0.37089042","Serie original"
-"COL","Colombia","2016","0.35525628","Serie original"
-"COL","Colombia","2017","0.3462866","Serie original"
-"COL","Colombia","2018","0.34425985","Serie original"
-"COL","Colombia","2019","0.36080307","Serie original"
-"COL","Colombia","2020","0.33568461","Serie original"
-"COL","Colombia","2021","0.35882034","Serie original"
-"HND","Honduras","2005","0.64456611","Serie original"
-"HND","Honduras","2006","0.61588348","Serie original"
-"HND","Honduras","2007","0.61714161","Serie original"
-"HND","Honduras","2008","0.6385614","Serie original"
-"HND","Honduras","2009","0.6366999","Serie original"
-"HND","Honduras","2010","0.61250624","Serie original"
-"HND","Honduras","2011","0.64643738","Serie original"
-"HND","Honduras","2012","0.65236304","Serie original"
-"HND","Honduras","2013","0.63335551","Serie original"
-"HND","Honduras","2014","0.61486189","Serie original"
-"HND","Honduras","2015","0.64375778","Serie original"
-"HND","Honduras","2016","0.64933063","Serie original"
-"HND","Honduras","2017","0.65881674","Serie original"
-"HND","Honduras","2018","0.67288609","Serie original"
-"HND","Honduras","2019","0.66419529","Serie original"
-"NIC","Nicaragua","1993","0.62305311","Serie original"
-"NIC","Nicaragua","1998","0.71495909","Serie original"
-"NIC","Nicaragua","2001","0.68169827","Serie original"
-"NIC","Nicaragua","2005","0.66588124","Serie original"
-"NIC","Nicaragua","2014","0.59552888","Serie original"
-"SLV","El Salvador","1998","0.48533063","Serie original"
-"SLV","El Salvador","1999","0.4780417","Serie original"
-"SLV","El Salvador","2000","0.51323406","Serie original"
-"SLV","El Salvador","2001","0.52550403","Serie original"
-"SLV","El Salvador","2002","0.49911489","Serie original"
-"SLV","El Salvador","2003","0.52594443","Serie original"
-"SLV","El Salvador","2004","0.54353771","Serie original"
-"SLV","El Salvador","2005","0.5238165","Serie original"
-"SLV","El Salvador","2006","0.53815166","Serie original"
-"SLV","El Salvador","2007","0.5292648","Serie original"
-"SLV","El Salvador","2008","0.50455188","Serie original"
-"SLV","El Salvador","2009","0.52791621","Serie original"
-"SLV","El Salvador","2010","0.54019535","Serie original"
-"SLV","El Salvador","2011","0.54027781","Serie original"
-"SLV","El Salvador","2012","0.5420284","Serie original"
-"SLV","El Salvador","2013","0.52099235","Serie original"
-"SLV","El Salvador","2014","0.52477405","Serie original"
-"SLV","El Salvador","2015","0.51960111","Serie original"
-"SLV","El Salvador","2016","0.51954395","Serie original"
-"SLV","El Salvador","2017","0.52392382","Serie original"
-"SLV","El Salvador","2018","0.51920691","Serie original"
-"SLV","El Salvador","2019","0.52346178","Serie original"
-"SLV","El Salvador","2020","0.52803876","Serie original"
-"SLV","El Salvador","2021","0.53507931","Serie original"
-"SLV","El Salvador","2022","0.5170049","Serie original"
-"VEN","Venezuela","1995","0.34587756","Serie original"
-"VEN","Venezuela","1997","0.37479609","Serie original"
-"VEN","Venezuela","1998","0.35417993","Serie original"
-"VEN","Venezuela","1999","0.35584046","Serie original"
-"VEN","Venezuela","2000","0.31863964","Serie original"
-"VEN","Venezuela","2001","0.35599274","Serie original"
-"VEN","Venezuela","2002","0.38926412","Serie original"
-"VEN","Venezuela","2003","0.41582754","Serie original"
-"VEN","Venezuela","2004","0.40216702","Serie original"
-"VEN","Venezuela","2005","0.39998801","Serie original"
-"VEN","Venezuela","2006","0.39447879","Serie original"
-"CRI","Costa Rica","2010","0.22157988","Serie original"
-"CRI","Costa Rica","2011","0.23715755","Serie original"
-"CRI","Costa Rica","2012","0.21625258","Serie original"
-"CRI","Costa Rica","2013","0.21504762","Serie original"
-"CRI","Costa Rica","2014","0.2127599","Serie original"
-"CRI","Costa Rica","2015","0.23545115","Serie original"
-"CRI","Costa Rica","2016","0.24458683","Serie original"
-"CRI","Costa Rica","2017","0.23077004","Serie original"
-"CRI","Costa Rica","2018","0.22053618","Serie original"
-"CRI","Costa Rica","2019","0.21537034","Serie original"
-"CRI","Costa Rica","2020","0.17380114","Serie original"
-"CRI","Costa Rica","2021","0.20328514","Serie original"
-"CRI","Costa Rica","2022","0.18113858","Serie original"
-"ECU","Ecuador","2003","0.67606105","Serie original"
-"ECU","Ecuador","2004","0.6706313","Serie original"
-"ECU","Ecuador","2005","0.6731061","Serie original"
-"ECU","Ecuador","2006","0.62608554","Serie original"
-"ECU","Ecuador","2007","0.61458935","Serie original"
-"ECU","Ecuador","2008","0.59868047","Serie original"
-"ECU","Ecuador","2009","0.55102531","Serie original"
-"ECU","Ecuador","2010","0.50502091","Serie original"
-"ECU","Ecuador","2011","0.41873103","Serie original"
-"ECU","Ecuador","2012","0.394513","Serie original"
-"ECU","Ecuador","2013","0.39927151","Serie original"
-"ECU","Ecuador","2014","0.37600928","Serie original"
-"ECU","Ecuador","2015","0.36635015","Serie original"
-"ECU","Ecuador","2016","0.37411558","Serie original"
-"ECU","Ecuador","2017","0.39670687","Serie original"
-"ECU","Ecuador","2018","0.40893477","Serie original"
-"ECU","Ecuador","2019","0.4182373","Serie original"
-"ECU","Ecuador","2020","0.46579001","Serie original"
-"ECU","Ecuador","2021","0.47761285","Serie original"
-"ECU","Ecuador","2022","0.4740249","Serie original"
-"GTM","Guatemala","2000","0.65619812","Serie original"
-"GTM","Guatemala","2006","0.62947652","Serie original"
-"GTM","Guatemala","2011","0.69689711","Serie original"
-"GTM","Guatemala","2014","0.71519486","Serie original"
-"MEX","México","2016","0.64493019","Serie original"
-"MEX","México","2018","0.62509845","Serie original"
-"MEX","México","2020","0.61471044","Serie original"
-"MEX","México","2022","0.6241832","Serie original"
+iso3,pais,anio,valor,serie,geocodigoFundar,geonombreFundar
+ARG,Argentina,1986,0.268756321189501,Serie empalmada,ARG,Argentina
+ARG,Argentina,1987,0.291626042044983,Serie empalmada,ARG,Argentina
+ARG,Argentina,1988,0.335137916013318,Serie empalmada,ARG,Argentina
+ARG,Argentina,1991,0.363177770751138,Serie empalmada,ARG,Argentina
+ARG,Argentina,1992,0.350230542401601,Serie empalmada,ARG,Argentina
+ARG,Argentina,1993,0.358084702274756,Serie empalmada,ARG,Argentina
+ARG,Argentina,1994,0.326700026092041,Serie empalmada,ARG,Argentina
+ARG,Argentina,1995,0.371748055998615,Serie empalmada,ARG,Argentina
+ARG,Argentina,1996,0.394931203195928,Serie empalmada,ARG,Argentina
+ARG,Argentina,1997,0.407459370355928,Serie empalmada,ARG,Argentina
+ARG,Argentina,1998,0.417649628826271,Serie empalmada,ARG,Argentina
+ARG,Argentina,1999,0.421346070192165,Serie empalmada,ARG,Argentina
+ARG,Argentina,2000,0.423504303020809,Serie empalmada,ARG,Argentina
+ARG,Argentina,2001,0.42616969733323,Serie empalmada,ARG,Argentina
+ARG,Argentina,2002,0.485660188585373,Serie empalmada,ARG,Argentina
+ARG,Argentina,2003,0.49397174,Serie empalmada,ARG,Argentina
+ARG,Argentina,2004,0.479749915,Serie empalmada,ARG,Argentina
+ARG,Argentina,2005,0.46296506,Serie empalmada,ARG,Argentina
+ARG,Argentina,2006,0.4327783,Serie empalmada,ARG,Argentina
+ARG,Argentina,2007,0.402359935,Serie empalmada,ARG,Argentina
+ARG,Argentina,2008,0.37030458,Serie empalmada,ARG,Argentina
+ARG,Argentina,2009,0.359004695,Serie empalmada,ARG,Argentina
+ARG,Argentina,2010,0.34945948,Serie empalmada,ARG,Argentina
+ARG,Argentina,2011,0.342224225,Serie empalmada,ARG,Argentina
+ARG,Argentina,2012,0.34314008,Serie empalmada,ARG,Argentina
+ARG,Argentina,2013,0.334374725,Serie empalmada,ARG,Argentina
+ARG,Argentina,2014,0.3301629,Serie empalmada,ARG,Argentina
+ARG,Argentina,2015,0.32617354,Serie empalmada,ARG,Argentina
+ARG,Argentina,2016,0.33529979,Serie empalmada,ARG,Argentina
+ARG,Argentina,2017,0.33841891,Serie empalmada,ARG,Argentina
+ARG,Argentina,2018,0.344848815,Serie empalmada,ARG,Argentina
+ARG,Argentina,2019,0.34955574,Serie empalmada,ARG,Argentina
+ARG,Argentina,2020,0.30802683,Serie empalmada,ARG,Argentina
+ARG,Argentina,2021,0.32707735,Serie empalmada,ARG,Argentina
+ARG,Argentina,2022,0.366,Serie empalmada,ARG,Argentina
+BRA,Brasil,1992,0.361517648958884,Serie empalmada,BRA,Brasil
+BRA,Brasil,1993,0.371325423481065,Serie empalmada,BRA,Brasil
+BRA,Brasil,1995,0.365728730517572,Serie empalmada,BRA,Brasil
+BRA,Brasil,1996,0.373488538724141,Serie empalmada,BRA,Brasil
+BRA,Brasil,1997,0.363350538035022,Serie empalmada,BRA,Brasil
+BRA,Brasil,1998,0.347930658720132,Serie empalmada,BRA,Brasil
+BRA,Brasil,1999,0.351354503660064,Serie empalmada,BRA,Brasil
+BRA,Brasil,2001,0.34351037974515,Serie empalmada,BRA,Brasil
+BRA,Brasil,2002,0.345676975078694,Serie empalmada,BRA,Brasil
+BRA,Brasil,2003,0.333410965993198,Serie empalmada,BRA,Brasil
+BRA,Brasil,2004,0.3331930970328,Serie empalmada,BRA,Brasil
+BRA,Brasil,2005,0.321444015321794,Serie empalmada,BRA,Brasil
+BRA,Brasil,2006,0.315360388111127,Serie empalmada,BRA,Brasil
+BRA,Brasil,2007,0.296065357325105,Serie empalmada,BRA,Brasil
+BRA,Brasil,2008,0.283165906373254,Serie empalmada,BRA,Brasil
+BRA,Brasil,2009,0.274786804180726,Serie empalmada,BRA,Brasil
+BRA,Brasil,2011,0.234646622906912,Serie empalmada,BRA,Brasil
+BRA,Brasil,2012,0.23067231,Serie empalmada,BRA,Brasil
+BRA,Brasil,2013,0.22165537,Serie empalmada,BRA,Brasil
+BRA,Brasil,2014,0.2087885,Serie empalmada,BRA,Brasil
+BRA,Brasil,2015,0.20524469,Serie empalmada,BRA,Brasil
+BRA,Brasil,2016,0.21073907,Serie empalmada,BRA,Brasil
+BRA,Brasil,2017,0.2232541,Serie empalmada,BRA,Brasil
+BRA,Brasil,2018,0.22974869,Serie empalmada,BRA,Brasil
+BRA,Brasil,2019,0.23177073,Serie empalmada,BRA,Brasil
+BRA,Brasil,2020,0.20545703,Serie empalmada,BRA,Brasil
+BRA,Brasil,2021,0.21715387,Serie empalmada,BRA,Brasil
+BRA,Brasil,2022,0.23577382,Serie empalmada,BRA,Brasil
+DOM,Dominicana,2008,0.42488163773823,Serie empalmada,DOM,Rep. Dominicana
+DOM,Dominicana,2009,0.4181859954056,Serie empalmada,DOM,Rep. Dominicana
+DOM,Dominicana,2010,0.373321927380934,Serie empalmada,DOM,Rep. Dominicana
+DOM,Dominicana,2011,0.420887253129168,Serie empalmada,DOM,Rep. Dominicana
+DOM,Dominicana,2012,0.432589152833879,Serie empalmada,DOM,Rep. Dominicana
+DOM,Dominicana,2013,0.428456346431126,Serie empalmada,DOM,Rep. Dominicana
+DOM,Dominicana,2014,0.331439696120409,Serie empalmada,DOM,Rep. Dominicana
+DOM,Dominicana,2015,0.326318284777551,Serie empalmada,DOM,Rep. Dominicana
+DOM,Dominicana,2016,0.31082424,Serie empalmada,DOM,Rep. Dominicana
+DOM,Dominicana,2017,0.29930904,Serie empalmada,DOM,Rep. Dominicana
+DOM,Dominicana,2018,0.30926943,Serie empalmada,DOM,Rep. Dominicana
+DOM,Dominicana,2019,0.2642645,Serie empalmada,DOM,Rep. Dominicana
+DOM,Dominicana,2020,0.25628586,Serie empalmada,DOM,Rep. Dominicana
+DOM,Dominicana,2021,0.3053236,Serie empalmada,DOM,Rep. Dominicana
+DOM,Dominicana,2022,0.2943513,Serie empalmada,DOM,Rep. Dominicana
+PER,Perú,2001,0.714227592839585,Serie empalmada,PER,Perú
+PER,Perú,2002,0.705463160247832,Serie empalmada,PER,Perú
+PER,Perú,2003,0.68928082,Serie empalmada,PER,Perú
+PER,Perú,2005,0.70204341,Serie empalmada,PER,Perú
+PER,Perú,2006,0.67699776,Serie empalmada,PER,Perú
+PER,Perú,2007,0.64561398,Serie empalmada,PER,Perú
+PER,Perú,2008,0.63503923,Serie empalmada,PER,Perú
+PER,Perú,2009,0.59970396,Serie empalmada,PER,Perú
+PER,Perú,2010,0.60141951,Serie empalmada,PER,Perú
+PER,Perú,2011,0.56867593,Serie empalmada,PER,Perú
+PER,Perú,2012,0.54675741,Serie empalmada,PER,Perú
+PER,Perú,2013,0.53937766,Serie empalmada,PER,Perú
+PER,Perú,2014,0.52250688,Serie empalmada,PER,Perú
+PER,Perú,2015,0.53232903,Serie empalmada,PER,Perú
+PER,Perú,2016,0.52887327,Serie empalmada,PER,Perú
+PER,Perú,2017,0.5318406,Serie empalmada,PER,Perú
+PER,Perú,2018,0.53011504,Serie empalmada,PER,Perú
+PER,Perú,2019,0.5331546,Serie empalmada,PER,Perú
+PER,Perú,2020,0.53282939,Serie empalmada,PER,Perú
+PER,Perú,2021,0.56430309,Serie empalmada,PER,Perú
+PER,Perú,2022,0.57736026,Serie empalmada,PER,Perú
+PRY,Paraguay,1995,0.68997416,Serie empalmada,PRY,Paraguay
+PRY,Paraguay,1997,0.75276001,Serie empalmada,PRY,Paraguay
+PRY,Paraguay,1999,0.73242011,Serie empalmada,PRY,Paraguay
+PRY,Paraguay,2001,0.72180622,Serie empalmada,PRY,Paraguay
+PRY,Paraguay,2002,0.7385741,Serie empalmada,PRY,Paraguay
+PRY,Paraguay,2003,0.74154435,Serie empalmada,PRY,Paraguay
+PRY,Paraguay,2004,0.76751052,Serie empalmada,PRY,Paraguay
+PRY,Paraguay,2005,0.7198681,Serie empalmada,PRY,Paraguay
+PRY,Paraguay,2006,0.74688321,Serie empalmada,PRY,Paraguay
+PRY,Paraguay,2007,0.71025063,Serie empalmada,PRY,Paraguay
+PRY,Paraguay,2008,0.69590207,Serie empalmada,PRY,Paraguay
+PRY,Paraguay,2009,0.69055886,Serie empalmada,PRY,Paraguay
+PRY,Paraguay,2010,0.68716586,Serie empalmada,PRY,Paraguay
+PRY,Paraguay,2011,0.66046982,Serie empalmada,PRY,Paraguay
+PRY,Paraguay,2012,0.64365246,Serie empalmada,PRY,Paraguay
+PRY,Paraguay,2013,0.62798207,Serie empalmada,PRY,Paraguay
+PRY,Paraguay,2014,0.62960526,Serie empalmada,PRY,Paraguay
+PRY,Paraguay,2015,0.62257592,Serie empalmada,PRY,Paraguay
+PRY,Paraguay,2016,0.62917038,Serie empalmada,PRY,Paraguay
+PRY,Paraguay,2017,0.61427218,Serie empalmada,PRY,Paraguay
+PRY,Paraguay,2018,0.60255305,Serie empalmada,PRY,Paraguay
+PRY,Paraguay,2019,0.59594852,Serie empalmada,PRY,Paraguay
+PRY,Paraguay,2020,0.60266063,Serie empalmada,PRY,Paraguay
+PRY,Paraguay,2021,0.61286861,Serie empalmada,PRY,Paraguay
+URY,Uruguay,2001,0.239372363745994,Serie empalmada,URY,Uruguay
+URY,Uruguay,2002,0.244130464817601,Serie empalmada,URY,Uruguay
+URY,Uruguay,2003,0.266510301246964,Serie empalmada,URY,Uruguay
+URY,Uruguay,2004,0.284281760027434,Serie empalmada,URY,Uruguay
+URY,Uruguay,2005,0.270521816576511,Serie empalmada,URY,Uruguay
+URY,Uruguay,2006,0.22661599,Serie empalmada,URY,Uruguay
+URY,Uruguay,2007,0.22081147,Serie empalmada,URY,Uruguay
+URY,Uruguay,2008,0.20784721,Serie empalmada,URY,Uruguay
+URY,Uruguay,2009,0.19505072,Serie empalmada,URY,Uruguay
+URY,Uruguay,2010,0.19041001,Serie empalmada,URY,Uruguay
+URY,Uruguay,2011,0.16131647,Serie empalmada,URY,Uruguay
+URY,Uruguay,2012,0.14192705,Serie empalmada,URY,Uruguay
+URY,Uruguay,2013,0.13019395,Serie empalmada,URY,Uruguay
+URY,Uruguay,2014,0.12458388,Serie empalmada,URY,Uruguay
+URY,Uruguay,2015,0.11916815,Serie empalmada,URY,Uruguay
+URY,Uruguay,2016,0.12150834,Serie empalmada,URY,Uruguay
+URY,Uruguay,2017,0.11692648,Serie empalmada,URY,Uruguay
+URY,Uruguay,2018,0.11310452,Serie empalmada,URY,Uruguay
+URY,Uruguay,2019,0.11325215,Serie empalmada,URY,Uruguay
+URY,Uruguay,2020,0.080811616,Serie empalmada,URY,Uruguay
+BOL,Bolivia,1999,0.64645058,Serie original,BOL,Bolivia
+BOL,Bolivia,2000,0.6625497,Serie original,BOL,Bolivia
+BOL,Bolivia,2001,0.70382784,Serie original,BOL,Bolivia
+BOL,Bolivia,2002,0.74408387,Serie original,BOL,Bolivia
+BOL,Bolivia,2007,0.68177535,Serie original,BOL,Bolivia
+BOL,Bolivia,2008,0.69968926,Serie original,BOL,Bolivia
+BOL,Bolivia,2009,0.67897467,Serie original,BOL,Bolivia
+BOL,Bolivia,2011,0.60981302,Serie original,BOL,Bolivia
+BOL,Bolivia,2012,0.60412632,Serie original,BOL,Bolivia
+BOL,Bolivia,2013,0.53849285,Serie original,BOL,Bolivia
+BOL,Bolivia,2014,0.61391989,Serie original,BOL,Bolivia
+BOL,Bolivia,2015,0.59832514,Serie original,BOL,Bolivia
+BOL,Bolivia,2016,0.58073303,Serie original,BOL,Bolivia
+BOL,Bolivia,2017,0.57314308,Serie original,BOL,Bolivia
+BOL,Bolivia,2018,0.530487,Serie original,BOL,Bolivia
+BOL,Bolivia,2019,0.52541494,Serie original,BOL,Bolivia
+BOL,Bolivia,2020,0.4963241,Serie original,BOL,Bolivia
+BOL,Bolivia,2021,0.53709129,Serie original,BOL,Bolivia
+CHL,Chile,1990,0.21387903,Serie original,CHL,Chile
+CHL,Chile,1992,0.22831814,Serie original,CHL,Chile
+CHL,Chile,1996,0.22025575,Serie original,CHL,Chile
+CHL,Chile,1998,0.22904469,Serie original,CHL,Chile
+CHL,Chile,2000,0.23057697,Serie original,CHL,Chile
+CHL,Chile,2003,0.222632,Serie original,CHL,Chile
+CHL,Chile,2006,0.20209276,Serie original,CHL,Chile
+CHL,Chile,2009,0.21974087,Serie original,CHL,Chile
+CHL,Chile,2011,0.17654394,Serie original,CHL,Chile
+CHL,Chile,2013,0.15457424,Serie original,CHL,Chile
+CHL,Chile,2015,0.17480892,Serie original,CHL,Chile
+CHL,Chile,2017,0.15918436,Serie original,CHL,Chile
+CHL,Chile,2020,0.10966433,Serie original,CHL,Chile
+CHL,Chile,2022,0.14787875,Serie original,CHL,Chile
+COL,Colombia,2008,0.44326477,Serie original,COL,Colombia
+COL,Colombia,2009,0.44345825,Serie original,COL,Colombia
+COL,Colombia,2010,0.43838677,Serie original,COL,Colombia
+COL,Colombia,2011,0.43254327,Serie original,COL,Colombia
+COL,Colombia,2012,0.41981003,Serie original,COL,Colombia
+COL,Colombia,2013,0.40135163,Serie original,COL,Colombia
+COL,Colombia,2014,0.37661508,Serie original,COL,Colombia
+COL,Colombia,2015,0.37089042,Serie original,COL,Colombia
+COL,Colombia,2016,0.35525628,Serie original,COL,Colombia
+COL,Colombia,2017,0.3462866,Serie original,COL,Colombia
+COL,Colombia,2018,0.34425985,Serie original,COL,Colombia
+COL,Colombia,2019,0.36080307,Serie original,COL,Colombia
+COL,Colombia,2020,0.33568461,Serie original,COL,Colombia
+COL,Colombia,2021,0.35882034,Serie original,COL,Colombia
+HND,Honduras,2005,0.64456611,Serie original,HND,Honduras
+HND,Honduras,2006,0.61588348,Serie original,HND,Honduras
+HND,Honduras,2007,0.61714161,Serie original,HND,Honduras
+HND,Honduras,2008,0.6385614,Serie original,HND,Honduras
+HND,Honduras,2009,0.6366999,Serie original,HND,Honduras
+HND,Honduras,2010,0.61250624,Serie original,HND,Honduras
+HND,Honduras,2011,0.64643738,Serie original,HND,Honduras
+HND,Honduras,2012,0.65236304,Serie original,HND,Honduras
+HND,Honduras,2013,0.63335551,Serie original,HND,Honduras
+HND,Honduras,2014,0.61486189,Serie original,HND,Honduras
+HND,Honduras,2015,0.64375778,Serie original,HND,Honduras
+HND,Honduras,2016,0.64933063,Serie original,HND,Honduras
+HND,Honduras,2017,0.65881674,Serie original,HND,Honduras
+HND,Honduras,2018,0.67288609,Serie original,HND,Honduras
+HND,Honduras,2019,0.66419529,Serie original,HND,Honduras
+NIC,Nicaragua,1993,0.62305311,Serie original,NIC,Nicaragua
+NIC,Nicaragua,1998,0.71495909,Serie original,NIC,Nicaragua
+NIC,Nicaragua,2001,0.68169827,Serie original,NIC,Nicaragua
+NIC,Nicaragua,2005,0.66588124,Serie original,NIC,Nicaragua
+NIC,Nicaragua,2014,0.59552888,Serie original,NIC,Nicaragua
+SLV,El Salvador,1998,0.48533063,Serie original,SLV,El Salvador
+SLV,El Salvador,1999,0.4780417,Serie original,SLV,El Salvador
+SLV,El Salvador,2000,0.51323406,Serie original,SLV,El Salvador
+SLV,El Salvador,2001,0.52550403,Serie original,SLV,El Salvador
+SLV,El Salvador,2002,0.49911489,Serie original,SLV,El Salvador
+SLV,El Salvador,2003,0.52594443,Serie original,SLV,El Salvador
+SLV,El Salvador,2004,0.54353771,Serie original,SLV,El Salvador
+SLV,El Salvador,2005,0.5238165,Serie original,SLV,El Salvador
+SLV,El Salvador,2006,0.53815166,Serie original,SLV,El Salvador
+SLV,El Salvador,2007,0.5292648,Serie original,SLV,El Salvador
+SLV,El Salvador,2008,0.50455188,Serie original,SLV,El Salvador
+SLV,El Salvador,2009,0.52791621,Serie original,SLV,El Salvador
+SLV,El Salvador,2010,0.54019535,Serie original,SLV,El Salvador
+SLV,El Salvador,2011,0.54027781,Serie original,SLV,El Salvador
+SLV,El Salvador,2012,0.5420284,Serie original,SLV,El Salvador
+SLV,El Salvador,2013,0.52099235,Serie original,SLV,El Salvador
+SLV,El Salvador,2014,0.52477405,Serie original,SLV,El Salvador
+SLV,El Salvador,2015,0.51960111,Serie original,SLV,El Salvador
+SLV,El Salvador,2016,0.51954395,Serie original,SLV,El Salvador
+SLV,El Salvador,2017,0.52392382,Serie original,SLV,El Salvador
+SLV,El Salvador,2018,0.51920691,Serie original,SLV,El Salvador
+SLV,El Salvador,2019,0.52346178,Serie original,SLV,El Salvador
+SLV,El Salvador,2020,0.52803876,Serie original,SLV,El Salvador
+SLV,El Salvador,2021,0.53507931,Serie original,SLV,El Salvador
+SLV,El Salvador,2022,0.5170049,Serie original,SLV,El Salvador
+VEN,Venezuela,1995,0.34587756,Serie original,VEN,Venezuela
+VEN,Venezuela,1997,0.37479609,Serie original,VEN,Venezuela
+VEN,Venezuela,1998,0.35417993,Serie original,VEN,Venezuela
+VEN,Venezuela,1999,0.35584046,Serie original,VEN,Venezuela
+VEN,Venezuela,2000,0.31863964,Serie original,VEN,Venezuela
+VEN,Venezuela,2001,0.35599274,Serie original,VEN,Venezuela
+VEN,Venezuela,2002,0.38926412,Serie original,VEN,Venezuela
+VEN,Venezuela,2003,0.41582754,Serie original,VEN,Venezuela
+VEN,Venezuela,2004,0.40216702,Serie original,VEN,Venezuela
+VEN,Venezuela,2005,0.39998801,Serie original,VEN,Venezuela
+VEN,Venezuela,2006,0.39447879,Serie original,VEN,Venezuela
+CRI,Costa Rica,2010,0.22157988,Serie original,CRI,Costa Rica
+CRI,Costa Rica,2011,0.23715755,Serie original,CRI,Costa Rica
+CRI,Costa Rica,2012,0.21625258,Serie original,CRI,Costa Rica
+CRI,Costa Rica,2013,0.21504762,Serie original,CRI,Costa Rica
+CRI,Costa Rica,2014,0.2127599,Serie original,CRI,Costa Rica
+CRI,Costa Rica,2015,0.23545115,Serie original,CRI,Costa Rica
+CRI,Costa Rica,2016,0.24458683,Serie original,CRI,Costa Rica
+CRI,Costa Rica,2017,0.23077004,Serie original,CRI,Costa Rica
+CRI,Costa Rica,2018,0.22053618,Serie original,CRI,Costa Rica
+CRI,Costa Rica,2019,0.21537034,Serie original,CRI,Costa Rica
+CRI,Costa Rica,2020,0.17380114,Serie original,CRI,Costa Rica
+CRI,Costa Rica,2021,0.20328514,Serie original,CRI,Costa Rica
+CRI,Costa Rica,2022,0.18113858,Serie original,CRI,Costa Rica
+ECU,Ecuador,2003,0.67606105,Serie original,ECU,Ecuador
+ECU,Ecuador,2004,0.6706313,Serie original,ECU,Ecuador
+ECU,Ecuador,2005,0.6731061,Serie original,ECU,Ecuador
+ECU,Ecuador,2006,0.62608554,Serie original,ECU,Ecuador
+ECU,Ecuador,2007,0.61458935,Serie original,ECU,Ecuador
+ECU,Ecuador,2008,0.59868047,Serie original,ECU,Ecuador
+ECU,Ecuador,2009,0.55102531,Serie original,ECU,Ecuador
+ECU,Ecuador,2010,0.50502091,Serie original,ECU,Ecuador
+ECU,Ecuador,2011,0.41873103,Serie original,ECU,Ecuador
+ECU,Ecuador,2012,0.394513,Serie original,ECU,Ecuador
+ECU,Ecuador,2013,0.39927151,Serie original,ECU,Ecuador
+ECU,Ecuador,2014,0.37600928,Serie original,ECU,Ecuador
+ECU,Ecuador,2015,0.36635015,Serie original,ECU,Ecuador
+ECU,Ecuador,2016,0.37411558,Serie original,ECU,Ecuador
+ECU,Ecuador,2017,0.39670687,Serie original,ECU,Ecuador
+ECU,Ecuador,2018,0.40893477,Serie original,ECU,Ecuador
+ECU,Ecuador,2019,0.4182373,Serie original,ECU,Ecuador
+ECU,Ecuador,2020,0.46579001,Serie original,ECU,Ecuador
+ECU,Ecuador,2021,0.47761285,Serie original,ECU,Ecuador
+ECU,Ecuador,2022,0.4740249,Serie original,ECU,Ecuador
+GTM,Guatemala,2000,0.65619812,Serie original,GTM,Guatemala
+GTM,Guatemala,2006,0.62947652,Serie original,GTM,Guatemala
+GTM,Guatemala,2011,0.69689711,Serie original,GTM,Guatemala
+GTM,Guatemala,2014,0.71519486,Serie original,GTM,Guatemala
+MEX,México,2016,0.64493019,Serie original,MEX,México
+MEX,México,2018,0.62509845,Serie original,MEX,México
+MEX,México,2020,0.61471044,Serie original,MEX,México
+MEX,México,2022,0.6241832,Serie original,MEX,México

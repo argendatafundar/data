@@ -1,236 +1,236 @@
-"iso3","pais_nombre","ultimo_anio_disponible","sector","valor","fuente"
-"BGR","Bulgaria","2023","Gobierno","28.74409451","OECD"
-"IRL","Irlanda","2023","Gobierno","2.21278991","OECD"
-"KOR","Corea del Sur","2023","Org. priv. sin fines de lucro","2.053318511","OECD"
-"LUX","Luxemburgo","2023","Educación Superior","27.22844673","OECD"
-"TUR","Turquía","2023","Gobierno","4.853961543","OECD"
-"EU27_2020","Unión Europea (27 países)","2023","Empresas (Públicas y Privadas)","66.19878483","OECD"
-"PRT","Portugal","2023","Org. priv. sin fines de lucro","2.625332762","OECD"
-"DEU","Alemania","2023","Empresas (Públicas y Privadas)","68.25085403","OECD"
-"EU27_2020","Unión Europea (27 países)","2023","Educación Superior","21.50810367","OECD"
-"BGR","Bulgaria","2023","Org. priv. sin fines de lucro","0.450905661","OECD"
-"NOR","Noruega","1987","Org. priv. sin fines de lucro","0.98013271","OECD"
-"AUS","Australia","2021","Educación Superior","33.46494284","OECD"
-"NOR","Noruega","2023","Gobierno","11.87494674","OECD"
-"FRA","Francia","2023","Gobierno","11.41366536","OECD"
-"CHE","Suiza","2021","Gobierno","0.939720237","OECD"
-"TWN","Taiwán","2023","Empresas (Públicas y Privadas)","85.12700913","OECD"
-"FRA","Francia","2023","Org. priv. sin fines de lucro","1.982135513","OECD"
-"OECD","Países miembros de OCDE","2023","Educación Superior","15.81166141","OECD"
-"HUN","Hungría","2023","Gobierno","10.96765982","OECD"
-"ISR","Israel","2023","Org. priv. sin fines de lucro","0.595575186","OECD"
-"NZL","Nueva Zelandia","1983","Org. priv. sin fines de lucro","2.53869969","OECD"
-"SWE","Suecia","2023","Gobierno","4.108588455","OECD"
-"SVK","Eslovaquia","2023","Educación Superior","26.32816822","OECD"
-"POL","Polonia","2023","Org. priv. sin fines de lucro","0.214165653","OECD"
-"BGR","Bulgaria","2023","Educación Superior","6.494758741","OECD"
-"ISL","Islandia","2023","Gobierno","2.362432138","OECD"
-"DNK","Dinamarca","2023","Org. priv. sin fines de lucro","0.265728936","OECD"
-"OECD","Países miembros de OCDE","2023","Gobierno","8.522220156","OECD"
-"CZE","Chequia","2023","Educación Superior","18.75637275","OECD"
-"GBR","Reino Unido","2022","Educación Superior","23.02329841","OECD"
-"IRL","Irlanda","2023","Org. priv. sin fines de lucro","0.304492068","OECD"
-"EST","Estonia","2023","Empresas (Públicas y Privadas)","57.76362782","OECD"
-"USA","Estados Unidos","2023","Org. priv. sin fines de lucro","2.963651319","OECD"
-"POL","Polonia","2023","Empresas (Públicas y Privadas)","64.55442472","OECD"
-"GRC","Grecia","2023","Educación Superior","29.21944185","OECD"
-"SGP","Singapur","2022","Gobierno","22.30092656","OECD"
-"HUN","Hungría","2023","Empresas (Públicas y Privadas)","72.71842462","OECD"
-"AUT","Austria","2023","Educación Superior","23.09427871","OECD"
-"CHL","Chile","2022","Org. priv. sin fines de lucro","6.570795631","OECD"
-"USA","Estados Unidos","2023","Gobierno","7.934778741","OECD"
-"GRC","Grecia","2023","Empresas (Públicas y Privadas)","49.30435961","OECD"
-"ROU","Rumania","2023","Gobierno","26.49061379","OECD"
-"DNK","Dinamarca","2023","Educación Superior","35.42339037","OECD"
-"BEL","Bélgica","2023","Org. priv. sin fines de lucro","0.573125654","OECD"
-"ESP","España","2023","Empresas (Públicas y Privadas)","56.37272371","OECD"
-"OECD","Países miembros de OCDE","2023","Empresas (Públicas y Privadas)","73.55815394","OECD"
-"TUR","Turquía","2023","Educación Superior","29.99673689","OECD"
-"USA","Estados Unidos","2023","Empresas (Públicas y Privadas)","78.42269286","OECD"
-"LVA","Letonia","2006","Org. priv. sin fines de lucro","0","OECD"
-"NLD","Países Bajos","2002","Org. priv. sin fines de lucro","0.663084486","OECD"
-"POL","Polonia","2023","Gobierno","1.811222394","OECD"
-"FIN","Finlandia","2023","Org. priv. sin fines de lucro","0.646965424","OECD"
-"SVK","Eslovaquia","2023","Gobierno","17.81714104","OECD"
-"EST","Estonia","2023","Org. priv. sin fines de lucro","0.930297506","OECD"
-"AUT","Austria","2023","Org. priv. sin fines de lucro","0.500186131","OECD"
-"CAN","Canadá","2024","Empresas (Públicas y Privadas)","59.92612944","OECD"
-"SWE","Suecia","2023","Empresas (Públicas y Privadas)","74.28513367","OECD"
-"CHE","Suiza","2021","Org. priv. sin fines de lucro","2.610318168","OECD"
-"ARG","Argentina","2023","Org. priv. sin fines de lucro","1.54310375","OECD"
-"RUS","Rusia","2020","Org. priv. sin fines de lucro","0.727326567","OECD"
-"CHL","Chile","2022","Empresas (Públicas y Privadas)","42.02523074","OECD"
-"LUX","Luxemburgo","2023","Gobierno","26.4701198","OECD"
-"CHN","China","2023","Empresas (Públicas y Privadas)","77.71124093","OECD"
-"ESP","España","2023","Educación Superior","25.50883468","OECD"
-"ZAF","Sudáfrica","2022","Educación Superior","36.40861493","OECD"
-"TUR","Turquía","2023","Empresas (Públicas y Privadas)","65.14930156","OECD"
-"FIN","Finlandia","2023","Educación Superior","24.17825912","OECD"
-"DEU","Alemania","2023","Org. priv. sin fines de lucro","2.385129105","OECD"
-"EST","Estonia","2023","Gobierno","8.526199532","OECD"
-"JPN","Japón","2023","Gobierno","8.666252479","OECD"
-"AUS","Australia","2021","Org. priv. sin fines de lucro","3.74183892","OECD"
-"HRV","Croacia","2023","Org. priv. sin fines de lucro","0.14561027","OECD"
-"LVA","Letonia","2023","Gobierno","19.15281861","OECD"
-"ROU","Rumania","2023","Empresas (Públicas y Privadas)","61.6672779","OECD"
-"ZAF","Sudáfrica","2022","Gobierno","23.81166286","OECD"
-"FRA","Francia","2023","Educación Superior","20.96384283","OECD"
-"HUN","Hungría","2023","Educación Superior","15.76506132","OECD"
-"CHE","Suiza","2021","Empresas (Públicas y Privadas)","68.27227736","OECD"
-"ITA","Italia","2023","Gobierno","14.6832697","OECD"
-"TWN","Taiwán","2023","Educación Superior","6.320484843","OECD"
-"BEL","Bélgica","2023","Educación Superior","16.12916263","OECD"
-"FRA","Francia","2023","Empresas (Públicas y Privadas)","65.6403563","OECD"
-"KOR","Corea del Sur","2023","Empresas (Públicas y Privadas)","79.19178262","OECD"
-"AUT","Austria","2023","Empresas (Públicas y Privadas)","68.86548484","OECD"
-"SVK","Eslovaquia","2023","Empresas (Públicas y Privadas)","55.76352079","OECD"
-"ROU","Rumania","2023","Educación Superior","11.0395943","OECD"
-"BEL","Bélgica","2023","Empresas (Públicas y Privadas)","74.05611705","OECD"
-"JPN","Japón","2023","Org. priv. sin fines de lucro","1.119313316","OECD"
-"CHL","Chile","2022","Educación Superior","42.31171789","OECD"
-"ESP","España","2023","Org. priv. sin fines de lucro","0.279327131","OECD"
-"TWN","Taiwán","2023","Org. priv. sin fines de lucro","0.099105935","OECD"
-"AUS","Australia","2021","Empresas (Públicas y Privadas)","53.26701246","OECD"
-"LTU","Lituania","2023","Gobierno","15.21656529","OECD"
-"EU27_2020","Unión Europea (27 países)","2023","Org. priv. sin fines de lucro","1.419807645","OECD"
-"SGP","Singapur","2022","Empresas (Públicas y Privadas)","64.1569538","OECD"
-"SVN","Eslovenia","2023","Gobierno","16.36982104","OECD"
-"CZE","Chequia","2023","Org. priv. sin fines de lucro","0.955039121","OECD"
-"BEL","Bélgica","2023","Gobierno","9.241594648","OECD"
-"ESP","España","2023","Gobierno","17.83911447","OECD"
-"CHL","Chile","2022","Gobierno","9.092255732","OECD"
-"SVN","Eslovenia","2023","Empresas (Públicas y Privadas)","68.77128008","OECD"
-"ITA","Italia","2023","Empresas (Públicas y Privadas)","58.06556553","OECD"
-"CAN","Canadá","2024","Gobierno","5.998799148","OECD"
-"NZL","Nueva Zelandia","2021","Gobierno","17.12328767","OECD"
-"NZL","Nueva Zelandia","2021","Educación Superior","23.85844749","OECD"
-"RUS","Rusia","2020","Gobierno","32.82583574","OECD"
-"ARG","Argentina","2023","Gobierno","36.73852825","OECD"
-"IRL","Irlanda","2023","Educación Superior","11.36506915","OECD"
-"ZAF","Sudáfrica","2022","Empresas (Públicas y Privadas)","35.45358574","OECD"
-"ITA","Italia","2023","Educación Superior","25.38500029","OECD"
-"ISL","Islandia","2023","Empresas (Públicas y Privadas)","74.88770162","OECD"
-"LTU","Lituania","2023","Empresas (Públicas y Privadas)","41.43880161","OECD"
-"ISL","Islandia","2023","Educación Superior","22.74986624","OECD"
-"CAN","Canadá","2024","Educación Superior","33.59655028","OECD"
-"HRV","Croacia","2023","Educación Superior","28.13740734","OECD"
-"LTU","Lituania","2023","Org. priv. sin fines de lucro","0.456595349","OECD"
-"GRC","Grecia","2023","Org. priv. sin fines de lucro","0.498398468","OECD"
-"PRT","Portugal","2023","Gobierno","4.496915089","OECD"
-"OECD","Países miembros de OCDE","2023","Org. priv. sin fines de lucro","2.106421379","OECD"
-"AUS","Australia","2021","Gobierno","9.524915486","OECD"
-"ITA","Italia","2023","Org. priv. sin fines de lucro","1.866164479","OECD"
-"KOR","Corea del Sur","2023","Educación Superior","9.148493961","OECD"
-"NOR","Noruega","2023","Empresas (Públicas y Privadas)","56.83837745","OECD"
-"SWE","Suecia","2023","Org. priv. sin fines de lucro","0.191791319","OECD"
-"GBR","Reino Unido","2022","Empresas (Públicas y Privadas)","70.64204832","OECD"
-"CZE","Chequia","2023","Gobierno","15.57600759","OECD"
-"NLD","Países Bajos","2023","Gobierno","4.913058361","OECD"
-"PRT","Portugal","2023","Educación Superior","30.21636054","OECD"
-"NOR","Noruega","2023","Educación Superior","31.28667581","OECD"
-"JPN","Japón","2023","Empresas (Públicas y Privadas)","79.13853205","OECD"
-"DNK","Dinamarca","2023","Gobierno","3.066841709","OECD"
-"RUS","Rusia","2020","Empresas (Públicas y Privadas)","56.59886646","OECD"
-"TWN","Taiwán","2023","Gobierno","8.453400096","OECD"
-"POL","Polonia","2023","Educación Superior","33.42018724","OECD"
-"ROU","Rumania","2023","Org. priv. sin fines de lucro","0.802514008","OECD"
-"NZL","Nueva Zelandia","2021","Empresas (Públicas y Privadas)","59.01826484","OECD"
-"LUX","Luxemburgo","2023","Empresas (Públicas y Privadas)","46.30143346","OECD"
-"SVN","Eslovenia","2023","Org. priv. sin fines de lucro","1.076530746","OECD"
-"SVK","Eslovaquia","2023","Org. priv. sin fines de lucro","0.091169952","OECD"
-"ISR","Israel","2023","Gobierno","0.895249425","OECD"
-"KOR","Corea del Sur","2023","Gobierno","9.606404912","OECD"
-"GRC","Grecia","2023","Gobierno","20.97780007","OECD"
-"DEU","Alemania","2023","Gobierno","12.13338257","OECD"
-"SVN","Eslovenia","2023","Educación Superior","13.78236813","OECD"
-"NLD","Países Bajos","2023","Empresas (Públicas y Privadas)","69.98635426","OECD"
-"LVA","Letonia","2023","Educación Superior","44.57449012","OECD"
-"GBR","Reino Unido","2022","Org. priv. sin fines de lucro","1.216668942","OECD"
-"NLD","Países Bajos","2023","Educación Superior","25.10058738","OECD"
-"IRL","Irlanda","2023","Empresas (Públicas y Privadas)","86.11764887","OECD"
-"LVA","Letonia","2023","Empresas (Públicas y Privadas)","36.27269127","OECD"
-"ARG","Argentina","2023","Empresas (Públicas y Privadas)","42.06838418","OECD"
-"PRT","Portugal","2023","Empresas (Públicas y Privadas)","62.66139161","OECD"
-"CZE","Chequia","2023","Empresas (Públicas y Privadas)","64.71258053","OECD"
-"EU27_2020","Unión Europea (27 países)","2023","Gobierno","10.86748625","OECD"
-"SGP","Singapur","2022","Educación Superior","13.54211963","OECD"
-"DNK","Dinamarca","2023","Empresas (Públicas y Privadas)","61.24403868","OECD"
-"AUT","Austria","2023","Gobierno","7.540056738","OECD"
-"FIN","Finlandia","2023","Empresas (Públicas y Privadas)","67.57707894","OECD"
-"ISL","Islandia","2011","Org. priv. sin fines de lucro","2.751516209","OECD"
-"LTU","Lituania","2023","Educación Superior","42.88803776","OECD"
-"EST","Estonia","2023","Educación Superior","32.77987514","OECD"
-"ZAF","Sudáfrica","2022","Org. priv. sin fines de lucro","4.326136468","OECD"
-"SWE","Suecia","2023","Educación Superior","21.41448655","OECD"
-"USA","Estados Unidos","2023","Educación Superior","10.67877243","OECD"
-"ISR","Israel","2023","Empresas (Públicas y Privadas)","93.00716871","OECD"
-"DEU","Alemania","2023","Educación Superior","17.23063429","OECD"
-"CAN","Canadá","2024","Org. priv. sin fines de lucro","0.478521133","OECD"
-"ARG","Argentina","2023","Educación Superior","19.64998382","OECD"
-"RUS","Rusia","2020","Educación Superior","9.847971234","OECD"
-"ISR","Israel","2023","Educación Superior","5.502006676","OECD"
-"CHN","China","2023","Gobierno","14.03476887","OECD"
-"FIN","Finlandia","2023","Gobierno","7.597696519","OECD"
-"CHE","Suiza","2021","Educación Superior","28.17768423","OECD"
-"BGR","Bulgaria","2023","Empresas (Públicas y Privadas)","64.31024108","OECD"
-"JPN","Japón","2023","Educación Superior","11.07590215","OECD"
-"GBR","Reino Unido","2022","Gobierno","5.117984326","OECD"
-"HRV","Croacia","2023","Empresas (Públicas y Privadas)","54.52564477","OECD"
-"CHN","China","2023","Educación Superior","8.253990198","OECD"
-"HRV","Croacia","2023","Gobierno","17.19133762","OECD"
-"LCN","América Latina y el Caribe","2022","Educación Superior","41.19","RICYT"
-"LCN","América Latina y el Caribe","2022","Empresas (Públicas y Privadas)","31.23","RICYT"
-"LCN","América Latina y el Caribe","2022","Gobierno","26.59","RICYT"
-"LCN","América Latina y el Caribe","2022","Org. priv. sin fines de lucro","0.98","RICYT"
-"COL","Colombia","2022","Educación Superior","49.17","RICYT"
-"COL","Colombia","2022","Empresas (Públicas y Privadas)","44.02","RICYT"
-"COL","Colombia","2022","Gobierno","3.69","RICYT"
-"COL","Colombia","2022","Org. priv. sin fines de lucro","3.12","RICYT"
-"CRI","Costa Rica","2022","Educación Superior","47.55","RICYT"
-"CRI","Costa Rica","2022","Empresas (Públicas y Privadas)","29.73","RICYT"
-"CRI","Costa Rica","2022","Gobierno","22.61","RICYT"
-"CRI","Costa Rica","2022","Org. priv. sin fines de lucro","0.1","RICYT"
-"ECU","Ecuador","2022","Educación Superior","0","RICYT"
-"ECU","Ecuador","2022","Empresas (Públicas y Privadas)","0","RICYT"
-"ECU","Ecuador","2022","Gobierno","0","RICYT"
-"ECU","Ecuador","2022","Org. priv. sin fines de lucro","0","RICYT"
-"GTM","Guatemala","2022","Educación Superior","0","RICYT"
-"GTM","Guatemala","2022","Empresas (Públicas y Privadas)","0","RICYT"
-"GTM","Guatemala","2022","Gobierno","100","RICYT"
-"GTM","Guatemala","2022","Org. priv. sin fines de lucro","0","RICYT"
-"HND","Honduras","2022","Educación Superior","0","RICYT"
-"HND","Honduras","2022","Empresas (Públicas y Privadas)","0","RICYT"
-"HND","Honduras","2022","Gobierno","0","RICYT"
-"HND","Honduras","2022","Org. priv. sin fines de lucro","0","RICYT"
-"RICYT_IBE","Iberoamérica","2022","Educación Superior","35.7","RICYT"
-"RICYT_IBE","Iberoamérica","2022","Empresas (Públicas y Privadas)","41.4","RICYT"
-"RICYT_IBE","Iberoamérica","2022","Gobierno","22.02","RICYT"
-"RICYT_IBE","Iberoamérica","2022","Org. priv. sin fines de lucro","0.88","RICYT"
-"MEX","México","2022","Educación Superior","51.86","RICYT"
-"MEX","México","2022","Empresas (Públicas y Privadas)","20.1","RICYT"
-"MEX","México","2022","Gobierno","26.65","RICYT"
-"MEX","México","2022","Org. priv. sin fines de lucro","1.39","RICYT"
-"PAN","Panamá","2022","Educación Superior","24.38","RICYT"
-"PAN","Panamá","2022","Empresas (Públicas y Privadas)","1.94","RICYT"
-"PAN","Panamá","2022","Gobierno","67.01","RICYT"
-"PAN","Panamá","2022","Org. priv. sin fines de lucro","6.67","RICYT"
-"PRY","Paraguay","2022","Educación Superior","33.89","RICYT"
-"PRY","Paraguay","2022","Empresas (Públicas y Privadas)","0","RICYT"
-"PRY","Paraguay","2022","Gobierno","49.18","RICYT"
-"PRY","Paraguay","2022","Org. priv. sin fines de lucro","16.93","RICYT"
-"PER","Perú","2022","Educación Superior","0","RICYT"
-"PER","Perú","2022","Empresas (Públicas y Privadas)","30.03","RICYT"
-"PER","Perú","2022","Gobierno","69.97","RICYT"
-"PER","Perú","2022","Org. priv. sin fines de lucro","0","RICYT"
-"PRI","Puerto Rico","2022","Educación Superior","0","RICYT"
-"PRI","Puerto Rico","2022","Empresas (Públicas y Privadas)","0","RICYT"
-"PRI","Puerto Rico","2022","Gobierno","0","RICYT"
-"PRI","Puerto Rico","2022","Org. priv. sin fines de lucro","0","RICYT"
-"TTO","Trinidad y Tobago","2022","Educación Superior","11.03","RICYT"
-"TTO","Trinidad y Tobago","2022","Empresas (Públicas y Privadas)","0","RICYT"
-"TTO","Trinidad y Tobago","2022","Gobierno","88.97","RICYT"
-"TTO","Trinidad y Tobago","2022","Org. priv. sin fines de lucro","0","RICYT"
-"URY","Uruguay","2022","Educación Superior","29.1","RICYT"
-"URY","Uruguay","2022","Empresas (Públicas y Privadas)","46.94","RICYT"
-"URY","Uruguay","2022","Gobierno","23.69","RICYT"
-"URY","Uruguay","2022","Org. priv. sin fines de lucro","0.26","RICYT"
+iso3,pais_nombre,ultimo_anio_disponible,sector,valor,fuente,geocodigoFundar,geonombreFundar
+BGR,Bulgaria,2023,Gobierno,28.74409451,OECD,BGR,Bulgaria
+IRL,Irlanda,2023,Gobierno,2.21278991,OECD,IRL,Irlanda
+KOR,Corea del Sur,2023,Org. priv. sin fines de lucro,2.053318511,OECD,KOR,Corea del Sur
+LUX,Luxemburgo,2023,Educación Superior,27.22844673,OECD,LUX,Luxemburgo
+TUR,Turquía,2023,Gobierno,4.853961543,OECD,TUR,Turquía
+EU27_2020,Unión Europea (27 países),2023,Empresas (Públicas y Privadas),66.19878483,OECD,EU27_2020,Unión Europea (27 países)
+PRT,Portugal,2023,Org. priv. sin fines de lucro,2.625332762,OECD,PRT,Portugal
+DEU,Alemania,2023,Empresas (Públicas y Privadas),68.25085403,OECD,DEU,Alemania
+EU27_2020,Unión Europea (27 países),2023,Educación Superior,21.50810367,OECD,EU27_2020,Unión Europea (27 países)
+BGR,Bulgaria,2023,Org. priv. sin fines de lucro,0.450905661,OECD,BGR,Bulgaria
+NOR,Noruega,1987,Org. priv. sin fines de lucro,0.98013271,OECD,NOR,Noruega
+AUS,Australia,2021,Educación Superior,33.46494284,OECD,AUS,Australia
+NOR,Noruega,2023,Gobierno,11.87494674,OECD,NOR,Noruega
+FRA,Francia,2023,Gobierno,11.41366536,OECD,FRA,Francia
+CHE,Suiza,2021,Gobierno,0.939720237,OECD,CHE,Suiza
+TWN,Taiwán,2023,Empresas (Públicas y Privadas),85.12700913,OECD,TWN,Taiwán
+FRA,Francia,2023,Org. priv. sin fines de lucro,1.982135513,OECD,FRA,Francia
+OECD,Países miembros de OCDE,2023,Educación Superior,15.81166141,OECD,OECD,Países miembros de OCDE
+HUN,Hungría,2023,Gobierno,10.96765982,OECD,HUN,Hungría
+ISR,Israel,2023,Org. priv. sin fines de lucro,0.595575186,OECD,ISR,Israel
+NZL,Nueva Zelandia,1983,Org. priv. sin fines de lucro,2.53869969,OECD,NZL,Nueva Zelanda
+SWE,Suecia,2023,Gobierno,4.108588455,OECD,SWE,Suecia
+SVK,Eslovaquia,2023,Educación Superior,26.32816822,OECD,SVK,Eslovaquia
+POL,Polonia,2023,Org. priv. sin fines de lucro,0.214165653,OECD,POL,Polonia
+BGR,Bulgaria,2023,Educación Superior,6.494758741,OECD,BGR,Bulgaria
+ISL,Islandia,2023,Gobierno,2.362432138,OECD,ISL,Islandia
+DNK,Dinamarca,2023,Org. priv. sin fines de lucro,0.265728936,OECD,DNK,Dinamarca
+OECD,Países miembros de OCDE,2023,Gobierno,8.522220156,OECD,OECD,Países miembros de OCDE
+CZE,Chequia,2023,Educación Superior,18.75637275,OECD,CZE,Chequia
+GBR,Reino Unido,2022,Educación Superior,23.02329841,OECD,GBR,Reino Unido
+IRL,Irlanda,2023,Org. priv. sin fines de lucro,0.304492068,OECD,IRL,Irlanda
+EST,Estonia,2023,Empresas (Públicas y Privadas),57.76362782,OECD,EST,Estonia
+USA,Estados Unidos,2023,Org. priv. sin fines de lucro,2.963651319,OECD,USA,Estados Unidos
+POL,Polonia,2023,Empresas (Públicas y Privadas),64.55442472,OECD,POL,Polonia
+GRC,Grecia,2023,Educación Superior,29.21944185,OECD,GRC,Grecia
+SGP,Singapur,2022,Gobierno,22.30092656,OECD,SGP,Singapur
+HUN,Hungría,2023,Empresas (Públicas y Privadas),72.71842462,OECD,HUN,Hungría
+AUT,Austria,2023,Educación Superior,23.09427871,OECD,AUT,Austria
+CHL,Chile,2022,Org. priv. sin fines de lucro,6.570795631,OECD,CHL,Chile
+USA,Estados Unidos,2023,Gobierno,7.934778741,OECD,USA,Estados Unidos
+GRC,Grecia,2023,Empresas (Públicas y Privadas),49.30435961,OECD,GRC,Grecia
+ROU,Rumania,2023,Gobierno,26.49061379,OECD,ROU,Rumania
+DNK,Dinamarca,2023,Educación Superior,35.42339037,OECD,DNK,Dinamarca
+BEL,Bélgica,2023,Org. priv. sin fines de lucro,0.573125654,OECD,BEL,Bélgica
+ESP,España,2023,Empresas (Públicas y Privadas),56.37272371,OECD,ESP,España
+OECD,Países miembros de OCDE,2023,Empresas (Públicas y Privadas),73.55815394,OECD,OECD,Países miembros de OCDE
+TUR,Turquía,2023,Educación Superior,29.99673689,OECD,TUR,Turquía
+USA,Estados Unidos,2023,Empresas (Públicas y Privadas),78.42269286,OECD,USA,Estados Unidos
+LVA,Letonia,2006,Org. priv. sin fines de lucro,0.0,OECD,LVA,Letonia
+NLD,Países Bajos,2002,Org. priv. sin fines de lucro,0.663084486,OECD,NLD,Países Bajos
+POL,Polonia,2023,Gobierno,1.811222394,OECD,POL,Polonia
+FIN,Finlandia,2023,Org. priv. sin fines de lucro,0.646965424,OECD,FIN,Finlandia
+SVK,Eslovaquia,2023,Gobierno,17.81714104,OECD,SVK,Eslovaquia
+EST,Estonia,2023,Org. priv. sin fines de lucro,0.930297506,OECD,EST,Estonia
+AUT,Austria,2023,Org. priv. sin fines de lucro,0.500186131,OECD,AUT,Austria
+CAN,Canadá,2024,Empresas (Públicas y Privadas),59.92612944,OECD,CAN,Canadá
+SWE,Suecia,2023,Empresas (Públicas y Privadas),74.28513367,OECD,SWE,Suecia
+CHE,Suiza,2021,Org. priv. sin fines de lucro,2.610318168,OECD,CHE,Suiza
+ARG,Argentina,2023,Org. priv. sin fines de lucro,1.54310375,OECD,ARG,Argentina
+RUS,Rusia,2020,Org. priv. sin fines de lucro,0.727326567,OECD,RUS,Rusia
+CHL,Chile,2022,Empresas (Públicas y Privadas),42.02523074,OECD,CHL,Chile
+LUX,Luxemburgo,2023,Gobierno,26.4701198,OECD,LUX,Luxemburgo
+CHN,China,2023,Empresas (Públicas y Privadas),77.71124093,OECD,CHN,China
+ESP,España,2023,Educación Superior,25.50883468,OECD,ESP,España
+ZAF,Sudáfrica,2022,Educación Superior,36.40861493,OECD,ZAF,Sudáfrica
+TUR,Turquía,2023,Empresas (Públicas y Privadas),65.14930156,OECD,TUR,Turquía
+FIN,Finlandia,2023,Educación Superior,24.17825912,OECD,FIN,Finlandia
+DEU,Alemania,2023,Org. priv. sin fines de lucro,2.385129105,OECD,DEU,Alemania
+EST,Estonia,2023,Gobierno,8.526199532,OECD,EST,Estonia
+JPN,Japón,2023,Gobierno,8.666252479,OECD,JPN,Japón
+AUS,Australia,2021,Org. priv. sin fines de lucro,3.74183892,OECD,AUS,Australia
+HRV,Croacia,2023,Org. priv. sin fines de lucro,0.14561027,OECD,HRV,Croacia
+LVA,Letonia,2023,Gobierno,19.15281861,OECD,LVA,Letonia
+ROU,Rumania,2023,Empresas (Públicas y Privadas),61.6672779,OECD,ROU,Rumania
+ZAF,Sudáfrica,2022,Gobierno,23.81166286,OECD,ZAF,Sudáfrica
+FRA,Francia,2023,Educación Superior,20.96384283,OECD,FRA,Francia
+HUN,Hungría,2023,Educación Superior,15.76506132,OECD,HUN,Hungría
+CHE,Suiza,2021,Empresas (Públicas y Privadas),68.27227736,OECD,CHE,Suiza
+ITA,Italia,2023,Gobierno,14.6832697,OECD,ITA,Italia
+TWN,Taiwán,2023,Educación Superior,6.320484843,OECD,TWN,Taiwán
+BEL,Bélgica,2023,Educación Superior,16.12916263,OECD,BEL,Bélgica
+FRA,Francia,2023,Empresas (Públicas y Privadas),65.6403563,OECD,FRA,Francia
+KOR,Corea del Sur,2023,Empresas (Públicas y Privadas),79.19178262,OECD,KOR,Corea del Sur
+AUT,Austria,2023,Empresas (Públicas y Privadas),68.86548484,OECD,AUT,Austria
+SVK,Eslovaquia,2023,Empresas (Públicas y Privadas),55.76352079,OECD,SVK,Eslovaquia
+ROU,Rumania,2023,Educación Superior,11.0395943,OECD,ROU,Rumania
+BEL,Bélgica,2023,Empresas (Públicas y Privadas),74.05611705,OECD,BEL,Bélgica
+JPN,Japón,2023,Org. priv. sin fines de lucro,1.119313316,OECD,JPN,Japón
+CHL,Chile,2022,Educación Superior,42.31171789,OECD,CHL,Chile
+ESP,España,2023,Org. priv. sin fines de lucro,0.279327131,OECD,ESP,España
+TWN,Taiwán,2023,Org. priv. sin fines de lucro,0.099105935,OECD,TWN,Taiwán
+AUS,Australia,2021,Empresas (Públicas y Privadas),53.26701246,OECD,AUS,Australia
+LTU,Lituania,2023,Gobierno,15.21656529,OECD,LTU,Lituania
+EU27_2020,Unión Europea (27 países),2023,Org. priv. sin fines de lucro,1.419807645,OECD,EU27_2020,Unión Europea (27 países)
+SGP,Singapur,2022,Empresas (Públicas y Privadas),64.1569538,OECD,SGP,Singapur
+SVN,Eslovenia,2023,Gobierno,16.36982104,OECD,SVN,Eslovenia
+CZE,Chequia,2023,Org. priv. sin fines de lucro,0.955039121,OECD,CZE,Chequia
+BEL,Bélgica,2023,Gobierno,9.241594648,OECD,BEL,Bélgica
+ESP,España,2023,Gobierno,17.83911447,OECD,ESP,España
+CHL,Chile,2022,Gobierno,9.092255732,OECD,CHL,Chile
+SVN,Eslovenia,2023,Empresas (Públicas y Privadas),68.77128008,OECD,SVN,Eslovenia
+ITA,Italia,2023,Empresas (Públicas y Privadas),58.06556553,OECD,ITA,Italia
+CAN,Canadá,2024,Gobierno,5.998799148,OECD,CAN,Canadá
+NZL,Nueva Zelandia,2021,Gobierno,17.12328767,OECD,NZL,Nueva Zelanda
+NZL,Nueva Zelandia,2021,Educación Superior,23.85844749,OECD,NZL,Nueva Zelanda
+RUS,Rusia,2020,Gobierno,32.82583574,OECD,RUS,Rusia
+ARG,Argentina,2023,Gobierno,36.73852825,OECD,ARG,Argentina
+IRL,Irlanda,2023,Educación Superior,11.36506915,OECD,IRL,Irlanda
+ZAF,Sudáfrica,2022,Empresas (Públicas y Privadas),35.45358574,OECD,ZAF,Sudáfrica
+ITA,Italia,2023,Educación Superior,25.38500029,OECD,ITA,Italia
+ISL,Islandia,2023,Empresas (Públicas y Privadas),74.88770162,OECD,ISL,Islandia
+LTU,Lituania,2023,Empresas (Públicas y Privadas),41.43880161,OECD,LTU,Lituania
+ISL,Islandia,2023,Educación Superior,22.74986624,OECD,ISL,Islandia
+CAN,Canadá,2024,Educación Superior,33.59655028,OECD,CAN,Canadá
+HRV,Croacia,2023,Educación Superior,28.13740734,OECD,HRV,Croacia
+LTU,Lituania,2023,Org. priv. sin fines de lucro,0.456595349,OECD,LTU,Lituania
+GRC,Grecia,2023,Org. priv. sin fines de lucro,0.498398468,OECD,GRC,Grecia
+PRT,Portugal,2023,Gobierno,4.496915089,OECD,PRT,Portugal
+OECD,Países miembros de OCDE,2023,Org. priv. sin fines de lucro,2.106421379,OECD,OECD,Países miembros de OCDE
+AUS,Australia,2021,Gobierno,9.524915486,OECD,AUS,Australia
+ITA,Italia,2023,Org. priv. sin fines de lucro,1.866164479,OECD,ITA,Italia
+KOR,Corea del Sur,2023,Educación Superior,9.148493961,OECD,KOR,Corea del Sur
+NOR,Noruega,2023,Empresas (Públicas y Privadas),56.83837745,OECD,NOR,Noruega
+SWE,Suecia,2023,Org. priv. sin fines de lucro,0.191791319,OECD,SWE,Suecia
+GBR,Reino Unido,2022,Empresas (Públicas y Privadas),70.64204832,OECD,GBR,Reino Unido
+CZE,Chequia,2023,Gobierno,15.57600759,OECD,CZE,Chequia
+NLD,Países Bajos,2023,Gobierno,4.913058361,OECD,NLD,Países Bajos
+PRT,Portugal,2023,Educación Superior,30.21636054,OECD,PRT,Portugal
+NOR,Noruega,2023,Educación Superior,31.28667581,OECD,NOR,Noruega
+JPN,Japón,2023,Empresas (Públicas y Privadas),79.13853205,OECD,JPN,Japón
+DNK,Dinamarca,2023,Gobierno,3.066841709,OECD,DNK,Dinamarca
+RUS,Rusia,2020,Empresas (Públicas y Privadas),56.59886646,OECD,RUS,Rusia
+TWN,Taiwán,2023,Gobierno,8.453400096,OECD,TWN,Taiwán
+POL,Polonia,2023,Educación Superior,33.42018724,OECD,POL,Polonia
+ROU,Rumania,2023,Org. priv. sin fines de lucro,0.802514008,OECD,ROU,Rumania
+NZL,Nueva Zelandia,2021,Empresas (Públicas y Privadas),59.01826484,OECD,NZL,Nueva Zelanda
+LUX,Luxemburgo,2023,Empresas (Públicas y Privadas),46.30143346,OECD,LUX,Luxemburgo
+SVN,Eslovenia,2023,Org. priv. sin fines de lucro,1.076530746,OECD,SVN,Eslovenia
+SVK,Eslovaquia,2023,Org. priv. sin fines de lucro,0.091169952,OECD,SVK,Eslovaquia
+ISR,Israel,2023,Gobierno,0.895249425,OECD,ISR,Israel
+KOR,Corea del Sur,2023,Gobierno,9.606404912,OECD,KOR,Corea del Sur
+GRC,Grecia,2023,Gobierno,20.97780007,OECD,GRC,Grecia
+DEU,Alemania,2023,Gobierno,12.13338257,OECD,DEU,Alemania
+SVN,Eslovenia,2023,Educación Superior,13.78236813,OECD,SVN,Eslovenia
+NLD,Países Bajos,2023,Empresas (Públicas y Privadas),69.98635426,OECD,NLD,Países Bajos
+LVA,Letonia,2023,Educación Superior,44.57449012,OECD,LVA,Letonia
+GBR,Reino Unido,2022,Org. priv. sin fines de lucro,1.216668942,OECD,GBR,Reino Unido
+NLD,Países Bajos,2023,Educación Superior,25.10058738,OECD,NLD,Países Bajos
+IRL,Irlanda,2023,Empresas (Públicas y Privadas),86.11764887,OECD,IRL,Irlanda
+LVA,Letonia,2023,Empresas (Públicas y Privadas),36.27269127,OECD,LVA,Letonia
+ARG,Argentina,2023,Empresas (Públicas y Privadas),42.06838418,OECD,ARG,Argentina
+PRT,Portugal,2023,Empresas (Públicas y Privadas),62.66139161,OECD,PRT,Portugal
+CZE,Chequia,2023,Empresas (Públicas y Privadas),64.71258053,OECD,CZE,Chequia
+EU27_2020,Unión Europea (27 países),2023,Gobierno,10.86748625,OECD,EU27_2020,Unión Europea (27 países)
+SGP,Singapur,2022,Educación Superior,13.54211963,OECD,SGP,Singapur
+DNK,Dinamarca,2023,Empresas (Públicas y Privadas),61.24403868,OECD,DNK,Dinamarca
+AUT,Austria,2023,Gobierno,7.540056738,OECD,AUT,Austria
+FIN,Finlandia,2023,Empresas (Públicas y Privadas),67.57707894,OECD,FIN,Finlandia
+ISL,Islandia,2011,Org. priv. sin fines de lucro,2.751516209,OECD,ISL,Islandia
+LTU,Lituania,2023,Educación Superior,42.88803776,OECD,LTU,Lituania
+EST,Estonia,2023,Educación Superior,32.77987514,OECD,EST,Estonia
+ZAF,Sudáfrica,2022,Org. priv. sin fines de lucro,4.326136468,OECD,ZAF,Sudáfrica
+SWE,Suecia,2023,Educación Superior,21.41448655,OECD,SWE,Suecia
+USA,Estados Unidos,2023,Educación Superior,10.67877243,OECD,USA,Estados Unidos
+ISR,Israel,2023,Empresas (Públicas y Privadas),93.00716871,OECD,ISR,Israel
+DEU,Alemania,2023,Educación Superior,17.23063429,OECD,DEU,Alemania
+CAN,Canadá,2024,Org. priv. sin fines de lucro,0.478521133,OECD,CAN,Canadá
+ARG,Argentina,2023,Educación Superior,19.64998382,OECD,ARG,Argentina
+RUS,Rusia,2020,Educación Superior,9.847971234,OECD,RUS,Rusia
+ISR,Israel,2023,Educación Superior,5.502006676,OECD,ISR,Israel
+CHN,China,2023,Gobierno,14.03476887,OECD,CHN,China
+FIN,Finlandia,2023,Gobierno,7.597696519,OECD,FIN,Finlandia
+CHE,Suiza,2021,Educación Superior,28.17768423,OECD,CHE,Suiza
+BGR,Bulgaria,2023,Empresas (Públicas y Privadas),64.31024108,OECD,BGR,Bulgaria
+JPN,Japón,2023,Educación Superior,11.07590215,OECD,JPN,Japón
+GBR,Reino Unido,2022,Gobierno,5.117984326,OECD,GBR,Reino Unido
+HRV,Croacia,2023,Empresas (Públicas y Privadas),54.52564477,OECD,HRV,Croacia
+CHN,China,2023,Educación Superior,8.253990198,OECD,CHN,China
+HRV,Croacia,2023,Gobierno,17.19133762,OECD,HRV,Croacia
+LCN,América Latina y el Caribe,2022,Educación Superior,41.19,RICYT,LCN,América Latina y el Caribe
+LCN,América Latina y el Caribe,2022,Empresas (Públicas y Privadas),31.23,RICYT,LCN,América Latina y el Caribe
+LCN,América Latina y el Caribe,2022,Gobierno,26.59,RICYT,LCN,América Latina y el Caribe
+LCN,América Latina y el Caribe,2022,Org. priv. sin fines de lucro,0.98,RICYT,LCN,América Latina y el Caribe
+COL,Colombia,2022,Educación Superior,49.17,RICYT,COL,Colombia
+COL,Colombia,2022,Empresas (Públicas y Privadas),44.02,RICYT,COL,Colombia
+COL,Colombia,2022,Gobierno,3.69,RICYT,COL,Colombia
+COL,Colombia,2022,Org. priv. sin fines de lucro,3.12,RICYT,COL,Colombia
+CRI,Costa Rica,2022,Educación Superior,47.55,RICYT,CRI,Costa Rica
+CRI,Costa Rica,2022,Empresas (Públicas y Privadas),29.73,RICYT,CRI,Costa Rica
+CRI,Costa Rica,2022,Gobierno,22.61,RICYT,CRI,Costa Rica
+CRI,Costa Rica,2022,Org. priv. sin fines de lucro,0.1,RICYT,CRI,Costa Rica
+ECU,Ecuador,2022,Educación Superior,0.0,RICYT,ECU,Ecuador
+ECU,Ecuador,2022,Empresas (Públicas y Privadas),0.0,RICYT,ECU,Ecuador
+ECU,Ecuador,2022,Gobierno,0.0,RICYT,ECU,Ecuador
+ECU,Ecuador,2022,Org. priv. sin fines de lucro,0.0,RICYT,ECU,Ecuador
+GTM,Guatemala,2022,Educación Superior,0.0,RICYT,GTM,Guatemala
+GTM,Guatemala,2022,Empresas (Públicas y Privadas),0.0,RICYT,GTM,Guatemala
+GTM,Guatemala,2022,Gobierno,100.0,RICYT,GTM,Guatemala
+GTM,Guatemala,2022,Org. priv. sin fines de lucro,0.0,RICYT,GTM,Guatemala
+HND,Honduras,2022,Educación Superior,0.0,RICYT,HND,Honduras
+HND,Honduras,2022,Empresas (Públicas y Privadas),0.0,RICYT,HND,Honduras
+HND,Honduras,2022,Gobierno,0.0,RICYT,HND,Honduras
+HND,Honduras,2022,Org. priv. sin fines de lucro,0.0,RICYT,HND,Honduras
+RICYT_IBE,Iberoamérica,2022,Educación Superior,35.7,RICYT,,
+RICYT_IBE,Iberoamérica,2022,Empresas (Públicas y Privadas),41.4,RICYT,,
+RICYT_IBE,Iberoamérica,2022,Gobierno,22.02,RICYT,,
+RICYT_IBE,Iberoamérica,2022,Org. priv. sin fines de lucro,0.88,RICYT,,
+MEX,México,2022,Educación Superior,51.86,RICYT,MEX,México
+MEX,México,2022,Empresas (Públicas y Privadas),20.1,RICYT,MEX,México
+MEX,México,2022,Gobierno,26.65,RICYT,MEX,México
+MEX,México,2022,Org. priv. sin fines de lucro,1.39,RICYT,MEX,México
+PAN,Panamá,2022,Educación Superior,24.38,RICYT,PAN,Panamá
+PAN,Panamá,2022,Empresas (Públicas y Privadas),1.94,RICYT,PAN,Panamá
+PAN,Panamá,2022,Gobierno,67.01,RICYT,PAN,Panamá
+PAN,Panamá,2022,Org. priv. sin fines de lucro,6.67,RICYT,PAN,Panamá
+PRY,Paraguay,2022,Educación Superior,33.89,RICYT,PRY,Paraguay
+PRY,Paraguay,2022,Empresas (Públicas y Privadas),0.0,RICYT,PRY,Paraguay
+PRY,Paraguay,2022,Gobierno,49.18,RICYT,PRY,Paraguay
+PRY,Paraguay,2022,Org. priv. sin fines de lucro,16.93,RICYT,PRY,Paraguay
+PER,Perú,2022,Educación Superior,0.0,RICYT,PER,Perú
+PER,Perú,2022,Empresas (Públicas y Privadas),30.03,RICYT,PER,Perú
+PER,Perú,2022,Gobierno,69.97,RICYT,PER,Perú
+PER,Perú,2022,Org. priv. sin fines de lucro,0.0,RICYT,PER,Perú
+PRI,Puerto Rico,2022,Educación Superior,0.0,RICYT,PRI,Puerto Rico
+PRI,Puerto Rico,2022,Empresas (Públicas y Privadas),0.0,RICYT,PRI,Puerto Rico
+PRI,Puerto Rico,2022,Gobierno,0.0,RICYT,PRI,Puerto Rico
+PRI,Puerto Rico,2022,Org. priv. sin fines de lucro,0.0,RICYT,PRI,Puerto Rico
+TTO,Trinidad y Tobago,2022,Educación Superior,11.03,RICYT,TTO,Trinidad y Tobago
+TTO,Trinidad y Tobago,2022,Empresas (Públicas y Privadas),0.0,RICYT,TTO,Trinidad y Tobago
+TTO,Trinidad y Tobago,2022,Gobierno,88.97,RICYT,TTO,Trinidad y Tobago
+TTO,Trinidad y Tobago,2022,Org. priv. sin fines de lucro,0.0,RICYT,TTO,Trinidad y Tobago
+URY,Uruguay,2022,Educación Superior,29.1,RICYT,URY,Uruguay
+URY,Uruguay,2022,Empresas (Públicas y Privadas),46.94,RICYT,URY,Uruguay
+URY,Uruguay,2022,Gobierno,23.69,RICYT,URY,Uruguay
+URY,Uruguay,2022,Org. priv. sin fines de lucro,0.26,RICYT,URY,Uruguay

@@ -1,86 +1,86 @@
-"iso3","pais_desc","continente_fundar","anios_observados","share_trabajo_no_remun"
-"ALB","Albania","Europa","2010 - 2011","0.85792349726776"
-"DZA","Argelia","África","2012 - 2012","0.852459016393443"
-"ARG","Argentina","América del Sur","2021 - 2021","0.663316582914573"
-"ARM","Armenia","Asia","2008 - 2008","0.832"
-"AZE","Azerbaiyán","Asia","2012 - 2012","0.731006160164271"
-"AUS","Australia","Oceanía","2006 - 2006","0.643892339544513"
-"AUT","Austria","Europa","2008 - 2009","0.648192771084337"
-"BLR","Belarús","Europa","2014 - 2015","0.658371040723982"
-"BGD","Bangladesh","Asia","2021 - 2021","0.870491406439119"
-"BEL","Bélgica","Europa","2013 - 2013","0.61849710982659"
-"BEN","Benin","África","2015 - 2015","0.840304182509506"
-"BRA","Brasil","América del Sur","2017 - 2017","0.692622950819672"
-"BGR","Bulgaria","Europa","2009 - 2010","0.645021645021645"
-"BFA","Burkina Faso","África","2018 - 2018","0.896713615023474"
-"KHM","Camboya","Asia","2004 - 2004","0.912621359223301"
-"CMR","Camerún","África","2014 - 2014","0.741258741258741"
-"CAN","Canadá","América del Norte, Central y el Caribe","2015 - 2015","0.590163934426229"
-"CPV","Cabo Verde","África","2012 - 2012","0.665760869565217"
-"CHN","China","Asia","2018 - 2018","0.708588957055215"
-"COL","Colombia","América del Sur","2016 - 2017","0.775641025641026"
-"CRI","Costa Rica","América del Norte, Central y el Caribe","2017 - 2017","0.696230598669623"
-"CUB","Cuba","América del Norte, Central y el Caribe","2016 - 2016","0.622568093385214"
-"DNK","Dinamarca","Europa","2001 - 2001","0.566433566433566"
-"DOM","República Dominicana","América del Norte, Central y el Caribe","2016 - 2016","0.8125"
-"ECU","Ecuador","América del Sur","2012 - 2012","0.777777777777778"
-"SLV","El Salvador","América del Norte, Central y el Caribe","2010 - 2010","0.841328413284133"
-"EST","Estonia","Europa","2009 - 2010","0.606976744186047"
-"ETH","Etiopía","África","2013 - 2013","0.699519230769231"
-"FIN","Finlandia","Europa","2009 - 2009","0.602857142857143"
-"FRA","Francia","Europa","2010 - 2010","0.612565445026178"
-"GEO","Georgia","Asia","2021 - 2021","0.811320754716981"
-"DEU","Alemania","Europa","2012 - 2013","0.581218274111675"
-"GHA","Ghana","África","2009 - 2009","0.763888888888889"
-"GRC","Grecia","Europa","2013 - 2014","0.721354166666667"
-"HUN","Hungría","Europa","2009 - 2010","0.648351648351648"
-"IND","India","Asia","2019 - 2019","0.878504672897196"
-"IRN","Irán","Asia","2009 - 2009","0.799479166666667"
-"IRQ","Iraq","Asia","2007 - 2007","0.860349127182045"
-"IRL","Irlanda","Europa","2005 - 2005","0.689156626506024"
-"ITA","Italia","Europa","2013 - 2014","0.695"
-"JPN","Japón","Asia","2016 - 2016","0.815384615384615"
-"KAZ","Kazajstán","Asia","2012 - 2012","0.689075630252101"
-"KEN","Kenia","África","2021 - 2021","0.820058997050148"
-"KOR","Corea del Sur","Asia","2014 - 2014","0.810344827586207"
-"KGZ","Kirguistán","Asia","2015 - 2015","0.725247524752475"
-"LVA","Letonia","Europa","2003 - 2003","0.646310432569975"
-"LTU","Lituania","Europa","2003 - 2003","0.635761589403974"
-"LUX","Luxemburgo","Europa","2014 - 2014","0.660526315789474"
-"MKD","Macedonia del Norte","Europa","2014 - 2015","0.724919093851133"
-"MDG","Madagascar","África","2001 - 2001","0.813186813186813"
-"MLI","Malí","África","2008 - 2008","0.912587412587413"
-"MUS","Mauricio","África","2017 - 2018","0.721311475409836"
-"MEX","México","América del Norte, Central y el Caribe","2014 - 2014","0.743409490333919"
-"MDA","Moldavia","Europa","2011 - 2012","0.622641509433962"
-"MNG","Mongolia","Asia","2011 - 2011","0.675990675990676"
-"MAR","Marruecos","África","2011 - 2012","0.866096866096866"
-"NLD","Países Bajos","Europa","2005 - 2006","0.656330749354005"
-"NZL","Nueva Zelanda","Oceanía","2009 - 2010","0.63659793814433"
-"NOR","Noruega","Europa","2010 - 2010","0.560975609756098"
-"OMN","Omán","Asia","2007 - 2008","0.704370179948586"
-"PAK","Pakistán","Asia","2007 - 2007","0.911111111111111"
-"PSE","Palestina","Asia","2012 - 2013","0.841954022988506"
-"PAN","Panamá","América del Norte, Central y el Caribe","2011 - 2011","0.701631701631702"
-"PRY","Paraguay","América del Sur","2016 - 2016","0.76978417266187"
-"PER","Perú","América del Sur","2010 - 2010","0.713684210526316"
-"POL","Polonia","Europa","2013 - 2013","0.643652561247216"
-"PRT","Portugal","Europa","1999 - 1999","0.796833773087071"
-"QAT","Qatar","Asia","2012 - 2013","0.644012944983819"
-"ROU","Rumania","Europa","2011 - 2012","0.67866323907455"
-"RUS","Rusia","Europa","2019 - 2019","0.694148936170213"
-"SEN","Senegal","África","2021 - 2021","0.867924528301887"
-"SRB","Serbia","Europa","2010 - 2011","0.670378619153675"
-"SVN","Eslovenia","Europa","2000 - 2001","0.632743362831858"
-"ZAF","Sudáfrica","África","2010 - 2010","0.700305810397553"
-"ESP","España","Europa","2009 - 2010","0.676092544987147"
-"SWE","Suecia","Europa","2010 - 2011","0.552995391705069"
-"TWN","Taiwán","Asia","2004 - 2004","0.803827751196172"
-"TZA","Tanzanía","África","2017 - 2018","0.705882352941177"
-"THA","Tailandia","Asia","2014 - 2014","0.755458515283843"
-"TUN","Túnez","África","2005 - 2006","0.857894736842105"
-"TUR","Turquía","Europa","2014 - 2015","0.783715012722646"
-"UGA","Uganda","África","2017 - 2018","0.615384615384615"
-"GBR","Reino Unido","Europa","2005 - 2005","0.639118457300275"
-"URY","Uruguay","América del Sur","2013 - 2013","0.699095022624434"
-"USA","Estados Unidos","América del Norte, Central y el Caribe","2017 - 2017","0.608374384236453"
+iso3,pais_desc,continente_fundar,anios_observados,share_trabajo_no_remun,geocodigoFundar,geonombreFundar
+ALB,Albania,Europa,2010 - 2011,0.85792349726776,ALB,Albania
+DZA,Argelia,África,2012 - 2012,0.852459016393443,DZA,Argelia
+ARG,Argentina,América del Sur,2021 - 2021,0.663316582914573,ARG,Argentina
+ARM,Armenia,Asia,2008 - 2008,0.832,ARM,Armenia
+AZE,Azerbaiyán,Asia,2012 - 2012,0.731006160164271,AZE,Azerbaiyán
+AUS,Australia,Oceanía,2006 - 2006,0.643892339544513,AUS,Australia
+AUT,Austria,Europa,2008 - 2009,0.648192771084337,AUT,Austria
+BLR,Belarús,Europa,2014 - 2015,0.658371040723982,BLR,Belarús
+BGD,Bangladesh,Asia,2021 - 2021,0.870491406439119,BGD,Bangladesh
+BEL,Bélgica,Europa,2013 - 2013,0.61849710982659,BEL,Bélgica
+BEN,Benin,África,2015 - 2015,0.840304182509506,BEN,Benin
+BRA,Brasil,América del Sur,2017 - 2017,0.692622950819672,BRA,Brasil
+BGR,Bulgaria,Europa,2009 - 2010,0.645021645021645,BGR,Bulgaria
+BFA,Burkina Faso,África,2018 - 2018,0.896713615023474,BFA,Burkina Faso
+KHM,Camboya,Asia,2004 - 2004,0.912621359223301,KHM,Camboya
+CMR,Camerún,África,2014 - 2014,0.741258741258741,CMR,Camerún
+CAN,Canadá,"América del Norte, Central y el Caribe",2015 - 2015,0.590163934426229,CAN,Canadá
+CPV,Cabo Verde,África,2012 - 2012,0.665760869565217,CPV,Cabo Verde
+CHN,China,Asia,2018 - 2018,0.708588957055215,CHN,China
+COL,Colombia,América del Sur,2016 - 2017,0.775641025641026,COL,Colombia
+CRI,Costa Rica,"América del Norte, Central y el Caribe",2017 - 2017,0.696230598669623,CRI,Costa Rica
+CUB,Cuba,"América del Norte, Central y el Caribe",2016 - 2016,0.622568093385214,CUB,Cuba
+DNK,Dinamarca,Europa,2001 - 2001,0.566433566433566,DNK,Dinamarca
+DOM,República Dominicana,"América del Norte, Central y el Caribe",2016 - 2016,0.8125,DOM,Rep. Dominicana
+ECU,Ecuador,América del Sur,2012 - 2012,0.777777777777778,ECU,Ecuador
+SLV,El Salvador,"América del Norte, Central y el Caribe",2010 - 2010,0.841328413284133,SLV,El Salvador
+EST,Estonia,Europa,2009 - 2010,0.606976744186047,EST,Estonia
+ETH,Etiopía,África,2013 - 2013,0.699519230769231,ETH,Etiopía
+FIN,Finlandia,Europa,2009 - 2009,0.602857142857143,FIN,Finlandia
+FRA,Francia,Europa,2010 - 2010,0.612565445026178,FRA,Francia
+GEO,Georgia,Asia,2021 - 2021,0.811320754716981,GEO,Georgia
+DEU,Alemania,Europa,2012 - 2013,0.581218274111675,DEU,Alemania
+GHA,Ghana,África,2009 - 2009,0.763888888888889,GHA,Ghana
+GRC,Grecia,Europa,2013 - 2014,0.721354166666667,GRC,Grecia
+HUN,Hungría,Europa,2009 - 2010,0.648351648351648,HUN,Hungría
+IND,India,Asia,2019 - 2019,0.878504672897196,IND,India
+IRN,Irán,Asia,2009 - 2009,0.799479166666667,IRN,Irán
+IRQ,Iraq,Asia,2007 - 2007,0.860349127182045,IRQ,Iraq
+IRL,Irlanda,Europa,2005 - 2005,0.689156626506024,IRL,Irlanda
+ITA,Italia,Europa,2013 - 2014,0.695,ITA,Italia
+JPN,Japón,Asia,2016 - 2016,0.815384615384615,JPN,Japón
+KAZ,Kazajstán,Asia,2012 - 2012,0.689075630252101,KAZ,Kazajstán
+KEN,Kenia,África,2021 - 2021,0.820058997050148,KEN,Kenia
+KOR,Corea del Sur,Asia,2014 - 2014,0.810344827586207,KOR,Corea del Sur
+KGZ,Kirguistán,Asia,2015 - 2015,0.725247524752475,KGZ,Kirguistán
+LVA,Letonia,Europa,2003 - 2003,0.646310432569975,LVA,Letonia
+LTU,Lituania,Europa,2003 - 2003,0.635761589403974,LTU,Lituania
+LUX,Luxemburgo,Europa,2014 - 2014,0.660526315789474,LUX,Luxemburgo
+MKD,Macedonia del Norte,Europa,2014 - 2015,0.724919093851133,MKD,Macedonia del Norte
+MDG,Madagascar,África,2001 - 2001,0.813186813186813,MDG,Madagascar
+MLI,Malí,África,2008 - 2008,0.912587412587413,MLI,Malí
+MUS,Mauricio,África,2017 - 2018,0.721311475409836,MUS,Mauricio
+MEX,México,"América del Norte, Central y el Caribe",2014 - 2014,0.743409490333919,MEX,México
+MDA,Moldavia,Europa,2011 - 2012,0.622641509433962,MDA,Moldavia
+MNG,Mongolia,Asia,2011 - 2011,0.675990675990676,MNG,Mongolia
+MAR,Marruecos,África,2011 - 2012,0.866096866096866,MAR,Marruecos
+NLD,Países Bajos,Europa,2005 - 2006,0.656330749354005,NLD,Países Bajos
+NZL,Nueva Zelanda,Oceanía,2009 - 2010,0.63659793814433,NZL,Nueva Zelanda
+NOR,Noruega,Europa,2010 - 2010,0.560975609756098,NOR,Noruega
+OMN,Omán,Asia,2007 - 2008,0.704370179948586,OMN,Omán
+PAK,Pakistán,Asia,2007 - 2007,0.911111111111111,PAK,Pakistán
+PSE,Palestina,Asia,2012 - 2013,0.841954022988506,PSE,Palestina
+PAN,Panamá,"América del Norte, Central y el Caribe",2011 - 2011,0.701631701631702,PAN,Panamá
+PRY,Paraguay,América del Sur,2016 - 2016,0.76978417266187,PRY,Paraguay
+PER,Perú,América del Sur,2010 - 2010,0.713684210526316,PER,Perú
+POL,Polonia,Europa,2013 - 2013,0.643652561247216,POL,Polonia
+PRT,Portugal,Europa,1999 - 1999,0.796833773087071,PRT,Portugal
+QAT,Qatar,Asia,2012 - 2013,0.644012944983819,QAT,Qatar
+ROU,Rumania,Europa,2011 - 2012,0.67866323907455,ROU,Rumania
+RUS,Rusia,Europa,2019 - 2019,0.694148936170213,RUS,Rusia
+SEN,Senegal,África,2021 - 2021,0.867924528301887,SEN,Senegal
+SRB,Serbia,Europa,2010 - 2011,0.670378619153675,SRB,Serbia
+SVN,Eslovenia,Europa,2000 - 2001,0.632743362831858,SVN,Eslovenia
+ZAF,Sudáfrica,África,2010 - 2010,0.700305810397553,ZAF,Sudáfrica
+ESP,España,Europa,2009 - 2010,0.676092544987147,ESP,España
+SWE,Suecia,Europa,2010 - 2011,0.552995391705069,SWE,Suecia
+TWN,Taiwán,Asia,2004 - 2004,0.803827751196172,TWN,Taiwán
+TZA,Tanzanía,África,2017 - 2018,0.705882352941177,TZA,Tanzanía
+THA,Tailandia,Asia,2014 - 2014,0.755458515283843,THA,Tailandia
+TUN,Túnez,África,2005 - 2006,0.857894736842105,TUN,Túnez
+TUR,Turquía,Europa,2014 - 2015,0.783715012722646,TUR,Turquía
+UGA,Uganda,África,2017 - 2018,0.615384615384615,UGA,Uganda
+GBR,Reino Unido,Europa,2005 - 2005,0.639118457300275,GBR,Reino Unido
+URY,Uruguay,América del Sur,2013 - 2013,0.699095022624434,URY,Uruguay
+USA,Estados Unidos,"América del Norte, Central y el Caribe",2017 - 2017,0.608374384236453,USA,Estados Unidos

@@ -1,25 +1,25 @@
-"pais","anio","valor","medida","iso3"
-"Guatemala","2022","40.8574","Publicaciones en SCOPUS en relacion al Gasto en I+D (cada millón de U$S PPC)","GTM"
-"Trinidad y Tobago","2022","27.7751","Publicaciones en SCOPUS en relacion al Gasto en I+D (cada millón de U$S PPC)","TTO"
-"Jamaica","2002","17.7334","Publicaciones en SCOPUS en relacion al Gasto en I+D (cada millón de U$S PPC)","JAM"
-"Colombia","2022","11.8944","Publicaciones en SCOPUS en relacion al Gasto en I+D (cada millón de U$S PPC)","COL"
-"Perú","2022","10.4184","Publicaciones en SCOPUS en relacion al Gasto en I+D (cada millón de U$S PPC)","PER"
-"Chile","2021","10.1021","Publicaciones en SCOPUS en relacion al Gasto en I+D (cada millón de U$S PPC)","CHL"
-"Honduras","2019","6.7828","Publicaciones en SCOPUS en relacion al Gasto en I+D (cada millón de U$S PPC)","HND"
-"Portugal","2022","4.758","Publicaciones en SCOPUS en relacion al Gasto en I+D (cada millón de U$S PPC)","PRT"
-"Paraguay","2022","4.3902","Publicaciones en SCOPUS en relacion al Gasto en I+D (cada millón de U$S PPC)","PRY"
-"México","2022","4.261","Publicaciones en SCOPUS en relacion al Gasto en I+D (cada millón de U$S PPC)","MEX"
-"Canadá","2021","3.8854","Publicaciones en SCOPUS en relacion al Gasto en I+D (cada millón de U$S PPC)","CAN"
-"Costa Rica","2022","3.827","Publicaciones en SCOPUS en relacion al Gasto en I+D (cada millón de U$S PPC)","CRI"
-"España","2022","3.6775","Publicaciones en SCOPUS en relacion al Gasto en I+D (cada millón de U$S PPC)","ESP"
-"Uruguay","2022","3.3853","Publicaciones en SCOPUS en relacion al Gasto en I+D (cada millón de U$S PPC)","URY"
-"Bolivia","2009","3.2693","Publicaciones en SCOPUS en relacion al Gasto en I+D (cada millón de U$S PPC)","BOL"
-"Iberoamérica","2022","2.8897","Publicaciones en SCOPUS en relacion al Gasto en I+D (cada millón de U$S PPC)","RICYT_IBE"
-"América Latina y el Caribe","2022","2.6344","Publicaciones en SCOPUS en relacion al Gasto en I+D (cada millón de U$S PPC)","LCN"
-"Brasil","2020","2.5411","Publicaciones en SCOPUS en relacion al Gasto en I+D (cada millón de U$S PPC)","BRA"
-"Argentina","2022","2.3209","Publicaciones en SCOPUS en relacion al Gasto en I+D (cada millón de U$S PPC)","ARG"
-"El Salvador","2022","2.221","Publicaciones en SCOPUS en relacion al Gasto en I+D (cada millón de U$S PPC)","SLV"
-"Puerto Rico","2015","1.5909","Publicaciones en SCOPUS en relacion al Gasto en I+D (cada millón de U$S PPC)","PRI"
-"Ecuador","2014","1.2779","Publicaciones en SCOPUS en relacion al Gasto en I+D (cada millón de U$S PPC)","ECU"
-"Estados Unidos","2022","0.7852","Publicaciones en SCOPUS en relacion al Gasto en I+D (cada millón de U$S PPC)","USA"
-"Venezuela","2016","0.498","Publicaciones en SCOPUS en relacion al Gasto en I+D (cada millón de U$S PPC)","VEN"
+pais,anio,valor,medida,iso3,geocodigoFundar,geonombreFundar
+Guatemala,2022,40.8574,Publicaciones en SCOPUS en relacion al Gasto en I+D (cada millón de U$S PPC),GTM,GTM,Guatemala
+Trinidad y Tobago,2022,27.7751,Publicaciones en SCOPUS en relacion al Gasto en I+D (cada millón de U$S PPC),TTO,TTO,Trinidad y Tobago
+Jamaica,2002,17.7334,Publicaciones en SCOPUS en relacion al Gasto en I+D (cada millón de U$S PPC),JAM,JAM,Jamaica
+Colombia,2022,11.8944,Publicaciones en SCOPUS en relacion al Gasto en I+D (cada millón de U$S PPC),COL,COL,Colombia
+Perú,2022,10.4184,Publicaciones en SCOPUS en relacion al Gasto en I+D (cada millón de U$S PPC),PER,PER,Perú
+Chile,2021,10.1021,Publicaciones en SCOPUS en relacion al Gasto en I+D (cada millón de U$S PPC),CHL,CHL,Chile
+Honduras,2019,6.7828,Publicaciones en SCOPUS en relacion al Gasto en I+D (cada millón de U$S PPC),HND,HND,Honduras
+Portugal,2022,4.758,Publicaciones en SCOPUS en relacion al Gasto en I+D (cada millón de U$S PPC),PRT,PRT,Portugal
+Paraguay,2022,4.3902,Publicaciones en SCOPUS en relacion al Gasto en I+D (cada millón de U$S PPC),PRY,PRY,Paraguay
+México,2022,4.261,Publicaciones en SCOPUS en relacion al Gasto en I+D (cada millón de U$S PPC),MEX,MEX,México
+Canadá,2021,3.8854,Publicaciones en SCOPUS en relacion al Gasto en I+D (cada millón de U$S PPC),CAN,CAN,Canadá
+Costa Rica,2022,3.827,Publicaciones en SCOPUS en relacion al Gasto en I+D (cada millón de U$S PPC),CRI,CRI,Costa Rica
+España,2022,3.6775,Publicaciones en SCOPUS en relacion al Gasto en I+D (cada millón de U$S PPC),ESP,ESP,España
+Uruguay,2022,3.3853,Publicaciones en SCOPUS en relacion al Gasto en I+D (cada millón de U$S PPC),URY,URY,Uruguay
+Bolivia,2009,3.2693,Publicaciones en SCOPUS en relacion al Gasto en I+D (cada millón de U$S PPC),BOL,BOL,Bolivia
+Iberoamérica,2022,2.8897,Publicaciones en SCOPUS en relacion al Gasto en I+D (cada millón de U$S PPC),RICYT_IBE,,
+América Latina y el Caribe,2022,2.6344,Publicaciones en SCOPUS en relacion al Gasto en I+D (cada millón de U$S PPC),LCN,LCN,América Latina y el Caribe
+Brasil,2020,2.5411,Publicaciones en SCOPUS en relacion al Gasto en I+D (cada millón de U$S PPC),BRA,BRA,Brasil
+Argentina,2022,2.3209,Publicaciones en SCOPUS en relacion al Gasto en I+D (cada millón de U$S PPC),ARG,ARG,Argentina
+El Salvador,2022,2.221,Publicaciones en SCOPUS en relacion al Gasto en I+D (cada millón de U$S PPC),SLV,SLV,El Salvador
+Puerto Rico,2015,1.5909,Publicaciones en SCOPUS en relacion al Gasto en I+D (cada millón de U$S PPC),PRI,PRI,Puerto Rico
+Ecuador,2014,1.2779,Publicaciones en SCOPUS en relacion al Gasto en I+D (cada millón de U$S PPC),ECU,ECU,Ecuador
+Estados Unidos,2022,0.7852,Publicaciones en SCOPUS en relacion al Gasto en I+D (cada millón de U$S PPC),USA,USA,Estados Unidos
+Venezuela,2016,0.498,Publicaciones en SCOPUS en relacion al Gasto en I+D (cada millón de U$S PPC),VEN,VEN,Venezuela

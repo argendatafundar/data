@@ -1,395 +1,395 @@
-"anio","prov_cod","prov_desc","tipo_informalidad","valor"
-"2016","2","CABA","Informalidad (definición productiva)","0.262605304100318"
-"2016","2","CABA","Informalidad (definición legal)","0.208920240561356"
-"2016","6","Buenos Aires","Informalidad (definición productiva)","0.450305313585956"
-"2016","6","Buenos Aires","Informalidad (definición legal)","0.365511202036232"
-"2016","10","Catamarca","Informalidad (definición productiva)","0.388740950983831"
-"2016","10","Catamarca","Informalidad (definición legal)","0.331275173072567"
-"2016","14","Córdoba","Informalidad (definición productiva)","0.516390348857123"
-"2016","14","Córdoba","Informalidad (definición legal)","0.436596969436767"
-"2016","18","Corrientes","Informalidad (definición productiva)","0.496687317887352"
-"2016","18","Corrientes","Informalidad (definición legal)","0.425736117071857"
-"2016","22","Chaco","Informalidad (definición productiva)","0.465554861879478"
-"2016","22","Chaco","Informalidad (definición legal)","0.467158169468084"
-"2016","26","Chubut","Informalidad (definición productiva)","0.337877775372481"
-"2016","26","Chubut","Informalidad (definición legal)","0.207359864581313"
-"2016","30","Entre Ríos","Informalidad (definición productiva)","0.451131862371588"
-"2016","30","Entre Ríos","Informalidad (definición legal)","0.317327676868505"
-"2016","34","Formosa","Informalidad (definición productiva)","0.519501969254224"
-"2016","34","Formosa","Informalidad (definición legal)","0.366415023119751"
-"2016","38","Jujuy","Informalidad (definición productiva)","0.463496925175277"
-"2016","38","Jujuy","Informalidad (definición legal)","0.353369647833798"
-"2016","42","La Pampa","Informalidad (definición productiva)","0.483973796302285"
-"2016","42","La Pampa","Informalidad (definición legal)","0.308382071007353"
-"2016","46","La Rioja","Informalidad (definición productiva)","0.376386694284568"
-"2016","46","La Rioja","Informalidad (definición legal)","0.370168903604722"
-"2016","50","Mendoza","Informalidad (definición productiva)","0.457465913434991"
-"2016","50","Mendoza","Informalidad (definición legal)","0.406295644316004"
-"2016","54","Misiones","Informalidad (definición productiva)","0.456693570431755"
-"2016","54","Misiones","Informalidad (definición legal)","0.390359865562751"
-"2016","58","Neuquén","Informalidad (definición productiva)","0.415283729194583"
-"2016","58","Neuquén","Informalidad (definición legal)","0.256623615294298"
-"2016","62","Río Negro","Informalidad (definición productiva)","0.449198269484384"
-"2016","62","Río Negro","Informalidad (definición legal)","0.273133027939769"
-"2016","66","Salta","Informalidad (definición productiva)","0.507266783194148"
-"2016","66","Salta","Informalidad (definición legal)","0.480523186533372"
-"2016","70","San Juan","Informalidad (definición productiva)","0.42210588493088"
-"2016","70","San Juan","Informalidad (definición legal)","0.407902260863149"
-"2016","74","San Luis","Informalidad (definición productiva)","0.415716531449325"
-"2016","74","San Luis","Informalidad (definición legal)","0.352129429230687"
-"2016","78","Santa Cruz","Informalidad (definición productiva)","0.244155886131694"
-"2016","78","Santa Cruz","Informalidad (definición legal)","0.153792982763146"
-"2016","82","Santa Fe","Informalidad (definición productiva)","0.451202414152631"
-"2016","82","Santa Fe","Informalidad (definición legal)","0.337459546646128"
-"2016","86","Santiago del Estero","Informalidad (definición productiva)","0.462726236021189"
-"2016","86","Santiago del Estero","Informalidad (definición legal)","0.439025374623071"
-"2016","90","Tucumán","Informalidad (definición productiva)","0.454008170173725"
-"2016","90","Tucumán","Informalidad (definición legal)","0.468115345970232"
-"2016","94","Tierra del Fuego","Informalidad (definición productiva)","0.217516697024894"
-"2016","94","Tierra del Fuego","Informalidad (definición legal)","0.0823006985642574"
-"2017","2","CABA","Informalidad (definición productiva)","0.259832503297321"
-"2017","2","CABA","Informalidad (definición legal)","0.235824229848826"
-"2017","6","Buenos Aires","Informalidad (definición productiva)","0.436816193084057"
-"2017","6","Buenos Aires","Informalidad (definición legal)","0.364983863258397"
-"2017","10","Catamarca","Informalidad (definición productiva)","0.381998727133276"
-"2017","10","Catamarca","Informalidad (definición legal)","0.345130629509828"
-"2017","14","Córdoba","Informalidad (definición productiva)","0.502479622466418"
-"2017","14","Córdoba","Informalidad (definición legal)","0.46499838452479"
-"2017","18","Corrientes","Informalidad (definición productiva)","0.445151973245277"
-"2017","18","Corrientes","Informalidad (definición legal)","0.403547543611076"
-"2017","22","Chaco","Informalidad (definición productiva)","0.557615491619429"
-"2017","22","Chaco","Informalidad (definición legal)","0.479596684389953"
-"2017","26","Chubut","Informalidad (definición productiva)","0.329600015303097"
-"2017","26","Chubut","Informalidad (definición legal)","0.22060510721847"
-"2017","30","Entre Ríos","Informalidad (definición productiva)","0.411007349679733"
-"2017","30","Entre Ríos","Informalidad (definición legal)","0.328399578690615"
-"2017","34","Formosa","Informalidad (definición productiva)","0.450415347958023"
-"2017","34","Formosa","Informalidad (definición legal)","0.362265830623936"
-"2017","38","Jujuy","Informalidad (definición productiva)","0.441756978466013"
-"2017","38","Jujuy","Informalidad (definición legal)","0.390160195318356"
-"2017","42","La Pampa","Informalidad (definición productiva)","0.502680172357144"
-"2017","42","La Pampa","Informalidad (definición legal)","0.31634914737422"
-"2017","46","La Rioja","Informalidad (definición productiva)","0.357867691160499"
-"2017","46","La Rioja","Informalidad (definición legal)","0.345136916985173"
-"2017","50","Mendoza","Informalidad (definición productiva)","0.41260269388438"
-"2017","50","Mendoza","Informalidad (definición legal)","0.381603262898529"
-"2017","54","Misiones","Informalidad (definición productiva)","0.455377063810799"
-"2017","54","Misiones","Informalidad (definición legal)","0.390389664482443"
-"2017","58","Neuquén","Informalidad (definición productiva)","0.398550075675482"
-"2017","58","Neuquén","Informalidad (definición legal)","0.233137845690305"
-"2017","62","Río Negro","Informalidad (definición productiva)","0.441015544891514"
-"2017","62","Río Negro","Informalidad (definición legal)","0.275969520018854"
-"2017","66","Salta","Informalidad (definición productiva)","0.466816172506739"
-"2017","66","Salta","Informalidad (definición legal)","0.462094481580643"
-"2017","70","San Juan","Informalidad (definición productiva)","0.402576169329003"
-"2017","70","San Juan","Informalidad (definición legal)","0.396608848177743"
-"2017","74","San Luis","Informalidad (definición productiva)","0.452027077197238"
-"2017","74","San Luis","Informalidad (definición legal)","0.374737275174628"
-"2017","78","Santa Cruz","Informalidad (definición productiva)","0.217030908523259"
-"2017","78","Santa Cruz","Informalidad (definición legal)","0.177077818951826"
-"2017","82","Santa Fe","Informalidad (definición productiva)","0.450853323573043"
-"2017","82","Santa Fe","Informalidad (definición legal)","0.340607639291636"
-"2017","86","Santiago del Estero","Informalidad (definición productiva)","0.477967084338727"
-"2017","86","Santiago del Estero","Informalidad (definición legal)","0.431633707827089"
-"2017","90","Tucumán","Informalidad (definición productiva)","0.443435020541286"
-"2017","90","Tucumán","Informalidad (definición legal)","0.465941880449693"
-"2017","94","Tierra del Fuego","Informalidad (definición productiva)","0.201091765020116"
-"2017","94","Tierra del Fuego","Informalidad (definición legal)","0.100911170134278"
-"2018","2","CABA","Informalidad (definición productiva)","0.302962125045601"
-"2018","2","CABA","Informalidad (definición legal)","0.19490428503304"
-"2018","6","Buenos Aires","Informalidad (definición productiva)","0.459219081804953"
-"2018","6","Buenos Aires","Informalidad (definición legal)","0.366337252360218"
-"2018","10","Catamarca","Informalidad (definición productiva)","0.37022367194781"
-"2018","10","Catamarca","Informalidad (definición legal)","0.356542333955339"
-"2018","14","Córdoba","Informalidad (definición productiva)","0.483885971619966"
-"2018","14","Córdoba","Informalidad (definición legal)","0.434829558292326"
-"2018","18","Corrientes","Informalidad (definición productiva)","0.446970767239869"
-"2018","18","Corrientes","Informalidad (definición legal)","0.407343939231663"
-"2018","22","Chaco","Informalidad (definición productiva)","0.534976693318751"
-"2018","22","Chaco","Informalidad (definición legal)","0.503853320936312"
-"2018","26","Chubut","Informalidad (definición productiva)","0.3248081471811"
-"2018","26","Chubut","Informalidad (definición legal)","0.229607928767256"
-"2018","30","Entre Ríos","Informalidad (definición productiva)","0.487298599557084"
-"2018","30","Entre Ríos","Informalidad (definición legal)","0.390180729826177"
-"2018","34","Formosa","Informalidad (definición productiva)","0.456890223781592"
-"2018","34","Formosa","Informalidad (definición legal)","0.273906931113651"
-"2018","38","Jujuy","Informalidad (definición productiva)","0.383224957714715"
-"2018","38","Jujuy","Informalidad (definición legal)","0.3913840697979"
-"2018","42","La Pampa","Informalidad (definición productiva)","0.540246617571502"
-"2018","42","La Pampa","Informalidad (definición legal)","0.365525939220489"
-"2018","46","La Rioja","Informalidad (definición productiva)","0.354465274273362"
-"2018","46","La Rioja","Informalidad (definición legal)","0.358911681275482"
-"2018","50","Mendoza","Informalidad (definición productiva)","0.421472807818882"
-"2018","50","Mendoza","Informalidad (definición legal)","0.402315009061928"
-"2018","54","Misiones","Informalidad (definición productiva)","0.483226321295536"
-"2018","54","Misiones","Informalidad (definición legal)","0.454729324141939"
-"2018","58","Neuquén","Informalidad (definición productiva)","0.367471812265102"
-"2018","58","Neuquén","Informalidad (definición legal)","0.243215319287047"
-"2018","62","Río Negro","Informalidad (definición productiva)","0.430129213769722"
-"2018","62","Río Negro","Informalidad (definición legal)","0.281061438961066"
-"2018","66","Salta","Informalidad (definición productiva)","0.494431458820294"
-"2018","66","Salta","Informalidad (definición legal)","0.484144288436583"
-"2018","70","San Juan","Informalidad (definición productiva)","0.487811947103634"
-"2018","70","San Juan","Informalidad (definición legal)","0.425606541003217"
-"2018","74","San Luis","Informalidad (definición productiva)","0.384514774564397"
-"2018","74","San Luis","Informalidad (definición legal)","0.446070587524908"
-"2018","78","Santa Cruz","Informalidad (definición productiva)","0.272579168558927"
-"2018","78","Santa Cruz","Informalidad (definición legal)","0.237048934400835"
-"2018","82","Santa Fe","Informalidad (definición productiva)","0.446129736046202"
-"2018","82","Santa Fe","Informalidad (definición legal)","0.32246472001201"
-"2018","86","Santiago del Estero","Informalidad (definición productiva)","0.47155138511242"
-"2018","86","Santiago del Estero","Informalidad (definición legal)","0.438823758015416"
-"2018","90","Tucumán","Informalidad (definición productiva)","0.446548058071817"
-"2018","90","Tucumán","Informalidad (definición legal)","0.456499231407185"
-"2018","94","Tierra del Fuego","Informalidad (definición productiva)","0.238748867335638"
-"2018","94","Tierra del Fuego","Informalidad (definición legal)","0.116292996968222"
-"2019","2","CABA","Informalidad (definición productiva)","0.26959518395425"
-"2019","2","CABA","Informalidad (definición legal)","0.254540520048938"
-"2019","6","Buenos Aires","Informalidad (definición productiva)","0.450572204193828"
-"2019","6","Buenos Aires","Informalidad (definición legal)","0.359667881110482"
-"2019","10","Catamarca","Informalidad (definición productiva)","0.395702953721051"
-"2019","10","Catamarca","Informalidad (definición legal)","0.397352493103306"
-"2019","14","Córdoba","Informalidad (definición productiva)","0.513043218197627"
-"2019","14","Córdoba","Informalidad (definición legal)","0.478122379711498"
-"2019","18","Corrientes","Informalidad (definición productiva)","0.436792496231608"
-"2019","18","Corrientes","Informalidad (definición legal)","0.440861241097124"
-"2019","26","Chubut","Informalidad (definición productiva)","0.343164336215792"
-"2019","26","Chubut","Informalidad (definición legal)","0.249621401910724"
-"2019","30","Entre Ríos","Informalidad (definición productiva)","0.474163178114287"
-"2019","30","Entre Ríos","Informalidad (definición legal)","0.420191843019139"
-"2019","34","Formosa","Informalidad (definición productiva)","0.469618136540766"
-"2019","34","Formosa","Informalidad (definición legal)","0.412521407442005"
-"2019","38","Jujuy","Informalidad (definición productiva)","0.436833791779772"
-"2019","38","Jujuy","Informalidad (definición legal)","0.406234189805832"
-"2019","42","La Pampa","Informalidad (definición productiva)","0.528437754606579"
-"2019","42","La Pampa","Informalidad (definición legal)","0.343568266124207"
-"2019","46","La Rioja","Informalidad (definición productiva)","0.324868658032598"
-"2019","46","La Rioja","Informalidad (definición legal)","0.334473705875358"
-"2019","50","Mendoza","Informalidad (definición productiva)","0.45384124994765"
-"2019","50","Mendoza","Informalidad (definición legal)","0.420632338273543"
-"2019","54","Misiones","Informalidad (definición productiva)","0.451270874370555"
-"2019","54","Misiones","Informalidad (definición legal)","0.384603770871902"
-"2019","58","Neuquén","Informalidad (definición productiva)","0.350022529771484"
-"2019","58","Neuquén","Informalidad (definición legal)","0.218663250053385"
-"2019","62","Río Negro","Informalidad (definición productiva)","0.436508692092386"
-"2019","62","Río Negro","Informalidad (definición legal)","0.305946195357795"
-"2019","66","Salta","Informalidad (definición productiva)","0.505481774167978"
-"2019","66","Salta","Informalidad (definición legal)","0.53792162501507"
-"2019","70","San Juan","Informalidad (definición productiva)","0.503630617436214"
-"2019","70","San Juan","Informalidad (definición legal)","0.449481434744154"
-"2019","74","San Luis","Informalidad (definición productiva)","0.356219692288357"
-"2019","74","San Luis","Informalidad (definición legal)","0.413851691671256"
-"2019","78","Santa Cruz","Informalidad (definición productiva)","0.301122231877978"
-"2019","78","Santa Cruz","Informalidad (definición legal)","0.204157272665164"
-"2019","82","Santa Fe","Informalidad (definición productiva)","0.424905226743235"
-"2019","82","Santa Fe","Informalidad (definición legal)","0.337630272371134"
-"2019","86","Santiago del Estero","Informalidad (definición productiva)","0.507530970100233"
-"2019","86","Santiago del Estero","Informalidad (definición legal)","0.451368382269277"
-"2019","90","Tucumán","Informalidad (definición productiva)","0.471831333539315"
-"2019","90","Tucumán","Informalidad (definición legal)","0.479882599333353"
-"2019","94","Tierra del Fuego","Informalidad (definición productiva)","0.216254301163362"
-"2019","94","Tierra del Fuego","Informalidad (definición legal)","0.121822013784723"
-"2020","2","CABA","Informalidad (definición productiva)","0.258504774039242"
-"2020","2","CABA","Informalidad (definición legal)","0.188105579014432"
-"2020","6","Buenos Aires","Informalidad (definición productiva)","0.428969875042378"
-"2020","6","Buenos Aires","Informalidad (definición legal)","0.27361605102971"
-"2020","10","Catamarca","Informalidad (definición productiva)","0.329079253589642"
-"2020","10","Catamarca","Informalidad (definición legal)","0.316700483192838"
-"2020","14","Córdoba","Informalidad (definición productiva)","0.514234926638399"
-"2020","14","Córdoba","Informalidad (definición legal)","0.47012640065053"
-"2020","18","Corrientes","Informalidad (definición productiva)","0.484241047408382"
-"2020","18","Corrientes","Informalidad (definición legal)","0.394489005340077"
-"2020","22","Chaco","Informalidad (definición productiva)","0.480818827063749"
-"2020","22","Chaco","Informalidad (definición legal)","0.440079155672823"
-"2020","26","Chubut","Informalidad (definición productiva)","0.333368031826061"
-"2020","26","Chubut","Informalidad (definición legal)","0.197257019817564"
-"2020","30","Entre Ríos","Informalidad (definición productiva)","0.455425900472595"
-"2020","30","Entre Ríos","Informalidad (definición legal)","0.354175364331"
-"2020","34","Formosa","Informalidad (definición productiva)","0.526214426346877"
-"2020","34","Formosa","Informalidad (definición legal)","0.449253473720549"
-"2020","38","Jujuy","Informalidad (definición productiva)","0.460077870819777"
-"2020","38","Jujuy","Informalidad (definición legal)","0.361277690140499"
-"2020","42","La Pampa","Informalidad (definición productiva)","0.518491032776747"
-"2020","42","La Pampa","Informalidad (definición legal)","0.251218840215139"
-"2020","46","La Rioja","Informalidad (definición productiva)","0.331095765433655"
-"2020","46","La Rioja","Informalidad (definición legal)","0.321608278293171"
-"2020","50","Mendoza","Informalidad (definición productiva)","0.477666841828692"
-"2020","50","Mendoza","Informalidad (definición legal)","0.395880718274583"
-"2020","54","Misiones","Informalidad (definición productiva)","0.453485555403427"
-"2020","54","Misiones","Informalidad (definición legal)","0.381093924087511"
-"2020","58","Neuquén","Informalidad (definición productiva)","0.432566373476986"
-"2020","58","Neuquén","Informalidad (definición legal)","0.201219661232371"
-"2020","62","Río Negro","Informalidad (definición productiva)","0.421111422492905"
-"2020","62","Río Negro","Informalidad (definición legal)","0.260165569124856"
-"2020","66","Salta","Informalidad (definición productiva)","0.519568735376274"
-"2020","66","Salta","Informalidad (definición legal)","0.459869035883912"
-"2020","70","San Juan","Informalidad (definición productiva)","0.479771086170375"
-"2020","70","San Juan","Informalidad (definición legal)","0.426248084872662"
-"2020","74","San Luis","Informalidad (definición productiva)","0.353651337492621"
-"2020","74","San Luis","Informalidad (definición legal)","0.401202274327506"
-"2020","78","Santa Cruz","Informalidad (definición productiva)","0.28203388635823"
-"2020","78","Santa Cruz","Informalidad (definición legal)","0.139933695846129"
-"2020","82","Santa Fe","Informalidad (definición productiva)","0.479244160879303"
-"2020","82","Santa Fe","Informalidad (definición legal)","0.307026029651008"
-"2020","90","Tucumán","Informalidad (definición productiva)","0.466792460120684"
-"2020","90","Tucumán","Informalidad (definición legal)","0.486717604791826"
-"2021","2","CABA","Informalidad (definición productiva)","0.26535067176487"
-"2021","2","CABA","Informalidad (definición legal)","0.228341637428118"
-"2021","6","Buenos Aires","Informalidad (definición productiva)","0.436215401861134"
-"2021","6","Buenos Aires","Informalidad (definición legal)","0.343024916478011"
-"2021","10","Catamarca","Informalidad (definición productiva)","0.367266880029829"
-"2021","10","Catamarca","Informalidad (definición legal)","0.369491694021685"
-"2021","14","Córdoba","Informalidad (definición productiva)","0.464157134491649"
-"2021","14","Córdoba","Informalidad (definición legal)","0.456972638116899"
-"2021","18","Corrientes","Informalidad (definición productiva)","0.498656856187291"
-"2021","18","Corrientes","Informalidad (definición legal)","0.468964287451165"
-"2021","22","Chaco","Informalidad (definición productiva)","0.544792192495373"
-"2021","22","Chaco","Informalidad (definición legal)","0.500089861689476"
-"2021","26","Chubut","Informalidad (definición productiva)","0.360070265229555"
-"2021","26","Chubut","Informalidad (definición legal)","0.250255373834342"
-"2021","30","Entre Ríos","Informalidad (definición productiva)","0.444447012693923"
-"2021","30","Entre Ríos","Informalidad (definición legal)","0.33986714450659"
-"2021","34","Formosa","Informalidad (definición productiva)","0.499745614617205"
-"2021","34","Formosa","Informalidad (definición legal)","0.48128625157511"
-"2021","38","Jujuy","Informalidad (definición productiva)","0.455051176981889"
-"2021","38","Jujuy","Informalidad (definición legal)","0.453757783588828"
-"2021","42","La Pampa","Informalidad (definición productiva)","0.502814020016468"
-"2021","42","La Pampa","Informalidad (definición legal)","0.326424739983379"
-"2021","46","La Rioja","Informalidad (definición productiva)","0.346734264673888"
-"2021","46","La Rioja","Informalidad (definición legal)","0.328198868813285"
-"2021","50","Mendoza","Informalidad (definición productiva)","0.429630255972149"
-"2021","50","Mendoza","Informalidad (definición legal)","0.424433032260134"
-"2021","54","Misiones","Informalidad (definición productiva)","0.430920228098759"
-"2021","54","Misiones","Informalidad (definición legal)","0.448691401483497"
-"2021","58","Neuquén","Informalidad (definición productiva)","0.441671935370565"
-"2021","58","Neuquén","Informalidad (definición legal)","0.274615756036957"
-"2021","62","Río Negro","Informalidad (definición productiva)","0.414328613388278"
-"2021","62","Río Negro","Informalidad (definición legal)","0.26385459665908"
-"2021","66","Salta","Informalidad (definición productiva)","0.509127604456318"
-"2021","66","Salta","Informalidad (definición legal)","0.497869347443511"
-"2021","70","San Juan","Informalidad (definición productiva)","0.466346188704965"
-"2021","70","San Juan","Informalidad (definición legal)","0.437434593327473"
-"2021","74","San Luis","Informalidad (definición productiva)","0.372491405242802"
-"2021","74","San Luis","Informalidad (definición legal)","0.419495990676316"
-"2021","78","Santa Cruz","Informalidad (definición productiva)","0.270663673815748"
-"2021","78","Santa Cruz","Informalidad (definición legal)","0.186407459300774"
-"2021","82","Santa Fe","Informalidad (definición productiva)","0.4823484958541"
-"2021","82","Santa Fe","Informalidad (definición legal)","0.354566749500957"
-"2021","86","Santiago del Estero","Informalidad (definición productiva)","0.48902118847761"
-"2021","86","Santiago del Estero","Informalidad (definición legal)","0.456771562843067"
-"2021","90","Tucumán","Informalidad (definición productiva)","0.455461591873085"
-"2021","90","Tucumán","Informalidad (definición legal)","0.474282738557761"
-"2021","94","Tierra del Fuego","Informalidad (definición productiva)","0.235944025000691"
-"2021","94","Tierra del Fuego","Informalidad (definición legal)","0.106582326643204"
-"2022","2","CABA","Informalidad (definición productiva)","0.242188027917483"
-"2022","2","CABA","Informalidad (definición legal)","0.241468670484844"
-"2022","6","Buenos Aires","Informalidad (definición productiva)","0.475011703480703"
-"2022","6","Buenos Aires","Informalidad (definición legal)","0.400642669551619"
-"2022","10","Catamarca","Informalidad (definición productiva)","0.377821479296406"
-"2022","10","Catamarca","Informalidad (definición legal)","0.394506955536321"
-"2022","14","Córdoba","Informalidad (definición productiva)","0.477875111379618"
-"2022","14","Córdoba","Informalidad (definición legal)","0.491746631465169"
-"2022","18","Corrientes","Informalidad (definición productiva)","0.487166129948854"
-"2022","18","Corrientes","Informalidad (definición legal)","0.442555667379545"
-"2022","22","Chaco","Informalidad (definición productiva)","0.546267623447339"
-"2022","22","Chaco","Informalidad (definición legal)","0.510087020468195"
-"2022","26","Chubut","Informalidad (definición productiva)","0.313487807186347"
-"2022","26","Chubut","Informalidad (definición legal)","0.232534984520124"
-"2022","30","Entre Ríos","Informalidad (definición productiva)","0.452913943192855"
-"2022","30","Entre Ríos","Informalidad (definición legal)","0.391936982427792"
-"2022","34","Formosa","Informalidad (definición productiva)","0.494722877933631"
-"2022","34","Formosa","Informalidad (definición legal)","0.477614331099661"
-"2022","38","Jujuy","Informalidad (definición productiva)","0.435308485647365"
-"2022","38","Jujuy","Informalidad (definición legal)","0.470530946387824"
-"2022","42","La Pampa","Informalidad (definición productiva)","0.480670810098181"
-"2022","42","La Pampa","Informalidad (definición legal)","0.374374530898174"
-"2022","46","La Rioja","Informalidad (definición productiva)","0.352337620130925"
-"2022","46","La Rioja","Informalidad (definición legal)","0.396511150420115"
-"2022","50","Mendoza","Informalidad (definición productiva)","0.413853893573301"
-"2022","50","Mendoza","Informalidad (definición legal)","0.422107209685489"
-"2022","54","Misiones","Informalidad (definición productiva)","0.437772236076475"
-"2022","54","Misiones","Informalidad (definición legal)","0.382803452995052"
-"2022","58","Neuquén","Informalidad (definición productiva)","0.415535989122138"
-"2022","58","Neuquén","Informalidad (definición legal)","0.284627588746919"
-"2022","62","Río Negro","Informalidad (definición productiva)","0.403347847937556"
-"2022","62","Río Negro","Informalidad (definición legal)","0.247179738501655"
-"2022","66","Salta","Informalidad (definición productiva)","0.479069225920677"
-"2022","66","Salta","Informalidad (definición legal)","0.524185887051397"
-"2022","70","San Juan","Informalidad (definición productiva)","0.405717956954706"
-"2022","70","San Juan","Informalidad (definición legal)","0.466354621106749"
-"2022","74","San Luis","Informalidad (definición productiva)","0.405911406883644"
-"2022","74","San Luis","Informalidad (definición legal)","0.408939717477004"
-"2022","78","Santa Cruz","Informalidad (definición productiva)","0.236502332618837"
-"2022","78","Santa Cruz","Informalidad (definición legal)","0.189394667751359"
-"2022","82","Santa Fe","Informalidad (definición productiva)","0.441646616541353"
-"2022","82","Santa Fe","Informalidad (definición legal)","0.348253191509231"
-"2022","86","Santiago del Estero","Informalidad (definición productiva)","0.507823359324478"
-"2022","86","Santiago del Estero","Informalidad (definición legal)","0.500696991929567"
-"2022","90","Tucumán","Informalidad (definición productiva)","0.460145595935802"
-"2022","90","Tucumán","Informalidad (definición legal)","0.479800026375418"
-"2022","94","Tierra del Fuego","Informalidad (definición productiva)","0.250876227053594"
-"2022","94","Tierra del Fuego","Informalidad (definición legal)","0.0814981876761982"
-"2023","2","CABA","Informalidad (definición productiva)","0.267744522745345"
-"2023","2","CABA","Informalidad (definición legal)","0.248610377716043"
-"2023","6","Buenos Aires","Informalidad (definición productiva)","0.430287691479472"
-"2023","6","Buenos Aires","Informalidad (definición legal)","0.361203114678189"
-"2023","10","Catamarca","Informalidad (definición productiva)","0.39458766085985"
-"2023","10","Catamarca","Informalidad (definición legal)","0.453081824600553"
-"2023","14","Córdoba","Informalidad (definición productiva)","0.482311912800178"
-"2023","14","Córdoba","Informalidad (definición legal)","0.481840263616644"
-"2023","18","Corrientes","Informalidad (definición productiva)","0.466772129708322"
-"2023","18","Corrientes","Informalidad (definición legal)","0.445794714393306"
-"2023","22","Chaco","Informalidad (definición productiva)","0.587315694933014"
-"2023","22","Chaco","Informalidad (definición legal)","0.526679142675493"
-"2023","26","Chubut","Informalidad (definición productiva)","0.324659110859684"
-"2023","26","Chubut","Informalidad (definición legal)","0.230059169277076"
-"2023","30","Entre Ríos","Informalidad (definición productiva)","0.473313418167779"
-"2023","30","Entre Ríos","Informalidad (definición legal)","0.398243587387435"
-"2023","34","Formosa","Informalidad (definición productiva)","0.525299280800319"
-"2023","34","Formosa","Informalidad (definición legal)","0.512845617607895"
-"2023","38","Jujuy","Informalidad (definición productiva)","0.434570269916714"
-"2023","38","Jujuy","Informalidad (definición legal)","0.459047805077691"
-"2023","42","La Pampa","Informalidad (definición productiva)","0.487838049903227"
-"2023","42","La Pampa","Informalidad (definición legal)","0.3734265449624"
-"2023","46","La Rioja","Informalidad (definición productiva)","0.335694266546612"
-"2023","46","La Rioja","Informalidad (definición legal)","0.390325158919274"
-"2023","50","Mendoza","Informalidad (definición productiva)","0.401803060178477"
-"2023","50","Mendoza","Informalidad (definición legal)","0.390703373353836"
-"2023","54","Misiones","Informalidad (definición productiva)","0.435289549742454"
-"2023","54","Misiones","Informalidad (definición legal)","0.462861742519524"
-"2023","58","Neuquén","Informalidad (definición productiva)","0.354539817591008"
-"2023","58","Neuquén","Informalidad (definición legal)","0.21548074507071"
-"2023","62","Río Negro","Informalidad (definición productiva)","0.405476861660217"
-"2023","62","Río Negro","Informalidad (definición legal)","0.263989393283306"
-"2023","66","Salta","Informalidad (definición productiva)","0.466196258916641"
-"2023","66","Salta","Informalidad (definición legal)","0.527965801601394"
-"2023","70","San Juan","Informalidad (definición productiva)","0.420054738425539"
-"2023","70","San Juan","Informalidad (definición legal)","0.456038366516495"
-"2023","74","San Luis","Informalidad (definición productiva)","0.425241234355594"
-"2023","74","San Luis","Informalidad (definición legal)","0.42947871427988"
-"2023","78","Santa Cruz","Informalidad (definición productiva)","0.232308180278521"
-"2023","78","Santa Cruz","Informalidad (definición legal)","0.237992467823887"
-"2023","82","Santa Fe","Informalidad (definición productiva)","0.416018137270412"
-"2023","82","Santa Fe","Informalidad (definición legal)","0.359972301037362"
-"2023","86","Santiago del Estero","Informalidad (definición productiva)","0.475313681817885"
-"2023","86","Santiago del Estero","Informalidad (definición legal)","0.51779206808801"
-"2023","90","Tucumán","Informalidad (definición productiva)","0.454336520121785"
-"2023","90","Tucumán","Informalidad (definición legal)","0.516193051899601"
-"2023","94","Tierra del Fuego","Informalidad (definición productiva)","0.238026124818578"
-"2023","94","Tierra del Fuego","Informalidad (definición legal)","0.0888547358834244"
-"2016","-9","Total país","Informalidad (definición productiva)","0.436330835932519"
-"2016","-9","Total país","Informalidad (definición legal)","0.356502685684638"
-"2017","-9","Total país","Informalidad (definición productiva)","0.425590114796935"
-"2017","-9","Total país","Informalidad (definición legal)","0.361411109355845"
-"2018","-9","Total país","Informalidad (definición productiva)","0.439674942898138"
-"2018","-9","Total país","Informalidad (definición legal)","0.362443439211903"
-"2019","-9","Total país","Informalidad (definición productiva)","0.433815410446416"
-"2019","-9","Total país","Informalidad (definición legal)","0.370400748177929"
-"2020","-9","Total país","Informalidad (definición productiva)","0.434983471006604"
-"2020","-9","Total país","Informalidad (definición legal)","0.317130004751876"
-"2021","-9","Total país","Informalidad (definición productiva)","0.431245348507678"
-"2021","-9","Total país","Informalidad (definición legal)","0.363122138464083"
-"2022","-9","Total país","Informalidad (definición productiva)","0.438753027346924"
-"2022","-9","Total país","Informalidad (definición legal)","0.393190918340935"
-"2023","-9","Total país","Informalidad (definición productiva)","0.42077382427686"
-"2023","-9","Total país","Informalidad (definición legal)","0.379958798498073"
+anio,prov_cod,prov_desc,tipo_informalidad,valor,geocodigoFundar,geonombreFundar
+2016,2,CABA,Informalidad (definición productiva),0.262605304100318,AR-C,CABA
+2016,2,CABA,Informalidad (definición legal),0.208920240561356,AR-C,CABA
+2016,6,Buenos Aires,Informalidad (definición productiva),0.450305313585956,AR-B,Buenos Aires
+2016,6,Buenos Aires,Informalidad (definición legal),0.365511202036232,AR-B,Buenos Aires
+2016,10,Catamarca,Informalidad (definición productiva),0.388740950983831,AR-K,Catamarca
+2016,10,Catamarca,Informalidad (definición legal),0.331275173072567,AR-K,Catamarca
+2016,14,Córdoba,Informalidad (definición productiva),0.516390348857123,AR-X,Córdoba
+2016,14,Córdoba,Informalidad (definición legal),0.436596969436767,AR-X,Córdoba
+2016,18,Corrientes,Informalidad (definición productiva),0.496687317887352,AR-W,Corrientes
+2016,18,Corrientes,Informalidad (definición legal),0.425736117071857,AR-W,Corrientes
+2016,22,Chaco,Informalidad (definición productiva),0.465554861879478,AR-H,Chaco
+2016,22,Chaco,Informalidad (definición legal),0.467158169468084,AR-H,Chaco
+2016,26,Chubut,Informalidad (definición productiva),0.337877775372481,AR-U,Chubut
+2016,26,Chubut,Informalidad (definición legal),0.207359864581313,AR-U,Chubut
+2016,30,Entre Ríos,Informalidad (definición productiva),0.451131862371588,AR-E,Entre Ríos
+2016,30,Entre Ríos,Informalidad (definición legal),0.317327676868505,AR-E,Entre Ríos
+2016,34,Formosa,Informalidad (definición productiva),0.519501969254224,AR-P,Formosa
+2016,34,Formosa,Informalidad (definición legal),0.366415023119751,AR-P,Formosa
+2016,38,Jujuy,Informalidad (definición productiva),0.463496925175277,AR-Y,Jujuy
+2016,38,Jujuy,Informalidad (definición legal),0.353369647833798,AR-Y,Jujuy
+2016,42,La Pampa,Informalidad (definición productiva),0.483973796302285,AR-L,La Pampa
+2016,42,La Pampa,Informalidad (definición legal),0.308382071007353,AR-L,La Pampa
+2016,46,La Rioja,Informalidad (definición productiva),0.376386694284568,AR-F,La Rioja
+2016,46,La Rioja,Informalidad (definición legal),0.370168903604722,AR-F,La Rioja
+2016,50,Mendoza,Informalidad (definición productiva),0.457465913434991,AR-M,Mendoza
+2016,50,Mendoza,Informalidad (definición legal),0.406295644316004,AR-M,Mendoza
+2016,54,Misiones,Informalidad (definición productiva),0.456693570431755,AR-N,Misiones
+2016,54,Misiones,Informalidad (definición legal),0.390359865562751,AR-N,Misiones
+2016,58,Neuquén,Informalidad (definición productiva),0.415283729194583,AR-Q,Neuquén
+2016,58,Neuquén,Informalidad (definición legal),0.256623615294298,AR-Q,Neuquén
+2016,62,Río Negro,Informalidad (definición productiva),0.449198269484384,AR-R,Río Negro
+2016,62,Río Negro,Informalidad (definición legal),0.273133027939769,AR-R,Río Negro
+2016,66,Salta,Informalidad (definición productiva),0.507266783194148,AR-A,Salta
+2016,66,Salta,Informalidad (definición legal),0.480523186533372,AR-A,Salta
+2016,70,San Juan,Informalidad (definición productiva),0.42210588493088,AR-J,San Juan
+2016,70,San Juan,Informalidad (definición legal),0.407902260863149,AR-J,San Juan
+2016,74,San Luis,Informalidad (definición productiva),0.415716531449325,AR-D,San Luis
+2016,74,San Luis,Informalidad (definición legal),0.352129429230687,AR-D,San Luis
+2016,78,Santa Cruz,Informalidad (definición productiva),0.244155886131694,AR-Z,Santa Cruz
+2016,78,Santa Cruz,Informalidad (definición legal),0.153792982763146,AR-Z,Santa Cruz
+2016,82,Santa Fe,Informalidad (definición productiva),0.451202414152631,AR-S,Santa Fe
+2016,82,Santa Fe,Informalidad (definición legal),0.337459546646128,AR-S,Santa Fe
+2016,86,Santiago del Estero,Informalidad (definición productiva),0.462726236021189,AR-G,Santiago del Estero
+2016,86,Santiago del Estero,Informalidad (definición legal),0.439025374623071,AR-G,Santiago del Estero
+2016,90,Tucumán,Informalidad (definición productiva),0.454008170173725,AR-T,Tucumán
+2016,90,Tucumán,Informalidad (definición legal),0.468115345970232,AR-T,Tucumán
+2016,94,Tierra del Fuego,Informalidad (definición productiva),0.217516697024894,AR-V,Tierra del Fuego
+2016,94,Tierra del Fuego,Informalidad (definición legal),0.0823006985642574,AR-V,Tierra del Fuego
+2017,2,CABA,Informalidad (definición productiva),0.259832503297321,AR-C,CABA
+2017,2,CABA,Informalidad (definición legal),0.235824229848826,AR-C,CABA
+2017,6,Buenos Aires,Informalidad (definición productiva),0.436816193084057,AR-B,Buenos Aires
+2017,6,Buenos Aires,Informalidad (definición legal),0.364983863258397,AR-B,Buenos Aires
+2017,10,Catamarca,Informalidad (definición productiva),0.381998727133276,AR-K,Catamarca
+2017,10,Catamarca,Informalidad (definición legal),0.345130629509828,AR-K,Catamarca
+2017,14,Córdoba,Informalidad (definición productiva),0.502479622466418,AR-X,Córdoba
+2017,14,Córdoba,Informalidad (definición legal),0.46499838452479,AR-X,Córdoba
+2017,18,Corrientes,Informalidad (definición productiva),0.445151973245277,AR-W,Corrientes
+2017,18,Corrientes,Informalidad (definición legal),0.403547543611076,AR-W,Corrientes
+2017,22,Chaco,Informalidad (definición productiva),0.557615491619429,AR-H,Chaco
+2017,22,Chaco,Informalidad (definición legal),0.479596684389953,AR-H,Chaco
+2017,26,Chubut,Informalidad (definición productiva),0.329600015303097,AR-U,Chubut
+2017,26,Chubut,Informalidad (definición legal),0.22060510721847,AR-U,Chubut
+2017,30,Entre Ríos,Informalidad (definición productiva),0.411007349679733,AR-E,Entre Ríos
+2017,30,Entre Ríos,Informalidad (definición legal),0.328399578690615,AR-E,Entre Ríos
+2017,34,Formosa,Informalidad (definición productiva),0.450415347958023,AR-P,Formosa
+2017,34,Formosa,Informalidad (definición legal),0.362265830623936,AR-P,Formosa
+2017,38,Jujuy,Informalidad (definición productiva),0.441756978466013,AR-Y,Jujuy
+2017,38,Jujuy,Informalidad (definición legal),0.390160195318356,AR-Y,Jujuy
+2017,42,La Pampa,Informalidad (definición productiva),0.502680172357144,AR-L,La Pampa
+2017,42,La Pampa,Informalidad (definición legal),0.31634914737422,AR-L,La Pampa
+2017,46,La Rioja,Informalidad (definición productiva),0.357867691160499,AR-F,La Rioja
+2017,46,La Rioja,Informalidad (definición legal),0.345136916985173,AR-F,La Rioja
+2017,50,Mendoza,Informalidad (definición productiva),0.41260269388438,AR-M,Mendoza
+2017,50,Mendoza,Informalidad (definición legal),0.381603262898529,AR-M,Mendoza
+2017,54,Misiones,Informalidad (definición productiva),0.455377063810799,AR-N,Misiones
+2017,54,Misiones,Informalidad (definición legal),0.390389664482443,AR-N,Misiones
+2017,58,Neuquén,Informalidad (definición productiva),0.398550075675482,AR-Q,Neuquén
+2017,58,Neuquén,Informalidad (definición legal),0.233137845690305,AR-Q,Neuquén
+2017,62,Río Negro,Informalidad (definición productiva),0.441015544891514,AR-R,Río Negro
+2017,62,Río Negro,Informalidad (definición legal),0.275969520018854,AR-R,Río Negro
+2017,66,Salta,Informalidad (definición productiva),0.466816172506739,AR-A,Salta
+2017,66,Salta,Informalidad (definición legal),0.462094481580643,AR-A,Salta
+2017,70,San Juan,Informalidad (definición productiva),0.402576169329003,AR-J,San Juan
+2017,70,San Juan,Informalidad (definición legal),0.396608848177743,AR-J,San Juan
+2017,74,San Luis,Informalidad (definición productiva),0.452027077197238,AR-D,San Luis
+2017,74,San Luis,Informalidad (definición legal),0.374737275174628,AR-D,San Luis
+2017,78,Santa Cruz,Informalidad (definición productiva),0.217030908523259,AR-Z,Santa Cruz
+2017,78,Santa Cruz,Informalidad (definición legal),0.177077818951826,AR-Z,Santa Cruz
+2017,82,Santa Fe,Informalidad (definición productiva),0.450853323573043,AR-S,Santa Fe
+2017,82,Santa Fe,Informalidad (definición legal),0.340607639291636,AR-S,Santa Fe
+2017,86,Santiago del Estero,Informalidad (definición productiva),0.477967084338727,AR-G,Santiago del Estero
+2017,86,Santiago del Estero,Informalidad (definición legal),0.431633707827089,AR-G,Santiago del Estero
+2017,90,Tucumán,Informalidad (definición productiva),0.443435020541286,AR-T,Tucumán
+2017,90,Tucumán,Informalidad (definición legal),0.465941880449693,AR-T,Tucumán
+2017,94,Tierra del Fuego,Informalidad (definición productiva),0.201091765020116,AR-V,Tierra del Fuego
+2017,94,Tierra del Fuego,Informalidad (definición legal),0.100911170134278,AR-V,Tierra del Fuego
+2018,2,CABA,Informalidad (definición productiva),0.302962125045601,AR-C,CABA
+2018,2,CABA,Informalidad (definición legal),0.19490428503304,AR-C,CABA
+2018,6,Buenos Aires,Informalidad (definición productiva),0.459219081804953,AR-B,Buenos Aires
+2018,6,Buenos Aires,Informalidad (definición legal),0.366337252360218,AR-B,Buenos Aires
+2018,10,Catamarca,Informalidad (definición productiva),0.37022367194781,AR-K,Catamarca
+2018,10,Catamarca,Informalidad (definición legal),0.356542333955339,AR-K,Catamarca
+2018,14,Córdoba,Informalidad (definición productiva),0.483885971619966,AR-X,Córdoba
+2018,14,Córdoba,Informalidad (definición legal),0.434829558292326,AR-X,Córdoba
+2018,18,Corrientes,Informalidad (definición productiva),0.446970767239869,AR-W,Corrientes
+2018,18,Corrientes,Informalidad (definición legal),0.407343939231663,AR-W,Corrientes
+2018,22,Chaco,Informalidad (definición productiva),0.534976693318751,AR-H,Chaco
+2018,22,Chaco,Informalidad (definición legal),0.503853320936312,AR-H,Chaco
+2018,26,Chubut,Informalidad (definición productiva),0.3248081471811,AR-U,Chubut
+2018,26,Chubut,Informalidad (definición legal),0.229607928767256,AR-U,Chubut
+2018,30,Entre Ríos,Informalidad (definición productiva),0.487298599557084,AR-E,Entre Ríos
+2018,30,Entre Ríos,Informalidad (definición legal),0.390180729826177,AR-E,Entre Ríos
+2018,34,Formosa,Informalidad (definición productiva),0.456890223781592,AR-P,Formosa
+2018,34,Formosa,Informalidad (definición legal),0.273906931113651,AR-P,Formosa
+2018,38,Jujuy,Informalidad (definición productiva),0.383224957714715,AR-Y,Jujuy
+2018,38,Jujuy,Informalidad (definición legal),0.3913840697979,AR-Y,Jujuy
+2018,42,La Pampa,Informalidad (definición productiva),0.540246617571502,AR-L,La Pampa
+2018,42,La Pampa,Informalidad (definición legal),0.365525939220489,AR-L,La Pampa
+2018,46,La Rioja,Informalidad (definición productiva),0.354465274273362,AR-F,La Rioja
+2018,46,La Rioja,Informalidad (definición legal),0.358911681275482,AR-F,La Rioja
+2018,50,Mendoza,Informalidad (definición productiva),0.421472807818882,AR-M,Mendoza
+2018,50,Mendoza,Informalidad (definición legal),0.402315009061928,AR-M,Mendoza
+2018,54,Misiones,Informalidad (definición productiva),0.483226321295536,AR-N,Misiones
+2018,54,Misiones,Informalidad (definición legal),0.454729324141939,AR-N,Misiones
+2018,58,Neuquén,Informalidad (definición productiva),0.367471812265102,AR-Q,Neuquén
+2018,58,Neuquén,Informalidad (definición legal),0.243215319287047,AR-Q,Neuquén
+2018,62,Río Negro,Informalidad (definición productiva),0.430129213769722,AR-R,Río Negro
+2018,62,Río Negro,Informalidad (definición legal),0.281061438961066,AR-R,Río Negro
+2018,66,Salta,Informalidad (definición productiva),0.494431458820294,AR-A,Salta
+2018,66,Salta,Informalidad (definición legal),0.484144288436583,AR-A,Salta
+2018,70,San Juan,Informalidad (definición productiva),0.487811947103634,AR-J,San Juan
+2018,70,San Juan,Informalidad (definición legal),0.425606541003217,AR-J,San Juan
+2018,74,San Luis,Informalidad (definición productiva),0.384514774564397,AR-D,San Luis
+2018,74,San Luis,Informalidad (definición legal),0.446070587524908,AR-D,San Luis
+2018,78,Santa Cruz,Informalidad (definición productiva),0.272579168558927,AR-Z,Santa Cruz
+2018,78,Santa Cruz,Informalidad (definición legal),0.237048934400835,AR-Z,Santa Cruz
+2018,82,Santa Fe,Informalidad (definición productiva),0.446129736046202,AR-S,Santa Fe
+2018,82,Santa Fe,Informalidad (definición legal),0.32246472001201,AR-S,Santa Fe
+2018,86,Santiago del Estero,Informalidad (definición productiva),0.47155138511242,AR-G,Santiago del Estero
+2018,86,Santiago del Estero,Informalidad (definición legal),0.438823758015416,AR-G,Santiago del Estero
+2018,90,Tucumán,Informalidad (definición productiva),0.446548058071817,AR-T,Tucumán
+2018,90,Tucumán,Informalidad (definición legal),0.456499231407185,AR-T,Tucumán
+2018,94,Tierra del Fuego,Informalidad (definición productiva),0.238748867335638,AR-V,Tierra del Fuego
+2018,94,Tierra del Fuego,Informalidad (definición legal),0.116292996968222,AR-V,Tierra del Fuego
+2019,2,CABA,Informalidad (definición productiva),0.26959518395425,AR-C,CABA
+2019,2,CABA,Informalidad (definición legal),0.254540520048938,AR-C,CABA
+2019,6,Buenos Aires,Informalidad (definición productiva),0.450572204193828,AR-B,Buenos Aires
+2019,6,Buenos Aires,Informalidad (definición legal),0.359667881110482,AR-B,Buenos Aires
+2019,10,Catamarca,Informalidad (definición productiva),0.395702953721051,AR-K,Catamarca
+2019,10,Catamarca,Informalidad (definición legal),0.397352493103306,AR-K,Catamarca
+2019,14,Córdoba,Informalidad (definición productiva),0.513043218197627,AR-X,Córdoba
+2019,14,Córdoba,Informalidad (definición legal),0.478122379711498,AR-X,Córdoba
+2019,18,Corrientes,Informalidad (definición productiva),0.436792496231608,AR-W,Corrientes
+2019,18,Corrientes,Informalidad (definición legal),0.440861241097124,AR-W,Corrientes
+2019,26,Chubut,Informalidad (definición productiva),0.343164336215792,AR-U,Chubut
+2019,26,Chubut,Informalidad (definición legal),0.249621401910724,AR-U,Chubut
+2019,30,Entre Ríos,Informalidad (definición productiva),0.474163178114287,AR-E,Entre Ríos
+2019,30,Entre Ríos,Informalidad (definición legal),0.420191843019139,AR-E,Entre Ríos
+2019,34,Formosa,Informalidad (definición productiva),0.469618136540766,AR-P,Formosa
+2019,34,Formosa,Informalidad (definición legal),0.412521407442005,AR-P,Formosa
+2019,38,Jujuy,Informalidad (definición productiva),0.436833791779772,AR-Y,Jujuy
+2019,38,Jujuy,Informalidad (definición legal),0.406234189805832,AR-Y,Jujuy
+2019,42,La Pampa,Informalidad (definición productiva),0.528437754606579,AR-L,La Pampa
+2019,42,La Pampa,Informalidad (definición legal),0.343568266124207,AR-L,La Pampa
+2019,46,La Rioja,Informalidad (definición productiva),0.324868658032598,AR-F,La Rioja
+2019,46,La Rioja,Informalidad (definición legal),0.334473705875358,AR-F,La Rioja
+2019,50,Mendoza,Informalidad (definición productiva),0.45384124994765,AR-M,Mendoza
+2019,50,Mendoza,Informalidad (definición legal),0.420632338273543,AR-M,Mendoza
+2019,54,Misiones,Informalidad (definición productiva),0.451270874370555,AR-N,Misiones
+2019,54,Misiones,Informalidad (definición legal),0.384603770871902,AR-N,Misiones
+2019,58,Neuquén,Informalidad (definición productiva),0.350022529771484,AR-Q,Neuquén
+2019,58,Neuquén,Informalidad (definición legal),0.218663250053385,AR-Q,Neuquén
+2019,62,Río Negro,Informalidad (definición productiva),0.436508692092386,AR-R,Río Negro
+2019,62,Río Negro,Informalidad (definición legal),0.305946195357795,AR-R,Río Negro
+2019,66,Salta,Informalidad (definición productiva),0.505481774167978,AR-A,Salta
+2019,66,Salta,Informalidad (definición legal),0.53792162501507,AR-A,Salta
+2019,70,San Juan,Informalidad (definición productiva),0.503630617436214,AR-J,San Juan
+2019,70,San Juan,Informalidad (definición legal),0.449481434744154,AR-J,San Juan
+2019,74,San Luis,Informalidad (definición productiva),0.356219692288357,AR-D,San Luis
+2019,74,San Luis,Informalidad (definición legal),0.413851691671256,AR-D,San Luis
+2019,78,Santa Cruz,Informalidad (definición productiva),0.301122231877978,AR-Z,Santa Cruz
+2019,78,Santa Cruz,Informalidad (definición legal),0.204157272665164,AR-Z,Santa Cruz
+2019,82,Santa Fe,Informalidad (definición productiva),0.424905226743235,AR-S,Santa Fe
+2019,82,Santa Fe,Informalidad (definición legal),0.337630272371134,AR-S,Santa Fe
+2019,86,Santiago del Estero,Informalidad (definición productiva),0.507530970100233,AR-G,Santiago del Estero
+2019,86,Santiago del Estero,Informalidad (definición legal),0.451368382269277,AR-G,Santiago del Estero
+2019,90,Tucumán,Informalidad (definición productiva),0.471831333539315,AR-T,Tucumán
+2019,90,Tucumán,Informalidad (definición legal),0.479882599333353,AR-T,Tucumán
+2019,94,Tierra del Fuego,Informalidad (definición productiva),0.216254301163362,AR-V,Tierra del Fuego
+2019,94,Tierra del Fuego,Informalidad (definición legal),0.121822013784723,AR-V,Tierra del Fuego
+2020,2,CABA,Informalidad (definición productiva),0.258504774039242,AR-C,CABA
+2020,2,CABA,Informalidad (definición legal),0.188105579014432,AR-C,CABA
+2020,6,Buenos Aires,Informalidad (definición productiva),0.428969875042378,AR-B,Buenos Aires
+2020,6,Buenos Aires,Informalidad (definición legal),0.27361605102971,AR-B,Buenos Aires
+2020,10,Catamarca,Informalidad (definición productiva),0.329079253589642,AR-K,Catamarca
+2020,10,Catamarca,Informalidad (definición legal),0.316700483192838,AR-K,Catamarca
+2020,14,Córdoba,Informalidad (definición productiva),0.514234926638399,AR-X,Córdoba
+2020,14,Córdoba,Informalidad (definición legal),0.47012640065053,AR-X,Córdoba
+2020,18,Corrientes,Informalidad (definición productiva),0.484241047408382,AR-W,Corrientes
+2020,18,Corrientes,Informalidad (definición legal),0.394489005340077,AR-W,Corrientes
+2020,22,Chaco,Informalidad (definición productiva),0.480818827063749,AR-H,Chaco
+2020,22,Chaco,Informalidad (definición legal),0.440079155672823,AR-H,Chaco
+2020,26,Chubut,Informalidad (definición productiva),0.333368031826061,AR-U,Chubut
+2020,26,Chubut,Informalidad (definición legal),0.197257019817564,AR-U,Chubut
+2020,30,Entre Ríos,Informalidad (definición productiva),0.455425900472595,AR-E,Entre Ríos
+2020,30,Entre Ríos,Informalidad (definición legal),0.354175364331,AR-E,Entre Ríos
+2020,34,Formosa,Informalidad (definición productiva),0.526214426346877,AR-P,Formosa
+2020,34,Formosa,Informalidad (definición legal),0.449253473720549,AR-P,Formosa
+2020,38,Jujuy,Informalidad (definición productiva),0.460077870819777,AR-Y,Jujuy
+2020,38,Jujuy,Informalidad (definición legal),0.361277690140499,AR-Y,Jujuy
+2020,42,La Pampa,Informalidad (definición productiva),0.518491032776747,AR-L,La Pampa
+2020,42,La Pampa,Informalidad (definición legal),0.251218840215139,AR-L,La Pampa
+2020,46,La Rioja,Informalidad (definición productiva),0.331095765433655,AR-F,La Rioja
+2020,46,La Rioja,Informalidad (definición legal),0.321608278293171,AR-F,La Rioja
+2020,50,Mendoza,Informalidad (definición productiva),0.477666841828692,AR-M,Mendoza
+2020,50,Mendoza,Informalidad (definición legal),0.395880718274583,AR-M,Mendoza
+2020,54,Misiones,Informalidad (definición productiva),0.453485555403427,AR-N,Misiones
+2020,54,Misiones,Informalidad (definición legal),0.381093924087511,AR-N,Misiones
+2020,58,Neuquén,Informalidad (definición productiva),0.432566373476986,AR-Q,Neuquén
+2020,58,Neuquén,Informalidad (definición legal),0.201219661232371,AR-Q,Neuquén
+2020,62,Río Negro,Informalidad (definición productiva),0.421111422492905,AR-R,Río Negro
+2020,62,Río Negro,Informalidad (definición legal),0.260165569124856,AR-R,Río Negro
+2020,66,Salta,Informalidad (definición productiva),0.519568735376274,AR-A,Salta
+2020,66,Salta,Informalidad (definición legal),0.459869035883912,AR-A,Salta
+2020,70,San Juan,Informalidad (definición productiva),0.479771086170375,AR-J,San Juan
+2020,70,San Juan,Informalidad (definición legal),0.426248084872662,AR-J,San Juan
+2020,74,San Luis,Informalidad (definición productiva),0.353651337492621,AR-D,San Luis
+2020,74,San Luis,Informalidad (definición legal),0.401202274327506,AR-D,San Luis
+2020,78,Santa Cruz,Informalidad (definición productiva),0.28203388635823,AR-Z,Santa Cruz
+2020,78,Santa Cruz,Informalidad (definición legal),0.139933695846129,AR-Z,Santa Cruz
+2020,82,Santa Fe,Informalidad (definición productiva),0.479244160879303,AR-S,Santa Fe
+2020,82,Santa Fe,Informalidad (definición legal),0.307026029651008,AR-S,Santa Fe
+2020,90,Tucumán,Informalidad (definición productiva),0.466792460120684,AR-T,Tucumán
+2020,90,Tucumán,Informalidad (definición legal),0.486717604791826,AR-T,Tucumán
+2021,2,CABA,Informalidad (definición productiva),0.26535067176487,AR-C,CABA
+2021,2,CABA,Informalidad (definición legal),0.228341637428118,AR-C,CABA
+2021,6,Buenos Aires,Informalidad (definición productiva),0.436215401861134,AR-B,Buenos Aires
+2021,6,Buenos Aires,Informalidad (definición legal),0.343024916478011,AR-B,Buenos Aires
+2021,10,Catamarca,Informalidad (definición productiva),0.367266880029829,AR-K,Catamarca
+2021,10,Catamarca,Informalidad (definición legal),0.369491694021685,AR-K,Catamarca
+2021,14,Córdoba,Informalidad (definición productiva),0.464157134491649,AR-X,Córdoba
+2021,14,Córdoba,Informalidad (definición legal),0.456972638116899,AR-X,Córdoba
+2021,18,Corrientes,Informalidad (definición productiva),0.498656856187291,AR-W,Corrientes
+2021,18,Corrientes,Informalidad (definición legal),0.468964287451165,AR-W,Corrientes
+2021,22,Chaco,Informalidad (definición productiva),0.544792192495373,AR-H,Chaco
+2021,22,Chaco,Informalidad (definición legal),0.500089861689476,AR-H,Chaco
+2021,26,Chubut,Informalidad (definición productiva),0.360070265229555,AR-U,Chubut
+2021,26,Chubut,Informalidad (definición legal),0.250255373834342,AR-U,Chubut
+2021,30,Entre Ríos,Informalidad (definición productiva),0.444447012693923,AR-E,Entre Ríos
+2021,30,Entre Ríos,Informalidad (definición legal),0.33986714450659,AR-E,Entre Ríos
+2021,34,Formosa,Informalidad (definición productiva),0.499745614617205,AR-P,Formosa
+2021,34,Formosa,Informalidad (definición legal),0.48128625157511,AR-P,Formosa
+2021,38,Jujuy,Informalidad (definición productiva),0.455051176981889,AR-Y,Jujuy
+2021,38,Jujuy,Informalidad (definición legal),0.453757783588828,AR-Y,Jujuy
+2021,42,La Pampa,Informalidad (definición productiva),0.502814020016468,AR-L,La Pampa
+2021,42,La Pampa,Informalidad (definición legal),0.326424739983379,AR-L,La Pampa
+2021,46,La Rioja,Informalidad (definición productiva),0.346734264673888,AR-F,La Rioja
+2021,46,La Rioja,Informalidad (definición legal),0.328198868813285,AR-F,La Rioja
+2021,50,Mendoza,Informalidad (definición productiva),0.429630255972149,AR-M,Mendoza
+2021,50,Mendoza,Informalidad (definición legal),0.424433032260134,AR-M,Mendoza
+2021,54,Misiones,Informalidad (definición productiva),0.430920228098759,AR-N,Misiones
+2021,54,Misiones,Informalidad (definición legal),0.448691401483497,AR-N,Misiones
+2021,58,Neuquén,Informalidad (definición productiva),0.441671935370565,AR-Q,Neuquén
+2021,58,Neuquén,Informalidad (definición legal),0.274615756036957,AR-Q,Neuquén
+2021,62,Río Negro,Informalidad (definición productiva),0.414328613388278,AR-R,Río Negro
+2021,62,Río Negro,Informalidad (definición legal),0.26385459665908,AR-R,Río Negro
+2021,66,Salta,Informalidad (definición productiva),0.509127604456318,AR-A,Salta
+2021,66,Salta,Informalidad (definición legal),0.497869347443511,AR-A,Salta
+2021,70,San Juan,Informalidad (definición productiva),0.466346188704965,AR-J,San Juan
+2021,70,San Juan,Informalidad (definición legal),0.437434593327473,AR-J,San Juan
+2021,74,San Luis,Informalidad (definición productiva),0.372491405242802,AR-D,San Luis
+2021,74,San Luis,Informalidad (definición legal),0.419495990676316,AR-D,San Luis
+2021,78,Santa Cruz,Informalidad (definición productiva),0.270663673815748,AR-Z,Santa Cruz
+2021,78,Santa Cruz,Informalidad (definición legal),0.186407459300774,AR-Z,Santa Cruz
+2021,82,Santa Fe,Informalidad (definición productiva),0.4823484958541,AR-S,Santa Fe
+2021,82,Santa Fe,Informalidad (definición legal),0.354566749500957,AR-S,Santa Fe
+2021,86,Santiago del Estero,Informalidad (definición productiva),0.48902118847761,AR-G,Santiago del Estero
+2021,86,Santiago del Estero,Informalidad (definición legal),0.456771562843067,AR-G,Santiago del Estero
+2021,90,Tucumán,Informalidad (definición productiva),0.455461591873085,AR-T,Tucumán
+2021,90,Tucumán,Informalidad (definición legal),0.474282738557761,AR-T,Tucumán
+2021,94,Tierra del Fuego,Informalidad (definición productiva),0.235944025000691,AR-V,Tierra del Fuego
+2021,94,Tierra del Fuego,Informalidad (definición legal),0.106582326643204,AR-V,Tierra del Fuego
+2022,2,CABA,Informalidad (definición productiva),0.242188027917483,AR-C,CABA
+2022,2,CABA,Informalidad (definición legal),0.241468670484844,AR-C,CABA
+2022,6,Buenos Aires,Informalidad (definición productiva),0.475011703480703,AR-B,Buenos Aires
+2022,6,Buenos Aires,Informalidad (definición legal),0.400642669551619,AR-B,Buenos Aires
+2022,10,Catamarca,Informalidad (definición productiva),0.377821479296406,AR-K,Catamarca
+2022,10,Catamarca,Informalidad (definición legal),0.394506955536321,AR-K,Catamarca
+2022,14,Córdoba,Informalidad (definición productiva),0.477875111379618,AR-X,Córdoba
+2022,14,Córdoba,Informalidad (definición legal),0.491746631465169,AR-X,Córdoba
+2022,18,Corrientes,Informalidad (definición productiva),0.487166129948854,AR-W,Corrientes
+2022,18,Corrientes,Informalidad (definición legal),0.442555667379545,AR-W,Corrientes
+2022,22,Chaco,Informalidad (definición productiva),0.546267623447339,AR-H,Chaco
+2022,22,Chaco,Informalidad (definición legal),0.510087020468195,AR-H,Chaco
+2022,26,Chubut,Informalidad (definición productiva),0.313487807186347,AR-U,Chubut
+2022,26,Chubut,Informalidad (definición legal),0.232534984520124,AR-U,Chubut
+2022,30,Entre Ríos,Informalidad (definición productiva),0.452913943192855,AR-E,Entre Ríos
+2022,30,Entre Ríos,Informalidad (definición legal),0.391936982427792,AR-E,Entre Ríos
+2022,34,Formosa,Informalidad (definición productiva),0.494722877933631,AR-P,Formosa
+2022,34,Formosa,Informalidad (definición legal),0.477614331099661,AR-P,Formosa
+2022,38,Jujuy,Informalidad (definición productiva),0.435308485647365,AR-Y,Jujuy
+2022,38,Jujuy,Informalidad (definición legal),0.470530946387824,AR-Y,Jujuy
+2022,42,La Pampa,Informalidad (definición productiva),0.480670810098181,AR-L,La Pampa
+2022,42,La Pampa,Informalidad (definición legal),0.374374530898174,AR-L,La Pampa
+2022,46,La Rioja,Informalidad (definición productiva),0.352337620130925,AR-F,La Rioja
+2022,46,La Rioja,Informalidad (definición legal),0.396511150420115,AR-F,La Rioja
+2022,50,Mendoza,Informalidad (definición productiva),0.413853893573301,AR-M,Mendoza
+2022,50,Mendoza,Informalidad (definición legal),0.422107209685489,AR-M,Mendoza
+2022,54,Misiones,Informalidad (definición productiva),0.437772236076475,AR-N,Misiones
+2022,54,Misiones,Informalidad (definición legal),0.382803452995052,AR-N,Misiones
+2022,58,Neuquén,Informalidad (definición productiva),0.415535989122138,AR-Q,Neuquén
+2022,58,Neuquén,Informalidad (definición legal),0.284627588746919,AR-Q,Neuquén
+2022,62,Río Negro,Informalidad (definición productiva),0.403347847937556,AR-R,Río Negro
+2022,62,Río Negro,Informalidad (definición legal),0.247179738501655,AR-R,Río Negro
+2022,66,Salta,Informalidad (definición productiva),0.479069225920677,AR-A,Salta
+2022,66,Salta,Informalidad (definición legal),0.524185887051397,AR-A,Salta
+2022,70,San Juan,Informalidad (definición productiva),0.405717956954706,AR-J,San Juan
+2022,70,San Juan,Informalidad (definición legal),0.466354621106749,AR-J,San Juan
+2022,74,San Luis,Informalidad (definición productiva),0.405911406883644,AR-D,San Luis
+2022,74,San Luis,Informalidad (definición legal),0.408939717477004,AR-D,San Luis
+2022,78,Santa Cruz,Informalidad (definición productiva),0.236502332618837,AR-Z,Santa Cruz
+2022,78,Santa Cruz,Informalidad (definición legal),0.189394667751359,AR-Z,Santa Cruz
+2022,82,Santa Fe,Informalidad (definición productiva),0.441646616541353,AR-S,Santa Fe
+2022,82,Santa Fe,Informalidad (definición legal),0.348253191509231,AR-S,Santa Fe
+2022,86,Santiago del Estero,Informalidad (definición productiva),0.507823359324478,AR-G,Santiago del Estero
+2022,86,Santiago del Estero,Informalidad (definición legal),0.500696991929567,AR-G,Santiago del Estero
+2022,90,Tucumán,Informalidad (definición productiva),0.460145595935802,AR-T,Tucumán
+2022,90,Tucumán,Informalidad (definición legal),0.479800026375418,AR-T,Tucumán
+2022,94,Tierra del Fuego,Informalidad (definición productiva),0.250876227053594,AR-V,Tierra del Fuego
+2022,94,Tierra del Fuego,Informalidad (definición legal),0.0814981876761982,AR-V,Tierra del Fuego
+2023,2,CABA,Informalidad (definición productiva),0.267744522745345,AR-C,CABA
+2023,2,CABA,Informalidad (definición legal),0.248610377716043,AR-C,CABA
+2023,6,Buenos Aires,Informalidad (definición productiva),0.430287691479472,AR-B,Buenos Aires
+2023,6,Buenos Aires,Informalidad (definición legal),0.361203114678189,AR-B,Buenos Aires
+2023,10,Catamarca,Informalidad (definición productiva),0.39458766085985,AR-K,Catamarca
+2023,10,Catamarca,Informalidad (definición legal),0.453081824600553,AR-K,Catamarca
+2023,14,Córdoba,Informalidad (definición productiva),0.482311912800178,AR-X,Córdoba
+2023,14,Córdoba,Informalidad (definición legal),0.481840263616644,AR-X,Córdoba
+2023,18,Corrientes,Informalidad (definición productiva),0.466772129708322,AR-W,Corrientes
+2023,18,Corrientes,Informalidad (definición legal),0.445794714393306,AR-W,Corrientes
+2023,22,Chaco,Informalidad (definición productiva),0.587315694933014,AR-H,Chaco
+2023,22,Chaco,Informalidad (definición legal),0.526679142675493,AR-H,Chaco
+2023,26,Chubut,Informalidad (definición productiva),0.324659110859684,AR-U,Chubut
+2023,26,Chubut,Informalidad (definición legal),0.230059169277076,AR-U,Chubut
+2023,30,Entre Ríos,Informalidad (definición productiva),0.473313418167779,AR-E,Entre Ríos
+2023,30,Entre Ríos,Informalidad (definición legal),0.398243587387435,AR-E,Entre Ríos
+2023,34,Formosa,Informalidad (definición productiva),0.525299280800319,AR-P,Formosa
+2023,34,Formosa,Informalidad (definición legal),0.512845617607895,AR-P,Formosa
+2023,38,Jujuy,Informalidad (definición productiva),0.434570269916714,AR-Y,Jujuy
+2023,38,Jujuy,Informalidad (definición legal),0.459047805077691,AR-Y,Jujuy
+2023,42,La Pampa,Informalidad (definición productiva),0.487838049903227,AR-L,La Pampa
+2023,42,La Pampa,Informalidad (definición legal),0.3734265449624,AR-L,La Pampa
+2023,46,La Rioja,Informalidad (definición productiva),0.335694266546612,AR-F,La Rioja
+2023,46,La Rioja,Informalidad (definición legal),0.390325158919274,AR-F,La Rioja
+2023,50,Mendoza,Informalidad (definición productiva),0.401803060178477,AR-M,Mendoza
+2023,50,Mendoza,Informalidad (definición legal),0.390703373353836,AR-M,Mendoza
+2023,54,Misiones,Informalidad (definición productiva),0.435289549742454,AR-N,Misiones
+2023,54,Misiones,Informalidad (definición legal),0.462861742519524,AR-N,Misiones
+2023,58,Neuquén,Informalidad (definición productiva),0.354539817591008,AR-Q,Neuquén
+2023,58,Neuquén,Informalidad (definición legal),0.21548074507071,AR-Q,Neuquén
+2023,62,Río Negro,Informalidad (definición productiva),0.405476861660217,AR-R,Río Negro
+2023,62,Río Negro,Informalidad (definición legal),0.263989393283306,AR-R,Río Negro
+2023,66,Salta,Informalidad (definición productiva),0.466196258916641,AR-A,Salta
+2023,66,Salta,Informalidad (definición legal),0.527965801601394,AR-A,Salta
+2023,70,San Juan,Informalidad (definición productiva),0.420054738425539,AR-J,San Juan
+2023,70,San Juan,Informalidad (definición legal),0.456038366516495,AR-J,San Juan
+2023,74,San Luis,Informalidad (definición productiva),0.425241234355594,AR-D,San Luis
+2023,74,San Luis,Informalidad (definición legal),0.42947871427988,AR-D,San Luis
+2023,78,Santa Cruz,Informalidad (definición productiva),0.232308180278521,AR-Z,Santa Cruz
+2023,78,Santa Cruz,Informalidad (definición legal),0.237992467823887,AR-Z,Santa Cruz
+2023,82,Santa Fe,Informalidad (definición productiva),0.416018137270412,AR-S,Santa Fe
+2023,82,Santa Fe,Informalidad (definición legal),0.359972301037362,AR-S,Santa Fe
+2023,86,Santiago del Estero,Informalidad (definición productiva),0.475313681817885,AR-G,Santiago del Estero
+2023,86,Santiago del Estero,Informalidad (definición legal),0.51779206808801,AR-G,Santiago del Estero
+2023,90,Tucumán,Informalidad (definición productiva),0.454336520121785,AR-T,Tucumán
+2023,90,Tucumán,Informalidad (definición legal),0.516193051899601,AR-T,Tucumán
+2023,94,Tierra del Fuego,Informalidad (definición productiva),0.238026124818578,AR-V,Tierra del Fuego
+2023,94,Tierra del Fuego,Informalidad (definición legal),0.0888547358834244,AR-V,Tierra del Fuego
+2016,-9,Total país,Informalidad (definición productiva),0.436330835932519,,
+2016,-9,Total país,Informalidad (definición legal),0.356502685684638,,
+2017,-9,Total país,Informalidad (definición productiva),0.425590114796935,,
+2017,-9,Total país,Informalidad (definición legal),0.361411109355845,,
+2018,-9,Total país,Informalidad (definición productiva),0.439674942898138,,
+2018,-9,Total país,Informalidad (definición legal),0.362443439211903,,
+2019,-9,Total país,Informalidad (definición productiva),0.433815410446416,,
+2019,-9,Total país,Informalidad (definición legal),0.370400748177929,,
+2020,-9,Total país,Informalidad (definición productiva),0.434983471006604,,
+2020,-9,Total país,Informalidad (definición legal),0.317130004751876,,
+2021,-9,Total país,Informalidad (definición productiva),0.431245348507678,,
+2021,-9,Total país,Informalidad (definición legal),0.363122138464083,,
+2022,-9,Total país,Informalidad (definición productiva),0.438753027346924,,
+2022,-9,Total país,Informalidad (definición legal),0.393190918340935,,
+2023,-9,Total país,Informalidad (definición productiva),0.42077382427686,,
+2023,-9,Total país,Informalidad (definición legal),0.379958798498073,,
