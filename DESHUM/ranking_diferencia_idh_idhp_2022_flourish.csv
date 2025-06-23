@@ -1,43 +1,43 @@
-iso3,tipo_idh,country,ranking_2022,geocodigoFundar,geonombreFundar
-ARG,IDH,Argentina,44,ARG,Argentina
-ARG,IDH-P,Argentina,27,ARG,Argentina
-AUS,IDH,Australia,10,AUS,Australia
-AUS,IDH-P,Australia,39,AUS,Australia
-BRA,IDH,Brazil,73,BRA,Brasil
-BRA,IDH-P,Brazil,66,BRA,Brasil
-CAN,IDH,Canada,16,CAN,Canadá
-CAN,IDH-P,Canada,56,CAN,Canadá
-CHE,IDH,Switzerland,1,CHE,Suiza
-CHE,IDH-P,Switzerland,7,CHE,Suiza
-CHL,IDH,Chile,40,CHL,Chile
-CHL,IDH-P,Chile,24,CHL,Chile
-CHN,IDH,China,61,CHN,China
-CHN,IDH-P,China,83,CHN,China
-COL,IDH,Colombia,75,COL,Colombia
-COL,IDH-P,Colombia,57,COL,Colombia
-ESP,IDH,Spain,25,ESP,España
-ESP,IDH-P,Spain,4,ESP,España
-FRA,IDH,France,26,FRA,Francia
-FRA,IDH-P,France,9,FRA,Francia
-GBR,IDH,United Kingdom,13,GBR,Reino Unido
-GBR,IDH-P,United Kingdom,1,GBR,Reino Unido
-ITA,IDH,Italy,28,ITA,Italia
-ITA,IDH-P,Italy,8,ITA,Italia
-KWT,IDH,Kuwait,45,KWT,Kuwait
-KWT,IDH-P,Kuwait,113,KWT,Kuwait
-MEX,IDH,Mexico,63,MEX,México
-MEX,IDH-P,Mexico,50,MEX,México
-NOR,IDH,Norway,2,NOR,Noruega
-NOR,IDH-P,Norway,14,NOR,Noruega
-QAT,IDH,Qatar,37,QAT,Qatar
-QAT,IDH-P,Qatar,145,QAT,Qatar
-SOM,IDH,Somalia,154,SOM,Somalia
-SOM,IDH-P,Somalia,153,SOM,Somalia
-SSD,IDH,South Sudan,153,SSD,Sudán del Sur
-SSD,IDH-P,South Sudan,154,SSD,Sudán del Sur
-SWE,IDH,Sweden,5,SWE,Suecia
-SWE,IDH-P,Sweden,2,SWE,Suecia
-URY,IDH,Uruguay,46,URY,Uruguay
-URY,IDH-P,Uruguay,25,URY,Uruguay
-USA,IDH,United States,19,USA,Estados Unidos
-USA,IDH-P,United States,48,USA,Estados Unidos
+iso3,tipo_idh,country,ranking_2022
+ARG,IDH,Argentina,44
+ARG,IDH-P,Argentina,27
+AUS,IDH,Australia,10
+AUS,IDH-P,Australia,39
+BRA,IDH,Brazil,73
+BRA,IDH-P,Brazil,66
+CAN,IDH,Canada,16
+CAN,IDH-P,Canada,56
+CHE,IDH,Switzerland,1
+CHE,IDH-P,Switzerland,7
+CHL,IDH,Chile,40
+CHL,IDH-P,Chile,24
+CHN,IDH,China,61
+CHN,IDH-P,China,83
+COL,IDH,Colombia,75
+COL,IDH-P,Colombia,57
+ESP,IDH,Spain,25
+ESP,IDH-P,Spain,4
+FRA,IDH,France,26
+FRA,IDH-P,France,9
+GBR,IDH,United Kingdom,13
+GBR,IDH-P,United Kingdom,1
+ITA,IDH,Italy,28
+ITA,IDH-P,Italy,8
+KWT,IDH,Kuwait,45
+KWT,IDH-P,Kuwait,113
+MEX,IDH,Mexico,63
+MEX,IDH-P,Mexico,50
+NOR,IDH,Norway,2
+NOR,IDH-P,Norway,14
+QAT,IDH,Qatar,37
+QAT,IDH-P,Qatar,145
+SOM,IDH,Somalia,154
+SOM,IDH-P,Somalia,153
+SSD,IDH,South Sudan,153
+SSD,IDH-P,South Sudan,154
+SWE,IDH,Sweden,5
+SWE,IDH-P,Sweden,2
+URY,IDH,Uruguay,46
+URY,IDH-P,Uruguay,25
+USA,IDH,United States,19
+USA,IDH-P,United States,48

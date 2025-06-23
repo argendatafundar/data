@@ -1,134 +1,134 @@
-pais,iso3,anios_de_educacion,esperanza_de_vida_al_nacer,pbi_per_capita,geocodigoFundar,geonombreFundar
-Noruega,NOR,12.6,82.3,84580,NOR,Noruega
-Suiza,CHE,13.4,83.6,61373,CHE,Suiza
-Irlanda,IRL,12.5,82.1,64684,IRL,Irlanda
-Alemania,DEU,14.1,81.2,46178,DEU,Alemania
-Hong Kong,HKG,12.0,84.7,50839,HKG,Hong Kong
-Australia,AUS,12.7,83.3,49831,AUS,Australia
-Suecia,SWE,12.4,82.7,45542,SWE,Suecia
-Singapur,SGP,11.5,83.5,68402,SGP,Singapur
-Paises Bajos,NLD,12.2,82.1,47474,NLD,Países Bajos
-Dinamarca,DNK,12.6,80.8,46312,DNK,Dinamarca
-Finlandia,FIN,12.4,81.7,38897,FIN,Finlandia
-Canada,CAN,13.3,82.3,44869,CAN,Canadá
-Nueva Zelanda,NZL,12.7,82.1,35336,NZL,Nueva Zelanda
-Reino Unido,GBR,13.0,81.2,38058,GBR,Reino Unido
-Estados Unidos,USA,13.4,78.9,55335,USA,Estados Unidos
-Belgica,BEL,11.8,81.5,39756,BEL,Bélgica
-Japon,JPN,12.8,84.5,38674,JPN,Japón
-Austria,AUT,12.6,81.4,42988,AUT,Austria
-Israel,ISR,13.0,82.8,32955,ISR,Israel
-Corea del Sur,KOR,12.2,82.8,37928,KOR,Corea del Sur
-Espana,ESP,9.8,83.4,31497,ESP,España
-Rep. Checa,CZE,12.7,79.2,30749,CZE,Chequia
-Francia,FRA,11.4,82.5,38516,FRA,Francia
-Italia,ITA,10.2,83.4,34364,ITA,Italia
-Grecia,GRC,10.5,82.1,23451,GRC,Grecia
-Polonia,POL,12.3,78.5,27455,POL,Polonia
-Lituania,LTU,13.0,75.7,27371,LTU,Lituania
-Emiratos Arabes Unidos,ARE,11.0,77.8,76398,ARE,Emiratos Árabes Unidos
-Arabia Saudita,SAU,9.7,75.0,50305,SAU,Arabia Saudita
-Eslovaquia,SVK,12.6,77.4,27076,SVK,Eslovaquia
-Portugal,PRT,9.2,81.9,27036,PRT,Portugal
-Qatar,QAT,9.7,80.1,153764,QAT,Qatar
-Chile,CHL,10.4,80.0,22105,CHL,Chile
-Hungria,HUN,11.9,76.7,25623,HUN,Hungría
-Croacia,HRV,11.4,78.3,22012,HRV,Croacia
-Oman,OMN,9.7,77.6,36478,OMN,Omán
-Argentina,ARG,10.6,76.5,18556,ARG,Argentina
-Rusia,RUS,12.0,72.4,24669,RUS,Rusia
-Bielorrusia,BLR,12.3,74.6,18727,BLR,Belarús
-Kazajistan,KAZ,11.8,73.2,25308,KAZ,Kazajstán
-Bulgaria,BGR,11.8,74.9,18444,BGR,Bulgaria
-Rumania,ROM,11.0,75.9,20126,ROU,Rumania
-Kuwait,KWT,7.3,75.4,65521,KWT,Kuwait
-Uruguay,URY,8.7,77.8,20186,URY,Uruguay
-Turquia,TUR,7.7,77.4,19270,TUR,Turquía
-Malasia,MYS,10.2,76.0,24842,MYS,Malasia
-Serbia,SER,11.2,75.8,14124,SER,Yugoslavia
-Iran,IRN,10.0,76.5,17011,IRN,Irán
-Panama,PAN,10.2,78.3,22637,PAN,Panamá
-Costa Rica,CRI,8.7,80.1,14686,CRI,Costa Rica
-Albania,ALB,10.1,78.5,11104,ALB,Albania
-Georgia,GEO,12.8,73.6,11985,GEO,Georgia
-Sri Lanka,LKA,11.1,76.8,11663,LKA,Sri Lanka
-Cuba,CUB,11.8,78.7,8326,CUB,Cuba
-Bosnia y Herzegovina,BIH,9.7,77.3,10461,BIH,Bosnia y Herzegovina
-Mexico,MEX,8.6,75.0,16494,MEX,México
-Tailandia,THA,7.7,76.9,16649,THA,Tailandia
-Brasil,BRA,7.8,75.7,14034,BRA,Brasil
-Colombia,COL,8.3,77.1,13545,COL,Colombia
-Armenia,ARM,11.8,74.9,11454,ARM,Armenia
-Argelia,DZA,8.0,76.7,14228,DZA,Argelia
-Peru,PER,9.2,76.5,12310,PER,Perú
-Ecuador,ECU,9.0,76.8,10639,ECU,Ecuador
-Azerbaiyan,AZE,10.5,72.9,16628,AZE,Azerbaiyán
-Ucrania,UKR,11.3,72.0,9813,UKR,Ucrania
-Rep. Dominicana,DOM,7.9,73.9,15912,DOM,Rep. Dominicana
-Tunez,TUN,7.2,76.5,11354,TUN,Túnez
-Mongolia,MNG,10.2,69.7,13383,MNG,Mongolia
-Libano,LBN,8.7,78.9,12559,LBN,Líbano
-Jamaica,JAM,9.8,74.4,7273,JAM,Jamaica
-Venezuela,VEN,10.3,72.1,10710,VEN,Venezuela
-Paraguay,PRY,8.5,74.1,9339,PRY,Paraguay
-Jordania,JOR,10.5,74.4,11506,JOR,Jordania
-Filipinas,PHL,9.4,71.1,8139,PHL,Filipinas
-Moldavia,MDA,11.6,71.8,6747,MDA,Moldavia
-Turkmenistan,TKM,9.8,68.1,26318,TKM,Turkmenistán
-Uzbekistan,UZB,11.5,71.6,11220,UZB,Uzbekistán
-Libia,LBY,7.6,72.7,15013,LBY,Libia
-Indonesia,IDN,8.0,71.5,11852,IDN,Indonesia
-Sudafrica,ZAF,10.2,63.9,12166,ZAF,Sudáfrica
-Bolivia,BOL,9.0,71.2,6696,BOL,Bolivia
-Egipto,EGY,7.3,71.8,11957,EGY,Egipto
-Vietnam,VNM,8.2,75.3,6814,VNM,Vietnam
-Palestina,PSE,9.1,73.9,5208,PSE,Palestina
-Irak,IRQ,7.3,70.5,12836,IRQ,Iraq
-Marruecos,MAR,5.5,76.5,8451,MAR,Marruecos
-Kirguistan,KGZ,10.9,71.3,5177,KGZ,Kirguistán
-El Salvador,SLV,6.9,73.1,8598,SLV,El Salvador
-Tayikistan,TJK,10.7,70.9,4440,TJK,Tayikistán
-Guatemala,GTM,6.5,74.1,7402,GTM,Guatemala
-Nicaragua,NIC,6.8,74.3,4952,NIC,Nicaragua
-India,IND,6.5,69.4,6806,IND,India
-Honduras,HND,6.6,75.1,5042,HND,Honduras
-Bangladesh,BGD,6.1,72.3,4099,BGD,Bangladesh
-Congo Brazzaville,COG,6.5,64.3,5715,COG,Congo
-Laos,LAO,5.2,67.6,6451,LAO,Laos
-Ghana,GHA,7.2,63.8,4267,GHA,Ghana
-Zambia,ZMB,7.1,63.5,3534,ZMB,Zambia
-Myanmar,MMR,5.0,66.9,5838,MMR,Myanmar
-Camboya,KHM,4.8,69.6,3629,KHM,Camboya
-Kenya,KEN,6.6,66.3,3377,KEN,Kenia
-Angola,AGO,5.1,60.8,7771,AGO,Angola
-Camerun,CMR,6.3,58.9,2888,CMR,Camerún
-Zimbabwe,ZWE,8.3,61.2,1611,ZWE,Zimbabwe
-Pakistan,PAK,5.2,67.1,5510,PAK,Pakistán
-Siria,SYR,5.1,71.8,3349,SYR,Siria
-Rwanda,RWA,4.4,68.7,1929,RWA,Ruanda
-Nigeria,NGA,6.5,54.3,5238,NGA,Nigeria
-Tanzania,TZA,6.0,65.0,2875,TZA,Tanzanía
-Uganda,UGA,6.1,63.0,2045,UGA,Uganda
-Mauritania,MRT,4.6,64.7,3458,MRT,Mauritania
-Madagascar,MDG,6.1,66.7,1428,MDG,Madagascar
-Benin,BEN,3.8,61.5,2220,BEN,Benin
-Costa de Marfil,CIV,5.2,57.4,3714,CIV,Costa de Marfil
-Senegal,SEN,3.1,67.7,2617,SEN,Senegal
-Togo,TGO,4.9,60.8,1451,TGO,Togo
-Sudan,SUD,3.7,65.1,3380,SDN,Sudán
-Haiti,HTI,5.4,63.7,1729,HTI,Haití
-Afganistan,AFG,3.9,64.5,1935,AFG,Afganistán
-Malawi,MWI,4.6,63.8,1117,MWI,Malawi
-Etiopia,ETH,2.8,66.2,1838,ETH,Etiopía
-Guinea,GIN,2.7,61.2,1606,GIN,Guinea
-Liberia,LBR,4.7,63.7,818,LBR,Liberia
-Yemen,YEM,3.2,66.1,2285,YEM,Yemen
-RD Congo,ZAR,6.8,60.4,859,COD,Rep. Dem. Congo
-Mozambique,MOZ,3.5,60.2,1133,MOZ,Mozambique
-Sierra Leona,SLE,3.6,54.3,1684,SLE,Sierra Leona
-Burkina Faso,BFA,1.6,61.2,1590,BFA,Burkina Faso
-Mali,MLI,2.4,58.9,1667,MLI,Malí
-Burundi,BDI,3.1,61.2,651,BDI,Burundi
-Chad,TCD,2.4,54.0,2046,TCD,Chad
-Rep. Centroafricana,CAF,4.3,52.8,623,CAF,Rep. Centroafricana
-Niger,NER,2.0,62.0,965,NER,Níger
+"pais","iso3","anios_de_educacion","esperanza_de_vida_al_nacer","pbi_per_capita"
+"Noruega","NOR","12.6","82.3","84580"
+"Suiza","CHE","13.4","83.6","61373"
+"Irlanda","IRL","12.5","82.1","64684"
+"Alemania","DEU","14.1","81.2","46178"
+"Hong Kong","HKG","12","84.7","50839"
+"Australia","AUS","12.7","83.3","49831"
+"Suecia","SWE","12.4","82.7","45542"
+"Singapur","SGP","11.5","83.5","68402"
+"Paises Bajos","NLD","12.2","82.1","47474"
+"Dinamarca","DNK","12.6","80.8","46312"
+"Finlandia","FIN","12.4","81.7","38897"
+"Canada","CAN","13.3","82.3","44869"
+"Nueva Zelanda","NZL","12.7","82.1","35336"
+"Reino Unido","GBR","13","81.2","38058"
+"Estados Unidos","USA","13.4","78.9","55335"
+"Belgica","BEL","11.8","81.5","39756"
+"Japon","JPN","12.8","84.5","38674"
+"Austria","AUT","12.6","81.4","42988"
+"Israel","ISR","13","82.8","32955"
+"Corea del Sur","KOR","12.2","82.8","37928"
+"Espana","ESP","9.8","83.4","31497"
+"Rep. Checa","CZE","12.7","79.2","30749"
+"Francia","FRA","11.4","82.5","38516"
+"Italia","ITA","10.2","83.4","34364"
+"Grecia","GRC","10.5","82.1","23451"
+"Polonia","POL","12.3","78.5","27455"
+"Lituania","LTU","13","75.7","27371"
+"Emiratos Arabes Unidos","ARE","11","77.8","76398"
+"Arabia Saudita","SAU","9.7","75","50305"
+"Eslovaquia","SVK","12.6","77.4","27076"
+"Portugal","PRT","9.2","81.9","27036"
+"Qatar","QAT","9.7","80.1","153764"
+"Chile","CHL","10.4","80","22105"
+"Hungria","HUN","11.9","76.7","25623"
+"Croacia","HRV","11.4","78.3","22012"
+"Oman","OMN","9.7","77.6","36478"
+"Argentina","ARG","10.6","76.5","18556"
+"Rusia","RUS","12","72.4","24669"
+"Bielorrusia","BLR","12.3","74.6","18727"
+"Kazajistan","KAZ","11.8","73.2","25308"
+"Bulgaria","BGR","11.8","74.9","18444"
+"Rumania","ROM","11","75.9","20126"
+"Kuwait","KWT","7.3","75.4","65521"
+"Uruguay","URY","8.7","77.8","20186"
+"Turquia","TUR","7.7","77.4","19270"
+"Malasia","MYS","10.2","76","24842"
+"Serbia","SER","11.2","75.8","14124"
+"Iran","IRN","10","76.5","17011"
+"Panama","PAN","10.2","78.3","22637"
+"Costa Rica","CRI","8.7","80.1","14686"
+"Albania","ALB","10.1","78.5","11104"
+"Georgia","GEO","12.8","73.6","11985"
+"Sri Lanka","LKA","11.1","76.8","11663"
+"Cuba","CUB","11.8","78.7","8326"
+"Bosnia y Herzegovina","BIH","9.7","77.3","10461"
+"Mexico","MEX","8.6","75","16494"
+"Tailandia","THA","7.7","76.9","16649"
+"Brasil","BRA","7.8","75.7","14034"
+"Colombia","COL","8.3","77.1","13545"
+"Armenia","ARM","11.8","74.9","11454"
+"Argelia","DZA","8","76.7","14228"
+"Peru","PER","9.2","76.5","12310"
+"Ecuador","ECU","9","76.8","10639"
+"Azerbaiyan","AZE","10.5","72.9","16628"
+"Ucrania","UKR","11.3","72","9813"
+"Rep. Dominicana","DOM","7.9","73.9","15912"
+"Tunez","TUN","7.2","76.5","11354"
+"Mongolia","MNG","10.2","69.7","13383"
+"Libano","LBN","8.7","78.9","12559"
+"Jamaica","JAM","9.8","74.4","7273"
+"Venezuela","VEN","10.3","72.1","10710"
+"Paraguay","PRY","8.5","74.1","9339"
+"Jordania","JOR","10.5","74.4","11506"
+"Filipinas","PHL","9.4","71.1","8139"
+"Moldavia","MDA","11.6","71.8","6747"
+"Turkmenistan","TKM","9.8","68.1","26318"
+"Uzbekistan","UZB","11.5","71.6","11220"
+"Libia","LBY","7.6","72.7","15013"
+"Indonesia","IDN","8","71.5","11852"
+"Sudafrica","ZAF","10.2","63.9","12166"
+"Bolivia","BOL","9","71.2","6696"
+"Egipto","EGY","7.3","71.8","11957"
+"Vietnam","VNM","8.2","75.3","6814"
+"Palestina","PSE","9.1","73.9","5208"
+"Irak","IRQ","7.3","70.5","12836"
+"Marruecos","MAR","5.5","76.5","8451"
+"Kirguistan","KGZ","10.9","71.3","5177"
+"El Salvador","SLV","6.9","73.1","8598"
+"Tayikistan","TJK","10.7","70.9","4440"
+"Guatemala","GTM","6.5","74.1","7402"
+"Nicaragua","NIC","6.8","74.3","4952"
+"India","IND","6.5","69.4","6806"
+"Honduras","HND","6.6","75.1","5042"
+"Bangladesh","BGD","6.1","72.3","4099"
+"Congo Brazzaville","COG","6.5","64.3","5715"
+"Laos","LAO","5.2","67.6","6451"
+"Ghana","GHA","7.2","63.8","4267"
+"Zambia","ZMB","7.1","63.5","3534"
+"Myanmar","MMR","5","66.9","5838"
+"Camboya","KHM","4.8","69.6","3629"
+"Kenya","KEN","6.6","66.3","3377"
+"Angola","AGO","5.1","60.8","7771"
+"Camerun","CMR","6.3","58.9","2888"
+"Zimbabwe","ZWE","8.3","61.2","1611"
+"Pakistan","PAK","5.2","67.1","5510"
+"Siria","SYR","5.1","71.8","3349"
+"Rwanda","RWA","4.4","68.7","1929"
+"Nigeria","NGA","6.5","54.3","5238"
+"Tanzania","TZA","6","65","2875"
+"Uganda","UGA","6.1","63","2045"
+"Mauritania","MRT","4.6","64.7","3458"
+"Madagascar","MDG","6.1","66.7","1428"
+"Benin","BEN","3.8","61.5","2220"
+"Costa de Marfil","CIV","5.2","57.4","3714"
+"Senegal","SEN","3.1","67.7","2617"
+"Togo","TGO","4.9","60.8","1451"
+"Sudan","SUD","3.7","65.1","3380"
+"Haiti","HTI","5.4","63.7","1729"
+"Afganistan","AFG","3.9","64.5","1935"
+"Malawi","MWI","4.6","63.8","1117"
+"Etiopia","ETH","2.8","66.2","1838"
+"Guinea","GIN","2.7","61.2","1606"
+"Liberia","LBR","4.7","63.7","818"
+"Yemen","YEM","3.2","66.1","2285"
+"RD Congo","ZAR","6.8","60.4","859"
+"Mozambique","MOZ","3.5","60.2","1133"
+"Sierra Leona","SLE","3.6","54.3","1684"
+"Burkina Faso","BFA","1.6","61.2","1590"
+"Mali","MLI","2.4","58.9","1667"
+"Burundi","BDI","3.1","61.2","651"
+"Chad","TCD","2.4","54","2046"
+"Rep. Centroafricana","CAF","4.3","52.8","623"
+"Niger","NER","2","62","965"

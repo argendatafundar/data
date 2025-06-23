@@ -1,1135 +1,1135 @@
-anio,iso3,tipo_carne,pais,valor,share,geocodigoFundar,geonombreFundar
-2022,AFG,Aviar,Afganistán,0.87,12.1678321678322,AFG,Afganistán
-2022,AFG,Caprina y ovina,Afganistán,3.62,50.6293706293706,AFG,Afganistán
-2022,AFG,Otras carnes,Afganistán,0.28,3.91608391608392,AFG,Afganistán
-2022,AFG,Pescados y mariscos,Afganistán,0.38,5.31468531468531,AFG,Afganistán
-2022,AFG,Porcina,Afganistán,0.01,0.13986013986014,AFG,Afganistán
-2022,AFG,Vacuna,Afganistán,1.99,27.8321678321678,AFG,Afganistán
-2022,AGO,Aviar,Angola,10.52,29.0688035368886,AGO,Angola
-2022,AGO,Caprina y ovina,Angola,0.72,1.98949986184029,AGO,Angola
-2022,AGO,Otras carnes,Angola,0.27,0.746062448190108,AGO,Angola
-2022,AGO,Pescados y mariscos,Angola,12.88,35.5899419729207,AGO,Angola
-2022,AGO,Porcina,Angola,8.29,22.9068803536889,AGO,Angola
-2022,AGO,Vacuna,Angola,3.51,9.6988118264714,AGO,Angola
-2022,ALB,Aviar,Albania,22.56,36.558094312105,ALB,Albania
-2022,ALB,Caprina y ovina,Albania,8.87,14.3736833576406,ALB,Albania
-2022,ALB,Otras carnes,Albania,0.27,0.437530384054448,ALB,Albania
-2022,ALB,Pescados y mariscos,Albania,8.51,13.7903095122346,ALB,Albania
-2022,ALB,Porcina,Albania,6.31,10.2252471236428,ALB,Albania
-2022,ALB,Vacuna,Albania,15.19,24.6151353103225,ALB,Albania
-2022,ARE,Aviar,Emiratos Árabes Unidos,55.25,50.5767118271695,ARE,Emiratos Árabes Unidos
-2022,ARE,Caprina y ovina,Emiratos Árabes Unidos,9.82,8.98938117905529,ARE,Emiratos Árabes Unidos
-2022,ARE,Otras carnes,Emiratos Árabes Unidos,3.54,3.24057121933358,ARE,Emiratos Árabes Unidos
-2022,ARE,Pescados y mariscos,Emiratos Árabes Unidos,26.04,23.8374221896741,ARE,Emiratos Árabes Unidos
-2022,ARE,Porcina,Emiratos Árabes Unidos,0.66,0.604174295129989,ARE,Emiratos Árabes Unidos
-2022,ARE,Vacuna,Emiratos Árabes Unidos,13.93,12.7517392896375,ARE,Emiratos Árabes Unidos
-2022,ARG,Aviar,Argentina,48.19,40.0315667054328,ARG,Argentina
-2022,ARG,Caprina y ovina,Argentina,0.99,0.822395746801794,ARG,Argentina
-2022,ARG,Otras carnes,Argentina,1.18,0.980229273965775,ARG,Argentina
-2022,ARG,Pescados y mariscos,Argentina,7.12,5.91460375477654,ARG,Argentina
-2022,ARG,Porcina,Argentina,16.95,14.0804120285762,ARG,Argentina
-2022,ARG,Vacuna,Argentina,45.95,38.1707924904469,ARG,Argentina
-2022,ARM,Aviar,Armenia,18.45,28.5471143431843,ARM,Armenia
-2022,ARM,Caprina y ovina,Armenia,3.88,6.0034039919542,ARM,Armenia
-2022,ARM,Otras carnes,Armenia,0.04,0.0618907628036516,ARM,Armenia
-2022,ARM,Pescados y mariscos,Armenia,5.14,7.95296302026922,ARM,Armenia
-2022,ARM,Porcina,Armenia,11.36,17.576976636237,ARM,Armenia
-2022,ARM,Vacuna,Armenia,25.76,39.8576512455516,ARM,Armenia
-2022,ATG,Aviar,Antigua y Barbuda,68.33,46.4292994496161,ATG,Antigua y Barbuda
-2022,ATG,Caprina y ovina,Antigua y Barbuda,1.39,0.944485968607733,ATG,Antigua y Barbuda
-2022,ATG,Otras carnes,Antigua y Barbuda,0.22,0.149486987837195,ATG,Antigua y Barbuda
-2022,ATG,Pescados y mariscos,Antigua y Barbuda,54.27,36.8757219542026,ATG,Antigua y Barbuda
-2022,ATG,Porcina,Antigua y Barbuda,10.54,7.16178569001835,ATG,Antigua y Barbuda
-2022,ATG,Vacuna,Antigua y Barbuda,12.42,8.43921994971801,ATG,Antigua y Barbuda
-2022,AUS,Aviar,Australia,49.09,35.8766352408098,AUS,Australia
-2022,AUS,Caprina y ovina,Australia,9.72,7.103705327779,AUS,Australia
-2022,AUS,Otras carnes,Australia,0.94,0.68698384857122,AUS,Australia
-2022,AUS,Pescados y mariscos,Australia,24.49,17.8981217569246,AUS,Australia
-2022,AUS,Porcina,Australia,26.6,19.4401812468026,AUS,Australia
-2022,AUS,Vacuna,Australia,25.99,18.9943725791128,AUS,Australia
-2022,AUT,Aviar,Austria,19.14,20.7142857142857,AUT,Austria
-2022,AUT,Caprina y ovina,Austria,1.0,1.08225108225108,AUT,Austria
-2022,AUT,Otras carnes,Austria,0.52,0.562770562770563,AUT,Austria
-2022,AUT,Pescados y mariscos,Austria,14.44,15.6277056277056,AUT,Austria
-2022,AUT,Porcina,Austria,42.82,46.3419913419913,AUT,Austria
-2022,AUT,Vacuna,Austria,14.48,15.6709956709957,AUT,Austria
-2022,AZE,Aviar,Azerbaiyán,16.06,37.6730002345766,AZE,Azerbaiyán
-2022,AZE,Caprina y ovina,Azerbaiyán,8.6,20.1735866760497,AZE,Azerbaiyán
-2022,AZE,Otras carnes,Azerbaiyán,0.0,0.0,AZE,Azerbaiyán
-2022,AZE,Pescados y mariscos,Azerbaiyán,2.13,4.99648135116116,AZE,Azerbaiyán
-2022,AZE,Porcina,Azerbaiyán,0.81,1.90007037297678,AZE,Azerbaiyán
-2022,AZE,Vacuna,Azerbaiyán,15.03,35.2568613652357,AZE,Azerbaiyán
-2022,BDI,Aviar,Burundi,0.66,10.7142857142857,BDI,Burundi
-2022,BDI,Caprina y ovina,Burundi,0.79,12.8246753246753,BDI,Burundi
-2022,BDI,Otras carnes,Burundi,0.05,0.811688311688312,BDI,Burundi
-2022,BDI,Pescados y mariscos,Burundi,2.48,40.2597402597403,BDI,Burundi
-2022,BDI,Porcina,Burundi,0.87,14.1233766233766,BDI,Burundi
-2022,BDI,Vacuna,Burundi,1.31,21.2662337662338,BDI,Burundi
-2022,BEL,Aviar,Bélgica,16.25,18.3574333483958,BEL,Bélgica
-2022,BEL,Caprina y ovina,Bélgica,0.92,1.03931314957072,BEL,Bélgica
-2022,BEL,Otras carnes,Bélgica,2.08,2.34975146859467,BEL,Bélgica
-2022,BEL,Pescados y mariscos,Bélgica,24.04,27.1577044735653,BEL,Bélgica
-2022,BEL,Porcina,Bélgica,32.3,36.4889290555807,BEL,Bélgica
-2022,BEL,Vacuna,Bélgica,12.93,14.6068685042928,BEL,Bélgica
-2022,BEN,Aviar,Benin,10.69,32.3253704263683,BEN,Benin
-2022,BEN,Caprina y ovina,Benin,2.69,8.13426065920774,BEN,Benin
-2022,BEN,Otras carnes,Benin,0.66,1.99576655579075,BEN,Benin
-2022,BEN,Pescados y mariscos,Benin,15.27,46.1747807680677,BEN,Benin
-2022,BEN,Porcina,Benin,1.01,3.05412760810402,BEN,Benin
-2022,BEN,Vacuna,Benin,2.75,8.31569398246145,BEN,Benin
-2022,BFA,Aviar,Burkina Faso,6.66,18.7183811129848,BFA,Burkina Faso
-2022,BFA,Caprina y ovina,Burkina Faso,2.23,6.26756604834177,BFA,Burkina Faso
-2022,BFA,Otras carnes,Burkina Faso,0.42,1.18043844856661,BFA,Burkina Faso
-2022,BFA,Pescados y mariscos,Burkina Faso,10.66,29.9606520517144,BFA,Burkina Faso
-2022,BFA,Porcina,Burkina Faso,9.89,27.796514896009,BFA,Burkina Faso
-2022,BFA,Vacuna,Burkina Faso,5.72,16.0764474423834,BFA,Burkina Faso
-2022,BGD,Aviar,Bangladesh,1.66,5.52412645590682,BGD,Bangladesh
-2022,BGD,Caprina y ovina,Bangladesh,1.32,4.39267886855241,BGD,Bangladesh
-2022,BGD,Otras carnes,Bangladesh,0.1,0.332778702163062,BGD,Bangladesh
-2022,BGD,Pescados y mariscos,Bangladesh,25.7,85.5241264559068,BGD,Bangladesh
-2022,BGD,Porcina,Bangladesh,0.01,0.0332778702163062,BGD,Bangladesh
-2022,BGD,Vacuna,Bangladesh,1.26,4.19301164725458,BGD,Bangladesh
-2022,BGR,Aviar,Bulgaria,20.87,30.6191314553991,BGR,Bulgaria
-2022,BGR,Caprina y ovina,Bulgaria,1.41,2.06866197183099,BGR,Bulgaria
-2022,BGR,Otras carnes,Bulgaria,0.75,1.10035211267606,BGR,Bulgaria
-2022,BGR,Pescados y mariscos,Bulgaria,7.32,10.7394366197183,BGR,Bulgaria
-2022,BGR,Porcina,Bulgaria,34.2,50.1760563380282,BGR,Bulgaria
-2022,BGR,Vacuna,Bulgaria,3.61,5.29636150234742,BGR,Bulgaria
-2022,BHR,Aviar,Bahrein,46.73,42.8087211432759,BHR,Bahrein
-2022,BHR,Caprina y ovina,Bahrein,23.39,21.4272627336021,BHR,Bahrein
-2022,BHR,Otras carnes,Bahrein,1.6,1.46573836570172,BHR,Bahrein
-2022,BHR,Pescados y mariscos,Bahrein,21.07,19.3019421033346,BHR,Bahrein
-2022,BHR,Porcina,Bahrein,0.88,0.806156101135947,BHR,Bahrein
-2022,BHR,Vacuna,Bahrein,15.49,14.1901795529498,BHR,Bahrein
-2022,BHS,Aviar,Bahamas,63.27,46.8458462905375,BHS,Bahamas
-2022,BHS,Caprina y ovina,Bahamas,2.79,2.06574855619725,BHS,Bahamas
-2022,BHS,Otras carnes,Bahamas,0.49,0.362801717755072,BHS,Bahamas
-2022,BHS,Pescados y mariscos,Bahamas,26.98,19.9763068265956,BHS,Bahamas
-2022,BHS,Porcina,Bahamas,30.44,22.5381312009477,BHS,Bahamas
-2022,BHS,Vacuna,Bahamas,11.09,8.21116540796683,BHS,Bahamas
-2022,BIH,Aviar,Bosnia y Herzegovina,21.82,39.9049012435991,BIH,Bosnia y Herzegovina
-2022,BIH,Caprina y ovina,Bosnia y Herzegovina,0.37,0.676664228237015,BIH,Bosnia y Herzegovina
-2022,BIH,Otras carnes,Bosnia y Herzegovina,0.4,0.731528895391368,BIH,Bosnia y Herzegovina
-2022,BIH,Pescados y mariscos,Bosnia y Herzegovina,5.76,10.5340160936357,BIH,Bosnia y Herzegovina
-2022,BIH,Porcina,Bosnia y Herzegovina,13.06,23.8844184345282,BIH,Bosnia y Herzegovina
-2022,BIH,Vacuna,Bosnia y Herzegovina,13.27,24.2684711046086,BIH,Bosnia y Herzegovina
-2022,BLR,Aviar,Belarús,35.13,33.0231246474901,BLR,Belarús
-2022,BLR,Caprina y ovina,Belarús,0.09,0.0846023688663283,BLR,Belarús
-2022,BLR,Otras carnes,Belarús,0.19,0.178605000940026,BLR,Belarús
-2022,BLR,Pescados y mariscos,Belarús,11.92,11.2051137431848,BLR,Belarús
-2022,BLR,Porcina,Belarús,36.42,34.2357586012408,BLR,Belarús
-2022,BLR,Vacuna,Belarús,22.63,21.2727956382779,BLR,Belarús
-2022,BLZ,Aviar,Belice,30.33,43.867515186578,BLZ,Belice
-2022,BLZ,Caprina y ovina,Belice,0.12,0.173560890945907,BLZ,Belice
-2022,BLZ,Otras carnes,Belice,0.2,0.289268151576511,BLZ,Belice
-2022,BLZ,Pescados y mariscos,Belice,17.18,24.8481342204223,BLZ,Belice
-2022,BLZ,Porcina,Belice,16.34,23.633207983801,BLZ,Belice
-2022,BLZ,Vacuna,Belice,4.97,7.18831356667631,BLZ,Belice
-2022,BOL,Aviar,Bolivia,42.45,51.8378312370253,BOL,Bolivia
-2022,BOL,Caprina y ovina,Bolivia,3.2,3.90768103553547,BOL,Bolivia
-2022,BOL,Otras carnes,Bolivia,1.79,2.18585907925266,BOL,Bolivia
-2022,BOL,Pescados y mariscos,Bolivia,2.13,2.6010501892783,BOL,Bolivia
-2022,BOL,Porcina,Bolivia,10.14,12.382464281353,BOL,Bolivia
-2022,BOL,Vacuna,Bolivia,22.18,27.0851141775553,BOL,Bolivia
-2022,BRA,Aviar,Brasil,47.05,44.041935785828,BRA,Brasil
-2022,BRA,Caprina y ovina,Brasil,0.64,0.599082654685014,BRA,Brasil
-2022,BRA,Otras carnes,Brasil,0.36,0.33698399326032,BRA,Brasil
-2022,BRA,Pescados y mariscos,Brasil,8.03,7.51661518300103,BRA,Brasil
-2022,BRA,Porcina,Brasil,16.16,15.1268370307966,BRA,Brasil
-2022,BRA,Vacuna,Brasil,34.59,32.3785453524291,BRA,Brasil
-2022,BRB,Aviar,Barbados,56.37,42.6463912846119,BRB,Barbados
-2022,BRB,Caprina y ovina,Barbados,4.04,3.0564381903465,BRB,Barbados
-2022,BRB,Otras carnes,Barbados,0.09,0.0680889695869269,BRB,Barbados
-2022,BRB,Pescados y mariscos,Barbados,43.27,32.7356634891814,BRB,Barbados
-2022,BRB,Porcina,Barbados,13.6,10.2889998486912,BRB,Barbados
-2022,BRB,Vacuna,Barbados,14.81,11.2044182175821,BRB,Barbados
-2022,BTN,Aviar,Bhután,4.81,21.8835304822566,BTN,Bhután
-2022,BTN,Caprina y ovina,Bhután,0.25,1.13739763421292,BTN,Bhután
-2022,BTN,Otras carnes,Bhután,0.0,0.0,BTN,Bhután
-2022,BTN,Pescados y mariscos,Bhután,6.29,28.6169244767971,BTN,Bhután
-2022,BTN,Porcina,Bhután,3.33,15.1501364877161,BTN,Bhután
-2022,BTN,Vacuna,Bhután,7.3,33.2120109190173,BTN,Bhután
-2022,BWA,Aviar,Botswana,2.56,8.15806246016571,BWA,Botswana
-2022,BWA,Caprina y ovina,Botswana,1.77,5.64053537284895,BWA,Botswana
-2022,BWA,Otras carnes,Botswana,11.53,36.7431485022307,BWA,Botswana
-2022,BWA,Pescados y mariscos,Botswana,2.11,6.72402804333971,BWA,Botswana
-2022,BWA,Porcina,Botswana,0.33,1.05162523900574,BWA,Botswana
-2022,BWA,Vacuna,Botswana,13.08,41.6826003824092,BWA,Botswana
-2022,CAF,Aviar,República Centroafricana,2.33,6.52295632698768,CAF,Rep. Centroafricana
-2022,CAF,Caprina y ovina,República Centroafricana,4.76,13.3258678611422,CAF,Rep. Centroafricana
-2022,CAF,Otras carnes,República Centroafricana,6.34,17.7491601343785,CAF,Rep. Centroafricana
-2022,CAF,Pescados y mariscos,República Centroafricana,0.0,0.0,CAF,Rep. Centroafricana
-2022,CAF,Porcina,República Centroafricana,3.53,9.88241881298992,CAF,Rep. Centroafricana
-2022,CAF,Vacuna,República Centroafricana,18.76,52.5195968645017,CAF,Rep. Centroafricana
-2022,CAN,Aviar,Canadá,41.17,36.9834710743802,CAN,Canadá
-2022,CAN,Caprina y ovina,Canadá,1.23,1.10492274523895,CAN,Canadá
-2022,CAN,Otras carnes,Canadá,0.61,0.54796981674452,CAN,Canadá
-2022,CAN,Pescados y mariscos,Canadá,20.36,18.2896155228171,CAN,Canadá
-2022,CAN,Porcina,Canadá,22.41,20.1311534315487,CAN,Canadá
-2022,CAN,Vacuna,Canadá,25.54,22.9428674092706,CAN,Canadá
-2022,CHE,Aviar,Suiza,18.01,21.5947242206235,CHE,Suiza
-2022,CHE,Caprina y ovina,Suiza,1.27,1.52278177458034,CHE,Suiza
-2022,CHE,Otras carnes,Suiza,1.02,1.22302158273381,CHE,Suiza
-2022,CHE,Pescados y mariscos,Suiza,16.72,20.0479616306954,CHE,Suiza
-2022,CHE,Porcina,Suiza,27.7,33.2134292565947,CHE,Suiza
-2022,CHE,Vacuna,Suiza,18.68,22.3980815347722,CHE,Suiza
-2022,CHL,Aviar,Chile,38.51,36.152835148329,CHL,Chile
-2022,CHL,Caprina y ovina,Chile,0.42,0.394292151708599,CHL,Chile
-2022,CHL,Otras carnes,Chile,0.84,0.788584303417199,CHL,Chile
-2022,CHL,Pescados y mariscos,Chile,14.4,13.5185880585805,CHL,Chile
-2022,CHL,Porcina,Chile,25.02,23.4885467517837,CHL,Chile
-2022,CHL,Vacuna,Chile,27.33,25.657153586181,CHL,Chile
-2022,CHN,Aviar,China,17.14,15.365307037203,CHN,China
-2022,CHN,Caprina y ovina,China,3.86,3.46033168982519,CHN,China
-2022,CHN,Otras carnes,China,0.77,0.690273419991035,CHN,China
-2022,CHN,Pescados y mariscos,China,41.58,37.2747646795159,CHN,China
-2022,CHN,Porcina,China,40.16,36.001792917974,CHN,China
-2022,CHN,Vacuna,China,8.04,7.20753025549081,CHN,China
-2022,CIV,Aviar,Costa de Marfil,2.45,7.61342448725917,CIV,Costa de Marfil
-2022,CIV,Caprina y ovina,Costa de Marfil,0.6,1.86451211932878,CIV,Costa de Marfil
-2022,CIV,Otras carnes,Costa de Marfil,6.75,20.9757613424487,CIV,Costa de Marfil
-2022,CIV,Pescados y mariscos,Costa de Marfil,20.94,65.0714729645743,CIV,Costa de Marfil
-2022,CIV,Porcina,Costa de Marfil,0.56,1.74021131137352,CIV,Costa de Marfil
-2022,CIV,Vacuna,Costa de Marfil,0.88,2.73461777501554,CIV,Costa de Marfil
-2022,CMR,Aviar,Camerún,4.45,13.5670731707317,CMR,Camerún
-2022,CMR,Caprina y ovina,Camerún,1.54,4.69512195121951,CMR,Camerún
-2022,CMR,Otras carnes,Camerún,2.85,8.6890243902439,CMR,Camerún
-2022,CMR,Pescados y mariscos,Camerún,17.81,54.2987804878049,CMR,Camerún
-2022,CMR,Porcina,Camerún,1.81,5.51829268292683,CMR,Camerún
-2022,CMR,Vacuna,Camerún,4.34,13.2317073170732,CMR,Camerún
-2022,COD,Aviar,República Democrática del Congo,1.02,13.5458167330677,COD,Rep. Dem. Congo
-2022,COD,Caprina y ovina,República Democrática del Congo,0.21,2.78884462151394,COD,Rep. Dem. Congo
-2022,COD,Otras carnes,República Democrática del Congo,1.73,22.9747675962815,COD,Rep. Dem. Congo
-2022,COD,Pescados y mariscos,República Democrática del Congo,3.51,46.6135458167331,COD,Rep. Dem. Congo
-2022,COD,Porcina,República Democrática del Congo,0.74,9.8273572377158,COD,Rep. Dem. Congo
-2022,COD,Vacuna,República Democrática del Congo,0.32,4.24966799468791,COD,Rep. Dem. Congo
-2022,COG,Aviar,Congo,27.6,37.7513336068937,COG,Congo
-2022,COG,Caprina y ovina,Congo,0.26,0.355628504992477,COG,Congo
-2022,COG,Otras carnes,Congo,8.1,11.0791957324579,COG,Congo
-2022,COG,Pescados y mariscos,Congo,24.0,32.8272466146902,COG,Congo
-2022,COG,Porcina,Congo,9.71,13.2813568595267,COG,Congo
-2022,COG,Vacuna,Congo,3.44,4.70523868143893,COG,Congo
-2022,COL,Aviar,Colombia,36.65,51.1514305652477,COL,Colombia
-2022,COL,Caprina y ovina,Colombia,0.02,0.0279134682484299,COL,Colombia
-2022,COL,Otras carnes,Colombia,0.16,0.223307745987439,COL,Colombia
-2022,COL,Pescados y mariscos,Colombia,8.73,12.1842288904396,COL,Colombia
-2022,COL,Porcina,Colombia,13.43,18.7438939288207,COL,Colombia
-2022,COL,Vacuna,Colombia,12.66,17.6692254012561,COL,Colombia
-2022,COM,Aviar,Comoras,23.05,49.708863489325,COM,Comoras
-2022,COM,Caprina y ovina,Comoras,0.6,1.29394004744447,COM,Comoras
-2022,COM,Otras carnes,Comoras,0.01,0.0215656674574078,COM,Comoras
-2022,COM,Pescados y mariscos,Comoras,17.04,36.7478973474229,COM,Comoras
-2022,COM,Porcina,Comoras,0.06,0.129394004744447,COM,Comoras
-2022,COM,Vacuna,Comoras,5.61,12.0983394436058,COM,Comoras
-2022,CPV,Aviar,Cabo Verde,23.13,48.0274086378738,CPV,Cabo Verde
-2022,CPV,Caprina y ovina,Cabo Verde,1.31,2.72009966777409,CPV,Cabo Verde
-2022,CPV,Otras carnes,Cabo Verde,0.15,0.311461794019934,CPV,Cabo Verde
-2022,CPV,Pescados y mariscos,Cabo Verde,9.4,19.5182724252492,CPV,Cabo Verde
-2022,CPV,Porcina,Cabo Verde,10.75,22.3214285714286,CPV,Cabo Verde
-2022,CPV,Vacuna,Cabo Verde,3.42,7.10132890365449,CPV,Cabo Verde
-2022,CRI,Aviar,Costa Rica,32.27,41.446185461084,CRI,Costa Rica
-2022,CRI,Caprina y ovina,Costa Rica,0.06,0.0770613922424865,CRI,Costa Rica
-2022,CRI,Otras carnes,Costa Rica,0.0,0.0,CRI,Costa Rica
-2022,CRI,Pescados y mariscos,Costa Rica,17.57,22.5661443616748,CRI,Costa Rica
-2022,CRI,Porcina,Costa Rica,14.74,18.9314153609042,CRI,Costa Rica
-2022,CRI,Vacuna,Costa Rica,13.22,16.9791934240945,CRI,Costa Rica
-2022,CUB,Aviar,Cuba,29.8,44.617457703249,CUB,Cuba
-2022,CUB,Caprina y ovina,Cuba,1.68,2.51534660877377,CUB,Cuba
-2022,CUB,Otras carnes,Cuba,2.28,3.41368468333583,CUB,Cuba
-2022,CUB,Pescados y mariscos,Cuba,6.13,9.17802066177572,CUB,Cuba
-2022,CUB,Porcina,Cuba,18.81,28.1628986375206,CUB,Cuba
-2022,CUB,Vacuna,Cuba,8.09,12.1125917053451,CUB,Cuba
-2022,CYP,Aviar,Chipre,29.09,30.4161438728565,CYP,Chipre
-2022,CYP,Caprina y ovina,Chipre,4.14,4.32873274780427,CYP,Chipre
-2022,CYP,Otras carnes,Chipre,0.5,0.522793810121288,CYP,Chipre
-2022,CYP,Pescados y mariscos,Chipre,19.31,20.1902969468841,CYP,Chipre
-2022,CYP,Porcina,Chipre,34.4,35.9682141363446,CYP,Chipre
-2022,CYP,Vacuna,Chipre,8.2,8.57381848598912,CYP,Chipre
-2022,CZE,Aviar,Chequia,23.87,25.4694835680751,CZE,Chequia
-2022,CZE,Caprina y ovina,Chequia,0.29,0.309432351685873,CZE,Chequia
-2022,CZE,Otras carnes,Chequia,0.83,0.885616730687153,CZE,Chequia
-2022,CZE,Pescados y mariscos,Chequia,10.67,11.3849765258216,CZE,Chequia
-2022,CZE,Porcina,Chequia,47.28,50.4481434058899,CZE,Chequia
-2022,CZE,Vacuna,Chequia,10.78,11.5023474178404,CZE,Chequia
-2022,DEU,Aviar,Alemania,16.51,19.5477148946247,DEU,Alemania
-2022,DEU,Caprina y ovina,Alemania,0.75,0.887994316836372,DEU,Alemania
-2022,DEU,Otras carnes,Alemania,1.04,1.23135211934644,DEU,Alemania
-2022,DEU,Pescados y mariscos,Alemania,13.15,15.5695003551977,DEU,Alemania
-2022,DEU,Porcina,Alemania,38.96,46.1283447785934,DEU,Alemania
-2022,DEU,Vacuna,Alemania,14.05,16.6350935354014,DEU,Alemania
-2022,DJI,Aviar,Djibouti,3.99,21.614301191766,DJI,Djibouti
-2022,DJI,Caprina y ovina,Djibouti,4.05,21.9393282773564,DJI,Djibouti
-2022,DJI,Otras carnes,Djibouti,0.64,3.46695557963164,DJI,Djibouti
-2022,DJI,Pescados y mariscos,Djibouti,3.8,20.5850487540628,DJI,Djibouti
-2022,DJI,Porcina,Djibouti,0.13,0.704225352112676,DJI,Djibouti
-2022,DJI,Vacuna,Djibouti,5.85,31.6901408450704,DJI,Djibouti
-2022,DMA,Aviar,Dominica,46.46,45.1330872352827,DMA,Dominica
-2022,DMA,Caprina y ovina,Dominica,1.43,1.38915873324267,DMA,Dominica
-2022,DMA,Otras carnes,Dominica,0.02,0.0194287934719254,DMA,Dominica
-2022,DMA,Pescados y mariscos,Dominica,23.51,22.8385467262483,DMA,Dominica
-2022,DMA,Porcina,Dominica,21.15,20.5459490965611,DMA,Dominica
-2022,DMA,Vacuna,Dominica,10.37,10.0738294151933,DMA,Dominica
-2022,DNK,Aviar,Dinamarca,17.83,18.5439417576703,DNK,Dinamarca
-2022,DNK,Caprina y ovina,Dinamarca,0.72,0.748829953198128,DNK,Dinamarca
-2022,DNK,Otras carnes,Dinamarca,0.81,0.842433697347894,DNK,Dinamarca
-2022,DNK,Pescados y mariscos,Dinamarca,29.12,30.2860114404576,DNK,Dinamarca
-2022,DNK,Porcina,Dinamarca,25.74,26.7706708268331,DNK,Dinamarca
-2022,DNK,Vacuna,Dinamarca,21.93,22.808112324493,DNK,Dinamarca
-2022,DOM,Aviar,República Dominicana,36.85,55.8502576538345,DOM,Rep. Dominicana
-2022,DOM,Caprina y ovina,República Dominicana,0.2,0.303122158229767,DOM,Rep. Dominicana
-2022,DOM,Otras carnes,República Dominicana,0.03,0.045468323734465,DOM,Rep. Dominicana
-2022,DOM,Pescados y mariscos,República Dominicana,8.21,12.4431645953319,DOM,Rep. Dominicana
-2022,DOM,Porcina,República Dominicana,14.44,21.8854198241891,DOM,Rep. Dominicana
-2022,DOM,Vacuna,República Dominicana,6.25,9.47256744468021,DOM,Rep. Dominicana
-2022,DZA,Aviar,Argelia,6.13,29.3582375478927,DZA,Argelia
-2022,DZA,Caprina y ovina,Argelia,8.11,38.8409961685824,DZA,Argelia
-2022,DZA,Otras carnes,Argelia,0.35,1.67624521072797,DZA,Argelia
-2022,DZA,Pescados y mariscos,Argelia,2.83,13.5536398467433,DZA,Argelia
-2022,DZA,Porcina,Argelia,0.0,0.0,DZA,Argelia
-2022,DZA,Vacuna,Argelia,3.46,16.5708812260536,DZA,Argelia
-2022,ECU,Aviar,Ecuador,28.78,48.175426849682,ECU,Ecuador
-2022,ECU,Caprina y ovina,Ecuador,0.4,0.669568128557081,ECU,Ecuador
-2022,ECU,Otras carnes,Ecuador,0.57,0.95413458319384,ECU,Ecuador
-2022,ECU,Pescados y mariscos,Ecuador,6.44,10.780046869769,ECU,Ecuador
-2022,ECU,Porcina,Ecuador,11.25,18.8316036156679,ECU,Ecuador
-2022,ECU,Vacuna,Ecuador,12.3,20.5892199531302,ECU,Ecuador
-2022,EGY,Aviar,Egipto,23.8,44.4693572496263,EGY,Egipto
-2022,EGY,Caprina y ovina,Egipto,0.57,1.06502242152466,EGY,Egipto
-2022,EGY,Otras carnes,Egipto,0.97,1.81240657698057,EGY,Egipto
-2022,EGY,Pescados y mariscos,Egipto,21.16,39.5366218236173,EGY,Egipto
-2022,EGY,Porcina,Egipto,0.01,0.0186846038863976,EGY,Egipto
-2022,EGY,Vacuna,Egipto,7.01,13.0979073243647,EGY,Egipto
-2022,ESP,Aviar,España,32.1,22.1669774186866,ESP,España
-2022,ESP,Caprina y ovina,España,1.87,1.29134728264623,ESP,España
-2022,ESP,Otras carnes,España,1.36,0.939161660106346,ESP,España
-2022,ESP,Pescados y mariscos,España,40.06,27.6638353704855,ESP,España
-2022,ESP,Porcina,España,56.5,39.0166424970651,ESP,España
-2022,ESP,Vacuna,España,12.92,8.92203577101029,ESP,España
-2022,EST,Aviar,Estonia,21.26,25.9236678453847,EST,Estonia
-2022,EST,Caprina y ovina,Estonia,0.4,0.487745396902817,EST,Estonia
-2022,EST,Otras carnes,Estonia,0.39,0.475551761980246,EST,Estonia
-2022,EST,Pescados y mariscos,Estonia,13.09,15.9614681136447,EST,Estonia
-2022,EST,Porcina,Estonia,38.06,46.408974515303,EST,Estonia
-2022,EST,Vacuna,Estonia,8.81,10.7425923667845,EST,Estonia
-2022,ETH,Aviar,Etiopía,0.4,5.62587904360056,ETH,Etiopía
-2022,ETH,Caprina y ovina,Etiopía,1.81,25.4571026722925,ETH,Etiopía
-2022,ETH,Otras carnes,Etiopía,1.03,14.4866385372714,ETH,Etiopía
-2022,ETH,Pescados y mariscos,Etiopía,0.52,7.31364275668073,ETH,Etiopía
-2022,ETH,Porcina,Etiopía,0.02,0.281293952180028,ETH,Etiopía
-2022,ETH,Vacuna,Etiopía,3.33,46.8354430379747,ETH,Etiopía
-2022,FIN,Aviar,Finlandia,23.67,22.8806186563557,FIN,Finlandia
-2022,FIN,Caprina y ovina,Finlandia,0.45,0.434992750120831,FIN,Finlandia
-2022,FIN,Otras carnes,Finlandia,0.8,0.773320444659256,FIN,Finlandia
-2022,FIN,Pescados y mariscos,Finlandia,31.83,30.7684871918801,FIN,Finlandia
-2022,FIN,Porcina,Finlandia,29.36,28.3808603189947,FIN,Finlandia
-2022,FIN,Vacuna,Finlandia,17.34,16.7617206379894,FIN,Finlandia
-2022,FJI,Aviar,Fiji,37.14,45.9142044752133,FJI,Fiji
-2022,FJI,Caprina y ovina,Fiji,6.34,7.83780442576338,FJI,Fiji
-2022,FJI,Otras carnes,Fiji,0.05,0.0618123377426134,FJI,Fiji
-2022,FJI,Pescados y mariscos,Fiji,28.99,35.8387934231673,FJI,Fiji
-2022,FJI,Porcina,Fiji,3.83,4.73482507108419,FJI,Fiji
-2022,FJI,Vacuna,Fiji,4.54,5.6125602670293,FJI,Fiji
-2022,FRA,Aviar,Francia,24.6,20.7735179868265,FRA,Francia
-2022,FRA,Caprina y ovina,Francia,2.44,2.06046275966897,FRA,Francia
-2022,FRA,Otras carnes,Francia,0.61,0.515115689917244,FRA,Francia
-2022,FRA,Pescados y mariscos,Francia,33.82,28.5593649721331,FRA,Francia
-2022,FRA,Porcina,Francia,33.73,28.4833642965715,FRA,Francia
-2022,FRA,Vacuna,Francia,23.22,19.6081742948826,FRA,Francia
-2022,FSM,Aviar,Micronesia,37.77,34.2989466037051,FSM,Micronesia
-2022,FSM,Caprina y ovina,Micronesia,0.12,0.108972030512169,FSM,Micronesia
-2022,FSM,Otras carnes,Micronesia,0.01,0.0090810025426807,FSM,Micronesia
-2022,FSM,Pescados y mariscos,Micronesia,47.72,43.3345441336724,FSM,Micronesia
-2022,FSM,Porcina,Micronesia,18.13,16.4638576098801,FSM,Micronesia
-2022,FSM,Vacuna,Micronesia,6.37,5.78459861968761,FSM,Micronesia
-2022,GAB,Aviar,Gabón,38.34,40.9965782720274,GAB,Gabón
-2022,GAB,Caprina y ovina,Gabón,0.67,0.716424294268606,GAB,Gabón
-2022,GAB,Otras carnes,Gabón,13.31,14.232249786142,GAB,Gabón
-2022,GAB,Pescados y mariscos,Gabón,28.11,30.0577416595381,GAB,Gabón
-2022,GAB,Porcina,Gabón,7.97,8.52224123182207,GAB,Gabón
-2022,GAB,Vacuna,Gabón,5.12,5.47476475620188,GAB,Gabón
-2022,GBR,Aviar,Reino Unido,35.5,34.7800529048692,GBR,Reino Unido
-2022,GBR,Caprina y ovina,Reino Unido,4.1,4.01685118056236,GBR,Reino Unido
-2022,GBR,Otras carnes,Reino Unido,1.01,0.989516998138532,GBR,Reino Unido
-2022,GBR,Pescados y mariscos,Reino Unido,17.99,17.6251592044675,GBR,Reino Unido
-2022,GBR,Porcina,Reino Unido,26.17,25.6392671695895,GBR,Reino Unido
-2022,GBR,Vacuna,Reino Unido,17.3,16.9491525423729,GBR,Reino Unido
-2022,GEO,Aviar,Georgia,19.19,37.8277153558052,GEO,Georgia
-2022,GEO,Caprina y ovina,Georgia,1.34,2.64143504829489,GEO,Georgia
-2022,GEO,Otras carnes,Georgia,0.12,0.236546422235364,GEO,Georgia
-2022,GEO,Pescados y mariscos,Georgia,10.5,20.6978119455943,GEO,Georgia
-2022,GEO,Porcina,Georgia,12.3,24.2460082791248,GEO,Georgia
-2022,GEO,Vacuna,Georgia,7.28,14.3504829489454,GEO,Georgia
-2022,GHA,Aviar,Ghana,9.57,23.0103390238038,GHA,Ghana
-2022,GHA,Caprina y ovina,Ghana,1.86,4.47222890117817,GHA,Ghana
-2022,GHA,Otras carnes,Ghana,3.57,8.58379418129358,GHA,Ghana
-2022,GHA,Pescados y mariscos,Ghana,23.84,57.3214715075739,GHA,Ghana
-2022,GHA,Porcina,Ghana,1.29,3.1017071411397,GHA,Ghana
-2022,GHA,Vacuna,Ghana,1.46,3.51045924501082,GHA,Ghana
-2022,GIN,Aviar,Guinea,4.63,19.3077564637198,GIN,Guinea
-2022,GIN,Caprina y ovina,Guinea,2.15,8.96580483736447,GIN,Guinea
-2022,GIN,Otras carnes,Guinea,0.47,1.95996663886572,GIN,Guinea
-2022,GIN,Pescados y mariscos,Guinea,11.07,46.163469557965,GIN,Guinea
-2022,GIN,Porcina,Guinea,0.38,1.58465387823186,GIN,Guinea
-2022,GIN,Vacuna,Guinea,5.28,22.0183486238532,GIN,Guinea
-2022,GMB,Aviar,Gambia,20.07,46.2016574585635,GMB,Gambia
-2022,GMB,Caprina y ovina,Gambia,0.65,1.4963167587477,GMB,Gambia
-2022,GMB,Otras carnes,Gambia,0.6,1.38121546961326,GMB,Gambia
-2022,GMB,Pescados y mariscos,Gambia,20.1,46.2707182320442,GMB,Gambia
-2022,GMB,Porcina,Gambia,0.59,1.35819521178637,GMB,Gambia
-2022,GMB,Vacuna,Gambia,1.43,3.29189686924494,GMB,Gambia
-2022,GNB,Aviar,Guinea-Bissau,2.94,18.2608695652174,GNB,Guinea-Bissau
-2022,GNB,Caprina y ovina,Guinea-Bissau,1.05,6.52173913043478,GNB,Guinea-Bissau
-2022,GNB,Otras carnes,Guinea-Bissau,0.0,0.0,GNB,Guinea-Bissau
-2022,GNB,Pescados y mariscos,Guinea-Bissau,2.4,14.9068322981366,GNB,Guinea-Bissau
-2022,GNB,Porcina,Guinea-Bissau,6.06,37.639751552795,GNB,Guinea-Bissau
-2022,GNB,Vacuna,Guinea-Bissau,3.65,22.6708074534162,GNB,Guinea-Bissau
-2022,GRC,Aviar,Grecia,26.23,26.6863363516126,GRC,Grecia
-2022,GRC,Caprina y ovina,Grecia,8.56,8.70892257605046,GRC,Grecia
-2022,GRC,Otras carnes,Grecia,1.94,1.97375114457218,GRC,Grecia
-2022,GRC,Pescados y mariscos,Grecia,19.37,19.7069895208058,GRC,Grecia
-2022,GRC,Porcina,Grecia,27.39,27.8665174483671,GRC,Grecia
-2022,GRC,Vacuna,Grecia,14.8,15.0574829585919,GRC,Grecia
-2022,GRD,Aviar,Granada,49.59,45.9549624687239,GRD,Granada
-2022,GRD,Caprina y ovina,Granada,1.53,1.41784820683903,GRD,Granada
-2022,GRD,Otras carnes,Granada,1.05,0.973033083124826,GRD,Granada
-2022,GRD,Pescados y mariscos,Granada,30.32,28.0974886479474,GRD,Granada
-2022,GRD,Porcina,Granada,16.81,15.5777963117413,GRD,Granada
-2022,GRD,Vacuna,Granada,8.61,7.97887128162358,GRD,Granada
-2022,GTM,Aviar,Guatemala,29.03,58.7295164879628,GTM,Guatemala
-2022,GTM,Caprina y ovina,Guatemala,0.13,0.262998179243374,GTM,Guatemala
-2022,GTM,Otras carnes,Guatemala,0.15,0.303459437588509,GTM,Guatemala
-2022,GTM,Pescados y mariscos,Guatemala,3.38,6.83795266032774,GTM,Guatemala
-2022,GTM,Porcina,Guatemala,5.06,10.236698361319,GTM,Guatemala
-2022,GTM,Vacuna,Guatemala,11.68,23.6293748735586,GTM,Guatemala
-2022,GUY,Aviar,Guyana,65.81,63.9863879436072,GUY,Guyana
-2022,GUY,Caprina y ovina,Guyana,1.06,1.03062712688381,GUY,Guyana
-2022,GUY,Otras carnes,Guyana,0.14,0.136120563928051,GUY,Guyana
-2022,GUY,Pescados y mariscos,Guyana,25.3,24.5989304812834,GUY,Guyana
-2022,GUY,Porcina,Guyana,7.34,7.13660670879922,GUY,Guyana
-2022,GUY,Vacuna,Guyana,3.2,3.1113271754983,GUY,Guyana
-2022,HKG,Aviar,Hong Kong,45.14,23.8545685145062,HKG,Hong Kong
-2022,HKG,Caprina y ovina,Hong Kong,0.52,0.274797865031972,HKG,Hong Kong
-2022,HKG,Otras carnes,Hong Kong,2.05,1.08333773714527,HKG,Hong Kong
-2022,HKG,Pescados y mariscos,Hong Kong,65.88,34.8147756698198,HKG,Hong Kong
-2022,HKG,Porcina,Hong Kong,52.57,27.7810072398668,HKG,Hong Kong
-2022,HKG,Vacuna,Hong Kong,23.07,12.19151297363,HKG,Hong Kong
-2022,HND,Aviar,Honduras,25.94,59.0619307832423,HND,Honduras
-2022,HND,Caprina y ovina,Honduras,0.03,0.0683060109289617,HND,Honduras
-2022,HND,Otras carnes,Honduras,0.05,0.11384335154827,HND,Honduras
-2022,HND,Pescados y mariscos,Honduras,4.48,10.200364298725,HND,Honduras
-2022,HND,Porcina,Honduras,7.19,16.3706739526412,HND,Honduras
-2022,HND,Vacuna,Honduras,6.23,14.1848816029144,HND,Honduras
-2022,HRV,Aviar,Croacia,19.54,17.0655021834061,HRV,Croacia
-2022,HRV,Caprina y ovina,Croacia,1.73,1.51091703056769,HRV,Croacia
-2022,HRV,Otras carnes,Croacia,1.05,0.91703056768559,HRV,Croacia
-2022,HRV,Pescados y mariscos,Croacia,20.33,17.7554585152838,HRV,Croacia
-2022,HRV,Porcina,Croacia,57.39,50.1222707423581,HRV,Croacia
-2022,HRV,Vacuna,Croacia,14.46,12.6288209606987,HRV,Croacia
-2022,HTI,Aviar,Haití,9.92,40.3088175538399,HTI,Haití
-2022,HTI,Caprina y ovina,Haití,0.59,2.39739943112556,HTI,Haití
-2022,HTI,Otras carnes,Haití,0.83,3.37261275904104,HTI,Haití
-2022,HTI,Pescados y mariscos,Haití,4.91,19.9512393336042,HTI,Haití
-2022,HTI,Porcina,Haití,4.05,16.4567249085738,HTI,Haití
-2022,HTI,Vacuna,Haití,4.31,17.5132060138155,HTI,Haití
-2022,HUN,Aviar,Hungría,23.69,28.614566976688,HUN,Hungría
-2022,HUN,Caprina y ovina,Hungría,0.11,0.132866288199058,HUN,Hungría
-2022,HUN,Otras carnes,Hungría,0.36,0.434835125015098,HUN,Hungría
-2022,HUN,Pescados y mariscos,Hungría,6.15,7.4284333856746,HUN,Hungría
-2022,HUN,Porcina,Hungría,47.08,56.8667713491968,HUN,Hungría
-2022,HUN,Vacuna,Hungría,5.4,6.52252687522648,HUN,Hungría
-2022,IDN,Aviar,Indonesia,14.8,24.5033112582781,IDN,Indonesia
-2022,IDN,Caprina y ovina,Indonesia,0.42,0.695364238410596,IDN,Indonesia
-2022,IDN,Otras carnes,Indonesia,0.01,0.0165562913907285,IDN,Indonesia
-2022,IDN,Pescados y mariscos,Indonesia,41.24,68.2781456953642,IDN,Indonesia
-2022,IDN,Porcina,Indonesia,0.94,1.55629139072848,IDN,Indonesia
-2022,IDN,Vacuna,Indonesia,2.99,4.95033112582781,IDN,Indonesia
-2022,IND,Aviar,India,3.49,22.5306649451259,IND,India
-2022,IND,Caprina y ovina,India,0.58,3.74435119431891,IND,India
-2022,IND,Otras carnes,India,0.14,0.903808908973531,IND,India
-2022,IND,Pescados y mariscos,India,8.86,57.1981923821821,IND,India
-2022,IND,Porcina,India,0.22,1.42027114267269,IND,India
-2022,IND,Vacuna,India,2.2,14.2027114267269,IND,India
-2022,IRL,Aviar,Irlanda,31.18,28.1891329897839,IRL,Irlanda
-2022,IRL,Caprina y ovina,Irlanda,4.22,3.81520658168339,IRL,Irlanda
-2022,IRL,Otras carnes,Irlanda,2.53,2.28731579423199,IRL,Irlanda
-2022,IRL,Pescados y mariscos,Irlanda,19.94,18.0273031371485,IRL,Irlanda
-2022,IRL,Porcina,Irlanda,29.11,26.3176927945032,IRL,Irlanda
-2022,IRL,Vacuna,Irlanda,23.63,21.3633487026489,IRL,Irlanda
-2022,IRN,Aviar,Irán,24.58,56.5187399402161,IRN,Irán
-2022,IRN,Caprina y ovina,Irán,3.34,7.67992641986664,IRN,Irán
-2022,IRN,Otras carnes,Irán,0.09,0.206944125086227,IRN,Irán
-2022,IRN,Pescados y mariscos,Irán,11.57,26.6038169694183,IRN,Irán
-2022,IRN,Porcina,Irán,0.0,0.0,IRN,Irán
-2022,IRN,Vacuna,Irán,3.91,8.99057254541274,IRN,Irán
-2022,IRQ,Aviar,Iraq,16.42,66.4508296236342,IRQ,Iraq
-2022,IRQ,Caprina y ovina,Iraq,1.48,5.98947794415217,IRQ,Iraq
-2022,IRQ,Otras carnes,Iraq,0.08,0.323755564548766,IRQ,Iraq
-2022,IRQ,Pescados y mariscos,Iraq,2.68,10.8458114123837,IRQ,Iraq
-2022,IRQ,Porcina,Iraq,0.41,1.65924726831242,IRQ,Iraq
-2022,IRQ,Vacuna,Iraq,3.64,14.7308781869688,IRQ,Iraq
-2022,ISL,Aviar,Islandia,30.74,17.0276408353182,ISL,Islandia
-2022,ISL,Caprina y ovina,Islandia,14.89,8.24793663103085,ISL,Islandia
-2022,ISL,Otras carnes,Islandia,11.12,6.15964105688805,ISL,Islandia
-2022,ISL,Pescados y mariscos,Islandia,87.1,48.2468287819199,ISL,Islandia
-2022,ISL,Porcina,Islandia,20.68,11.4551598072343,ISL,Islandia
-2022,ISL,Vacuna,Islandia,16.0,8.86279288760871,ISL,Islandia
-2022,ISR,Aviar,Israel,70.83,51.1260285838025,ISR,Israel
-2022,ISR,Caprina y ovina,Israel,5.1,3.68124729320052,ISR,Israel
-2022,ISR,Otras carnes,Israel,0.01,0.007218131947452,ISR,Israel
-2022,ISR,Pescados y mariscos,Israel,25.35,18.2979644867908,ISR,Israel
-2022,ISR,Porcina,Israel,1.15,0.83008517395698,ISR,Israel
-2022,ISR,Vacuna,Israel,36.1,26.0574563303017,ISR,Israel
-2022,ITA,Aviar,Italia,20.31,19.6821397422231,ITA,Italia
-2022,ITA,Caprina y ovina,Italia,0.86,0.833414090512647,ITA,Italia
-2022,ITA,Otras carnes,Italia,1.22,1.18228510514585,ITA,Italia
-2022,ITA,Pescados y mariscos,Italia,29.62,28.7043318150984,ITA,Italia
-2022,ITA,Porcina,Italia,34.96,33.8792518654908,ITA,Italia
-2022,ITA,Vacuna,Italia,16.22,15.7185773815292,ITA,Italia
-2022,JAM,Aviar,Jamaica,55.67,60.1837837837838,JAM,Jamaica
-2022,JAM,Caprina y ovina,Jamaica,1.18,1.27567567567568,JAM,Jamaica
-2022,JAM,Otras carnes,Jamaica,0.01,0.0108108108108108,JAM,Jamaica
-2022,JAM,Pescados y mariscos,Jamaica,27.58,29.8162162162162,JAM,Jamaica
-2022,JAM,Porcina,Jamaica,2.76,2.98378378378378,JAM,Jamaica
-2022,JAM,Vacuna,Jamaica,5.3,5.72972972972973,JAM,Jamaica
-2022,JOR,Aviar,Jordania,26.6,62.2513456587877,JOR,Jordania
-2022,JOR,Caprina y ovina,Jordania,4.38,10.2504095483267,JOR,Jordania
-2022,JOR,Otras carnes,Jordania,0.09,0.21062485373274,JOR,Jordania
-2022,JOR,Pescados y mariscos,Jordania,4.83,11.3035338169904,JOR,Jordania
-2022,JOR,Porcina,Jordania,0.01,0.0234027615258601,JOR,Jordania
-2022,JOR,Vacuna,Jordania,6.82,15.9606833606366,JOR,Jordania
-2022,JPN,Aviar,Japón,27.9,26.2959472196041,JPN,Japón
-2022,JPN,Caprina y ovina,Japón,0.15,0.141376060320452,JPN,Japón
-2022,JPN,Otras carnes,Japón,0.12,0.113100848256362,JPN,Japón
-2022,JPN,Pescados y mariscos,Japón,45.68,43.0537229029218,JPN,Japón
-2022,JPN,Porcina,Japón,22.77,21.4608859566447,JPN,Japón
-2022,JPN,Vacuna,Japón,9.48,8.93496701225259,JPN,Japón
-2022,KAZ,Aviar,Kazajstán,21.82,29.5583852614468,KAZ,Kazajstán
-2022,KAZ,Caprina y ovina,Kazajstán,8.51,11.5280411812517,KAZ,Kazajstán
-2022,KAZ,Otras carnes,Kazajstán,7.02,9.50961798970469,KAZ,Kazajstán
-2022,KAZ,Pescados y mariscos,Kazajstán,3.63,4.91736656732593,KAZ,Kazajstán
-2022,KAZ,Porcina,Kazajstán,8.01,10.8507179626118,KAZ,Kazajstán
-2022,KAZ,Vacuna,Kazajstán,24.83,33.6358710376592,KAZ,Kazajstán
-2022,KEN,Aviar,Kenia,2.07,14.9135446685879,KEN,Kenia
-2022,KEN,Caprina y ovina,Kenia,1.95,14.0489913544669,KEN,Kenia
-2022,KEN,Otras carnes,Kenia,1.63,11.7435158501441,KEN,Kenia
-2022,KEN,Pescados y mariscos,Kenia,2.93,21.1095100864553,KEN,Kenia
-2022,KEN,Porcina,Kenia,0.37,2.6657060518732,KEN,Kenia
-2022,KEN,Vacuna,Kenia,4.93,35.5187319884726,KEN,Kenia
-2022,KGZ,Aviar,Kirguistán,7.55,19.0224237843285,KGZ,Kirguistán
-2022,KGZ,Caprina y ovina,Kirguistán,9.84,24.7921390778534,KGZ,Kirguistán
-2022,KGZ,Otras carnes,Kirguistán,3.88,9.77576215671454,KGZ,Kirguistán
-2022,KGZ,Pescados y mariscos,Kirguistán,1.54,3.88007054673721,KGZ,Kirguistán
-2022,KGZ,Porcina,Kirguistán,1.41,3.5525321239607,KGZ,Kirguistán
-2022,KGZ,Vacuna,Kirguistán,15.47,38.9770723104056,KGZ,Kirguistán
-2022,KHM,Aviar,Camboya,1.83,3.42953523238381,KHM,Camboya
-2022,KHM,Caprina y ovina,Camboya,0.01,0.0187406296851574,KHM,Camboya
-2022,KHM,Otras carnes,Camboya,0.0,0.0,KHM,Camboya
-2022,KHM,Pescados y mariscos,Camboya,40.95,76.7428785607196,KHM,Camboya
-2022,KHM,Porcina,Camboya,6.18,11.5817091454273,KHM,Camboya
-2022,KHM,Vacuna,Camboya,4.39,8.22713643178411,KHM,Camboya
-2022,KIR,Aviar,Kiribati,23.71,20.4572907679034,KIR,Kiribati
-2022,KIR,Caprina y ovina,Kiribati,0.23,0.198446937014668,KIR,Kiribati
-2022,KIR,Otras carnes,Kiribati,0.12,0.103537532355479,KIR,Kiribati
-2022,KIR,Pescados y mariscos,Kiribati,72.99,62.97670405522,KIR,Kiribati
-2022,KIR,Porcina,Kiribati,13.58,11.7169974115617,KIR,Kiribati
-2022,KIR,Vacuna,Kiribati,5.27,4.54702329594478,KIR,Kiribati
-2022,KNA,Aviar,Saint Kitts y Nevis,61.21,48.7845700167371,KNA,Saint Kitts y Nevis
-2022,KNA,Caprina y ovina,Saint Kitts y Nevis,2.4,1.91280784251215,KNA,Saint Kitts y Nevis
-2022,KNA,Otras carnes,Saint Kitts y Nevis,0.11,0.0876703594484737,KNA,Saint Kitts y Nevis
-2022,KNA,Pescados y mariscos,Saint Kitts y Nevis,35.74,28.4848967880768,KNA,Saint Kitts y Nevis
-2022,KNA,Porcina,Saint Kitts y Nevis,17.92,14.2822985574241,KNA,Saint Kitts y Nevis
-2022,KNA,Vacuna,Saint Kitts y Nevis,8.09,6.44775643580139,KNA,Saint Kitts y Nevis
-2022,KOR,Aviar,Corea del Sur,21.81,15.6850053937433,KOR,Corea del Sur
-2022,KOR,Caprina y ovina,Corea del Sur,0.55,0.395541172240201,KOR,Corea del Sur
-2022,KOR,Otras carnes,Corea del Sur,0.16,0.115066522833513,KOR,Corea del Sur
-2022,KOR,Pescados y mariscos,Corea del Sur,55.65,40.0215749730313,KOR,Corea del Sur
-2022,KOR,Porcina,Corea del Sur,41.34,29.730312837109,KOR,Corea del Sur
-2022,KOR,Vacuna,Corea del Sur,19.54,14.0524991010428,KOR,Corea del Sur
-2022,KWT,Aviar,Kuwait,52.27,53.8366464105469,KWT,Kuwait
-2022,KWT,Caprina y ovina,Kuwait,14.94,15.3877845298177,KWT,Kuwait
-2022,KWT,Otras carnes,Kuwait,2.99,3.07961685034504,KWT,Kuwait
-2022,KWT,Pescados y mariscos,Kuwait,14.69,15.13029148213,KWT,Kuwait
-2022,KWT,Porcina,Kuwait,0.34,0.350190544855289,KWT,Kuwait
-2022,KWT,Vacuna,Kuwait,11.86,12.2154701823051,KWT,Kuwait
-2022,LAO,Aviar,Lao,6.34,11.4938361131255,LAO,Laos
-2022,LAO,Caprina y ovina,Lao,0.4,0.725163161711385,LAO,Laos
-2022,LAO,Otras carnes,Lao,0.31,0.562001450326323,LAO,Laos
-2022,LAO,Pescados y mariscos,Lao,25.21,45.70340826686,LAO,Laos
-2022,LAO,Porcina,Lao,13.7,24.8368382886149,LAO,Laos
-2022,LAO,Vacuna,Lao,9.2,16.6787527193619,LAO,Laos
-2022,LBN,Aviar,Líbano,23.57,52.0883977900552,LBN,Líbano
-2022,LBN,Caprina y ovina,Líbano,1.33,2.93922651933702,LBN,Líbano
-2022,LBN,Otras carnes,Líbano,0.01,0.0220994475138122,LBN,Líbano
-2022,LBN,Pescados y mariscos,Líbano,4.97,10.9834254143646,LBN,Líbano
-2022,LBN,Porcina,Líbano,0.95,2.09944751381215,LBN,Líbano
-2022,LBN,Vacuna,Líbano,14.42,31.8674033149171,LBN,Líbano
-2022,LBR,Aviar,Liberia,12.99,51.3844936708861,LBR,Liberia
-2022,LBR,Caprina y ovina,Liberia,0.39,1.54272151898734,LBR,Liberia
-2022,LBR,Otras carnes,Liberia,1.58,6.25,LBR,Liberia
-2022,LBR,Pescados y mariscos,Liberia,4.91,19.4224683544304,LBR,Liberia
-2022,LBR,Porcina,Liberia,4.87,19.2642405063291,LBR,Liberia
-2022,LBR,Vacuna,Liberia,0.54,2.13607594936709,LBR,Liberia
-2022,LBY,Aviar,Libia,34.61,52.8719828903147,LBY,Libia
-2022,LBY,Caprina y ovina,Libia,6.0,9.16590284142988,LBY,Libia
-2022,LBY,Otras carnes,Libia,0.85,1.2985029025359,LBY,Libia
-2022,LBY,Pescados y mariscos,Libia,19.97,30.5071799572258,LBY,Libia
-2022,LBY,Porcina,Libia,0.05,0.0763825236785824,LBY,Libia
-2022,LBY,Vacuna,Libia,3.98,6.08004888481516,LBY,Libia
-2022,LCA,Aviar,Santa Lucía,65.17,52.0319361277445,LCA,Santa Lucía
-2022,LCA,Caprina y ovina,Santa Lucía,3.04,2.42714570858283,LCA,Santa Lucía
-2022,LCA,Otras carnes,Santa Lucía,0.0,0.0,LCA,Santa Lucía
-2022,LCA,Pescados y mariscos,Santa Lucía,33.43,26.6906187624751,LCA,Santa Lucía
-2022,LCA,Porcina,Santa Lucía,16.87,13.4690618762475,LCA,Santa Lucía
-2022,LCA,Vacuna,Santa Lucía,6.74,5.3812375249501,LCA,Santa Lucía
-2022,LKA,Aviar,Sri Lanka,10.43,29.0934449093445,LKA,Sri Lanka
-2022,LKA,Caprina y ovina,Sri Lanka,0.14,0.390516039051604,LKA,Sri Lanka
-2022,LKA,Otras carnes,Sri Lanka,0.0,0.0,LKA,Sri Lanka
-2022,LKA,Pescados y mariscos,Sri Lanka,23.94,66.7782426778243,LKA,Sri Lanka
-2022,LKA,Porcina,Sri Lanka,0.07,0.195258019525802,LKA,Sri Lanka
-2022,LKA,Vacuna,Sri Lanka,1.27,3.54253835425384,LKA,Sri Lanka
-2022,LSO,Aviar,Lesotho,1.02,7.76255707762557,LSO,Lesotho
-2022,LSO,Caprina y ovina,Lesotho,0.51,3.88127853881279,LSO,Lesotho
-2022,LSO,Otras carnes,Lesotho,2.57,19.558599695586,LSO,Lesotho
-2022,LSO,Pescados y mariscos,Lesotho,1.94,14.7640791476408,LSO,Lesotho
-2022,LSO,Porcina,Lesotho,5.06,38.5083713850837,LSO,Lesotho
-2022,LSO,Vacuna,Lesotho,2.04,15.5251141552511,LSO,Lesotho
-2022,LTU,Aviar,Lituania,26.55,23.921073970628,LTU,Lituania
-2022,LTU,Caprina y ovina,Lituania,0.38,0.342373186773583,LTU,Lituania
-2022,LTU,Otras carnes,Lituania,0.55,0.495540138751239,LTU,Lituania
-2022,LTU,Pescados y mariscos,Lituania,29.6,26.6690692855212,LTU,Lituania
-2022,LTU,Porcina,Lituania,48.86,44.0219839625192,LTU,Lituania
-2022,LTU,Vacuna,Lituania,5.05,4.54995945580683,LTU,Lituania
-2022,LUX,Aviar,Luxemburgo,19.84,16.9297721648605,LUX,Luxemburgo
-2022,LUX,Caprina y ovina,Luxemburgo,1.09,0.930113490912194,LUX,Luxemburgo
-2022,LUX,Otras carnes,Luxemburgo,1.24,1.05811076030378,LUX,Luxemburgo
-2022,LUX,Pescados y mariscos,Luxemburgo,31.12,26.5551668231078,LUX,Luxemburgo
-2022,LUX,Porcina,Luxemburgo,33.17,28.3044628381261,LUX,Luxemburgo
-2022,LUX,Vacuna,Luxemburgo,30.73,26.2223739226896,LUX,Luxemburgo
-2022,LVA,Aviar,Letonia,29.29,26.9779865524546,LVA,Letonia
-2022,LVA,Caprina y ovina,Letonia,0.36,0.331583310306715,LVA,Letonia
-2022,LVA,Otras carnes,Letonia,0.26,0.239476835221516,LVA,Letonia
-2022,LVA,Pescados y mariscos,Letonia,24.91,22.9437229437229,LVA,Letonia
-2022,LVA,Porcina,Letonia,48.07,44.2755825734549,LVA,Letonia
-2022,LVA,Vacuna,Letonia,5.68,5.23164778483927,LVA,Letonia
-2022,MAC,Aviar,Macao,49.61,27.3318274475236,MAC,Macao
-2022,MAC,Caprina y ovina,Macao,0.57,0.314032284722605,MAC,Macao
-2022,MAC,Otras carnes,Macao,1.46,0.804363395956146,MAC,Macao
-2022,MAC,Pescados y mariscos,Macao,68.37,37.6673461517272,MAC,Macao
-2022,MAC,Porcina,Macao,48.9,26.9406644262024,MAC,Macao
-2022,MAC,Vacuna,Macao,12.6,6.94176629386811,MAC,Macao
-2022,MAR,Aviar,Marruecos,17.46,36.1490683229814,MAR,Marruecos
-2022,MAR,Caprina y ovina,Marruecos,5.18,10.7246376811594,MAR,Marruecos
-2022,MAR,Otras carnes,Marruecos,1.81,3.74741200828157,MAR,Marruecos
-2022,MAR,Pescados y mariscos,Marruecos,16.83,34.8447204968944,MAR,Marruecos
-2022,MAR,Porcina,Marruecos,0.02,0.041407867494824,MAR,Marruecos
-2022,MAR,Vacuna,Marruecos,7.0,14.4927536231884,MAR,Marruecos
-2022,MDA,Aviar,Moldavia,24.93,45.3107960741549,MDA,Moldavia
-2022,MDA,Caprina y ovina,Moldavia,0.01,0.0181752090149037,MDA,Moldavia
-2022,MDA,Otras carnes,Moldavia,0.28,0.508905852417303,MDA,Moldavia
-2022,MDA,Pescados y mariscos,Moldavia,16.18,29.4074881861141,MDA,Moldavia
-2022,MDA,Porcina,Moldavia,12.5,22.7190112686296,MDA,Moldavia
-2022,MDA,Vacuna,Moldavia,1.12,2.03562340966921,MDA,Moldavia
-2022,MDG,Aviar,Madagascar,3.03,32.9347826086957,MDG,Madagascar
-2022,MDG,Caprina y ovina,Madagascar,0.15,1.6304347826087,MDG,Madagascar
-2022,MDG,Otras carnes,Madagascar,0.28,3.04347826086957,MDG,Madagascar
-2022,MDG,Pescados y mariscos,Madagascar,3.71,40.3260869565217,MDG,Madagascar
-2022,MDG,Porcina,Madagascar,0.9,9.78260869565217,MDG,Madagascar
-2022,MDG,Vacuna,Madagascar,1.13,12.2826086956522,MDG,Madagascar
-2022,MDV,Aviar,Maldivas,21.8,18.3177884211411,MDV,Maldivas
-2022,MDV,Caprina y ovina,Maldivas,1.77,1.48726997731283,MDV,Maldivas
-2022,MDV,Otras carnes,Maldivas,0.7,0.588185866733888,MDV,Maldivas
-2022,MDV,Pescados y mariscos,Maldivas,80.08,67.2884631543568,MDV,Maldivas
-2022,MDV,Porcina,Maldivas,0.83,0.69742038484161,MDV,Maldivas
-2022,MDV,Vacuna,Maldivas,13.83,11.6208721956138,MDV,Maldivas
-2022,MEX,Aviar,México,38.83,42.520805957074,MEX,México
-2022,MEX,Caprina y ovina,México,0.85,0.930792816469558,MEX,México
-2022,MEX,Otras carnes,México,0.62,0.678931230836619,MEX,México
-2022,MEX,Pescados y mariscos,México,13.79,15.1007446342532,MEX,México
-2022,MEX,Porcina,México,21.96,24.0473061760841,MEX,México
-2022,MEX,Vacuna,México,15.27,16.7214191852825,MEX,México
-2022,MHL,Aviar,Islas Marshall,74.75,46.0680389498336,MHL,Islas Marshall
-2022,MHL,Caprina y ovina,Islas Marshall,1.08,0.665598422285221,MHL,Islas Marshall
-2022,MHL,Otras carnes,Islas Marshall,0.23,0.141747812153334,MHL,Islas Marshall
-2022,MHL,Pescados y mariscos,Islas Marshall,43.91,27.0615062245778,MHL,Islas Marshall
-2022,MHL,Porcina,Islas Marshall,28.04,17.2809071859978,MHL,Islas Marshall
-2022,MHL,Vacuna,Islas Marshall,14.25,8.78220140515223,MHL,Islas Marshall
-2022,MKD,Aviar,Macedonia del Norte,18.01,36.5240316365849,MKD,Macedonia del Norte
-2022,MKD,Caprina y ovina,Macedonia del Norte,0.8,1.62238896775502,MKD,Macedonia del Norte
-2022,MKD,Otras carnes,Macedonia del Norte,0.37,0.750354897586696,MKD,Macedonia del Norte
-2022,MKD,Pescados y mariscos,Macedonia del Norte,7.0,14.1959034678564,MKD,Macedonia del Norte
-2022,MKD,Porcina,Macedonia del Norte,14.48,29.3652403163658,MKD,Macedonia del Norte
-2022,MKD,Vacuna,Macedonia del Norte,8.65,17.5420807138511,MKD,Macedonia del Norte
-2022,MLI,Aviar,Malí,2.55,15.4826958105647,MLI,Malí
-2022,MLI,Caprina y ovina,Malí,0.84,5.10018214936248,MLI,Malí
-2022,MLI,Otras carnes,Malí,1.48,8.98603521554341,MLI,Malí
-2022,MLI,Pescados y mariscos,Malí,8.82,53.551912568306,MLI,Malí
-2022,MLI,Porcina,Malí,0.06,0.364298724954463,MLI,Malí
-2022,MLI,Vacuna,Malí,2.72,16.514875531269,MLI,Malí
-2022,MLT,Aviar,Malta,24.01,25.0730994152047,MLT,Malta
-2022,MLT,Caprina y ovina,Malta,0.83,0.866750208855472,MLT,Malta
-2022,MLT,Otras carnes,Malta,0.65,0.678780284043442,MLT,Malta
-2022,MLT,Pescados y mariscos,Malta,30.36,31.7042606516291,MLT,Malta
-2022,MLT,Porcina,Malta,22.19,23.172514619883,MLT,Malta
-2022,MLT,Vacuna,Malta,17.72,18.5045948203843,MLT,Malta
-2022,MMR,Aviar,Myanmar,12.09,20.019870839543,MMR,Myanmar
-2022,MMR,Caprina y ovina,Myanmar,0.22,0.364298724954463,MMR,Myanmar
-2022,MMR,Otras carnes,Myanmar,0.0,0.0,MMR,Myanmar
-2022,MMR,Pescados y mariscos,Myanmar,40.31,66.749461831429,MMR,Myanmar
-2022,MMR,Porcina,Myanmar,5.11,8.46166583871502,MMR,Myanmar
-2022,MMR,Vacuna,Myanmar,2.66,4.4047027653585,MMR,Myanmar
-2022,MNE,Aviar,Montenegro,19.22,19.1319928329683,MNE,Montenegro
-2022,MNE,Caprina y ovina,Montenegro,1.68,1.67230738602429,MNE,Montenegro
-2022,MNE,Otras carnes,Montenegro,0.05,0.0497710531554848,MNE,Montenegro
-2022,MNE,Pescados y mariscos,Montenegro,12.03,11.9749153892096,MNE,Montenegro
-2022,MNE,Porcina,Montenegro,53.47,53.2251642444754,MNE,Montenegro
-2022,MNE,Vacuna,Montenegro,14.01,13.9458490941668,MNE,Montenegro
-2022,MNG,Aviar,Mongolia,7.1,5.34517804712791,MNG,Mongolia
-2022,MNG,Caprina y ovina,Mongolia,68.45,51.5320334261838,MNG,Mongolia
-2022,MNG,Otras carnes,Mongolia,23.31,17.5487465181058,MNG,Mongolia
-2022,MNG,Pescados y mariscos,Mongolia,1.05,0.790484077392155,MNG,Mongolia
-2022,MNG,Porcina,Mongolia,2.72,2.04773018143492,MNG,Mongolia
-2022,MNG,Vacuna,Mongolia,30.2,22.7358277497553,MNG,Mongolia
-2022,MOZ,Aviar,Mozambique,5.89,24.3489045059942,MOZ,Mozambique
-2022,MOZ,Caprina y ovina,Mozambique,0.12,0.496072757337743,MOZ,Mozambique
-2022,MOZ,Otras carnes,Mozambique,0.01,0.0413393964448119,MOZ,Mozambique
-2022,MOZ,Pescados y mariscos,Mozambique,13.13,54.278627532038,MOZ,Mozambique
-2022,MOZ,Porcina,Mozambique,4.33,17.8999586606036,MOZ,Mozambique
-2022,MOZ,Vacuna,Mozambique,0.71,2.93509714758165,MOZ,Mozambique
-2022,MRT,Aviar,Mauritania,7.81,18.7155523604122,MRT,Mauritania
-2022,MRT,Caprina y ovina,Mauritania,12.42,29.7627606038821,MRT,Mauritania
-2022,MRT,Otras carnes,Mauritania,6.42,15.3846153846154,MRT,Mauritania
-2022,MRT,Pescados y mariscos,Mauritania,8.05,19.2906781691828,MRT,Mauritania
-2022,MRT,Porcina,Mauritania,0.0,0.0,MRT,Mauritania
-2022,MRT,Vacuna,Mauritania,7.03,16.8463934819075,MRT,Mauritania
-2022,MUS,Aviar,Mauricio,45.15,50.7474429583006,MUS,Mauricio
-2022,MUS,Caprina y ovina,Mauricio,3.66,4.11374620658649,MUS,Mauricio
-2022,MUS,Otras carnes,Mauricio,0.68,0.764302573901315,MUS,Mauricio
-2022,MUS,Pescados y mariscos,Mauricio,28.83,32.404181184669,MUS,Mauricio
-2022,MUS,Porcina,Mauricio,4.17,4.68697313701248,MUS,Mauricio
-2022,MUS,Vacuna,Mauricio,6.48,7.28335393953018,MUS,Mauricio
-2022,MWI,Aviar,Malawi,7.21,18.0701754385965,MWI,Malawi
-2022,MWI,Caprina y ovina,Malawi,3.52,8.82205513784461,MWI,Malawi
-2022,MWI,Otras carnes,Malawi,0.0,0.0,MWI,Malawi
-2022,MWI,Pescados y mariscos,Malawi,9.07,22.7318295739348,MWI,Malawi
-2022,MWI,Porcina,Malawi,16.89,42.3308270676692,MWI,Malawi
-2022,MWI,Vacuna,Malawi,3.21,8.04511278195489,MWI,Malawi
-2022,MYS,Aviar,Malasia,53.06,43.1487354639343,MYS,Malasia
-2022,MYS,Caprina y ovina,Malasia,1.38,1.12222493291047,MYS,Malasia
-2022,MYS,Otras carnes,Malasia,0.01,0.0081320647312352,MYS,Malasia
-2022,MYS,Pescados y mariscos,Malasia,52.17,42.4249817028544,MYS,Malasia
-2022,MYS,Porcina,Malasia,7.44,6.05025616003903,MYS,Malasia
-2022,MYS,Vacuna,Malasia,8.91,7.24566967553062,MYS,Malasia
-2022,NAM,Aviar,Namibia,9.46,24.2191500256016,NAM,Namibia
-2022,NAM,Caprina y ovina,Namibia,3.87,9.90783410138249,NAM,Namibia
-2022,NAM,Otras carnes,Namibia,4.67,11.9559651817716,NAM,Namibia
-2022,NAM,Pescados y mariscos,Namibia,11.15,28.5458269329237,NAM,Namibia
-2022,NAM,Porcina,Namibia,4.67,11.9559651817716,NAM,Namibia
-2022,NAM,Vacuna,Namibia,5.24,13.4152585765489,NAM,Namibia
-2022,NCL,Aviar,Nueva Caledonia,36.57,34.7293447293447,NCL,Nueva Caledonia
-2022,NCL,Caprina y ovina,Nueva Caledonia,1.33,1.2630579297246,NCL,Nueva Caledonia
-2022,NCL,Otras carnes,Nueva Caledonia,1.2,1.13960113960114,NCL,Nueva Caledonia
-2022,NCL,Pescados y mariscos,Nueva Caledonia,22.75,21.6049382716049,NCL,Nueva Caledonia
-2022,NCL,Porcina,Nueva Caledonia,21.89,20.7882241215575,NCL,Nueva Caledonia
-2022,NCL,Vacuna,Nueva Caledonia,21.56,20.4748338081671,NCL,Nueva Caledonia
-2022,NER,Aviar,Níger,0.86,9.1005291005291,NER,Níger
-2022,NER,Caprina y ovina,Níger,1.84,19.4708994708995,NER,Níger
-2022,NER,Otras carnes,Níger,2.34,24.7619047619048,NER,Níger
-2022,NER,Pescados y mariscos,Níger,1.86,19.6825396825397,NER,Níger
-2022,NER,Porcina,Níger,0.06,0.634920634920635,NER,Níger
-2022,NER,Vacuna,Níger,2.49,26.3492063492063,NER,Níger
-2022,NGA,Aviar,Nigeria,1.63,10.9986504723347,NGA,Nigeria
-2022,NGA,Caprina y ovina,Nigeria,1.95,13.1578947368421,NGA,Nigeria
-2022,NGA,Otras carnes,Nigeria,0.82,5.53306342780027,NGA,Nigeria
-2022,NGA,Pescados y mariscos,Nigeria,7.2,48.582995951417,NGA,Nigeria
-2022,NGA,Porcina,Nigeria,1.7,11.4709851551957,NGA,Nigeria
-2022,NGA,Vacuna,Nigeria,1.52,10.2564102564103,NGA,Nigeria
-2022,NIC,Aviar,Nicaragua,23.7,60.9881626351004,NIC,Nicaragua
-2022,NIC,Caprina y ovina,Nicaragua,0.01,0.0257334019557386,NIC,Nicaragua
-2022,NIC,Otras carnes,Nicaragua,0.27,0.694801852804941,NIC,Nicaragua
-2022,NIC,Pescados y mariscos,Nicaragua,6.36,16.3664436438497,NIC,Nicaragua
-2022,NIC,Porcina,Nicaragua,5.89,15.15697375193,NIC,Nicaragua
-2022,NIC,Vacuna,Nicaragua,2.63,6.76788471435924,NIC,Nicaragua
-2022,NLD,Aviar,Países Bajos,13.78,16.259587020649,NLD,Países Bajos
-2022,NLD,Caprina y ovina,Países Bajos,0.97,1.14454277286136,NLD,Países Bajos
-2022,NLD,Otras carnes,Países Bajos,2.51,2.96165191740413,NLD,Países Bajos
-2022,NLD,Pescados y mariscos,Países Bajos,19.67,23.2094395280236,NLD,Países Bajos
-2022,NLD,Porcina,Países Bajos,31.09,36.6843657817109,NLD,Países Bajos
-2022,NLD,Vacuna,Países Bajos,16.73,19.740412979351,NLD,Países Bajos
-2022,NOR,Aviar,Noruega,21.51,17.6152649250676,NOR,Noruega
-2022,NOR,Caprina y ovina,Noruega,4.52,3.70158054213414,NOR,Noruega
-2022,NOR,Otras carnes,Noruega,1.72,1.4085660470068,NOR,Noruega
-2022,NOR,Pescados y mariscos,Noruega,49.87,40.8402260257145,NOR,Noruega
-2022,NOR,Porcina,Noruega,25.79,21.1203013676194,NOR,Noruega
-2022,NOR,Vacuna,Noruega,18.7,15.3140610924576,NOR,Noruega
-2022,NPL,Aviar,Nepal,6.73,33.416087388282,NPL,Nepal
-2022,NPL,Caprina y ovina,Nepal,2.52,12.5124131082423,NPL,Nepal
-2022,NPL,Otras carnes,Nepal,0.0,0.0,NPL,Nepal
-2022,NPL,Pescados y mariscos,Nepal,3.35,16.6335650446872,NPL,Nepal
-2022,NPL,Porcina,Nepal,1.18,5.85898709036743,NPL,Nepal
-2022,NPL,Vacuna,Nepal,6.36,31.5789473684211,NPL,Nepal
-2022,NRU,Aviar,Nauru,46.87,35.4217049576784,NRU,Nauru
-2022,NRU,Caprina y ovina,Nauru,5.04,3.80894800483676,NRU,Nauru
-2022,NRU,Otras carnes,Nauru,3.39,2.56197097944377,NRU,Nauru
-2022,NRU,Pescados y mariscos,Nauru,24.43,18.4628174123337,NRU,Nauru
-2022,NRU,Porcina,Nauru,31.73,23.979746070133,NRU,Nauru
-2022,NRU,Vacuna,Nauru,20.86,15.7648125755744,NRU,Nauru
-2022,NZL,Aviar,Nueva Zelanda,25.78,23.1938821412506,NZL,Nueva Zelanda
-2022,NZL,Caprina y ovina,Nueva Zelanda,12.96,11.6599190283401,NZL,Nueva Zelanda
-2022,NZL,Otras carnes,Nueva Zelanda,2.28,2.05128205128205,NZL,Nueva Zelanda
-2022,NZL,Pescados y mariscos,Nueva Zelanda,24.54,22.0782726045884,NZL,Nueva Zelanda
-2022,NZL,Porcina,Nueva Zelanda,24.23,21.7993702204229,NZL,Nueva Zelanda
-2022,NZL,Vacuna,Nueva Zelanda,21.36,19.2172739541161,NZL,Nueva Zelanda
-2022,OMN,Aviar,Omán,19.08,25.1284077439747,OMN,Omán
-2022,OMN,Caprina y ovina,Omán,12.0,15.8040300276571,OMN,Omán
-2022,OMN,Otras carnes,Omán,3.58,4.71486895825102,OMN,Omán
-2022,OMN,Pescados y mariscos,Omán,31.08,40.9324377716318,OMN,Omán
-2022,OMN,Porcina,Omán,0.5,0.658501251152377,OMN,Omán
-2022,OMN,Vacuna,Omán,9.69,12.7617542473331,OMN,Omán
-2022,PAK,Aviar,Pakistán,8.4,37.3333333333333,PAK,Pakistán
-2022,PAK,Caprina y ovina,Pakistán,2.49,11.0666666666667,PAK,Pakistán
-2022,PAK,Otras carnes,Pakistán,0.13,0.577777777777778,PAK,Pakistán
-2022,PAK,Pescados y mariscos,Pakistán,1.41,6.26666666666667,PAK,Pakistán
-2022,PAK,Porcina,Pakistán,0.0,0.0,PAK,Pakistán
-2022,PAK,Vacuna,Pakistán,10.07,44.7555555555556,PAK,Pakistán
-2022,PAN,Aviar,Panamá,50.68,54.0356114724384,PAN,Panamá
-2022,PAN,Caprina y ovina,Panamá,0.01,0.0106621174965348,PAN,Panamá
-2022,PAN,Otras carnes,Panamá,0.59,0.629064932295554,PAN,Panamá
-2022,PAN,Pescados y mariscos,Panamá,15.06,16.0571489497814,PAN,Panamá
-2022,PAN,Porcina,Panamá,12.01,12.8052031133383,PAN,Panamá
-2022,PAN,Vacuna,Panamá,15.44,16.4623094146498,PAN,Panamá
-2022,PER,Aviar,Perú,43.44,53.9493293591654,PER,Perú
-2022,PER,Caprina y ovina,Perú,0.76,0.943864878291108,PER,Perú
-2022,PER,Otras carnes,Perú,1.13,1.4033780427223,PER,Perú
-2022,PER,Pescados y mariscos,Perú,26.24,32.5881768504719,PER,Perú
-2022,PER,Porcina,Perú,4.75,5.89915548931942,PER,Perú
-2022,PER,Vacuna,Perú,4.2,5.21609538002981,PER,Perú
-2022,PHL,Aviar,Filipinas,15.73,25.677440417891,PHL,Filipinas
-2022,PHL,Caprina y ovina,Filipinas,0.27,0.440744368266406,PHL,Filipinas
-2022,PHL,Otras carnes,Filipinas,0.16,0.261181847861574,PHL,Filipinas
-2022,PHL,Pescados y mariscos,Filipinas,26.2,42.7685275873327,PHL,Filipinas
-2022,PHL,Porcina,Filipinas,15.11,24.6653607574274,PHL,Filipinas
-2022,PHL,Vacuna,Filipinas,3.79,6.18674502122103,PHL,Filipinas
-2022,PNG,Aviar,Papua Nueva Guinea,3.52,5.32929598788796,PNG,Papúa Nueva Guinea
-2022,PNG,Caprina y ovina,Papua Nueva Guinea,2.4,3.6336109008327,PNG,Papúa Nueva Guinea
-2022,PNG,Otras carnes,Papua Nueva Guinea,43.08,65.223315669947,PNG,Papúa Nueva Guinea
-2022,PNG,Pescados y mariscos,Papua Nueva Guinea,7.28,11.0219530658592,PNG,Papúa Nueva Guinea
-2022,PNG,Porcina,Papua Nueva Guinea,8.85,13.3989401968206,PNG,Papúa Nueva Guinea
-2022,PNG,Vacuna,Papua Nueva Guinea,0.92,1.39288417865254,PNG,Papúa Nueva Guinea
-2022,POL,Aviar,Polonia,29.53,31.941590048675,POL,Polonia
-2022,POL,Caprina y ovina,Polonia,0.03,0.0324499729583559,POL,Polonia
-2022,POL,Otras carnes,Polonia,0.15,0.162249864791779,POL,Polonia
-2022,POL,Pescados y mariscos,Polonia,10.84,11.7252568956193,POL,Polonia
-2022,POL,Porcina,Polonia,51.65,55.868036776636,POL,Polonia
-2022,POL,Vacuna,Polonia,0.25,0.270416441319632,POL,Polonia
-2022,PRT,Aviar,Portugal,32.82,21.4860883797054,PRT,Portugal
-2022,PRT,Caprina y ovina,Portugal,2.29,1.49918166939444,PRT,Portugal
-2022,PRT,Otras carnes,Portugal,0.63,0.412438625204583,PRT,Portugal
-2022,PRT,Pescados y mariscos,Portugal,54.33,35.5679214402619,PRT,Portugal
-2022,PRT,Porcina,Portugal,40.24,26.3436988543372,PRT,Portugal
-2022,PRT,Vacuna,Portugal,22.44,14.6906710310966,PRT,Portugal
-2022,PRY,Aviar,Paraguay,10.44,27.7881288261911,PRY,Paraguay
-2022,PRY,Caprina y ovina,Paraguay,0.39,1.03806228373702,PRY,Paraguay
-2022,PRY,Otras carnes,Paraguay,0.31,0.825126430662763,PRY,Paraguay
-2022,PRY,Pescados y mariscos,Paraguay,5.39,14.3465531008784,PRY,Paraguay
-2022,PRY,Porcina,Paraguay,10.41,27.7082778812883,PRY,Paraguay
-2022,PRY,Vacuna,Paraguay,10.63,28.2938514772425,PRY,Paraguay
-2022,PYF,Aviar,Polinesia Francesa,47.07,33.1642358909321,PYF,Polinesia Francesa
-2022,PYF,Caprina y ovina,Polinesia Francesa,2.46,1.73324878461213,PYF,Polinesia Francesa
-2022,PYF,Otras carnes,Polinesia Francesa,1.1,0.775029944338759,PYF,Polinesia Francesa
-2022,PYF,Pescados y mariscos,Polinesia Francesa,45.74,32.2271542309589,PYF,Polinesia Francesa
-2022,PYF,Porcina,Polinesia Francesa,12.78,9.00443880786303,PYF,Polinesia Francesa
-2022,PYF,Vacuna,Polinesia Francesa,32.78,23.095892341295,PYF,Polinesia Francesa
-2022,QAT,Aviar,Qatar,59.16,52.2891992222026,QAT,Qatar
-2022,QAT,Caprina y ovina,Qatar,10.57,9.34240763655648,QAT,Qatar
-2022,QAT,Otras carnes,Qatar,0.37,0.327028460314654,QAT,Qatar
-2022,QAT,Pescados y mariscos,Qatar,24.34,21.5131695244829,QAT,Qatar
-2022,QAT,Porcina,Qatar,0.24,0.212126568852749,QAT,Qatar
-2022,QAT,Vacuna,Qatar,18.46,16.3160685875906,QAT,Qatar
-2022,ROU,Aviar,Rumania,21.59,28.471581168403,ROU,Rumania
-2022,ROU,Caprina y ovina,Rumania,3.09,4.07490439140182,ROU,Rumania
-2022,ROU,Otras carnes,Rumania,0.17,0.224185678491362,ROU,Rumania
-2022,ROU,Pescados y mariscos,Rumania,7.94,10.4707899248319,ROU,Rumania
-2022,ROU,Porcina,Rumania,38.48,50.7450876961625,ROU,Rumania
-2022,ROU,Vacuna,Rumania,4.56,6.01345114070948,ROU,Rumania
-2022,RUS,Aviar,Rusia,34.23,32.7184094819346,RUS,Rusia
-2022,RUS,Caprina y ovina,Rusia,1.45,1.38596826610591,RUS,Rusia
-2022,RUS,Otras carnes,Rusia,4.01,3.83291913592047,RUS,Rusia
-2022,RUS,Pescados y mariscos,Rusia,22.91,21.8982986044733,RUS,Rusia
-2022,RUS,Porcina,Rusia,29.51,28.206843815714,RUS,Rusia
-2022,RUS,Vacuna,Rusia,12.51,11.9575606958517,RUS,Rusia
-2022,RWA,Aviar,Ruanda,0.75,6.55594405594406,RWA,Ruanda
-2022,RWA,Caprina y ovina,Ruanda,1.03,9.0034965034965,RWA,Ruanda
-2022,RWA,Otras carnes,Ruanda,1.26,11.013986013986,RWA,Ruanda
-2022,RWA,Pescados y mariscos,Ruanda,5.21,45.541958041958,RWA,Ruanda
-2022,RWA,Porcina,Ruanda,0.49,4.28321678321678,RWA,Ruanda
-2022,RWA,Vacuna,Ruanda,2.7,23.6013986013986,RWA,Ruanda
-2022,SAU,Aviar,Arabia Saudita,45.57,64.7669130187607,SAU,Arabia Saudita
-2022,SAU,Caprina y ovina,Arabia Saudita,5.05,7.17737350767482,SAU,Arabia Saudita
-2022,SAU,Otras carnes,Arabia Saudita,2.04,2.89937464468448,SAU,Arabia Saudita
-2022,SAU,Pescados y mariscos,Arabia Saudita,11.81,16.785105173394,SAU,Arabia Saudita
-2022,SAU,Porcina,Arabia Saudita,0.0,0.0,SAU,Arabia Saudita
-2022,SAU,Vacuna,Arabia Saudita,5.89,8.37123365548607,SAU,Arabia Saudita
-2022,SDN,Aviar,Sudán,1.69,8.32922621981272,SDN,Sudán
-2022,SDN,Caprina y ovina,Sudán,6.96,34.3026121241991,SDN,Sudán
-2022,SDN,Otras carnes,Sudán,3.17,15.6234598324298,SDN,Sudán
-2022,SDN,Pescados y mariscos,Sudán,0.93,4.58353868900936,SDN,Sudán
-2022,SDN,Porcina,Sudán,0.0,0.0,SDN,Sudán
-2022,SDN,Vacuna,Sudán,7.54,37.161163134549,SDN,Sudán
-2022,SEN,Aviar,Senegal,8.3,23.3802816901408,SEN,Senegal
-2022,SEN,Caprina y ovina,Senegal,3.98,11.2112676056338,SEN,Senegal
-2022,SEN,Otras carnes,Senegal,1.13,3.1830985915493,SEN,Senegal
-2022,SEN,Pescados y mariscos,Senegal,14.35,40.4225352112676,SEN,Senegal
-2022,SEN,Porcina,Senegal,1.25,3.52112676056338,SEN,Senegal
-2022,SEN,Vacuna,Senegal,6.49,18.2816901408451,SEN,Senegal
-2022,SLB,Aviar,Islas Salomón,9.41,18.8993773850171,SLB,Islas Salomón
-2022,SLB,Caprina y ovina,Islas Salomón,0.07,0.140590480016067,SLB,Islas Salomón
-2022,SLB,Otras carnes,Islas Salomón,0.0,0.0,SLB,Islas Salomón
-2022,SLB,Pescados y mariscos,Islas Salomón,33.67,67.6240208877285,SLB,Islas Salomón
-2022,SLB,Porcina,Islas Salomón,4.67,9.3793934525005,SLB,Islas Salomón
-2022,SLB,Vacuna,Islas Salomón,1.97,3.9566177947379,SLB,Islas Salomón
-2022,SLE,Aviar,Sierra Leona,5.56,16.5821652251715,SLE,Sierra Leona
-2022,SLE,Caprina y ovina,Sierra Leona,0.43,1.28243364151506,SLE,Sierra Leona
-2022,SLE,Otras carnes,Sierra Leona,1.33,3.96659707724426,SLE,Sierra Leona
-2022,SLE,Pescados y mariscos,Sierra Leona,24.04,71.6969877721443,SLE,Sierra Leona
-2022,SLE,Porcina,Sierra Leona,0.54,1.61049806143752,SLE,Sierra Leona
-2022,SLE,Vacuna,Sierra Leona,1.63,4.86131822248732,SLE,Sierra Leona
-2022,SLV,Aviar,El Salvador,28.06,56.0079840319361,SLV,El Salvador
-2022,SLV,Caprina y ovina,El Salvador,0.02,0.0399201596806387,SLV,El Salvador
-2022,SLV,Otras carnes,El Salvador,0.0,0.0,SLV,El Salvador
-2022,SLV,Pescados y mariscos,El Salvador,7.18,14.3313373253493,SLV,El Salvador
-2022,SLV,Porcina,El Salvador,5.2,10.3792415169661,SLV,El Salvador
-2022,SLV,Vacuna,El Salvador,9.64,19.2415169660679,SLV,El Salvador
-2022,SOM,Aviar,Somalia,0.79,6.1003861003861,SOM,Somalia
-2022,SOM,Caprina y ovina,Somalia,4.46,34.4401544401544,SOM,Somalia
-2022,SOM,Otras carnes,Somalia,2.82,21.7760617760618,SOM,Somalia
-2022,SOM,Pescados y mariscos,Somalia,1.71,13.2046332046332,SOM,Somalia
-2022,SOM,Porcina,Somalia,0.01,0.0772200772200772,SOM,Somalia
-2022,SOM,Vacuna,Somalia,3.16,24.4015444015444,SOM,Somalia
-2022,SRB,Aviar,Serbia,11.46,13.8791328569698,SRB,Serbia
-2022,SRB,Caprina y ovina,Serbia,4.22,5.1108150660046,SRB,Serbia
-2022,SRB,Otras carnes,Serbia,0.03,0.0363328085260991,SRB,Serbia
-2022,SRB,Pescados y mariscos,Serbia,7.93,9.60397238706552,SRB,Serbia
-2022,SRB,Porcina,Serbia,49.11,59.4768075572242,SRB,Serbia
-2022,SRB,Vacuna,Serbia,9.82,11.8929393242098,SRB,Serbia
-2022,SSD,Aviar,Sudán del Sur,4.77,19.3273905996758,SSD,Sudán del Sur
-2022,SSD,Caprina y ovina,Sudán del Sur,3.89,15.7617504051864,SSD,Sudán del Sur
-2022,SSD,Otras carnes,Sudán del Sur,0.92,3.72771474878444,SSD,Sudán del Sur
-2022,SSD,Pescados y mariscos,Sudán del Sur,3.03,12.2771474878444,SSD,Sudán del Sur
-2022,SSD,Porcina,Sudán del Sur,0.0,0.0,SSD,Sudán del Sur
-2022,SSD,Vacuna,Sudán del Sur,12.07,48.9059967585089,SSD,Sudán del Sur
-2022,STP,Aviar,Santo Tomé y Príncipe,14.61,30.8553326293559,STP,Santo Tomé y Príncipe
-2022,STP,Caprina y ovina,Santo Tomé y Príncipe,0.07,0.147835269271383,STP,Santo Tomé y Príncipe
-2022,STP,Otras carnes,Santo Tomé y Príncipe,0.0,0.0,STP,Santo Tomé y Príncipe
-2022,STP,Pescados y mariscos,Santo Tomé y Príncipe,26.03,54.973600844773,STP,Santo Tomé y Príncipe
-2022,STP,Porcina,Santo Tomé y Príncipe,4.65,9.82048574445618,STP,Santo Tomé y Príncipe
-2022,STP,Vacuna,Santo Tomé y Príncipe,1.99,4.20274551214361,STP,Santo Tomé y Príncipe
-2022,SUR,Aviar,Suriname,45.41,59.8523790694609,SUR,Suriname
-2022,SUR,Caprina y ovina,Suriname,0.04,0.0527217609068143,SUR,Suriname
-2022,SUR,Otras carnes,Suriname,0.09,0.118623962040332,SUR,Suriname
-2022,SUR,Pescados y mariscos,Suriname,16.96,22.3540266244893,SUR,Suriname
-2022,SUR,Porcina,Suriname,8.3,10.939765388164,SUR,Suriname
-2022,SUR,Vacuna,Suriname,5.07,6.68248319493871,SUR,Suriname
-2022,SVK,Aviar,Eslovaquia,12.38,17.5702526256032,SVK,Eslovaquia
-2022,SVK,Caprina y ovina,Eslovaquia,0.11,0.156116945784842,SVK,Eslovaquia
-2022,SVK,Otras carnes,Eslovaquia,1.22,1.73147885325007,SVK,Eslovaquia
-2022,SVK,Pescados y mariscos,Eslovaquia,9.85,13.9795628725518,SVK,Eslovaquia
-2022,SVK,Porcina,Eslovaquia,40.11,56.9259154130003,SVK,Eslovaquia
-2022,SVK,Vacuna,Eslovaquia,6.79,9.63667328980982,SVK,Eslovaquia
-2022,SVN,Aviar,Eslovenia,25.91,35.3093485963478,SVN,Eslovenia
-2022,SVN,Caprina y ovina,Eslovenia,0.79,1.07658762605615,SVN,Eslovenia
-2022,SVN,Otras carnes,Eslovenia,0.35,0.47696920141728,SVN,Eslovenia
-2022,SVN,Pescados y mariscos,Eslovenia,12.95,17.6478604524394,SVN,Eslovenia
-2022,SVN,Porcina,Eslovenia,21.18,28.86345053148,SVN,Eslovenia
-2022,SVN,Vacuna,Eslovenia,12.2,16.6257835922595,SVN,Eslovenia
-2022,SWE,Aviar,Suecia,16.35,16.5670280676867,SWE,Suecia
-2022,SWE,Caprina y ovina,Suecia,1.31,1.3273887931908,SWE,Suecia
-2022,SWE,Otras carnes,Suecia,0.21,0.212787516465701,SWE,Suecia
-2022,SWE,Pescados y mariscos,Suecia,30.62,31.026446448475,SWE,Suecia
-2022,SWE,Porcina,Suecia,28.2,28.5743236396798,SWE,Suecia
-2022,SWE,Vacuna,Suecia,22.0,22.292025534502,SWE,Suecia
-2022,SWZ,Aviar,Eswatini,6.24,20.8277703604806,SWZ,Eswatini
-2022,SWZ,Caprina y ovina,Eswatini,1.81,6.04138851802403,SWZ,Eswatini
-2022,SWZ,Otras carnes,Eswatini,0.3,1.00133511348465,SWZ,Eswatini
-2022,SWZ,Pescados y mariscos,Eswatini,3.86,12.8838451268358,SWZ,Eswatini
-2022,SWZ,Porcina,Eswatini,2.0,6.67556742323097,SWZ,Eswatini
-2022,SWZ,Vacuna,Eswatini,15.75,52.5700934579439,SWZ,Eswatini
-2022,SYC,Aviar,Seychelles,41.61,32.5154333046808,SYC,Seychelles
-2022,SYC,Caprina y ovina,Seychelles,2.76,2.15675548956787,SYC,Seychelles
-2022,SYC,Otras carnes,Seychelles,0.55,0.429788231616785,SYC,Seychelles
-2022,SYC,Pescados y mariscos,Seychelles,51.26,40.0562631866844,SYC,Seychelles
-2022,SYC,Porcina,Seychelles,13.35,10.432132531062,SYC,Seychelles
-2022,SYC,Vacuna,Seychelles,18.44,14.4096272563882,SYC,Seychelles
-2022,SYR,Aviar,Siria,5.24,28.6495352651722,SYR,Siria
-2022,SYR,Caprina y ovina,Siria,8.86,48.4417714598141,SYR,Siria
-2022,SYR,Otras carnes,Siria,0.1,0.546746856205577,SYR,Siria
-2022,SYR,Pescados y mariscos,Siria,1.72,9.40404592673592,SYR,Siria
-2022,SYR,Porcina,Siria,0.09,0.492072170585019,SYR,Siria
-2022,SYR,Vacuna,Siria,2.28,12.4658283214871,SYR,Siria
-2022,TCD,Aviar,Chad,0.48,0.876232201533406,TCD,Chad
-2022,TCD,Caprina y ovina,Chad,19.03,34.7389558232932,TCD,Chad
-2022,TCD,Otras carnes,Chad,0.84,1.53340635268346,TCD,Chad
-2022,TCD,Pescados y mariscos,Chad,5.84,10.6608251186564,TCD,Chad
-2022,TCD,Porcina,Chad,0.14,0.255567725447244,TCD,Chad
-2022,TCD,Vacuna,Chad,28.45,51.9350127783863,TCD,Chad
-2022,TGO,Aviar,Togo,5.47,28.2104177411037,TGO,Togo
-2022,TGO,Caprina y ovina,Togo,1.25,6.44662197008767,TGO,Togo
-2022,TGO,Otras carnes,Togo,0.73,3.7648272305312,TGO,Togo
-2022,TGO,Pescados y mariscos,Togo,8.73,45.0232078390923,TGO,Togo
-2022,TGO,Porcina,Togo,2.29,11.8102114492006,TGO,Togo
-2022,TGO,Vacuna,Togo,0.92,4.74471376998453,TGO,Togo
-2022,THA,Aviar,Tailandia,11.16,20.4582951420715,THA,Tailandia
-2022,THA,Caprina y ovina,Tailandia,0.04,0.073327222731439,THA,Tailandia
-2022,THA,Otras carnes,Tailandia,0.08,0.146654445462878,THA,Tailandia
-2022,THA,Pescados y mariscos,Tailandia,28.62,52.4656278643446,THA,Tailandia
-2022,THA,Porcina,Tailandia,13.03,23.8863428047663,THA,Tailandia
-2022,THA,Vacuna,Tailandia,1.62,2.96975252062328,THA,Tailandia
-2022,TJK,Aviar,Tayikistán,2.75,7.46673907140918,TJK,Tayikistán
-2022,TJK,Caprina y ovina,Tayikistán,7.7,20.9068693999457,TJK,Tayikistán
-2022,TJK,Otras carnes,Tayikistán,0.18,0.488732011946783,TJK,Tayikistán
-2022,TJK,Pescados y mariscos,Tayikistán,0.94,2.55226717349986,TJK,Tayikistán
-2022,TJK,Porcina,Tayikistán,0.35,0.950312245452077,TJK,Tayikistán
-2022,TJK,Vacuna,Tayikistán,24.91,67.6350800977464,TJK,Tayikistán
-2022,TKM,Aviar,Turkmenistán,11.19,18.1420233463035,TKM,Turkmenistán
-2022,TKM,Caprina y ovina,Turkmenistán,20.34,32.9766536964981,TKM,Turkmenistán
-2022,TKM,Otras carnes,Turkmenistán,2.23,3.61543450064851,TKM,Turkmenistán
-2022,TKM,Pescados y mariscos,Turkmenistán,2.7,4.37743190661479,TKM,Turkmenistán
-2022,TKM,Porcina,Turkmenistán,0.07,0.11348897535668,TKM,Turkmenistán
-2022,TKM,Vacuna,Turkmenistán,25.15,40.7749675745785,TKM,Turkmenistán
-2022,TLS,Aviar,Timor-Leste,5.43,14.6875845279957,TLS,Timor-Leste
-2022,TLS,Caprina y ovina,Timor-Leste,0.5,1.35244793075467,TLS,Timor-Leste
-2022,TLS,Otras carnes,Timor-Leste,11.99,32.4317013794969,TLS,Timor-Leste
-2022,TLS,Pescados y mariscos,Timor-Leste,7.19,19.4482012442521,TLS,Timor-Leste
-2022,TLS,Porcina,Timor-Leste,10.29,27.833378414931,TLS,Timor-Leste
-2022,TLS,Vacuna,Timor-Leste,1.57,4.24668650256965,TLS,Timor-Leste
-2022,TON,Aviar,Tonga,90.61,51.579666419992,TON,Tonga
-2022,TON,Caprina y ovina,Tonga,18.04,10.2692548528491,TON,Tonga
-2022,TON,Otras carnes,Tonga,0.19,0.108157340467923,TON,Tonga
-2022,TON,Pescados y mariscos,Tonga,27.97,15.921899015199,TON,Tonga
-2022,TON,Porcina,Tonga,24.76,14.0946092104514,TON,Tonga
-2022,TON,Vacuna,Tonga,14.1,8.02641316104059,TON,Tonga
-2022,TTO,Aviar,Trinidad y Tobago,47.12,58.1800222249661,TTO,Trinidad y Tobago
-2022,TTO,Caprina y ovina,Trinidad y Tobago,1.6,1.97555253735029,TTO,Trinidad y Tobago
-2022,TTO,Otras carnes,Trinidad y Tobago,0.22,0.271638473885665,TTO,Trinidad y Tobago
-2022,TTO,Pescados y mariscos,Trinidad y Tobago,18.34,22.6447709593777,TTO,Trinidad y Tobago
-2022,TTO,Porcina,Trinidad y Tobago,6.97,8.6060007408322,TTO,Trinidad y Tobago
-2022,TTO,Vacuna,Trinidad y Tobago,6.74,8.3220150635881,TTO,Trinidad y Tobago
-2022,TUN,Aviar,Túnez,19.43,42.3311546840959,TUN,Túnez
-2022,TUN,Caprina y ovina,Túnez,5.73,12.483660130719,TUN,Túnez
-2022,TUN,Otras carnes,Túnez,0.77,1.67755991285403,TUN,Túnez
-2022,TUN,Pescados y mariscos,Túnez,15.67,34.1394335511983,TUN,Túnez
-2022,TUN,Porcina,Túnez,0.01,0.0217864923747277,TUN,Túnez
-2022,TUN,Vacuna,Túnez,4.29,9.34640522875817,TUN,Túnez
-2022,TUR,Aviar,Turquía,21.16,40.5286343612335,TUR,Turquía
-2022,TUR,Caprina y ovina,Turquía,7.04,13.4840068952308,TUR,Turquía
-2022,TUR,Otras carnes,Turquía,0.02,0.038306837770542,TUR,Turquía
-2022,TUR,Pescados y mariscos,Turquía,5.43,10.4003064547022,TUR,Turquía
-2022,TUR,Porcina,Turquía,0.0,0.0,TUR,Turquía
-2022,TUR,Vacuna,Turquía,18.56,35.548745451063,TUR,Turquía
-2022,TUV,Aviar,Tuvalu,42.35,36.2709832134293,TUV,Tuvalu
-2022,TUV,Caprina y ovina,Tuvalu,4.39,3.75984926344639,TUV,Tuvalu
-2022,TUV,Otras carnes,Tuvalu,0.7,0.599520383693045,TUV,Tuvalu
-2022,TUV,Pescados y mariscos,Tuvalu,48.53,41.5638917437479,TUV,Tuvalu
-2022,TUV,Porcina,Tuvalu,16.18,13.8574854402193,TUV,Tuvalu
-2022,TUV,Vacuna,Tuvalu,4.61,3.9482699554642,TUV,Tuvalu
-2022,TWN,Aviar,Taiwán,40.9,34.5935887676563,TWN,Taiwán
-2022,TWN,Caprina y ovina,Taiwán,0.8,0.676647213059291,TWN,Taiwán
-2022,TWN,Otras carnes,Taiwán,0.08,0.0676647213059291,TWN,Taiwán
-2022,TWN,Pescados y mariscos,Taiwán,29.68,25.1036116044997,TWN,Taiwán
-2022,TWN,Porcina,Taiwán,38.18,32.2929882432547,TWN,Taiwán
-2022,TWN,Vacuna,Taiwán,8.59,7.26549945022414,TWN,Taiwán
-2022,TZA,Aviar,Tanzanía,1.56,8.52459016393443,TZA,Tanzanía
-2022,TZA,Caprina y ovina,Tanzanía,1.47,8.0327868852459,TZA,Tanzanía
-2022,TZA,Otras carnes,Tanzanía,0.41,2.24043715846995,TZA,Tanzanía
-2022,TZA,Pescados y mariscos,Tanzanía,6.51,35.5737704918033,TZA,Tanzanía
-2022,TZA,Porcina,Tanzanía,0.69,3.77049180327869,TZA,Tanzanía
-2022,TZA,Vacuna,Tanzanía,7.66,41.8579234972678,TZA,Tanzanía
-2022,UGA,Aviar,Uganda,1.46,5.72998430141287,UGA,Uganda
-2022,UGA,Caprina y ovina,Uganda,0.79,3.10047095761381,UGA,Uganda
-2022,UGA,Otras carnes,Uganda,0.65,2.55102040816327,UGA,Uganda
-2022,UGA,Pescados y mariscos,Uganda,15.87,62.2841444270016,UGA,Uganda
-2022,UGA,Porcina,Uganda,2.74,10.7535321821036,UGA,Uganda
-2022,UGA,Vacuna,Uganda,3.97,15.5808477237049,UGA,Uganda
-2022,UKR,Aviar,Ucrania,22.87,35.7399593686513,UKR,Ucrania
-2022,UKR,Caprina y ovina,Ucrania,0.27,0.421940928270042,UKR,Ucrania
-2022,UKR,Otras carnes,Ucrania,0.37,0.578215346147836,UKR,Ucrania
-2022,UKR,Pescados y mariscos,Ucrania,16.03,25.0507891858103,UKR,Ucrania
-2022,UKR,Porcina,Ucrania,18.25,28.5200812626973,UKR,Ucrania
-2022,UKR,Vacuna,Ucrania,6.2,9.68901390842319,UKR,Ucrania
-2022,URY,Aviar,Uruguay,23.66,31.2756113681428,URY,Uruguay
-2022,URY,Caprina y ovina,Uruguay,1.92,2.5380039656312,URY,Uruguay
-2022,URY,Otras carnes,Uruguay,1.51,1.9960343688037,URY,Uruguay
-2022,URY,Pescados y mariscos,Uruguay,11.81,15.6113681427627,URY,Uruguay
-2022,URY,Porcina,Uruguay,21.31,28.1692002643754,URY,Uruguay
-2022,URY,Vacuna,Uruguay,15.44,20.4097818902842,URY,Uruguay
-2022,USA,Aviar,Estados Unidos,53.54,36.8783579005373,USA,Estados Unidos
-2022,USA,Caprina y ovina,Estados Unidos,0.69,0.475272076043532,USA,Estados Unidos
-2022,USA,Otras carnes,Estados Unidos,0.79,0.544152087064334,USA,Estados Unidos
-2022,USA,Pescados y mariscos,Estados Unidos,22.29,15.3533544565367,USA,Estados Unidos
-2022,USA,Porcina,Estados Unidos,29.86,20.5675712908114,USA,Estados Unidos
-2022,USA,Vacuna,Estados Unidos,38.01,26.1812921890068,USA,Estados Unidos
-2022,UZB,Aviar,Uzbekistán,6.38,13.7826744437243,UZB,Uzbekistán
-2022,UZB,Caprina y ovina,Uzbekistán,4.8,10.3694102397926,UZB,Uzbekistán
-2022,UZB,Otras carnes,Uzbekistán,0.29,0.62648520198747,UZB,Uzbekistán
-2022,UZB,Pescados y mariscos,Uzbekistán,3.89,8.40354288183193,UZB,Uzbekistán
-2022,UZB,Porcina,Uzbekistán,0.18,0.388852883992223,UZB,Uzbekistán
-2022,UZB,Vacuna,Uzbekistán,30.75,66.4290343486714,UZB,Uzbekistán
-2022,VCT,Aviar,San Vicente y las Granadinas,94.06,65.346672224538,VCT,San Vicente y las Granadinas
-2022,VCT,Caprina y ovina,San Vicente y las Granadinas,0.89,0.618313186049743,VCT,San Vicente y las Granadinas
-2022,VCT,Otras carnes,San Vicente y las Granadinas,0.0,0.0,VCT,San Vicente y las Granadinas
-2022,VCT,Pescados y mariscos,San Vicente y las Granadinas,19.6,13.6167847714325,VCT,San Vicente y las Granadinas
-2022,VCT,Porcina,San Vicente y las Granadinas,17.87,12.4148950951785,VCT,San Vicente y las Granadinas
-2022,VCT,Vacuna,San Vicente y las Granadinas,11.52,8.00333472280117,VCT,San Vicente y las Granadinas
-2022,VEN,Aviar,Venezuela,15.88,33.6440677966102,VEN,Venezuela
-2022,VEN,Caprina y ovina,Venezuela,0.34,0.720338983050847,VEN,Venezuela
-2022,VEN,Otras carnes,Venezuela,0.01,0.0211864406779661,VEN,Venezuela
-2022,VEN,Pescados y mariscos,Venezuela,10.25,21.7161016949153,VEN,Venezuela
-2022,VEN,Porcina,Venezuela,6.76,14.3220338983051,VEN,Venezuela
-2022,VEN,Vacuna,Venezuela,13.96,29.5762711864407,VEN,Venezuela
-2022,VNM,Aviar,Vietnam,14.95,15.8234546994073,VNM,Vietnam
-2022,VNM,Caprina y ovina,Vietnam,0.2,0.211685012701101,VNM,Vietnam
-2022,VNM,Otras carnes,Vietnam,0.3,0.317527519051651,VNM,Vietnam
-2022,VNM,Pescados y mariscos,Vietnam,40.93,43.3213378492803,VNM,Vietnam
-2022,VNM,Porcina,Vietnam,32.79,34.7057578323455,VNM,Vietnam
-2022,VNM,Vacuna,Vietnam,5.31,5.62023708721422,VNM,Vietnam
-2022,VUT,Aviar,Vanuatu,16.16,24.9344237000463,VUT,Vanuatu
-2022,VUT,Caprina y ovina,Vanuatu,0.12,0.185156611634007,VUT,Vanuatu
-2022,VUT,Otras carnes,Vanuatu,0.03,0.0462891529085018,VUT,Vanuatu
-2022,VUT,Pescados y mariscos,Vanuatu,29.46,45.4559481561487,VUT,Vanuatu
-2022,VUT,Porcina,Vanuatu,11.3,17.435580928869,VUT,Vanuatu
-2022,VUT,Vacuna,Vanuatu,7.74,11.9426014503935,VUT,Vanuatu
-2022,WSM,Aviar,Samoa,73.98,49.8483929654336,WSM,Samoa
-2022,WSM,Caprina y ovina,Samoa,5.88,3.96199717000202,WSM,Samoa
-2022,WSM,Otras carnes,Samoa,0.0,0.0,WSM,Samoa
-2022,WSM,Pescados y mariscos,Samoa,43.47,29.2904790782292,WSM,Samoa
-2022,WSM,Porcina,Samoa,13.92,9.37942187184152,WSM,Samoa
-2022,WSM,Vacuna,Samoa,11.16,7.51970891449363,WSM,Samoa
-2022,YEM,Aviar,Yemen,9.06,48.8673139158576,YEM,Yemen
-2022,YEM,Caprina y ovina,Yemen,4.59,24.7572815533981,YEM,Yemen
-2022,YEM,Otras carnes,Yemen,0.09,0.485436893203884,YEM,Yemen
-2022,YEM,Pescados y mariscos,Yemen,2.5,13.4843581445523,YEM,Yemen
-2022,YEM,Porcina,Yemen,0.01,0.0539374325782093,YEM,Yemen
-2022,YEM,Vacuna,Yemen,2.29,12.3516720604099,YEM,Yemen
-2022,ZAF,Aviar,Sudáfrica,39.57,55.2962548910006,ZAF,Sudáfrica
-2022,ZAF,Caprina y ovina,Sudáfrica,2.78,3.8848518725545,ZAF,Sudáfrica
-2022,ZAF,Otras carnes,Sudáfrica,0.86,1.20178870877585,ZAF,Sudáfrica
-2022,ZAF,Pescados y mariscos,Sudáfrica,6.38,8.91559530463946,ZAF,Sudáfrica
-2022,ZAF,Porcina,Sudáfrica,5.84,8.16098378982672,ZAF,Sudáfrica
-2022,ZAF,Vacuna,Sudáfrica,16.13,22.5405254332029,ZAF,Sudáfrica
-2022,ZMB,Aviar,Zambia,4.94,15.717467387846,ZMB,Zambia
-2022,ZMB,Caprina y ovina,Zambia,0.82,2.60897231944003,ZMB,Zambia
-2022,ZMB,Otras carnes,Zambia,2.06,6.55424753420299,ZMB,Zambia
-2022,ZMB,Pescados y mariscos,Zambia,13.34,42.4435252943048,ZMB,Zambia
-2022,ZMB,Porcina,Zambia,1.22,3.88164174355711,ZMB,Zambia
-2022,ZMB,Vacuna,Zambia,9.05,28.7941457206491,ZMB,Zambia
-2022,ZWE,Aviar,Zimbabwe,7.18,12.1222353537059,ZWE,Zimbabwe
-2022,ZWE,Caprina y ovina,Zimbabwe,1.96,3.30913388485565,ZWE,Zimbabwe
-2022,ZWE,Otras carnes,Zimbabwe,2.35,3.96758399459733,ZWE,Zimbabwe
-2022,ZWE,Pescados y mariscos,Zimbabwe,2.63,4.44031740671957,ZWE,Zimbabwe
-2022,ZWE,Porcina,Zimbabwe,0.69,1.16495019415837,ZWE,Zimbabwe
-2022,ZWE,Vacuna,Zimbabwe,44.42,74.9957791659632,ZWE,Zimbabwe
-2022,WLD,Aviar,Mundo,24.2331382978723,33.222732606091,WLD,Mundo
-2022,WLD,Caprina y ovina,Mundo,3.18021276595745,4.35995359144869,WLD,Mundo
-2022,WLD,Otras carnes,Mundo,1.54909574468085,2.12375273372182,WLD,Mundo
-2022,WLD,Pescados y mariscos,Mundo,19.0216489361702,26.0779742419414,WLD,Mundo
-2022,WLD,Porcina,Mundo,13.993829787234,19.1850209181222,WLD,Mundo
-2022,WLD,Vacuna,Mundo,10.9635106382979,15.0305659086749,WLD,Mundo
+"anio","iso3","tipo_carne","pais","valor","share"
+"2022","AFG","Aviar","Afganistán","0.87","12.1678321678322"
+"2022","AFG","Caprina y ovina","Afganistán","3.62","50.6293706293706"
+"2022","AFG","Otras carnes","Afganistán","0.28","3.91608391608392"
+"2022","AFG","Pescados y mariscos","Afganistán","0.38","5.31468531468531"
+"2022","AFG","Porcina","Afganistán","0.01","0.13986013986014"
+"2022","AFG","Vacuna","Afganistán","1.99","27.8321678321678"
+"2022","AGO","Aviar","Angola","10.52","29.0688035368886"
+"2022","AGO","Caprina y ovina","Angola","0.72","1.98949986184029"
+"2022","AGO","Otras carnes","Angola","0.27","0.746062448190108"
+"2022","AGO","Pescados y mariscos","Angola","12.88","35.5899419729207"
+"2022","AGO","Porcina","Angola","8.29","22.9068803536889"
+"2022","AGO","Vacuna","Angola","3.51","9.6988118264714"
+"2022","ALB","Aviar","Albania","22.56","36.558094312105"
+"2022","ALB","Caprina y ovina","Albania","8.87","14.3736833576406"
+"2022","ALB","Otras carnes","Albania","0.27","0.437530384054448"
+"2022","ALB","Pescados y mariscos","Albania","8.51","13.7903095122346"
+"2022","ALB","Porcina","Albania","6.31","10.2252471236428"
+"2022","ALB","Vacuna","Albania","15.19","24.6151353103225"
+"2022","ARE","Aviar","Emiratos Árabes Unidos","55.25","50.5767118271695"
+"2022","ARE","Caprina y ovina","Emiratos Árabes Unidos","9.82","8.98938117905529"
+"2022","ARE","Otras carnes","Emiratos Árabes Unidos","3.54","3.24057121933358"
+"2022","ARE","Pescados y mariscos","Emiratos Árabes Unidos","26.04","23.8374221896741"
+"2022","ARE","Porcina","Emiratos Árabes Unidos","0.66","0.604174295129989"
+"2022","ARE","Vacuna","Emiratos Árabes Unidos","13.93","12.7517392896375"
+"2022","ARG","Aviar","Argentina","48.19","40.0315667054328"
+"2022","ARG","Caprina y ovina","Argentina","0.99","0.822395746801794"
+"2022","ARG","Otras carnes","Argentina","1.18","0.980229273965775"
+"2022","ARG","Pescados y mariscos","Argentina","7.12","5.91460375477654"
+"2022","ARG","Porcina","Argentina","16.95","14.0804120285762"
+"2022","ARG","Vacuna","Argentina","45.95","38.1707924904469"
+"2022","ARM","Aviar","Armenia","18.45","28.5471143431843"
+"2022","ARM","Caprina y ovina","Armenia","3.88","6.0034039919542"
+"2022","ARM","Otras carnes","Armenia","0.04","0.0618907628036516"
+"2022","ARM","Pescados y mariscos","Armenia","5.14","7.95296302026922"
+"2022","ARM","Porcina","Armenia","11.36","17.576976636237"
+"2022","ARM","Vacuna","Armenia","25.76","39.8576512455516"
+"2022","ATG","Aviar","Antigua y Barbuda","68.33","46.4292994496161"
+"2022","ATG","Caprina y ovina","Antigua y Barbuda","1.39","0.944485968607733"
+"2022","ATG","Otras carnes","Antigua y Barbuda","0.22","0.149486987837195"
+"2022","ATG","Pescados y mariscos","Antigua y Barbuda","54.27","36.8757219542026"
+"2022","ATG","Porcina","Antigua y Barbuda","10.54","7.16178569001835"
+"2022","ATG","Vacuna","Antigua y Barbuda","12.42","8.43921994971801"
+"2022","AUS","Aviar","Australia","49.09","35.8766352408098"
+"2022","AUS","Caprina y ovina","Australia","9.72","7.103705327779"
+"2022","AUS","Otras carnes","Australia","0.94","0.68698384857122"
+"2022","AUS","Pescados y mariscos","Australia","24.49","17.8981217569246"
+"2022","AUS","Porcina","Australia","26.6","19.4401812468026"
+"2022","AUS","Vacuna","Australia","25.99","18.9943725791128"
+"2022","AUT","Aviar","Austria","19.14","20.7142857142857"
+"2022","AUT","Caprina y ovina","Austria","1","1.08225108225108"
+"2022","AUT","Otras carnes","Austria","0.52","0.562770562770563"
+"2022","AUT","Pescados y mariscos","Austria","14.44","15.6277056277056"
+"2022","AUT","Porcina","Austria","42.82","46.3419913419913"
+"2022","AUT","Vacuna","Austria","14.48","15.6709956709957"
+"2022","AZE","Aviar","Azerbaiyán","16.06","37.6730002345766"
+"2022","AZE","Caprina y ovina","Azerbaiyán","8.6","20.1735866760497"
+"2022","AZE","Otras carnes","Azerbaiyán","0","0"
+"2022","AZE","Pescados y mariscos","Azerbaiyán","2.13","4.99648135116116"
+"2022","AZE","Porcina","Azerbaiyán","0.81","1.90007037297678"
+"2022","AZE","Vacuna","Azerbaiyán","15.03","35.2568613652357"
+"2022","BDI","Aviar","Burundi","0.66","10.7142857142857"
+"2022","BDI","Caprina y ovina","Burundi","0.79","12.8246753246753"
+"2022","BDI","Otras carnes","Burundi","0.05","0.811688311688312"
+"2022","BDI","Pescados y mariscos","Burundi","2.48","40.2597402597403"
+"2022","BDI","Porcina","Burundi","0.87","14.1233766233766"
+"2022","BDI","Vacuna","Burundi","1.31","21.2662337662338"
+"2022","BEL","Aviar","Bélgica","16.25","18.3574333483958"
+"2022","BEL","Caprina y ovina","Bélgica","0.92","1.03931314957072"
+"2022","BEL","Otras carnes","Bélgica","2.08","2.34975146859467"
+"2022","BEL","Pescados y mariscos","Bélgica","24.04","27.1577044735653"
+"2022","BEL","Porcina","Bélgica","32.3","36.4889290555807"
+"2022","BEL","Vacuna","Bélgica","12.93","14.6068685042928"
+"2022","BEN","Aviar","Benin","10.69","32.3253704263683"
+"2022","BEN","Caprina y ovina","Benin","2.69","8.13426065920774"
+"2022","BEN","Otras carnes","Benin","0.66","1.99576655579075"
+"2022","BEN","Pescados y mariscos","Benin","15.27","46.1747807680677"
+"2022","BEN","Porcina","Benin","1.01","3.05412760810402"
+"2022","BEN","Vacuna","Benin","2.75","8.31569398246145"
+"2022","BFA","Aviar","Burkina Faso","6.66","18.7183811129848"
+"2022","BFA","Caprina y ovina","Burkina Faso","2.23","6.26756604834177"
+"2022","BFA","Otras carnes","Burkina Faso","0.42","1.18043844856661"
+"2022","BFA","Pescados y mariscos","Burkina Faso","10.66","29.9606520517144"
+"2022","BFA","Porcina","Burkina Faso","9.89","27.796514896009"
+"2022","BFA","Vacuna","Burkina Faso","5.72","16.0764474423834"
+"2022","BGD","Aviar","Bangladesh","1.66","5.52412645590682"
+"2022","BGD","Caprina y ovina","Bangladesh","1.32","4.39267886855241"
+"2022","BGD","Otras carnes","Bangladesh","0.1","0.332778702163062"
+"2022","BGD","Pescados y mariscos","Bangladesh","25.7","85.5241264559068"
+"2022","BGD","Porcina","Bangladesh","0.01","0.0332778702163062"
+"2022","BGD","Vacuna","Bangladesh","1.26","4.19301164725458"
+"2022","BGR","Aviar","Bulgaria","20.87","30.6191314553991"
+"2022","BGR","Caprina y ovina","Bulgaria","1.41","2.06866197183099"
+"2022","BGR","Otras carnes","Bulgaria","0.75","1.10035211267606"
+"2022","BGR","Pescados y mariscos","Bulgaria","7.32","10.7394366197183"
+"2022","BGR","Porcina","Bulgaria","34.2","50.1760563380282"
+"2022","BGR","Vacuna","Bulgaria","3.61","5.29636150234742"
+"2022","BHR","Aviar","Bahrein","46.73","42.8087211432759"
+"2022","BHR","Caprina y ovina","Bahrein","23.39","21.4272627336021"
+"2022","BHR","Otras carnes","Bahrein","1.6","1.46573836570172"
+"2022","BHR","Pescados y mariscos","Bahrein","21.07","19.3019421033346"
+"2022","BHR","Porcina","Bahrein","0.88","0.806156101135947"
+"2022","BHR","Vacuna","Bahrein","15.49","14.1901795529498"
+"2022","BHS","Aviar","Bahamas","63.27","46.8458462905375"
+"2022","BHS","Caprina y ovina","Bahamas","2.79","2.06574855619725"
+"2022","BHS","Otras carnes","Bahamas","0.49","0.362801717755072"
+"2022","BHS","Pescados y mariscos","Bahamas","26.98","19.9763068265956"
+"2022","BHS","Porcina","Bahamas","30.44","22.5381312009477"
+"2022","BHS","Vacuna","Bahamas","11.09","8.21116540796683"
+"2022","BIH","Aviar","Bosnia y Herzegovina","21.82","39.9049012435991"
+"2022","BIH","Caprina y ovina","Bosnia y Herzegovina","0.37","0.676664228237015"
+"2022","BIH","Otras carnes","Bosnia y Herzegovina","0.4","0.731528895391368"
+"2022","BIH","Pescados y mariscos","Bosnia y Herzegovina","5.76","10.5340160936357"
+"2022","BIH","Porcina","Bosnia y Herzegovina","13.06","23.8844184345282"
+"2022","BIH","Vacuna","Bosnia y Herzegovina","13.27","24.2684711046086"
+"2022","BLR","Aviar","Belarús","35.13","33.0231246474901"
+"2022","BLR","Caprina y ovina","Belarús","0.09","0.0846023688663283"
+"2022","BLR","Otras carnes","Belarús","0.19","0.178605000940026"
+"2022","BLR","Pescados y mariscos","Belarús","11.92","11.2051137431848"
+"2022","BLR","Porcina","Belarús","36.42","34.2357586012408"
+"2022","BLR","Vacuna","Belarús","22.63","21.2727956382779"
+"2022","BLZ","Aviar","Belice","30.33","43.867515186578"
+"2022","BLZ","Caprina y ovina","Belice","0.12","0.173560890945907"
+"2022","BLZ","Otras carnes","Belice","0.2","0.289268151576511"
+"2022","BLZ","Pescados y mariscos","Belice","17.18","24.8481342204223"
+"2022","BLZ","Porcina","Belice","16.34","23.633207983801"
+"2022","BLZ","Vacuna","Belice","4.97","7.18831356667631"
+"2022","BOL","Aviar","Bolivia","42.45","51.8378312370253"
+"2022","BOL","Caprina y ovina","Bolivia","3.2","3.90768103553547"
+"2022","BOL","Otras carnes","Bolivia","1.79","2.18585907925266"
+"2022","BOL","Pescados y mariscos","Bolivia","2.13","2.6010501892783"
+"2022","BOL","Porcina","Bolivia","10.14","12.382464281353"
+"2022","BOL","Vacuna","Bolivia","22.18","27.0851141775553"
+"2022","BRA","Aviar","Brasil","47.05","44.041935785828"
+"2022","BRA","Caprina y ovina","Brasil","0.64","0.599082654685014"
+"2022","BRA","Otras carnes","Brasil","0.36","0.33698399326032"
+"2022","BRA","Pescados y mariscos","Brasil","8.03","7.51661518300103"
+"2022","BRA","Porcina","Brasil","16.16","15.1268370307966"
+"2022","BRA","Vacuna","Brasil","34.59","32.3785453524291"
+"2022","BRB","Aviar","Barbados","56.37","42.6463912846119"
+"2022","BRB","Caprina y ovina","Barbados","4.04","3.0564381903465"
+"2022","BRB","Otras carnes","Barbados","0.09","0.0680889695869269"
+"2022","BRB","Pescados y mariscos","Barbados","43.27","32.7356634891814"
+"2022","BRB","Porcina","Barbados","13.6","10.2889998486912"
+"2022","BRB","Vacuna","Barbados","14.81","11.2044182175821"
+"2022","BTN","Aviar","Bhután","4.81","21.8835304822566"
+"2022","BTN","Caprina y ovina","Bhután","0.25","1.13739763421292"
+"2022","BTN","Otras carnes","Bhután","0","0"
+"2022","BTN","Pescados y mariscos","Bhután","6.29","28.6169244767971"
+"2022","BTN","Porcina","Bhután","3.33","15.1501364877161"
+"2022","BTN","Vacuna","Bhután","7.3","33.2120109190173"
+"2022","BWA","Aviar","Botswana","2.56","8.15806246016571"
+"2022","BWA","Caprina y ovina","Botswana","1.77","5.64053537284895"
+"2022","BWA","Otras carnes","Botswana","11.53","36.7431485022307"
+"2022","BWA","Pescados y mariscos","Botswana","2.11","6.72402804333971"
+"2022","BWA","Porcina","Botswana","0.33","1.05162523900574"
+"2022","BWA","Vacuna","Botswana","13.08","41.6826003824092"
+"2022","CAF","Aviar","República Centroafricana","2.33","6.52295632698768"
+"2022","CAF","Caprina y ovina","República Centroafricana","4.76","13.3258678611422"
+"2022","CAF","Otras carnes","República Centroafricana","6.34","17.7491601343785"
+"2022","CAF","Pescados y mariscos","República Centroafricana","0","0"
+"2022","CAF","Porcina","República Centroafricana","3.53","9.88241881298992"
+"2022","CAF","Vacuna","República Centroafricana","18.76","52.5195968645017"
+"2022","CAN","Aviar","Canadá","41.17","36.9834710743802"
+"2022","CAN","Caprina y ovina","Canadá","1.23","1.10492274523895"
+"2022","CAN","Otras carnes","Canadá","0.61","0.54796981674452"
+"2022","CAN","Pescados y mariscos","Canadá","20.36","18.2896155228171"
+"2022","CAN","Porcina","Canadá","22.41","20.1311534315487"
+"2022","CAN","Vacuna","Canadá","25.54","22.9428674092706"
+"2022","CHE","Aviar","Suiza","18.01","21.5947242206235"
+"2022","CHE","Caprina y ovina","Suiza","1.27","1.52278177458034"
+"2022","CHE","Otras carnes","Suiza","1.02","1.22302158273381"
+"2022","CHE","Pescados y mariscos","Suiza","16.72","20.0479616306954"
+"2022","CHE","Porcina","Suiza","27.7","33.2134292565947"
+"2022","CHE","Vacuna","Suiza","18.68","22.3980815347722"
+"2022","CHL","Aviar","Chile","38.51","36.152835148329"
+"2022","CHL","Caprina y ovina","Chile","0.42","0.394292151708599"
+"2022","CHL","Otras carnes","Chile","0.84","0.788584303417199"
+"2022","CHL","Pescados y mariscos","Chile","14.4","13.5185880585805"
+"2022","CHL","Porcina","Chile","25.02","23.4885467517837"
+"2022","CHL","Vacuna","Chile","27.33","25.657153586181"
+"2022","CHN","Aviar","China","17.14","15.365307037203"
+"2022","CHN","Caprina y ovina","China","3.86","3.46033168982519"
+"2022","CHN","Otras carnes","China","0.77","0.690273419991035"
+"2022","CHN","Pescados y mariscos","China","41.58","37.2747646795159"
+"2022","CHN","Porcina","China","40.16","36.001792917974"
+"2022","CHN","Vacuna","China","8.04","7.20753025549081"
+"2022","CIV","Aviar","Costa de Marfil","2.45","7.61342448725917"
+"2022","CIV","Caprina y ovina","Costa de Marfil","0.6","1.86451211932878"
+"2022","CIV","Otras carnes","Costa de Marfil","6.75","20.9757613424487"
+"2022","CIV","Pescados y mariscos","Costa de Marfil","20.94","65.0714729645743"
+"2022","CIV","Porcina","Costa de Marfil","0.56","1.74021131137352"
+"2022","CIV","Vacuna","Costa de Marfil","0.88","2.73461777501554"
+"2022","CMR","Aviar","Camerún","4.45","13.5670731707317"
+"2022","CMR","Caprina y ovina","Camerún","1.54","4.69512195121951"
+"2022","CMR","Otras carnes","Camerún","2.85","8.6890243902439"
+"2022","CMR","Pescados y mariscos","Camerún","17.81","54.2987804878049"
+"2022","CMR","Porcina","Camerún","1.81","5.51829268292683"
+"2022","CMR","Vacuna","Camerún","4.34","13.2317073170732"
+"2022","COD","Aviar","República Democrática del Congo","1.02","13.5458167330677"
+"2022","COD","Caprina y ovina","República Democrática del Congo","0.21","2.78884462151394"
+"2022","COD","Otras carnes","República Democrática del Congo","1.73","22.9747675962815"
+"2022","COD","Pescados y mariscos","República Democrática del Congo","3.51","46.6135458167331"
+"2022","COD","Porcina","República Democrática del Congo","0.74","9.8273572377158"
+"2022","COD","Vacuna","República Democrática del Congo","0.32","4.24966799468791"
+"2022","COG","Aviar","Congo","27.6","37.7513336068937"
+"2022","COG","Caprina y ovina","Congo","0.26","0.355628504992477"
+"2022","COG","Otras carnes","Congo","8.1","11.0791957324579"
+"2022","COG","Pescados y mariscos","Congo","24","32.8272466146902"
+"2022","COG","Porcina","Congo","9.71","13.2813568595267"
+"2022","COG","Vacuna","Congo","3.44","4.70523868143893"
+"2022","COL","Aviar","Colombia","36.65","51.1514305652477"
+"2022","COL","Caprina y ovina","Colombia","0.02","0.0279134682484299"
+"2022","COL","Otras carnes","Colombia","0.16","0.223307745987439"
+"2022","COL","Pescados y mariscos","Colombia","8.73","12.1842288904396"
+"2022","COL","Porcina","Colombia","13.43","18.7438939288207"
+"2022","COL","Vacuna","Colombia","12.66","17.6692254012561"
+"2022","COM","Aviar","Comoras","23.05","49.708863489325"
+"2022","COM","Caprina y ovina","Comoras","0.6","1.29394004744447"
+"2022","COM","Otras carnes","Comoras","0.01","0.0215656674574078"
+"2022","COM","Pescados y mariscos","Comoras","17.04","36.7478973474229"
+"2022","COM","Porcina","Comoras","0.06","0.129394004744447"
+"2022","COM","Vacuna","Comoras","5.61","12.0983394436058"
+"2022","CPV","Aviar","Cabo Verde","23.13","48.0274086378738"
+"2022","CPV","Caprina y ovina","Cabo Verde","1.31","2.72009966777409"
+"2022","CPV","Otras carnes","Cabo Verde","0.15","0.311461794019934"
+"2022","CPV","Pescados y mariscos","Cabo Verde","9.4","19.5182724252492"
+"2022","CPV","Porcina","Cabo Verde","10.75","22.3214285714286"
+"2022","CPV","Vacuna","Cabo Verde","3.42","7.10132890365449"
+"2022","CRI","Aviar","Costa Rica","32.27","41.446185461084"
+"2022","CRI","Caprina y ovina","Costa Rica","0.06","0.0770613922424865"
+"2022","CRI","Otras carnes","Costa Rica","0","0"
+"2022","CRI","Pescados y mariscos","Costa Rica","17.57","22.5661443616748"
+"2022","CRI","Porcina","Costa Rica","14.74","18.9314153609042"
+"2022","CRI","Vacuna","Costa Rica","13.22","16.9791934240945"
+"2022","CUB","Aviar","Cuba","29.8","44.617457703249"
+"2022","CUB","Caprina y ovina","Cuba","1.68","2.51534660877377"
+"2022","CUB","Otras carnes","Cuba","2.28","3.41368468333583"
+"2022","CUB","Pescados y mariscos","Cuba","6.13","9.17802066177572"
+"2022","CUB","Porcina","Cuba","18.81","28.1628986375206"
+"2022","CUB","Vacuna","Cuba","8.09","12.1125917053451"
+"2022","CYP","Aviar","Chipre","29.09","30.4161438728565"
+"2022","CYP","Caprina y ovina","Chipre","4.14","4.32873274780427"
+"2022","CYP","Otras carnes","Chipre","0.5","0.522793810121288"
+"2022","CYP","Pescados y mariscos","Chipre","19.31","20.1902969468841"
+"2022","CYP","Porcina","Chipre","34.4","35.9682141363446"
+"2022","CYP","Vacuna","Chipre","8.2","8.57381848598912"
+"2022","CZE","Aviar","Chequia","23.87","25.4694835680751"
+"2022","CZE","Caprina y ovina","Chequia","0.29","0.309432351685873"
+"2022","CZE","Otras carnes","Chequia","0.83","0.885616730687153"
+"2022","CZE","Pescados y mariscos","Chequia","10.67","11.3849765258216"
+"2022","CZE","Porcina","Chequia","47.28","50.4481434058899"
+"2022","CZE","Vacuna","Chequia","10.78","11.5023474178404"
+"2022","DEU","Aviar","Alemania","16.51","19.5477148946247"
+"2022","DEU","Caprina y ovina","Alemania","0.75","0.887994316836372"
+"2022","DEU","Otras carnes","Alemania","1.04","1.23135211934644"
+"2022","DEU","Pescados y mariscos","Alemania","13.15","15.5695003551977"
+"2022","DEU","Porcina","Alemania","38.96","46.1283447785934"
+"2022","DEU","Vacuna","Alemania","14.05","16.6350935354014"
+"2022","DJI","Aviar","Djibouti","3.99","21.614301191766"
+"2022","DJI","Caprina y ovina","Djibouti","4.05","21.9393282773564"
+"2022","DJI","Otras carnes","Djibouti","0.64","3.46695557963164"
+"2022","DJI","Pescados y mariscos","Djibouti","3.8","20.5850487540628"
+"2022","DJI","Porcina","Djibouti","0.13","0.704225352112676"
+"2022","DJI","Vacuna","Djibouti","5.85","31.6901408450704"
+"2022","DMA","Aviar","Dominica","46.46","45.1330872352827"
+"2022","DMA","Caprina y ovina","Dominica","1.43","1.38915873324267"
+"2022","DMA","Otras carnes","Dominica","0.02","0.0194287934719254"
+"2022","DMA","Pescados y mariscos","Dominica","23.51","22.8385467262483"
+"2022","DMA","Porcina","Dominica","21.15","20.5459490965611"
+"2022","DMA","Vacuna","Dominica","10.37","10.0738294151933"
+"2022","DNK","Aviar","Dinamarca","17.83","18.5439417576703"
+"2022","DNK","Caprina y ovina","Dinamarca","0.72","0.748829953198128"
+"2022","DNK","Otras carnes","Dinamarca","0.81","0.842433697347894"
+"2022","DNK","Pescados y mariscos","Dinamarca","29.12","30.2860114404576"
+"2022","DNK","Porcina","Dinamarca","25.74","26.7706708268331"
+"2022","DNK","Vacuna","Dinamarca","21.93","22.808112324493"
+"2022","DOM","Aviar","República Dominicana","36.85","55.8502576538345"
+"2022","DOM","Caprina y ovina","República Dominicana","0.2","0.303122158229767"
+"2022","DOM","Otras carnes","República Dominicana","0.03","0.045468323734465"
+"2022","DOM","Pescados y mariscos","República Dominicana","8.21","12.4431645953319"
+"2022","DOM","Porcina","República Dominicana","14.44","21.8854198241891"
+"2022","DOM","Vacuna","República Dominicana","6.25","9.47256744468021"
+"2022","DZA","Aviar","Argelia","6.13","29.3582375478927"
+"2022","DZA","Caprina y ovina","Argelia","8.11","38.8409961685824"
+"2022","DZA","Otras carnes","Argelia","0.35","1.67624521072797"
+"2022","DZA","Pescados y mariscos","Argelia","2.83","13.5536398467433"
+"2022","DZA","Porcina","Argelia","0","0"
+"2022","DZA","Vacuna","Argelia","3.46","16.5708812260536"
+"2022","ECU","Aviar","Ecuador","28.78","48.175426849682"
+"2022","ECU","Caprina y ovina","Ecuador","0.4","0.669568128557081"
+"2022","ECU","Otras carnes","Ecuador","0.57","0.95413458319384"
+"2022","ECU","Pescados y mariscos","Ecuador","6.44","10.780046869769"
+"2022","ECU","Porcina","Ecuador","11.25","18.8316036156679"
+"2022","ECU","Vacuna","Ecuador","12.3","20.5892199531302"
+"2022","EGY","Aviar","Egipto","23.8","44.4693572496263"
+"2022","EGY","Caprina y ovina","Egipto","0.57","1.06502242152466"
+"2022","EGY","Otras carnes","Egipto","0.97","1.81240657698057"
+"2022","EGY","Pescados y mariscos","Egipto","21.16","39.5366218236173"
+"2022","EGY","Porcina","Egipto","0.01","0.0186846038863976"
+"2022","EGY","Vacuna","Egipto","7.01","13.0979073243647"
+"2022","ESP","Aviar","España","32.1","22.1669774186866"
+"2022","ESP","Caprina y ovina","España","1.87","1.29134728264623"
+"2022","ESP","Otras carnes","España","1.36","0.939161660106346"
+"2022","ESP","Pescados y mariscos","España","40.06","27.6638353704855"
+"2022","ESP","Porcina","España","56.5","39.0166424970651"
+"2022","ESP","Vacuna","España","12.92","8.92203577101029"
+"2022","EST","Aviar","Estonia","21.26","25.9236678453847"
+"2022","EST","Caprina y ovina","Estonia","0.4","0.487745396902817"
+"2022","EST","Otras carnes","Estonia","0.39","0.475551761980246"
+"2022","EST","Pescados y mariscos","Estonia","13.09","15.9614681136447"
+"2022","EST","Porcina","Estonia","38.06","46.408974515303"
+"2022","EST","Vacuna","Estonia","8.81","10.7425923667845"
+"2022","ETH","Aviar","Etiopía","0.4","5.62587904360056"
+"2022","ETH","Caprina y ovina","Etiopía","1.81","25.4571026722925"
+"2022","ETH","Otras carnes","Etiopía","1.03","14.4866385372714"
+"2022","ETH","Pescados y mariscos","Etiopía","0.52","7.31364275668073"
+"2022","ETH","Porcina","Etiopía","0.02","0.281293952180028"
+"2022","ETH","Vacuna","Etiopía","3.33","46.8354430379747"
+"2022","FIN","Aviar","Finlandia","23.67","22.8806186563557"
+"2022","FIN","Caprina y ovina","Finlandia","0.45","0.434992750120831"
+"2022","FIN","Otras carnes","Finlandia","0.8","0.773320444659256"
+"2022","FIN","Pescados y mariscos","Finlandia","31.83","30.7684871918801"
+"2022","FIN","Porcina","Finlandia","29.36","28.3808603189947"
+"2022","FIN","Vacuna","Finlandia","17.34","16.7617206379894"
+"2022","FJI","Aviar","Fiji","37.14","45.9142044752133"
+"2022","FJI","Caprina y ovina","Fiji","6.34","7.83780442576338"
+"2022","FJI","Otras carnes","Fiji","0.05","0.0618123377426134"
+"2022","FJI","Pescados y mariscos","Fiji","28.99","35.8387934231673"
+"2022","FJI","Porcina","Fiji","3.83","4.73482507108419"
+"2022","FJI","Vacuna","Fiji","4.54","5.6125602670293"
+"2022","FRA","Aviar","Francia","24.6","20.7735179868265"
+"2022","FRA","Caprina y ovina","Francia","2.44","2.06046275966897"
+"2022","FRA","Otras carnes","Francia","0.61","0.515115689917244"
+"2022","FRA","Pescados y mariscos","Francia","33.82","28.5593649721331"
+"2022","FRA","Porcina","Francia","33.73","28.4833642965715"
+"2022","FRA","Vacuna","Francia","23.22","19.6081742948826"
+"2022","FSM","Aviar","Micronesia","37.77","34.2989466037051"
+"2022","FSM","Caprina y ovina","Micronesia","0.12","0.108972030512169"
+"2022","FSM","Otras carnes","Micronesia","0.01","0.00908100254268071"
+"2022","FSM","Pescados y mariscos","Micronesia","47.72","43.3345441336724"
+"2022","FSM","Porcina","Micronesia","18.13","16.4638576098801"
+"2022","FSM","Vacuna","Micronesia","6.37","5.78459861968761"
+"2022","GAB","Aviar","Gabón","38.34","40.9965782720274"
+"2022","GAB","Caprina y ovina","Gabón","0.67","0.716424294268606"
+"2022","GAB","Otras carnes","Gabón","13.31","14.232249786142"
+"2022","GAB","Pescados y mariscos","Gabón","28.11","30.0577416595381"
+"2022","GAB","Porcina","Gabón","7.97","8.52224123182207"
+"2022","GAB","Vacuna","Gabón","5.12","5.47476475620188"
+"2022","GBR","Aviar","Reino Unido","35.5","34.7800529048692"
+"2022","GBR","Caprina y ovina","Reino Unido","4.1","4.01685118056236"
+"2022","GBR","Otras carnes","Reino Unido","1.01","0.989516998138532"
+"2022","GBR","Pescados y mariscos","Reino Unido","17.99","17.6251592044675"
+"2022","GBR","Porcina","Reino Unido","26.17","25.6392671695895"
+"2022","GBR","Vacuna","Reino Unido","17.3","16.9491525423729"
+"2022","GEO","Aviar","Georgia","19.19","37.8277153558052"
+"2022","GEO","Caprina y ovina","Georgia","1.34","2.64143504829489"
+"2022","GEO","Otras carnes","Georgia","0.12","0.236546422235364"
+"2022","GEO","Pescados y mariscos","Georgia","10.5","20.6978119455943"
+"2022","GEO","Porcina","Georgia","12.3","24.2460082791248"
+"2022","GEO","Vacuna","Georgia","7.28","14.3504829489454"
+"2022","GHA","Aviar","Ghana","9.57","23.0103390238038"
+"2022","GHA","Caprina y ovina","Ghana","1.86","4.47222890117817"
+"2022","GHA","Otras carnes","Ghana","3.57","8.58379418129358"
+"2022","GHA","Pescados y mariscos","Ghana","23.84","57.3214715075739"
+"2022","GHA","Porcina","Ghana","1.29","3.1017071411397"
+"2022","GHA","Vacuna","Ghana","1.46","3.51045924501082"
+"2022","GIN","Aviar","Guinea","4.63","19.3077564637198"
+"2022","GIN","Caprina y ovina","Guinea","2.15","8.96580483736447"
+"2022","GIN","Otras carnes","Guinea","0.47","1.95996663886572"
+"2022","GIN","Pescados y mariscos","Guinea","11.07","46.163469557965"
+"2022","GIN","Porcina","Guinea","0.38","1.58465387823186"
+"2022","GIN","Vacuna","Guinea","5.28","22.0183486238532"
+"2022","GMB","Aviar","Gambia","20.07","46.2016574585635"
+"2022","GMB","Caprina y ovina","Gambia","0.65","1.4963167587477"
+"2022","GMB","Otras carnes","Gambia","0.6","1.38121546961326"
+"2022","GMB","Pescados y mariscos","Gambia","20.1","46.2707182320442"
+"2022","GMB","Porcina","Gambia","0.59","1.35819521178637"
+"2022","GMB","Vacuna","Gambia","1.43","3.29189686924494"
+"2022","GNB","Aviar","Guinea-Bissau","2.94","18.2608695652174"
+"2022","GNB","Caprina y ovina","Guinea-Bissau","1.05","6.52173913043478"
+"2022","GNB","Otras carnes","Guinea-Bissau","0","0"
+"2022","GNB","Pescados y mariscos","Guinea-Bissau","2.4","14.9068322981366"
+"2022","GNB","Porcina","Guinea-Bissau","6.06","37.639751552795"
+"2022","GNB","Vacuna","Guinea-Bissau","3.65","22.6708074534162"
+"2022","GRC","Aviar","Grecia","26.23","26.6863363516126"
+"2022","GRC","Caprina y ovina","Grecia","8.56","8.70892257605046"
+"2022","GRC","Otras carnes","Grecia","1.94","1.97375114457218"
+"2022","GRC","Pescados y mariscos","Grecia","19.37","19.7069895208058"
+"2022","GRC","Porcina","Grecia","27.39","27.8665174483671"
+"2022","GRC","Vacuna","Grecia","14.8","15.0574829585919"
+"2022","GRD","Aviar","Granada","49.59","45.9549624687239"
+"2022","GRD","Caprina y ovina","Granada","1.53","1.41784820683903"
+"2022","GRD","Otras carnes","Granada","1.05","0.973033083124826"
+"2022","GRD","Pescados y mariscos","Granada","30.32","28.0974886479474"
+"2022","GRD","Porcina","Granada","16.81","15.5777963117413"
+"2022","GRD","Vacuna","Granada","8.61","7.97887128162358"
+"2022","GTM","Aviar","Guatemala","29.03","58.7295164879628"
+"2022","GTM","Caprina y ovina","Guatemala","0.13","0.262998179243374"
+"2022","GTM","Otras carnes","Guatemala","0.15","0.303459437588509"
+"2022","GTM","Pescados y mariscos","Guatemala","3.38","6.83795266032774"
+"2022","GTM","Porcina","Guatemala","5.06","10.236698361319"
+"2022","GTM","Vacuna","Guatemala","11.68","23.6293748735586"
+"2022","GUY","Aviar","Guyana","65.81","63.9863879436072"
+"2022","GUY","Caprina y ovina","Guyana","1.06","1.03062712688381"
+"2022","GUY","Otras carnes","Guyana","0.14","0.136120563928051"
+"2022","GUY","Pescados y mariscos","Guyana","25.3","24.5989304812834"
+"2022","GUY","Porcina","Guyana","7.34","7.13660670879922"
+"2022","GUY","Vacuna","Guyana","3.2","3.1113271754983"
+"2022","HKG","Aviar","Hong Kong","45.14","23.8545685145062"
+"2022","HKG","Caprina y ovina","Hong Kong","0.52","0.274797865031972"
+"2022","HKG","Otras carnes","Hong Kong","2.05","1.08333773714527"
+"2022","HKG","Pescados y mariscos","Hong Kong","65.88","34.8147756698198"
+"2022","HKG","Porcina","Hong Kong","52.57","27.7810072398668"
+"2022","HKG","Vacuna","Hong Kong","23.07","12.19151297363"
+"2022","HND","Aviar","Honduras","25.94","59.0619307832423"
+"2022","HND","Caprina y ovina","Honduras","0.03","0.0683060109289617"
+"2022","HND","Otras carnes","Honduras","0.05","0.11384335154827"
+"2022","HND","Pescados y mariscos","Honduras","4.48","10.200364298725"
+"2022","HND","Porcina","Honduras","7.19","16.3706739526412"
+"2022","HND","Vacuna","Honduras","6.23","14.1848816029144"
+"2022","HRV","Aviar","Croacia","19.54","17.0655021834061"
+"2022","HRV","Caprina y ovina","Croacia","1.73","1.51091703056769"
+"2022","HRV","Otras carnes","Croacia","1.05","0.91703056768559"
+"2022","HRV","Pescados y mariscos","Croacia","20.33","17.7554585152838"
+"2022","HRV","Porcina","Croacia","57.39","50.1222707423581"
+"2022","HRV","Vacuna","Croacia","14.46","12.6288209606987"
+"2022","HTI","Aviar","Haití","9.92","40.3088175538399"
+"2022","HTI","Caprina y ovina","Haití","0.59","2.39739943112556"
+"2022","HTI","Otras carnes","Haití","0.83","3.37261275904104"
+"2022","HTI","Pescados y mariscos","Haití","4.91","19.9512393336042"
+"2022","HTI","Porcina","Haití","4.05","16.4567249085738"
+"2022","HTI","Vacuna","Haití","4.31","17.5132060138155"
+"2022","HUN","Aviar","Hungría","23.69","28.614566976688"
+"2022","HUN","Caprina y ovina","Hungría","0.11","0.132866288199058"
+"2022","HUN","Otras carnes","Hungría","0.36","0.434835125015098"
+"2022","HUN","Pescados y mariscos","Hungría","6.15","7.4284333856746"
+"2022","HUN","Porcina","Hungría","47.08","56.8667713491968"
+"2022","HUN","Vacuna","Hungría","5.4","6.52252687522648"
+"2022","IDN","Aviar","Indonesia","14.8","24.5033112582781"
+"2022","IDN","Caprina y ovina","Indonesia","0.42","0.695364238410596"
+"2022","IDN","Otras carnes","Indonesia","0.01","0.0165562913907285"
+"2022","IDN","Pescados y mariscos","Indonesia","41.24","68.2781456953642"
+"2022","IDN","Porcina","Indonesia","0.94","1.55629139072848"
+"2022","IDN","Vacuna","Indonesia","2.99","4.95033112582781"
+"2022","IND","Aviar","India","3.49","22.5306649451259"
+"2022","IND","Caprina y ovina","India","0.58","3.74435119431891"
+"2022","IND","Otras carnes","India","0.14","0.903808908973531"
+"2022","IND","Pescados y mariscos","India","8.86","57.1981923821821"
+"2022","IND","Porcina","India","0.22","1.42027114267269"
+"2022","IND","Vacuna","India","2.2","14.2027114267269"
+"2022","IRL","Aviar","Irlanda","31.18","28.1891329897839"
+"2022","IRL","Caprina y ovina","Irlanda","4.22","3.81520658168339"
+"2022","IRL","Otras carnes","Irlanda","2.53","2.28731579423199"
+"2022","IRL","Pescados y mariscos","Irlanda","19.94","18.0273031371485"
+"2022","IRL","Porcina","Irlanda","29.11","26.3176927945032"
+"2022","IRL","Vacuna","Irlanda","23.63","21.3633487026489"
+"2022","IRN","Aviar","Irán","24.58","56.5187399402161"
+"2022","IRN","Caprina y ovina","Irán","3.34","7.67992641986664"
+"2022","IRN","Otras carnes","Irán","0.09","0.206944125086227"
+"2022","IRN","Pescados y mariscos","Irán","11.57","26.6038169694183"
+"2022","IRN","Porcina","Irán","0","0"
+"2022","IRN","Vacuna","Irán","3.91","8.99057254541274"
+"2022","IRQ","Aviar","Iraq","16.42","66.4508296236342"
+"2022","IRQ","Caprina y ovina","Iraq","1.48","5.98947794415217"
+"2022","IRQ","Otras carnes","Iraq","0.08","0.323755564548766"
+"2022","IRQ","Pescados y mariscos","Iraq","2.68","10.8458114123837"
+"2022","IRQ","Porcina","Iraq","0.41","1.65924726831242"
+"2022","IRQ","Vacuna","Iraq","3.64","14.7308781869688"
+"2022","ISL","Aviar","Islandia","30.74","17.0276408353182"
+"2022","ISL","Caprina y ovina","Islandia","14.89","8.24793663103085"
+"2022","ISL","Otras carnes","Islandia","11.12","6.15964105688805"
+"2022","ISL","Pescados y mariscos","Islandia","87.1","48.2468287819199"
+"2022","ISL","Porcina","Islandia","20.68","11.4551598072343"
+"2022","ISL","Vacuna","Islandia","16","8.86279288760871"
+"2022","ISR","Aviar","Israel","70.83","51.1260285838025"
+"2022","ISR","Caprina y ovina","Israel","5.1","3.68124729320052"
+"2022","ISR","Otras carnes","Israel","0.01","0.007218131947452"
+"2022","ISR","Pescados y mariscos","Israel","25.35","18.2979644867908"
+"2022","ISR","Porcina","Israel","1.15","0.83008517395698"
+"2022","ISR","Vacuna","Israel","36.1","26.0574563303017"
+"2022","ITA","Aviar","Italia","20.31","19.6821397422231"
+"2022","ITA","Caprina y ovina","Italia","0.86","0.833414090512647"
+"2022","ITA","Otras carnes","Italia","1.22","1.18228510514585"
+"2022","ITA","Pescados y mariscos","Italia","29.62","28.7043318150984"
+"2022","ITA","Porcina","Italia","34.96","33.8792518654908"
+"2022","ITA","Vacuna","Italia","16.22","15.7185773815292"
+"2022","JAM","Aviar","Jamaica","55.67","60.1837837837838"
+"2022","JAM","Caprina y ovina","Jamaica","1.18","1.27567567567568"
+"2022","JAM","Otras carnes","Jamaica","0.01","0.0108108108108108"
+"2022","JAM","Pescados y mariscos","Jamaica","27.58","29.8162162162162"
+"2022","JAM","Porcina","Jamaica","2.76","2.98378378378378"
+"2022","JAM","Vacuna","Jamaica","5.3","5.72972972972973"
+"2022","JOR","Aviar","Jordania","26.6","62.2513456587877"
+"2022","JOR","Caprina y ovina","Jordania","4.38","10.2504095483267"
+"2022","JOR","Otras carnes","Jordania","0.09","0.21062485373274"
+"2022","JOR","Pescados y mariscos","Jordania","4.83","11.3035338169904"
+"2022","JOR","Porcina","Jordania","0.01","0.0234027615258601"
+"2022","JOR","Vacuna","Jordania","6.82","15.9606833606366"
+"2022","JPN","Aviar","Japón","27.9","26.2959472196041"
+"2022","JPN","Caprina y ovina","Japón","0.15","0.141376060320452"
+"2022","JPN","Otras carnes","Japón","0.12","0.113100848256362"
+"2022","JPN","Pescados y mariscos","Japón","45.68","43.0537229029218"
+"2022","JPN","Porcina","Japón","22.77","21.4608859566447"
+"2022","JPN","Vacuna","Japón","9.48","8.93496701225259"
+"2022","KAZ","Aviar","Kazajstán","21.82","29.5583852614468"
+"2022","KAZ","Caprina y ovina","Kazajstán","8.51","11.5280411812517"
+"2022","KAZ","Otras carnes","Kazajstán","7.02","9.50961798970469"
+"2022","KAZ","Pescados y mariscos","Kazajstán","3.63","4.91736656732593"
+"2022","KAZ","Porcina","Kazajstán","8.01","10.8507179626118"
+"2022","KAZ","Vacuna","Kazajstán","24.83","33.6358710376592"
+"2022","KEN","Aviar","Kenia","2.07","14.9135446685879"
+"2022","KEN","Caprina y ovina","Kenia","1.95","14.0489913544669"
+"2022","KEN","Otras carnes","Kenia","1.63","11.7435158501441"
+"2022","KEN","Pescados y mariscos","Kenia","2.93","21.1095100864553"
+"2022","KEN","Porcina","Kenia","0.37","2.6657060518732"
+"2022","KEN","Vacuna","Kenia","4.93","35.5187319884726"
+"2022","KGZ","Aviar","Kirguistán","7.55","19.0224237843285"
+"2022","KGZ","Caprina y ovina","Kirguistán","9.84","24.7921390778534"
+"2022","KGZ","Otras carnes","Kirguistán","3.88","9.77576215671454"
+"2022","KGZ","Pescados y mariscos","Kirguistán","1.54","3.88007054673721"
+"2022","KGZ","Porcina","Kirguistán","1.41","3.5525321239607"
+"2022","KGZ","Vacuna","Kirguistán","15.47","38.9770723104056"
+"2022","KHM","Aviar","Camboya","1.83","3.42953523238381"
+"2022","KHM","Caprina y ovina","Camboya","0.01","0.0187406296851574"
+"2022","KHM","Otras carnes","Camboya","0","0"
+"2022","KHM","Pescados y mariscos","Camboya","40.95","76.7428785607196"
+"2022","KHM","Porcina","Camboya","6.18","11.5817091454273"
+"2022","KHM","Vacuna","Camboya","4.39","8.22713643178411"
+"2022","KIR","Aviar","Kiribati","23.71","20.4572907679034"
+"2022","KIR","Caprina y ovina","Kiribati","0.23","0.198446937014668"
+"2022","KIR","Otras carnes","Kiribati","0.12","0.103537532355479"
+"2022","KIR","Pescados y mariscos","Kiribati","72.99","62.97670405522"
+"2022","KIR","Porcina","Kiribati","13.58","11.7169974115617"
+"2022","KIR","Vacuna","Kiribati","5.27","4.54702329594478"
+"2022","KNA","Aviar","Saint Kitts y Nevis","61.21","48.7845700167371"
+"2022","KNA","Caprina y ovina","Saint Kitts y Nevis","2.4","1.91280784251215"
+"2022","KNA","Otras carnes","Saint Kitts y Nevis","0.11","0.0876703594484737"
+"2022","KNA","Pescados y mariscos","Saint Kitts y Nevis","35.74","28.4848967880768"
+"2022","KNA","Porcina","Saint Kitts y Nevis","17.92","14.2822985574241"
+"2022","KNA","Vacuna","Saint Kitts y Nevis","8.09","6.44775643580139"
+"2022","KOR","Aviar","Corea del Sur","21.81","15.6850053937433"
+"2022","KOR","Caprina y ovina","Corea del Sur","0.55","0.395541172240201"
+"2022","KOR","Otras carnes","Corea del Sur","0.16","0.115066522833513"
+"2022","KOR","Pescados y mariscos","Corea del Sur","55.65","40.0215749730313"
+"2022","KOR","Porcina","Corea del Sur","41.34","29.730312837109"
+"2022","KOR","Vacuna","Corea del Sur","19.54","14.0524991010428"
+"2022","KWT","Aviar","Kuwait","52.27","53.8366464105469"
+"2022","KWT","Caprina y ovina","Kuwait","14.94","15.3877845298177"
+"2022","KWT","Otras carnes","Kuwait","2.99","3.07961685034504"
+"2022","KWT","Pescados y mariscos","Kuwait","14.69","15.13029148213"
+"2022","KWT","Porcina","Kuwait","0.34","0.350190544855289"
+"2022","KWT","Vacuna","Kuwait","11.86","12.2154701823051"
+"2022","LAO","Aviar","Lao","6.34","11.4938361131255"
+"2022","LAO","Caprina y ovina","Lao","0.4","0.725163161711385"
+"2022","LAO","Otras carnes","Lao","0.31","0.562001450326323"
+"2022","LAO","Pescados y mariscos","Lao","25.21","45.70340826686"
+"2022","LAO","Porcina","Lao","13.7","24.8368382886149"
+"2022","LAO","Vacuna","Lao","9.2","16.6787527193619"
+"2022","LBN","Aviar","Líbano","23.57","52.0883977900552"
+"2022","LBN","Caprina y ovina","Líbano","1.33","2.93922651933702"
+"2022","LBN","Otras carnes","Líbano","0.01","0.0220994475138122"
+"2022","LBN","Pescados y mariscos","Líbano","4.97","10.9834254143646"
+"2022","LBN","Porcina","Líbano","0.95","2.09944751381215"
+"2022","LBN","Vacuna","Líbano","14.42","31.8674033149171"
+"2022","LBR","Aviar","Liberia","12.99","51.3844936708861"
+"2022","LBR","Caprina y ovina","Liberia","0.39","1.54272151898734"
+"2022","LBR","Otras carnes","Liberia","1.58","6.25"
+"2022","LBR","Pescados y mariscos","Liberia","4.91","19.4224683544304"
+"2022","LBR","Porcina","Liberia","4.87","19.2642405063291"
+"2022","LBR","Vacuna","Liberia","0.54","2.13607594936709"
+"2022","LBY","Aviar","Libia","34.61","52.8719828903147"
+"2022","LBY","Caprina y ovina","Libia","6","9.16590284142988"
+"2022","LBY","Otras carnes","Libia","0.85","1.2985029025359"
+"2022","LBY","Pescados y mariscos","Libia","19.97","30.5071799572258"
+"2022","LBY","Porcina","Libia","0.05","0.0763825236785824"
+"2022","LBY","Vacuna","Libia","3.98","6.08004888481516"
+"2022","LCA","Aviar","Santa Lucía","65.17","52.0319361277445"
+"2022","LCA","Caprina y ovina","Santa Lucía","3.04","2.42714570858283"
+"2022","LCA","Otras carnes","Santa Lucía","0","0"
+"2022","LCA","Pescados y mariscos","Santa Lucía","33.43","26.6906187624751"
+"2022","LCA","Porcina","Santa Lucía","16.87","13.4690618762475"
+"2022","LCA","Vacuna","Santa Lucía","6.74","5.3812375249501"
+"2022","LKA","Aviar","Sri Lanka","10.43","29.0934449093445"
+"2022","LKA","Caprina y ovina","Sri Lanka","0.14","0.390516039051604"
+"2022","LKA","Otras carnes","Sri Lanka","0","0"
+"2022","LKA","Pescados y mariscos","Sri Lanka","23.94","66.7782426778243"
+"2022","LKA","Porcina","Sri Lanka","0.07","0.195258019525802"
+"2022","LKA","Vacuna","Sri Lanka","1.27","3.54253835425384"
+"2022","LSO","Aviar","Lesotho","1.02","7.76255707762557"
+"2022","LSO","Caprina y ovina","Lesotho","0.51","3.88127853881279"
+"2022","LSO","Otras carnes","Lesotho","2.57","19.558599695586"
+"2022","LSO","Pescados y mariscos","Lesotho","1.94","14.7640791476408"
+"2022","LSO","Porcina","Lesotho","5.06","38.5083713850837"
+"2022","LSO","Vacuna","Lesotho","2.04","15.5251141552511"
+"2022","LTU","Aviar","Lituania","26.55","23.921073970628"
+"2022","LTU","Caprina y ovina","Lituania","0.38","0.342373186773583"
+"2022","LTU","Otras carnes","Lituania","0.55","0.495540138751239"
+"2022","LTU","Pescados y mariscos","Lituania","29.6","26.6690692855212"
+"2022","LTU","Porcina","Lituania","48.86","44.0219839625192"
+"2022","LTU","Vacuna","Lituania","5.05","4.54995945580683"
+"2022","LUX","Aviar","Luxemburgo","19.84","16.9297721648605"
+"2022","LUX","Caprina y ovina","Luxemburgo","1.09","0.930113490912194"
+"2022","LUX","Otras carnes","Luxemburgo","1.24","1.05811076030378"
+"2022","LUX","Pescados y mariscos","Luxemburgo","31.12","26.5551668231078"
+"2022","LUX","Porcina","Luxemburgo","33.17","28.3044628381261"
+"2022","LUX","Vacuna","Luxemburgo","30.73","26.2223739226896"
+"2022","LVA","Aviar","Letonia","29.29","26.9779865524546"
+"2022","LVA","Caprina y ovina","Letonia","0.36","0.331583310306715"
+"2022","LVA","Otras carnes","Letonia","0.26","0.239476835221516"
+"2022","LVA","Pescados y mariscos","Letonia","24.91","22.9437229437229"
+"2022","LVA","Porcina","Letonia","48.07","44.2755825734549"
+"2022","LVA","Vacuna","Letonia","5.68","5.23164778483927"
+"2022","MAC","Aviar","Macao","49.61","27.3318274475236"
+"2022","MAC","Caprina y ovina","Macao","0.57","0.314032284722605"
+"2022","MAC","Otras carnes","Macao","1.46","0.804363395956146"
+"2022","MAC","Pescados y mariscos","Macao","68.37","37.6673461517272"
+"2022","MAC","Porcina","Macao","48.9","26.9406644262024"
+"2022","MAC","Vacuna","Macao","12.6","6.94176629386811"
+"2022","MAR","Aviar","Marruecos","17.46","36.1490683229814"
+"2022","MAR","Caprina y ovina","Marruecos","5.18","10.7246376811594"
+"2022","MAR","Otras carnes","Marruecos","1.81","3.74741200828157"
+"2022","MAR","Pescados y mariscos","Marruecos","16.83","34.8447204968944"
+"2022","MAR","Porcina","Marruecos","0.02","0.041407867494824"
+"2022","MAR","Vacuna","Marruecos","7","14.4927536231884"
+"2022","MDA","Aviar","Moldavia","24.93","45.3107960741549"
+"2022","MDA","Caprina y ovina","Moldavia","0.01","0.0181752090149037"
+"2022","MDA","Otras carnes","Moldavia","0.28","0.508905852417303"
+"2022","MDA","Pescados y mariscos","Moldavia","16.18","29.4074881861141"
+"2022","MDA","Porcina","Moldavia","12.5","22.7190112686296"
+"2022","MDA","Vacuna","Moldavia","1.12","2.03562340966921"
+"2022","MDG","Aviar","Madagascar","3.03","32.9347826086957"
+"2022","MDG","Caprina y ovina","Madagascar","0.15","1.6304347826087"
+"2022","MDG","Otras carnes","Madagascar","0.28","3.04347826086957"
+"2022","MDG","Pescados y mariscos","Madagascar","3.71","40.3260869565217"
+"2022","MDG","Porcina","Madagascar","0.9","9.78260869565217"
+"2022","MDG","Vacuna","Madagascar","1.13","12.2826086956522"
+"2022","MDV","Aviar","Maldivas","21.8","18.3177884211411"
+"2022","MDV","Caprina y ovina","Maldivas","1.77","1.48726997731283"
+"2022","MDV","Otras carnes","Maldivas","0.7","0.588185866733888"
+"2022","MDV","Pescados y mariscos","Maldivas","80.08","67.2884631543568"
+"2022","MDV","Porcina","Maldivas","0.83","0.69742038484161"
+"2022","MDV","Vacuna","Maldivas","13.83","11.6208721956138"
+"2022","MEX","Aviar","México","38.83","42.520805957074"
+"2022","MEX","Caprina y ovina","México","0.85","0.930792816469558"
+"2022","MEX","Otras carnes","México","0.62","0.678931230836619"
+"2022","MEX","Pescados y mariscos","México","13.79","15.1007446342532"
+"2022","MEX","Porcina","México","21.96","24.0473061760841"
+"2022","MEX","Vacuna","México","15.27","16.7214191852825"
+"2022","MHL","Aviar","Islas Marshall","74.75","46.0680389498336"
+"2022","MHL","Caprina y ovina","Islas Marshall","1.08","0.665598422285221"
+"2022","MHL","Otras carnes","Islas Marshall","0.23","0.141747812153334"
+"2022","MHL","Pescados y mariscos","Islas Marshall","43.91","27.0615062245778"
+"2022","MHL","Porcina","Islas Marshall","28.04","17.2809071859978"
+"2022","MHL","Vacuna","Islas Marshall","14.25","8.78220140515223"
+"2022","MKD","Aviar","Macedonia del Norte","18.01","36.5240316365849"
+"2022","MKD","Caprina y ovina","Macedonia del Norte","0.8","1.62238896775502"
+"2022","MKD","Otras carnes","Macedonia del Norte","0.37","0.750354897586696"
+"2022","MKD","Pescados y mariscos","Macedonia del Norte","7","14.1959034678564"
+"2022","MKD","Porcina","Macedonia del Norte","14.48","29.3652403163658"
+"2022","MKD","Vacuna","Macedonia del Norte","8.65","17.5420807138511"
+"2022","MLI","Aviar","Malí","2.55","15.4826958105647"
+"2022","MLI","Caprina y ovina","Malí","0.84","5.10018214936248"
+"2022","MLI","Otras carnes","Malí","1.48","8.98603521554341"
+"2022","MLI","Pescados y mariscos","Malí","8.82","53.551912568306"
+"2022","MLI","Porcina","Malí","0.06","0.364298724954463"
+"2022","MLI","Vacuna","Malí","2.72","16.514875531269"
+"2022","MLT","Aviar","Malta","24.01","25.0730994152047"
+"2022","MLT","Caprina y ovina","Malta","0.83","0.866750208855472"
+"2022","MLT","Otras carnes","Malta","0.65","0.678780284043442"
+"2022","MLT","Pescados y mariscos","Malta","30.36","31.7042606516291"
+"2022","MLT","Porcina","Malta","22.19","23.172514619883"
+"2022","MLT","Vacuna","Malta","17.72","18.5045948203843"
+"2022","MMR","Aviar","Myanmar","12.09","20.019870839543"
+"2022","MMR","Caprina y ovina","Myanmar","0.22","0.364298724954463"
+"2022","MMR","Otras carnes","Myanmar","0","0"
+"2022","MMR","Pescados y mariscos","Myanmar","40.31","66.749461831429"
+"2022","MMR","Porcina","Myanmar","5.11","8.46166583871502"
+"2022","MMR","Vacuna","Myanmar","2.66","4.4047027653585"
+"2022","MNE","Aviar","Montenegro","19.22","19.1319928329683"
+"2022","MNE","Caprina y ovina","Montenegro","1.68","1.67230738602429"
+"2022","MNE","Otras carnes","Montenegro","0.05","0.0497710531554848"
+"2022","MNE","Pescados y mariscos","Montenegro","12.03","11.9749153892096"
+"2022","MNE","Porcina","Montenegro","53.47","53.2251642444754"
+"2022","MNE","Vacuna","Montenegro","14.01","13.9458490941668"
+"2022","MNG","Aviar","Mongolia","7.1","5.34517804712791"
+"2022","MNG","Caprina y ovina","Mongolia","68.45","51.5320334261838"
+"2022","MNG","Otras carnes","Mongolia","23.31","17.5487465181058"
+"2022","MNG","Pescados y mariscos","Mongolia","1.05","0.790484077392155"
+"2022","MNG","Porcina","Mongolia","2.72","2.04773018143492"
+"2022","MNG","Vacuna","Mongolia","30.2","22.7358277497553"
+"2022","MOZ","Aviar","Mozambique","5.89","24.3489045059942"
+"2022","MOZ","Caprina y ovina","Mozambique","0.12","0.496072757337743"
+"2022","MOZ","Otras carnes","Mozambique","0.01","0.0413393964448119"
+"2022","MOZ","Pescados y mariscos","Mozambique","13.13","54.278627532038"
+"2022","MOZ","Porcina","Mozambique","4.33","17.8999586606036"
+"2022","MOZ","Vacuna","Mozambique","0.71","2.93509714758165"
+"2022","MRT","Aviar","Mauritania","7.81","18.7155523604122"
+"2022","MRT","Caprina y ovina","Mauritania","12.42","29.7627606038821"
+"2022","MRT","Otras carnes","Mauritania","6.42","15.3846153846154"
+"2022","MRT","Pescados y mariscos","Mauritania","8.05","19.2906781691828"
+"2022","MRT","Porcina","Mauritania","0","0"
+"2022","MRT","Vacuna","Mauritania","7.03","16.8463934819075"
+"2022","MUS","Aviar","Mauricio","45.15","50.7474429583006"
+"2022","MUS","Caprina y ovina","Mauricio","3.66","4.11374620658649"
+"2022","MUS","Otras carnes","Mauricio","0.68","0.764302573901315"
+"2022","MUS","Pescados y mariscos","Mauricio","28.83","32.404181184669"
+"2022","MUS","Porcina","Mauricio","4.17","4.68697313701248"
+"2022","MUS","Vacuna","Mauricio","6.48","7.28335393953018"
+"2022","MWI","Aviar","Malawi","7.21","18.0701754385965"
+"2022","MWI","Caprina y ovina","Malawi","3.52","8.82205513784461"
+"2022","MWI","Otras carnes","Malawi","0","0"
+"2022","MWI","Pescados y mariscos","Malawi","9.07","22.7318295739348"
+"2022","MWI","Porcina","Malawi","16.89","42.3308270676692"
+"2022","MWI","Vacuna","Malawi","3.21","8.04511278195489"
+"2022","MYS","Aviar","Malasia","53.06","43.1487354639343"
+"2022","MYS","Caprina y ovina","Malasia","1.38","1.12222493291047"
+"2022","MYS","Otras carnes","Malasia","0.01","0.00813206473123526"
+"2022","MYS","Pescados y mariscos","Malasia","52.17","42.4249817028544"
+"2022","MYS","Porcina","Malasia","7.44","6.05025616003903"
+"2022","MYS","Vacuna","Malasia","8.91","7.24566967553062"
+"2022","NAM","Aviar","Namibia","9.46","24.2191500256016"
+"2022","NAM","Caprina y ovina","Namibia","3.87","9.90783410138249"
+"2022","NAM","Otras carnes","Namibia","4.67","11.9559651817716"
+"2022","NAM","Pescados y mariscos","Namibia","11.15","28.5458269329237"
+"2022","NAM","Porcina","Namibia","4.67","11.9559651817716"
+"2022","NAM","Vacuna","Namibia","5.24","13.4152585765489"
+"2022","NCL","Aviar","Nueva Caledonia","36.57","34.7293447293447"
+"2022","NCL","Caprina y ovina","Nueva Caledonia","1.33","1.2630579297246"
+"2022","NCL","Otras carnes","Nueva Caledonia","1.2","1.13960113960114"
+"2022","NCL","Pescados y mariscos","Nueva Caledonia","22.75","21.6049382716049"
+"2022","NCL","Porcina","Nueva Caledonia","21.89","20.7882241215575"
+"2022","NCL","Vacuna","Nueva Caledonia","21.56","20.4748338081671"
+"2022","NER","Aviar","Níger","0.86","9.1005291005291"
+"2022","NER","Caprina y ovina","Níger","1.84","19.4708994708995"
+"2022","NER","Otras carnes","Níger","2.34","24.7619047619048"
+"2022","NER","Pescados y mariscos","Níger","1.86","19.6825396825397"
+"2022","NER","Porcina","Níger","0.06","0.634920634920635"
+"2022","NER","Vacuna","Níger","2.49","26.3492063492063"
+"2022","NGA","Aviar","Nigeria","1.63","10.9986504723347"
+"2022","NGA","Caprina y ovina","Nigeria","1.95","13.1578947368421"
+"2022","NGA","Otras carnes","Nigeria","0.82","5.53306342780027"
+"2022","NGA","Pescados y mariscos","Nigeria","7.2","48.582995951417"
+"2022","NGA","Porcina","Nigeria","1.7","11.4709851551957"
+"2022","NGA","Vacuna","Nigeria","1.52","10.2564102564103"
+"2022","NIC","Aviar","Nicaragua","23.7","60.9881626351004"
+"2022","NIC","Caprina y ovina","Nicaragua","0.01","0.0257334019557386"
+"2022","NIC","Otras carnes","Nicaragua","0.27","0.694801852804941"
+"2022","NIC","Pescados y mariscos","Nicaragua","6.36","16.3664436438497"
+"2022","NIC","Porcina","Nicaragua","5.89","15.15697375193"
+"2022","NIC","Vacuna","Nicaragua","2.63","6.76788471435924"
+"2022","NLD","Aviar","Países Bajos","13.78","16.259587020649"
+"2022","NLD","Caprina y ovina","Países Bajos","0.97","1.14454277286136"
+"2022","NLD","Otras carnes","Países Bajos","2.51","2.96165191740413"
+"2022","NLD","Pescados y mariscos","Países Bajos","19.67","23.2094395280236"
+"2022","NLD","Porcina","Países Bajos","31.09","36.6843657817109"
+"2022","NLD","Vacuna","Países Bajos","16.73","19.740412979351"
+"2022","NOR","Aviar","Noruega","21.51","17.6152649250676"
+"2022","NOR","Caprina y ovina","Noruega","4.52","3.70158054213414"
+"2022","NOR","Otras carnes","Noruega","1.72","1.4085660470068"
+"2022","NOR","Pescados y mariscos","Noruega","49.87","40.8402260257145"
+"2022","NOR","Porcina","Noruega","25.79","21.1203013676194"
+"2022","NOR","Vacuna","Noruega","18.7","15.3140610924576"
+"2022","NPL","Aviar","Nepal","6.73","33.416087388282"
+"2022","NPL","Caprina y ovina","Nepal","2.52","12.5124131082423"
+"2022","NPL","Otras carnes","Nepal","0","0"
+"2022","NPL","Pescados y mariscos","Nepal","3.35","16.6335650446872"
+"2022","NPL","Porcina","Nepal","1.18","5.85898709036743"
+"2022","NPL","Vacuna","Nepal","6.36","31.5789473684211"
+"2022","NRU","Aviar","Nauru","46.87","35.4217049576784"
+"2022","NRU","Caprina y ovina","Nauru","5.04","3.80894800483676"
+"2022","NRU","Otras carnes","Nauru","3.39","2.56197097944377"
+"2022","NRU","Pescados y mariscos","Nauru","24.43","18.4628174123337"
+"2022","NRU","Porcina","Nauru","31.73","23.979746070133"
+"2022","NRU","Vacuna","Nauru","20.86","15.7648125755744"
+"2022","NZL","Aviar","Nueva Zelanda","25.78","23.1938821412506"
+"2022","NZL","Caprina y ovina","Nueva Zelanda","12.96","11.6599190283401"
+"2022","NZL","Otras carnes","Nueva Zelanda","2.28","2.05128205128205"
+"2022","NZL","Pescados y mariscos","Nueva Zelanda","24.54","22.0782726045884"
+"2022","NZL","Porcina","Nueva Zelanda","24.23","21.7993702204229"
+"2022","NZL","Vacuna","Nueva Zelanda","21.36","19.2172739541161"
+"2022","OMN","Aviar","Omán","19.08","25.1284077439747"
+"2022","OMN","Caprina y ovina","Omán","12","15.8040300276571"
+"2022","OMN","Otras carnes","Omán","3.58","4.71486895825102"
+"2022","OMN","Pescados y mariscos","Omán","31.08","40.9324377716318"
+"2022","OMN","Porcina","Omán","0.5","0.658501251152377"
+"2022","OMN","Vacuna","Omán","9.69","12.7617542473331"
+"2022","PAK","Aviar","Pakistán","8.4","37.3333333333333"
+"2022","PAK","Caprina y ovina","Pakistán","2.49","11.0666666666667"
+"2022","PAK","Otras carnes","Pakistán","0.13","0.577777777777778"
+"2022","PAK","Pescados y mariscos","Pakistán","1.41","6.26666666666667"
+"2022","PAK","Porcina","Pakistán","0","0"
+"2022","PAK","Vacuna","Pakistán","10.07","44.7555555555556"
+"2022","PAN","Aviar","Panamá","50.68","54.0356114724384"
+"2022","PAN","Caprina y ovina","Panamá","0.01","0.0106621174965348"
+"2022","PAN","Otras carnes","Panamá","0.59","0.629064932295554"
+"2022","PAN","Pescados y mariscos","Panamá","15.06","16.0571489497814"
+"2022","PAN","Porcina","Panamá","12.01","12.8052031133383"
+"2022","PAN","Vacuna","Panamá","15.44","16.4623094146498"
+"2022","PER","Aviar","Perú","43.44","53.9493293591654"
+"2022","PER","Caprina y ovina","Perú","0.76","0.943864878291108"
+"2022","PER","Otras carnes","Perú","1.13","1.4033780427223"
+"2022","PER","Pescados y mariscos","Perú","26.24","32.5881768504719"
+"2022","PER","Porcina","Perú","4.75","5.89915548931942"
+"2022","PER","Vacuna","Perú","4.2","5.21609538002981"
+"2022","PHL","Aviar","Filipinas","15.73","25.677440417891"
+"2022","PHL","Caprina y ovina","Filipinas","0.27","0.440744368266406"
+"2022","PHL","Otras carnes","Filipinas","0.16","0.261181847861574"
+"2022","PHL","Pescados y mariscos","Filipinas","26.2","42.7685275873327"
+"2022","PHL","Porcina","Filipinas","15.11","24.6653607574274"
+"2022","PHL","Vacuna","Filipinas","3.79","6.18674502122103"
+"2022","PNG","Aviar","Papua Nueva Guinea","3.52","5.32929598788796"
+"2022","PNG","Caprina y ovina","Papua Nueva Guinea","2.4","3.6336109008327"
+"2022","PNG","Otras carnes","Papua Nueva Guinea","43.08","65.223315669947"
+"2022","PNG","Pescados y mariscos","Papua Nueva Guinea","7.28","11.0219530658592"
+"2022","PNG","Porcina","Papua Nueva Guinea","8.85","13.3989401968206"
+"2022","PNG","Vacuna","Papua Nueva Guinea","0.92","1.39288417865254"
+"2022","POL","Aviar","Polonia","29.53","31.941590048675"
+"2022","POL","Caprina y ovina","Polonia","0.03","0.0324499729583559"
+"2022","POL","Otras carnes","Polonia","0.15","0.162249864791779"
+"2022","POL","Pescados y mariscos","Polonia","10.84","11.7252568956193"
+"2022","POL","Porcina","Polonia","51.65","55.868036776636"
+"2022","POL","Vacuna","Polonia","0.25","0.270416441319632"
+"2022","PRT","Aviar","Portugal","32.82","21.4860883797054"
+"2022","PRT","Caprina y ovina","Portugal","2.29","1.49918166939444"
+"2022","PRT","Otras carnes","Portugal","0.63","0.412438625204583"
+"2022","PRT","Pescados y mariscos","Portugal","54.33","35.5679214402619"
+"2022","PRT","Porcina","Portugal","40.24","26.3436988543372"
+"2022","PRT","Vacuna","Portugal","22.44","14.6906710310966"
+"2022","PRY","Aviar","Paraguay","10.44","27.7881288261911"
+"2022","PRY","Caprina y ovina","Paraguay","0.39","1.03806228373702"
+"2022","PRY","Otras carnes","Paraguay","0.31","0.825126430662763"
+"2022","PRY","Pescados y mariscos","Paraguay","5.39","14.3465531008784"
+"2022","PRY","Porcina","Paraguay","10.41","27.7082778812883"
+"2022","PRY","Vacuna","Paraguay","10.63","28.2938514772425"
+"2022","PYF","Aviar","Polinesia Francesa","47.07","33.1642358909321"
+"2022","PYF","Caprina y ovina","Polinesia Francesa","2.46","1.73324878461213"
+"2022","PYF","Otras carnes","Polinesia Francesa","1.1","0.775029944338759"
+"2022","PYF","Pescados y mariscos","Polinesia Francesa","45.74","32.2271542309589"
+"2022","PYF","Porcina","Polinesia Francesa","12.78","9.00443880786303"
+"2022","PYF","Vacuna","Polinesia Francesa","32.78","23.095892341295"
+"2022","QAT","Aviar","Qatar","59.16","52.2891992222026"
+"2022","QAT","Caprina y ovina","Qatar","10.57","9.34240763655648"
+"2022","QAT","Otras carnes","Qatar","0.37","0.327028460314654"
+"2022","QAT","Pescados y mariscos","Qatar","24.34","21.5131695244829"
+"2022","QAT","Porcina","Qatar","0.24","0.212126568852749"
+"2022","QAT","Vacuna","Qatar","18.46","16.3160685875906"
+"2022","ROU","Aviar","Rumania","21.59","28.471581168403"
+"2022","ROU","Caprina y ovina","Rumania","3.09","4.07490439140182"
+"2022","ROU","Otras carnes","Rumania","0.17","0.224185678491362"
+"2022","ROU","Pescados y mariscos","Rumania","7.94","10.4707899248319"
+"2022","ROU","Porcina","Rumania","38.48","50.7450876961625"
+"2022","ROU","Vacuna","Rumania","4.56","6.01345114070948"
+"2022","RUS","Aviar","Rusia","34.23","32.7184094819346"
+"2022","RUS","Caprina y ovina","Rusia","1.45","1.38596826610591"
+"2022","RUS","Otras carnes","Rusia","4.01","3.83291913592047"
+"2022","RUS","Pescados y mariscos","Rusia","22.91","21.8982986044733"
+"2022","RUS","Porcina","Rusia","29.51","28.206843815714"
+"2022","RUS","Vacuna","Rusia","12.51","11.9575606958517"
+"2022","RWA","Aviar","Ruanda","0.75","6.55594405594406"
+"2022","RWA","Caprina y ovina","Ruanda","1.03","9.0034965034965"
+"2022","RWA","Otras carnes","Ruanda","1.26","11.013986013986"
+"2022","RWA","Pescados y mariscos","Ruanda","5.21","45.541958041958"
+"2022","RWA","Porcina","Ruanda","0.49","4.28321678321678"
+"2022","RWA","Vacuna","Ruanda","2.7","23.6013986013986"
+"2022","SAU","Aviar","Arabia Saudita","45.57","64.7669130187607"
+"2022","SAU","Caprina y ovina","Arabia Saudita","5.05","7.17737350767482"
+"2022","SAU","Otras carnes","Arabia Saudita","2.04","2.89937464468448"
+"2022","SAU","Pescados y mariscos","Arabia Saudita","11.81","16.785105173394"
+"2022","SAU","Porcina","Arabia Saudita","0","0"
+"2022","SAU","Vacuna","Arabia Saudita","5.89","8.37123365548607"
+"2022","SDN","Aviar","Sudán","1.69","8.32922621981272"
+"2022","SDN","Caprina y ovina","Sudán","6.96","34.3026121241991"
+"2022","SDN","Otras carnes","Sudán","3.17","15.6234598324298"
+"2022","SDN","Pescados y mariscos","Sudán","0.93","4.58353868900936"
+"2022","SDN","Porcina","Sudán","0","0"
+"2022","SDN","Vacuna","Sudán","7.54","37.161163134549"
+"2022","SEN","Aviar","Senegal","8.3","23.3802816901408"
+"2022","SEN","Caprina y ovina","Senegal","3.98","11.2112676056338"
+"2022","SEN","Otras carnes","Senegal","1.13","3.1830985915493"
+"2022","SEN","Pescados y mariscos","Senegal","14.35","40.4225352112676"
+"2022","SEN","Porcina","Senegal","1.25","3.52112676056338"
+"2022","SEN","Vacuna","Senegal","6.49","18.2816901408451"
+"2022","SLB","Aviar","Islas Salomón","9.41","18.8993773850171"
+"2022","SLB","Caprina y ovina","Islas Salomón","0.07","0.140590480016067"
+"2022","SLB","Otras carnes","Islas Salomón","0","0"
+"2022","SLB","Pescados y mariscos","Islas Salomón","33.67","67.6240208877285"
+"2022","SLB","Porcina","Islas Salomón","4.67","9.3793934525005"
+"2022","SLB","Vacuna","Islas Salomón","1.97","3.9566177947379"
+"2022","SLE","Aviar","Sierra Leona","5.56","16.5821652251715"
+"2022","SLE","Caprina y ovina","Sierra Leona","0.43","1.28243364151506"
+"2022","SLE","Otras carnes","Sierra Leona","1.33","3.96659707724426"
+"2022","SLE","Pescados y mariscos","Sierra Leona","24.04","71.6969877721443"
+"2022","SLE","Porcina","Sierra Leona","0.54","1.61049806143752"
+"2022","SLE","Vacuna","Sierra Leona","1.63","4.86131822248732"
+"2022","SLV","Aviar","El Salvador","28.06","56.0079840319361"
+"2022","SLV","Caprina y ovina","El Salvador","0.02","0.0399201596806387"
+"2022","SLV","Otras carnes","El Salvador","0","0"
+"2022","SLV","Pescados y mariscos","El Salvador","7.18","14.3313373253493"
+"2022","SLV","Porcina","El Salvador","5.2","10.3792415169661"
+"2022","SLV","Vacuna","El Salvador","9.64","19.2415169660679"
+"2022","SOM","Aviar","Somalia","0.79","6.1003861003861"
+"2022","SOM","Caprina y ovina","Somalia","4.46","34.4401544401544"
+"2022","SOM","Otras carnes","Somalia","2.82","21.7760617760618"
+"2022","SOM","Pescados y mariscos","Somalia","1.71","13.2046332046332"
+"2022","SOM","Porcina","Somalia","0.01","0.0772200772200772"
+"2022","SOM","Vacuna","Somalia","3.16","24.4015444015444"
+"2022","SRB","Aviar","Serbia","11.46","13.8791328569698"
+"2022","SRB","Caprina y ovina","Serbia","4.22","5.1108150660046"
+"2022","SRB","Otras carnes","Serbia","0.03","0.0363328085260991"
+"2022","SRB","Pescados y mariscos","Serbia","7.93","9.60397238706552"
+"2022","SRB","Porcina","Serbia","49.11","59.4768075572242"
+"2022","SRB","Vacuna","Serbia","9.82","11.8929393242098"
+"2022","SSD","Aviar","Sudán del Sur","4.77","19.3273905996758"
+"2022","SSD","Caprina y ovina","Sudán del Sur","3.89","15.7617504051864"
+"2022","SSD","Otras carnes","Sudán del Sur","0.92","3.72771474878444"
+"2022","SSD","Pescados y mariscos","Sudán del Sur","3.03","12.2771474878444"
+"2022","SSD","Porcina","Sudán del Sur","0","0"
+"2022","SSD","Vacuna","Sudán del Sur","12.07","48.9059967585089"
+"2022","STP","Aviar","Santo Tomé y Príncipe","14.61","30.8553326293559"
+"2022","STP","Caprina y ovina","Santo Tomé y Príncipe","0.07","0.147835269271383"
+"2022","STP","Otras carnes","Santo Tomé y Príncipe","0","0"
+"2022","STP","Pescados y mariscos","Santo Tomé y Príncipe","26.03","54.973600844773"
+"2022","STP","Porcina","Santo Tomé y Príncipe","4.65","9.82048574445618"
+"2022","STP","Vacuna","Santo Tomé y Príncipe","1.99","4.20274551214361"
+"2022","SUR","Aviar","Suriname","45.41","59.8523790694609"
+"2022","SUR","Caprina y ovina","Suriname","0.04","0.0527217609068143"
+"2022","SUR","Otras carnes","Suriname","0.09","0.118623962040332"
+"2022","SUR","Pescados y mariscos","Suriname","16.96","22.3540266244893"
+"2022","SUR","Porcina","Suriname","8.3","10.939765388164"
+"2022","SUR","Vacuna","Suriname","5.07","6.68248319493871"
+"2022","SVK","Aviar","Eslovaquia","12.38","17.5702526256032"
+"2022","SVK","Caprina y ovina","Eslovaquia","0.11","0.156116945784842"
+"2022","SVK","Otras carnes","Eslovaquia","1.22","1.73147885325007"
+"2022","SVK","Pescados y mariscos","Eslovaquia","9.85","13.9795628725518"
+"2022","SVK","Porcina","Eslovaquia","40.11","56.9259154130003"
+"2022","SVK","Vacuna","Eslovaquia","6.79","9.63667328980982"
+"2022","SVN","Aviar","Eslovenia","25.91","35.3093485963478"
+"2022","SVN","Caprina y ovina","Eslovenia","0.79","1.07658762605615"
+"2022","SVN","Otras carnes","Eslovenia","0.35","0.47696920141728"
+"2022","SVN","Pescados y mariscos","Eslovenia","12.95","17.6478604524394"
+"2022","SVN","Porcina","Eslovenia","21.18","28.86345053148"
+"2022","SVN","Vacuna","Eslovenia","12.2","16.6257835922595"
+"2022","SWE","Aviar","Suecia","16.35","16.5670280676867"
+"2022","SWE","Caprina y ovina","Suecia","1.31","1.3273887931908"
+"2022","SWE","Otras carnes","Suecia","0.21","0.212787516465701"
+"2022","SWE","Pescados y mariscos","Suecia","30.62","31.026446448475"
+"2022","SWE","Porcina","Suecia","28.2","28.5743236396798"
+"2022","SWE","Vacuna","Suecia","22","22.292025534502"
+"2022","SWZ","Aviar","Eswatini","6.24","20.8277703604806"
+"2022","SWZ","Caprina y ovina","Eswatini","1.81","6.04138851802403"
+"2022","SWZ","Otras carnes","Eswatini","0.3","1.00133511348465"
+"2022","SWZ","Pescados y mariscos","Eswatini","3.86","12.8838451268358"
+"2022","SWZ","Porcina","Eswatini","2","6.67556742323097"
+"2022","SWZ","Vacuna","Eswatini","15.75","52.5700934579439"
+"2022","SYC","Aviar","Seychelles","41.61","32.5154333046808"
+"2022","SYC","Caprina y ovina","Seychelles","2.76","2.15675548956787"
+"2022","SYC","Otras carnes","Seychelles","0.55","0.429788231616785"
+"2022","SYC","Pescados y mariscos","Seychelles","51.26","40.0562631866844"
+"2022","SYC","Porcina","Seychelles","13.35","10.432132531062"
+"2022","SYC","Vacuna","Seychelles","18.44","14.4096272563882"
+"2022","SYR","Aviar","Siria","5.24","28.6495352651722"
+"2022","SYR","Caprina y ovina","Siria","8.86","48.4417714598141"
+"2022","SYR","Otras carnes","Siria","0.1","0.546746856205577"
+"2022","SYR","Pescados y mariscos","Siria","1.72","9.40404592673592"
+"2022","SYR","Porcina","Siria","0.09","0.492072170585019"
+"2022","SYR","Vacuna","Siria","2.28","12.4658283214871"
+"2022","TCD","Aviar","Chad","0.48","0.876232201533406"
+"2022","TCD","Caprina y ovina","Chad","19.03","34.7389558232932"
+"2022","TCD","Otras carnes","Chad","0.84","1.53340635268346"
+"2022","TCD","Pescados y mariscos","Chad","5.84","10.6608251186564"
+"2022","TCD","Porcina","Chad","0.14","0.255567725447244"
+"2022","TCD","Vacuna","Chad","28.45","51.9350127783863"
+"2022","TGO","Aviar","Togo","5.47","28.2104177411037"
+"2022","TGO","Caprina y ovina","Togo","1.25","6.44662197008767"
+"2022","TGO","Otras carnes","Togo","0.73","3.7648272305312"
+"2022","TGO","Pescados y mariscos","Togo","8.73","45.0232078390923"
+"2022","TGO","Porcina","Togo","2.29","11.8102114492006"
+"2022","TGO","Vacuna","Togo","0.92","4.74471376998453"
+"2022","THA","Aviar","Tailandia","11.16","20.4582951420715"
+"2022","THA","Caprina y ovina","Tailandia","0.04","0.073327222731439"
+"2022","THA","Otras carnes","Tailandia","0.08","0.146654445462878"
+"2022","THA","Pescados y mariscos","Tailandia","28.62","52.4656278643446"
+"2022","THA","Porcina","Tailandia","13.03","23.8863428047663"
+"2022","THA","Vacuna","Tailandia","1.62","2.96975252062328"
+"2022","TJK","Aviar","Tayikistán","2.75","7.46673907140918"
+"2022","TJK","Caprina y ovina","Tayikistán","7.7","20.9068693999457"
+"2022","TJK","Otras carnes","Tayikistán","0.18","0.488732011946783"
+"2022","TJK","Pescados y mariscos","Tayikistán","0.94","2.55226717349986"
+"2022","TJK","Porcina","Tayikistán","0.35","0.950312245452077"
+"2022","TJK","Vacuna","Tayikistán","24.91","67.6350800977464"
+"2022","TKM","Aviar","Turkmenistán","11.19","18.1420233463035"
+"2022","TKM","Caprina y ovina","Turkmenistán","20.34","32.9766536964981"
+"2022","TKM","Otras carnes","Turkmenistán","2.23","3.61543450064851"
+"2022","TKM","Pescados y mariscos","Turkmenistán","2.7","4.37743190661479"
+"2022","TKM","Porcina","Turkmenistán","0.07","0.11348897535668"
+"2022","TKM","Vacuna","Turkmenistán","25.15","40.7749675745785"
+"2022","TLS","Aviar","Timor-Leste","5.43","14.6875845279957"
+"2022","TLS","Caprina y ovina","Timor-Leste","0.5","1.35244793075467"
+"2022","TLS","Otras carnes","Timor-Leste","11.99","32.4317013794969"
+"2022","TLS","Pescados y mariscos","Timor-Leste","7.19","19.4482012442521"
+"2022","TLS","Porcina","Timor-Leste","10.29","27.833378414931"
+"2022","TLS","Vacuna","Timor-Leste","1.57","4.24668650256965"
+"2022","TON","Aviar","Tonga","90.61","51.579666419992"
+"2022","TON","Caprina y ovina","Tonga","18.04","10.2692548528491"
+"2022","TON","Otras carnes","Tonga","0.19","0.108157340467923"
+"2022","TON","Pescados y mariscos","Tonga","27.97","15.921899015199"
+"2022","TON","Porcina","Tonga","24.76","14.0946092104514"
+"2022","TON","Vacuna","Tonga","14.1","8.02641316104059"
+"2022","TTO","Aviar","Trinidad y Tobago","47.12","58.1800222249661"
+"2022","TTO","Caprina y ovina","Trinidad y Tobago","1.6","1.97555253735029"
+"2022","TTO","Otras carnes","Trinidad y Tobago","0.22","0.271638473885665"
+"2022","TTO","Pescados y mariscos","Trinidad y Tobago","18.34","22.6447709593777"
+"2022","TTO","Porcina","Trinidad y Tobago","6.97","8.6060007408322"
+"2022","TTO","Vacuna","Trinidad y Tobago","6.74","8.3220150635881"
+"2022","TUN","Aviar","Túnez","19.43","42.3311546840959"
+"2022","TUN","Caprina y ovina","Túnez","5.73","12.483660130719"
+"2022","TUN","Otras carnes","Túnez","0.77","1.67755991285403"
+"2022","TUN","Pescados y mariscos","Túnez","15.67","34.1394335511983"
+"2022","TUN","Porcina","Túnez","0.01","0.0217864923747277"
+"2022","TUN","Vacuna","Túnez","4.29","9.34640522875817"
+"2022","TUR","Aviar","Turquía","21.16","40.5286343612335"
+"2022","TUR","Caprina y ovina","Turquía","7.04","13.4840068952308"
+"2022","TUR","Otras carnes","Turquía","0.02","0.038306837770542"
+"2022","TUR","Pescados y mariscos","Turquía","5.43","10.4003064547022"
+"2022","TUR","Porcina","Turquía","0","0"
+"2022","TUR","Vacuna","Turquía","18.56","35.548745451063"
+"2022","TUV","Aviar","Tuvalu","42.35","36.2709832134293"
+"2022","TUV","Caprina y ovina","Tuvalu","4.39","3.75984926344639"
+"2022","TUV","Otras carnes","Tuvalu","0.7","0.599520383693045"
+"2022","TUV","Pescados y mariscos","Tuvalu","48.53","41.5638917437479"
+"2022","TUV","Porcina","Tuvalu","16.18","13.8574854402193"
+"2022","TUV","Vacuna","Tuvalu","4.61","3.9482699554642"
+"2022","TWN","Aviar","Taiwán","40.9","34.5935887676563"
+"2022","TWN","Caprina y ovina","Taiwán","0.8","0.676647213059291"
+"2022","TWN","Otras carnes","Taiwán","0.08","0.0676647213059291"
+"2022","TWN","Pescados y mariscos","Taiwán","29.68","25.1036116044997"
+"2022","TWN","Porcina","Taiwán","38.18","32.2929882432547"
+"2022","TWN","Vacuna","Taiwán","8.59","7.26549945022414"
+"2022","TZA","Aviar","Tanzanía","1.56","8.52459016393443"
+"2022","TZA","Caprina y ovina","Tanzanía","1.47","8.0327868852459"
+"2022","TZA","Otras carnes","Tanzanía","0.41","2.24043715846995"
+"2022","TZA","Pescados y mariscos","Tanzanía","6.51","35.5737704918033"
+"2022","TZA","Porcina","Tanzanía","0.69","3.77049180327869"
+"2022","TZA","Vacuna","Tanzanía","7.66","41.8579234972678"
+"2022","UGA","Aviar","Uganda","1.46","5.72998430141287"
+"2022","UGA","Caprina y ovina","Uganda","0.79","3.10047095761381"
+"2022","UGA","Otras carnes","Uganda","0.65","2.55102040816327"
+"2022","UGA","Pescados y mariscos","Uganda","15.87","62.2841444270016"
+"2022","UGA","Porcina","Uganda","2.74","10.7535321821036"
+"2022","UGA","Vacuna","Uganda","3.97","15.5808477237049"
+"2022","UKR","Aviar","Ucrania","22.87","35.7399593686513"
+"2022","UKR","Caprina y ovina","Ucrania","0.27","0.421940928270042"
+"2022","UKR","Otras carnes","Ucrania","0.37","0.578215346147836"
+"2022","UKR","Pescados y mariscos","Ucrania","16.03","25.0507891858103"
+"2022","UKR","Porcina","Ucrania","18.25","28.5200812626973"
+"2022","UKR","Vacuna","Ucrania","6.2","9.68901390842319"
+"2022","URY","Aviar","Uruguay","23.66","31.2756113681428"
+"2022","URY","Caprina y ovina","Uruguay","1.92","2.5380039656312"
+"2022","URY","Otras carnes","Uruguay","1.51","1.9960343688037"
+"2022","URY","Pescados y mariscos","Uruguay","11.81","15.6113681427627"
+"2022","URY","Porcina","Uruguay","21.31","28.1692002643754"
+"2022","URY","Vacuna","Uruguay","15.44","20.4097818902842"
+"2022","USA","Aviar","Estados Unidos","53.54","36.8783579005373"
+"2022","USA","Caprina y ovina","Estados Unidos","0.69","0.475272076043532"
+"2022","USA","Otras carnes","Estados Unidos","0.79","0.544152087064334"
+"2022","USA","Pescados y mariscos","Estados Unidos","22.29","15.3533544565367"
+"2022","USA","Porcina","Estados Unidos","29.86","20.5675712908114"
+"2022","USA","Vacuna","Estados Unidos","38.01","26.1812921890068"
+"2022","UZB","Aviar","Uzbekistán","6.38","13.7826744437243"
+"2022","UZB","Caprina y ovina","Uzbekistán","4.8","10.3694102397926"
+"2022","UZB","Otras carnes","Uzbekistán","0.29","0.62648520198747"
+"2022","UZB","Pescados y mariscos","Uzbekistán","3.89","8.40354288183193"
+"2022","UZB","Porcina","Uzbekistán","0.18","0.388852883992223"
+"2022","UZB","Vacuna","Uzbekistán","30.75","66.4290343486714"
+"2022","VCT","Aviar","San Vicente y las Granadinas","94.06","65.346672224538"
+"2022","VCT","Caprina y ovina","San Vicente y las Granadinas","0.89","0.618313186049743"
+"2022","VCT","Otras carnes","San Vicente y las Granadinas","0","0"
+"2022","VCT","Pescados y mariscos","San Vicente y las Granadinas","19.6","13.6167847714325"
+"2022","VCT","Porcina","San Vicente y las Granadinas","17.87","12.4148950951785"
+"2022","VCT","Vacuna","San Vicente y las Granadinas","11.52","8.00333472280117"
+"2022","VEN","Aviar","Venezuela","15.88","33.6440677966102"
+"2022","VEN","Caprina y ovina","Venezuela","0.34","0.720338983050847"
+"2022","VEN","Otras carnes","Venezuela","0.01","0.0211864406779661"
+"2022","VEN","Pescados y mariscos","Venezuela","10.25","21.7161016949153"
+"2022","VEN","Porcina","Venezuela","6.76","14.3220338983051"
+"2022","VEN","Vacuna","Venezuela","13.96","29.5762711864407"
+"2022","VNM","Aviar","Vietnam","14.95","15.8234546994073"
+"2022","VNM","Caprina y ovina","Vietnam","0.2","0.211685012701101"
+"2022","VNM","Otras carnes","Vietnam","0.3","0.317527519051651"
+"2022","VNM","Pescados y mariscos","Vietnam","40.93","43.3213378492803"
+"2022","VNM","Porcina","Vietnam","32.79","34.7057578323455"
+"2022","VNM","Vacuna","Vietnam","5.31","5.62023708721422"
+"2022","VUT","Aviar","Vanuatu","16.16","24.9344237000463"
+"2022","VUT","Caprina y ovina","Vanuatu","0.12","0.185156611634007"
+"2022","VUT","Otras carnes","Vanuatu","0.03","0.0462891529085018"
+"2022","VUT","Pescados y mariscos","Vanuatu","29.46","45.4559481561487"
+"2022","VUT","Porcina","Vanuatu","11.3","17.435580928869"
+"2022","VUT","Vacuna","Vanuatu","7.74","11.9426014503935"
+"2022","WSM","Aviar","Samoa","73.98","49.8483929654336"
+"2022","WSM","Caprina y ovina","Samoa","5.88","3.96199717000202"
+"2022","WSM","Otras carnes","Samoa","0","0"
+"2022","WSM","Pescados y mariscos","Samoa","43.47","29.2904790782292"
+"2022","WSM","Porcina","Samoa","13.92","9.37942187184152"
+"2022","WSM","Vacuna","Samoa","11.16","7.51970891449363"
+"2022","YEM","Aviar","Yemen","9.06","48.8673139158576"
+"2022","YEM","Caprina y ovina","Yemen","4.59","24.7572815533981"
+"2022","YEM","Otras carnes","Yemen","0.09","0.485436893203884"
+"2022","YEM","Pescados y mariscos","Yemen","2.5","13.4843581445523"
+"2022","YEM","Porcina","Yemen","0.01","0.0539374325782093"
+"2022","YEM","Vacuna","Yemen","2.29","12.3516720604099"
+"2022","ZAF","Aviar","Sudáfrica","39.57","55.2962548910006"
+"2022","ZAF","Caprina y ovina","Sudáfrica","2.78","3.8848518725545"
+"2022","ZAF","Otras carnes","Sudáfrica","0.86","1.20178870877585"
+"2022","ZAF","Pescados y mariscos","Sudáfrica","6.38","8.91559530463946"
+"2022","ZAF","Porcina","Sudáfrica","5.84","8.16098378982672"
+"2022","ZAF","Vacuna","Sudáfrica","16.13","22.5405254332029"
+"2022","ZMB","Aviar","Zambia","4.94","15.717467387846"
+"2022","ZMB","Caprina y ovina","Zambia","0.82","2.60897231944003"
+"2022","ZMB","Otras carnes","Zambia","2.06","6.55424753420299"
+"2022","ZMB","Pescados y mariscos","Zambia","13.34","42.4435252943048"
+"2022","ZMB","Porcina","Zambia","1.22","3.88164174355711"
+"2022","ZMB","Vacuna","Zambia","9.05","28.7941457206491"
+"2022","ZWE","Aviar","Zimbabwe","7.18","12.1222353537059"
+"2022","ZWE","Caprina y ovina","Zimbabwe","1.96","3.30913388485565"
+"2022","ZWE","Otras carnes","Zimbabwe","2.35","3.96758399459733"
+"2022","ZWE","Pescados y mariscos","Zimbabwe","2.63","4.44031740671957"
+"2022","ZWE","Porcina","Zimbabwe","0.69","1.16495019415837"
+"2022","ZWE","Vacuna","Zimbabwe","44.42","74.9957791659632"
+"2022","WLD","Aviar","Mundo","24.2331382978723","33.222732606091"
+"2022","WLD","Caprina y ovina","Mundo","3.18021276595745","4.35995359144869"
+"2022","WLD","Otras carnes","Mundo","1.54909574468085","2.12375273372182"
+"2022","WLD","Pescados y mariscos","Mundo","19.0216489361702","26.0779742419414"
+"2022","WLD","Porcina","Mundo","13.993829787234","19.1850209181222"
+"2022","WLD","Vacuna","Mundo","10.9635106382979","15.0305659086749"

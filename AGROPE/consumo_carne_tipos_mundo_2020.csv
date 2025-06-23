@@ -1,1111 +1,1111 @@
-iso3,iso3_desc_fundar,tipo_carne,valor,geocodigoFundar,geonombreFundar
-AFG,Afganistán,pescado_mariscos,0.35959464,AFG,Afganistán
-AFG,Afganistán,otras_carnes,0.2996622,AFG,Afganistán
-AFG,Afganistán,aviar,1.7080745,AFG,Afganistán
-AFG,Afganistán,caprina_ovina,4.035451,AFG,Afganistán
-AFG,Afganistán,porcina,0.0,AFG,Afganistán
-AFG,Afganistán,vacuna,3.226363,AFG,Afganistán
-AGO,Angola,pescado_mariscos,13.902185,AGO,Angola
-AGO,Angola,caprina_ovina,0.73738605,AGO,Angola
-AGO,Angola,otras_carnes,0.29495442,AGO,Angola
-AGO,Angola,aviar,8.268556,AGO,Angola
-AGO,Angola,porcina,6.921597,AGO,Angola
-AGO,Angola,vacuna,3.3723123,AGO,Angola
-ALB,Albania,porcina,5.2700524,ALB,Albania
-ALB,Albania,vacuna,11.694497,ALB,Albania
-ALB,Albania,otras_carnes,0.0,ALB,Albania
-ALB,Albania,pescado_mariscos,8.683039,ALB,Albania
-ALB,Albania,caprina_ovina,8.29155,ALB,Albania
-ALB,Albania,aviar,13.993244,ALB,Albania
-ARE,Emiratos Árabes Unidos,caprina_ovina,7.944451,ARE,Emiratos Árabes Unidos
-ARE,Emiratos Árabes Unidos,porcina,,ARE,Emiratos Árabes Unidos
-ARE,Emiratos Árabes Unidos,vacuna,7.145746,ARE,Emiratos Árabes Unidos
-ARE,Emiratos Árabes Unidos,pescado_mariscos,27.017523,ARE,Emiratos Árabes Unidos
-ARE,Emiratos Árabes Unidos,otras_carnes,3.0883255,ARE,Emiratos Árabes Unidos
-ARE,Emiratos Árabes Unidos,aviar,33.162224,ARE,Emiratos Árabes Unidos
-ARG,Argentina,pescado_mariscos,6.804048,ARG,Argentina
-ARG,Argentina,caprina_ovina,1.4250365,ARG,Argentina
-ARG,Argentina,porcina,14.471147,ARG,Argentina
-ARG,Argentina,aviar,46.39397,ARG,Argentina
-ARG,Argentina,vacuna,47.096455,ARG,Argentina
-ARG,Argentina,otras_carnes,1.1540788,ARG,Argentina
-ARM,Armenia,aviar,16.149052,ARM,Armenia
-ARM,Armenia,caprina_ovina,3.7917,ARM,Armenia
-ARM,Armenia,otras_carnes,0.021123677,ARM,Armenia
-ARM,Armenia,pescado_mariscos,5.7878876,ARM,Armenia
-ARM,Armenia,porcina,8.586775,ARM,Armenia
-ARM,Armenia,vacuna,25.242794,ARM,Armenia
-ATG,Antigua y Barbuda,aviar,65.26412,ATG,Antigua y Barbuda
-ATG,Antigua y Barbuda,vacuna,5.3259583,ATG,Antigua y Barbuda
-ATG,Antigua y Barbuda,otras_carnes,0.052836888,ATG,Antigua y Barbuda
-ATG,Antigua y Barbuda,caprina_ovina,1.035603,ATG,Antigua y Barbuda
-ATG,Antigua y Barbuda,porcina,15.121918,ATG,Antigua y Barbuda
-ATG,Antigua y Barbuda,pescado_mariscos,57.116673,ATG,Antigua y Barbuda
-AUS,Australia,pescado_mariscos,23.940237,AUS,Australia
-AUS,Australia,caprina_ovina,10.549598,AUS,Australia
-AUS,Australia,porcina,24.07931,AUS,Australia
-AUS,Australia,vacuna,36.77459,AUS,Australia
-AUS,Australia,aviar,48.40696,AUS,Australia
-AUS,Australia,otras_carnes,0.9139012,AUS,Australia
-AUT,Austria,caprina_ovina,1.051514,AUT,Austria
-AUT,Austria,porcina,45.528538,AUT,Austria
-AUT,Austria,vacuna,15.024519,AUT,Austria
-AUT,Austria,pescado_mariscos,14.448209,AUT,Austria
-AUT,Austria,otras_carnes,0.33365354,AUT,Austria
-AUT,Austria,aviar,15.833376,AUT,Austria
-AZE,Azerbaiyán,aviar,14.21562,AZE,Azerbaiyán
-AZE,Azerbaiyán,caprina_ovina,8.290802,AZE,Azerbaiyán
-AZE,Azerbaiyán,vacuna,13.279085,AZE,Azerbaiyán
-AZE,Azerbaiyán,otras_carnes,0.0,AZE,Azerbaiyán
-AZE,Azerbaiyán,pescado_mariscos,2.0110862,AZE,Azerbaiyán
-AZE,Azerbaiyán,porcina,0.57177943,AZE,Azerbaiyán
-BDI,Burundi,caprina_ovina,0.70058936,BDI,Burundi
-BDI,Burundi,porcina,0.8270846,BDI,Burundi
-BDI,Burundi,vacuna,0.89519745,BDI,Burundi
-BDI,Burundi,aviar,0.5449028,BDI,Burundi
-BDI,Burundi,pescado_mariscos,2.5299058,BDI,Burundi
-BDI,Burundi,otras_carnes,0.06811285,BDI,Burundi
-BEL,Bélgica,aviar,12.470023,BEL,Bélgica
-BEL,Bélgica,caprina_ovina,1.2830893,BEL,Bélgica
-BEL,Bélgica,otras_carnes,1.3532583,BEL,Bélgica
-BEL,Bélgica,pescado_mariscos,22.754787,BEL,Bélgica
-BEL,Bélgica,porcina,32.87916,BEL,Bélgica
-BEL,Bélgica,vacuna,14.013741,BEL,Bélgica
-BEN,Benin,caprina_ovina,0.76710176,BEN,Benin
-BEN,Benin,porcina,0.7095691,BEN,Benin
-BEN,Benin,aviar,8.332643,BEN,Benin
-BEN,Benin,pescado_mariscos,15.552987,BEN,Benin
-BEN,Benin,vacuna,3.490313,BEN,Benin
-BEN,Benin,otras_carnes,0.6520365,BEN,Benin
-BFA,Burkina Faso,aviar,9.207191,BFA,Burkina Faso
-BFA,Burkina Faso,caprina_ovina,3.7392075,BFA,Burkina Faso
-BFA,Burkina Faso,otras_carnes,0.3884891,BFA,Burkina Faso
-BFA,Burkina Faso,pescado_mariscos,8.663307,BFA,Burkina Faso
-BFA,Burkina Faso,porcina,14.772298,BFA,Burkina Faso
-BFA,Burkina Faso,vacuna,5.1571927,BFA,Burkina Faso
-BGD,Bangladesh,pescado_mariscos,26.27421,BGD,Bangladesh
-BGD,Bangladesh,vacuna,1.2296056,BGD,Bangladesh
-BGD,Bangladesh,otras_carnes,0.0,BGD,Bangladesh
-BGD,Bangladesh,aviar,1.6132424,BGD,Bangladesh
-BGD,Bangladesh,caprina_ovina,1.4165056,BGD,Bangladesh
-BGD,Bangladesh,porcina,0.0,BGD,Bangladesh
-BGR,Bulgaria,pescado_mariscos,7.327582,BGR,Bulgaria
-BGR,Bulgaria,caprina_ovina,1.284318,BGR,Bulgaria
-BGR,Bulgaria,porcina,29.907684,BGR,Bulgaria
-BGR,Bulgaria,aviar,21.385387,BGR,Bulgaria
-BGR,Bulgaria,vacuna,3.434804,BGR,Bulgaria
-BGR,Bulgaria,otras_carnes,0.6770048,BGR,Bulgaria
-BHR,Bahrein,caprina_ovina,24.680475,BHR,Bahrein
-BHR,Bahrein,porcina,0.86375904,BHR,Bahrein
-BHR,Bahrein,aviar,50.61628,BHR,Bahrein
-BHR,Bahrein,otras_carnes,0.9328598,BHR,Bahrein
-BHR,Bahrein,pescado_mariscos,18.74933,BHR,Bahrein
-BHR,Bahrein,vacuna,15.766481,BHR,Bahrein
-BHS,Bahamas,porcina,22.995869,BHS,Bahamas
-BHS,Bahamas,vacuna,5.030648,BHS,Bahamas
-BHS,Bahamas,otras_carnes,0.04837162,BHS,Bahamas
-BHS,Bahamas,pescado_mariscos,23.421537,BHS,Bahamas
-BHS,Bahamas,caprina_ovina,1.5962634,BHS,Bahamas
-BHS,Bahamas,aviar,52.628323,BHS,Bahamas
-BIH,Bosnia y Herzegovina,aviar,19.783333,BIH,Bosnia y Herzegovina
-BIH,Bosnia y Herzegovina,caprina_ovina,0.2966017,BIH,Bosnia y Herzegovina
-BIH,Bosnia y Herzegovina,pescado_mariscos,7.187648,BIH,Bosnia y Herzegovina
-BIH,Bosnia y Herzegovina,porcina,9.184766,BIH,Bosnia y Herzegovina
-BIH,Bosnia y Herzegovina,vacuna,12.694552,BIH,Bosnia y Herzegovina
-BIH,Bosnia y Herzegovina,otras_carnes,0.3361486,BIH,Bosnia y Herzegovina
-BLR,Belarús,aviar,31.603193,BLR,Belarús
-BLR,Belarús,caprina_ovina,0.11770277,BLR,Belarús
-BLR,Belarús,otras_carnes,0.24521409,BLR,Belarús
-BLR,Belarús,pescado_mariscos,11.623149,BLR,Belarús
-BLR,Belarús,porcina,38.429955,BLR,Belarús
-BLR,Belarús,vacuna,18.263546,BLR,Belarús
-BLZ,Belice,caprina_ovina,0.060410045,BLZ,Belice
-BLZ,Belice,porcina,20.952217,BLZ,Belice
-BLZ,Belice,vacuna,3.6246028,BLZ,Belice
-BLZ,Belice,aviar,23.97272,BLZ,Belice
-BLZ,Belice,pescado_mariscos,13.35062,BLZ,Belice
-BLZ,Belice,otras_carnes,0.22150351,BLZ,Belice
-BOL,Bolivia,caprina_ovina,3.0707743,BOL,Bolivia
-BOL,Bolivia,porcina,9.515489,BOL,Bolivia
-BOL,Bolivia,vacuna,21.123798,BOL,Bolivia
-BOL,Bolivia,pescado_mariscos,2.73827,BOL,Bolivia
-BOL,Bolivia,otras_carnes,1.7603165,BOL,Bolivia
-BOL,Bolivia,aviar,39.959187,BOL,Bolivia
-BRA,Brasil,aviar,48.245445,BRA,Brasil
-BRA,Brasil,vacuna,35.30422,BRA,Brasil
-BRA,Brasil,otras_carnes,0.50847644,BRA,Brasil
-BRA,Brasil,caprina_ovina,0.64805824,BRA,Brasil
-BRA,Brasil,porcina,14.14761,BRA,Brasil
-BRA,Brasil,pescado_mariscos,8.055862,BRA,Brasil
-BRB,Barbados,porcina,12.613008,BRB,Barbados
-BRB,Barbados,vacuna,8.200502,BRB,Barbados
-BRB,Barbados,aviar,50.45203,BRB,Barbados
-BRB,Barbados,caprina_ovina,3.388722,BRB,Barbados
-BRB,Barbados,otras_carnes,0.061426982,BRB,Barbados
-BRB,Barbados,pescado_mariscos,43.879345,BRB,Barbados
-BTN,Bhután,aviar,4.5846405,BTN,Bhután
-BTN,Bhután,porcina,1.8877932,BTN,Bhután
-BTN,Bhután,vacuna,9.279153,BTN,Bhután
-BTN,Bhután,otras_carnes,,BTN,Bhután
-BTN,Bhután,caprina_ovina,0.28966138,BTN,Bhután
-BTN,Bhután,pescado_mariscos,7.311453,BTN,Bhután
-BWA,Botswana,porcina,0.44328484,BWA,Botswana
-BWA,Botswana,vacuna,9.429038,BWA,Botswana
-BWA,Botswana,otras_carnes,10.943595,BWA,Botswana
-BWA,Botswana,pescado_mariscos,2.3918912,BWA,Botswana
-BWA,Botswana,aviar,3.2599907,BWA,Botswana
-BWA,Botswana,caprina_ovina,2.2903051,BWA,Botswana
-CAF,República Centroafricana,pescado_mariscos,6.6620336,CAF,Rep. Centroafricana
-CAF,República Centroafricana,vacuna,18.756742,CAF,Rep. Centroafricana
-CAF,República Centroafricana,otras_carnes,4.2033186,CAF,Rep. Centroafricana
-CAF,República Centroafricana,aviar,2.3050454,CAF,Rep. Centroafricana
-CAF,República Centroafricana,caprina_ovina,5.1614943,CAF,Rep. Centroafricana
-CAF,República Centroafricana,porcina,3.7242303,CAF,Rep. Centroafricana
-CAN,Canadá,porcina,21.307262,CAN,Canadá
-CAN,Canadá,vacuna,27.39363,CAN,Canadá
-CAN,Canadá,otras_carnes,0.49806598,CAN,Canadá
-CAN,Canadá,caprina_ovina,1.0558999,CAN,Canadá
-CAN,Canadá,aviar,39.94489,CAN,Canadá
-CAN,Canadá,pescado_mariscos,20.649815,CAN,Canadá
-CHE,Suiza,aviar,16.921305,CHE,Suiza
-CHE,Suiza,vacuna,19.15544,CHE,Suiza
-CHE,Suiza,otras_carnes,1.0719832,CHE,Suiza
-CHE,Suiza,caprina_ovina,1.3725392,CHE,Suiza
-CHE,Suiza,porcina,27.83149,CHE,Suiza
-CHE,Suiza,pescado_mariscos,16.029655,CHE,Suiza
-CHL,Chile,pescado_mariscos,14.6291,CHL,Chile
-CHL,Chile,caprina_ovina,0.42589796,CHL,Chile
-CHL,Chile,otras_carnes,0.8517959,CHL,Chile
-CHL,Chile,aviar,35.706093,CHL,Chile
-CHL,Chile,porcina,21.83965,CHL,Chile
-CHL,Chile,vacuna,23.424387,CHL,Chile
-CHN,China,aviar,15.13132,CHN,China
-CHN,China,vacuna,6.737377,CHN,China
-CHN,China,otras_carnes,0.52525276,CHN,China
-CHN,China,caprina_ovina,3.7979817,CHN,China
-CHN,China,porcina,35.696987,CHN,China
-CHN,China,pescado_mariscos,40.333355,CHN,China
-CIV,Costa de Marfil,aviar,2.8826246,CIV,Costa de Marfil
-CIV,Costa de Marfil,caprina_ovina,0.6788433,CIV,Costa de Marfil
-CIV,Costa de Marfil,vacuna,1.3872015,CIV,Costa de Marfil
-CIV,Costa de Marfil,otras_carnes,5.706219,CIV,Costa de Marfil
-CIV,Costa de Marfil,pescado_mariscos,22.795362,CIV,Costa de Marfil
-CIV,Costa de Marfil,porcina,0.9936692,CIV,Costa de Marfil
-CMR,Camerún,aviar,3.3068225,CMR,Camerún
-CMR,Camerún,caprina_ovina,1.292667,CMR,Camerún
-CMR,Camerún,porcina,1.2425637,CMR,Camerún
-CMR,Camerún,vacuna,3.0563056,CMR,Camerún
-CMR,Camerún,otras_carnes,2.7556856,CMR,Camerún
-CMR,Camerún,pescado_mariscos,19.179571,CMR,Camerún
-COD,República Democrática del Congo,caprina_ovina,0.2122007,COD,Rep. Dem. Congo
-COD,República Democrática del Congo,porcina,0.49191982,COD,Rep. Dem. Congo
-COD,República Democrática del Congo,vacuna,0.25078264,COD,Rep. Dem. Congo
-COD,República Democrática del Congo,aviar,1.2153313,COD,Rep. Dem. Congo
-COD,República Democrática del Congo,pescado_mariscos,4.022168,COD,Rep. Dem. Congo
-COD,República Democrática del Congo,otras_carnes,0.96454865,COD,Rep. Dem. Congo
-COG,Congo,aviar,22.460672,COG,Congo
-COG,Congo,porcina,6.56111,COG,Congo
-COG,Congo,vacuna,1.8676906,COG,Congo
-COG,Congo,otras_carnes,7.5481796,COG,Congo
-COG,Congo,caprina_ovina,0.28063744,COG,Congo
-COG,Congo,pescado_mariscos,23.670317,COG,Congo
-COL,Colombia,aviar,33.748318,COL,Colombia
-COL,Colombia,caprina_ovina,0.019981243,COL,Colombia
-COL,Colombia,porcina,10.510135,COL,Colombia
-COL,Colombia,pescado_mariscos,8.881663,COL,Colombia
-COL,Colombia,otras_carnes,0.10989684,COL,Colombia
-COL,Colombia,vacuna,13.667171,COL,Colombia
-COM,Comoras,caprina_ovina,0.64721,COM,Comoras
-COM,Comoras,porcina,0.12944199,COM,Comoras
-COM,Comoras,aviar,28.865566,COM,Comoras
-COM,Comoras,pescado_mariscos,15.435959,COM,Comoras
-COM,Comoras,vacuna,3.2684104,COM,Comoras
-COM,Comoras,otras_carnes,0.6903573,COM,Comoras
-CPV,Cabo Verde,caprina_ovina,1.8130751,CPV,Cabo Verde
-CPV,Cabo Verde,porcina,6.966026,CPV,Cabo Verde
-CPV,Cabo Verde,aviar,18.512451,CPV,Cabo Verde
-CPV,Cabo Verde,otras_carnes,0.038170002,CPV,Cabo Verde
-CPV,Cabo Verde,pescado_mariscos,10.305901,CPV,Cabo Verde
-CPV,Cabo Verde,vacuna,1.6413102,CPV,Cabo Verde
-CRI,Costa Rica,caprina_ovina,0.009943419,CRI,Costa Rica
-CRI,Costa Rica,porcina,12.667916,CRI,Costa Rica
-CRI,Costa Rica,vacuna,11.345441,CRI,Costa Rica
-CRI,Costa Rica,pescado_mariscos,17.848438,CRI,Costa Rica
-CRI,Costa Rica,otras_carnes,0.0,CRI,Costa Rica
-CRI,Costa Rica,aviar,34.095985,CRI,Costa Rica
-CUB,Cuba,caprina_ovina,1.0223399,CUB,Cuba
-CUB,Cuba,porcina,21.659576,CUB,Cuba
-CUB,Cuba,aviar,37.786488,CUB,Cuba
-CUB,Cuba,vacuna,7.4169765,CUB,Cuba
-CUB,Cuba,otras_carnes,3.8488092,CUB,Cuba
-CUB,Cuba,pescado_mariscos,6.073902,CUB,Cuba
-CYP,Chipre,vacuna,5.74636,CYP,Chipre
-CYP,Chipre,aviar,27.658627,CYP,Chipre
-CYP,Chipre,otras_carnes,0.41951355,CYP,Chipre
-CYP,Chipre,pescado_mariscos,24.858616,CYP,Chipre
-CYP,Chipre,caprina_ovina,4.019525,CYP,Chipre
-CYP,Chipre,porcina,35.88304,CYP,Chipre
-CZE,Chequia,aviar,23.927784,CZE,Chequia
-CZE,Chequia,caprina_ovina,0.30507162,CZE,Chequia
-CZE,Chequia,otras_carnes,0.6304813,CZE,Chequia
-CZE,Chequia,pescado_mariscos,10.63683,CZE,Chequia
-CZE,Chequia,porcina,45.292965,CZE,Chequia
-CZE,Chequia,vacuna,10.362266,CZE,Chequia
-DEU,Alemania,caprina_ovina,0.96524125,DEU,Alemania
-DEU,Alemania,porcina,44.25028,DEU,Alemania
-DEU,Alemania,vacuna,14.69982,DEU,Alemania
-DEU,Alemania,pescado_mariscos,12.658737,DEU,Alemania
-DEU,Alemania,otras_carnes,0.8345315,DEU,Alemania
-DEU,Alemania,aviar,18.44013,DEU,Alemania
-DJI,Djibouti,aviar,3.289823,DJI,Djibouti
-DJI,Djibouti,porcina,0.11781735,DJI,Djibouti
-DJI,Djibouti,vacuna,5.655233,DJI,Djibouti
-DJI,Djibouti,otras_carnes,0.68877834,DJI,Djibouti
-DJI,Djibouti,caprina_ovina,4.159859,DJI,Djibouti
-DJI,Djibouti,pescado_mariscos,3.1901314,DJI,Djibouti
-DMA,Dominica,caprina_ovina,1.0796851,DMA,Dominica
-DMA,Dominica,porcina,11.436663,DMA,Dominica
-DMA,Dominica,vacuna,8.137627,DMA,Dominica
-DMA,Dominica,pescado_mariscos,27.851875,DMA,Dominica
-DMA,Dominica,otras_carnes,0.03998833,DMA,Dominica
-DMA,Dominica,aviar,39.348522,DMA,Dominica
-DNK,Dinamarca,caprina_ovina,0.6661544,DNK,Dinamarca
-DNK,Dinamarca,porcina,13.392686,DNK,Dinamarca
-DNK,Dinamarca,aviar,24.419031,DNK,Dinamarca
-DNK,Dinamarca,pescado_mariscos,26.298183,DNK,Dinamarca
-DNK,Dinamarca,vacuna,24.190351,DNK,Dinamarca
-DNK,Dinamarca,otras_carnes,0.63632655,DNK,Dinamarca
-DOM,República Dominicana,aviar,31.75575,DOM,Rep. Dominicana
-DOM,República Dominicana,caprina_ovina,0.17751662,DOM,Rep. Dominicana
-DOM,República Dominicana,porcina,9.714104,DOM,Rep. Dominicana
-DOM,República Dominicana,vacuna,6.2032194,DOM,Rep. Dominicana
-DOM,República Dominicana,otras_carnes,0.039448135,DOM,Rep. Dominicana
-DOM,República Dominicana,pescado_mariscos,8.372867,DOM,Rep. Dominicana
-DZA,Argelia,porcina,0.020183822,DZA,Argelia
-DZA,Argelia,vacuna,3.865202,DZA,Argelia
-DZA,Argelia,aviar,6.4386396,DZA,Argelia
-DZA,Argelia,caprina_ovina,8.134081,DZA,Argelia
-DZA,Argelia,pescado_mariscos,3.8147426,DZA,Argelia
-DZA,Argelia,otras_carnes,0.32294115,DZA,Argelia
-ECU,Ecuador,porcina,12.929908,ECU,Ecuador
-ECU,Ecuador,vacuna,13.301054,ECU,Ecuador
-ECU,Ecuador,aviar,18.938452,ECU,Ecuador
-ECU,Ecuador,caprina_ovina,0.31095976,ECU,Ecuador
-ECU,Ecuador,pescado_mariscos,8.24545,ECU,Ecuador
-ECU,Ecuador,otras_carnes,0.06018576,ECU,Ecuador
-EGY,Egipto,pescado_mariscos,25.796637,EGY,Egipto
-EGY,Egipto,caprina_ovina,0.5713541,EGY,Egipto
-EGY,Egipto,otras_carnes,0.88559884,EGY,Egipto
-EGY,Egipto,aviar,13.64584,EGY,Egipto
-EGY,Egipto,porcina,0.0095225675,EGY,Egipto
-EGY,Egipto,vacuna,7.0467005,EGY,Egipto
-ESP,España,porcina,51.88416,ESP,España
-ESP,España,vacuna,12.131969,ESP,España
-ESP,España,otras_carnes,1.5004551,ESP,España
-ESP,España,caprina_ovina,1.8755689,ESP,España
-ESP,España,aviar,33.167953,ESP,España
-ESP,España,pescado_mariscos,40.295116,ESP,España
-EST,Estonia,pescado_mariscos,14.617944,EST,Estonia
-EST,Estonia,caprina_ovina,0.4091029,EST,Estonia
-EST,Estonia,porcina,37.64744,EST,Estonia
-EST,Estonia,aviar,21.00394,EST,Estonia
-EST,Estonia,vacuna,8.471423,EST,Estonia
-EST,Estonia,otras_carnes,0.10975931,EST,Estonia
-ETH,Etiopía,pescado_mariscos,0.5297368,ETH,Etiopía
-ETH,Etiopía,caprina_ovina,2.344576,ETH,Etiopía
-ETH,Etiopía,porcina,0.01961988,ETH,Etiopía
-ETH,Etiopía,vacuna,3.6885376,ETH,Etiopía
-ETH,Etiopía,aviar,0.57878643,ETH,Etiopía
-ETH,Etiopía,otras_carnes,1.1085232,ETH,Etiopía
-FIN,Finlandia,aviar,21.122896,FIN,Finlandia
-FIN,Finlandia,caprina_ovina,0.4609361,FIN,Finlandia
-FIN,Finlandia,vacuna,18.417402,FIN,Finlandia
-FIN,Finlandia,otras_carnes,0.6613431,FIN,Finlandia
-FIN,Finlandia,pescado_mariscos,33.51807,FIN,Finlandia
-FIN,Finlandia,porcina,30.862677,FIN,Finlandia
-FJI,Fiji,caprina_ovina,5.064524,FJI,Fiji
-FJI,Fiji,porcina,3.5938644,FJI,Fiji
-FJI,Fiji,vacuna,3.028975,FJI,Fiji
-FJI,Fiji,pescado_mariscos,28.887266,FJI,Fiji
-FJI,Fiji,otras_carnes,0.1266131,FJI,Fiji
-FJI,Fiji,aviar,28.010715,FJI,Fiji
-FRA,Francia,porcina,31.3511,FRA,Francia
-FRA,Francia,vacuna,21.015463,FRA,Francia
-FRA,Francia,otras_carnes,1.1439052,FRA,Francia
-FRA,Francia,pescado_mariscos,33.638912,FRA,Francia
-FRA,Francia,caprina_ovina,2.4396563,FRA,Francia
-FRA,Francia,aviar,23.252657,FRA,Francia
-FSM,Micronesia,pescado_mariscos,48.605923,FSM,Micronesia
-FSM,Micronesia,caprina_ovina,0.19491611,FSM,Micronesia
-FSM,Micronesia,porcina,16.56787,FSM,Micronesia
-FSM,Micronesia,vacuna,4.97549,FSM,Micronesia
-FSM,Micronesia,aviar,39.137104,FSM,Micronesia
-FSM,Micronesia,otras_carnes,0.010258743,FSM,Micronesia
-GAB,Gabón,pescado_mariscos,27.863092,GAB,Gabón
-GAB,Gabón,vacuna,4.553237,GAB,Gabón
-GAB,Gabón,otras_carnes,13.3005,GAB,Gabón
-GAB,Gabón,aviar,38.57145,GAB,Gabón
-GAB,Gabón,caprina_ovina,0.5727952,GAB,Gabón
-GAB,Gabón,porcina,8.048259,GAB,Gabón
-GBR,Reino Unido,aviar,33.13341,GBR,Reino Unido
-GBR,Reino Unido,caprina_ovina,3.988562,GBR,Reino Unido
-GBR,Reino Unido,porcina,24.336304,GBR,Reino Unido
-GBR,Reino Unido,vacuna,17.563847,GBR,Reino Unido
-GBR,Reino Unido,otras_carnes,1.0528184,GBR,Reino Unido
-GBR,Reino Unido,pescado_mariscos,18.130749,GBR,Reino Unido
-GEO,Georgia,otras_carnes,0.59319896,GEO,Georgia
-GEO,Georgia,pescado_mariscos,10.614025,GEO,Georgia
-GEO,Georgia,aviar,19.310745,GEO,Georgia
-GEO,Georgia,caprina_ovina,1.3029191,GEO,Georgia
-GEO,Georgia,vacuna,6.1332536,GEO,Georgia
-GEO,Georgia,porcina,9.830154,GEO,Georgia
-GHA,Ghana,aviar,11.171827,GHA,Ghana
-GHA,Ghana,caprina_ovina,1.7380544,GHA,Ghana
-GHA,Ghana,vacuna,1.496658,GHA,Ghana
-GHA,Ghana,otras_carnes,2.3560295,GHA,Ghana
-GHA,Ghana,pescado_mariscos,24.08171,GHA,Ghana
-GHA,Ghana,porcina,1.1297354,GHA,Ghana
-GIN,Guinea,porcina,0.21879451,GIN,Guinea
-GIN,Guinea,vacuna,8.174959,GIN,Guinea
-GIN,Guinea,aviar,2.65537,GIN,Guinea
-GIN,Guinea,caprina_ovina,2.2973423,GIN,Guinea
-GIN,Guinea,otras_carnes,0.47736984,GIN,Guinea
-GIN,Guinea,pescado_mariscos,9.646849,GIN,Guinea
-GMB,Gambia,porcina,0.2628851,GMB,Gambia
-GMB,Gambia,vacuna,3.210954,GMB,Gambia
-GMB,Gambia,aviar,9.961468,GMB,Gambia
-GMB,Gambia,caprina_ovina,0.5257702,GMB,Gambia
-GMB,Gambia,otras_carnes,0.5445477,GMB,Gambia
-GMB,Gambia,pescado_mariscos,23.640882,GMB,Gambia
-GNB,Guinea-Bissau,aviar,3.026432,GNB,Guinea-Bissau
-GNB,Guinea-Bissau,caprina_ovina,1.2593863,GNB,Guinea-Bissau
-GNB,Guinea-Bissau,otras_carnes,0.0,GNB,Guinea-Bissau
-GNB,Guinea-Bissau,pescado_mariscos,1.1422341,GNB,Guinea-Bissau
-GNB,Guinea-Bissau,porcina,7.0584207,GNB,Guinea-Bissau
-GNB,Guinea-Bissau,vacuna,3.6219559,GNB,Guinea-Bissau
-GRC,Grecia,porcina,24.817656,GRC,Grecia
-GRC,Grecia,vacuna,14.386902,GRC,Grecia
-GRC,Grecia,otras_carnes,1.7946445,GRC,Grecia
-GRC,Grecia,pescado_mariscos,21.535734,GRC,Grecia
-GRC,Grecia,caprina_ovina,7.4958634,GRC,Grecia
-GRC,Grecia,aviar,25.372904,GRC,Grecia
-GRD,Granada,caprina_ovina,1.2737564,GRD,Granada
-GRD,Granada,porcina,13.292557,GRD,Granada
-GRD,Granada,aviar,34.045685,GRD,Granada
-GRD,Granada,otras_carnes,0.0,GRD,Granada
-GRD,Granada,pescado_mariscos,30.779413,GRD,Granada
-GRD,Granada,vacuna,3.7211883,GRD,Granada
-GTM,Guatemala,pescado_mariscos,3.0748875,GTM,Guatemala
-GTM,Guatemala,vacuna,12.020952,GTM,Guatemala
-GTM,Guatemala,otras_carnes,0.1444578,GTM,Guatemala
-GTM,Guatemala,aviar,29.593214,GTM,Guatemala
-GTM,Guatemala,caprina_ovina,0.13413939,GTM,Guatemala
-GTM,Guatemala,porcina,3.755903,GTM,Guatemala
-GUY,Guyana,aviar,40.8367,GUY,Guyana
-GUY,Guyana,caprina_ovina,1.0655627,GUY,Guyana
-GUY,Guyana,otras_carnes,0.12826216,GUY,Guyana
-GUY,Guyana,pescado_mariscos,24.636202,GUY,Guyana
-GUY,Guyana,porcina,4.952893,GUY,Guyana
-GUY,Guyana,vacuna,4.1241217,GUY,Guyana
-HKG,Hong Kong,aviar,55.490578,HKG,Hong Kong
-HKG,Hong Kong,porcina,55.210728,HKG,Hong Kong
-HKG,Hong Kong,vacuna,22.51806,HKG,Hong Kong
-HKG,Hong Kong,otras_carnes,2.0888925,HKG,Hong Kong
-HKG,Hong Kong,caprina_ovina,0.9295072,HKG,Hong Kong
-HKG,Hong Kong,pescado_mariscos,65.78512,HKG,Hong Kong
-HND,Honduras,caprina_ovina,0.02935638,HND,Honduras
-HND,Honduras,porcina,4.931872,HND,Honduras
-HND,Honduras,aviar,21.156166,HND,Honduras
-HND,Honduras,pescado_mariscos,2.5246487,HND,Honduras
-HND,Honduras,vacuna,5.900633,HND,Honduras
-HND,Honduras,otras_carnes,0.09785461,HND,Honduras
-HRV,Croacia,porcina,49.731735,HRV,Croacia
-HRV,Croacia,vacuna,11.263041,HRV,Croacia
-HRV,Croacia,otras_carnes,0.6713734,HRV,Croacia
-HRV,Croacia,pescado_mariscos,19.139153,HRV,Croacia
-HRV,Croacia,caprina_ovina,1.4529723,HRV,Croacia
-HRV,Croacia,aviar,16.583925,HRV,Croacia
-HTI,Haití,caprina_ovina,0.5445718,HTI,Haití
-HTI,Haití,porcina,4.0641193,HTI,Haití
-HTI,Haití,vacuna,4.2758965,HTI,Haití
-HTI,Haití,aviar,10.941859,HTI,Haití
-HTI,Haití,pescado_mariscos,5.0322466,HTI,Haití
-HTI,Haití,otras_carnes,0.37313253,HTI,Haití
-HUN,Hungría,caprina_ovina,0.07925976,HUN,Hungría
-HUN,Hungría,porcina,47.85308,HUN,Hungría
-HUN,Hungría,vacuna,4.5078993,HUN,Hungría
-HUN,Hungría,pescado_mariscos,6.2912436,HUN,Hungría
-HUN,Hungría,otras_carnes,0.23777929,HUN,Hungría
-HUN,Hungría,aviar,29.484632,HUN,Hungría
-IDN,Indonesia,porcina,0.8954529,IDN,Indonesia
-IDN,Indonesia,vacuna,2.8171551,IDN,Indonesia
-IDN,Indonesia,aviar,13.773876,IDN,Indonesia
-IDN,Indonesia,caprina_ovina,0.50306344,IDN,Indonesia
-IDN,Indonesia,pescado_mariscos,44.712276,IDN,Indonesia
-IDN,Indonesia,otras_carnes,0.010061269,IDN,Indonesia
-IND,India,porcina,0.23718427,IND,India
-IND,India,vacuna,1.1266253,IND,India
-IND,India,otras_carnes,0.0,IND,India
-IND,India,pescado_mariscos,7.886377,IND,India
-IND,India,aviar,2.5694962,IND,India
-IND,India,caprina_ovina,0.5929607,IND,India
-IRL,Irlanda,pescado_mariscos,22.521992,IRL,Irlanda
-IRL,Irlanda,caprina_ovina,2.9849627,IRL,Irlanda
-IRL,Irlanda,porcina,31.057589,IRL,Irlanda
-IRL,Irlanda,aviar,24.678352,IRL,Irlanda
-IRL,Irlanda,vacuna,19.786608,IRL,Irlanda
-IRL,Irlanda,otras_carnes,0.5590565,IRL,Irlanda
-IRN,Irán,pescado_mariscos,12.143301,IRN,Irán
-IRN,Irán,caprina_ovina,4.1953087,IRN,Irán
-IRN,Irán,otras_carnes,0.10584494,IRN,Irán
-IRN,Irán,aviar,25.008272,IRN,Irán
-IRN,Irán,porcina,0.0,IRN,Irán
-IRN,Irán,vacuna,7.2648115,IRN,Irán
-IRQ,Iraq,aviar,4.361398,IRQ,Iraq
-IRQ,Iraq,vacuna,2.4968598,IRQ,Iraq
-IRQ,Iraq,otras_carnes,0.04053344,IRQ,Iraq
-IRQ,Iraq,caprina_ovina,1.3538169,IRQ,Iraq
-IRQ,Iraq,porcina,0.0,IRQ,Iraq
-IRQ,Iraq,pescado_mariscos,2.9184074,IRQ,Iraq
-ISL,Islandia,aviar,27.946386,ISL,Islandia
-ISL,Islandia,caprina_ovina,20.240889,ISL,Islandia
-ISL,Islandia,porcina,20.28742,ISL,Islandia
-ISL,Islandia,vacuna,13.028619,ISL,Islandia
-ISL,Islandia,otras_carnes,2.4754376,ISL,Islandia
-ISL,Islandia,pescado_mariscos,84.30447,ISL,Islandia
-ISR,Israel,aviar,68.1275,ISR,Israel
-ISR,Israel,caprina_ovina,1.6802082,ISR,Israel
-ISR,Israel,otras_carnes,0.009883577,ISR,Israel
-ISR,Israel,pescado_mariscos,24.432203,ISR,Israel
-ISR,Israel,porcina,1.5319545,ISR,Israel
-ISR,Israel,vacuna,26.863564,ISR,Israel
-ITA,Italia,pescado_mariscos,29.64125,ITA,Italia
-ITA,Italia,aviar,19.936968,ITA,Italia
-ITA,Italia,caprina_ovina,0.7722781,ITA,Italia
-ITA,Italia,porcina,33.41119,ITA,Italia
-ITA,Italia,vacuna,16.116224,ITA,Italia
-ITA,Italia,otras_carnes,1.0872862,ITA,Italia
-JAM,Jamaica,porcina,3.2021863,JAM,Jamaica
-JAM,Jamaica,vacuna,4.0211062,JAM,Jamaica
-JAM,Jamaica,otras_carnes,0.020997943,JAM,Jamaica
-JAM,Jamaica,caprina_ovina,0.74542695,JAM,Jamaica
-JAM,Jamaica,aviar,56.599957,JAM,Jamaica
-JAM,Jamaica,pescado_mariscos,26.415413,JAM,Jamaica
-JOR,Jordania,pescado_mariscos,4.789403,JOR,Jordania
-JOR,Jordania,vacuna,6.3671985,JOR,Jordania
-JOR,Jordania,otras_carnes,0.06535248,JOR,Jordania
-JOR,Jordania,aviar,24.357801,JOR,Jordania
-JOR,Jordania,caprina_ovina,4.378616,JOR,Jordania
-JOR,Jordania,porcina,0.009336067,JOR,Jordania
-JPN,Japón,caprina_ovina,0.15147516,JPN,Japón
-JPN,Japón,porcina,21.539766,JPN,Japón
-JPN,Japón,aviar,22.49911,JPN,Japón
-JPN,Japón,otras_carnes,0.10098343,JPN,Japón
-JPN,Japón,pescado_mariscos,46.654346,JPN,Japón
-JPN,Japón,vacuna,9.6540165,JPN,Japón
-KAZ,Kazajistán,porcina,8.122386,KAZ,Kazajstán
-KAZ,Kazajistán,vacuna,26.296349,KAZ,Kazajstán
-KAZ,Kazajistán,aviar,21.013334,KAZ,Kazajstán
-KAZ,Kazajistán,caprina_ovina,9.072142,KAZ,Kazajstán
-KAZ,Kazajistán,pescado_mariscos,2.7305465,KAZ,Kazajstán
-KAZ,Kazajistán,otras_carnes,6.6285,KAZ,Kazajstán
-KEN,Kenia,pescado_mariscos,2.9789176,KEN,Kenia
-KEN,Kenia,caprina_ovina,2.8444524,KEN,Kenia
-KEN,Kenia,otras_carnes,1.7894192,KEN,Kenia
-KEN,Kenia,aviar,1.3549936,KEN,Kenia
-KEN,Kenia,porcina,0.42408198,KEN,Kenia
-KEN,Kenia,vacuna,4.6855893,KEN,Kenia
-KGZ,Kirguistán,caprina_ovina,8.580612,KGZ,Kirguistán
-KGZ,Kirguistán,porcina,2.1527689,KGZ,Kirguistán
-KGZ,Kirguistán,aviar,5.2296042,KGZ,Kirguistán
-KGZ,Kirguistán,pescado_mariscos,1.0966938,KGZ,Kirguistán
-KGZ,Kirguistán,vacuna,15.079538,KGZ,Kirguistán
-KGZ,Kirguistán,otras_carnes,1.5434947,KGZ,Kirguistán
-KHM,Camboya,caprina_ovina,0.010196444,KHM,Camboya
-KHM,Camboya,porcina,6.036295,KHM,Camboya
-KHM,Camboya,aviar,2.8142185,KHM,Camboya
-KHM,Camboya,pescado_mariscos,46.64873,KHM,Camboya
-KHM,Camboya,vacuna,4.2723103,KHM,Camboya
-KHM,Camboya,otras_carnes,0.0,KHM,Camboya
-KIR,Kiribati,aviar,25.151245,KIR,Kiribati
-KIR,Kiribati,vacuna,1.813383,KIR,Kiribati
-KIR,Kiribati,otras_carnes,0.16055995,KIR,Kiribati
-KIR,Kiribati,caprina_ovina,0.11333644,KIR,Kiribati
-KIR,Kiribati,porcina,9.765823,KIR,Kiribati
-KIR,Kiribati,pescado_mariscos,69.22023,KIR,Kiribati
-KNA,Saint Kitts y Nevis,pescado_mariscos,43.349308,KNA,Saint Kitts y Nevis
-KNA,Saint Kitts y Nevis,vacuna,3.2813327,KNA,Saint Kitts y Nevis
-KNA,Saint Kitts y Nevis,otras_carnes,0.02232199,KNA,Saint Kitts y Nevis
-KNA,Saint Kitts y Nevis,aviar,54.38753,KNA,Saint Kitts y Nevis
-KNA,Saint Kitts y Nevis,caprina_ovina,2.7567658,KNA,Saint Kitts y Nevis
-KNA,Saint Kitts y Nevis,porcina,17.321865,KNA,Saint Kitts y Nevis
-KOR,Corea del Sur,caprina_ovina,0.36589277,KOR,Corea del Sur
-KOR,Corea del Sur,porcina,37.973736,KOR,Corea del Sur
-KOR,Corea del Sur,aviar,22.50735,KOR,Corea del Sur
-KOR,Corea del Sur,pescado_mariscos,54.656467,KOR,Corea del Sur
-KOR,Corea del Sur,vacuna,16.712399,KOR,Corea del Sur
-KOR,Corea del Sur,otras_carnes,0.09888994,KOR,Corea del Sur
-KWT,Kuwait,aviar,45.590473,KWT,Kuwait
-KWT,Kuwait,caprina_ovina,13.7701845,KWT,Kuwait
-KWT,Kuwait,porcina,0.0,KWT,Kuwait
-KWT,Kuwait,pescado_mariscos,13.691833,KWT,Kuwait
-KWT,Kuwait,otras_carnes,2.6149638,KWT,Kuwait
-KWT,Kuwait,vacuna,9.196446,KWT,Kuwait
-LAO,Laos,aviar,6.5405912,LAO,Laos
-LAO,Laos,porcina,13.439027,LAO,Laos
-LAO,Laos,vacuna,8.319871,LAO,Laos
-LAO,Laos,otras_carnes,0.13916153,LAO,Laos
-LAO,Laos,caprina_ovina,0.3777241,LAO,Laos
-LAO,Laos,pescado_mariscos,24.005362,LAO,Laos
-LBN,Líbano,aviar,22.394203,LBN,Líbano
-LBN,Líbano,caprina_ovina,1.3740253,LBN,Líbano
-LBN,Líbano,vacuna,11.112732,LBN,Líbano
-LBN,Líbano,otras_carnes,0.0,LBN,Líbano
-LBN,Líbano,pescado_mariscos,10.51009,LBN,Líbano
-LBN,Líbano,porcina,0.662907,LBN,Líbano
-LBR,Liberia,caprina_ovina,0.44735435,LBR,Liberia
-LBR,Liberia,porcina,5.258899,LBR,Liberia
-LBR,Liberia,aviar,11.253448,LBR,Liberia
-LBR,Liberia,vacuna,0.41753075,LBR,Liberia
-LBR,Liberia,otras_carnes,1.6005346,LBR,Liberia
-LBR,Liberia,pescado_mariscos,4.2747197,LBR,Liberia
-LBY,Libia,aviar,33.912685,LBY,Libia
-LBY,Libia,vacuna,2.9947255,LBY,Libia
-LBY,Libia,otras_carnes,0.6918849,LBY,Libia
-LBY,Libia,pescado_mariscos,14.725788,LBY,Libia
-LBY,Libia,caprina_ovina,5.9687977,LBY,Libia
-LBY,Libia,porcina,0.020653278,LBY,Libia
-LCA,Santa Lucía,porcina,15.305488,LCA,Santa Lucía
-LCA,Santa Lucía,vacuna,3.8417392,LCA,Santa Lucía
-LCA,Santa Lucía,aviar,58.988625,LCA,Santa Lucía
-LCA,Santa Lucía,caprina_ovina,2.038683,LCA,Santa Lucía
-LCA,Santa Lucía,otras_carnes,0.0,LCA,Santa Lucía
-LCA,Santa Lucía,pescado_mariscos,34.44247,LCA,Santa Lucía
-LKA,Sri Lanka,caprina_ovina,0.08874906,LKA,Sri Lanka
-LKA,Sri Lanka,porcina,0.059166037,LKA,Sri Lanka
-LKA,Sri Lanka,aviar,10.265307,LKA,Sri Lanka
-LKA,Sri Lanka,otras_carnes,0.0,LKA,Sri Lanka
-LKA,Sri Lanka,pescado_mariscos,28.567335,LKA,Sri Lanka
-LKA,Sri Lanka,vacuna,1.2129037,LKA,Sri Lanka
-LSO,Lesotho,porcina,3.601931,LSO,Lesotho
-LSO,Lesotho,vacuna,1.8627402,LSO,Lesotho
-LSO,Lesotho,otras_carnes,3.2407877,LSO,Lesotho
-LSO,Lesotho,pescado_mariscos,2.8511329,LSO,Lesotho
-LSO,Lesotho,caprina_ovina,0.41816616,LSO,Lesotho
-LSO,Lesotho,aviar,1.9957929,LSO,Lesotho
-LTU,Lituania,aviar,32.114166,LTU,Lituania
-LTU,Lituania,vacuna,5.656418,LTU,Lituania
-LTU,Lituania,otras_carnes,0.5598502,LTU,Lituania
-LTU,Lituania,caprina_ovina,0.4633243,LTU,Lituania
-LTU,Lituania,porcina,48.928978,LTU,Lituania
-LTU,Lituania,pescado_mariscos,31.892159,LTU,Lituania
-LUX,Luxemburgo,pescado_mariscos,31.467758,LUX,Luxemburgo
-LUX,Luxemburgo,caprina_ovina,1.1320051,LUX,Luxemburgo
-LUX,Luxemburgo,porcina,32.90759,LUX,Luxemburgo
-LUX,Luxemburgo,aviar,17.963135,LUX,Luxemburgo
-LUX,Luxemburgo,vacuna,25.519766,LUX,Luxemburgo
-LUX,Luxemburgo,otras_carnes,0.8638987,LUX,Luxemburgo
-LVA,Letonia,caprina_ovina,0.39771077,LVA,Letonia
-LVA,Letonia,porcina,38.22,LVA,Letonia
-LVA,Letonia,vacuna,5.2696676,LVA,Letonia
-LVA,Letonia,pescado_mariscos,24.866865,LVA,Letonia
-LVA,Letonia,otras_carnes,0.37782523,LVA,Letonia
-LVA,Letonia,aviar,26.079882,LVA,Letonia
-MAC,Macao,aviar,43.74464,MAC,Macao
-MAC,Macao,caprina_ovina,0.70091283,MAC,Macao
-MAC,Macao,otras_carnes,1.0657716,MAC,Macao
-MAC,Macao,pescado_mariscos,70.26411,MAC,Macao
-MAC,Macao,porcina,45.021645,MAC,Macao
-MAC,Macao,vacuna,9.006249,MAC,Macao
-MAR,Marruecos,caprina_ovina,5.191193,MAR,Marruecos
-MAR,Marruecos,porcina,0.020120904,MAR,Marruecos
-MAR,Marruecos,aviar,24.135023,MAR,Marruecos
-MAR,Marruecos,otras_carnes,1.7203373,MAR,Marruecos
-MAR,Marruecos,pescado_mariscos,18.48105,MAR,Marruecos
-MAR,Marruecos,vacuna,7.776729,MAR,Marruecos
-MDA,Moldavia,caprina_ovina,0.20922703,MDA,Moldavia
-MDA,Moldavia,porcina,25.068014,MDA,Moldavia
-MDA,Moldavia,vacuna,2.5107243,MDA,Moldavia
-MDA,Moldavia,pescado_mariscos,15.247419,MDA,Moldavia
-MDA,Moldavia,otras_carnes,0.20922703,MDA,Moldavia
-MDA,Moldavia,aviar,22.491907,MDA,Moldavia
-MDG,Madagascar,caprina_ovina,0.15697199,MDG,Madagascar
-MDG,Madagascar,porcina,0.9614535,MDG,Madagascar
-MDG,Madagascar,vacuna,1.2361544,MDG,Madagascar
-MDG,Madagascar,aviar,3.0707648,MDG,Madagascar
-MDG,Madagascar,pescado_mariscos,3.885057,MDG,Madagascar
-MDG,Madagascar,otras_carnes,0.2943225,MDG,Madagascar
-MDV,Maldivas,porcina,0.37825644,MDV,Maldivas
-MDV,Maldivas,vacuna,6.209709,MDV,Maldivas
-MDV,Maldivas,otras_carnes,0.15760684,MDV,Maldivas
-MDV,Maldivas,pescado_mariscos,87.30368,MDV,Maldivas
-MDV,Maldivas,caprina_ovina,0.68296295,MDV,Maldivas
-MDV,Maldivas,aviar,11.589356,MDV,Maldivas
-MEX,México,aviar,36.766796,MEX,México
-MEX,México,caprina_ovina,0.8390975,MEX,México
-MEX,México,otras_carnes,0.64467245,MEX,México
-MEX,México,pescado_mariscos,13.947438,MEX,México
-MEX,México,porcina,19.524366,MEX,México
-MEX,México,vacuna,14.929796,MEX,México
-MKD,Macedonia del Norte,caprina_ovina,0.6118625,MKD,Macedonia del Norte
-MKD,Macedonia del Norte,porcina,12.454363,MKD,Macedonia del Norte
-MKD,Macedonia del Norte,aviar,19.7375,MKD,Macedonia del Norte
-MKD,Macedonia del Norte,pescado_mariscos,6.128494,MKD,Macedonia del Norte
-MKD,Macedonia del Norte,vacuna,6.750225,MKD,Macedonia del Norte
-MKD,Macedonia del Norte,otras_carnes,0.2565875,MKD,Macedonia del Norte
-MLI,Malí,porcina,0.04770729,MLI,Malí
-MLI,Malí,vacuna,3.3872175,MLI,Malí
-MLI,Malí,aviar,2.2613254,MLI,Malí
-MLI,Malí,caprina_ovina,0.9923116,MLI,Malí
-MLI,Malí,pescado_mariscos,8.148405,MLI,Malí
-MLI,Malí,otras_carnes,1.478926,MLI,Malí
-MLT,Malta,pescado_mariscos,19.568254,MLT,Malta
-MLT,Malta,caprina_ovina,0.9766992,MLT,Malta
-MLT,Malta,otras_carnes,0.5226198,MLT,Malta
-MLT,Malta,aviar,21.555923,MLT,Malta
-MLT,Malta,porcina,22.138515,MLT,Malta
-MLT,Malta,vacuna,22.60973,MLT,Malta
-MMR,Myanmar,porcina,20.4712,MMR,Myanmar
-MMR,Myanmar,vacuna,9.481935,MMR,Myanmar
-MMR,Myanmar,aviar,30.40126,MMR,Myanmar
-MMR,Myanmar,caprina_ovina,1.7721337,MMR,Myanmar
-MMR,Myanmar,otras_carnes,0.0,MMR,Myanmar
-MMR,Myanmar,pescado_mariscos,45.851414,MMR,Myanmar
-MNE,Montenegro,porcina,43.17209,MNE,Montenegro
-MNE,Montenegro,vacuna,14.966456,MNE,Montenegro
-MNE,Montenegro,otras_carnes,0.14976442,MNE,Montenegro
-MNE,Montenegro,pescado_mariscos,15.555531,MNE,Montenegro
-MNE,Montenegro,caprina_ovina,1.966906,MNE,Montenegro
-MNE,Montenegro,aviar,17.053175,MNE,Montenegro
-MNG,Mongolia,aviar,2.9555302,MNG,Mongolia
-MNG,Mongolia,caprina_ovina,66.00684,MNG,Mongolia
-MNG,Mongolia,vacuna,26.4306,MNG,Mongolia
-MNG,Mongolia,otras_carnes,15.026434,MNG,Mongolia
-MNG,Mongolia,pescado_mariscos,0.56722295,MNG,Mongolia
-MNG,Mongolia,porcina,0.6070281,MNG,Mongolia
-MOZ,Mozambique,pescado_mariscos,13.463253,MOZ,Mozambique
-MOZ,Mozambique,vacuna,0.5613866,MOZ,Mozambique
-MOZ,Mozambique,otras_carnes,0.01002476,MOZ,Mozambique
-MOZ,Mozambique,aviar,3.839483,MOZ,Mozambique
-MOZ,Mozambique,caprina_ovina,0.07017332,MOZ,Mozambique
-MOZ,Mozambique,porcina,3.0976508,MOZ,Mozambique
-MRT,Mauritania,aviar,6.501207,MRT,Mauritania
-MRT,Mauritania,vacuna,6.5632215,MRT,Mauritania
-MRT,Mauritania,otras_carnes,6.4908714,MRT,Mauritania
-MRT,Mauritania,caprina_ovina,12.568311,MRT,Mauritania
-MRT,Mauritania,porcina,0.010335782,MRT,Mauritania
-MRT,Mauritania,pescado_mariscos,8.7234,MRT,Mauritania
-MUS,Mauricio,pescado_mariscos,23.50829,MUS,Mauricio
-MUS,Mauricio,caprina_ovina,3.3219302,MUS,Mauricio
-MUS,Mauricio,porcina,3.1161468,MUS,Mauricio
-MUS,Mauricio,aviar,37.913116,MUS,Mauricio
-MUS,Mauricio,vacuna,4.380244,MUS,Mauricio
-MUS,Mauricio,otras_carnes,0.7937355,MUS,Mauricio
-MWI,Malawi,caprina_ovina,3.0703392,MWI,Malawi
-MWI,Malawi,porcina,11.689009,MWI,Malawi
-MWI,Malawi,aviar,5.6470547,MWI,Malawi
-MWI,Malawi,pescado_mariscos,10.010689,MWI,Malawi
-MWI,Malawi,vacuna,2.87289,MWI,Malawi
-MWI,Malawi,otras_carnes,0.0,MWI,Malawi
-MYS,Malasia,aviar,48.977966,MYS,Malasia
-MYS,Malasia,pescado_mariscos,53.32593,MYS,Malasia
-MYS,Malasia,caprina_ovina,0.97487986,MYS,Malasia
-MYS,Malasia,porcina,7.253106,MYS,Malasia
-MYS,Malasia,vacuna,5.868777,MYS,Malasia
-MYS,Malasia,otras_carnes,0.019497598,MYS,Malasia
-NAM,Namibia,aviar,10.422523,NAM,Namibia
-NAM,Namibia,caprina_ovina,4.2465906,NAM,Namibia
-NAM,Namibia,otras_carnes,4.8794966,NAM,Namibia
-NAM,Namibia,pescado_mariscos,12.106867,NAM,Namibia
-NAM,Namibia,porcina,4.5426273,NAM,Namibia
-NAM,Namibia,vacuna,8.983173,NAM,Namibia
-NCL,Nueva Caledonia,aviar,40.809635,NCL,Nueva Caledonia
-NCL,Nueva Caledonia,porcina,17.294754,NCL,Nueva Caledonia
-NCL,Nueva Caledonia,vacuna,17.603767,NCL,Nueva Caledonia
-NCL,Nueva Caledonia,otras_carnes,1.0566247,NCL,Nueva Caledonia
-NCL,Nueva Caledonia,caprina_ovina,1.265956,NCL,Nueva Caledonia
-NCL,Nueva Caledonia,pescado_mariscos,23.335457,NCL,Nueva Caledonia
-NER,Níger,vacuna,2.8251772,NER,Níger
-NER,Níger,porcina,0.059686843,NER,Níger
-NER,Níger,otras_carnes,2.1885178,NER,Níger
-NER,Níger,pescado_mariscos,1.8502922,NER,Níger
-NER,Níger,aviar,1.0047286,NER,Níger
-NER,Níger,caprina_ovina,2.168622,NER,Níger
-NGA,Nigeria,aviar,1.1478179,NGA,Nigeria
-NGA,Nigeria,caprina_ovina,1.9789964,NGA,Nigeria
-NGA,Nigeria,otras_carnes,0.82128346,NGA,Nigeria
-NGA,Nigeria,pescado_mariscos,6.679113,NGA,Nigeria
-NGA,Nigeria,porcina,1.4545624,NGA,Nigeria
-NGA,Nigeria,vacuna,1.5634072,NGA,Nigeria
-NIC,Nicaragua,aviar,21.376158,NIC,Nicaragua
-NIC,Nicaragua,caprina_ovina,0.009805577,NIC,Nicaragua
-NIC,Nicaragua,pescado_mariscos,6.5010977,NIC,Nicaragua
-NIC,Nicaragua,porcina,5.196956,NIC,Nicaragua
-NIC,Nicaragua,vacuna,2.1180048,NIC,Nicaragua
-NIC,Nicaragua,otras_carnes,0.3431952,NIC,Nicaragua
-NLD,Países Bajos,caprina_ovina,1.0909196,NLD,Países Bajos
-NLD,Países Bajos,porcina,27.233675,NLD,Países Bajos
-NLD,Países Bajos,aviar,9.818275,NLD,Países Bajos
-NLD,Países Bajos,pescado_mariscos,21.484236,NLD,Países Bajos
-NLD,Países Bajos,vacuna,15.931355,NLD,Países Bajos
-NLD,Países Bajos,otras_carnes,4.0491786,NLD,Países Bajos
-NOR,Noruega,aviar,20.143847,NOR,Noruega
-NOR,Noruega,porcina,23.832014,NOR,Noruega
-NOR,Noruega,vacuna,17.94707,NOR,Noruega
-NOR,Noruega,otras_carnes,1.1890814,NOR,Noruega
-NOR,Noruega,caprina_ovina,4.635402,NOR,Noruega
-NOR,Noruega,pescado_mariscos,50.566196,NOR,Noruega
-NPL,Nepal,caprina_ovina,2.6507301,NPL,Nepal
-NPL,Nepal,porcina,1.0027106,NPL,Nepal
-NPL,Nepal,vacuna,8.170602,NPL,Nepal
-NPL,Nepal,aviar,2.2337613,NPL,Nepal
-NPL,Nepal,pescado_mariscos,3.4945953,NPL,Nepal
-NPL,Nepal,otras_carnes,0.0,NPL,Nepal
-NRU,Nauru,aviar,44.73038,NRU,Nauru
-NRU,Nauru,caprina_ovina,2.972672,NRU,Nauru
-NRU,Nauru,otras_carnes,3.0428236,NRU,Nauru
-NRU,Nauru,pescado_mariscos,44.747917,NRU,Nauru
-NRU,Nauru,porcina,24.702114,NRU,Nauru
-NRU,Nauru,vacuna,16.739914,NRU,Nauru
-NZL,Nueva Zelanda,caprina_ovina,12.319667,NZL,Nueva Zelanda
-NZL,Nueva Zelanda,porcina,23.962847,NZL,Nueva Zelanda
-NZL,Nueva Zelanda,vacuna,17.741083,NZL,Nueva Zelanda
-NZL,Nueva Zelanda,pescado_mariscos,25.153843,NZL,Nueva Zelanda
-NZL,Nueva Zelanda,otras_carnes,2.229545,NZL,Nueva Zelanda
-NZL,Nueva Zelanda,aviar,24.763197,NZL,Nueva Zelanda
-OMN,Omán,caprina_ovina,12.633368,OMN,Omán
-OMN,Omán,porcina,0.40462747,OMN,Omán
-OMN,Omán,vacuna,10.160645,OMN,Omán
-OMN,Omán,pescado_mariscos,29.301771,OMN,Omán
-OMN,Omán,otras_carnes,3.4618125,OMN,Omán
-OMN,Omán,aviar,22.097155,OMN,Omán
-PAK,Pakistán,aviar,5.9793463,PAK,Pakistán
-PAK,Pakistán,caprina_ovina,2.518131,PAK,Pakistán
-PAK,Pakistán,porcina,0.0,PAK,Pakistán
-PAK,Pakistán,vacuna,9.557231,PAK,Pakistán
-PAK,Pakistán,otras_carnes,0.019445028,PAK,Pakistán
-PAK,Pakistán,pescado_mariscos,1.5847697,PAK,Pakistán
-PAN,Panamá,porcina,15.9855,PAN,Panamá
-PAN,Panamá,vacuna,14.5688095,PAN,Panamá
-PAN,Panamá,otras_carnes,1.0047455,PAN,Panamá
-PAN,Panamá,pescado_mariscos,13.744919,PAN,Panamá
-PAN,Panamá,aviar,55.632755,PAN,Panamá
-PAN,Panamá,caprina_ovina,0.010047454,PAN,Panamá
-PER,Perú,aviar,42.263268,PER,Perú
-PER,Perú,vacuna,4.158016,PER,Perú
-PER,Perú,otras_carnes,1.1484045,PER,Perú
-PER,Perú,caprina_ovina,0.762303,PER,Perú
-PER,Perú,porcina,4.484718,PER,Perú
-PER,Perú,pescado_mariscos,26.829107,PER,Perú
-PHL,Filipinas,pescado_mariscos,28.393742,PHL,Filipinas
-PHL,Filipinas,caprina_ovina,0.2832537,PHL,Filipinas
-PHL,Filipinas,porcina,14.172453,PHL,Filipinas
-PHL,Filipinas,aviar,15.481281,PHL,Filipinas
-PHL,Filipinas,vacuna,3.0083497,PHL,Filipinas
-PHL,Filipinas,otras_carnes,0.009767369,PHL,Filipinas
-PNG,Papua Nueva Guinea,porcina,9.094177,PNG,Papúa Nueva Guinea
-PNG,Papua Nueva Guinea,vacuna,0.73414147,PNG,Papúa Nueva Guinea
-PNG,Papua Nueva Guinea,aviar,3.5514092,PNG,Papúa Nueva Guinea
-PNG,Papua Nueva Guinea,caprina_ovina,1.3581617,PNG,Papúa Nueva Guinea
-PNG,Papua Nueva Guinea,pescado_mariscos,13.407258,PNG,Papúa Nueva Guinea
-PNG,Papua Nueva Guinea,otras_carnes,42.497616,PNG,Papúa Nueva Guinea
-POL,Polonia,aviar,32.392086,POL,Polonia
-POL,Polonia,caprina_ovina,0.029545836,POL,Polonia
-POL,Polonia,otras_carnes,0.108334735,POL,Polonia
-POL,Polonia,pescado_mariscos,12.271371,POL,Polonia
-POL,Polonia,porcina,54.118126,POL,Polonia
-POL,Polonia,vacuna,1.5166862,POL,Polonia
-PRK,Corea del Norte,caprina_ovina,0.57801217,PRK,Corea del Norte
-PRK,Corea del Norte,porcina,4.2653317,PRK,Corea del Norte
-PRK,Corea del Norte,vacuna,0.807224,PRK,Corea del Norte
-PRK,Corea del Norte,aviar,1.7738996,PRK,Corea del Norte
-PRK,Corea del Norte,pescado_mariscos,10.9623,PRK,Corea del Norte
-PRK,Corea del Norte,otras_carnes,6.1388884,PRK,Corea del Norte
-PRT,Portugal,pescado_mariscos,59.35927,PRT,Portugal
-PRT,Portugal,caprina_ovina,2.1090117,PRT,Portugal
-PRT,Portugal,porcina,37.71467,PRT,Portugal
-PRT,Portugal,vacuna,18.56524,PRT,Portugal
-PRT,Portugal,aviar,30.26877,PRT,Portugal
-PRT,Portugal,otras_carnes,0.66339797,PRT,Portugal
-PRY,Paraguay,pescado_mariscos,4.321315,PRY,Paraguay
-PRY,Paraguay,caprina_ovina,0.38794845,PRY,Paraguay
-PRY,Paraguay,otras_carnes,0.20475057,PRY,Paraguay
-PRY,Paraguay,aviar,10.366844,PRY,Paraguay
-PRY,Paraguay,porcina,9.515513,PRY,Paraguay
-PRY,Paraguay,vacuna,23.56787,PRY,Paraguay
-PYF,Polinesia Francesa,caprina_ovina,2.2142708,PYF,Polinesia Francesa
-PYF,Polinesia Francesa,porcina,13.322838,PYF,Polinesia Francesa
-PYF,Polinesia Francesa,aviar,45.40185,PYF,Polinesia Francesa
-PYF,Polinesia Francesa,otras_carnes,1.2187792,PYF,Polinesia Francesa
-PYF,Polinesia Francesa,pescado_mariscos,43.95048,PYF,Polinesia Francesa
-PYF,Polinesia Francesa,vacuna,19.86331,PYF,Polinesia Francesa
-QAT,Qatar,caprina_ovina,12.117487,QAT,Qatar
-QAT,Qatar,porcina,1.221142,QAT,Qatar
-QAT,Qatar,vacuna,8.71499,QAT,Qatar
-QAT,Qatar,pescado_mariscos,21.980558,QAT,Qatar
-QAT,Qatar,otras_carnes,0.46967003,QAT,Qatar
-QAT,Qatar,aviar,56.652645,QAT,Qatar
-ROU,Rumania,aviar,23.678478,ROU,Rumania
-ROU,Rumania,caprina_ovina,2.5528822,ROU,Rumania
-ROU,Rumania,vacuna,5.184923,ROU,Rumania
-ROU,Rumania,otras_carnes,0.14842339,ROU,Rumania
-ROU,Rumania,pescado_mariscos,8.232551,ROU,Rumania
-ROU,Rumania,porcina,34.13738,ROU,Rumania
-RUS,Rusia,porcina,28.261415,RUS,Rusia
-RUS,Rusia,vacuna,12.898028,RUS,Rusia
-RUS,Rusia,otras_carnes,3.5978181,RUS,Rusia
-RUS,Rusia,pescado_mariscos,21.757278,RUS,Rusia
-RUS,Rusia,caprina_ovina,1.4732014,RUS,Rusia
-RUS,Rusia,aviar,30.847033,RUS,Rusia
-RWA,Rwanda,caprina_ovina,1.6551895,RWA,Ruanda
-RWA,Rwanda,porcina,0.95567495,RWA,Ruanda
-RWA,Rwanda,aviar,1.4778478,RWA,Ruanda
-RWA,Rwanda,otras_carnes,1.5074047,RWA,Ruanda
-RWA,Rwanda,pescado_mariscos,4.492657,RWA,Ruanda
-RWA,Rwanda,vacuna,2.6502738,RWA,Ruanda
-SAU,Arabia Saudita,caprina_ovina,4.6132083,SAU,Arabia Saudita
-SAU,Arabia Saudita,porcina,,SAU,Arabia Saudita
-SAU,Arabia Saudita,vacuna,4.265042,SAU,Arabia Saudita
-SAU,Arabia Saudita,pescado_mariscos,11.354102,SAU,Arabia Saudita
-SAU,Arabia Saudita,otras_carnes,2.7950048,SAU,Arabia Saudita
-SAU,Arabia Saudita,aviar,41.54789,SAU,Arabia Saudita
-SDN,Sudán,pescado_mariscos,1.1248338,SDN,Sudán
-SDN,Sudán,vacuna,7.8442354,SDN,Sudán
-SDN,Sudán,otras_carnes,3.3054326,SDN,Sudán
-SDN,Sudán,aviar,1.8253882,SDN,Sudán
-SDN,Sudán,caprina_ovina,7.0844793,SDN,Sudán
-SDN,Sudán,porcina,0.0,SDN,Sudán
-SEN,Senegal,aviar,7.487648,SEN,Senegal
-SEN,Senegal,caprina_ovina,3.096932,SEN,Senegal
-SEN,Senegal,vacuna,5.063076,SEN,Senegal
-SEN,Senegal,otras_carnes,0.65198565,SEN,Senegal
-SEN,Senegal,pescado_mariscos,12.122858,SEN,Senegal
-SEN,Senegal,porcina,1.1919113,SEN,Senegal
-SLB,Islas Salomón,aviar,6.1016426,SLB,Islas Salomón
-SLB,Islas Salomón,caprina_ovina,0.049687646,SLB,Islas Salomón
-SLB,Islas Salomón,otras_carnes,0.039750114,SLB,Islas Salomón
-SLB,Islas Salomón,pescado_mariscos,27.884705,SLB,Islas Salomón
-SLB,Islas Salomón,porcina,4.372513,SLB,Islas Salomón
-SLB,Islas Salomón,vacuna,1.7490051,SLB,Islas Salomón
-SLE,Sierra Leona,aviar,5.202395,SLE,Sierra Leona
-SLE,Sierra Leona,vacuna,1.2109859,SLE,Sierra Leona
-SLE,Sierra Leona,otras_carnes,1.3563042,SLE,Sierra Leona
-SLE,Sierra Leona,pescado_mariscos,24.704111,SLE,Sierra Leona
-SLE,Sierra Leona,caprina_ovina,0.4456428,SLE,Sierra Leona
-SLE,Sierra Leona,porcina,0.9687887,SLE,Sierra Leona
-SLV,El Salvador,aviar,26.69628,SLV,El Salvador
-SLV,El Salvador,vacuna,8.431489,SLV,El Salvador
-SLV,El Salvador,otras_carnes,0.0,SLV,El Salvador
-SLV,El Salvador,caprina_ovina,0.020614887,SLV,El Salvador
-SLV,El Salvador,porcina,4.8651133,SLV,El Salvador
-SLV,El Salvador,pescado_mariscos,6.7410684,SLV,El Salvador
-SRB,Serbia,porcina,44.328022,SRB,Serbia
-SRB,Serbia,vacuna,7.2079053,SRB,Serbia
-SRB,Serbia,otras_carnes,0.4749855,SRB,Serbia
-SRB,Serbia,pescado_mariscos,7.956007,SRB,Serbia
-SRB,Serbia,caprina_ovina,4.417365,SRB,Serbia
-SRB,Serbia,aviar,16.731365,SRB,Serbia
-SSD,Sudán del Sur,aviar,4.559296,SSD,Sudán del Sur
-SSD,Sudán del Sur,caprina_ovina,3.5672271,SSD,Sudán del Sur
-SSD,Sudán del Sur,porcina,0.010553926,SSD,Sudán del Sur
-SSD,Sudán del Sur,vacuna,13.086868,SSD,Sudán del Sur
-SSD,Sudán del Sur,otras_carnes,0.9498533,SSD,Sudán del Sur
-SSD,Sudán del Sur,pescado_mariscos,3.0817466,SSD,Sudán del Sur
-STP,Santo Tomé y Príncipe,aviar,17.169954,STP,Santo Tomé y Príncipe
-STP,Santo Tomé y Príncipe,porcina,4.7009397,STP,Santo Tomé y Príncipe
-STP,Santo Tomé y Príncipe,vacuna,1.7340353,STP,Santo Tomé y Príncipe
-STP,Santo Tomé y Príncipe,otras_carnes,0.0,STP,Santo Tomé y Príncipe
-STP,Santo Tomé y Príncipe,caprina_ovina,0.06013995,STP,Santo Tomé y Príncipe
-STP,Santo Tomé y Príncipe,pescado_mariscos,27.714493,STP,Santo Tomé y Príncipe
-SUR,Surinam,porcina,7.701676,SUR,Suriname
-SUR,Surinam,vacuna,4.2422028,SUR,Suriname
-SUR,Surinam,aviar,47.95912,SUR,Suriname
-SUR,Surinam,caprina_ovina,0.028989997,SUR,Suriname
-SUR,Surinam,pescado_mariscos,15.944499,SUR,Suriname
-SUR,Surinam,otras_carnes,0.24158332,SUR,Suriname
-SVK,Eslovaquia,aviar,16.909164,SVK,Eslovaquia
-SVK,Eslovaquia,vacuna,5.8431673,SVK,Eslovaquia
-SVK,Eslovaquia,otras_carnes,0.85046095,SVK,Eslovaquia
-SVK,Eslovaquia,caprina_ovina,0.07003796,SVK,Eslovaquia
-SVK,Eslovaquia,porcina,38.841053,SVK,Eslovaquia
-SVK,Eslovaquia,pescado_mariscos,10.205531,SVK,Eslovaquia
-SVN,Eslovenia,pescado_mariscos,12.968537,SVN,Eslovenia
-SVN,Eslovenia,caprina_ovina,0.8050114,SVN,Eslovenia
-SVN,Eslovenia,porcina,25.31859,SVN,Eslovenia
-SVN,Eslovenia,aviar,29.805056,SVN,Eslovenia
-SVN,Eslovenia,vacuna,14.971249,SVN,Eslovenia
-SVN,Eslovenia,otras_carnes,0.30433357,SVN,Eslovenia
-SWE,Suecia,pescado_mariscos,31.342962,SWE,Suecia
-SWE,Suecia,caprina_ovina,1.2564456,SWE,Suecia
-SWE,Suecia,otras_carnes,0.19479778,SWE,Suecia
-SWE,Suecia,aviar,14.999429,SWE,Suecia
-SWE,Suecia,porcina,27.865824,SWE,Suecia
-SWE,Suecia,vacuna,21.93423,SWE,Suecia
-SWZ,Eswatini,aviar,7.133926,SWZ,Eswatini
-SWZ,Eswatini,caprina_ovina,1.7982209,SWZ,Eswatini
-SWZ,Eswatini,otras_carnes,0.2063532,SWZ,Eswatini
-SWZ,Eswatini,pescado_mariscos,4.205675,SWZ,Eswatini
-SWZ,Eswatini,porcina,1.9849213,SWZ,Eswatini
-SWZ,Eswatini,vacuna,15.790934,SWZ,Eswatini
-SYC,Seychelles,caprina_ovina,2.329575,SYC,Seychelles
-SYC,Seychelles,porcina,12.784708,SYC,Seychelles
-SYC,Seychelles,aviar,34.35657,SYC,Seychelles
-SYC,Seychelles,vacuna,8.5542,SYC,Seychelles
-SYC,Seychelles,otras_carnes,0.16772941,SYC,Seychelles
-SYC,Seychelles,pescado_mariscos,52.89067,SYC,Seychelles
-SYR,Siria,pescado_mariscos,1.8366231,SYR,Siria
-SYR,Siria,aviar,5.3666463,SYR,Siria
-SYR,Siria,caprina_ovina,6.0237865,SYR,Siria
-SYR,Siria,porcina,0.0,SYR,Siria
-SYR,Siria,otras_carnes,0.09267364,SYR,Siria
-SYR,Siria,vacuna,1.8113484,SYR,Siria
-TCD,Chad,porcina,0.14802778,TCD,Chad
-TCD,Chad,vacuna,27.148294,TCD,Chad
-TCD,Chad,aviar,0.47368887,TCD,Chad
-TCD,Chad,caprina_ovina,17.674517,TCD,Chad
-TCD,Chad,pescado_mariscos,6.5132217,TCD,Chad
-TCD,Chad,otras_carnes,0.80921847,TCD,Chad
-TGO,Togo,pescado_mariscos,11.463107,TGO,Togo
-TGO,Togo,vacuna,0.7746668,TGO,Togo
-TGO,Togo,otras_carnes,0.7844727,TGO,Togo
-TGO,Togo,aviar,7.0210304,TGO,Togo
-TGO,Togo,caprina_ovina,1.392439,TGO,Togo
-TGO,Togo,porcina,2.2749708,TGO,Togo
-THA,Tailandia,caprina_ovina,0.03906223,THA,Tailandia
-THA,Tailandia,porcina,12.8319435,THA,Tailandia
-THA,Tailandia,aviar,11.132736,THA,Tailandia
-THA,Tailandia,otras_carnes,0.0,THA,Tailandia
-THA,Tailandia,pescado_mariscos,28.476368,THA,Tailandia
-THA,Tailandia,vacuna,1.1523359,THA,Tailandia
-TJK,Tayikistán,aviar,3.5179489,TJK,Tayikistán
-TJK,Tayikistán,caprina_ovina,7.8254375,TJK,Tayikistán
-TJK,Tayikistán,vacuna,25.764978,TJK,Tayikistán
-TJK,Tayikistán,otras_carnes,0.0,TJK,Tayikistán
-TJK,Tayikistán,pescado_mariscos,0.65961546,TJK,Tayikistán
-TJK,Tayikistán,porcina,0.08994756,TJK,Tayikistán
-TKM,Turkmenistán,caprina_ovina,20.031818,TKM,Turkmenistán
-TKM,Turkmenistán,porcina,0.08684315,TKM,Turkmenistán
-TKM,Turkmenistán,vacuna,21.701136,TKM,Turkmenistán
-TKM,Turkmenistán,aviar,5.8667364,TKM,Turkmenistán
-TKM,Turkmenistán,pescado_mariscos,2.7114358,TKM,Turkmenistán
-TKM,Turkmenistán,otras_carnes,0.0,TKM,Turkmenistán
-TLS,Timor Oriental,porcina,11.652998,TLS,Timor-Leste
-TLS,Timor Oriental,vacuna,1.6328397,TLS,Timor-Leste
-TLS,Timor Oriental,otras_carnes,0.0,TLS,Timor-Leste
-TLS,Timor Oriental,pescado_mariscos,6.511075,TLS,Timor-Leste
-TLS,Timor Oriental,aviar,9.523208,TLS,Timor-Leste
-TLS,Timor Oriental,caprina_ovina,0.38539073,TLS,Timor-Leste
-TTO,Trinidad y Tabago,porcina,5.1715446,TTO,Trinidad y Tobago
-TTO,Trinidad y Tabago,vacuna,5.245292,TTO,Trinidad y Tobago
-TTO,Trinidad y Tabago,aviar,58.196007,TTO,Trinidad y Tobago
-TTO,Trinidad y Tabago,caprina_ovina,1.3366737,TTO,Trinidad y Tobago
-TTO,Trinidad y Tabago,otras_carnes,0.055310633,TTO,Trinidad y Tobago
-TTO,Trinidad y Tabago,pescado_mariscos,21.746298,TTO,Trinidad y Tobago
-TUN,Túnez,aviar,17.375578,TUN,Túnez
-TUN,Túnez,caprina_ovina,5.335119,TUN,Túnez
-TUN,Túnez,otras_carnes,0.2721008,TUN,Túnez
-TUN,Túnez,pescado_mariscos,13.653629,TUN,Túnez
-TUN,Túnez,porcina,0.009717885,TUN,Túnez
-TUN,Túnez,vacuna,3.5470283,TUN,Túnez
-TUR,Turquía,aviar,20.038383,TUR,Turquía
-TUR,Turquía,caprina_ovina,1.3031465,TUR,Turquía
-TUR,Turquía,otras_carnes,0.010024203,TUR,Turquía
-TUR,Turquía,pescado_mariscos,5.5333605,TUR,Turquía
-TUR,Turquía,porcina,0.0,TUR,Turquía
-TUR,Turquía,vacuna,15.988605,TUR,Turquía
-TWN,Taiwán,caprina_ovina,0.8298366,TWN,Taiwán
-TWN,Taiwán,porcina,38.34245,TWN,Taiwán
-TWN,Taiwán,vacuna,6.078803,TWN,Taiwán
-TWN,Taiwán,pescado_mariscos,29.754143,TWN,Taiwán
-TWN,Taiwán,otras_carnes,0.04999016,TWN,Taiwán
-TWN,Taiwán,aviar,41.631805,TWN,Taiwán
-TZA,Tanzania,porcina,0.2420172,TZA,Tanzanía
-TZA,Tanzania,vacuna,7.5702977,TZA,Tanzanía
-TZA,Tanzania,otras_carnes,0.3872275,TZA,Tanzanía
-TZA,Tanzania,pescado_mariscos,6.234363,TZA,Tanzanía
-TZA,Tanzania,caprina_ovina,1.1713632,TZA,Tanzanía
-TZA,Tanzania,aviar,1.4424225,TZA,Tanzanía
-UGA,Uganda,caprina_ovina,1.0197951,UGA,Uganda
-UGA,Uganda,porcina,2.9563756,UGA,Uganda
-UGA,Uganda,aviar,1.565746,UGA,Uganda
-UGA,Uganda,pescado_mariscos,14.771578,UGA,Uganda
-UGA,Uganda,vacuna,3.687744,UGA,Uganda
-UGA,Uganda,otras_carnes,0.0,UGA,Uganda
-UKR,Ucrania,aviar,24.750452,UKR,Ucrania
-UKR,Ucrania,porcina,16.66298,UKR,Ucrania
-UKR,Ucrania,vacuna,7.1811166,UKR,Ucrania
-UKR,Ucrania,otras_carnes,0.43823737,UKR,Ucrania
-UKR,Ucrania,caprina_ovina,0.25895843,UKR,Ucrania
-UKR,Ucrania,pescado_mariscos,13.704878,UKR,Ucrania
-URY,Uruguay,porcina,14.303827,URY,Uruguay
-URY,Uruguay,vacuna,19.682959,URY,Uruguay
-URY,Uruguay,aviar,21.30379,URY,Uruguay
-URY,Uruguay,caprina_ovina,2.5528076,URY,Uruguay
-URY,Uruguay,pescado_mariscos,9.258993,URY,Uruguay
-URY,Uruguay,otras_carnes,1.0332793,URY,Uruguay
-USA,Estados Unidos,porcina,30.189499,USA,Estados Unidos
-USA,Estados Unidos,vacuna,37.313194,USA,Estados Unidos
-USA,Estados Unidos,otras_carnes,0.7980906,USA,Estados Unidos
-USA,Estados Unidos,pescado_mariscos,22.45492,USA,Estados Unidos
-USA,Estados Unidos,aviar,57.82708,USA,Estados Unidos
-USA,Estados Unidos,caprina_ovina,0.6010312,USA,Estados Unidos
-UZB,Uzbekistán,pescado_mariscos,4.023093,UZB,Uzbekistán
-UZB,Uzbekistán,caprina_ovina,5.859939,UZB,Uzbekistán
-UZB,Uzbekistán,otras_carnes,0.19965722,UZB,Uzbekistán
-UZB,Uzbekistán,aviar,3.084704,UZB,Uzbekistán
-UZB,Uzbekistán,porcina,0.15972577,UZB,Uzbekistán
-UZB,Uzbekistán,vacuna,31.58577,UZB,Uzbekistán
-VCT,San Vicente y las Granadinas,otras_carnes,0.021203319,VCT,San Vicente y las Granadinas
-VCT,San Vicente y las Granadinas,aviar,79.14139,VCT,San Vicente y las Granadinas
-VCT,San Vicente y las Granadinas,caprina_ovina,0.69970953,VCT,San Vicente y las Granadinas
-VCT,San Vicente y las Granadinas,pescado_mariscos,20.588423,VCT,San Vicente y las Granadinas
-VCT,San Vicente y las Granadinas,vacuna,8.290498,VCT,San Vicente y las Granadinas
-VCT,San Vicente y las Granadinas,porcina,11.937469,VCT,San Vicente y las Granadinas
-VEN,Venezuela,pescado_mariscos,10.180481,VEN,Venezuela
-VEN,Venezuela,caprina_ovina,0.3393494,VEN,Venezuela
-VEN,Venezuela,porcina,4.4215226,VEN,Venezuela
-VEN,Venezuela,aviar,16.079172,VEN,Venezuela
-VEN,Venezuela,vacuna,11.997,VEN,Venezuela
-VEN,Venezuela,otras_carnes,0.0,VEN,Venezuela
-VNM,Vietnam,aviar,15.922855,VNM,Vietnam
-VNM,Vietnam,caprina_ovina,0.2215704,VNM,Vietnam
-VNM,Vietnam,otras_carnes,0.2819987,VNM,Vietnam
-VNM,Vietnam,pescado_mariscos,39.84239,VNM,Vietnam
-VNM,Vietnam,porcina,38.452538,VNM,Vietnam
-VNM,Vietnam,vacuna,6.1536145,VNM,Vietnam
-VUT,Vanuatu,aviar,14.406395,VUT,Vanuatu
-VUT,Vanuatu,vacuna,7.084951,VUT,Vanuatu
-VUT,Vanuatu,otras_carnes,0.10839285,VUT,Vanuatu
-VUT,Vanuatu,caprina_ovina,0.17737013,VUT,Vanuatu
-VUT,Vanuatu,porcina,12.199123,VUT,Vanuatu
-VUT,Vanuatu,pescado_mariscos,28.566442,VUT,Vanuatu
-WSM,Samoa,caprina_ovina,3.2124598,WSM,Samoa
-WSM,Samoa,porcina,11.308228,WSM,Samoa
-WSM,Samoa,aviar,60.602867,WSM,Samoa
-WSM,Samoa,pescado_mariscos,43.968235,WSM,Samoa
-WSM,Samoa,vacuna,6.378763,WSM,Samoa
-WSM,Samoa,otras_carnes,0.009231206,WSM,Samoa
-YEM,Yemen,aviar,10.365718,YEM,Yemen
-YEM,Yemen,caprina_ovina,4.028033,YEM,Yemen
-YEM,Yemen,porcina,0.0,YEM,Yemen
-YEM,Yemen,vacuna,2.799298,YEM,Yemen
-YEM,Yemen,otras_carnes,0.092386074,YEM,Yemen
-YEM,Yemen,pescado_mariscos,2.7346277,YEM,Yemen
-ZAF,Sudáfrica,caprina_ovina,2.8140445,ZAF,Sudáfrica
-ZAF,Sudáfrica,porcina,4.1857653,ZAF,Sudáfrica
-ZAF,Sudáfrica,vacuna,17.37849,ZAF,Sudáfrica
-ZAF,Sudáfrica,aviar,35.16043,ZAF,Sudáfrica
-ZAF,Sudáfrica,pescado_mariscos,6.515673,ZAF,Sudáfrica
-ZAF,Sudáfrica,otras_carnes,0.7463774,ZAF,Sudáfrica
-ZMB,Zambia,aviar,2.5641582,ZMB,Zambia
-ZMB,Zambia,caprina_ovina,0.50506145,ZMB,Zambia
-ZMB,Zambia,porcina,1.4957589,ZMB,Zambia
-ZMB,Zambia,vacuna,9.03283,ZMB,Zambia
-ZMB,Zambia,otras_carnes,2.1367984,ZMB,Zambia
-ZMB,Zambia,pescado_mariscos,12.684813,ZMB,Zambia
-ZWE,Zimbabwe,aviar,4.382142,ZWE,Zimbabwe
-ZWE,Zimbabwe,caprina_ovina,1.7642391,ZWE,Zimbabwe
-ZWE,Zimbabwe,porcina,0.6449906,ZWE,Zimbabwe
-ZWE,Zimbabwe,vacuna,40.122208,ZWE,Zimbabwe
-ZWE,Zimbabwe,otras_carnes,2.3333485,ZWE,Zimbabwe
-ZWE,Zimbabwe,pescado_mariscos,2.8170915,ZWE,Zimbabwe
+"iso3","iso3_desc_fundar","tipo_carne","valor"
+"AFG","Afganistán","pescado_mariscos",0.35959464
+"AFG","Afganistán","otras_carnes",0.2996622
+"AFG","Afganistán","aviar",1.7080745
+"AFG","Afganistán","caprina_ovina",4.035451
+"AFG","Afganistán","porcina",0
+"AFG","Afganistán","vacuna",3.226363
+"AGO","Angola","pescado_mariscos",13.902185
+"AGO","Angola","caprina_ovina",0.73738605
+"AGO","Angola","otras_carnes",0.29495442
+"AGO","Angola","aviar",8.268556
+"AGO","Angola","porcina",6.921597
+"AGO","Angola","vacuna",3.3723123
+"ALB","Albania","porcina",5.2700524
+"ALB","Albania","vacuna",11.694497
+"ALB","Albania","otras_carnes",0
+"ALB","Albania","pescado_mariscos",8.683039
+"ALB","Albania","caprina_ovina",8.29155
+"ALB","Albania","aviar",13.993244
+"ARE","Emiratos Árabes Unidos","caprina_ovina",7.944451
+"ARE","Emiratos Árabes Unidos","porcina",NA
+"ARE","Emiratos Árabes Unidos","vacuna",7.145746
+"ARE","Emiratos Árabes Unidos","pescado_mariscos",27.017523
+"ARE","Emiratos Árabes Unidos","otras_carnes",3.0883255
+"ARE","Emiratos Árabes Unidos","aviar",33.162224
+"ARG","Argentina","pescado_mariscos",6.804048
+"ARG","Argentina","caprina_ovina",1.4250365
+"ARG","Argentina","porcina",14.471147
+"ARG","Argentina","aviar",46.39397
+"ARG","Argentina","vacuna",47.096455
+"ARG","Argentina","otras_carnes",1.1540788
+"ARM","Armenia","aviar",16.149052
+"ARM","Armenia","caprina_ovina",3.7917
+"ARM","Armenia","otras_carnes",0.021123677
+"ARM","Armenia","pescado_mariscos",5.7878876
+"ARM","Armenia","porcina",8.586775
+"ARM","Armenia","vacuna",25.242794
+"ATG","Antigua y Barbuda","aviar",65.26412
+"ATG","Antigua y Barbuda","vacuna",5.3259583
+"ATG","Antigua y Barbuda","otras_carnes",0.052836888
+"ATG","Antigua y Barbuda","caprina_ovina",1.035603
+"ATG","Antigua y Barbuda","porcina",15.121918
+"ATG","Antigua y Barbuda","pescado_mariscos",57.116673
+"AUS","Australia","pescado_mariscos",23.940237
+"AUS","Australia","caprina_ovina",10.549598
+"AUS","Australia","porcina",24.07931
+"AUS","Australia","vacuna",36.77459
+"AUS","Australia","aviar",48.40696
+"AUS","Australia","otras_carnes",0.9139012
+"AUT","Austria","caprina_ovina",1.051514
+"AUT","Austria","porcina",45.528538
+"AUT","Austria","vacuna",15.024519
+"AUT","Austria","pescado_mariscos",14.448209
+"AUT","Austria","otras_carnes",0.33365354
+"AUT","Austria","aviar",15.833376
+"AZE","Azerbaiyán","aviar",14.21562
+"AZE","Azerbaiyán","caprina_ovina",8.290802
+"AZE","Azerbaiyán","vacuna",13.279085
+"AZE","Azerbaiyán","otras_carnes",0
+"AZE","Azerbaiyán","pescado_mariscos",2.0110862
+"AZE","Azerbaiyán","porcina",0.57177943
+"BDI","Burundi","caprina_ovina",0.70058936
+"BDI","Burundi","porcina",0.8270846
+"BDI","Burundi","vacuna",0.89519745
+"BDI","Burundi","aviar",0.5449028
+"BDI","Burundi","pescado_mariscos",2.5299058
+"BDI","Burundi","otras_carnes",0.06811285
+"BEL","Bélgica","aviar",12.470023
+"BEL","Bélgica","caprina_ovina",1.2830893
+"BEL","Bélgica","otras_carnes",1.3532583
+"BEL","Bélgica","pescado_mariscos",22.754787
+"BEL","Bélgica","porcina",32.87916
+"BEL","Bélgica","vacuna",14.013741
+"BEN","Benin","caprina_ovina",0.76710176
+"BEN","Benin","porcina",0.7095691
+"BEN","Benin","aviar",8.332643
+"BEN","Benin","pescado_mariscos",15.552987
+"BEN","Benin","vacuna",3.490313
+"BEN","Benin","otras_carnes",0.6520365
+"BFA","Burkina Faso","aviar",9.207191
+"BFA","Burkina Faso","caprina_ovina",3.7392075
+"BFA","Burkina Faso","otras_carnes",0.3884891
+"BFA","Burkina Faso","pescado_mariscos",8.663307
+"BFA","Burkina Faso","porcina",14.772298
+"BFA","Burkina Faso","vacuna",5.1571927
+"BGD","Bangladesh","pescado_mariscos",26.27421
+"BGD","Bangladesh","vacuna",1.2296056
+"BGD","Bangladesh","otras_carnes",0
+"BGD","Bangladesh","aviar",1.6132424
+"BGD","Bangladesh","caprina_ovina",1.4165056
+"BGD","Bangladesh","porcina",0
+"BGR","Bulgaria","pescado_mariscos",7.327582
+"BGR","Bulgaria","caprina_ovina",1.284318
+"BGR","Bulgaria","porcina",29.907684
+"BGR","Bulgaria","aviar",21.385387
+"BGR","Bulgaria","vacuna",3.434804
+"BGR","Bulgaria","otras_carnes",0.6770048
+"BHR","Bahrein","caprina_ovina",24.680475
+"BHR","Bahrein","porcina",0.86375904
+"BHR","Bahrein","aviar",50.61628
+"BHR","Bahrein","otras_carnes",0.9328598
+"BHR","Bahrein","pescado_mariscos",18.74933
+"BHR","Bahrein","vacuna",15.766481
+"BHS","Bahamas","porcina",22.995869
+"BHS","Bahamas","vacuna",5.030648
+"BHS","Bahamas","otras_carnes",0.04837162
+"BHS","Bahamas","pescado_mariscos",23.421537
+"BHS","Bahamas","caprina_ovina",1.5962634
+"BHS","Bahamas","aviar",52.628323
+"BIH","Bosnia y Herzegovina","aviar",19.783333
+"BIH","Bosnia y Herzegovina","caprina_ovina",0.2966017
+"BIH","Bosnia y Herzegovina","pescado_mariscos",7.187648
+"BIH","Bosnia y Herzegovina","porcina",9.184766
+"BIH","Bosnia y Herzegovina","vacuna",12.694552
+"BIH","Bosnia y Herzegovina","otras_carnes",0.3361486
+"BLR","Belarús","aviar",31.603193
+"BLR","Belarús","caprina_ovina",0.11770277
+"BLR","Belarús","otras_carnes",0.24521409
+"BLR","Belarús","pescado_mariscos",11.623149
+"BLR","Belarús","porcina",38.429955
+"BLR","Belarús","vacuna",18.263546
+"BLZ","Belice","caprina_ovina",0.060410045
+"BLZ","Belice","porcina",20.952217
+"BLZ","Belice","vacuna",3.6246028
+"BLZ","Belice","aviar",23.97272
+"BLZ","Belice","pescado_mariscos",13.35062
+"BLZ","Belice","otras_carnes",0.22150351
+"BOL","Bolivia","caprina_ovina",3.0707743
+"BOL","Bolivia","porcina",9.515489
+"BOL","Bolivia","vacuna",21.123798
+"BOL","Bolivia","pescado_mariscos",2.73827
+"BOL","Bolivia","otras_carnes",1.7603165
+"BOL","Bolivia","aviar",39.959187
+"BRA","Brasil","aviar",48.245445
+"BRA","Brasil","vacuna",35.30422
+"BRA","Brasil","otras_carnes",0.50847644
+"BRA","Brasil","caprina_ovina",0.64805824
+"BRA","Brasil","porcina",14.14761
+"BRA","Brasil","pescado_mariscos",8.055862
+"BRB","Barbados","porcina",12.613008
+"BRB","Barbados","vacuna",8.200502
+"BRB","Barbados","aviar",50.45203
+"BRB","Barbados","caprina_ovina",3.388722
+"BRB","Barbados","otras_carnes",0.061426982
+"BRB","Barbados","pescado_mariscos",43.879345
+"BTN","Bhután","aviar",4.5846405
+"BTN","Bhután","porcina",1.8877932
+"BTN","Bhután","vacuna",9.279153
+"BTN","Bhután","otras_carnes",NA
+"BTN","Bhután","caprina_ovina",0.28966138
+"BTN","Bhután","pescado_mariscos",7.311453
+"BWA","Botswana","porcina",0.44328484
+"BWA","Botswana","vacuna",9.429038
+"BWA","Botswana","otras_carnes",10.943595
+"BWA","Botswana","pescado_mariscos",2.3918912
+"BWA","Botswana","aviar",3.2599907
+"BWA","Botswana","caprina_ovina",2.2903051
+"CAF","República Centroafricana","pescado_mariscos",6.6620336
+"CAF","República Centroafricana","vacuna",18.756742
+"CAF","República Centroafricana","otras_carnes",4.2033186
+"CAF","República Centroafricana","aviar",2.3050454
+"CAF","República Centroafricana","caprina_ovina",5.1614943
+"CAF","República Centroafricana","porcina",3.7242303
+"CAN","Canadá","porcina",21.307262
+"CAN","Canadá","vacuna",27.39363
+"CAN","Canadá","otras_carnes",0.49806598
+"CAN","Canadá","caprina_ovina",1.0558999
+"CAN","Canadá","aviar",39.94489
+"CAN","Canadá","pescado_mariscos",20.649815
+"CHE","Suiza","aviar",16.921305
+"CHE","Suiza","vacuna",19.15544
+"CHE","Suiza","otras_carnes",1.0719832
+"CHE","Suiza","caprina_ovina",1.3725392
+"CHE","Suiza","porcina",27.83149
+"CHE","Suiza","pescado_mariscos",16.029655
+"CHL","Chile","pescado_mariscos",14.6291
+"CHL","Chile","caprina_ovina",0.42589796
+"CHL","Chile","otras_carnes",0.8517959
+"CHL","Chile","aviar",35.706093
+"CHL","Chile","porcina",21.83965
+"CHL","Chile","vacuna",23.424387
+"CHN","China","aviar",15.13132
+"CHN","China","vacuna",6.737377
+"CHN","China","otras_carnes",0.52525276
+"CHN","China","caprina_ovina",3.7979817
+"CHN","China","porcina",35.696987
+"CHN","China","pescado_mariscos",40.333355
+"CIV","Costa de Marfil","aviar",2.8826246
+"CIV","Costa de Marfil","caprina_ovina",0.6788433
+"CIV","Costa de Marfil","vacuna",1.3872015
+"CIV","Costa de Marfil","otras_carnes",5.706219
+"CIV","Costa de Marfil","pescado_mariscos",22.795362
+"CIV","Costa de Marfil","porcina",0.9936692
+"CMR","Camerún","aviar",3.3068225
+"CMR","Camerún","caprina_ovina",1.292667
+"CMR","Camerún","porcina",1.2425637
+"CMR","Camerún","vacuna",3.0563056
+"CMR","Camerún","otras_carnes",2.7556856
+"CMR","Camerún","pescado_mariscos",19.179571
+"COD","República Democrática del Congo","caprina_ovina",0.2122007
+"COD","República Democrática del Congo","porcina",0.49191982
+"COD","República Democrática del Congo","vacuna",0.25078264
+"COD","República Democrática del Congo","aviar",1.2153313
+"COD","República Democrática del Congo","pescado_mariscos",4.022168
+"COD","República Democrática del Congo","otras_carnes",0.96454865
+"COG","Congo","aviar",22.460672
+"COG","Congo","porcina",6.56111
+"COG","Congo","vacuna",1.8676906
+"COG","Congo","otras_carnes",7.5481796
+"COG","Congo","caprina_ovina",0.28063744
+"COG","Congo","pescado_mariscos",23.670317
+"COL","Colombia","aviar",33.748318
+"COL","Colombia","caprina_ovina",0.019981243
+"COL","Colombia","porcina",10.510135
+"COL","Colombia","pescado_mariscos",8.881663
+"COL","Colombia","otras_carnes",0.10989684
+"COL","Colombia","vacuna",13.667171
+"COM","Comoras","caprina_ovina",0.64721
+"COM","Comoras","porcina",0.12944199
+"COM","Comoras","aviar",28.865566
+"COM","Comoras","pescado_mariscos",15.435959
+"COM","Comoras","vacuna",3.2684104
+"COM","Comoras","otras_carnes",0.6903573
+"CPV","Cabo Verde","caprina_ovina",1.8130751
+"CPV","Cabo Verde","porcina",6.966026
+"CPV","Cabo Verde","aviar",18.512451
+"CPV","Cabo Verde","otras_carnes",0.038170002
+"CPV","Cabo Verde","pescado_mariscos",10.305901
+"CPV","Cabo Verde","vacuna",1.6413102
+"CRI","Costa Rica","caprina_ovina",0.009943419
+"CRI","Costa Rica","porcina",12.667916
+"CRI","Costa Rica","vacuna",11.345441
+"CRI","Costa Rica","pescado_mariscos",17.848438
+"CRI","Costa Rica","otras_carnes",0
+"CRI","Costa Rica","aviar",34.095985
+"CUB","Cuba","caprina_ovina",1.0223399
+"CUB","Cuba","porcina",21.659576
+"CUB","Cuba","aviar",37.786488
+"CUB","Cuba","vacuna",7.4169765
+"CUB","Cuba","otras_carnes",3.8488092
+"CUB","Cuba","pescado_mariscos",6.073902
+"CYP","Chipre","vacuna",5.74636
+"CYP","Chipre","aviar",27.658627
+"CYP","Chipre","otras_carnes",0.41951355
+"CYP","Chipre","pescado_mariscos",24.858616
+"CYP","Chipre","caprina_ovina",4.019525
+"CYP","Chipre","porcina",35.88304
+"CZE","Chequia","aviar",23.927784
+"CZE","Chequia","caprina_ovina",0.30507162
+"CZE","Chequia","otras_carnes",0.6304813
+"CZE","Chequia","pescado_mariscos",10.63683
+"CZE","Chequia","porcina",45.292965
+"CZE","Chequia","vacuna",10.362266
+"DEU","Alemania","caprina_ovina",0.96524125
+"DEU","Alemania","porcina",44.25028
+"DEU","Alemania","vacuna",14.69982
+"DEU","Alemania","pescado_mariscos",12.658737
+"DEU","Alemania","otras_carnes",0.8345315
+"DEU","Alemania","aviar",18.44013
+"DJI","Djibouti","aviar",3.289823
+"DJI","Djibouti","porcina",0.11781735
+"DJI","Djibouti","vacuna",5.655233
+"DJI","Djibouti","otras_carnes",0.68877834
+"DJI","Djibouti","caprina_ovina",4.159859
+"DJI","Djibouti","pescado_mariscos",3.1901314
+"DMA","Dominica","caprina_ovina",1.0796851
+"DMA","Dominica","porcina",11.436663
+"DMA","Dominica","vacuna",8.137627
+"DMA","Dominica","pescado_mariscos",27.851875
+"DMA","Dominica","otras_carnes",0.03998833
+"DMA","Dominica","aviar",39.348522
+"DNK","Dinamarca","caprina_ovina",0.6661544
+"DNK","Dinamarca","porcina",13.392686
+"DNK","Dinamarca","aviar",24.419031
+"DNK","Dinamarca","pescado_mariscos",26.298183
+"DNK","Dinamarca","vacuna",24.190351
+"DNK","Dinamarca","otras_carnes",0.63632655
+"DOM","República Dominicana","aviar",31.75575
+"DOM","República Dominicana","caprina_ovina",0.17751662
+"DOM","República Dominicana","porcina",9.714104
+"DOM","República Dominicana","vacuna",6.2032194
+"DOM","República Dominicana","otras_carnes",0.039448135
+"DOM","República Dominicana","pescado_mariscos",8.372867
+"DZA","Argelia","porcina",0.020183822
+"DZA","Argelia","vacuna",3.865202
+"DZA","Argelia","aviar",6.4386396
+"DZA","Argelia","caprina_ovina",8.134081
+"DZA","Argelia","pescado_mariscos",3.8147426
+"DZA","Argelia","otras_carnes",0.32294115
+"ECU","Ecuador","porcina",12.929908
+"ECU","Ecuador","vacuna",13.301054
+"ECU","Ecuador","aviar",18.938452
+"ECU","Ecuador","caprina_ovina",0.31095976
+"ECU","Ecuador","pescado_mariscos",8.24545
+"ECU","Ecuador","otras_carnes",0.06018576
+"EGY","Egipto","pescado_mariscos",25.796637
+"EGY","Egipto","caprina_ovina",0.5713541
+"EGY","Egipto","otras_carnes",0.88559884
+"EGY","Egipto","aviar",13.64584
+"EGY","Egipto","porcina",0.0095225675
+"EGY","Egipto","vacuna",7.0467005
+"ESP","España","porcina",51.88416
+"ESP","España","vacuna",12.131969
+"ESP","España","otras_carnes",1.5004551
+"ESP","España","caprina_ovina",1.8755689
+"ESP","España","aviar",33.167953
+"ESP","España","pescado_mariscos",40.295116
+"EST","Estonia","pescado_mariscos",14.617944
+"EST","Estonia","caprina_ovina",0.4091029
+"EST","Estonia","porcina",37.64744
+"EST","Estonia","aviar",21.00394
+"EST","Estonia","vacuna",8.471423
+"EST","Estonia","otras_carnes",0.10975931
+"ETH","Etiopía","pescado_mariscos",0.5297368
+"ETH","Etiopía","caprina_ovina",2.344576
+"ETH","Etiopía","porcina",0.01961988
+"ETH","Etiopía","vacuna",3.6885376
+"ETH","Etiopía","aviar",0.57878643
+"ETH","Etiopía","otras_carnes",1.1085232
+"FIN","Finlandia","aviar",21.122896
+"FIN","Finlandia","caprina_ovina",0.4609361
+"FIN","Finlandia","vacuna",18.417402
+"FIN","Finlandia","otras_carnes",0.6613431
+"FIN","Finlandia","pescado_mariscos",33.51807
+"FIN","Finlandia","porcina",30.862677
+"FJI","Fiji","caprina_ovina",5.064524
+"FJI","Fiji","porcina",3.5938644
+"FJI","Fiji","vacuna",3.028975
+"FJI","Fiji","pescado_mariscos",28.887266
+"FJI","Fiji","otras_carnes",0.1266131
+"FJI","Fiji","aviar",28.010715
+"FRA","Francia","porcina",31.3511
+"FRA","Francia","vacuna",21.015463
+"FRA","Francia","otras_carnes",1.1439052
+"FRA","Francia","pescado_mariscos",33.638912
+"FRA","Francia","caprina_ovina",2.4396563
+"FRA","Francia","aviar",23.252657
+"FSM","Micronesia","pescado_mariscos",48.605923
+"FSM","Micronesia","caprina_ovina",0.19491611
+"FSM","Micronesia","porcina",16.56787
+"FSM","Micronesia","vacuna",4.97549
+"FSM","Micronesia","aviar",39.137104
+"FSM","Micronesia","otras_carnes",0.010258743
+"GAB","Gabón","pescado_mariscos",27.863092
+"GAB","Gabón","vacuna",4.553237
+"GAB","Gabón","otras_carnes",13.3005
+"GAB","Gabón","aviar",38.57145
+"GAB","Gabón","caprina_ovina",0.5727952
+"GAB","Gabón","porcina",8.048259
+"GBR","Reino Unido","aviar",33.13341
+"GBR","Reino Unido","caprina_ovina",3.988562
+"GBR","Reino Unido","porcina",24.336304
+"GBR","Reino Unido","vacuna",17.563847
+"GBR","Reino Unido","otras_carnes",1.0528184
+"GBR","Reino Unido","pescado_mariscos",18.130749
+"GEO","Georgia","otras_carnes",0.59319896
+"GEO","Georgia","pescado_mariscos",10.614025
+"GEO","Georgia","aviar",19.310745
+"GEO","Georgia","caprina_ovina",1.3029191
+"GEO","Georgia","vacuna",6.1332536
+"GEO","Georgia","porcina",9.830154
+"GHA","Ghana","aviar",11.171827
+"GHA","Ghana","caprina_ovina",1.7380544
+"GHA","Ghana","vacuna",1.496658
+"GHA","Ghana","otras_carnes",2.3560295
+"GHA","Ghana","pescado_mariscos",24.08171
+"GHA","Ghana","porcina",1.1297354
+"GIN","Guinea","porcina",0.21879451
+"GIN","Guinea","vacuna",8.174959
+"GIN","Guinea","aviar",2.65537
+"GIN","Guinea","caprina_ovina",2.2973423
+"GIN","Guinea","otras_carnes",0.47736984
+"GIN","Guinea","pescado_mariscos",9.646849
+"GMB","Gambia","porcina",0.2628851
+"GMB","Gambia","vacuna",3.210954
+"GMB","Gambia","aviar",9.961468
+"GMB","Gambia","caprina_ovina",0.5257702
+"GMB","Gambia","otras_carnes",0.5445477
+"GMB","Gambia","pescado_mariscos",23.640882
+"GNB","Guinea-Bissau","aviar",3.026432
+"GNB","Guinea-Bissau","caprina_ovina",1.2593863
+"GNB","Guinea-Bissau","otras_carnes",0
+"GNB","Guinea-Bissau","pescado_mariscos",1.1422341
+"GNB","Guinea-Bissau","porcina",7.0584207
+"GNB","Guinea-Bissau","vacuna",3.6219559
+"GRC","Grecia","porcina",24.817656
+"GRC","Grecia","vacuna",14.386902
+"GRC","Grecia","otras_carnes",1.7946445
+"GRC","Grecia","pescado_mariscos",21.535734
+"GRC","Grecia","caprina_ovina",7.4958634
+"GRC","Grecia","aviar",25.372904
+"GRD","Granada","caprina_ovina",1.2737564
+"GRD","Granada","porcina",13.292557
+"GRD","Granada","aviar",34.045685
+"GRD","Granada","otras_carnes",0
+"GRD","Granada","pescado_mariscos",30.779413
+"GRD","Granada","vacuna",3.7211883
+"GTM","Guatemala","pescado_mariscos",3.0748875
+"GTM","Guatemala","vacuna",12.020952
+"GTM","Guatemala","otras_carnes",0.1444578
+"GTM","Guatemala","aviar",29.593214
+"GTM","Guatemala","caprina_ovina",0.13413939
+"GTM","Guatemala","porcina",3.755903
+"GUY","Guyana","aviar",40.8367
+"GUY","Guyana","caprina_ovina",1.0655627
+"GUY","Guyana","otras_carnes",0.12826216
+"GUY","Guyana","pescado_mariscos",24.636202
+"GUY","Guyana","porcina",4.952893
+"GUY","Guyana","vacuna",4.1241217
+"HKG","Hong Kong","aviar",55.490578
+"HKG","Hong Kong","porcina",55.210728
+"HKG","Hong Kong","vacuna",22.51806
+"HKG","Hong Kong","otras_carnes",2.0888925
+"HKG","Hong Kong","caprina_ovina",0.9295072
+"HKG","Hong Kong","pescado_mariscos",65.78512
+"HND","Honduras","caprina_ovina",0.02935638
+"HND","Honduras","porcina",4.931872
+"HND","Honduras","aviar",21.156166
+"HND","Honduras","pescado_mariscos",2.5246487
+"HND","Honduras","vacuna",5.900633
+"HND","Honduras","otras_carnes",0.09785461
+"HRV","Croacia","porcina",49.731735
+"HRV","Croacia","vacuna",11.263041
+"HRV","Croacia","otras_carnes",0.6713734
+"HRV","Croacia","pescado_mariscos",19.139153
+"HRV","Croacia","caprina_ovina",1.4529723
+"HRV","Croacia","aviar",16.583925
+"HTI","Haití","caprina_ovina",0.5445718
+"HTI","Haití","porcina",4.0641193
+"HTI","Haití","vacuna",4.2758965
+"HTI","Haití","aviar",10.941859
+"HTI","Haití","pescado_mariscos",5.0322466
+"HTI","Haití","otras_carnes",0.37313253
+"HUN","Hungría","caprina_ovina",0.07925976
+"HUN","Hungría","porcina",47.85308
+"HUN","Hungría","vacuna",4.5078993
+"HUN","Hungría","pescado_mariscos",6.2912436
+"HUN","Hungría","otras_carnes",0.23777929
+"HUN","Hungría","aviar",29.484632
+"IDN","Indonesia","porcina",0.8954529
+"IDN","Indonesia","vacuna",2.8171551
+"IDN","Indonesia","aviar",13.773876
+"IDN","Indonesia","caprina_ovina",0.50306344
+"IDN","Indonesia","pescado_mariscos",44.712276
+"IDN","Indonesia","otras_carnes",0.010061269
+"IND","India","porcina",0.23718427
+"IND","India","vacuna",1.1266253
+"IND","India","otras_carnes",0
+"IND","India","pescado_mariscos",7.886377
+"IND","India","aviar",2.5694962
+"IND","India","caprina_ovina",0.5929607
+"IRL","Irlanda","pescado_mariscos",22.521992
+"IRL","Irlanda","caprina_ovina",2.9849627
+"IRL","Irlanda","porcina",31.057589
+"IRL","Irlanda","aviar",24.678352
+"IRL","Irlanda","vacuna",19.786608
+"IRL","Irlanda","otras_carnes",0.5590565
+"IRN","Irán","pescado_mariscos",12.143301
+"IRN","Irán","caprina_ovina",4.1953087
+"IRN","Irán","otras_carnes",0.10584494
+"IRN","Irán","aviar",25.008272
+"IRN","Irán","porcina",0
+"IRN","Irán","vacuna",7.2648115
+"IRQ","Iraq","aviar",4.361398
+"IRQ","Iraq","vacuna",2.4968598
+"IRQ","Iraq","otras_carnes",0.04053344
+"IRQ","Iraq","caprina_ovina",1.3538169
+"IRQ","Iraq","porcina",0
+"IRQ","Iraq","pescado_mariscos",2.9184074
+"ISL","Islandia","aviar",27.946386
+"ISL","Islandia","caprina_ovina",20.240889
+"ISL","Islandia","porcina",20.28742
+"ISL","Islandia","vacuna",13.028619
+"ISL","Islandia","otras_carnes",2.4754376
+"ISL","Islandia","pescado_mariscos",84.30447
+"ISR","Israel","aviar",68.1275
+"ISR","Israel","caprina_ovina",1.6802082
+"ISR","Israel","otras_carnes",0.009883577
+"ISR","Israel","pescado_mariscos",24.432203
+"ISR","Israel","porcina",1.5319545
+"ISR","Israel","vacuna",26.863564
+"ITA","Italia","pescado_mariscos",29.64125
+"ITA","Italia","aviar",19.936968
+"ITA","Italia","caprina_ovina",0.7722781
+"ITA","Italia","porcina",33.41119
+"ITA","Italia","vacuna",16.116224
+"ITA","Italia","otras_carnes",1.0872862
+"JAM","Jamaica","porcina",3.2021863
+"JAM","Jamaica","vacuna",4.0211062
+"JAM","Jamaica","otras_carnes",0.020997943
+"JAM","Jamaica","caprina_ovina",0.74542695
+"JAM","Jamaica","aviar",56.599957
+"JAM","Jamaica","pescado_mariscos",26.415413
+"JOR","Jordania","pescado_mariscos",4.789403
+"JOR","Jordania","vacuna",6.3671985
+"JOR","Jordania","otras_carnes",0.06535248
+"JOR","Jordania","aviar",24.357801
+"JOR","Jordania","caprina_ovina",4.378616
+"JOR","Jordania","porcina",0.009336067
+"JPN","Japón","caprina_ovina",0.15147516
+"JPN","Japón","porcina",21.539766
+"JPN","Japón","aviar",22.49911
+"JPN","Japón","otras_carnes",0.10098343
+"JPN","Japón","pescado_mariscos",46.654346
+"JPN","Japón","vacuna",9.6540165
+"KAZ","Kazajistán","porcina",8.122386
+"KAZ","Kazajistán","vacuna",26.296349
+"KAZ","Kazajistán","aviar",21.013334
+"KAZ","Kazajistán","caprina_ovina",9.072142
+"KAZ","Kazajistán","pescado_mariscos",2.7305465
+"KAZ","Kazajistán","otras_carnes",6.6285
+"KEN","Kenia","pescado_mariscos",2.9789176
+"KEN","Kenia","caprina_ovina",2.8444524
+"KEN","Kenia","otras_carnes",1.7894192
+"KEN","Kenia","aviar",1.3549936
+"KEN","Kenia","porcina",0.42408198
+"KEN","Kenia","vacuna",4.6855893
+"KGZ","Kirguistán","caprina_ovina",8.580612
+"KGZ","Kirguistán","porcina",2.1527689
+"KGZ","Kirguistán","aviar",5.2296042
+"KGZ","Kirguistán","pescado_mariscos",1.0966938
+"KGZ","Kirguistán","vacuna",15.079538
+"KGZ","Kirguistán","otras_carnes",1.5434947
+"KHM","Camboya","caprina_ovina",0.010196444
+"KHM","Camboya","porcina",6.036295
+"KHM","Camboya","aviar",2.8142185
+"KHM","Camboya","pescado_mariscos",46.64873
+"KHM","Camboya","vacuna",4.2723103
+"KHM","Camboya","otras_carnes",0
+"KIR","Kiribati","aviar",25.151245
+"KIR","Kiribati","vacuna",1.813383
+"KIR","Kiribati","otras_carnes",0.16055995
+"KIR","Kiribati","caprina_ovina",0.11333644
+"KIR","Kiribati","porcina",9.765823
+"KIR","Kiribati","pescado_mariscos",69.22023
+"KNA","Saint Kitts y Nevis","pescado_mariscos",43.349308
+"KNA","Saint Kitts y Nevis","vacuna",3.2813327
+"KNA","Saint Kitts y Nevis","otras_carnes",0.02232199
+"KNA","Saint Kitts y Nevis","aviar",54.38753
+"KNA","Saint Kitts y Nevis","caprina_ovina",2.7567658
+"KNA","Saint Kitts y Nevis","porcina",17.321865
+"KOR","Corea del Sur","caprina_ovina",0.36589277
+"KOR","Corea del Sur","porcina",37.973736
+"KOR","Corea del Sur","aviar",22.50735
+"KOR","Corea del Sur","pescado_mariscos",54.656467
+"KOR","Corea del Sur","vacuna",16.712399
+"KOR","Corea del Sur","otras_carnes",0.09888994
+"KWT","Kuwait","aviar",45.590473
+"KWT","Kuwait","caprina_ovina",13.7701845
+"KWT","Kuwait","porcina",0
+"KWT","Kuwait","pescado_mariscos",13.691833
+"KWT","Kuwait","otras_carnes",2.6149638
+"KWT","Kuwait","vacuna",9.196446
+"LAO","Laos","aviar",6.5405912
+"LAO","Laos","porcina",13.439027
+"LAO","Laos","vacuna",8.319871
+"LAO","Laos","otras_carnes",0.13916153
+"LAO","Laos","caprina_ovina",0.3777241
+"LAO","Laos","pescado_mariscos",24.005362
+"LBN","Líbano","aviar",22.394203
+"LBN","Líbano","caprina_ovina",1.3740253
+"LBN","Líbano","vacuna",11.112732
+"LBN","Líbano","otras_carnes",0
+"LBN","Líbano","pescado_mariscos",10.51009
+"LBN","Líbano","porcina",0.662907
+"LBR","Liberia","caprina_ovina",0.44735435
+"LBR","Liberia","porcina",5.258899
+"LBR","Liberia","aviar",11.253448
+"LBR","Liberia","vacuna",0.41753075
+"LBR","Liberia","otras_carnes",1.6005346
+"LBR","Liberia","pescado_mariscos",4.2747197
+"LBY","Libia","aviar",33.912685
+"LBY","Libia","vacuna",2.9947255
+"LBY","Libia","otras_carnes",0.6918849
+"LBY","Libia","pescado_mariscos",14.725788
+"LBY","Libia","caprina_ovina",5.9687977
+"LBY","Libia","porcina",0.020653278
+"LCA","Santa Lucía","porcina",15.305488
+"LCA","Santa Lucía","vacuna",3.8417392
+"LCA","Santa Lucía","aviar",58.988625
+"LCA","Santa Lucía","caprina_ovina",2.038683
+"LCA","Santa Lucía","otras_carnes",0
+"LCA","Santa Lucía","pescado_mariscos",34.44247
+"LKA","Sri Lanka","caprina_ovina",0.08874906
+"LKA","Sri Lanka","porcina",0.059166037
+"LKA","Sri Lanka","aviar",10.265307
+"LKA","Sri Lanka","otras_carnes",0
+"LKA","Sri Lanka","pescado_mariscos",28.567335
+"LKA","Sri Lanka","vacuna",1.2129037
+"LSO","Lesotho","porcina",3.601931
+"LSO","Lesotho","vacuna",1.8627402
+"LSO","Lesotho","otras_carnes",3.2407877
+"LSO","Lesotho","pescado_mariscos",2.8511329
+"LSO","Lesotho","caprina_ovina",0.41816616
+"LSO","Lesotho","aviar",1.9957929
+"LTU","Lituania","aviar",32.114166
+"LTU","Lituania","vacuna",5.656418
+"LTU","Lituania","otras_carnes",0.5598502
+"LTU","Lituania","caprina_ovina",0.4633243
+"LTU","Lituania","porcina",48.928978
+"LTU","Lituania","pescado_mariscos",31.892159
+"LUX","Luxemburgo","pescado_mariscos",31.467758
+"LUX","Luxemburgo","caprina_ovina",1.1320051
+"LUX","Luxemburgo","porcina",32.90759
+"LUX","Luxemburgo","aviar",17.963135
+"LUX","Luxemburgo","vacuna",25.519766
+"LUX","Luxemburgo","otras_carnes",0.8638987
+"LVA","Letonia","caprina_ovina",0.39771077
+"LVA","Letonia","porcina",38.22
+"LVA","Letonia","vacuna",5.2696676
+"LVA","Letonia","pescado_mariscos",24.866865
+"LVA","Letonia","otras_carnes",0.37782523
+"LVA","Letonia","aviar",26.079882
+"MAC","Macao","aviar",43.74464
+"MAC","Macao","caprina_ovina",0.70091283
+"MAC","Macao","otras_carnes",1.0657716
+"MAC","Macao","pescado_mariscos",70.26411
+"MAC","Macao","porcina",45.021645
+"MAC","Macao","vacuna",9.006249
+"MAR","Marruecos","caprina_ovina",5.191193
+"MAR","Marruecos","porcina",0.020120904
+"MAR","Marruecos","aviar",24.135023
+"MAR","Marruecos","otras_carnes",1.7203373
+"MAR","Marruecos","pescado_mariscos",18.48105
+"MAR","Marruecos","vacuna",7.776729
+"MDA","Moldavia","caprina_ovina",0.20922703
+"MDA","Moldavia","porcina",25.068014
+"MDA","Moldavia","vacuna",2.5107243
+"MDA","Moldavia","pescado_mariscos",15.247419
+"MDA","Moldavia","otras_carnes",0.20922703
+"MDA","Moldavia","aviar",22.491907
+"MDG","Madagascar","caprina_ovina",0.15697199
+"MDG","Madagascar","porcina",0.9614535
+"MDG","Madagascar","vacuna",1.2361544
+"MDG","Madagascar","aviar",3.0707648
+"MDG","Madagascar","pescado_mariscos",3.885057
+"MDG","Madagascar","otras_carnes",0.2943225
+"MDV","Maldivas","porcina",0.37825644
+"MDV","Maldivas","vacuna",6.209709
+"MDV","Maldivas","otras_carnes",0.15760684
+"MDV","Maldivas","pescado_mariscos",87.30368
+"MDV","Maldivas","caprina_ovina",0.68296295
+"MDV","Maldivas","aviar",11.589356
+"MEX","México","aviar",36.766796
+"MEX","México","caprina_ovina",0.8390975
+"MEX","México","otras_carnes",0.64467245
+"MEX","México","pescado_mariscos",13.947438
+"MEX","México","porcina",19.524366
+"MEX","México","vacuna",14.929796
+"MKD","Macedonia del Norte","caprina_ovina",0.6118625
+"MKD","Macedonia del Norte","porcina",12.454363
+"MKD","Macedonia del Norte","aviar",19.7375
+"MKD","Macedonia del Norte","pescado_mariscos",6.128494
+"MKD","Macedonia del Norte","vacuna",6.750225
+"MKD","Macedonia del Norte","otras_carnes",0.2565875
+"MLI","Malí","porcina",0.04770729
+"MLI","Malí","vacuna",3.3872175
+"MLI","Malí","aviar",2.2613254
+"MLI","Malí","caprina_ovina",0.9923116
+"MLI","Malí","pescado_mariscos",8.148405
+"MLI","Malí","otras_carnes",1.478926
+"MLT","Malta","pescado_mariscos",19.568254
+"MLT","Malta","caprina_ovina",0.9766992
+"MLT","Malta","otras_carnes",0.5226198
+"MLT","Malta","aviar",21.555923
+"MLT","Malta","porcina",22.138515
+"MLT","Malta","vacuna",22.60973
+"MMR","Myanmar","porcina",20.4712
+"MMR","Myanmar","vacuna",9.481935
+"MMR","Myanmar","aviar",30.40126
+"MMR","Myanmar","caprina_ovina",1.7721337
+"MMR","Myanmar","otras_carnes",0
+"MMR","Myanmar","pescado_mariscos",45.851414
+"MNE","Montenegro","porcina",43.17209
+"MNE","Montenegro","vacuna",14.966456
+"MNE","Montenegro","otras_carnes",0.14976442
+"MNE","Montenegro","pescado_mariscos",15.555531
+"MNE","Montenegro","caprina_ovina",1.966906
+"MNE","Montenegro","aviar",17.053175
+"MNG","Mongolia","aviar",2.9555302
+"MNG","Mongolia","caprina_ovina",66.00684
+"MNG","Mongolia","vacuna",26.4306
+"MNG","Mongolia","otras_carnes",15.026434
+"MNG","Mongolia","pescado_mariscos",0.56722295
+"MNG","Mongolia","porcina",0.6070281
+"MOZ","Mozambique","pescado_mariscos",13.463253
+"MOZ","Mozambique","vacuna",0.5613866
+"MOZ","Mozambique","otras_carnes",0.01002476
+"MOZ","Mozambique","aviar",3.839483
+"MOZ","Mozambique","caprina_ovina",0.07017332
+"MOZ","Mozambique","porcina",3.0976508
+"MRT","Mauritania","aviar",6.501207
+"MRT","Mauritania","vacuna",6.5632215
+"MRT","Mauritania","otras_carnes",6.4908714
+"MRT","Mauritania","caprina_ovina",12.568311
+"MRT","Mauritania","porcina",0.010335782
+"MRT","Mauritania","pescado_mariscos",8.7234
+"MUS","Mauricio","pescado_mariscos",23.50829
+"MUS","Mauricio","caprina_ovina",3.3219302
+"MUS","Mauricio","porcina",3.1161468
+"MUS","Mauricio","aviar",37.913116
+"MUS","Mauricio","vacuna",4.380244
+"MUS","Mauricio","otras_carnes",0.7937355
+"MWI","Malawi","caprina_ovina",3.0703392
+"MWI","Malawi","porcina",11.689009
+"MWI","Malawi","aviar",5.6470547
+"MWI","Malawi","pescado_mariscos",10.010689
+"MWI","Malawi","vacuna",2.87289
+"MWI","Malawi","otras_carnes",0
+"MYS","Malasia","aviar",48.977966
+"MYS","Malasia","pescado_mariscos",53.32593
+"MYS","Malasia","caprina_ovina",0.97487986
+"MYS","Malasia","porcina",7.253106
+"MYS","Malasia","vacuna",5.868777
+"MYS","Malasia","otras_carnes",0.019497598
+"NAM","Namibia","aviar",10.422523
+"NAM","Namibia","caprina_ovina",4.2465906
+"NAM","Namibia","otras_carnes",4.8794966
+"NAM","Namibia","pescado_mariscos",12.106867
+"NAM","Namibia","porcina",4.5426273
+"NAM","Namibia","vacuna",8.983173
+"NCL","Nueva Caledonia","aviar",40.809635
+"NCL","Nueva Caledonia","porcina",17.294754
+"NCL","Nueva Caledonia","vacuna",17.603767
+"NCL","Nueva Caledonia","otras_carnes",1.0566247
+"NCL","Nueva Caledonia","caprina_ovina",1.265956
+"NCL","Nueva Caledonia","pescado_mariscos",23.335457
+"NER","Níger","vacuna",2.8251772
+"NER","Níger","porcina",0.059686843
+"NER","Níger","otras_carnes",2.1885178
+"NER","Níger","pescado_mariscos",1.8502922
+"NER","Níger","aviar",1.0047286
+"NER","Níger","caprina_ovina",2.168622
+"NGA","Nigeria","aviar",1.1478179
+"NGA","Nigeria","caprina_ovina",1.9789964
+"NGA","Nigeria","otras_carnes",0.82128346
+"NGA","Nigeria","pescado_mariscos",6.679113
+"NGA","Nigeria","porcina",1.4545624
+"NGA","Nigeria","vacuna",1.5634072
+"NIC","Nicaragua","aviar",21.376158
+"NIC","Nicaragua","caprina_ovina",0.009805577
+"NIC","Nicaragua","pescado_mariscos",6.5010977
+"NIC","Nicaragua","porcina",5.196956
+"NIC","Nicaragua","vacuna",2.1180048
+"NIC","Nicaragua","otras_carnes",0.3431952
+"NLD","Países Bajos","caprina_ovina",1.0909196
+"NLD","Países Bajos","porcina",27.233675
+"NLD","Países Bajos","aviar",9.818275
+"NLD","Países Bajos","pescado_mariscos",21.484236
+"NLD","Países Bajos","vacuna",15.931355
+"NLD","Países Bajos","otras_carnes",4.0491786
+"NOR","Noruega","aviar",20.143847
+"NOR","Noruega","porcina",23.832014
+"NOR","Noruega","vacuna",17.94707
+"NOR","Noruega","otras_carnes",1.1890814
+"NOR","Noruega","caprina_ovina",4.635402
+"NOR","Noruega","pescado_mariscos",50.566196
+"NPL","Nepal","caprina_ovina",2.6507301
+"NPL","Nepal","porcina",1.0027106
+"NPL","Nepal","vacuna",8.170602
+"NPL","Nepal","aviar",2.2337613
+"NPL","Nepal","pescado_mariscos",3.4945953
+"NPL","Nepal","otras_carnes",0
+"NRU","Nauru","aviar",44.73038
+"NRU","Nauru","caprina_ovina",2.972672
+"NRU","Nauru","otras_carnes",3.0428236
+"NRU","Nauru","pescado_mariscos",44.747917
+"NRU","Nauru","porcina",24.702114
+"NRU","Nauru","vacuna",16.739914
+"NZL","Nueva Zelanda","caprina_ovina",12.319667
+"NZL","Nueva Zelanda","porcina",23.962847
+"NZL","Nueva Zelanda","vacuna",17.741083
+"NZL","Nueva Zelanda","pescado_mariscos",25.153843
+"NZL","Nueva Zelanda","otras_carnes",2.229545
+"NZL","Nueva Zelanda","aviar",24.763197
+"OMN","Omán","caprina_ovina",12.633368
+"OMN","Omán","porcina",0.40462747
+"OMN","Omán","vacuna",10.160645
+"OMN","Omán","pescado_mariscos",29.301771
+"OMN","Omán","otras_carnes",3.4618125
+"OMN","Omán","aviar",22.097155
+"PAK","Pakistán","aviar",5.9793463
+"PAK","Pakistán","caprina_ovina",2.518131
+"PAK","Pakistán","porcina",0
+"PAK","Pakistán","vacuna",9.557231
+"PAK","Pakistán","otras_carnes",0.019445028
+"PAK","Pakistán","pescado_mariscos",1.5847697
+"PAN","Panamá","porcina",15.9855
+"PAN","Panamá","vacuna",14.5688095
+"PAN","Panamá","otras_carnes",1.0047455
+"PAN","Panamá","pescado_mariscos",13.744919
+"PAN","Panamá","aviar",55.632755
+"PAN","Panamá","caprina_ovina",0.010047454
+"PER","Perú","aviar",42.263268
+"PER","Perú","vacuna",4.158016
+"PER","Perú","otras_carnes",1.1484045
+"PER","Perú","caprina_ovina",0.762303
+"PER","Perú","porcina",4.484718
+"PER","Perú","pescado_mariscos",26.829107
+"PHL","Filipinas","pescado_mariscos",28.393742
+"PHL","Filipinas","caprina_ovina",0.2832537
+"PHL","Filipinas","porcina",14.172453
+"PHL","Filipinas","aviar",15.481281
+"PHL","Filipinas","vacuna",3.0083497
+"PHL","Filipinas","otras_carnes",0.009767369
+"PNG","Papua Nueva Guinea","porcina",9.094177
+"PNG","Papua Nueva Guinea","vacuna",0.73414147
+"PNG","Papua Nueva Guinea","aviar",3.5514092
+"PNG","Papua Nueva Guinea","caprina_ovina",1.3581617
+"PNG","Papua Nueva Guinea","pescado_mariscos",13.407258
+"PNG","Papua Nueva Guinea","otras_carnes",42.497616
+"POL","Polonia","aviar",32.392086
+"POL","Polonia","caprina_ovina",0.029545836
+"POL","Polonia","otras_carnes",0.108334735
+"POL","Polonia","pescado_mariscos",12.271371
+"POL","Polonia","porcina",54.118126
+"POL","Polonia","vacuna",1.5166862
+"PRK","Corea del Norte","caprina_ovina",0.57801217
+"PRK","Corea del Norte","porcina",4.2653317
+"PRK","Corea del Norte","vacuna",0.807224
+"PRK","Corea del Norte","aviar",1.7738996
+"PRK","Corea del Norte","pescado_mariscos",10.9623
+"PRK","Corea del Norte","otras_carnes",6.1388884
+"PRT","Portugal","pescado_mariscos",59.35927
+"PRT","Portugal","caprina_ovina",2.1090117
+"PRT","Portugal","porcina",37.71467
+"PRT","Portugal","vacuna",18.56524
+"PRT","Portugal","aviar",30.26877
+"PRT","Portugal","otras_carnes",0.66339797
+"PRY","Paraguay","pescado_mariscos",4.321315
+"PRY","Paraguay","caprina_ovina",0.38794845
+"PRY","Paraguay","otras_carnes",0.20475057
+"PRY","Paraguay","aviar",10.366844
+"PRY","Paraguay","porcina",9.515513
+"PRY","Paraguay","vacuna",23.56787
+"PYF","Polinesia Francesa","caprina_ovina",2.2142708
+"PYF","Polinesia Francesa","porcina",13.322838
+"PYF","Polinesia Francesa","aviar",45.40185
+"PYF","Polinesia Francesa","otras_carnes",1.2187792
+"PYF","Polinesia Francesa","pescado_mariscos",43.95048
+"PYF","Polinesia Francesa","vacuna",19.86331
+"QAT","Qatar","caprina_ovina",12.117487
+"QAT","Qatar","porcina",1.221142
+"QAT","Qatar","vacuna",8.71499
+"QAT","Qatar","pescado_mariscos",21.980558
+"QAT","Qatar","otras_carnes",0.46967003
+"QAT","Qatar","aviar",56.652645
+"ROU","Rumania","aviar",23.678478
+"ROU","Rumania","caprina_ovina",2.5528822
+"ROU","Rumania","vacuna",5.184923
+"ROU","Rumania","otras_carnes",0.14842339
+"ROU","Rumania","pescado_mariscos",8.232551
+"ROU","Rumania","porcina",34.13738
+"RUS","Rusia","porcina",28.261415
+"RUS","Rusia","vacuna",12.898028
+"RUS","Rusia","otras_carnes",3.5978181
+"RUS","Rusia","pescado_mariscos",21.757278
+"RUS","Rusia","caprina_ovina",1.4732014
+"RUS","Rusia","aviar",30.847033
+"RWA","Rwanda","caprina_ovina",1.6551895
+"RWA","Rwanda","porcina",0.95567495
+"RWA","Rwanda","aviar",1.4778478
+"RWA","Rwanda","otras_carnes",1.5074047
+"RWA","Rwanda","pescado_mariscos",4.492657
+"RWA","Rwanda","vacuna",2.6502738
+"SAU","Arabia Saudita","caprina_ovina",4.6132083
+"SAU","Arabia Saudita","porcina",NA
+"SAU","Arabia Saudita","vacuna",4.265042
+"SAU","Arabia Saudita","pescado_mariscos",11.354102
+"SAU","Arabia Saudita","otras_carnes",2.7950048
+"SAU","Arabia Saudita","aviar",41.54789
+"SDN","Sudán","pescado_mariscos",1.1248338
+"SDN","Sudán","vacuna",7.8442354
+"SDN","Sudán","otras_carnes",3.3054326
+"SDN","Sudán","aviar",1.8253882
+"SDN","Sudán","caprina_ovina",7.0844793
+"SDN","Sudán","porcina",0
+"SEN","Senegal","aviar",7.487648
+"SEN","Senegal","caprina_ovina",3.096932
+"SEN","Senegal","vacuna",5.063076
+"SEN","Senegal","otras_carnes",0.65198565
+"SEN","Senegal","pescado_mariscos",12.122858
+"SEN","Senegal","porcina",1.1919113
+"SLB","Islas Salomón","aviar",6.1016426
+"SLB","Islas Salomón","caprina_ovina",0.049687646
+"SLB","Islas Salomón","otras_carnes",0.039750114
+"SLB","Islas Salomón","pescado_mariscos",27.884705
+"SLB","Islas Salomón","porcina",4.372513
+"SLB","Islas Salomón","vacuna",1.7490051
+"SLE","Sierra Leona","aviar",5.202395
+"SLE","Sierra Leona","vacuna",1.2109859
+"SLE","Sierra Leona","otras_carnes",1.3563042
+"SLE","Sierra Leona","pescado_mariscos",24.704111
+"SLE","Sierra Leona","caprina_ovina",0.4456428
+"SLE","Sierra Leona","porcina",0.9687887
+"SLV","El Salvador","aviar",26.69628
+"SLV","El Salvador","vacuna",8.431489
+"SLV","El Salvador","otras_carnes",0
+"SLV","El Salvador","caprina_ovina",0.020614887
+"SLV","El Salvador","porcina",4.8651133
+"SLV","El Salvador","pescado_mariscos",6.7410684
+"SRB","Serbia","porcina",44.328022
+"SRB","Serbia","vacuna",7.2079053
+"SRB","Serbia","otras_carnes",0.4749855
+"SRB","Serbia","pescado_mariscos",7.956007
+"SRB","Serbia","caprina_ovina",4.417365
+"SRB","Serbia","aviar",16.731365
+"SSD","Sudán del Sur","aviar",4.559296
+"SSD","Sudán del Sur","caprina_ovina",3.5672271
+"SSD","Sudán del Sur","porcina",0.010553926
+"SSD","Sudán del Sur","vacuna",13.086868
+"SSD","Sudán del Sur","otras_carnes",0.9498533
+"SSD","Sudán del Sur","pescado_mariscos",3.0817466
+"STP","Santo Tomé y Príncipe","aviar",17.169954
+"STP","Santo Tomé y Príncipe","porcina",4.7009397
+"STP","Santo Tomé y Príncipe","vacuna",1.7340353
+"STP","Santo Tomé y Príncipe","otras_carnes",0
+"STP","Santo Tomé y Príncipe","caprina_ovina",0.06013995
+"STP","Santo Tomé y Príncipe","pescado_mariscos",27.714493
+"SUR","Surinam","porcina",7.701676
+"SUR","Surinam","vacuna",4.2422028
+"SUR","Surinam","aviar",47.95912
+"SUR","Surinam","caprina_ovina",0.028989997
+"SUR","Surinam","pescado_mariscos",15.944499
+"SUR","Surinam","otras_carnes",0.24158332
+"SVK","Eslovaquia","aviar",16.909164
+"SVK","Eslovaquia","vacuna",5.8431673
+"SVK","Eslovaquia","otras_carnes",0.85046095
+"SVK","Eslovaquia","caprina_ovina",0.07003796
+"SVK","Eslovaquia","porcina",38.841053
+"SVK","Eslovaquia","pescado_mariscos",10.205531
+"SVN","Eslovenia","pescado_mariscos",12.968537
+"SVN","Eslovenia","caprina_ovina",0.8050114
+"SVN","Eslovenia","porcina",25.31859
+"SVN","Eslovenia","aviar",29.805056
+"SVN","Eslovenia","vacuna",14.971249
+"SVN","Eslovenia","otras_carnes",0.30433357
+"SWE","Suecia","pescado_mariscos",31.342962
+"SWE","Suecia","caprina_ovina",1.2564456
+"SWE","Suecia","otras_carnes",0.19479778
+"SWE","Suecia","aviar",14.999429
+"SWE","Suecia","porcina",27.865824
+"SWE","Suecia","vacuna",21.93423
+"SWZ","Eswatini","aviar",7.133926
+"SWZ","Eswatini","caprina_ovina",1.7982209
+"SWZ","Eswatini","otras_carnes",0.2063532
+"SWZ","Eswatini","pescado_mariscos",4.205675
+"SWZ","Eswatini","porcina",1.9849213
+"SWZ","Eswatini","vacuna",15.790934
+"SYC","Seychelles","caprina_ovina",2.329575
+"SYC","Seychelles","porcina",12.784708
+"SYC","Seychelles","aviar",34.35657
+"SYC","Seychelles","vacuna",8.5542
+"SYC","Seychelles","otras_carnes",0.16772941
+"SYC","Seychelles","pescado_mariscos",52.89067
+"SYR","Siria","pescado_mariscos",1.8366231
+"SYR","Siria","aviar",5.3666463
+"SYR","Siria","caprina_ovina",6.0237865
+"SYR","Siria","porcina",0
+"SYR","Siria","otras_carnes",0.09267364
+"SYR","Siria","vacuna",1.8113484
+"TCD","Chad","porcina",0.14802778
+"TCD","Chad","vacuna",27.148294
+"TCD","Chad","aviar",0.47368887
+"TCD","Chad","caprina_ovina",17.674517
+"TCD","Chad","pescado_mariscos",6.5132217
+"TCD","Chad","otras_carnes",0.80921847
+"TGO","Togo","pescado_mariscos",11.463107
+"TGO","Togo","vacuna",0.7746668
+"TGO","Togo","otras_carnes",0.7844727
+"TGO","Togo","aviar",7.0210304
+"TGO","Togo","caprina_ovina",1.392439
+"TGO","Togo","porcina",2.2749708
+"THA","Tailandia","caprina_ovina",0.03906223
+"THA","Tailandia","porcina",12.8319435
+"THA","Tailandia","aviar",11.132736
+"THA","Tailandia","otras_carnes",0
+"THA","Tailandia","pescado_mariscos",28.476368
+"THA","Tailandia","vacuna",1.1523359
+"TJK","Tayikistán","aviar",3.5179489
+"TJK","Tayikistán","caprina_ovina",7.8254375
+"TJK","Tayikistán","vacuna",25.764978
+"TJK","Tayikistán","otras_carnes",0
+"TJK","Tayikistán","pescado_mariscos",0.65961546
+"TJK","Tayikistán","porcina",0.08994756
+"TKM","Turkmenistán","caprina_ovina",20.031818
+"TKM","Turkmenistán","porcina",0.08684315
+"TKM","Turkmenistán","vacuna",21.701136
+"TKM","Turkmenistán","aviar",5.8667364
+"TKM","Turkmenistán","pescado_mariscos",2.7114358
+"TKM","Turkmenistán","otras_carnes",0
+"TLS","Timor Oriental","porcina",11.652998
+"TLS","Timor Oriental","vacuna",1.6328397
+"TLS","Timor Oriental","otras_carnes",0
+"TLS","Timor Oriental","pescado_mariscos",6.511075
+"TLS","Timor Oriental","aviar",9.523208
+"TLS","Timor Oriental","caprina_ovina",0.38539073
+"TTO","Trinidad y Tabago","porcina",5.1715446
+"TTO","Trinidad y Tabago","vacuna",5.245292
+"TTO","Trinidad y Tabago","aviar",58.196007
+"TTO","Trinidad y Tabago","caprina_ovina",1.3366737
+"TTO","Trinidad y Tabago","otras_carnes",0.055310633
+"TTO","Trinidad y Tabago","pescado_mariscos",21.746298
+"TUN","Túnez","aviar",17.375578
+"TUN","Túnez","caprina_ovina",5.335119
+"TUN","Túnez","otras_carnes",0.2721008
+"TUN","Túnez","pescado_mariscos",13.653629
+"TUN","Túnez","porcina",0.009717885
+"TUN","Túnez","vacuna",3.5470283
+"TUR","Turquía","aviar",20.038383
+"TUR","Turquía","caprina_ovina",1.3031465
+"TUR","Turquía","otras_carnes",0.010024203
+"TUR","Turquía","pescado_mariscos",5.5333605
+"TUR","Turquía","porcina",0
+"TUR","Turquía","vacuna",15.988605
+"TWN","Taiwán","caprina_ovina",0.8298366
+"TWN","Taiwán","porcina",38.34245
+"TWN","Taiwán","vacuna",6.078803
+"TWN","Taiwán","pescado_mariscos",29.754143
+"TWN","Taiwán","otras_carnes",0.04999016
+"TWN","Taiwán","aviar",41.631805
+"TZA","Tanzania","porcina",0.2420172
+"TZA","Tanzania","vacuna",7.5702977
+"TZA","Tanzania","otras_carnes",0.3872275
+"TZA","Tanzania","pescado_mariscos",6.234363
+"TZA","Tanzania","caprina_ovina",1.1713632
+"TZA","Tanzania","aviar",1.4424225
+"UGA","Uganda","caprina_ovina",1.0197951
+"UGA","Uganda","porcina",2.9563756
+"UGA","Uganda","aviar",1.565746
+"UGA","Uganda","pescado_mariscos",14.771578
+"UGA","Uganda","vacuna",3.687744
+"UGA","Uganda","otras_carnes",0
+"UKR","Ucrania","aviar",24.750452
+"UKR","Ucrania","porcina",16.66298
+"UKR","Ucrania","vacuna",7.1811166
+"UKR","Ucrania","otras_carnes",0.43823737
+"UKR","Ucrania","caprina_ovina",0.25895843
+"UKR","Ucrania","pescado_mariscos",13.704878
+"URY","Uruguay","porcina",14.303827
+"URY","Uruguay","vacuna",19.682959
+"URY","Uruguay","aviar",21.30379
+"URY","Uruguay","caprina_ovina",2.5528076
+"URY","Uruguay","pescado_mariscos",9.258993
+"URY","Uruguay","otras_carnes",1.0332793
+"USA","Estados Unidos","porcina",30.189499
+"USA","Estados Unidos","vacuna",37.313194
+"USA","Estados Unidos","otras_carnes",0.7980906
+"USA","Estados Unidos","pescado_mariscos",22.45492
+"USA","Estados Unidos","aviar",57.82708
+"USA","Estados Unidos","caprina_ovina",0.6010312
+"UZB","Uzbekistán","pescado_mariscos",4.023093
+"UZB","Uzbekistán","caprina_ovina",5.859939
+"UZB","Uzbekistán","otras_carnes",0.19965722
+"UZB","Uzbekistán","aviar",3.084704
+"UZB","Uzbekistán","porcina",0.15972577
+"UZB","Uzbekistán","vacuna",31.58577
+"VCT","San Vicente y las Granadinas","otras_carnes",0.021203319
+"VCT","San Vicente y las Granadinas","aviar",79.14139
+"VCT","San Vicente y las Granadinas","caprina_ovina",0.69970953
+"VCT","San Vicente y las Granadinas","pescado_mariscos",20.588423
+"VCT","San Vicente y las Granadinas","vacuna",8.290498
+"VCT","San Vicente y las Granadinas","porcina",11.937469
+"VEN","Venezuela","pescado_mariscos",10.180481
+"VEN","Venezuela","caprina_ovina",0.3393494
+"VEN","Venezuela","porcina",4.4215226
+"VEN","Venezuela","aviar",16.079172
+"VEN","Venezuela","vacuna",11.997
+"VEN","Venezuela","otras_carnes",0
+"VNM","Vietnam","aviar",15.922855
+"VNM","Vietnam","caprina_ovina",0.2215704
+"VNM","Vietnam","otras_carnes",0.2819987
+"VNM","Vietnam","pescado_mariscos",39.84239
+"VNM","Vietnam","porcina",38.452538
+"VNM","Vietnam","vacuna",6.1536145
+"VUT","Vanuatu","aviar",14.406395
+"VUT","Vanuatu","vacuna",7.084951
+"VUT","Vanuatu","otras_carnes",0.10839285
+"VUT","Vanuatu","caprina_ovina",0.17737013
+"VUT","Vanuatu","porcina",12.199123
+"VUT","Vanuatu","pescado_mariscos",28.566442
+"WSM","Samoa","caprina_ovina",3.2124598
+"WSM","Samoa","porcina",11.308228
+"WSM","Samoa","aviar",60.602867
+"WSM","Samoa","pescado_mariscos",43.968235
+"WSM","Samoa","vacuna",6.378763
+"WSM","Samoa","otras_carnes",0.009231206
+"YEM","Yemen","aviar",10.365718
+"YEM","Yemen","caprina_ovina",4.028033
+"YEM","Yemen","porcina",0
+"YEM","Yemen","vacuna",2.799298
+"YEM","Yemen","otras_carnes",0.092386074
+"YEM","Yemen","pescado_mariscos",2.7346277
+"ZAF","Sudáfrica","caprina_ovina",2.8140445
+"ZAF","Sudáfrica","porcina",4.1857653
+"ZAF","Sudáfrica","vacuna",17.37849
+"ZAF","Sudáfrica","aviar",35.16043
+"ZAF","Sudáfrica","pescado_mariscos",6.515673
+"ZAF","Sudáfrica","otras_carnes",0.7463774
+"ZMB","Zambia","aviar",2.5641582
+"ZMB","Zambia","caprina_ovina",0.50506145
+"ZMB","Zambia","porcina",1.4957589
+"ZMB","Zambia","vacuna",9.03283
+"ZMB","Zambia","otras_carnes",2.1367984
+"ZMB","Zambia","pescado_mariscos",12.684813
+"ZWE","Zimbabwe","aviar",4.382142
+"ZWE","Zimbabwe","caprina_ovina",1.7642391
+"ZWE","Zimbabwe","porcina",0.6449906
+"ZWE","Zimbabwe","vacuna",40.122208
+"ZWE","Zimbabwe","otras_carnes",2.3333485
+"ZWE","Zimbabwe","pescado_mariscos",2.8170915

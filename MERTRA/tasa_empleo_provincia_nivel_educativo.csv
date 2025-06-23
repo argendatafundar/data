@@ -1,757 +1,757 @@
-anio,provincia,nivel_ed_fundar,ocupado,geocodigoFundar,geonombreFundar
-2016,Buenos Aires,Hasta secundario incompleto,0.647369346312506,AR-B,Buenos Aires
-2016,Buenos Aires,Secundario completo,0.732080369939695,AR-B,Buenos Aires
-2016,Buenos Aires,Superior incompleto o completo,0.792269581817955,AR-B,Buenos Aires
-2016,Ciudad de Buenos Aires,Hasta secundario incompleto,0.702942088673788,AR-C,CABA
-2016,Ciudad de Buenos Aires,Secundario completo,0.79641574066338,AR-C,CABA
-2016,Ciudad de Buenos Aires,Superior incompleto o completo,0.858126306263601,AR-C,CABA
-2016,Catamarca,Hasta secundario incompleto,0.6613294160852,AR-K,Catamarca
-2016,Catamarca,Secundario completo,0.780971780376719,AR-K,Catamarca
-2016,Catamarca,Superior incompleto o completo,0.792486548053886,AR-K,Catamarca
-2016,Chaco,Hasta secundario incompleto,0.511100024943876,AR-H,Chaco
-2016,Chaco,Secundario completo,0.73221482347711,AR-H,Chaco
-2016,Chaco,Superior incompleto o completo,0.698531650102964,AR-H,Chaco
-2016,Chubut,Hasta secundario incompleto,0.667641463191739,AR-U,Chubut
-2016,Chubut,Secundario completo,0.740869472220737,AR-U,Chubut
-2016,Chubut,Superior incompleto o completo,0.792018622285412,AR-U,Chubut
-2016,Corrientes,Hasta secundario incompleto,0.580674249104505,AR-W,Corrientes
-2016,Corrientes,Secundario completo,0.743306180596143,AR-W,Corrientes
-2016,Corrientes,Superior incompleto o completo,0.776836671060837,AR-W,Corrientes
-2016,Córdoba,Hasta secundario incompleto,0.594823272972562,AR-X,Córdoba
-2016,Córdoba,Secundario completo,0.750034172727095,AR-X,Córdoba
-2016,Córdoba,Superior incompleto o completo,0.832983219017111,AR-X,Córdoba
-2016,Entre Ríos,Hasta secundario incompleto,0.609448395126217,AR-E,Entre Ríos
-2016,Entre Ríos,Secundario completo,0.798237037037037,AR-E,Entre Ríos
-2016,Entre Ríos,Superior incompleto o completo,0.777384547491931,AR-E,Entre Ríos
-2016,Formosa,Hasta secundario incompleto,0.461189687857636,AR-P,Formosa
-2016,Formosa,Secundario completo,0.613818457581852,AR-P,Formosa
-2016,Formosa,Superior incompleto o completo,0.661928258145363,AR-P,Formosa
-2016,Jujuy,Hasta secundario incompleto,0.659052570236781,AR-Y,Jujuy
-2016,Jujuy,Secundario completo,0.751223080791916,AR-Y,Jujuy
-2016,Jujuy,Superior incompleto o completo,0.747949215425985,AR-Y,Jujuy
-2016,La Pampa,Hasta secundario incompleto,0.654953802416489,AR-L,La Pampa
-2016,La Pampa,Secundario completo,0.729443126226675,AR-L,La Pampa
-2016,La Pampa,Superior incompleto o completo,0.795912081758365,AR-L,La Pampa
-2016,La Rioja,Hasta secundario incompleto,0.657807083135069,AR-F,La Rioja
-2016,La Rioja,Secundario completo,0.716700022237047,AR-F,La Rioja
-2016,La Rioja,Superior incompleto o completo,0.747829392229824,AR-F,La Rioja
-2016,Mendoza,Hasta secundario incompleto,0.642680043269737,AR-M,Mendoza
-2016,Mendoza,Secundario completo,0.774366548760349,AR-M,Mendoza
-2016,Mendoza,Superior incompleto o completo,0.78542412045319,AR-M,Mendoza
-2016,Misiones,Hasta secundario incompleto,0.599435421011608,AR-N,Misiones
-2016,Misiones,Secundario completo,0.750418068425505,AR-N,Misiones
-2016,Misiones,Superior incompleto o completo,0.83797920942859,AR-N,Misiones
-2016,Neuquén,Hasta secundario incompleto,0.655079006772009,AR-Q,Neuquén
-2016,Neuquén,Secundario completo,0.757450723465946,AR-Q,Neuquén
-2016,Neuquén,Superior incompleto o completo,0.777134033860323,AR-Q,Neuquén
-2016,Río Negro,Hasta secundario incompleto,0.630670338536631,AR-R,Río Negro
-2016,Río Negro,Secundario completo,0.740387710133446,AR-R,Río Negro
-2016,Río Negro,Superior incompleto o completo,0.778050129471805,AR-R,Río Negro
-2016,Salta,Hasta secundario incompleto,0.615091076877032,AR-A,Salta
-2016,Salta,Secundario completo,0.726061513336962,AR-A,Salta
-2016,Salta,Superior incompleto o completo,0.76861198206399,AR-A,Salta
-2016,San Juan,Hasta secundario incompleto,0.541378716522286,AR-J,San Juan
-2016,San Juan,Secundario completo,0.649898595264461,AR-J,San Juan
-2016,San Juan,Superior incompleto o completo,0.745716442319789,AR-J,San Juan
-2016,San Luis,Hasta secundario incompleto,0.619737391755953,AR-D,San Luis
-2016,San Luis,Secundario completo,0.718811248711509,AR-D,San Luis
-2016,San Luis,Superior incompleto o completo,0.745879169156152,AR-D,San Luis
-2016,Santa Cruz,Hasta secundario incompleto,0.631046811128055,AR-Z,Santa Cruz
-2016,Santa Cruz,Secundario completo,0.720056191419294,AR-Z,Santa Cruz
-2016,Santa Cruz,Superior incompleto o completo,0.793085705885235,AR-Z,Santa Cruz
-2016,Santa Fe,Hasta secundario incompleto,0.626349789341754,AR-S,Santa Fe
-2016,Santa Fe,Secundario completo,0.74323184047747,AR-S,Santa Fe
-2016,Santa Fe,Superior incompleto o completo,0.777317332062474,AR-S,Santa Fe
-2016,Santiago del Estero,Hasta secundario incompleto,0.58588866682061,AR-G,Santiago del Estero
-2016,Santiago del Estero,Secundario completo,0.688264819750589,AR-G,Santiago del Estero
-2016,Santiago del Estero,Superior incompleto o completo,0.774946089002156,AR-G,Santiago del Estero
-2016,Tierra del Fuego,Hasta secundario incompleto,0.622621692587356,AR-V,Tierra del Fuego
-2016,Tierra del Fuego,Secundario completo,0.701072682973135,AR-V,Tierra del Fuego
-2016,Tierra del Fuego,Superior incompleto o completo,0.804499554499554,AR-V,Tierra del Fuego
-2016,Tucumán,Hasta secundario incompleto,0.651567523144231,AR-T,Tucumán
-2016,Tucumán,Secundario completo,0.773182013769363,AR-T,Tucumán
-2016,Tucumán,Superior incompleto o completo,0.802423648317474,AR-T,Tucumán
-2017,Buenos Aires,Hasta secundario incompleto,0.649720225116636,AR-B,Buenos Aires
-2017,Buenos Aires,Secundario completo,0.742023631656753,AR-B,Buenos Aires
-2017,Buenos Aires,Superior incompleto o completo,0.803687793727001,AR-B,Buenos Aires
-2017,Ciudad de Buenos Aires,Hasta secundario incompleto,0.730415540892655,AR-C,CABA
-2017,Ciudad de Buenos Aires,Secundario completo,0.785498046599731,AR-C,CABA
-2017,Ciudad de Buenos Aires,Superior incompleto o completo,0.858488422259034,AR-C,CABA
-2017,Catamarca,Hasta secundario incompleto,0.658865014628098,AR-K,Catamarca
-2017,Catamarca,Secundario completo,0.742720611659764,AR-K,Catamarca
-2017,Catamarca,Superior incompleto o completo,0.815516223064759,AR-K,Catamarca
-2017,Chaco,Hasta secundario incompleto,0.590512230714056,AR-H,Chaco
-2017,Chaco,Secundario completo,0.682667024931386,AR-H,Chaco
-2017,Chaco,Superior incompleto o completo,0.732969581492922,AR-H,Chaco
-2017,Chubut,Hasta secundario incompleto,0.624738945256615,AR-U,Chubut
-2017,Chubut,Secundario completo,0.744390243902439,AR-U,Chubut
-2017,Chubut,Superior incompleto o completo,0.779004477372497,AR-U,Chubut
-2017,Corrientes,Hasta secundario incompleto,0.573766312660686,AR-W,Corrientes
-2017,Corrientes,Secundario completo,0.777455588305584,AR-W,Corrientes
-2017,Corrientes,Superior incompleto o completo,0.781484874894783,AR-W,Corrientes
-2017,Córdoba,Hasta secundario incompleto,0.637861029243553,AR-X,Córdoba
-2017,Córdoba,Secundario completo,0.746935674207339,AR-X,Córdoba
-2017,Córdoba,Superior incompleto o completo,0.799725449927039,AR-X,Córdoba
-2017,Entre Ríos,Hasta secundario incompleto,0.650875218903777,AR-E,Entre Ríos
-2017,Entre Ríos,Secundario completo,0.792219073208436,AR-E,Entre Ríos
-2017,Entre Ríos,Superior incompleto o completo,0.746580072472202,AR-E,Entre Ríos
-2017,Formosa,Hasta secundario incompleto,0.395692062225768,AR-P,Formosa
-2017,Formosa,Secundario completo,0.628387529145666,AR-P,Formosa
-2017,Formosa,Superior incompleto o completo,0.682932918515104,AR-P,Formosa
-2017,Jujuy,Hasta secundario incompleto,0.660972200652275,AR-Y,Jujuy
-2017,Jujuy,Secundario completo,0.765090791877082,AR-Y,Jujuy
-2017,Jujuy,Superior incompleto o completo,0.786295018448176,AR-Y,Jujuy
-2017,La Pampa,Hasta secundario incompleto,0.590837566254417,AR-L,La Pampa
-2017,La Pampa,Secundario completo,0.76348352585016,AR-L,La Pampa
-2017,La Pampa,Superior incompleto o completo,0.813611712142074,AR-L,La Pampa
-2017,La Rioja,Hasta secundario incompleto,0.619279148048267,AR-F,La Rioja
-2017,La Rioja,Secundario completo,0.732856526739505,AR-F,La Rioja
-2017,La Rioja,Superior incompleto o completo,0.769632726186921,AR-F,La Rioja
-2017,Mendoza,Hasta secundario incompleto,0.625982143462433,AR-M,Mendoza
-2017,Mendoza,Secundario completo,0.714671000311193,AR-M,Mendoza
-2017,Mendoza,Superior incompleto o completo,0.797086423582907,AR-M,Mendoza
-2017,Misiones,Hasta secundario incompleto,0.636227475920549,AR-N,Misiones
-2017,Misiones,Secundario completo,0.747898882428141,AR-N,Misiones
-2017,Misiones,Superior incompleto o completo,0.849992069489928,AR-N,Misiones
-2017,Neuquén,Hasta secundario incompleto,0.614879899150219,AR-Q,Neuquén
-2017,Neuquén,Secundario completo,0.745322155214048,AR-Q,Neuquén
-2017,Neuquén,Superior incompleto o completo,0.776886332498118,AR-Q,Neuquén
-2017,Río Negro,Hasta secundario incompleto,0.624420893160283,AR-R,Río Negro
-2017,Río Negro,Secundario completo,0.715793143521209,AR-R,Río Negro
-2017,Río Negro,Superior incompleto o completo,0.74166714408479,AR-R,Río Negro
-2017,Salta,Hasta secundario incompleto,0.611557632653729,AR-A,Salta
-2017,Salta,Secundario completo,0.739611480551669,AR-A,Salta
-2017,Salta,Superior incompleto o completo,0.78733310223646,AR-A,Salta
-2017,San Juan,Hasta secundario incompleto,0.560638490293018,AR-J,San Juan
-2017,San Juan,Secundario completo,0.667385354265648,AR-J,San Juan
-2017,San Juan,Superior incompleto o completo,0.748421210369704,AR-J,San Juan
-2017,San Luis,Hasta secundario incompleto,0.597967731926776,AR-D,San Luis
-2017,San Luis,Secundario completo,0.71831457922483,AR-D,San Luis
-2017,San Luis,Superior incompleto o completo,0.770557592128111,AR-D,San Luis
-2017,Santa Cruz,Hasta secundario incompleto,0.602617330711147,AR-Z,Santa Cruz
-2017,Santa Cruz,Secundario completo,0.728394198031808,AR-Z,Santa Cruz
-2017,Santa Cruz,Superior incompleto o completo,0.785709630466425,AR-Z,Santa Cruz
-2017,Santa Fe,Hasta secundario incompleto,0.660623295637969,AR-S,Santa Fe
-2017,Santa Fe,Secundario completo,0.739326134924031,AR-S,Santa Fe
-2017,Santa Fe,Superior incompleto o completo,0.829620783509524,AR-S,Santa Fe
-2017,Santiago del Estero,Hasta secundario incompleto,0.58826487845767,AR-G,Santiago del Estero
-2017,Santiago del Estero,Secundario completo,0.720545813633371,AR-G,Santiago del Estero
-2017,Santiago del Estero,Superior incompleto o completo,0.742522024709378,AR-G,Santiago del Estero
-2017,Tierra del Fuego,Hasta secundario incompleto,0.550357174353999,AR-V,Tierra del Fuego
-2017,Tierra del Fuego,Secundario completo,0.721962289524557,AR-V,Tierra del Fuego
-2017,Tierra del Fuego,Superior incompleto o completo,0.725861927770043,AR-V,Tierra del Fuego
-2017,Tucumán,Hasta secundario incompleto,0.643381707017112,AR-T,Tucumán
-2017,Tucumán,Secundario completo,0.724120332694244,AR-T,Tucumán
-2017,Tucumán,Superior incompleto o completo,0.801587689965473,AR-T,Tucumán
-2018,Buenos Aires,Hasta secundario incompleto,0.649707545244454,AR-B,Buenos Aires
-2018,Buenos Aires,Secundario completo,0.69291493971985,AR-B,Buenos Aires
-2018,Buenos Aires,Superior incompleto o completo,0.80821330891245,AR-B,Buenos Aires
-2018,Ciudad de Buenos Aires,Hasta secundario incompleto,0.727968745468632,AR-C,CABA
-2018,Ciudad de Buenos Aires,Secundario completo,0.818543899422918,AR-C,CABA
-2018,Ciudad de Buenos Aires,Superior incompleto o completo,0.857915422723875,AR-C,CABA
-2018,Catamarca,Hasta secundario incompleto,0.622934373166253,AR-K,Catamarca
-2018,Catamarca,Secundario completo,0.767552872677455,AR-K,Catamarca
-2018,Catamarca,Superior incompleto o completo,0.790322274341493,AR-K,Catamarca
-2018,Chaco,Hasta secundario incompleto,0.528002792455555,AR-H,Chaco
-2018,Chaco,Secundario completo,0.662712778248479,AR-H,Chaco
-2018,Chaco,Superior incompleto o completo,0.651849882506303,AR-H,Chaco
-2018,Chubut,Hasta secundario incompleto,0.594295508628293,AR-U,Chubut
-2018,Chubut,Secundario completo,0.721717922633487,AR-U,Chubut
-2018,Chubut,Superior incompleto o completo,0.765743558140431,AR-U,Chubut
-2018,Corrientes,Hasta secundario incompleto,0.564555814197801,AR-W,Corrientes
-2018,Corrientes,Secundario completo,0.740776883699005,AR-W,Corrientes
-2018,Corrientes,Superior incompleto o completo,0.74138433916893,AR-W,Corrientes
-2018,Córdoba,Hasta secundario incompleto,0.655371508276652,AR-X,Córdoba
-2018,Córdoba,Secundario completo,0.738892730886599,AR-X,Córdoba
-2018,Córdoba,Superior incompleto o completo,0.830290239053234,AR-X,Córdoba
-2018,Entre Ríos,Hasta secundario incompleto,0.667637181756522,AR-E,Entre Ríos
-2018,Entre Ríos,Secundario completo,0.759342383892654,AR-E,Entre Ríos
-2018,Entre Ríos,Superior incompleto o completo,0.782661086989266,AR-E,Entre Ríos
-2018,Formosa,Hasta secundario incompleto,0.450275760525068,AR-P,Formosa
-2018,Formosa,Secundario completo,0.642134327720926,AR-P,Formosa
-2018,Formosa,Superior incompleto o completo,0.667102284231258,AR-P,Formosa
-2018,Jujuy,Hasta secundario incompleto,0.6365813809622,AR-Y,Jujuy
-2018,Jujuy,Secundario completo,0.765103885384717,AR-Y,Jujuy
-2018,Jujuy,Superior incompleto o completo,0.773655527608097,AR-Y,Jujuy
-2018,La Pampa,Hasta secundario incompleto,0.635269384558308,AR-L,La Pampa
-2018,La Pampa,Secundario completo,0.752447844591243,AR-L,La Pampa
-2018,La Pampa,Superior incompleto o completo,0.799367767756156,AR-L,La Pampa
-2018,La Rioja,Hasta secundario incompleto,0.662328476446456,AR-F,La Rioja
-2018,La Rioja,Secundario completo,0.768347757246442,AR-F,La Rioja
-2018,La Rioja,Superior incompleto o completo,0.756590475448775,AR-F,La Rioja
-2018,Mendoza,Hasta secundario incompleto,0.637739306643984,AR-M,Mendoza
-2018,Mendoza,Secundario completo,0.764019872010778,AR-M,Mendoza
-2018,Mendoza,Superior incompleto o completo,0.789528639618138,AR-M,Mendoza
-2018,Misiones,Hasta secundario incompleto,0.637754943380468,AR-N,Misiones
-2018,Misiones,Secundario completo,0.770018001531622,AR-N,Misiones
-2018,Misiones,Superior incompleto o completo,0.801680949846769,AR-N,Misiones
-2018,Neuquén,Hasta secundario incompleto,0.609376024657355,AR-Q,Neuquén
-2018,Neuquén,Secundario completo,0.738633922818071,AR-Q,Neuquén
-2018,Neuquén,Superior incompleto o completo,0.796458459672529,AR-Q,Neuquén
-2018,Río Negro,Hasta secundario incompleto,0.635286009648518,AR-R,Río Negro
-2018,Río Negro,Secundario completo,0.748705025899482,AR-R,Río Negro
-2018,Río Negro,Superior incompleto o completo,0.768957295525184,AR-R,Río Negro
-2018,Salta,Hasta secundario incompleto,0.651425643498704,AR-A,Salta
-2018,Salta,Secundario completo,0.737932764014097,AR-A,Salta
-2018,Salta,Superior incompleto o completo,0.777641346520442,AR-A,Salta
-2018,San Juan,Hasta secundario incompleto,0.611835851236527,AR-J,San Juan
-2018,San Juan,Secundario completo,0.720614695651015,AR-J,San Juan
-2018,San Juan,Superior incompleto o completo,0.775169907657632,AR-J,San Juan
-2018,San Luis,Hasta secundario incompleto,0.687361243260387,AR-D,San Luis
-2018,San Luis,Secundario completo,0.77114930076817,AR-D,San Luis
-2018,San Luis,Superior incompleto o completo,0.802701454629416,AR-D,San Luis
-2018,Santa Cruz,Hasta secundario incompleto,0.693072615398797,AR-Z,Santa Cruz
-2018,Santa Cruz,Secundario completo,0.711587693689647,AR-Z,Santa Cruz
-2018,Santa Cruz,Superior incompleto o completo,0.786563232457323,AR-Z,Santa Cruz
-2018,Santa Fe,Hasta secundario incompleto,0.678004152881811,AR-S,Santa Fe
-2018,Santa Fe,Secundario completo,0.746347731314174,AR-S,Santa Fe
-2018,Santa Fe,Superior incompleto o completo,0.839133162160991,AR-S,Santa Fe
-2018,Santiago del Estero,Hasta secundario incompleto,0.551703701535783,AR-G,Santiago del Estero
-2018,Santiago del Estero,Secundario completo,0.725511476469773,AR-G,Santiago del Estero
-2018,Santiago del Estero,Superior incompleto o completo,0.747751735455105,AR-G,Santiago del Estero
-2018,Tierra del Fuego,Hasta secundario incompleto,0.61716442402363,AR-V,Tierra del Fuego
-2018,Tierra del Fuego,Secundario completo,0.645860883364189,AR-V,Tierra del Fuego
-2018,Tierra del Fuego,Superior incompleto o completo,0.72569998705725,AR-V,Tierra del Fuego
-2018,Tucumán,Hasta secundario incompleto,0.664659159426048,AR-T,Tucumán
-2018,Tucumán,Secundario completo,0.702660922453117,AR-T,Tucumán
-2018,Tucumán,Superior incompleto o completo,0.775249492159609,AR-T,Tucumán
-2019,Buenos Aires,Hasta secundario incompleto,0.619316784237673,AR-B,Buenos Aires
-2019,Buenos Aires,Secundario completo,0.695587964907487,AR-B,Buenos Aires
-2019,Buenos Aires,Superior incompleto o completo,0.814441667970084,AR-B,Buenos Aires
-2019,Ciudad de Buenos Aires,Hasta secundario incompleto,0.71604033769132,AR-C,CABA
-2019,Ciudad de Buenos Aires,Secundario completo,0.826181662397688,AR-C,CABA
-2019,Ciudad de Buenos Aires,Superior incompleto o completo,0.888758756124226,AR-C,CABA
-2019,Catamarca,Hasta secundario incompleto,0.64119443377768,AR-K,Catamarca
-2019,Catamarca,Secundario completo,0.724969000112727,AR-K,Catamarca
-2019,Catamarca,Superior incompleto o completo,0.823871015622101,AR-K,Catamarca
-2019,Chubut,Hasta secundario incompleto,0.650958431673097,AR-U,Chubut
-2019,Chubut,Secundario completo,0.702290666082948,AR-U,Chubut
-2019,Chubut,Superior incompleto o completo,0.774518398892606,AR-U,Chubut
-2019,Corrientes,Hasta secundario incompleto,0.553335299185328,AR-W,Corrientes
-2019,Corrientes,Secundario completo,0.76778269412009,AR-W,Corrientes
-2019,Corrientes,Superior incompleto o completo,0.797227710352181,AR-W,Corrientes
-2019,Córdoba,Hasta secundario incompleto,0.627336522426617,AR-X,Córdoba
-2019,Córdoba,Secundario completo,0.747372983185535,AR-X,Córdoba
-2019,Córdoba,Superior incompleto o completo,0.831957512504328,AR-X,Córdoba
-2019,Entre Ríos,Hasta secundario incompleto,0.648494663289233,AR-E,Entre Ríos
-2019,Entre Ríos,Secundario completo,0.802286899657218,AR-E,Entre Ríos
-2019,Entre Ríos,Superior incompleto o completo,0.794914822626036,AR-E,Entre Ríos
-2019,Formosa,Hasta secundario incompleto,0.390253261703761,AR-P,Formosa
-2019,Formosa,Secundario completo,0.616882643616168,AR-P,Formosa
-2019,Formosa,Superior incompleto o completo,0.663160636294426,AR-P,Formosa
-2019,Jujuy,Hasta secundario incompleto,0.635475341028332,AR-Y,Jujuy
-2019,Jujuy,Secundario completo,0.739242240888383,AR-Y,Jujuy
-2019,Jujuy,Superior incompleto o completo,0.759177508249193,AR-Y,Jujuy
-2019,La Pampa,Hasta secundario incompleto,0.654829586035483,AR-L,La Pampa
-2019,La Pampa,Secundario completo,0.790247911245035,AR-L,La Pampa
-2019,La Pampa,Superior incompleto o completo,0.789230957929597,AR-L,La Pampa
-2019,La Rioja,Hasta secundario incompleto,0.611924513335757,AR-F,La Rioja
-2019,La Rioja,Secundario completo,0.743152811314246,AR-F,La Rioja
-2019,La Rioja,Superior incompleto o completo,0.797927261519495,AR-F,La Rioja
-2019,Mendoza,Hasta secundario incompleto,0.641786323694994,AR-M,Mendoza
-2019,Mendoza,Secundario completo,0.699493054561077,AR-M,Mendoza
-2019,Mendoza,Superior incompleto o completo,0.782505395514685,AR-M,Mendoza
-2019,Misiones,Hasta secundario incompleto,0.640752998081591,AR-N,Misiones
-2019,Misiones,Secundario completo,0.81183772476848,AR-N,Misiones
-2019,Misiones,Superior incompleto o completo,0.848725842946697,AR-N,Misiones
-2019,Neuquén,Hasta secundario incompleto,0.611605415860735,AR-Q,Neuquén
-2019,Neuquén,Secundario completo,0.726360217199386,AR-Q,Neuquén
-2019,Neuquén,Superior incompleto o completo,0.794026381413403,AR-Q,Neuquén
-2019,Río Negro,Hasta secundario incompleto,0.58885202560846,AR-R,Río Negro
-2019,Río Negro,Secundario completo,0.773615208908347,AR-R,Río Negro
-2019,Río Negro,Superior incompleto o completo,0.79880685185725,AR-R,Río Negro
-2019,Salta,Hasta secundario incompleto,0.632671933208275,AR-A,Salta
-2019,Salta,Secundario completo,0.749398945245851,AR-A,Salta
-2019,Salta,Superior incompleto o completo,0.780127614787528,AR-A,Salta
-2019,San Juan,Hasta secundario incompleto,0.65148552591641,AR-J,San Juan
-2019,San Juan,Secundario completo,0.778810454927974,AR-J,San Juan
-2019,San Juan,Superior incompleto o completo,0.818610734806372,AR-J,San Juan
-2019,San Luis,Hasta secundario incompleto,0.68010891446859,AR-D,San Luis
-2019,San Luis,Secundario completo,0.802661185370778,AR-D,San Luis
-2019,San Luis,Superior incompleto o completo,0.802714626135119,AR-D,San Luis
-2019,Santa Cruz,Hasta secundario incompleto,0.651587213803783,AR-Z,Santa Cruz
-2019,Santa Cruz,Secundario completo,0.711604361370716,AR-Z,Santa Cruz
-2019,Santa Cruz,Superior incompleto o completo,0.74448363707623,AR-Z,Santa Cruz
-2019,Santa Fe,Hasta secundario incompleto,0.690092402548424,AR-S,Santa Fe
-2019,Santa Fe,Secundario completo,0.699319357005943,AR-S,Santa Fe
-2019,Santa Fe,Superior incompleto o completo,0.828981448045913,AR-S,Santa Fe
-2019,Santiago del Estero,Hasta secundario incompleto,0.621991847482761,AR-G,Santiago del Estero
-2019,Santiago del Estero,Secundario completo,0.721711394632644,AR-G,Santiago del Estero
-2019,Santiago del Estero,Superior incompleto o completo,0.794169890746283,AR-G,Santiago del Estero
-2019,Tierra del Fuego,Hasta secundario incompleto,0.607132228945541,AR-V,Tierra del Fuego
-2019,Tierra del Fuego,Secundario completo,0.614600519832749,AR-V,Tierra del Fuego
-2019,Tierra del Fuego,Superior incompleto o completo,0.740135333442035,AR-V,Tierra del Fuego
-2019,Tucumán,Hasta secundario incompleto,0.651434361038494,AR-T,Tucumán
-2019,Tucumán,Secundario completo,0.759681078458371,AR-T,Tucumán
-2019,Tucumán,Superior incompleto o completo,0.755286544651006,AR-T,Tucumán
-2020,Buenos Aires,Hasta secundario incompleto,0.510687544376481,AR-B,Buenos Aires
-2020,Buenos Aires,Secundario completo,0.606190476608421,AR-B,Buenos Aires
-2020,Buenos Aires,Superior incompleto o completo,0.763717987078389,AR-B,Buenos Aires
-2020,Ciudad de Buenos Aires,Hasta secundario incompleto,0.585463961337379,AR-C,CABA
-2020,Ciudad de Buenos Aires,Secundario completo,0.662198479197418,AR-C,CABA
-2020,Ciudad de Buenos Aires,Superior incompleto o completo,0.785848736120399,AR-C,CABA
-2020,Catamarca,Hasta secundario incompleto,0.525803310613437,AR-K,Catamarca
-2020,Catamarca,Secundario completo,0.737094814786247,AR-K,Catamarca
-2020,Catamarca,Superior incompleto o completo,0.768692658450382,AR-K,Catamarca
-2020,Chaco,Hasta secundario incompleto,0.562907306277426,AR-H,Chaco
-2020,Chaco,Secundario completo,0.5742254608228,AR-H,Chaco
-2020,Chaco,Superior incompleto o completo,0.720020249545874,AR-H,Chaco
-2020,Chubut,Hasta secundario incompleto,0.620585842830428,AR-U,Chubut
-2020,Chubut,Secundario completo,0.697761102827952,AR-U,Chubut
-2020,Chubut,Superior incompleto o completo,0.764898026084717,AR-U,Chubut
-2020,Corrientes,Hasta secundario incompleto,0.543594860920544,AR-W,Corrientes
-2020,Corrientes,Secundario completo,0.720249012549563,AR-W,Corrientes
-2020,Corrientes,Superior incompleto o completo,0.738914222816259,AR-W,Corrientes
-2020,Córdoba,Hasta secundario incompleto,0.595956270920515,AR-X,Córdoba
-2020,Córdoba,Secundario completo,0.677571125063796,AR-X,Córdoba
-2020,Córdoba,Superior incompleto o completo,0.835687659407495,AR-X,Córdoba
-2020,Entre Ríos,Hasta secundario incompleto,0.571872272502103,AR-E,Entre Ríos
-2020,Entre Ríos,Secundario completo,0.706898488848941,AR-E,Entre Ríos
-2020,Entre Ríos,Superior incompleto o completo,0.760956251069792,AR-E,Entre Ríos
-2020,Formosa,Hasta secundario incompleto,0.424356570948018,AR-P,Formosa
-2020,Formosa,Secundario completo,0.65843038122653,AR-P,Formosa
-2020,Formosa,Superior incompleto o completo,0.606451612903226,AR-P,Formosa
-2020,Jujuy,Hasta secundario incompleto,0.548544937196954,AR-Y,Jujuy
-2020,Jujuy,Secundario completo,0.720170153007071,AR-Y,Jujuy
-2020,Jujuy,Superior incompleto o completo,0.690690992384818,AR-Y,Jujuy
-2020,La Pampa,Hasta secundario incompleto,0.563501320570057,AR-L,La Pampa
-2020,La Pampa,Secundario completo,0.701721502926843,AR-L,La Pampa
-2020,La Pampa,Superior incompleto o completo,0.788271459983349,AR-L,La Pampa
-2020,La Rioja,Hasta secundario incompleto,0.598693032655297,AR-F,La Rioja
-2020,La Rioja,Secundario completo,0.731431397890639,AR-F,La Rioja
-2020,La Rioja,Superior incompleto o completo,0.75761637825981,AR-F,La Rioja
-2020,Mendoza,Hasta secundario incompleto,0.614076855649464,AR-M,Mendoza
-2020,Mendoza,Secundario completo,0.727200980639095,AR-M,Mendoza
-2020,Mendoza,Superior incompleto o completo,0.789583894768276,AR-M,Mendoza
-2020,Misiones,Hasta secundario incompleto,0.627874168824354,AR-N,Misiones
-2020,Misiones,Secundario completo,0.724705167292441,AR-N,Misiones
-2020,Misiones,Superior incompleto o completo,0.82235166493727,AR-N,Misiones
-2020,Neuquén,Hasta secundario incompleto,0.579515762514896,AR-Q,Neuquén
-2020,Neuquén,Secundario completo,0.714389856544039,AR-Q,Neuquén
-2020,Neuquén,Superior incompleto o completo,0.710159853622728,AR-Q,Neuquén
-2020,Río Negro,Hasta secundario incompleto,0.574309942441021,AR-R,Río Negro
-2020,Río Negro,Secundario completo,0.694847248327377,AR-R,Río Negro
-2020,Río Negro,Superior incompleto o completo,0.787408062990204,AR-R,Río Negro
-2020,Salta,Hasta secundario incompleto,0.607722748530999,AR-A,Salta
-2020,Salta,Secundario completo,0.671120066865795,AR-A,Salta
-2020,Salta,Superior incompleto o completo,0.739599344063414,AR-A,Salta
-2020,San Juan,Hasta secundario incompleto,0.571309930265361,AR-J,San Juan
-2020,San Juan,Secundario completo,0.714626590204996,AR-J,San Juan
-2020,San Juan,Superior incompleto o completo,0.777379015860106,AR-J,San Juan
-2020,San Luis,Hasta secundario incompleto,0.681730979695366,AR-D,San Luis
-2020,San Luis,Secundario completo,0.660956964892412,AR-D,San Luis
-2020,San Luis,Superior incompleto o completo,0.736135916792988,AR-D,San Luis
-2020,Santa Cruz,Hasta secundario incompleto,0.583661986997429,AR-Z,Santa Cruz
-2020,Santa Cruz,Secundario completo,0.67253186604386,AR-Z,Santa Cruz
-2020,Santa Cruz,Superior incompleto o completo,0.702057151135417,AR-Z,Santa Cruz
-2020,Santa Fe,Hasta secundario incompleto,0.645846000227386,AR-S,Santa Fe
-2020,Santa Fe,Secundario completo,0.704718850907471,AR-S,Santa Fe
-2020,Santa Fe,Superior incompleto o completo,0.812666378426279,AR-S,Santa Fe
-2020,Tucumán,Hasta secundario incompleto,0.543166819500609,AR-T,Tucumán
-2020,Tucumán,Secundario completo,0.67163047478837,AR-T,Tucumán
-2020,Tucumán,Superior incompleto o completo,0.672387744673288,AR-T,Tucumán
-2021,Buenos Aires,Hasta secundario incompleto,0.654891840018993,AR-B,Buenos Aires
-2021,Buenos Aires,Secundario completo,0.701373343338348,AR-B,Buenos Aires
-2021,Buenos Aires,Superior incompleto o completo,0.807692414369824,AR-B,Buenos Aires
-2021,Ciudad de Buenos Aires,Hasta secundario incompleto,0.673776015294485,AR-C,CABA
-2021,Ciudad de Buenos Aires,Secundario completo,0.813603435856314,AR-C,CABA
-2021,Ciudad de Buenos Aires,Superior incompleto o completo,0.871906425453485,AR-C,CABA
-2021,Catamarca,Hasta secundario incompleto,0.612408966234749,AR-K,Catamarca
-2021,Catamarca,Secundario completo,0.731307107819563,AR-K,Catamarca
-2021,Catamarca,Superior incompleto o completo,0.785271440363911,AR-K,Catamarca
-2021,Chaco,Hasta secundario incompleto,0.592553102525506,AR-H,Chaco
-2021,Chaco,Secundario completo,0.638079034282063,AR-H,Chaco
-2021,Chaco,Superior incompleto o completo,0.794483554529717,AR-H,Chaco
-2021,Chubut,Hasta secundario incompleto,0.654065649742494,AR-U,Chubut
-2021,Chubut,Secundario completo,0.735394589203341,AR-U,Chubut
-2021,Chubut,Superior incompleto o completo,0.805501468784117,AR-U,Chubut
-2021,Corrientes,Hasta secundario incompleto,0.610902360708275,AR-W,Corrientes
-2021,Corrientes,Secundario completo,0.706195584304426,AR-W,Corrientes
-2021,Corrientes,Superior incompleto o completo,0.777541485847959,AR-W,Corrientes
-2021,Córdoba,Hasta secundario incompleto,0.637763716033655,AR-X,Córdoba
-2021,Córdoba,Secundario completo,0.743657522176416,AR-X,Córdoba
-2021,Córdoba,Superior incompleto o completo,0.794621096742055,AR-X,Córdoba
-2021,Entre Ríos,Hasta secundario incompleto,0.644455123746412,AR-E,Entre Ríos
-2021,Entre Ríos,Secundario completo,0.736644443797491,AR-E,Entre Ríos
-2021,Entre Ríos,Superior incompleto o completo,0.819605141366543,AR-E,Entre Ríos
-2021,Formosa,Hasta secundario incompleto,0.458954014162614,AR-P,Formosa
-2021,Formosa,Secundario completo,0.576409107876073,AR-P,Formosa
-2021,Formosa,Superior incompleto o completo,0.60448331322879,AR-P,Formosa
-2021,Jujuy,Hasta secundario incompleto,0.637123932099982,AR-Y,Jujuy
-2021,Jujuy,Secundario completo,0.77224742167658,AR-Y,Jujuy
-2021,Jujuy,Superior incompleto o completo,0.782259249155352,AR-Y,Jujuy
-2021,La Pampa,Hasta secundario incompleto,0.576692741064959,AR-L,La Pampa
-2021,La Pampa,Secundario completo,0.750377004981036,AR-L,La Pampa
-2021,La Pampa,Superior incompleto o completo,0.801113277121451,AR-L,La Pampa
-2021,La Rioja,Hasta secundario incompleto,0.653638556061708,AR-F,La Rioja
-2021,La Rioja,Secundario completo,0.761798780487805,AR-F,La Rioja
-2021,La Rioja,Superior incompleto o completo,0.799336909434965,AR-F,La Rioja
-2021,Mendoza,Hasta secundario incompleto,0.62327552057319,AR-M,Mendoza
-2021,Mendoza,Secundario completo,0.766171082299887,AR-M,Mendoza
-2021,Mendoza,Superior incompleto o completo,0.81067940334767,AR-M,Mendoza
-2021,Misiones,Hasta secundario incompleto,0.634885660841577,AR-N,Misiones
-2021,Misiones,Secundario completo,0.728189666756248,AR-N,Misiones
-2021,Misiones,Superior incompleto o completo,0.829659352855801,AR-N,Misiones
-2021,Neuquén,Hasta secundario incompleto,0.637829398081764,AR-Q,Neuquén
-2021,Neuquén,Secundario completo,0.735070260642649,AR-Q,Neuquén
-2021,Neuquén,Superior incompleto o completo,0.739426886575141,AR-Q,Neuquén
-2021,Río Negro,Hasta secundario incompleto,0.66186561315398,AR-R,Río Negro
-2021,Río Negro,Secundario completo,0.742383364534009,AR-R,Río Negro
-2021,Río Negro,Superior incompleto o completo,0.81570840888265,AR-R,Río Negro
-2021,Salta,Hasta secundario incompleto,0.630659688173186,AR-A,Salta
-2021,Salta,Secundario completo,0.744223055716601,AR-A,Salta
-2021,Salta,Superior incompleto o completo,0.761478268032179,AR-A,Salta
-2021,San Juan,Hasta secundario incompleto,0.644826281436236,AR-J,San Juan
-2021,San Juan,Secundario completo,0.752225159599644,AR-J,San Juan
-2021,San Juan,Superior incompleto o completo,0.794488476273488,AR-J,San Juan
-2021,San Luis,Hasta secundario incompleto,0.679007069260269,AR-D,San Luis
-2021,San Luis,Secundario completo,0.762069537903648,AR-D,San Luis
-2021,San Luis,Superior incompleto o completo,0.802637962401455,AR-D,San Luis
-2021,Santa Cruz,Hasta secundario incompleto,0.679745715699357,AR-Z,Santa Cruz
-2021,Santa Cruz,Secundario completo,0.758552968634371,AR-Z,Santa Cruz
-2021,Santa Cruz,Superior incompleto o completo,0.737367802585194,AR-Z,Santa Cruz
-2021,Santa Fe,Hasta secundario incompleto,0.669254235807567,AR-S,Santa Fe
-2021,Santa Fe,Secundario completo,0.772358571537216,AR-S,Santa Fe
-2021,Santa Fe,Superior incompleto o completo,0.851020678638816,AR-S,Santa Fe
-2021,Santiago del Estero,Hasta secundario incompleto,0.605763314875746,AR-G,Santiago del Estero
-2021,Santiago del Estero,Secundario completo,0.732461667187516,AR-G,Santiago del Estero
-2021,Santiago del Estero,Superior incompleto o completo,0.761985068591773,AR-G,Santiago del Estero
-2021,Tierra del Fuego,Hasta secundario incompleto,0.583091255133727,AR-V,Tierra del Fuego
-2021,Tierra del Fuego,Secundario completo,0.727762684160537,AR-V,Tierra del Fuego
-2021,Tierra del Fuego,Superior incompleto o completo,0.830528846153846,AR-V,Tierra del Fuego
-2021,Tucumán,Hasta secundario incompleto,0.616006103196448,AR-T,Tucumán
-2021,Tucumán,Secundario completo,0.722215474310701,AR-T,Tucumán
-2021,Tucumán,Superior incompleto o completo,0.785351448277195,AR-T,Tucumán
-2022,Buenos Aires,Hasta secundario incompleto,0.684012490812827,AR-B,Buenos Aires
-2022,Buenos Aires,Secundario completo,0.723775560162715,AR-B,Buenos Aires
-2022,Buenos Aires,Superior incompleto o completo,0.831657508316316,AR-B,Buenos Aires
-2022,Ciudad de Buenos Aires,Hasta secundario incompleto,0.787814850241002,AR-C,CABA
-2022,Ciudad de Buenos Aires,Secundario completo,0.760604030124729,AR-C,CABA
-2022,Ciudad de Buenos Aires,Superior incompleto o completo,0.894956950499692,AR-C,CABA
-2022,Catamarca,Hasta secundario incompleto,0.682241685453784,AR-K,Catamarca
-2022,Catamarca,Secundario completo,0.7648618425799,AR-K,Catamarca
-2022,Catamarca,Superior incompleto o completo,0.767885611797529,AR-K,Catamarca
-2022,Chaco,Hasta secundario incompleto,0.604894237199736,AR-H,Chaco
-2022,Chaco,Secundario completo,0.704146921097408,AR-H,Chaco
-2022,Chaco,Superior incompleto o completo,0.806694951819359,AR-H,Chaco
-2022,Chubut,Hasta secundario incompleto,0.68975303312791,AR-U,Chubut
-2022,Chubut,Secundario completo,0.760540910940277,AR-U,Chubut
-2022,Chubut,Superior incompleto o completo,0.834467753847382,AR-U,Chubut
-2022,Corrientes,Hasta secundario incompleto,0.560812763573093,AR-W,Corrientes
-2022,Corrientes,Secundario completo,0.693265961592732,AR-W,Corrientes
-2022,Corrientes,Superior incompleto o completo,0.799651719634306,AR-W,Corrientes
-2022,Córdoba,Hasta secundario incompleto,0.708008356052827,AR-X,Córdoba
-2022,Córdoba,Secundario completo,0.744547631061916,AR-X,Córdoba
-2022,Córdoba,Superior incompleto o completo,0.758178835358697,AR-X,Córdoba
-2022,Entre Ríos,Hasta secundario incompleto,0.672015379636621,AR-E,Entre Ríos
-2022,Entre Ríos,Secundario completo,0.721654456883477,AR-E,Entre Ríos
-2022,Entre Ríos,Superior incompleto o completo,0.799390547952795,AR-E,Entre Ríos
-2022,Formosa,Hasta secundario incompleto,0.480382044555621,AR-P,Formosa
-2022,Formosa,Secundario completo,0.640165260053546,AR-P,Formosa
-2022,Formosa,Superior incompleto o completo,0.630319371290026,AR-P,Formosa
-2022,Jujuy,Hasta secundario incompleto,0.6635341447508,AR-Y,Jujuy
-2022,Jujuy,Secundario completo,0.779664235794591,AR-Y,Jujuy
-2022,Jujuy,Superior incompleto o completo,0.752709902627228,AR-Y,Jujuy
-2022,La Pampa,Hasta secundario incompleto,0.648641038362005,AR-L,La Pampa
-2022,La Pampa,Secundario completo,0.792682088080882,AR-L,La Pampa
-2022,La Pampa,Superior incompleto o completo,0.828955828074771,AR-L,La Pampa
-2022,La Rioja,Hasta secundario incompleto,0.644634539126219,AR-F,La Rioja
-2022,La Rioja,Secundario completo,0.775898520084567,AR-F,La Rioja
-2022,La Rioja,Superior incompleto o completo,0.788213568847852,AR-F,La Rioja
-2022,Mendoza,Hasta secundario incompleto,0.663059844175709,AR-M,Mendoza
-2022,Mendoza,Secundario completo,0.773171713345486,AR-M,Mendoza
-2022,Mendoza,Superior incompleto o completo,0.840526611786606,AR-M,Mendoza
-2022,Misiones,Hasta secundario incompleto,0.684997515071631,AR-N,Misiones
-2022,Misiones,Secundario completo,0.79671950043534,AR-N,Misiones
-2022,Misiones,Superior incompleto o completo,0.823674335237609,AR-N,Misiones
-2022,Neuquén,Hasta secundario incompleto,0.66997479521109,AR-Q,Neuquén
-2022,Neuquén,Secundario completo,0.733638105482537,AR-Q,Neuquén
-2022,Neuquén,Superior incompleto o completo,0.819065326747807,AR-Q,Neuquén
-2022,Río Negro,Hasta secundario incompleto,0.66542897831063,AR-R,Río Negro
-2022,Río Negro,Secundario completo,0.740852253769523,AR-R,Río Negro
-2022,Río Negro,Superior incompleto o completo,0.801610168610033,AR-R,Río Negro
-2022,Salta,Hasta secundario incompleto,0.65294826147532,AR-A,Salta
-2022,Salta,Secundario completo,0.744214148884038,AR-A,Salta
-2022,Salta,Superior incompleto o completo,0.775469978352512,AR-A,Salta
-2022,San Juan,Hasta secundario incompleto,0.64812306501548,AR-J,San Juan
-2022,San Juan,Secundario completo,0.763774421620717,AR-J,San Juan
-2022,San Juan,Superior incompleto o completo,0.745786445596696,AR-J,San Juan
-2022,San Luis,Hasta secundario incompleto,0.718723126139452,AR-D,San Luis
-2022,San Luis,Secundario completo,0.789494522898245,AR-D,San Luis
-2022,San Luis,Superior incompleto o completo,0.79274576836488,AR-D,San Luis
-2022,Santa Cruz,Hasta secundario incompleto,0.714944174702974,AR-Z,Santa Cruz
-2022,Santa Cruz,Secundario completo,0.771405947562907,AR-Z,Santa Cruz
-2022,Santa Cruz,Superior incompleto o completo,0.77324479923483,AR-Z,Santa Cruz
-2022,Santa Fe,Hasta secundario incompleto,0.705708993202489,AR-S,Santa Fe
-2022,Santa Fe,Secundario completo,0.747216404613798,AR-S,Santa Fe
-2022,Santa Fe,Superior incompleto o completo,0.847891581060415,AR-S,Santa Fe
-2022,Santiago del Estero,Hasta secundario incompleto,0.622396867729671,AR-G,Santiago del Estero
-2022,Santiago del Estero,Secundario completo,0.728880693101717,AR-G,Santiago del Estero
-2022,Santiago del Estero,Superior incompleto o completo,0.768775275850017,AR-G,Santiago del Estero
-2022,Tierra del Fuego,Hasta secundario incompleto,0.596593841389988,AR-V,Tierra del Fuego
-2022,Tierra del Fuego,Secundario completo,0.701375874205787,AR-V,Tierra del Fuego
-2022,Tierra del Fuego,Superior incompleto o completo,0.82038625063054,AR-V,Tierra del Fuego
-2022,Tucumán,Hasta secundario incompleto,0.660187949777982,AR-T,Tucumán
-2022,Tucumán,Secundario completo,0.745771521518461,AR-T,Tucumán
-2022,Tucumán,Superior incompleto o completo,0.773299687575102,AR-T,Tucumán
-2023,Buenos Aires,Hasta secundario incompleto,0.691307345378368,AR-B,Buenos Aires
-2023,Buenos Aires,Secundario completo,0.762481242801084,AR-B,Buenos Aires
-2023,Buenos Aires,Superior incompleto o completo,0.852302241061609,AR-B,Buenos Aires
-2023,Ciudad de Buenos Aires,Hasta secundario incompleto,0.744227704059729,AR-C,CABA
-2023,Ciudad de Buenos Aires,Secundario completo,0.843299531099119,AR-C,CABA
-2023,Ciudad de Buenos Aires,Superior incompleto o completo,0.871446998123827,AR-C,CABA
-2023,Catamarca,Hasta secundario incompleto,0.693035445437817,AR-K,Catamarca
-2023,Catamarca,Secundario completo,0.79452873906869,AR-K,Catamarca
-2023,Catamarca,Superior incompleto o completo,0.778057032382794,AR-K,Catamarca
-2023,Chaco,Hasta secundario incompleto,0.551060653610294,AR-H,Chaco
-2023,Chaco,Secundario completo,0.707321216239171,AR-H,Chaco
-2023,Chaco,Superior incompleto o completo,0.824812296359258,AR-H,Chaco
-2023,Chubut,Hasta secundario incompleto,0.697115767315567,AR-U,Chubut
-2023,Chubut,Secundario completo,0.771731262749227,AR-U,Chubut
-2023,Chubut,Superior incompleto o completo,0.834142741750516,AR-U,Chubut
-2023,Corrientes,Hasta secundario incompleto,0.619226061249942,AR-W,Corrientes
-2023,Corrientes,Secundario completo,0.660876628215446,AR-W,Corrientes
-2023,Corrientes,Superior incompleto o completo,0.767247948789595,AR-W,Corrientes
-2023,Córdoba,Hasta secundario incompleto,0.678936058587209,AR-X,Córdoba
-2023,Córdoba,Secundario completo,0.79158248297145,AR-X,Córdoba
-2023,Córdoba,Superior incompleto o completo,0.77647481272879,AR-X,Córdoba
-2023,Entre Ríos,Hasta secundario incompleto,0.708205286359596,AR-E,Entre Ríos
-2023,Entre Ríos,Secundario completo,0.724173711550214,AR-E,Entre Ríos
-2023,Entre Ríos,Superior incompleto o completo,0.823670268656056,AR-E,Entre Ríos
-2023,Formosa,Hasta secundario incompleto,0.570820950459416,AR-P,Formosa
-2023,Formosa,Secundario completo,0.721387222535803,AR-P,Formosa
-2023,Formosa,Superior incompleto o completo,0.723019932968778,AR-P,Formosa
-2023,Jujuy,Hasta secundario incompleto,0.726061834607588,AR-Y,Jujuy
-2023,Jujuy,Secundario completo,0.805776813706979,AR-Y,Jujuy
-2023,Jujuy,Superior incompleto o completo,0.800331579952433,AR-Y,Jujuy
-2023,La Pampa,Hasta secundario incompleto,0.684994846940197,AR-L,La Pampa
-2023,La Pampa,Secundario completo,0.787282557592854,AR-L,La Pampa
-2023,La Pampa,Superior incompleto o completo,0.830652926594415,AR-L,La Pampa
-2023,La Rioja,Hasta secundario incompleto,0.663855062749041,AR-F,La Rioja
-2023,La Rioja,Secundario completo,0.800884297632408,AR-F,La Rioja
-2023,La Rioja,Superior incompleto o completo,0.797822629568297,AR-F,La Rioja
-2023,Mendoza,Hasta secundario incompleto,0.670161832663915,AR-M,Mendoza
-2023,Mendoza,Secundario completo,0.771678002811871,AR-M,Mendoza
-2023,Mendoza,Superior incompleto o completo,0.849792881546391,AR-M,Mendoza
-2023,Misiones,Hasta secundario incompleto,0.649934598548418,AR-N,Misiones
-2023,Misiones,Secundario completo,0.832764849682346,AR-N,Misiones
-2023,Misiones,Superior incompleto o completo,0.869366483258803,AR-N,Misiones
-2023,Neuquén,Hasta secundario incompleto,0.684997755216169,AR-Q,Neuquén
-2023,Neuquén,Secundario completo,0.801175090615126,AR-Q,Neuquén
-2023,Neuquén,Superior incompleto o completo,0.825143815915628,AR-Q,Neuquén
-2023,Río Negro,Hasta secundario incompleto,0.641322149982629,AR-R,Río Negro
-2023,Río Negro,Secundario completo,0.761063246524378,AR-R,Río Negro
-2023,Río Negro,Superior incompleto o completo,0.806068276150538,AR-R,Río Negro
-2023,Salta,Hasta secundario incompleto,0.698701592137094,AR-A,Salta
-2023,Salta,Secundario completo,0.771744868738902,AR-A,Salta
-2023,Salta,Superior incompleto o completo,0.786591744782226,AR-A,Salta
-2023,San Juan,Hasta secundario incompleto,0.673952512486489,AR-J,San Juan
-2023,San Juan,Secundario completo,0.741213458356315,AR-J,San Juan
-2023,San Juan,Superior incompleto o completo,0.772850149777161,AR-J,San Juan
-2023,San Luis,Hasta secundario incompleto,0.697484650870439,AR-D,San Luis
-2023,San Luis,Secundario completo,0.773847613025609,AR-D,San Luis
-2023,San Luis,Superior incompleto o completo,0.842952206225318,AR-D,San Luis
-2023,Santa Cruz,Hasta secundario incompleto,0.629233378223353,AR-Z,Santa Cruz
-2023,Santa Cruz,Secundario completo,0.773834306261191,AR-Z,Santa Cruz
-2023,Santa Cruz,Superior incompleto o completo,0.839496698197394,AR-Z,Santa Cruz
-2023,Santa Fe,Hasta secundario incompleto,0.722287732839196,AR-S,Santa Fe
-2023,Santa Fe,Secundario completo,0.776275031025903,AR-S,Santa Fe
-2023,Santa Fe,Superior incompleto o completo,0.84299296935263,AR-S,Santa Fe
-2023,Santiago del Estero,Hasta secundario incompleto,0.666547101805622,AR-G,Santiago del Estero
-2023,Santiago del Estero,Secundario completo,0.765726544921773,AR-G,Santiago del Estero
-2023,Santiago del Estero,Superior incompleto o completo,0.817794590730371,AR-G,Santiago del Estero
-2023,Tierra del Fuego,Hasta secundario incompleto,0.718944176567083,AR-V,Tierra del Fuego
-2023,Tierra del Fuego,Secundario completo,0.813587113070838,AR-V,Tierra del Fuego
-2023,Tierra del Fuego,Superior incompleto o completo,0.775404258304395,AR-V,Tierra del Fuego
-2023,Tucumán,Hasta secundario incompleto,0.688648670210114,AR-T,Tucumán
-2023,Tucumán,Secundario completo,0.77084926004952,AR-T,Tucumán
-2023,Tucumán,Superior incompleto o completo,0.821954037513765,AR-T,Tucumán
-2016,Buenos Aires,Total,0.708294954779,AR-B,Buenos Aires
-2016,Ciudad de Buenos Aires,Total,0.816460817499438,AR-C,CABA
-2016,Catamarca,Total,0.741197383867181,AR-K,Catamarca
-2016,Chaco,Total,0.605582259946217,AR-H,Chaco
-2016,Chubut,Total,0.721594676917198,AR-U,Chubut
-2016,Corrientes,Total,0.678311979016465,AR-W,Corrientes
-2016,Córdoba,Total,0.701420361953265,AR-X,Córdoba
-2016,Entre Ríos,Total,0.698654389527606,AR-E,Entre Ríos
-2016,Formosa,Total,0.547443157955234,AR-P,Formosa
-2016,Jujuy,Total,0.711002264432078,AR-Y,Jujuy
-2016,La Pampa,Total,0.70899844510064,AR-L,La Pampa
-2016,La Rioja,Total,0.704637485233454,AR-F,La Rioja
-2016,Mendoza,Total,0.719702101703681,AR-M,Mendoza
-2016,Misiones,Total,0.690655327798815,AR-N,Misiones
-2016,Neuquén,Total,0.713664553795429,AR-Q,Neuquén
-2016,Río Negro,Total,0.697017450572823,AR-R,Río Negro
-2016,Salta,Total,0.688017303963376,AR-A,Salta
-2016,San Juan,Total,0.626460363983369,AR-J,San Juan
-2016,San Luis,Total,0.685059573237295,AR-D,San Luis
-2016,Santa Cruz,Total,0.695619754242824,AR-Z,Santa Cruz
-2016,Santa Fe,Total,0.705304133454288,AR-S,Santa Fe
-2016,Santiago del Estero,Total,0.666027357965064,AR-G,Santiago del Estero
-2016,Tierra del Fuego,Total,0.711203688140802,AR-V,Tierra del Fuego
-2016,Tucumán,Total,0.722902943865301,AR-T,Tucumán
-2017,Buenos Aires,Total,0.717583343626284,AR-B,Buenos Aires
-2017,Ciudad de Buenos Aires,Total,0.820311876094361,AR-C,CABA
-2017,Catamarca,Total,0.739365677811952,AR-K,Catamarca
-2017,Chaco,Total,0.644664295587619,AR-H,Chaco
-2017,Chubut,Total,0.698076542796733,AR-U,Chubut
-2017,Corrientes,Total,0.694121037593748,AR-W,Corrientes
-2017,Córdoba,Total,0.710543587416972,AR-X,Córdoba
-2017,Entre Ríos,Total,0.711857687636816,AR-E,Entre Ríos
-2017,Formosa,Total,0.530833069802822,AR-P,Formosa
-2017,Jujuy,Total,0.728561911713613,AR-Y,Jujuy
-2017,La Pampa,Total,0.687993636402033,AR-L,La Pampa
-2017,La Rioja,Total,0.709116244774515,AR-F,La Rioja
-2017,Mendoza,Total,0.706298920165094,AR-M,Mendoza
-2017,Misiones,Total,0.71806356305117,AR-N,Misiones
-2017,Neuquén,Total,0.695502826707014,AR-Q,Neuquén
-2017,Río Negro,Total,0.680760441120611,AR-R,Río Negro
-2017,Salta,Total,0.698595083937707,AR-A,Salta
-2017,San Juan,Total,0.645666567842672,AR-J,San Juan
-2017,San Luis,Total,0.686387928324426,AR-D,San Luis
-2017,Santa Cruz,Total,0.683309299596583,AR-Z,Santa Cruz
-2017,Santa Fe,Total,0.734404204323064,AR-S,Santa Fe
-2017,Santiago del Estero,Total,0.671457079403907,AR-G,Santiago del Estero
-2017,Tierra del Fuego,Total,0.676107883516722,AR-V,Tierra del Fuego
-2017,Tucumán,Total,0.709890579182172,AR-T,Tucumán
-2018,Buenos Aires,Total,0.706627971474883,AR-B,Buenos Aires
-2018,Ciudad de Buenos Aires,Total,0.826629851224748,AR-C,CABA
-2018,Catamarca,Total,0.725233571175149,AR-K,Catamarca
-2018,Chaco,Total,0.590529778823763,AR-H,Chaco
-2018,Chubut,Total,0.67845924825932,AR-U,Chubut
-2018,Corrientes,Total,0.671098822306665,AR-W,Corrientes
-2018,Córdoba,Total,0.727433610727883,AR-X,Córdoba
-2018,Entre Ríos,Total,0.724899799042956,AR-E,Entre Ríos
-2018,Formosa,Total,0.553461354640262,AR-P,Formosa
-2018,Jujuy,Total,0.717793169775378,AR-Y,Jujuy
-2018,La Pampa,Total,0.70497468345734,AR-L,La Pampa
-2018,La Rioja,Total,0.727982237771648,AR-F,La Rioja
-2018,Mendoza,Total,0.716967332337988,AR-M,Mendoza
-2018,Misiones,Total,0.709457656132084,AR-N,Misiones
-2018,Neuquén,Total,0.700469047057354,AR-Q,Neuquén
-2018,Río Negro,Total,0.70485407056796,AR-R,Río Negro
-2018,Salta,Total,0.71479093729542,AR-A,Salta
-2018,San Juan,Total,0.686699560155586,AR-J,San Juan
-2018,San Luis,Total,0.748645129167544,AR-D,San Luis
-2018,Santa Cruz,Total,0.722771505121792,AR-Z,Santa Cruz
-2018,Santa Fe,Total,0.750826442366893,AR-S,Santa Fe
-2018,Santiago del Estero,Total,0.656837980197017,AR-G,Santiago del Estero
-2018,Tierra del Fuego,Total,0.65934516488022,AR-V,Tierra del Fuego
-2018,Tucumán,Total,0.706195737332715,AR-T,Tucumán
-2019,Buenos Aires,Total,0.698486489062644,AR-B,Buenos Aires
-2019,Ciudad de Buenos Aires,Total,0.84908750825392,AR-C,CABA
-2019,Catamarca,Total,0.729867922060939,AR-K,Catamarca
-2019,Chubut,Total,0.703606327191449,AR-U,Chubut
-2019,Corrientes,Total,0.696989033947123,AR-W,Corrientes
-2019,Córdoba,Total,0.713898568752064,AR-X,Córdoba
-2019,Entre Ríos,Total,0.731034178299296,AR-E,Entre Ríos
-2019,Formosa,Total,0.512611528023054,AR-P,Formosa
-2019,Jujuy,Total,0.709644853704936,AR-Y,Jujuy
-2019,La Pampa,Total,0.725596838588772,AR-L,La Pampa
-2019,La Rioja,Total,0.713237796791193,AR-F,La Rioja
-2019,Mendoza,Total,0.702333005768868,AR-M,Mendoza
-2019,Misiones,Total,0.740304339065607,AR-N,Misiones
-2019,Neuquén,Total,0.695520913741447,AR-Q,Neuquén
-2019,Río Negro,Total,0.697668626813282,AR-R,Río Negro
-2019,Salta,Total,0.712354185940175,AR-A,Salta
-2019,San Juan,Total,0.731326619041282,AR-J,San Juan
-2019,San Luis,Total,0.759862770997976,AR-D,San Luis
-2019,Santa Cruz,Total,0.696362137844984,AR-Z,Santa Cruz
-2019,Santa Fe,Total,0.739519063683475,AR-S,Santa Fe
-2019,Santiago del Estero,Total,0.693765320853053,AR-G,Santiago del Estero
-2019,Tierra del Fuego,Total,0.647533702875004,AR-V,Tierra del Fuego
-2019,Tucumán,Total,0.71010445133811,AR-T,Tucumán
-2020,Buenos Aires,Total,0.616702795720791,AR-B,Buenos Aires
-2020,Ciudad de Buenos Aires,Total,0.719761267924829,AR-C,CABA
-2020,Catamarca,Total,0.679278400162214,AR-K,Catamarca
-2020,Chaco,Total,0.608612159875016,AR-H,Chaco
-2020,Chubut,Total,0.685654148355772,AR-U,Chubut
-2020,Corrientes,Total,0.660803653533281,AR-W,Corrientes
-2020,Córdoba,Total,0.684094338452634,AR-X,Córdoba
-2020,Entre Ríos,Total,0.663148083815592,AR-E,Entre Ríos
-2020,Formosa,Total,0.530419970786943,AR-P,Formosa
-2020,Jujuy,Total,0.653581380346386,AR-Y,Jujuy
-2020,La Pampa,Total,0.661651004733811,AR-L,La Pampa
-2020,La Rioja,Total,0.699512313506142,AR-F,La Rioja
-2020,Mendoza,Total,0.697204091478598,AR-M,Mendoza
-2020,Misiones,Total,0.702848690009768,AR-N,Misiones
-2020,Neuquén,Total,0.653017269812789,AR-Q,Neuquén
-2020,Río Negro,Total,0.670320805543151,AR-R,Río Negro
-2020,Salta,Total,0.666882011217949,AR-A,Salta
-2020,San Juan,Total,0.66685177628531,AR-J,San Juan
-2020,San Luis,Total,0.690788288288288,AR-D,San Luis
-2020,Santa Cruz,Total,0.644915823793734,AR-Z,Santa Cruz
-2020,Santa Fe,Total,0.720000742728226,AR-S,Santa Fe
-2020,Tucumán,Total,0.60595289680196,AR-T,Tucumán
-2021,Buenos Aires,Total,0.719620088899986,AR-B,Buenos Aires
-2021,Ciudad de Buenos Aires,Total,0.833530217556525,AR-C,CABA
-2021,Catamarca,Total,0.711447767744009,AR-K,Catamarca
-2021,Chaco,Total,0.65699720256178,AR-H,Chaco
-2021,Chubut,Total,0.722674386658974,AR-U,Chubut
-2021,Corrientes,Total,0.696047099142991,AR-W,Corrientes
-2021,Córdoba,Total,0.716154782725486,AR-X,Córdoba
-2021,Entre Ríos,Total,0.726471687909359,AR-E,Entre Ríos
-2021,Formosa,Total,0.52352677140109,AR-P,Formosa
-2021,Jujuy,Total,0.728056412306187,AR-Y,Jujuy
-2021,La Pampa,Total,0.688121062544652,AR-L,La Pampa
-2021,La Rioja,Total,0.743917398742498,AR-F,La Rioja
-2021,Mendoza,Total,0.721995504042589,AR-M,Mendoza
-2021,Misiones,Total,0.706520316069988,AR-N,Misiones
-2021,Neuquén,Total,0.696780772032047,AR-Q,Neuquén
-2021,Río Negro,Total,0.7348185955864,AR-R,Río Negro
-2021,Salta,Total,0.701757836387015,AR-A,Salta
-2021,San Juan,Total,0.717045669348039,AR-J,San Juan
-2021,San Luis,Total,0.742511338580631,AR-D,San Luis
-2021,Santa Cruz,Total,0.724845100385587,AR-Z,Santa Cruz
-2021,Santa Fe,Total,0.762371703298896,AR-S,Santa Fe
-2021,Santiago del Estero,Total,0.686901286965264,AR-G,Santiago del Estero
-2021,Tierra del Fuego,Total,0.725148575759906,AR-V,Tierra del Fuego
-2021,Tucumán,Total,0.694162453830289,AR-T,Tucumán
-2022,Buenos Aires,Total,0.73985268104965,AR-B,Buenos Aires
-2022,Ciudad de Buenos Aires,Total,0.855572104489398,AR-C,CABA
-2022,Catamarca,Total,0.740980679563043,AR-K,Catamarca
-2022,Chaco,Total,0.686157966225784,AR-H,Chaco
-2022,Chubut,Total,0.759548659898108,AR-U,Chubut
-2022,Corrientes,Total,0.679211676459771,AR-W,Corrientes
-2022,Córdoba,Total,0.734542847620777,AR-X,Córdoba
-2022,Entre Ríos,Total,0.723483331285416,AR-E,Entre Ríos
-2022,Formosa,Total,0.557791389970231,AR-P,Formosa
-2022,Jujuy,Total,0.728175575555953,AR-Y,Jujuy
-2022,La Pampa,Total,0.735131997028584,AR-L,La Pampa
-2022,La Rioja,Total,0.73968299528001,AR-F,La Rioja
-2022,Mendoza,Total,0.753902408033996,AR-M,Mendoza
-2022,Misiones,Total,0.751896151454007,AR-N,Misiones
-2022,Neuquén,Total,0.729209969359067,AR-Q,Neuquén
-2022,Río Negro,Total,0.728849490927674,AR-R,Río Negro
-2022,Salta,Total,0.714075103997471,AR-A,Salta
-2022,San Juan,Total,0.709157279994806,AR-J,San Juan
-2022,San Luis,Total,0.763565773777248,AR-D,San Luis
-2022,Santa Cruz,Total,0.746743243445357,AR-Z,Santa Cruz
-2022,Santa Fe,Total,0.768442739756939,AR-S,Santa Fe
-2022,Santiago del Estero,Total,0.688746022645447,AR-G,Santiago del Estero
-2022,Tierra del Fuego,Total,0.710521317011397,AR-V,Tierra del Fuego
-2022,Tucumán,Total,0.714968645631408,AR-T,Tucumán
-2023,Buenos Aires,Total,0.766514418137124,AR-B,Buenos Aires
-2023,Ciudad de Buenos Aires,Total,0.848855848205248,AR-C,CABA
-2023,Catamarca,Total,0.756256383311588,AR-K,Catamarca
-2023,Chaco,Total,0.667783027797783,AR-H,Chaco
-2023,Chubut,Total,0.764580131615242,AR-U,Chubut
-2023,Corrientes,Total,0.681391656771129,AR-W,Corrientes
-2023,Córdoba,Total,0.742072426167348,AR-X,Córdoba
-2023,Entre Ríos,Total,0.746324949594885,AR-E,Entre Ríos
-2023,Formosa,Total,0.653563988769133,AR-P,Formosa
-2023,Jujuy,Total,0.775820665562381,AR-Y,Jujuy
-2023,La Pampa,Total,0.755242012099073,AR-L,La Pampa
-2023,La Rioja,Total,0.760885006413858,AR-F,La Rioja
-2023,Mendoza,Total,0.758863633319493,AR-M,Mendoza
-2023,Misiones,Total,0.766654378431158,AR-N,Misiones
-2023,Neuquén,Total,0.761127208209946,AR-Q,Neuquén
-2023,Río Negro,Total,0.725495306151044,AR-R,Río Negro
-2023,Salta,Total,0.746822612330461,AR-A,Salta
-2023,San Juan,Total,0.723487630926634,AR-J,San Juan
-2023,San Luis,Total,0.763701900329482,AR-D,San Luis
-2023,Santa Cruz,Total,0.735197809866337,AR-Z,Santa Cruz
-2023,Santa Fe,Total,0.780759212122654,AR-S,Santa Fe
-2023,Santiago del Estero,Total,0.733490463805808,AR-G,Santiago del Estero
-2023,Tierra del Fuego,Total,0.781669635333895,AR-V,Tierra del Fuego
-2023,Tucumán,Total,0.751635036140641,AR-T,Tucumán
+"anio","provincia","nivel_ed_fundar","ocupado"
+"2016","Buenos Aires","Hasta secundario incompleto","0.647369346312506"
+"2016","Buenos Aires","Secundario completo","0.732080369939695"
+"2016","Buenos Aires","Superior incompleto o completo","0.792269581817955"
+"2016","Ciudad de Buenos Aires","Hasta secundario incompleto","0.702942088673788"
+"2016","Ciudad de Buenos Aires","Secundario completo","0.79641574066338"
+"2016","Ciudad de Buenos Aires","Superior incompleto o completo","0.858126306263601"
+"2016","Catamarca","Hasta secundario incompleto","0.6613294160852"
+"2016","Catamarca","Secundario completo","0.780971780376719"
+"2016","Catamarca","Superior incompleto o completo","0.792486548053886"
+"2016","Chaco","Hasta secundario incompleto","0.511100024943876"
+"2016","Chaco","Secundario completo","0.73221482347711"
+"2016","Chaco","Superior incompleto o completo","0.698531650102964"
+"2016","Chubut","Hasta secundario incompleto","0.667641463191739"
+"2016","Chubut","Secundario completo","0.740869472220737"
+"2016","Chubut","Superior incompleto o completo","0.792018622285412"
+"2016","Corrientes","Hasta secundario incompleto","0.580674249104505"
+"2016","Corrientes","Secundario completo","0.743306180596143"
+"2016","Corrientes","Superior incompleto o completo","0.776836671060837"
+"2016","Córdoba","Hasta secundario incompleto","0.594823272972562"
+"2016","Córdoba","Secundario completo","0.750034172727095"
+"2016","Córdoba","Superior incompleto o completo","0.832983219017111"
+"2016","Entre Ríos","Hasta secundario incompleto","0.609448395126217"
+"2016","Entre Ríos","Secundario completo","0.798237037037037"
+"2016","Entre Ríos","Superior incompleto o completo","0.777384547491931"
+"2016","Formosa","Hasta secundario incompleto","0.461189687857636"
+"2016","Formosa","Secundario completo","0.613818457581852"
+"2016","Formosa","Superior incompleto o completo","0.661928258145363"
+"2016","Jujuy","Hasta secundario incompleto","0.659052570236781"
+"2016","Jujuy","Secundario completo","0.751223080791916"
+"2016","Jujuy","Superior incompleto o completo","0.747949215425985"
+"2016","La Pampa","Hasta secundario incompleto","0.654953802416489"
+"2016","La Pampa","Secundario completo","0.729443126226675"
+"2016","La Pampa","Superior incompleto o completo","0.795912081758365"
+"2016","La Rioja","Hasta secundario incompleto","0.657807083135069"
+"2016","La Rioja","Secundario completo","0.716700022237047"
+"2016","La Rioja","Superior incompleto o completo","0.747829392229824"
+"2016","Mendoza","Hasta secundario incompleto","0.642680043269737"
+"2016","Mendoza","Secundario completo","0.774366548760349"
+"2016","Mendoza","Superior incompleto o completo","0.78542412045319"
+"2016","Misiones","Hasta secundario incompleto","0.599435421011608"
+"2016","Misiones","Secundario completo","0.750418068425505"
+"2016","Misiones","Superior incompleto o completo","0.83797920942859"
+"2016","Neuquén","Hasta secundario incompleto","0.655079006772009"
+"2016","Neuquén","Secundario completo","0.757450723465946"
+"2016","Neuquén","Superior incompleto o completo","0.777134033860323"
+"2016","Río Negro","Hasta secundario incompleto","0.630670338536631"
+"2016","Río Negro","Secundario completo","0.740387710133446"
+"2016","Río Negro","Superior incompleto o completo","0.778050129471805"
+"2016","Salta","Hasta secundario incompleto","0.615091076877032"
+"2016","Salta","Secundario completo","0.726061513336962"
+"2016","Salta","Superior incompleto o completo","0.76861198206399"
+"2016","San Juan","Hasta secundario incompleto","0.541378716522286"
+"2016","San Juan","Secundario completo","0.649898595264461"
+"2016","San Juan","Superior incompleto o completo","0.745716442319789"
+"2016","San Luis","Hasta secundario incompleto","0.619737391755953"
+"2016","San Luis","Secundario completo","0.718811248711509"
+"2016","San Luis","Superior incompleto o completo","0.745879169156152"
+"2016","Santa Cruz","Hasta secundario incompleto","0.631046811128055"
+"2016","Santa Cruz","Secundario completo","0.720056191419294"
+"2016","Santa Cruz","Superior incompleto o completo","0.793085705885235"
+"2016","Santa Fe","Hasta secundario incompleto","0.626349789341754"
+"2016","Santa Fe","Secundario completo","0.74323184047747"
+"2016","Santa Fe","Superior incompleto o completo","0.777317332062474"
+"2016","Santiago del Estero","Hasta secundario incompleto","0.58588866682061"
+"2016","Santiago del Estero","Secundario completo","0.688264819750589"
+"2016","Santiago del Estero","Superior incompleto o completo","0.774946089002156"
+"2016","Tierra del Fuego","Hasta secundario incompleto","0.622621692587356"
+"2016","Tierra del Fuego","Secundario completo","0.701072682973135"
+"2016","Tierra del Fuego","Superior incompleto o completo","0.804499554499554"
+"2016","Tucumán","Hasta secundario incompleto","0.651567523144231"
+"2016","Tucumán","Secundario completo","0.773182013769363"
+"2016","Tucumán","Superior incompleto o completo","0.802423648317474"
+"2017","Buenos Aires","Hasta secundario incompleto","0.649720225116636"
+"2017","Buenos Aires","Secundario completo","0.742023631656753"
+"2017","Buenos Aires","Superior incompleto o completo","0.803687793727001"
+"2017","Ciudad de Buenos Aires","Hasta secundario incompleto","0.730415540892655"
+"2017","Ciudad de Buenos Aires","Secundario completo","0.785498046599731"
+"2017","Ciudad de Buenos Aires","Superior incompleto o completo","0.858488422259034"
+"2017","Catamarca","Hasta secundario incompleto","0.658865014628098"
+"2017","Catamarca","Secundario completo","0.742720611659764"
+"2017","Catamarca","Superior incompleto o completo","0.815516223064759"
+"2017","Chaco","Hasta secundario incompleto","0.590512230714056"
+"2017","Chaco","Secundario completo","0.682667024931386"
+"2017","Chaco","Superior incompleto o completo","0.732969581492922"
+"2017","Chubut","Hasta secundario incompleto","0.624738945256615"
+"2017","Chubut","Secundario completo","0.744390243902439"
+"2017","Chubut","Superior incompleto o completo","0.779004477372497"
+"2017","Corrientes","Hasta secundario incompleto","0.573766312660686"
+"2017","Corrientes","Secundario completo","0.777455588305584"
+"2017","Corrientes","Superior incompleto o completo","0.781484874894783"
+"2017","Córdoba","Hasta secundario incompleto","0.637861029243553"
+"2017","Córdoba","Secundario completo","0.746935674207339"
+"2017","Córdoba","Superior incompleto o completo","0.799725449927039"
+"2017","Entre Ríos","Hasta secundario incompleto","0.650875218903777"
+"2017","Entre Ríos","Secundario completo","0.792219073208436"
+"2017","Entre Ríos","Superior incompleto o completo","0.746580072472202"
+"2017","Formosa","Hasta secundario incompleto","0.395692062225768"
+"2017","Formosa","Secundario completo","0.628387529145666"
+"2017","Formosa","Superior incompleto o completo","0.682932918515104"
+"2017","Jujuy","Hasta secundario incompleto","0.660972200652275"
+"2017","Jujuy","Secundario completo","0.765090791877082"
+"2017","Jujuy","Superior incompleto o completo","0.786295018448176"
+"2017","La Pampa","Hasta secundario incompleto","0.590837566254417"
+"2017","La Pampa","Secundario completo","0.76348352585016"
+"2017","La Pampa","Superior incompleto o completo","0.813611712142074"
+"2017","La Rioja","Hasta secundario incompleto","0.619279148048267"
+"2017","La Rioja","Secundario completo","0.732856526739505"
+"2017","La Rioja","Superior incompleto o completo","0.769632726186921"
+"2017","Mendoza","Hasta secundario incompleto","0.625982143462433"
+"2017","Mendoza","Secundario completo","0.714671000311193"
+"2017","Mendoza","Superior incompleto o completo","0.797086423582907"
+"2017","Misiones","Hasta secundario incompleto","0.636227475920549"
+"2017","Misiones","Secundario completo","0.747898882428141"
+"2017","Misiones","Superior incompleto o completo","0.849992069489928"
+"2017","Neuquén","Hasta secundario incompleto","0.614879899150219"
+"2017","Neuquén","Secundario completo","0.745322155214048"
+"2017","Neuquén","Superior incompleto o completo","0.776886332498118"
+"2017","Río Negro","Hasta secundario incompleto","0.624420893160283"
+"2017","Río Negro","Secundario completo","0.715793143521209"
+"2017","Río Negro","Superior incompleto o completo","0.74166714408479"
+"2017","Salta","Hasta secundario incompleto","0.611557632653729"
+"2017","Salta","Secundario completo","0.739611480551669"
+"2017","Salta","Superior incompleto o completo","0.78733310223646"
+"2017","San Juan","Hasta secundario incompleto","0.560638490293018"
+"2017","San Juan","Secundario completo","0.667385354265648"
+"2017","San Juan","Superior incompleto o completo","0.748421210369704"
+"2017","San Luis","Hasta secundario incompleto","0.597967731926776"
+"2017","San Luis","Secundario completo","0.71831457922483"
+"2017","San Luis","Superior incompleto o completo","0.770557592128111"
+"2017","Santa Cruz","Hasta secundario incompleto","0.602617330711147"
+"2017","Santa Cruz","Secundario completo","0.728394198031808"
+"2017","Santa Cruz","Superior incompleto o completo","0.785709630466425"
+"2017","Santa Fe","Hasta secundario incompleto","0.660623295637969"
+"2017","Santa Fe","Secundario completo","0.739326134924031"
+"2017","Santa Fe","Superior incompleto o completo","0.829620783509524"
+"2017","Santiago del Estero","Hasta secundario incompleto","0.58826487845767"
+"2017","Santiago del Estero","Secundario completo","0.720545813633371"
+"2017","Santiago del Estero","Superior incompleto o completo","0.742522024709378"
+"2017","Tierra del Fuego","Hasta secundario incompleto","0.550357174353999"
+"2017","Tierra del Fuego","Secundario completo","0.721962289524557"
+"2017","Tierra del Fuego","Superior incompleto o completo","0.725861927770043"
+"2017","Tucumán","Hasta secundario incompleto","0.643381707017112"
+"2017","Tucumán","Secundario completo","0.724120332694244"
+"2017","Tucumán","Superior incompleto o completo","0.801587689965473"
+"2018","Buenos Aires","Hasta secundario incompleto","0.649707545244454"
+"2018","Buenos Aires","Secundario completo","0.69291493971985"
+"2018","Buenos Aires","Superior incompleto o completo","0.80821330891245"
+"2018","Ciudad de Buenos Aires","Hasta secundario incompleto","0.727968745468632"
+"2018","Ciudad de Buenos Aires","Secundario completo","0.818543899422918"
+"2018","Ciudad de Buenos Aires","Superior incompleto o completo","0.857915422723875"
+"2018","Catamarca","Hasta secundario incompleto","0.622934373166253"
+"2018","Catamarca","Secundario completo","0.767552872677455"
+"2018","Catamarca","Superior incompleto o completo","0.790322274341493"
+"2018","Chaco","Hasta secundario incompleto","0.528002792455555"
+"2018","Chaco","Secundario completo","0.662712778248479"
+"2018","Chaco","Superior incompleto o completo","0.651849882506303"
+"2018","Chubut","Hasta secundario incompleto","0.594295508628293"
+"2018","Chubut","Secundario completo","0.721717922633487"
+"2018","Chubut","Superior incompleto o completo","0.765743558140431"
+"2018","Corrientes","Hasta secundario incompleto","0.564555814197801"
+"2018","Corrientes","Secundario completo","0.740776883699005"
+"2018","Corrientes","Superior incompleto o completo","0.74138433916893"
+"2018","Córdoba","Hasta secundario incompleto","0.655371508276652"
+"2018","Córdoba","Secundario completo","0.738892730886599"
+"2018","Córdoba","Superior incompleto o completo","0.830290239053234"
+"2018","Entre Ríos","Hasta secundario incompleto","0.667637181756522"
+"2018","Entre Ríos","Secundario completo","0.759342383892654"
+"2018","Entre Ríos","Superior incompleto o completo","0.782661086989266"
+"2018","Formosa","Hasta secundario incompleto","0.450275760525068"
+"2018","Formosa","Secundario completo","0.642134327720926"
+"2018","Formosa","Superior incompleto o completo","0.667102284231258"
+"2018","Jujuy","Hasta secundario incompleto","0.6365813809622"
+"2018","Jujuy","Secundario completo","0.765103885384717"
+"2018","Jujuy","Superior incompleto o completo","0.773655527608097"
+"2018","La Pampa","Hasta secundario incompleto","0.635269384558308"
+"2018","La Pampa","Secundario completo","0.752447844591243"
+"2018","La Pampa","Superior incompleto o completo","0.799367767756156"
+"2018","La Rioja","Hasta secundario incompleto","0.662328476446456"
+"2018","La Rioja","Secundario completo","0.768347757246442"
+"2018","La Rioja","Superior incompleto o completo","0.756590475448775"
+"2018","Mendoza","Hasta secundario incompleto","0.637739306643984"
+"2018","Mendoza","Secundario completo","0.764019872010778"
+"2018","Mendoza","Superior incompleto o completo","0.789528639618138"
+"2018","Misiones","Hasta secundario incompleto","0.637754943380468"
+"2018","Misiones","Secundario completo","0.770018001531622"
+"2018","Misiones","Superior incompleto o completo","0.801680949846769"
+"2018","Neuquén","Hasta secundario incompleto","0.609376024657355"
+"2018","Neuquén","Secundario completo","0.738633922818071"
+"2018","Neuquén","Superior incompleto o completo","0.796458459672529"
+"2018","Río Negro","Hasta secundario incompleto","0.635286009648518"
+"2018","Río Negro","Secundario completo","0.748705025899482"
+"2018","Río Negro","Superior incompleto o completo","0.768957295525184"
+"2018","Salta","Hasta secundario incompleto","0.651425643498704"
+"2018","Salta","Secundario completo","0.737932764014097"
+"2018","Salta","Superior incompleto o completo","0.777641346520442"
+"2018","San Juan","Hasta secundario incompleto","0.611835851236527"
+"2018","San Juan","Secundario completo","0.720614695651015"
+"2018","San Juan","Superior incompleto o completo","0.775169907657632"
+"2018","San Luis","Hasta secundario incompleto","0.687361243260387"
+"2018","San Luis","Secundario completo","0.77114930076817"
+"2018","San Luis","Superior incompleto o completo","0.802701454629416"
+"2018","Santa Cruz","Hasta secundario incompleto","0.693072615398797"
+"2018","Santa Cruz","Secundario completo","0.711587693689647"
+"2018","Santa Cruz","Superior incompleto o completo","0.786563232457323"
+"2018","Santa Fe","Hasta secundario incompleto","0.678004152881811"
+"2018","Santa Fe","Secundario completo","0.746347731314174"
+"2018","Santa Fe","Superior incompleto o completo","0.839133162160991"
+"2018","Santiago del Estero","Hasta secundario incompleto","0.551703701535783"
+"2018","Santiago del Estero","Secundario completo","0.725511476469773"
+"2018","Santiago del Estero","Superior incompleto o completo","0.747751735455105"
+"2018","Tierra del Fuego","Hasta secundario incompleto","0.61716442402363"
+"2018","Tierra del Fuego","Secundario completo","0.645860883364189"
+"2018","Tierra del Fuego","Superior incompleto o completo","0.72569998705725"
+"2018","Tucumán","Hasta secundario incompleto","0.664659159426048"
+"2018","Tucumán","Secundario completo","0.702660922453117"
+"2018","Tucumán","Superior incompleto o completo","0.775249492159609"
+"2019","Buenos Aires","Hasta secundario incompleto","0.619316784237673"
+"2019","Buenos Aires","Secundario completo","0.695587964907487"
+"2019","Buenos Aires","Superior incompleto o completo","0.814441667970084"
+"2019","Ciudad de Buenos Aires","Hasta secundario incompleto","0.71604033769132"
+"2019","Ciudad de Buenos Aires","Secundario completo","0.826181662397688"
+"2019","Ciudad de Buenos Aires","Superior incompleto o completo","0.888758756124226"
+"2019","Catamarca","Hasta secundario incompleto","0.64119443377768"
+"2019","Catamarca","Secundario completo","0.724969000112727"
+"2019","Catamarca","Superior incompleto o completo","0.823871015622101"
+"2019","Chubut","Hasta secundario incompleto","0.650958431673097"
+"2019","Chubut","Secundario completo","0.702290666082948"
+"2019","Chubut","Superior incompleto o completo","0.774518398892606"
+"2019","Corrientes","Hasta secundario incompleto","0.553335299185328"
+"2019","Corrientes","Secundario completo","0.76778269412009"
+"2019","Corrientes","Superior incompleto o completo","0.797227710352181"
+"2019","Córdoba","Hasta secundario incompleto","0.627336522426617"
+"2019","Córdoba","Secundario completo","0.747372983185535"
+"2019","Córdoba","Superior incompleto o completo","0.831957512504328"
+"2019","Entre Ríos","Hasta secundario incompleto","0.648494663289233"
+"2019","Entre Ríos","Secundario completo","0.802286899657218"
+"2019","Entre Ríos","Superior incompleto o completo","0.794914822626036"
+"2019","Formosa","Hasta secundario incompleto","0.390253261703761"
+"2019","Formosa","Secundario completo","0.616882643616168"
+"2019","Formosa","Superior incompleto o completo","0.663160636294426"
+"2019","Jujuy","Hasta secundario incompleto","0.635475341028332"
+"2019","Jujuy","Secundario completo","0.739242240888383"
+"2019","Jujuy","Superior incompleto o completo","0.759177508249193"
+"2019","La Pampa","Hasta secundario incompleto","0.654829586035483"
+"2019","La Pampa","Secundario completo","0.790247911245035"
+"2019","La Pampa","Superior incompleto o completo","0.789230957929597"
+"2019","La Rioja","Hasta secundario incompleto","0.611924513335757"
+"2019","La Rioja","Secundario completo","0.743152811314246"
+"2019","La Rioja","Superior incompleto o completo","0.797927261519495"
+"2019","Mendoza","Hasta secundario incompleto","0.641786323694994"
+"2019","Mendoza","Secundario completo","0.699493054561077"
+"2019","Mendoza","Superior incompleto o completo","0.782505395514685"
+"2019","Misiones","Hasta secundario incompleto","0.640752998081591"
+"2019","Misiones","Secundario completo","0.81183772476848"
+"2019","Misiones","Superior incompleto o completo","0.848725842946697"
+"2019","Neuquén","Hasta secundario incompleto","0.611605415860735"
+"2019","Neuquén","Secundario completo","0.726360217199386"
+"2019","Neuquén","Superior incompleto o completo","0.794026381413403"
+"2019","Río Negro","Hasta secundario incompleto","0.58885202560846"
+"2019","Río Negro","Secundario completo","0.773615208908347"
+"2019","Río Negro","Superior incompleto o completo","0.79880685185725"
+"2019","Salta","Hasta secundario incompleto","0.632671933208275"
+"2019","Salta","Secundario completo","0.749398945245851"
+"2019","Salta","Superior incompleto o completo","0.780127614787528"
+"2019","San Juan","Hasta secundario incompleto","0.65148552591641"
+"2019","San Juan","Secundario completo","0.778810454927974"
+"2019","San Juan","Superior incompleto o completo","0.818610734806372"
+"2019","San Luis","Hasta secundario incompleto","0.68010891446859"
+"2019","San Luis","Secundario completo","0.802661185370778"
+"2019","San Luis","Superior incompleto o completo","0.802714626135119"
+"2019","Santa Cruz","Hasta secundario incompleto","0.651587213803783"
+"2019","Santa Cruz","Secundario completo","0.711604361370716"
+"2019","Santa Cruz","Superior incompleto o completo","0.74448363707623"
+"2019","Santa Fe","Hasta secundario incompleto","0.690092402548424"
+"2019","Santa Fe","Secundario completo","0.699319357005943"
+"2019","Santa Fe","Superior incompleto o completo","0.828981448045913"
+"2019","Santiago del Estero","Hasta secundario incompleto","0.621991847482761"
+"2019","Santiago del Estero","Secundario completo","0.721711394632644"
+"2019","Santiago del Estero","Superior incompleto o completo","0.794169890746283"
+"2019","Tierra del Fuego","Hasta secundario incompleto","0.607132228945541"
+"2019","Tierra del Fuego","Secundario completo","0.614600519832749"
+"2019","Tierra del Fuego","Superior incompleto o completo","0.740135333442035"
+"2019","Tucumán","Hasta secundario incompleto","0.651434361038494"
+"2019","Tucumán","Secundario completo","0.759681078458371"
+"2019","Tucumán","Superior incompleto o completo","0.755286544651006"
+"2020","Buenos Aires","Hasta secundario incompleto","0.510687544376481"
+"2020","Buenos Aires","Secundario completo","0.606190476608421"
+"2020","Buenos Aires","Superior incompleto o completo","0.763717987078389"
+"2020","Ciudad de Buenos Aires","Hasta secundario incompleto","0.585463961337379"
+"2020","Ciudad de Buenos Aires","Secundario completo","0.662198479197418"
+"2020","Ciudad de Buenos Aires","Superior incompleto o completo","0.785848736120399"
+"2020","Catamarca","Hasta secundario incompleto","0.525803310613437"
+"2020","Catamarca","Secundario completo","0.737094814786247"
+"2020","Catamarca","Superior incompleto o completo","0.768692658450382"
+"2020","Chaco","Hasta secundario incompleto","0.562907306277426"
+"2020","Chaco","Secundario completo","0.5742254608228"
+"2020","Chaco","Superior incompleto o completo","0.720020249545874"
+"2020","Chubut","Hasta secundario incompleto","0.620585842830428"
+"2020","Chubut","Secundario completo","0.697761102827952"
+"2020","Chubut","Superior incompleto o completo","0.764898026084717"
+"2020","Corrientes","Hasta secundario incompleto","0.543594860920544"
+"2020","Corrientes","Secundario completo","0.720249012549563"
+"2020","Corrientes","Superior incompleto o completo","0.738914222816259"
+"2020","Córdoba","Hasta secundario incompleto","0.595956270920515"
+"2020","Córdoba","Secundario completo","0.677571125063796"
+"2020","Córdoba","Superior incompleto o completo","0.835687659407495"
+"2020","Entre Ríos","Hasta secundario incompleto","0.571872272502103"
+"2020","Entre Ríos","Secundario completo","0.706898488848941"
+"2020","Entre Ríos","Superior incompleto o completo","0.760956251069792"
+"2020","Formosa","Hasta secundario incompleto","0.424356570948018"
+"2020","Formosa","Secundario completo","0.65843038122653"
+"2020","Formosa","Superior incompleto o completo","0.606451612903226"
+"2020","Jujuy","Hasta secundario incompleto","0.548544937196954"
+"2020","Jujuy","Secundario completo","0.720170153007071"
+"2020","Jujuy","Superior incompleto o completo","0.690690992384818"
+"2020","La Pampa","Hasta secundario incompleto","0.563501320570057"
+"2020","La Pampa","Secundario completo","0.701721502926843"
+"2020","La Pampa","Superior incompleto o completo","0.788271459983349"
+"2020","La Rioja","Hasta secundario incompleto","0.598693032655297"
+"2020","La Rioja","Secundario completo","0.731431397890639"
+"2020","La Rioja","Superior incompleto o completo","0.75761637825981"
+"2020","Mendoza","Hasta secundario incompleto","0.614076855649464"
+"2020","Mendoza","Secundario completo","0.727200980639095"
+"2020","Mendoza","Superior incompleto o completo","0.789583894768276"
+"2020","Misiones","Hasta secundario incompleto","0.627874168824354"
+"2020","Misiones","Secundario completo","0.724705167292441"
+"2020","Misiones","Superior incompleto o completo","0.82235166493727"
+"2020","Neuquén","Hasta secundario incompleto","0.579515762514896"
+"2020","Neuquén","Secundario completo","0.714389856544039"
+"2020","Neuquén","Superior incompleto o completo","0.710159853622728"
+"2020","Río Negro","Hasta secundario incompleto","0.574309942441021"
+"2020","Río Negro","Secundario completo","0.694847248327377"
+"2020","Río Negro","Superior incompleto o completo","0.787408062990204"
+"2020","Salta","Hasta secundario incompleto","0.607722748530999"
+"2020","Salta","Secundario completo","0.671120066865795"
+"2020","Salta","Superior incompleto o completo","0.739599344063414"
+"2020","San Juan","Hasta secundario incompleto","0.571309930265361"
+"2020","San Juan","Secundario completo","0.714626590204996"
+"2020","San Juan","Superior incompleto o completo","0.777379015860106"
+"2020","San Luis","Hasta secundario incompleto","0.681730979695366"
+"2020","San Luis","Secundario completo","0.660956964892412"
+"2020","San Luis","Superior incompleto o completo","0.736135916792988"
+"2020","Santa Cruz","Hasta secundario incompleto","0.583661986997429"
+"2020","Santa Cruz","Secundario completo","0.67253186604386"
+"2020","Santa Cruz","Superior incompleto o completo","0.702057151135417"
+"2020","Santa Fe","Hasta secundario incompleto","0.645846000227386"
+"2020","Santa Fe","Secundario completo","0.704718850907471"
+"2020","Santa Fe","Superior incompleto o completo","0.812666378426279"
+"2020","Tucumán","Hasta secundario incompleto","0.543166819500609"
+"2020","Tucumán","Secundario completo","0.67163047478837"
+"2020","Tucumán","Superior incompleto o completo","0.672387744673288"
+"2021","Buenos Aires","Hasta secundario incompleto","0.654891840018993"
+"2021","Buenos Aires","Secundario completo","0.701373343338348"
+"2021","Buenos Aires","Superior incompleto o completo","0.807692414369824"
+"2021","Ciudad de Buenos Aires","Hasta secundario incompleto","0.673776015294485"
+"2021","Ciudad de Buenos Aires","Secundario completo","0.813603435856314"
+"2021","Ciudad de Buenos Aires","Superior incompleto o completo","0.871906425453485"
+"2021","Catamarca","Hasta secundario incompleto","0.612408966234749"
+"2021","Catamarca","Secundario completo","0.731307107819563"
+"2021","Catamarca","Superior incompleto o completo","0.785271440363911"
+"2021","Chaco","Hasta secundario incompleto","0.592553102525506"
+"2021","Chaco","Secundario completo","0.638079034282063"
+"2021","Chaco","Superior incompleto o completo","0.794483554529717"
+"2021","Chubut","Hasta secundario incompleto","0.654065649742494"
+"2021","Chubut","Secundario completo","0.735394589203341"
+"2021","Chubut","Superior incompleto o completo","0.805501468784117"
+"2021","Corrientes","Hasta secundario incompleto","0.610902360708275"
+"2021","Corrientes","Secundario completo","0.706195584304426"
+"2021","Corrientes","Superior incompleto o completo","0.777541485847959"
+"2021","Córdoba","Hasta secundario incompleto","0.637763716033655"
+"2021","Córdoba","Secundario completo","0.743657522176416"
+"2021","Córdoba","Superior incompleto o completo","0.794621096742055"
+"2021","Entre Ríos","Hasta secundario incompleto","0.644455123746412"
+"2021","Entre Ríos","Secundario completo","0.736644443797491"
+"2021","Entre Ríos","Superior incompleto o completo","0.819605141366543"
+"2021","Formosa","Hasta secundario incompleto","0.458954014162614"
+"2021","Formosa","Secundario completo","0.576409107876073"
+"2021","Formosa","Superior incompleto o completo","0.60448331322879"
+"2021","Jujuy","Hasta secundario incompleto","0.637123932099982"
+"2021","Jujuy","Secundario completo","0.77224742167658"
+"2021","Jujuy","Superior incompleto o completo","0.782259249155352"
+"2021","La Pampa","Hasta secundario incompleto","0.576692741064959"
+"2021","La Pampa","Secundario completo","0.750377004981036"
+"2021","La Pampa","Superior incompleto o completo","0.801113277121451"
+"2021","La Rioja","Hasta secundario incompleto","0.653638556061708"
+"2021","La Rioja","Secundario completo","0.761798780487805"
+"2021","La Rioja","Superior incompleto o completo","0.799336909434965"
+"2021","Mendoza","Hasta secundario incompleto","0.62327552057319"
+"2021","Mendoza","Secundario completo","0.766171082299887"
+"2021","Mendoza","Superior incompleto o completo","0.81067940334767"
+"2021","Misiones","Hasta secundario incompleto","0.634885660841577"
+"2021","Misiones","Secundario completo","0.728189666756248"
+"2021","Misiones","Superior incompleto o completo","0.829659352855801"
+"2021","Neuquén","Hasta secundario incompleto","0.637829398081764"
+"2021","Neuquén","Secundario completo","0.735070260642649"
+"2021","Neuquén","Superior incompleto o completo","0.739426886575141"
+"2021","Río Negro","Hasta secundario incompleto","0.66186561315398"
+"2021","Río Negro","Secundario completo","0.742383364534009"
+"2021","Río Negro","Superior incompleto o completo","0.81570840888265"
+"2021","Salta","Hasta secundario incompleto","0.630659688173186"
+"2021","Salta","Secundario completo","0.744223055716601"
+"2021","Salta","Superior incompleto o completo","0.761478268032179"
+"2021","San Juan","Hasta secundario incompleto","0.644826281436236"
+"2021","San Juan","Secundario completo","0.752225159599644"
+"2021","San Juan","Superior incompleto o completo","0.794488476273488"
+"2021","San Luis","Hasta secundario incompleto","0.679007069260269"
+"2021","San Luis","Secundario completo","0.762069537903648"
+"2021","San Luis","Superior incompleto o completo","0.802637962401455"
+"2021","Santa Cruz","Hasta secundario incompleto","0.679745715699357"
+"2021","Santa Cruz","Secundario completo","0.758552968634371"
+"2021","Santa Cruz","Superior incompleto o completo","0.737367802585194"
+"2021","Santa Fe","Hasta secundario incompleto","0.669254235807567"
+"2021","Santa Fe","Secundario completo","0.772358571537216"
+"2021","Santa Fe","Superior incompleto o completo","0.851020678638816"
+"2021","Santiago del Estero","Hasta secundario incompleto","0.605763314875746"
+"2021","Santiago del Estero","Secundario completo","0.732461667187516"
+"2021","Santiago del Estero","Superior incompleto o completo","0.761985068591773"
+"2021","Tierra del Fuego","Hasta secundario incompleto","0.583091255133727"
+"2021","Tierra del Fuego","Secundario completo","0.727762684160537"
+"2021","Tierra del Fuego","Superior incompleto o completo","0.830528846153846"
+"2021","Tucumán","Hasta secundario incompleto","0.616006103196448"
+"2021","Tucumán","Secundario completo","0.722215474310701"
+"2021","Tucumán","Superior incompleto o completo","0.785351448277195"
+"2022","Buenos Aires","Hasta secundario incompleto","0.684012490812827"
+"2022","Buenos Aires","Secundario completo","0.723775560162715"
+"2022","Buenos Aires","Superior incompleto o completo","0.831657508316316"
+"2022","Ciudad de Buenos Aires","Hasta secundario incompleto","0.787814850241002"
+"2022","Ciudad de Buenos Aires","Secundario completo","0.760604030124729"
+"2022","Ciudad de Buenos Aires","Superior incompleto o completo","0.894956950499692"
+"2022","Catamarca","Hasta secundario incompleto","0.682241685453784"
+"2022","Catamarca","Secundario completo","0.7648618425799"
+"2022","Catamarca","Superior incompleto o completo","0.767885611797529"
+"2022","Chaco","Hasta secundario incompleto","0.604894237199736"
+"2022","Chaco","Secundario completo","0.704146921097408"
+"2022","Chaco","Superior incompleto o completo","0.806694951819359"
+"2022","Chubut","Hasta secundario incompleto","0.68975303312791"
+"2022","Chubut","Secundario completo","0.760540910940277"
+"2022","Chubut","Superior incompleto o completo","0.834467753847382"
+"2022","Corrientes","Hasta secundario incompleto","0.560812763573093"
+"2022","Corrientes","Secundario completo","0.693265961592732"
+"2022","Corrientes","Superior incompleto o completo","0.799651719634306"
+"2022","Córdoba","Hasta secundario incompleto","0.708008356052827"
+"2022","Córdoba","Secundario completo","0.744547631061916"
+"2022","Córdoba","Superior incompleto o completo","0.758178835358697"
+"2022","Entre Ríos","Hasta secundario incompleto","0.672015379636621"
+"2022","Entre Ríos","Secundario completo","0.721654456883477"
+"2022","Entre Ríos","Superior incompleto o completo","0.799390547952795"
+"2022","Formosa","Hasta secundario incompleto","0.480382044555621"
+"2022","Formosa","Secundario completo","0.640165260053546"
+"2022","Formosa","Superior incompleto o completo","0.630319371290026"
+"2022","Jujuy","Hasta secundario incompleto","0.6635341447508"
+"2022","Jujuy","Secundario completo","0.779664235794591"
+"2022","Jujuy","Superior incompleto o completo","0.752709902627228"
+"2022","La Pampa","Hasta secundario incompleto","0.648641038362005"
+"2022","La Pampa","Secundario completo","0.792682088080882"
+"2022","La Pampa","Superior incompleto o completo","0.828955828074771"
+"2022","La Rioja","Hasta secundario incompleto","0.644634539126219"
+"2022","La Rioja","Secundario completo","0.775898520084567"
+"2022","La Rioja","Superior incompleto o completo","0.788213568847852"
+"2022","Mendoza","Hasta secundario incompleto","0.663059844175709"
+"2022","Mendoza","Secundario completo","0.773171713345486"
+"2022","Mendoza","Superior incompleto o completo","0.840526611786606"
+"2022","Misiones","Hasta secundario incompleto","0.684997515071631"
+"2022","Misiones","Secundario completo","0.79671950043534"
+"2022","Misiones","Superior incompleto o completo","0.823674335237609"
+"2022","Neuquén","Hasta secundario incompleto","0.66997479521109"
+"2022","Neuquén","Secundario completo","0.733638105482537"
+"2022","Neuquén","Superior incompleto o completo","0.819065326747807"
+"2022","Río Negro","Hasta secundario incompleto","0.66542897831063"
+"2022","Río Negro","Secundario completo","0.740852253769523"
+"2022","Río Negro","Superior incompleto o completo","0.801610168610033"
+"2022","Salta","Hasta secundario incompleto","0.65294826147532"
+"2022","Salta","Secundario completo","0.744214148884038"
+"2022","Salta","Superior incompleto o completo","0.775469978352512"
+"2022","San Juan","Hasta secundario incompleto","0.64812306501548"
+"2022","San Juan","Secundario completo","0.763774421620717"
+"2022","San Juan","Superior incompleto o completo","0.745786445596696"
+"2022","San Luis","Hasta secundario incompleto","0.718723126139452"
+"2022","San Luis","Secundario completo","0.789494522898245"
+"2022","San Luis","Superior incompleto o completo","0.79274576836488"
+"2022","Santa Cruz","Hasta secundario incompleto","0.714944174702974"
+"2022","Santa Cruz","Secundario completo","0.771405947562907"
+"2022","Santa Cruz","Superior incompleto o completo","0.77324479923483"
+"2022","Santa Fe","Hasta secundario incompleto","0.705708993202489"
+"2022","Santa Fe","Secundario completo","0.747216404613798"
+"2022","Santa Fe","Superior incompleto o completo","0.847891581060415"
+"2022","Santiago del Estero","Hasta secundario incompleto","0.622396867729671"
+"2022","Santiago del Estero","Secundario completo","0.728880693101717"
+"2022","Santiago del Estero","Superior incompleto o completo","0.768775275850017"
+"2022","Tierra del Fuego","Hasta secundario incompleto","0.596593841389988"
+"2022","Tierra del Fuego","Secundario completo","0.701375874205787"
+"2022","Tierra del Fuego","Superior incompleto o completo","0.82038625063054"
+"2022","Tucumán","Hasta secundario incompleto","0.660187949777982"
+"2022","Tucumán","Secundario completo","0.745771521518461"
+"2022","Tucumán","Superior incompleto o completo","0.773299687575102"
+"2023","Buenos Aires","Hasta secundario incompleto","0.691307345378368"
+"2023","Buenos Aires","Secundario completo","0.762481242801084"
+"2023","Buenos Aires","Superior incompleto o completo","0.852302241061609"
+"2023","Ciudad de Buenos Aires","Hasta secundario incompleto","0.744227704059729"
+"2023","Ciudad de Buenos Aires","Secundario completo","0.843299531099119"
+"2023","Ciudad de Buenos Aires","Superior incompleto o completo","0.871446998123827"
+"2023","Catamarca","Hasta secundario incompleto","0.693035445437817"
+"2023","Catamarca","Secundario completo","0.79452873906869"
+"2023","Catamarca","Superior incompleto o completo","0.778057032382794"
+"2023","Chaco","Hasta secundario incompleto","0.551060653610294"
+"2023","Chaco","Secundario completo","0.707321216239171"
+"2023","Chaco","Superior incompleto o completo","0.824812296359258"
+"2023","Chubut","Hasta secundario incompleto","0.697115767315567"
+"2023","Chubut","Secundario completo","0.771731262749227"
+"2023","Chubut","Superior incompleto o completo","0.834142741750516"
+"2023","Corrientes","Hasta secundario incompleto","0.619226061249942"
+"2023","Corrientes","Secundario completo","0.660876628215446"
+"2023","Corrientes","Superior incompleto o completo","0.767247948789595"
+"2023","Córdoba","Hasta secundario incompleto","0.678936058587209"
+"2023","Córdoba","Secundario completo","0.79158248297145"
+"2023","Córdoba","Superior incompleto o completo","0.77647481272879"
+"2023","Entre Ríos","Hasta secundario incompleto","0.708205286359596"
+"2023","Entre Ríos","Secundario completo","0.724173711550214"
+"2023","Entre Ríos","Superior incompleto o completo","0.823670268656056"
+"2023","Formosa","Hasta secundario incompleto","0.570820950459416"
+"2023","Formosa","Secundario completo","0.721387222535803"
+"2023","Formosa","Superior incompleto o completo","0.723019932968778"
+"2023","Jujuy","Hasta secundario incompleto","0.726061834607588"
+"2023","Jujuy","Secundario completo","0.805776813706979"
+"2023","Jujuy","Superior incompleto o completo","0.800331579952433"
+"2023","La Pampa","Hasta secundario incompleto","0.684994846940197"
+"2023","La Pampa","Secundario completo","0.787282557592854"
+"2023","La Pampa","Superior incompleto o completo","0.830652926594415"
+"2023","La Rioja","Hasta secundario incompleto","0.663855062749041"
+"2023","La Rioja","Secundario completo","0.800884297632408"
+"2023","La Rioja","Superior incompleto o completo","0.797822629568297"
+"2023","Mendoza","Hasta secundario incompleto","0.670161832663915"
+"2023","Mendoza","Secundario completo","0.771678002811871"
+"2023","Mendoza","Superior incompleto o completo","0.849792881546391"
+"2023","Misiones","Hasta secundario incompleto","0.649934598548418"
+"2023","Misiones","Secundario completo","0.832764849682346"
+"2023","Misiones","Superior incompleto o completo","0.869366483258803"
+"2023","Neuquén","Hasta secundario incompleto","0.684997755216169"
+"2023","Neuquén","Secundario completo","0.801175090615126"
+"2023","Neuquén","Superior incompleto o completo","0.825143815915628"
+"2023","Río Negro","Hasta secundario incompleto","0.641322149982629"
+"2023","Río Negro","Secundario completo","0.761063246524378"
+"2023","Río Negro","Superior incompleto o completo","0.806068276150538"
+"2023","Salta","Hasta secundario incompleto","0.698701592137094"
+"2023","Salta","Secundario completo","0.771744868738902"
+"2023","Salta","Superior incompleto o completo","0.786591744782226"
+"2023","San Juan","Hasta secundario incompleto","0.673952512486489"
+"2023","San Juan","Secundario completo","0.741213458356315"
+"2023","San Juan","Superior incompleto o completo","0.772850149777161"
+"2023","San Luis","Hasta secundario incompleto","0.697484650870439"
+"2023","San Luis","Secundario completo","0.773847613025609"
+"2023","San Luis","Superior incompleto o completo","0.842952206225318"
+"2023","Santa Cruz","Hasta secundario incompleto","0.629233378223353"
+"2023","Santa Cruz","Secundario completo","0.773834306261191"
+"2023","Santa Cruz","Superior incompleto o completo","0.839496698197394"
+"2023","Santa Fe","Hasta secundario incompleto","0.722287732839196"
+"2023","Santa Fe","Secundario completo","0.776275031025903"
+"2023","Santa Fe","Superior incompleto o completo","0.84299296935263"
+"2023","Santiago del Estero","Hasta secundario incompleto","0.666547101805622"
+"2023","Santiago del Estero","Secundario completo","0.765726544921773"
+"2023","Santiago del Estero","Superior incompleto o completo","0.817794590730371"
+"2023","Tierra del Fuego","Hasta secundario incompleto","0.718944176567083"
+"2023","Tierra del Fuego","Secundario completo","0.813587113070838"
+"2023","Tierra del Fuego","Superior incompleto o completo","0.775404258304395"
+"2023","Tucumán","Hasta secundario incompleto","0.688648670210114"
+"2023","Tucumán","Secundario completo","0.77084926004952"
+"2023","Tucumán","Superior incompleto o completo","0.821954037513765"
+"2016","Buenos Aires","Total","0.708294954779"
+"2016","Ciudad de Buenos Aires","Total","0.816460817499438"
+"2016","Catamarca","Total","0.741197383867181"
+"2016","Chaco","Total","0.605582259946217"
+"2016","Chubut","Total","0.721594676917198"
+"2016","Corrientes","Total","0.678311979016465"
+"2016","Córdoba","Total","0.701420361953265"
+"2016","Entre Ríos","Total","0.698654389527606"
+"2016","Formosa","Total","0.547443157955234"
+"2016","Jujuy","Total","0.711002264432078"
+"2016","La Pampa","Total","0.70899844510064"
+"2016","La Rioja","Total","0.704637485233454"
+"2016","Mendoza","Total","0.719702101703681"
+"2016","Misiones","Total","0.690655327798815"
+"2016","Neuquén","Total","0.713664553795429"
+"2016","Río Negro","Total","0.697017450572823"
+"2016","Salta","Total","0.688017303963376"
+"2016","San Juan","Total","0.626460363983369"
+"2016","San Luis","Total","0.685059573237295"
+"2016","Santa Cruz","Total","0.695619754242824"
+"2016","Santa Fe","Total","0.705304133454288"
+"2016","Santiago del Estero","Total","0.666027357965064"
+"2016","Tierra del Fuego","Total","0.711203688140802"
+"2016","Tucumán","Total","0.722902943865301"
+"2017","Buenos Aires","Total","0.717583343626284"
+"2017","Ciudad de Buenos Aires","Total","0.820311876094361"
+"2017","Catamarca","Total","0.739365677811952"
+"2017","Chaco","Total","0.644664295587619"
+"2017","Chubut","Total","0.698076542796733"
+"2017","Corrientes","Total","0.694121037593748"
+"2017","Córdoba","Total","0.710543587416972"
+"2017","Entre Ríos","Total","0.711857687636816"
+"2017","Formosa","Total","0.530833069802822"
+"2017","Jujuy","Total","0.728561911713613"
+"2017","La Pampa","Total","0.687993636402033"
+"2017","La Rioja","Total","0.709116244774515"
+"2017","Mendoza","Total","0.706298920165094"
+"2017","Misiones","Total","0.71806356305117"
+"2017","Neuquén","Total","0.695502826707014"
+"2017","Río Negro","Total","0.680760441120611"
+"2017","Salta","Total","0.698595083937707"
+"2017","San Juan","Total","0.645666567842672"
+"2017","San Luis","Total","0.686387928324426"
+"2017","Santa Cruz","Total","0.683309299596583"
+"2017","Santa Fe","Total","0.734404204323064"
+"2017","Santiago del Estero","Total","0.671457079403907"
+"2017","Tierra del Fuego","Total","0.676107883516722"
+"2017","Tucumán","Total","0.709890579182172"
+"2018","Buenos Aires","Total","0.706627971474883"
+"2018","Ciudad de Buenos Aires","Total","0.826629851224748"
+"2018","Catamarca","Total","0.725233571175149"
+"2018","Chaco","Total","0.590529778823763"
+"2018","Chubut","Total","0.67845924825932"
+"2018","Corrientes","Total","0.671098822306665"
+"2018","Córdoba","Total","0.727433610727883"
+"2018","Entre Ríos","Total","0.724899799042956"
+"2018","Formosa","Total","0.553461354640262"
+"2018","Jujuy","Total","0.717793169775378"
+"2018","La Pampa","Total","0.70497468345734"
+"2018","La Rioja","Total","0.727982237771648"
+"2018","Mendoza","Total","0.716967332337988"
+"2018","Misiones","Total","0.709457656132084"
+"2018","Neuquén","Total","0.700469047057354"
+"2018","Río Negro","Total","0.70485407056796"
+"2018","Salta","Total","0.71479093729542"
+"2018","San Juan","Total","0.686699560155586"
+"2018","San Luis","Total","0.748645129167544"
+"2018","Santa Cruz","Total","0.722771505121792"
+"2018","Santa Fe","Total","0.750826442366893"
+"2018","Santiago del Estero","Total","0.656837980197017"
+"2018","Tierra del Fuego","Total","0.65934516488022"
+"2018","Tucumán","Total","0.706195737332715"
+"2019","Buenos Aires","Total","0.698486489062644"
+"2019","Ciudad de Buenos Aires","Total","0.84908750825392"
+"2019","Catamarca","Total","0.729867922060939"
+"2019","Chubut","Total","0.703606327191449"
+"2019","Corrientes","Total","0.696989033947123"
+"2019","Córdoba","Total","0.713898568752064"
+"2019","Entre Ríos","Total","0.731034178299296"
+"2019","Formosa","Total","0.512611528023054"
+"2019","Jujuy","Total","0.709644853704936"
+"2019","La Pampa","Total","0.725596838588772"
+"2019","La Rioja","Total","0.713237796791193"
+"2019","Mendoza","Total","0.702333005768868"
+"2019","Misiones","Total","0.740304339065607"
+"2019","Neuquén","Total","0.695520913741447"
+"2019","Río Negro","Total","0.697668626813282"
+"2019","Salta","Total","0.712354185940175"
+"2019","San Juan","Total","0.731326619041282"
+"2019","San Luis","Total","0.759862770997976"
+"2019","Santa Cruz","Total","0.696362137844984"
+"2019","Santa Fe","Total","0.739519063683475"
+"2019","Santiago del Estero","Total","0.693765320853053"
+"2019","Tierra del Fuego","Total","0.647533702875004"
+"2019","Tucumán","Total","0.71010445133811"
+"2020","Buenos Aires","Total","0.616702795720791"
+"2020","Ciudad de Buenos Aires","Total","0.719761267924829"
+"2020","Catamarca","Total","0.679278400162214"
+"2020","Chaco","Total","0.608612159875016"
+"2020","Chubut","Total","0.685654148355772"
+"2020","Corrientes","Total","0.660803653533281"
+"2020","Córdoba","Total","0.684094338452634"
+"2020","Entre Ríos","Total","0.663148083815592"
+"2020","Formosa","Total","0.530419970786943"
+"2020","Jujuy","Total","0.653581380346386"
+"2020","La Pampa","Total","0.661651004733811"
+"2020","La Rioja","Total","0.699512313506142"
+"2020","Mendoza","Total","0.697204091478598"
+"2020","Misiones","Total","0.702848690009768"
+"2020","Neuquén","Total","0.653017269812789"
+"2020","Río Negro","Total","0.670320805543151"
+"2020","Salta","Total","0.666882011217949"
+"2020","San Juan","Total","0.66685177628531"
+"2020","San Luis","Total","0.690788288288288"
+"2020","Santa Cruz","Total","0.644915823793734"
+"2020","Santa Fe","Total","0.720000742728226"
+"2020","Tucumán","Total","0.60595289680196"
+"2021","Buenos Aires","Total","0.719620088899986"
+"2021","Ciudad de Buenos Aires","Total","0.833530217556525"
+"2021","Catamarca","Total","0.711447767744009"
+"2021","Chaco","Total","0.65699720256178"
+"2021","Chubut","Total","0.722674386658974"
+"2021","Corrientes","Total","0.696047099142991"
+"2021","Córdoba","Total","0.716154782725486"
+"2021","Entre Ríos","Total","0.726471687909359"
+"2021","Formosa","Total","0.52352677140109"
+"2021","Jujuy","Total","0.728056412306187"
+"2021","La Pampa","Total","0.688121062544652"
+"2021","La Rioja","Total","0.743917398742498"
+"2021","Mendoza","Total","0.721995504042589"
+"2021","Misiones","Total","0.706520316069988"
+"2021","Neuquén","Total","0.696780772032047"
+"2021","Río Negro","Total","0.7348185955864"
+"2021","Salta","Total","0.701757836387015"
+"2021","San Juan","Total","0.717045669348039"
+"2021","San Luis","Total","0.742511338580631"
+"2021","Santa Cruz","Total","0.724845100385587"
+"2021","Santa Fe","Total","0.762371703298896"
+"2021","Santiago del Estero","Total","0.686901286965264"
+"2021","Tierra del Fuego","Total","0.725148575759906"
+"2021","Tucumán","Total","0.694162453830289"
+"2022","Buenos Aires","Total","0.73985268104965"
+"2022","Ciudad de Buenos Aires","Total","0.855572104489398"
+"2022","Catamarca","Total","0.740980679563043"
+"2022","Chaco","Total","0.686157966225784"
+"2022","Chubut","Total","0.759548659898108"
+"2022","Corrientes","Total","0.679211676459771"
+"2022","Córdoba","Total","0.734542847620777"
+"2022","Entre Ríos","Total","0.723483331285416"
+"2022","Formosa","Total","0.557791389970231"
+"2022","Jujuy","Total","0.728175575555953"
+"2022","La Pampa","Total","0.735131997028584"
+"2022","La Rioja","Total","0.73968299528001"
+"2022","Mendoza","Total","0.753902408033996"
+"2022","Misiones","Total","0.751896151454007"
+"2022","Neuquén","Total","0.729209969359067"
+"2022","Río Negro","Total","0.728849490927674"
+"2022","Salta","Total","0.714075103997471"
+"2022","San Juan","Total","0.709157279994806"
+"2022","San Luis","Total","0.763565773777248"
+"2022","Santa Cruz","Total","0.746743243445357"
+"2022","Santa Fe","Total","0.768442739756939"
+"2022","Santiago del Estero","Total","0.688746022645447"
+"2022","Tierra del Fuego","Total","0.710521317011397"
+"2022","Tucumán","Total","0.714968645631408"
+"2023","Buenos Aires","Total","0.766514418137124"
+"2023","Ciudad de Buenos Aires","Total","0.848855848205248"
+"2023","Catamarca","Total","0.756256383311588"
+"2023","Chaco","Total","0.667783027797783"
+"2023","Chubut","Total","0.764580131615242"
+"2023","Corrientes","Total","0.681391656771129"
+"2023","Córdoba","Total","0.742072426167348"
+"2023","Entre Ríos","Total","0.746324949594885"
+"2023","Formosa","Total","0.653563988769133"
+"2023","Jujuy","Total","0.775820665562381"
+"2023","La Pampa","Total","0.755242012099073"
+"2023","La Rioja","Total","0.760885006413858"
+"2023","Mendoza","Total","0.758863633319493"
+"2023","Misiones","Total","0.766654378431158"
+"2023","Neuquén","Total","0.761127208209946"
+"2023","Río Negro","Total","0.725495306151044"
+"2023","Salta","Total","0.746822612330461"
+"2023","San Juan","Total","0.723487630926634"
+"2023","San Luis","Total","0.763701900329482"
+"2023","Santa Cruz","Total","0.735197809866337"
+"2023","Santa Fe","Total","0.780759212122654"
+"2023","Santiago del Estero","Total","0.733490463805808"
+"2023","Tierra del Fuego","Total","0.781669635333895"
+"2023","Tucumán","Total","0.751635036140641"

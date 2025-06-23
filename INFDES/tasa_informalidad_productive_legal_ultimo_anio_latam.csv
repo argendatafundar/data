@@ -1,30 +1,30 @@
-iso3,pais,anio,tipo_informalidad,valor,geocodigoFundar,geonombreFundar
-ARG,Argentina,2022,Informalidad (definición productiva),40.1,ARG,Argentina
-BOL,Bolivia,2021,Informalidad (definición productiva),74.743654,BOL,Bolivia
-BRA,Brasil,2022,Informalidad (definición productiva),41.343411,BRA,Brasil
-CHL,Chile,2022,Informalidad (definición productiva),28.879891,CHL,Chile
-COL,Colombia,2021,Informalidad (definición productiva),58.794467,COL,Colombia
-CRI,Costa Rica,2022,Informalidad (definición productiva),35.409574,CRI,Costa Rica
-DOM,Dominicana,2022,Informalidad (definición productiva),50.47505,DOM,Rep. Dominicana
-ECU,Ecuador,2022,Informalidad (definición productiva),67.88397,ECU,Ecuador
-HND,Honduras,2019,Informalidad (definición productiva),63.915318,HND,Honduras
-MEX,México,2022,Informalidad (definición productiva),44.868594,MEX,México
-PAN,Panamá,2021,Informalidad (definición productiva),47.92273,PAN,Panamá
-PER,Perú,2022,Informalidad (definición productiva),66.50981,PER,Perú
-PRY,Paraguay,2021,Informalidad (definición productiva),61.642342,PRY,Paraguay
-SLV,El Salvador,2022,Informalidad (definición productiva),52.85781,SLV,El Salvador
-URY,Uruguay,2022,Informalidad (definición productiva),34.108684,URY,Uruguay
-ARG,Argentina,2022,Informalidad (definición legal),36.6,ARG,Argentina
-BOL,Bolivia,2021,Informalidad (definición legal),53.709129,BOL,Bolivia
-BRA,Brasil,2022,Informalidad (definición legal),23.577382,BRA,Brasil
-CHL,Chile,2022,Informalidad (definición legal),14.787875,CHL,Chile
-COL,Colombia,2021,Informalidad (definición legal),35.882034,COL,Colombia
-CRI,Costa Rica,2022,Informalidad (definición legal),18.113858,CRI,Costa Rica
-DOM,Dominicana,2022,Informalidad (definición legal),29.43513,DOM,Rep. Dominicana
-ECU,Ecuador,2022,Informalidad (definición legal),47.40249,ECU,Ecuador
-HND,Honduras,2019,Informalidad (definición legal),66.419529,HND,Honduras
-MEX,México,2022,Informalidad (definición legal),62.41832,MEX,México
-PER,Perú,2022,Informalidad (definición legal),57.736026,PER,Perú
-PRY,Paraguay,2021,Informalidad (definición legal),61.286861,PRY,Paraguay
-SLV,El Salvador,2022,Informalidad (definición legal),51.70049,SLV,El Salvador
-URY,Uruguay,2022,Informalidad (definición legal),9.5943922,URY,Uruguay
+"iso3","pais","anio","tipo_informalidad","valor"
+"ARG","Argentina","2022","Informalidad (definición productiva)","40.1"
+"BOL","Bolivia","2021","Informalidad (definición productiva)","74.743654"
+"BRA","Brasil","2022","Informalidad (definición productiva)","41.343411"
+"CHL","Chile","2022","Informalidad (definición productiva)","28.879891"
+"COL","Colombia","2021","Informalidad (definición productiva)","58.794467"
+"CRI","Costa Rica","2022","Informalidad (definición productiva)","35.409574"
+"DOM","Dominicana","2022","Informalidad (definición productiva)","50.47505"
+"ECU","Ecuador","2022","Informalidad (definición productiva)","67.88397"
+"HND","Honduras","2019","Informalidad (definición productiva)","63.915318"
+"MEX","México","2022","Informalidad (definición productiva)","44.868594"
+"PAN","Panamá","2021","Informalidad (definición productiva)","47.92273"
+"PER","Perú","2022","Informalidad (definición productiva)","66.50981"
+"PRY","Paraguay","2021","Informalidad (definición productiva)","61.642342"
+"SLV","El Salvador","2022","Informalidad (definición productiva)","52.85781"
+"URY","Uruguay","2022","Informalidad (definición productiva)","34.108684"
+"ARG","Argentina","2022","Informalidad (definición legal)","36.6"
+"BOL","Bolivia","2021","Informalidad (definición legal)","53.709129"
+"BRA","Brasil","2022","Informalidad (definición legal)","23.577382"
+"CHL","Chile","2022","Informalidad (definición legal)","14.787875"
+"COL","Colombia","2021","Informalidad (definición legal)","35.882034"
+"CRI","Costa Rica","2022","Informalidad (definición legal)","18.113858"
+"DOM","Dominicana","2022","Informalidad (definición legal)","29.43513"
+"ECU","Ecuador","2022","Informalidad (definición legal)","47.40249"
+"HND","Honduras","2019","Informalidad (definición legal)","66.419529"
+"MEX","México","2022","Informalidad (definición legal)","62.41832"
+"PER","Perú","2022","Informalidad (definición legal)","57.736026"
+"PRY","Paraguay","2021","Informalidad (definición legal)","61.286861"
+"SLV","El Salvador","2022","Informalidad (definición legal)","51.70049"
+"URY","Uruguay","2022","Informalidad (definición legal)","9.5943922"

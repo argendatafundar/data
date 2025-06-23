@@ -1,990 +1,990 @@
-pais,anio,valor,iso3,geocodigoFundar,geonombreFundar
-Argentina,1990,1634,ARG,ARG,Argentina
-Argentina,1991,1607,ARG,ARG,Argentina
-Argentina,1992,1586,ARG,ARG,Argentina
-Argentina,1993,1761,ARG,ARG,Argentina
-Argentina,1994,2047,ARG,ARG,Argentina
-Argentina,1995,2226,ARG,ARG,Argentina
-Argentina,1996,4075,ARG,ARG,Argentina
-Argentina,1997,4671,ARG,ARG,Argentina
-Argentina,1998,4676,ARG,ARG,Argentina
-Argentina,1999,5047,ARG,ARG,Argentina
-Argentina,2000,5496,ARG,ARG,Argentina
-Argentina,2001,5664,ARG,ARG,Argentina
-Argentina,2002,6093,ARG,ARG,Argentina
-Argentina,2003,6203,ARG,ARG,Argentina
-Argentina,2004,6485,ARG,ARG,Argentina
-Argentina,2005,6951,ARG,ARG,Argentina
-Argentina,2006,7739,ARG,ARG,Argentina
-Argentina,2007,8058,ARG,ARG,Argentina
-Argentina,2008,8975,ARG,ARG,Argentina
-Argentina,2009,10078,ARG,ARG,Argentina
-Argentina,2010,10695,ARG,ARG,Argentina
-Argentina,2011,11627,ARG,ARG,Argentina
-Argentina,2012,12134,ARG,ARG,Argentina
-Argentina,2013,12563,ARG,ARG,Argentina
-Argentina,2014,13486,ARG,ARG,Argentina
-Argentina,2015,13791,ARG,ARG,Argentina
-Argentina,2016,14249,ARG,ARG,Argentina
-Argentina,2017,14657,ARG,ARG,Argentina
-Argentina,2018,15562,ARG,ARG,Argentina
-Argentina,2019,15763,ARG,ARG,Argentina
-Argentina,2020,17825,ARG,ARG,Argentina
-Argentina,2021,18063,ARG,ARG,Argentina
-Argentina,2022,17121,ARG,ARG,Argentina
-Barbados,1990,24,BRB,BRB,Barbados
-Barbados,1991,23,BRB,BRB,Barbados
-Barbados,1992,26,BRB,BRB,Barbados
-Barbados,1993,38,BRB,BRB,Barbados
-Barbados,1994,20,BRB,BRB,Barbados
-Barbados,1995,33,BRB,BRB,Barbados
-Barbados,1996,44,BRB,BRB,Barbados
-Barbados,1997,40,BRB,BRB,Barbados
-Barbados,1998,44,BRB,BRB,Barbados
-Barbados,1999,41,BRB,BRB,Barbados
-Barbados,2000,39,BRB,BRB,Barbados
-Barbados,2001,67,BRB,BRB,Barbados
-Barbados,2002,60,BRB,BRB,Barbados
-Barbados,2003,72,BRB,BRB,Barbados
-Barbados,2004,102,BRB,BRB,Barbados
-Barbados,2005,95,BRB,BRB,Barbados
-Barbados,2006,90,BRB,BRB,Barbados
-Barbados,2007,89,BRB,BRB,Barbados
-Barbados,2008,96,BRB,BRB,Barbados
-Barbados,2009,97,BRB,BRB,Barbados
-Barbados,2010,101,BRB,BRB,Barbados
-Barbados,2011,129,BRB,BRB,Barbados
-Barbados,2012,150,BRB,BRB,Barbados
-Barbados,2013,147,BRB,BRB,Barbados
-Barbados,2014,141,BRB,BRB,Barbados
-Barbados,2015,151,BRB,BRB,Barbados
-Barbados,2016,152,BRB,BRB,Barbados
-Barbados,2017,138,BRB,BRB,Barbados
-Barbados,2018,143,BRB,BRB,Barbados
-Barbados,2019,157,BRB,BRB,Barbados
-Barbados,2020,172,BRB,BRB,Barbados
-Barbados,2021,210,BRB,BRB,Barbados
-Barbados,2022,250,BRB,BRB,Barbados
-Bolivia,1990,16,BOL,BOL,Bolivia
-Bolivia,1991,18,BOL,BOL,Bolivia
-Bolivia,1992,13,BOL,BOL,Bolivia
-Bolivia,1993,24,BOL,BOL,Bolivia
-Bolivia,1994,30,BOL,BOL,Bolivia
-Bolivia,1995,34,BOL,BOL,Bolivia
-Bolivia,1996,65,BOL,BOL,Bolivia
-Bolivia,1997,94,BOL,BOL,Bolivia
-Bolivia,1998,100,BOL,BOL,Bolivia
-Bolivia,1999,119,BOL,BOL,Bolivia
-Bolivia,2000,71,BOL,BOL,Bolivia
-Bolivia,2001,87,BOL,BOL,Bolivia
-Bolivia,2002,94,BOL,BOL,Bolivia
-Bolivia,2003,125,BOL,BOL,Bolivia
-Bolivia,2004,137,BOL,BOL,Bolivia
-Bolivia,2005,151,BOL,BOL,Bolivia
-Bolivia,2006,195,BOL,BOL,Bolivia
-Bolivia,2007,232,BOL,BOL,Bolivia
-Bolivia,2008,429,BOL,BOL,Bolivia
-Bolivia,2009,253,BOL,BOL,Bolivia
-Bolivia,2010,246,BOL,BOL,Bolivia
-Bolivia,2011,257,BOL,BOL,Bolivia
-Bolivia,2012,252,BOL,BOL,Bolivia
-Bolivia,2013,288,BOL,BOL,Bolivia
-Bolivia,2014,309,BOL,BOL,Bolivia
-Bolivia,2015,335,BOL,BOL,Bolivia
-Bolivia,2016,362,BOL,BOL,Bolivia
-Bolivia,2017,315,BOL,BOL,Bolivia
-Bolivia,2018,402,BOL,BOL,Bolivia
-Bolivia,2019,454,BOL,BOL,Bolivia
-Bolivia,2020,542,BOL,BOL,Bolivia
-Bolivia,2021,617,BOL,BOL,Bolivia
-Bolivia,2022,627,BOL,BOL,Bolivia
-Brasil,1990,2892,BRA,BRA,Brasil
-Brasil,1991,3181,BRA,BRA,Brasil
-Brasil,1992,3621,BRA,BRA,Brasil
-Brasil,1993,3944,BRA,BRA,Brasil
-Brasil,1994,4371,BRA,BRA,Brasil
-Brasil,1995,5102,BRA,BRA,Brasil
-Brasil,1996,8739,BRA,BRA,Brasil
-Brasil,1997,10714,BRA,BRA,Brasil
-Brasil,1998,11708,BRA,BRA,Brasil
-Brasil,1999,12784,BRA,BRA,Brasil
-Brasil,2000,14881,BRA,BRA,Brasil
-Brasil,2001,15818,BRA,BRA,Brasil
-Brasil,2002,18483,BRA,BRA,Brasil
-Brasil,2003,20327,BRA,BRA,Brasil
-Brasil,2004,23160,BRA,BRA,Brasil
-Brasil,2005,26180,BRA,BRA,Brasil
-Brasil,2006,33949,BRA,BRA,Brasil
-Brasil,2007,36687,BRA,BRA,Brasil
-Brasil,2008,42117,BRA,BRA,Brasil
-Brasil,2009,46601,BRA,BRA,Brasil
-Brasil,2010,50402,BRA,BRA,Brasil
-Brasil,2011,54865,BRA,BRA,Brasil
-Brasil,2012,60428,BRA,BRA,Brasil
-Brasil,2013,64866,BRA,BRA,Brasil
-Brasil,2014,68372,BRA,BRA,Brasil
-Brasil,2015,71633,BRA,BRA,Brasil
-Brasil,2016,76038,BRA,BRA,Brasil
-Brasil,2017,80820,BRA,BRA,Brasil
-Brasil,2018,86387,BRA,BRA,Brasil
-Brasil,2019,91041,BRA,BRA,Brasil
-Brasil,2020,97776,BRA,BRA,Brasil
-Brasil,2021,103280,BRA,BRA,Brasil
-Brasil,2022,95587,BRA,BRA,Brasil
-Canadá,1990,28606,CAN,CAN,Canadá
-Canadá,1991,28667,CAN,CAN,Canadá
-Canadá,1992,29988,CAN,CAN,Canadá
-Canadá,1993,32753,CAN,CAN,Canadá
-Canadá,1994,34994,CAN,CAN,Canadá
-Canadá,1995,35127,CAN,CAN,Canadá
-Canadá,1996,42278,CAN,CAN,Canadá
-Canadá,1997,42454,CAN,CAN,Canadá
-Canadá,1998,41229,CAN,CAN,Canadá
-Canadá,1999,41286,CAN,CAN,Canadá
-Canadá,2000,43612,CAN,CAN,Canadá
-Canadá,2001,43172,CAN,CAN,Canadá
-Canadá,2002,47425,CAN,CAN,Canadá
-Canadá,2003,54103,CAN,CAN,Canadá
-Canadá,2004,60227,CAN,CAN,Canadá
-Canadá,2005,69537,CAN,CAN,Canadá
-Canadá,2006,73576,CAN,CAN,Canadá
-Canadá,2007,77680,CAN,CAN,Canadá
-Canadá,2008,80609,CAN,CAN,Canadá
-Canadá,2009,86615,CAN,CAN,Canadá
-Canadá,2010,89782,CAN,CAN,Canadá
-Canadá,2011,92551,CAN,CAN,Canadá
-Canadá,2012,99246,CAN,CAN,Canadá
-Canadá,2013,100955,CAN,CAN,Canadá
-Canadá,2014,104583,CAN,CAN,Canadá
-Canadá,2015,105898,CAN,CAN,Canadá
-Canadá,2016,108998,CAN,CAN,Canadá
-Canadá,2017,114912,CAN,CAN,Canadá
-Canadá,2018,118440,CAN,CAN,Canadá
-Canadá,2019,121608,CAN,CAN,Canadá
-Canadá,2020,124892,CAN,CAN,Canadá
-Canadá,2021,133668,CAN,CAN,Canadá
-Chile,1990,762,CHL,CHL,Chile
-Chile,1991,774,CHL,CHL,Chile
-Chile,1992,815,CHL,CHL,Chile
-Chile,1993,918,CHL,CHL,Chile
-Chile,1994,968,CHL,CHL,Chile
-Chile,1995,1066,CHL,CHL,Chile
-Chile,1996,1752,CHL,CHL,Chile
-Chile,1997,1977,CHL,CHL,Chile
-Chile,1998,1902,CHL,CHL,Chile
-Chile,1999,2121,CHL,CHL,Chile
-Chile,2000,2258,CHL,CHL,Chile
-Chile,2001,2376,CHL,CHL,Chile
-Chile,2002,2920,CHL,CHL,Chile
-Chile,2003,3254,CHL,CHL,Chile
-Chile,2004,3575,CHL,CHL,Chile
-Chile,2005,4015,CHL,CHL,Chile
-Chile,2006,4977,CHL,CHL,Chile
-Chile,2007,5340,CHL,CHL,Chile
-Chile,2008,6034,CHL,CHL,Chile
-Chile,2009,6696,CHL,CHL,Chile
-Chile,2010,7113,CHL,CHL,Chile
-Chile,2011,7824,CHL,CHL,Chile
-Chile,2012,8907,CHL,CHL,Chile
-Chile,2013,9395,CHL,CHL,Chile
-Chile,2014,11102,CHL,CHL,Chile
-Chile,2015,11940,CHL,CHL,Chile
-Chile,2016,13648,CHL,CHL,Chile
-Chile,2017,13986,CHL,CHL,Chile
-Chile,2018,15442,CHL,CHL,Chile
-Chile,2019,16506,CHL,CHL,Chile
-Chile,2020,18927,CHL,CHL,Chile
-Chile,2021,20618,CHL,CHL,Chile
-Chile,2022,19555,CHL,CHL,Chile
-Colombia,1990,155,COL,COL,Colombia
-Colombia,1991,119,COL,COL,Colombia
-Colombia,1992,145,COL,COL,Colombia
-Colombia,1993,184,COL,COL,Colombia
-Colombia,1994,226,COL,COL,Colombia
-Colombia,1995,257,COL,COL,Colombia
-Colombia,1996,558,COL,COL,Colombia
-Colombia,1997,656,COL,COL,Colombia
-Colombia,1998,618,COL,COL,Colombia
-Colombia,1999,742,COL,COL,Colombia
-Colombia,2000,869,COL,COL,Colombia
-Colombia,2001,845,COL,COL,Colombia
-Colombia,2002,1000,COL,COL,Colombia
-Colombia,2003,1137,COL,COL,Colombia
-Colombia,2004,1311,COL,COL,Colombia
-Colombia,2005,1512,COL,COL,Colombia
-Colombia,2006,2124,COL,COL,Colombia
-Colombia,2007,2541,COL,COL,Colombia
-Colombia,2008,3630,COL,COL,Colombia
-Colombia,2009,4219,COL,COL,Colombia
-Colombia,2010,4910,COL,COL,Colombia
-Colombia,2011,5635,COL,COL,Colombia
-Colombia,2012,6645,COL,COL,Colombia
-Colombia,2013,7637,COL,COL,Colombia
-Colombia,2014,8490,COL,COL,Colombia
-Colombia,2015,9403,COL,COL,Colombia
-Colombia,2016,10932,COL,COL,Colombia
-Colombia,2017,12192,COL,COL,Colombia
-Colombia,2018,13579,COL,COL,Colombia
-Colombia,2019,15469,COL,COL,Colombia
-Colombia,2020,17108,COL,COL,Colombia
-Colombia,2021,18156,COL,COL,Colombia
-Colombia,2022,17673,COL,COL,Colombia
-Costa Rica,1990,56,CRI,CRI,Costa Rica
-Costa Rica,1991,70,CRI,CRI,Costa Rica
-Costa Rica,1992,70,CRI,CRI,Costa Rica
-Costa Rica,1993,86,CRI,CRI,Costa Rica
-Costa Rica,1994,91,CRI,CRI,Costa Rica
-Costa Rica,1995,95,CRI,CRI,Costa Rica
-Costa Rica,1996,256,CRI,CRI,Costa Rica
-Costa Rica,1997,277,CRI,CRI,Costa Rica
-Costa Rica,1998,254,CRI,CRI,Costa Rica
-Costa Rica,1999,230,CRI,CRI,Costa Rica
-Costa Rica,2000,228,CRI,CRI,Costa Rica
-Costa Rica,2001,283,CRI,CRI,Costa Rica
-Costa Rica,2002,301,CRI,CRI,Costa Rica
-Costa Rica,2003,308,CRI,CRI,Costa Rica
-Costa Rica,2004,412,CRI,CRI,Costa Rica
-Costa Rica,2005,445,CRI,CRI,Costa Rica
-Costa Rica,2006,459,CRI,CRI,Costa Rica
-Costa Rica,2007,515,CRI,CRI,Costa Rica
-Costa Rica,2008,524,CRI,CRI,Costa Rica
-Costa Rica,2009,563,CRI,CRI,Costa Rica
-Costa Rica,2010,597,CRI,CRI,Costa Rica
-Costa Rica,2011,640,CRI,CRI,Costa Rica
-Costa Rica,2012,696,CRI,CRI,Costa Rica
-Costa Rica,2013,732,CRI,CRI,Costa Rica
-Costa Rica,2014,891,CRI,CRI,Costa Rica
-Costa Rica,2015,906,CRI,CRI,Costa Rica
-Costa Rica,2016,1035,CRI,CRI,Costa Rica
-Costa Rica,2017,1160,CRI,CRI,Costa Rica
-Costa Rica,2018,1239,CRI,CRI,Costa Rica
-Costa Rica,2019,1448,CRI,CRI,Costa Rica
-Costa Rica,2020,1632,CRI,CRI,Costa Rica
-Costa Rica,2021,1783,CRI,CRI,Costa Rica
-Costa Rica,2022,1754,CRI,CRI,Costa Rica
-Cuba,1990,256,CUB,CUB,Cuba
-Cuba,1991,125,CUB,CUB,Cuba
-Cuba,1992,150,CUB,CUB,Cuba
-Cuba,1993,141,CUB,CUB,Cuba
-Cuba,1994,171,CUB,CUB,Cuba
-Cuba,1995,223,CUB,CUB,Cuba
-Cuba,1996,740,CUB,CUB,Cuba
-Cuba,1997,893,CUB,CUB,Cuba
-Cuba,1998,1105,CUB,CUB,Cuba
-Cuba,1999,1286,CUB,CUB,Cuba
-Cuba,2000,1283,CUB,CUB,Cuba
-Cuba,2001,1364,CUB,CUB,Cuba
-Cuba,2002,1378,CUB,CUB,Cuba
-Cuba,2003,1159,CUB,CUB,Cuba
-Cuba,2004,1201,CUB,CUB,Cuba
-Cuba,2005,1473,CUB,CUB,Cuba
-Cuba,2006,1862,CUB,CUB,Cuba
-Cuba,2007,1881,CUB,CUB,Cuba
-Cuba,2008,1887,CUB,CUB,Cuba
-Cuba,2009,2164,CUB,CUB,Cuba
-Cuba,2010,2019,CUB,CUB,Cuba
-Cuba,2011,2303,CUB,CUB,Cuba
-Cuba,2012,2406,CUB,CUB,Cuba
-Cuba,2013,2464,CUB,CUB,Cuba
-Cuba,2014,2361,CUB,CUB,Cuba
-Cuba,2015,2232,CUB,CUB,Cuba
-Cuba,2016,2085,CUB,CUB,Cuba
-Cuba,2017,2047,CUB,CUB,Cuba
-Cuba,2018,2149,CUB,CUB,Cuba
-Cuba,2019,2391,CUB,CUB,Cuba
-Cuba,2020,2697,CUB,CUB,Cuba
-Cuba,2021,2946,CUB,CUB,Cuba
-Cuba,2022,2600,CUB,CUB,Cuba
-Ecuador,1990,32,ECU,ECU,Ecuador
-Ecuador,1991,50,ECU,ECU,Ecuador
-Ecuador,1992,54,ECU,ECU,Ecuador
-Ecuador,1993,54,ECU,ECU,Ecuador
-Ecuador,1994,82,ECU,ECU,Ecuador
-Ecuador,1995,106,ECU,ECU,Ecuador
-Ecuador,1996,99,ECU,ECU,Ecuador
-Ecuador,1997,163,ECU,ECU,Ecuador
-Ecuador,1998,152,ECU,ECU,Ecuador
-Ecuador,1999,136,ECU,ECU,Ecuador
-Ecuador,2000,143,ECU,ECU,Ecuador
-Ecuador,2001,133,ECU,ECU,Ecuador
-Ecuador,2002,174,ECU,ECU,Ecuador
-Ecuador,2003,213,ECU,ECU,Ecuador
-Ecuador,2004,217,ECU,ECU,Ecuador
-Ecuador,2005,292,ECU,ECU,Ecuador
-Ecuador,2006,317,ECU,ECU,Ecuador
-Ecuador,2007,348,ECU,ECU,Ecuador
-Ecuador,2008,416,ECU,ECU,Ecuador
-Ecuador,2009,500,ECU,ECU,Ecuador
-Ecuador,2010,457,ECU,ECU,Ecuador
-Ecuador,2011,484,ECU,ECU,Ecuador
-Ecuador,2012,648,ECU,ECU,Ecuador
-Ecuador,2013,776,ECU,ECU,Ecuador
-Ecuador,2014,1057,ECU,ECU,Ecuador
-Ecuador,2015,1699,ECU,ECU,Ecuador
-Ecuador,2016,2543,ECU,ECU,Ecuador
-Ecuador,2017,3730,ECU,ECU,Ecuador
-Ecuador,2018,4727,ECU,ECU,Ecuador
-Ecuador,2019,5406,ECU,ECU,Ecuador
-Ecuador,2020,6125,ECU,ECU,Ecuador
-Ecuador,2021,6279,ECU,ECU,Ecuador
-Ecuador,2022,6905,ECU,ECU,Ecuador
-El Salvador,1990,4,SLV,SLV,El Salvador
-El Salvador,1991,6,SLV,SLV,El Salvador
-El Salvador,1992,3,SLV,SLV,El Salvador
-El Salvador,1993,8,SLV,SLV,El Salvador
-El Salvador,1994,6,SLV,SLV,El Salvador
-El Salvador,1995,7,SLV,SLV,El Salvador
-El Salvador,1996,18,SLV,SLV,El Salvador
-El Salvador,1997,24,SLV,SLV,El Salvador
-El Salvador,1998,11,SLV,SLV,El Salvador
-El Salvador,1999,12,SLV,SLV,El Salvador
-El Salvador,2000,17,SLV,SLV,El Salvador
-El Salvador,2001,25,SLV,SLV,El Salvador
-El Salvador,2002,29,SLV,SLV,El Salvador
-El Salvador,2003,23,SLV,SLV,El Salvador
-El Salvador,2004,61,SLV,SLV,El Salvador
-El Salvador,2005,45,SLV,SLV,El Salvador
-El Salvador,2006,50,SLV,SLV,El Salvador
-El Salvador,2007,40,SLV,SLV,El Salvador
-El Salvador,2008,44,SLV,SLV,El Salvador
-El Salvador,2009,75,SLV,SLV,El Salvador
-El Salvador,2010,110,SLV,SLV,El Salvador
-El Salvador,2011,108,SLV,SLV,El Salvador
-El Salvador,2012,109,SLV,SLV,El Salvador
-El Salvador,2013,88,SLV,SLV,El Salvador
-El Salvador,2014,119,SLV,SLV,El Salvador
-El Salvador,2015,157,SLV,SLV,El Salvador
-El Salvador,2016,171,SLV,SLV,El Salvador
-El Salvador,2017,135,SLV,SLV,El Salvador
-El Salvador,2018,142,SLV,SLV,El Salvador
-El Salvador,2019,127,SLV,SLV,El Salvador
-El Salvador,2020,123,SLV,SLV,El Salvador
-El Salvador,2021,190,SLV,SLV,El Salvador
-El Salvador,2022,236,SLV,SLV,El Salvador
-España,1990,11743,ESP,ESP,España
-España,1991,12029,ESP,ESP,España
-España,1992,13760,ESP,ESP,España
-España,1993,15350,ESP,ESP,España
-España,1994,16896,ESP,ESP,España
-España,1995,18188,ESP,ESP,España
-España,1996,23908,ESP,ESP,España
-España,1997,26670,ESP,ESP,España
-España,1998,27447,ESP,ESP,España
-España,1999,28918,ESP,ESP,España
-España,2000,30277,ESP,ESP,España
-España,2001,32152,ESP,ESP,España
-España,2002,34822,ESP,ESP,España
-España,2003,38477,ESP,ESP,España
-España,2004,42357,ESP,ESP,España
-España,2005,48675,ESP,ESP,España
-España,2006,53641,ESP,ESP,España
-España,2007,57760,ESP,ESP,España
-España,2008,61706,ESP,ESP,España
-España,2009,68051,ESP,ESP,España
-España,2010,72617,ESP,ESP,España
-España,2011,78853,ESP,ESP,España
-España,2012,84806,ESP,ESP,España
-España,2013,88315,ESP,ESP,España
-España,2014,90915,ESP,ESP,España
-España,2015,91744,ESP,ESP,España
-España,2016,94517,ESP,ESP,España
-España,2017,97092,ESP,ESP,España
-España,2018,100325,ESP,ESP,España
-España,2019,106449,ESP,ESP,España
-España,2020,116831,ESP,ESP,España
-España,2021,125442,ESP,ESP,España
-España,2022,122784,ESP,ESP,España
-Estados Unidos,1990,257720,USA,USA,Estados Unidos
-Estados Unidos,1991,259578,USA,USA,Estados Unidos
-Estados Unidos,1992,259350,USA,USA,Estados Unidos
-Estados Unidos,1993,282444,USA,USA,Estados Unidos
-Estados Unidos,1994,295586,USA,USA,Estados Unidos
-Estados Unidos,1995,306621,USA,USA,Estados Unidos
-Estados Unidos,1996,346757,USA,USA,Estados Unidos
-Estados Unidos,1997,347092,USA,USA,Estados Unidos
-Estados Unidos,1998,343064,USA,USA,Estados Unidos
-Estados Unidos,1999,342396,USA,USA,Estados Unidos
-Estados Unidos,2000,357233,USA,USA,Estados Unidos
-Estados Unidos,2001,358300,USA,USA,Estados Unidos
-Estados Unidos,2002,381199,USA,USA,Estados Unidos
-Estados Unidos,2003,415837,USA,USA,Estados Unidos
-Estados Unidos,2004,449179,USA,USA,Estados Unidos
-Estados Unidos,2005,497929,USA,USA,Estados Unidos
-Estados Unidos,2006,516505,USA,USA,Estados Unidos
-Estados Unidos,2007,522265,USA,USA,Estados Unidos
-Estados Unidos,2008,547663,USA,USA,Estados Unidos
-Estados Unidos,2009,583439,USA,USA,Estados Unidos
-Estados Unidos,2010,601456,USA,USA,Estados Unidos
-Estados Unidos,2011,623400,USA,USA,Estados Unidos
-Estados Unidos,2012,673016,USA,USA,Estados Unidos
-Estados Unidos,2013,689643,USA,USA,Estados Unidos
-Estados Unidos,2014,681689,USA,USA,Estados Unidos
-Estados Unidos,2015,702622,USA,USA,Estados Unidos
-Estados Unidos,2016,710173,USA,USA,Estados Unidos
-Estados Unidos,2017,727147,USA,USA,Estados Unidos
-Estados Unidos,2018,738283,USA,USA,Estados Unidos
-Estados Unidos,2019,730473,USA,USA,Estados Unidos
-Estados Unidos,2020,730260,USA,USA,Estados Unidos
-Estados Unidos,2021,757937,USA,USA,Estados Unidos
-Estados Unidos,2022,724916,USA,USA,Estados Unidos
-Guatemala,1990,26,GTM,GTM,Guatemala
-Guatemala,1991,24,GTM,GTM,Guatemala
-Guatemala,1992,38,GTM,GTM,Guatemala
-Guatemala,1993,47,GTM,GTM,Guatemala
-Guatemala,1994,36,GTM,GTM,Guatemala
-Guatemala,1995,36,GTM,GTM,Guatemala
-Guatemala,1996,61,GTM,GTM,Guatemala
-Guatemala,1997,59,GTM,GTM,Guatemala
-Guatemala,1998,62,GTM,GTM,Guatemala
-Guatemala,1999,63,GTM,GTM,Guatemala
-Guatemala,2000,52,GTM,GTM,Guatemala
-Guatemala,2001,45,GTM,GTM,Guatemala
-Guatemala,2002,54,GTM,GTM,Guatemala
-Guatemala,2003,68,GTM,GTM,Guatemala
-Guatemala,2004,79,GTM,GTM,Guatemala
-Guatemala,2005,121,GTM,GTM,Guatemala
-Guatemala,2006,91,GTM,GTM,Guatemala
-Guatemala,2007,99,GTM,GTM,Guatemala
-Guatemala,2008,115,GTM,GTM,Guatemala
-Guatemala,2009,153,GTM,GTM,Guatemala
-Guatemala,2010,147,GTM,GTM,Guatemala
-Guatemala,2011,145,GTM,GTM,Guatemala
-Guatemala,2012,218,GTM,GTM,Guatemala
-Guatemala,2013,228,GTM,GTM,Guatemala
-Guatemala,2014,221,GTM,GTM,Guatemala
-Guatemala,2015,286,GTM,GTM,Guatemala
-Guatemala,2016,287,GTM,GTM,Guatemala
-Guatemala,2017,338,GTM,GTM,Guatemala
-Guatemala,2018,314,GTM,GTM,Guatemala
-Guatemala,2019,335,GTM,GTM,Guatemala
-Guatemala,2020,437,GTM,GTM,Guatemala
-Guatemala,2021,483,GTM,GTM,Guatemala
-Guatemala,2022,521,GTM,GTM,Guatemala
-Guyana,1990,6,GUY,GUY,Guyana
-Guyana,1991,10,GUY,GUY,Guyana
-Guyana,1992,9,GUY,GUY,Guyana
-Guyana,1993,13,GUY,GUY,Guyana
-Guyana,1994,8,GUY,GUY,Guyana
-Guyana,1995,16,GUY,GUY,Guyana
-Guyana,1996,9,GUY,GUY,Guyana
-Guyana,1997,21,GUY,GUY,Guyana
-Guyana,1998,12,GUY,GUY,Guyana
-Guyana,1999,22,GUY,GUY,Guyana
-Guyana,2000,22,GUY,GUY,Guyana
-Guyana,2001,20,GUY,GUY,Guyana
-Guyana,2002,21,GUY,GUY,Guyana
-Guyana,2003,16,GUY,GUY,Guyana
-Guyana,2004,26,GUY,GUY,Guyana
-Guyana,2005,36,GUY,GUY,Guyana
-Guyana,2006,31,GUY,GUY,Guyana
-Guyana,2007,31,GUY,GUY,Guyana
-Guyana,2008,23,GUY,GUY,Guyana
-Guyana,2009,46,GUY,GUY,Guyana
-Guyana,2010,42,GUY,GUY,Guyana
-Guyana,2011,25,GUY,GUY,Guyana
-Guyana,2012,36,GUY,GUY,Guyana
-Guyana,2013,35,GUY,GUY,Guyana
-Guyana,2014,32,GUY,GUY,Guyana
-Guyana,2015,39,GUY,GUY,Guyana
-Guyana,2016,46,GUY,GUY,Guyana
-Guyana,2017,46,GUY,GUY,Guyana
-Guyana,2018,67,GUY,GUY,Guyana
-Guyana,2019,102,GUY,GUY,Guyana
-Guyana,2020,121,GUY,GUY,Guyana
-Guyana,2021,119,GUY,GUY,Guyana
-Guyana,2022,131,GUY,GUY,Guyana
-Haiti,1990,4,HTI,HTI,Haití
-Haiti,1991,6,HTI,HTI,Haití
-Haiti,1992,7,HTI,HTI,Haití
-Haiti,1993,9,HTI,HTI,Haití
-Haiti,1994,4,HTI,HTI,Haití
-Haiti,1995,1,HTI,HTI,Haití
-Haiti,1996,6,HTI,HTI,Haití
-Haiti,1997,8,HTI,HTI,Haití
-Haiti,1998,14,HTI,HTI,Haití
-Haiti,1999,6,HTI,HTI,Haití
-Haiti,2000,13,HTI,HTI,Haití
-Haiti,2001,11,HTI,HTI,Haití
-Haiti,2002,15,HTI,HTI,Haití
-Haiti,2003,18,HTI,HTI,Haití
-Haiti,2004,21,HTI,HTI,Haití
-Haiti,2005,30,HTI,HTI,Haití
-Haiti,2006,38,HTI,HTI,Haití
-Haiti,2007,29,HTI,HTI,Haití
-Haiti,2008,34,HTI,HTI,Haití
-Haiti,2009,42,HTI,HTI,Haití
-Haiti,2010,58,HTI,HTI,Haití
-Haiti,2011,69,HTI,HTI,Haití
-Haiti,2012,61,HTI,HTI,Haití
-Haiti,2013,35,HTI,HTI,Haití
-Haiti,2014,32,HTI,HTI,Haití
-Haiti,2015,39,HTI,HTI,Haití
-Haiti,2016,46,HTI,HTI,Haití
-Haiti,2017,46,HTI,HTI,Haití
-Haiti,2018,67,HTI,HTI,Haití
-Haiti,2019,102,HTI,HTI,Haití
-Haiti,2020,121,HTI,HTI,Haití
-Haiti,2021,119,HTI,HTI,Haití
-Haiti,2022,131,HTI,HTI,Haití
-Honduras,1990,6,HND,HND,Honduras
-Honduras,1991,18,HND,HND,Honduras
-Honduras,1992,10,HND,HND,Honduras
-Honduras,1993,12,HND,HND,Honduras
-Honduras,1994,9,HND,HND,Honduras
-Honduras,1995,10,HND,HND,Honduras
-Honduras,1996,25,HND,HND,Honduras
-Honduras,1997,29,HND,HND,Honduras
-Honduras,1998,31,HND,HND,Honduras
-Honduras,1999,39,HND,HND,Honduras
-Honduras,2000,29,HND,HND,Honduras
-Honduras,2001,19,HND,HND,Honduras
-Honduras,2002,35,HND,HND,Honduras
-Honduras,2003,31,HND,HND,Honduras
-Honduras,2004,40,HND,HND,Honduras
-Honduras,2005,43,HND,HND,Honduras
-Honduras,2006,43,HND,HND,Honduras
-Honduras,2007,38,HND,HND,Honduras
-Honduras,2008,41,HND,HND,Honduras
-Honduras,2009,66,HND,HND,Honduras
-Honduras,2010,73,HND,HND,Honduras
-Honduras,2011,75,HND,HND,Honduras
-Honduras,2012,86,HND,HND,Honduras
-Honduras,2013,90,HND,HND,Honduras
-Honduras,2014,85,HND,HND,Honduras
-Honduras,2015,109,HND,HND,Honduras
-Honduras,2016,106,HND,HND,Honduras
-Honduras,2017,150,HND,HND,Honduras
-Honduras,2018,189,HND,HND,Honduras
-Honduras,2019,234,HND,HND,Honduras
-Honduras,2020,407,HND,HND,Honduras
-Honduras,2021,368,HND,HND,Honduras
-Honduras,2022,419,HND,HND,Honduras
-Jamaica,1990,131,JAM,JAM,Jamaica
-Jamaica,1991,146,JAM,JAM,Jamaica
-Jamaica,1992,124,JAM,JAM,Jamaica
-Jamaica,1993,139,JAM,JAM,Jamaica
-Jamaica,1994,159,JAM,JAM,Jamaica
-Jamaica,1995,182,JAM,JAM,Jamaica
-Jamaica,1996,174,JAM,JAM,Jamaica
-Jamaica,1997,143,JAM,JAM,Jamaica
-Jamaica,1998,149,JAM,JAM,Jamaica
-Jamaica,1999,148,JAM,JAM,Jamaica
-Jamaica,2000,129,JAM,JAM,Jamaica
-Jamaica,2001,186,JAM,JAM,Jamaica
-Jamaica,2002,204,JAM,JAM,Jamaica
-Jamaica,2003,217,JAM,JAM,Jamaica
-Jamaica,2004,245,JAM,JAM,Jamaica
-Jamaica,2005,228,JAM,JAM,Jamaica
-Jamaica,2006,239,JAM,JAM,Jamaica
-Jamaica,2007,266,JAM,JAM,Jamaica
-Jamaica,2008,328,JAM,JAM,Jamaica
-Jamaica,2009,328,JAM,JAM,Jamaica
-Jamaica,2010,283,JAM,JAM,Jamaica
-Jamaica,2011,378,JAM,JAM,Jamaica
-Jamaica,2012,401,JAM,JAM,Jamaica
-Jamaica,2013,422,JAM,JAM,Jamaica
-Jamaica,2014,471,JAM,JAM,Jamaica
-Jamaica,2015,413,JAM,JAM,Jamaica
-Jamaica,2016,409,JAM,JAM,Jamaica
-Jamaica,2017,447,JAM,JAM,Jamaica
-Jamaica,2018,442,JAM,JAM,Jamaica
-Jamaica,2019,390,JAM,JAM,Jamaica
-Jamaica,2020,467,JAM,JAM,Jamaica
-Jamaica,2021,484,JAM,JAM,Jamaica
-Jamaica,2022,489,JAM,JAM,Jamaica
-México,1990,1509,MEX,MEX,México
-México,1991,1674,MEX,MEX,México
-México,1992,1714,MEX,MEX,México
-México,1993,2106,MEX,MEX,México
-México,1994,2418,MEX,MEX,México
-México,1995,2991,MEX,MEX,México
-México,1996,4590,MEX,MEX,México
-México,1997,5243,MEX,MEX,México
-México,1998,5668,MEX,MEX,México
-México,1999,6222,MEX,MEX,México
-México,2000,6513,MEX,MEX,México
-México,2001,6945,MEX,MEX,México
-México,2002,7582,MEX,MEX,México
-México,2003,8877,MEX,MEX,México
-México,2004,9582,MEX,MEX,México
-México,2005,11032,MEX,MEX,México
-México,2006,12356,MEX,MEX,México
-México,2007,12749,MEX,MEX,México
-México,2008,14162,MEX,MEX,México
-México,2009,15092,MEX,MEX,México
-México,2010,16006,MEX,MEX,México
-México,2011,17116,MEX,MEX,México
-México,2012,18352,MEX,MEX,México
-México,2013,19965,MEX,MEX,México
-México,2014,21440,MEX,MEX,México
-México,2015,21976,MEX,MEX,México
-México,2016,23608,MEX,MEX,México
-México,2017,25214,MEX,MEX,México
-México,2018,26951,MEX,MEX,México
-México,2019,29681,MEX,MEX,México
-México,2020,31739,MEX,MEX,México
-México,2021,33875,MEX,MEX,México
-México,2022,33420,MEX,MEX,México
-Nicaragua,1990,10,NIC,NIC,Nicaragua
-Nicaragua,1991,23,NIC,NIC,Nicaragua
-Nicaragua,1992,9,NIC,NIC,Nicaragua
-Nicaragua,1993,19,NIC,NIC,Nicaragua
-Nicaragua,1994,19,NIC,NIC,Nicaragua
-Nicaragua,1995,14,NIC,NIC,Nicaragua
-Nicaragua,1996,35,NIC,NIC,Nicaragua
-Nicaragua,1997,39,NIC,NIC,Nicaragua
-Nicaragua,1998,28,NIC,NIC,Nicaragua
-Nicaragua,1999,28,NIC,NIC,Nicaragua
-Nicaragua,2000,29,NIC,NIC,Nicaragua
-Nicaragua,2001,23,NIC,NIC,Nicaragua
-Nicaragua,2002,19,NIC,NIC,Nicaragua
-Nicaragua,2003,39,NIC,NIC,Nicaragua
-Nicaragua,2004,45,NIC,NIC,Nicaragua
-Nicaragua,2005,53,NIC,NIC,Nicaragua
-Nicaragua,2006,91,NIC,NIC,Nicaragua
-Nicaragua,2007,70,NIC,NIC,Nicaragua
-Nicaragua,2008,88,NIC,NIC,Nicaragua
-Nicaragua,2009,98,NIC,NIC,Nicaragua
-Nicaragua,2010,94,NIC,NIC,Nicaragua
-Nicaragua,2011,108,NIC,NIC,Nicaragua
-Nicaragua,2012,118,NIC,NIC,Nicaragua
-Nicaragua,2013,99,NIC,NIC,Nicaragua
-Nicaragua,2014,103,NIC,NIC,Nicaragua
-Nicaragua,2015,121,NIC,NIC,Nicaragua
-Nicaragua,2016,140,NIC,NIC,Nicaragua
-Nicaragua,2017,173,NIC,NIC,Nicaragua
-Nicaragua,2018,143,NIC,NIC,Nicaragua
-Nicaragua,2019,147,NIC,NIC,Nicaragua
-Nicaragua,2020,156,NIC,NIC,Nicaragua
-Nicaragua,2021,144,NIC,NIC,Nicaragua
-Nicaragua,2022,185,NIC,NIC,Nicaragua
-Paraguay,1990,6,PRY,PRY,Paraguay
-Paraguay,1991,11,PRY,PRY,Paraguay
-Paraguay,1992,10,PRY,PRY,Paraguay
-Paraguay,1993,12,PRY,PRY,Paraguay
-Paraguay,1994,11,PRY,PRY,Paraguay
-Paraguay,1995,16,PRY,PRY,Paraguay
-Paraguay,1996,29,PRY,PRY,Paraguay
-Paraguay,1997,30,PRY,PRY,Paraguay
-Paraguay,1998,40,PRY,PRY,Paraguay
-Paraguay,1999,21,PRY,PRY,Paraguay
-Paraguay,2000,26,PRY,PRY,Paraguay
-Paraguay,2001,30,PRY,PRY,Paraguay
-Paraguay,2002,28,PRY,PRY,Paraguay
-Paraguay,2003,41,PRY,PRY,Paraguay
-Paraguay,2004,54,PRY,PRY,Paraguay
-Paraguay,2005,56,PRY,PRY,Paraguay
-Paraguay,2006,62,PRY,PRY,Paraguay
-Paraguay,2007,62,PRY,PRY,Paraguay
-Paraguay,2008,73,PRY,PRY,Paraguay
-Paraguay,2009,89,PRY,PRY,Paraguay
-Paraguay,2010,99,PRY,PRY,Paraguay
-Paraguay,2011,122,PRY,PRY,Paraguay
-Paraguay,2012,145,PRY,PRY,Paraguay
-Paraguay,2013,154,PRY,PRY,Paraguay
-Paraguay,2014,170,PRY,PRY,Paraguay
-Paraguay,2015,228,PRY,PRY,Paraguay
-Paraguay,2016,257,PRY,PRY,Paraguay
-Paraguay,2017,335,PRY,PRY,Paraguay
-Paraguay,2018,280,PRY,PRY,Paraguay
-Paraguay,2019,443,PRY,PRY,Paraguay
-Paraguay,2020,505,PRY,PRY,Paraguay
-Paraguay,2021,555,PRY,PRY,Paraguay
-Paraguay,2022,579,PRY,PRY,Paraguay
-Perú,1990,124,PER,PER,Perú
-Perú,1991,111,PER,PER,Perú
-Perú,1992,110,PER,PER,Perú
-Perú,1993,102,PER,PER,Perú
-Perú,1994,102,PER,PER,Perú
-Perú,1995,106,PER,PER,Perú
-Perú,1996,176,PER,PER,Perú
-Perú,1997,227,PER,PER,Perú
-Perú,1998,199,PER,PER,Perú
-Perú,1999,238,PER,PER,Perú
-Perú,2000,271,PER,PER,Perú
-Perú,2001,281,PER,PER,Perú
-Perú,2002,286,PER,PER,Perú
-Perú,2003,440,PER,PER,Perú
-Perú,2004,466,PER,PER,Perú
-Perú,2005,555,PER,PER,Perú
-Perú,2006,825,PER,PER,Perú
-Perú,2007,760,PER,PER,Perú
-Perú,2008,799,PER,PER,Perú
-Perú,2009,971,PER,PER,Perú
-Perú,2010,1090,PER,PER,Perú
-Perú,2011,1283,PER,PER,Perú
-Perú,2012,1376,PER,PER,Perú
-Perú,2013,1594,PER,PER,Perú
-Perú,2014,1763,PER,PER,Perú
-Perú,2015,2154,PER,PER,Perú
-Perú,2016,2520,PER,PER,Perú
-Perú,2017,3045,PER,PER,Perú
-Perú,2018,3606,PER,PER,Perú
-Perú,2019,4807,PER,PER,Perú
-Perú,2020,6584,PER,PER,Perú
-Perú,2021,8100,PER,PER,Perú
-Perú,2022,9391,PER,PER,Perú
-Portugal,1990,1046,PRT,PRT,Portugal
-Portugal,1991,1206,PRT,PRT,Portugal
-Portugal,1992,1223,PRT,PRT,Portugal
-Portugal,1993,1527,PRT,PRT,Portugal
-Portugal,1994,1795,PRT,PRT,Portugal
-Portugal,1995,2005,PRT,PRT,Portugal
-Portugal,1996,2747,PRT,PRT,Portugal
-Portugal,1997,3273,PRT,PRT,Portugal
-Portugal,1998,3522,PRT,PRT,Portugal
-Portugal,1999,4014,PRT,PRT,Portugal
-Portugal,2000,4401,PRT,PRT,Portugal
-Portugal,2001,4920,PRT,PRT,Portugal
-Portugal,2002,5389,PRT,PRT,Portugal
-Portugal,2003,6437,PRT,PRT,Portugal
-Portugal,2004,7271,PRT,PRT,Portugal
-Portugal,2005,8409,PRT,PRT,Portugal
-Portugal,2006,10267,PRT,PRT,Portugal
-Portugal,2007,10848,PRT,PRT,Portugal
-Portugal,2008,12721,PRT,PRT,Portugal
-Portugal,2009,14064,PRT,PRT,Portugal
-Portugal,2010,15791,PRT,PRT,Portugal
-Portugal,2011,18311,PRT,PRT,Portugal
-Portugal,2012,20375,PRT,PRT,Portugal
-Portugal,2013,22992,PRT,PRT,Portugal
-Portugal,2014,23573,PRT,PRT,Portugal
-Portugal,2015,25049,PRT,PRT,Portugal
-Portugal,2016,25804,PRT,PRT,Portugal
-Portugal,2017,26640,PRT,PRT,Portugal
-Portugal,2018,27991,PRT,PRT,Portugal
-Portugal,2019,31045,PRT,PRT,Portugal
-Portugal,2020,33524,PRT,PRT,Portugal
-Portugal,2021,37039,PRT,PRT,Portugal
-Portugal,2022,37498,PRT,PRT,Portugal
-Puerto Rico,1990,156,PRI,PRI,Puerto Rico
-Puerto Rico,1991,178,PRI,PRI,Puerto Rico
-Puerto Rico,1992,158,PRI,PRI,Puerto Rico
-Puerto Rico,1993,228,PRI,PRI,Puerto Rico
-Puerto Rico,1994,201,PRI,PRI,Puerto Rico
-Puerto Rico,1995,245,PRI,PRI,Puerto Rico
-Puerto Rico,1996,454,PRI,PRI,Puerto Rico
-Puerto Rico,1997,473,PRI,PRI,Puerto Rico
-Puerto Rico,1998,484,PRI,PRI,Puerto Rico
-Puerto Rico,1999,468,PRI,PRI,Puerto Rico
-Puerto Rico,2000,446,PRI,PRI,Puerto Rico
-Puerto Rico,2001,436,PRI,PRI,Puerto Rico
-Puerto Rico,2002,442,PRI,PRI,Puerto Rico
-Puerto Rico,2003,600,PRI,PRI,Puerto Rico
-Puerto Rico,2004,600,PRI,PRI,Puerto Rico
-Puerto Rico,2005,746,PRI,PRI,Puerto Rico
-Puerto Rico,2006,922,PRI,PRI,Puerto Rico
-Puerto Rico,2007,884,PRI,PRI,Puerto Rico
-Puerto Rico,2008,999,PRI,PRI,Puerto Rico
-Puerto Rico,2009,889,PRI,PRI,Puerto Rico
-Puerto Rico,2010,955,PRI,PRI,Puerto Rico
-Puerto Rico,2011,946,PRI,PRI,Puerto Rico
-Puerto Rico,2012,930,PRI,PRI,Puerto Rico
-Puerto Rico,2013,867,PRI,PRI,Puerto Rico
-Puerto Rico,2014,861,PRI,PRI,Puerto Rico
-Puerto Rico,2015,806,PRI,PRI,Puerto Rico
-Puerto Rico,2016,884,PRI,PRI,Puerto Rico
-Puerto Rico,2017,880,PRI,PRI,Puerto Rico
-Puerto Rico,2018,923,PRI,PRI,Puerto Rico
-Puerto Rico,2019,842,PRI,PRI,Puerto Rico
-Puerto Rico,2020,983,PRI,PRI,Puerto Rico
-Puerto Rico,2021,1076,PRI,PRI,Puerto Rico
-Puerto Rico,2022,1154,PRI,PRI,Puerto Rico
-República Dominicana,1990,20,DOM,DOM,Rep. Dominicana
-República Dominicana,1991,19,DOM,DOM,Rep. Dominicana
-República Dominicana,1992,12,DOM,DOM,Rep. Dominicana
-República Dominicana,1993,18,DOM,DOM,Rep. Dominicana
-República Dominicana,1994,16,DOM,DOM,Rep. Dominicana
-República Dominicana,1995,11,DOM,DOM,Rep. Dominicana
-República Dominicana,1996,35,DOM,DOM,Rep. Dominicana
-República Dominicana,1997,27,DOM,DOM,Rep. Dominicana
-República Dominicana,1998,22,DOM,DOM,Rep. Dominicana
-República Dominicana,1999,32,DOM,DOM,Rep. Dominicana
-República Dominicana,2000,35,DOM,DOM,Rep. Dominicana
-República Dominicana,2001,23,DOM,DOM,Rep. Dominicana
-República Dominicana,2002,21,DOM,DOM,Rep. Dominicana
-República Dominicana,2003,30,DOM,DOM,Rep. Dominicana
-República Dominicana,2004,38,DOM,DOM,Rep. Dominicana
-República Dominicana,2005,43,DOM,DOM,Rep. Dominicana
-República Dominicana,2006,46,DOM,DOM,Rep. Dominicana
-República Dominicana,2007,59,DOM,DOM,Rep. Dominicana
-República Dominicana,2008,69,DOM,DOM,Rep. Dominicana
-República Dominicana,2009,57,DOM,DOM,Rep. Dominicana
-República Dominicana,2010,59,DOM,DOM,Rep. Dominicana
-República Dominicana,2011,81,DOM,DOM,Rep. Dominicana
-República Dominicana,2012,87,DOM,DOM,Rep. Dominicana
-República Dominicana,2013,126,DOM,DOM,Rep. Dominicana
-República Dominicana,2014,117,DOM,DOM,Rep. Dominicana
-República Dominicana,2015,142,DOM,DOM,Rep. Dominicana
-República Dominicana,2016,147,DOM,DOM,Rep. Dominicana
-República Dominicana,2017,178,DOM,DOM,Rep. Dominicana
-República Dominicana,2018,213,DOM,DOM,Rep. Dominicana
-República Dominicana,2019,280,DOM,DOM,Rep. Dominicana
-República Dominicana,2020,341,DOM,DOM,Rep. Dominicana
-República Dominicana,2021,380,DOM,DOM,Rep. Dominicana
-República Dominicana,2022,413,DOM,DOM,Rep. Dominicana
-Trinidad y Tobago,1990,58,TTO,TTO,Trinidad y Tobago
-Trinidad y Tobago,1991,61,TTO,TTO,Trinidad y Tobago
-Trinidad y Tobago,1992,82,TTO,TTO,Trinidad y Tobago
-Trinidad y Tobago,1993,75,TTO,TTO,Trinidad y Tobago
-Trinidad y Tobago,1994,90,TTO,TTO,Trinidad y Tobago
-Trinidad y Tobago,1995,107,TTO,TTO,Trinidad y Tobago
-Trinidad y Tobago,1996,100,TTO,TTO,Trinidad y Tobago
-Trinidad y Tobago,1997,99,TTO,TTO,Trinidad y Tobago
-Trinidad y Tobago,1998,131,TTO,TTO,Trinidad y Tobago
-Trinidad y Tobago,1999,103,TTO,TTO,Trinidad y Tobago
-Trinidad y Tobago,2000,115,TTO,TTO,Trinidad y Tobago
-Trinidad y Tobago,2001,158,TTO,TTO,Trinidad y Tobago
-Trinidad y Tobago,2002,188,TTO,TTO,Trinidad y Tobago
-Trinidad y Tobago,2003,193,TTO,TTO,Trinidad y Tobago
-Trinidad y Tobago,2004,226,TTO,TTO,Trinidad y Tobago
-Trinidad y Tobago,2005,278,TTO,TTO,Trinidad y Tobago
-Trinidad y Tobago,2006,270,TTO,TTO,Trinidad y Tobago
-Trinidad y Tobago,2007,305,TTO,TTO,Trinidad y Tobago
-Trinidad y Tobago,2008,315,TTO,TTO,Trinidad y Tobago
-Trinidad y Tobago,2009,378,TTO,TTO,Trinidad y Tobago
-Trinidad y Tobago,2010,388,TTO,TTO,Trinidad y Tobago
-Trinidad y Tobago,2011,448,TTO,TTO,Trinidad y Tobago
-Trinidad y Tobago,2012,402,TTO,TTO,Trinidad y Tobago
-Trinidad y Tobago,2013,360,TTO,TTO,Trinidad y Tobago
-Trinidad y Tobago,2014,495,TTO,TTO,Trinidad y Tobago
-Trinidad y Tobago,2015,363,TTO,TTO,Trinidad y Tobago
-Trinidad y Tobago,2016,455,TTO,TTO,Trinidad y Tobago
-Trinidad y Tobago,2017,465,TTO,TTO,Trinidad y Tobago
-Trinidad y Tobago,2018,487,TTO,TTO,Trinidad y Tobago
-Trinidad y Tobago,2019,489,TTO,TTO,Trinidad y Tobago
-Trinidad y Tobago,2020,540,TTO,TTO,Trinidad y Tobago
-Trinidad y Tobago,2021,586,TTO,TTO,Trinidad y Tobago
-Trinidad y Tobago,2022,608,TTO,TTO,Trinidad y Tobago
-Uruguay,1990,83,URY,URY,Uruguay
-Uruguay,1991,84,URY,URY,Uruguay
-Uruguay,1992,117,URY,URY,Uruguay
-Uruguay,1993,138,URY,URY,Uruguay
-Uruguay,1994,132,URY,URY,Uruguay
-Uruguay,1995,151,URY,URY,Uruguay
-Uruguay,1996,267,URY,URY,Uruguay
-Uruguay,1997,328,URY,URY,Uruguay
-Uruguay,1998,336,URY,URY,Uruguay
-Uruguay,1999,336,URY,URY,Uruguay
-Uruguay,2000,372,URY,URY,Uruguay
-Uruguay,2001,361,URY,URY,Uruguay
-Uruguay,2002,423,URY,URY,Uruguay
-Uruguay,2003,478,URY,URY,Uruguay
-Uruguay,2004,529,URY,URY,Uruguay
-Uruguay,2005,608,URY,URY,Uruguay
-Uruguay,2006,634,URY,URY,Uruguay
-Uruguay,2007,671,URY,URY,Uruguay
-Uruguay,2008,796,URY,URY,Uruguay
-Uruguay,2009,888,URY,URY,Uruguay
-Uruguay,2010,927,URY,URY,Uruguay
-Uruguay,2011,1088,URY,URY,Uruguay
-Uruguay,2012,1106,URY,URY,Uruguay
-Uruguay,2013,1175,URY,URY,Uruguay
-Uruguay,2014,1446,URY,URY,Uruguay
-Uruguay,2015,1421,URY,URY,Uruguay
-Uruguay,2016,1627,URY,URY,Uruguay
-Uruguay,2017,1613,URY,URY,Uruguay
-Uruguay,2018,1890,URY,URY,Uruguay
-Uruguay,2019,2053,URY,URY,Uruguay
-Uruguay,2020,2127,URY,URY,Uruguay
-Uruguay,2021,2570,URY,URY,Uruguay
-Uruguay,2022,2375,URY,URY,Uruguay
-Venezuela,1990,428,VEN,VEN,Venezuela
-Venezuela,1991,456,VEN,VEN,Venezuela
-Venezuela,1992,478,VEN,VEN,Venezuela
-Venezuela,1993,577,VEN,VEN,Venezuela
-Venezuela,1994,620,VEN,VEN,Venezuela
-Venezuela,1995,724,VEN,VEN,Venezuela
-Venezuela,1996,1010,VEN,VEN,Venezuela
-Venezuela,1997,1200,VEN,VEN,Venezuela
-Venezuela,1998,1144,VEN,VEN,Venezuela
-Venezuela,1999,1256,VEN,VEN,Venezuela
-Venezuela,2000,1349,VEN,VEN,Venezuela
-Venezuela,2001,1421,VEN,VEN,Venezuela
-Venezuela,2002,1482,VEN,VEN,Venezuela
-Venezuela,2003,1619,VEN,VEN,Venezuela
-Venezuela,2004,1603,VEN,VEN,Venezuela
-Venezuela,2005,1864,VEN,VEN,Venezuela
-Venezuela,2006,1968,VEN,VEN,Venezuela
-Venezuela,2007,2027,VEN,VEN,Venezuela
-Venezuela,2008,2317,VEN,VEN,Venezuela
-Venezuela,2009,2400,VEN,VEN,Venezuela
-Venezuela,2010,2221,VEN,VEN,Venezuela
-Venezuela,2011,1975,VEN,VEN,Venezuela
-Venezuela,2012,2070,VEN,VEN,Venezuela
-Venezuela,2013,2012,VEN,VEN,Venezuela
-Venezuela,2014,2080,VEN,VEN,Venezuela
-Venezuela,2015,1833,VEN,VEN,Venezuela
-Venezuela,2016,1675,VEN,VEN,Venezuela
-Venezuela,2017,1832,VEN,VEN,Venezuela
-Venezuela,2018,1651,VEN,VEN,Venezuela
-Venezuela,2019,1777,VEN,VEN,Venezuela
-Venezuela,2020,1635,VEN,VEN,Venezuela
-Venezuela,2021,1711,VEN,VEN,Venezuela
-Venezuela,2022,1451,VEN,VEN,Venezuela
-América Latina y el Caribe,1990,8998,LCN,LCN,América Latina y el Caribe
-América Latina y el Caribe,1991,9430,LCN,LCN,América Latina y el Caribe
-América Latina y el Caribe,1992,10208,LCN,LCN,América Latina y el Caribe
-América Latina y el Caribe,1993,11480,LCN,LCN,América Latina y el Caribe
-América Latina y el Caribe,1994,12750,LCN,LCN,América Latina y el Caribe
-América Latina y el Caribe,1995,14705,LCN,LCN,América Latina y el Caribe
-América Latina y el Caribe,1996,22802,LCN,LCN,América Latina y el Caribe
-América Latina y el Caribe,1997,26865,LCN,LCN,América Latina y el Caribe
-América Latina y el Caribe,1998,28355,LCN,LCN,América Latina y el Caribe
-América Latina y el Caribe,1999,31051,LCN,LCN,América Latina y el Caribe
-América Latina y el Caribe,2000,33510,LCN,LCN,América Latina y el Caribe
-América Latina y el Caribe,2001,35422,LCN,LCN,América Latina y el Caribe
-América Latina y el Caribe,2002,40018,LCN,LCN,América Latina y el Caribe
-América Latina y el Caribe,2003,43947,LCN,LCN,América Latina y el Caribe
-América Latina y el Caribe,2004,48390,LCN,LCN,América Latina y el Caribe
-América Latina y el Caribe,2005,54538,LCN,LCN,América Latina y el Caribe
-América Latina y el Caribe,2006,66702,LCN,LCN,América Latina y el Caribe
-América Latina y el Caribe,2007,70864,LCN,LCN,América Latina y el Caribe
-América Latina y el Caribe,2008,80644,LCN,LCN,América Latina y el Caribe
-América Latina y el Caribe,2009,88894,LCN,LCN,América Latina y el Caribe
-América Latina y el Caribe,2010,94881,LCN,LCN,América Latina y el Caribe
-América Latina y el Caribe,2011,102706,LCN,LCN,América Latina y el Caribe
-América Latina y el Caribe,2012,112090,LCN,LCN,América Latina y el Caribe
-América Latina y el Caribe,2013,120790,LCN,LCN,América Latina y el Caribe
-América Latina y el Caribe,2014,129545,LCN,LCN,América Latina y el Caribe
-América Latina y el Caribe,2015,134872,LCN,LCN,América Latina y el Caribe
-América Latina y el Caribe,2016,145102,LCN,LCN,América Latina y el Caribe
-América Latina y el Caribe,2017,154864,LCN,LCN,América Latina y el Caribe
-América Latina y el Caribe,2018,166411,LCN,LCN,América Latina y el Caribe
-América Latina y el Caribe,2019,179149,LCN,LCN,América Latina y el Caribe
-América Latina y el Caribe,2020,196499,LCN,LCN,América Latina y el Caribe
-América Latina y el Caribe,2021,207309,LCN,LCN,América Latina y el Caribe
-América Latina y el Caribe,2022,198380,LCN,LCN,América Latina y el Caribe
-Iberoamérica,1990,21397,RICYT_IBE,,
-Iberoamérica,1991,22221,RICYT_IBE,,
-Iberoamérica,1992,24659,RICYT_IBE,,
-Iberoamérica,1993,27747,RICYT_IBE,,
-Iberoamérica,1994,30760,RICYT_IBE,,
-Iberoamérica,1995,34026,RICYT_IBE,,
-Iberoamérica,1996,48211,RICYT_IBE,,
-Iberoamérica,1997,55350,RICYT_IBE,,
-Iberoamérica,1998,57709,RICYT_IBE,,
-Iberoamérica,1999,62231,RICYT_IBE,,
-Iberoamérica,2000,66260,RICYT_IBE,,
-Iberoamérica,2001,70351,RICYT_IBE,,
-Iberoamérica,2002,77760,RICYT_IBE,,
-Iberoamérica,2003,85719,RICYT_IBE,,
-Iberoamérica,2004,94349,RICYT_IBE,,
-Iberoamérica,2005,107366,RICYT_IBE,,
-Iberoamérica,2006,125566,RICYT_IBE,,
-Iberoamérica,2007,134066,RICYT_IBE,,
-Iberoamérica,2008,148562,RICYT_IBE,,
-Iberoamérica,2009,163772,RICYT_IBE,,
-Iberoamérica,2010,175154,RICYT_IBE,,
-Iberoamérica,2011,190417,RICYT_IBE,,
-Iberoamérica,2012,206524,RICYT_IBE,,
-Iberoamérica,2013,221503,RICYT_IBE,,
-Iberoamérica,2014,232208,RICYT_IBE,,
-Iberoamérica,2015,238855,RICYT_IBE,,
-Iberoamérica,2016,250795,RICYT_IBE,,
-Iberoamérica,2017,263229,RICYT_IBE,,
-Iberoamérica,2018,277771,RICYT_IBE,,
-Iberoamérica,2019,298579,RICYT_IBE,,
-Iberoamérica,2020,326474,RICYT_IBE,,
-Iberoamérica,2021,347428,RICYT_IBE,,
-Iberoamérica,2022,336855,RICYT_IBE,,
+"pais","anio","valor","iso3"
+"Argentina","1990","1634","ARG"
+"Argentina","1991","1607","ARG"
+"Argentina","1992","1586","ARG"
+"Argentina","1993","1761","ARG"
+"Argentina","1994","2047","ARG"
+"Argentina","1995","2226","ARG"
+"Argentina","1996","4075","ARG"
+"Argentina","1997","4671","ARG"
+"Argentina","1998","4676","ARG"
+"Argentina","1999","5047","ARG"
+"Argentina","2000","5496","ARG"
+"Argentina","2001","5664","ARG"
+"Argentina","2002","6093","ARG"
+"Argentina","2003","6203","ARG"
+"Argentina","2004","6485","ARG"
+"Argentina","2005","6951","ARG"
+"Argentina","2006","7739","ARG"
+"Argentina","2007","8058","ARG"
+"Argentina","2008","8975","ARG"
+"Argentina","2009","10078","ARG"
+"Argentina","2010","10695","ARG"
+"Argentina","2011","11627","ARG"
+"Argentina","2012","12134","ARG"
+"Argentina","2013","12563","ARG"
+"Argentina","2014","13486","ARG"
+"Argentina","2015","13791","ARG"
+"Argentina","2016","14249","ARG"
+"Argentina","2017","14657","ARG"
+"Argentina","2018","15562","ARG"
+"Argentina","2019","15763","ARG"
+"Argentina","2020","17825","ARG"
+"Argentina","2021","18063","ARG"
+"Argentina","2022","17121","ARG"
+"Barbados","1990","24","BRB"
+"Barbados","1991","23","BRB"
+"Barbados","1992","26","BRB"
+"Barbados","1993","38","BRB"
+"Barbados","1994","20","BRB"
+"Barbados","1995","33","BRB"
+"Barbados","1996","44","BRB"
+"Barbados","1997","40","BRB"
+"Barbados","1998","44","BRB"
+"Barbados","1999","41","BRB"
+"Barbados","2000","39","BRB"
+"Barbados","2001","67","BRB"
+"Barbados","2002","60","BRB"
+"Barbados","2003","72","BRB"
+"Barbados","2004","102","BRB"
+"Barbados","2005","95","BRB"
+"Barbados","2006","90","BRB"
+"Barbados","2007","89","BRB"
+"Barbados","2008","96","BRB"
+"Barbados","2009","97","BRB"
+"Barbados","2010","101","BRB"
+"Barbados","2011","129","BRB"
+"Barbados","2012","150","BRB"
+"Barbados","2013","147","BRB"
+"Barbados","2014","141","BRB"
+"Barbados","2015","151","BRB"
+"Barbados","2016","152","BRB"
+"Barbados","2017","138","BRB"
+"Barbados","2018","143","BRB"
+"Barbados","2019","157","BRB"
+"Barbados","2020","172","BRB"
+"Barbados","2021","210","BRB"
+"Barbados","2022","250","BRB"
+"Bolivia","1990","16","BOL"
+"Bolivia","1991","18","BOL"
+"Bolivia","1992","13","BOL"
+"Bolivia","1993","24","BOL"
+"Bolivia","1994","30","BOL"
+"Bolivia","1995","34","BOL"
+"Bolivia","1996","65","BOL"
+"Bolivia","1997","94","BOL"
+"Bolivia","1998","100","BOL"
+"Bolivia","1999","119","BOL"
+"Bolivia","2000","71","BOL"
+"Bolivia","2001","87","BOL"
+"Bolivia","2002","94","BOL"
+"Bolivia","2003","125","BOL"
+"Bolivia","2004","137","BOL"
+"Bolivia","2005","151","BOL"
+"Bolivia","2006","195","BOL"
+"Bolivia","2007","232","BOL"
+"Bolivia","2008","429","BOL"
+"Bolivia","2009","253","BOL"
+"Bolivia","2010","246","BOL"
+"Bolivia","2011","257","BOL"
+"Bolivia","2012","252","BOL"
+"Bolivia","2013","288","BOL"
+"Bolivia","2014","309","BOL"
+"Bolivia","2015","335","BOL"
+"Bolivia","2016","362","BOL"
+"Bolivia","2017","315","BOL"
+"Bolivia","2018","402","BOL"
+"Bolivia","2019","454","BOL"
+"Bolivia","2020","542","BOL"
+"Bolivia","2021","617","BOL"
+"Bolivia","2022","627","BOL"
+"Brasil","1990","2892","BRA"
+"Brasil","1991","3181","BRA"
+"Brasil","1992","3621","BRA"
+"Brasil","1993","3944","BRA"
+"Brasil","1994","4371","BRA"
+"Brasil","1995","5102","BRA"
+"Brasil","1996","8739","BRA"
+"Brasil","1997","10714","BRA"
+"Brasil","1998","11708","BRA"
+"Brasil","1999","12784","BRA"
+"Brasil","2000","14881","BRA"
+"Brasil","2001","15818","BRA"
+"Brasil","2002","18483","BRA"
+"Brasil","2003","20327","BRA"
+"Brasil","2004","23160","BRA"
+"Brasil","2005","26180","BRA"
+"Brasil","2006","33949","BRA"
+"Brasil","2007","36687","BRA"
+"Brasil","2008","42117","BRA"
+"Brasil","2009","46601","BRA"
+"Brasil","2010","50402","BRA"
+"Brasil","2011","54865","BRA"
+"Brasil","2012","60428","BRA"
+"Brasil","2013","64866","BRA"
+"Brasil","2014","68372","BRA"
+"Brasil","2015","71633","BRA"
+"Brasil","2016","76038","BRA"
+"Brasil","2017","80820","BRA"
+"Brasil","2018","86387","BRA"
+"Brasil","2019","91041","BRA"
+"Brasil","2020","97776","BRA"
+"Brasil","2021","103280","BRA"
+"Brasil","2022","95587","BRA"
+"Canadá","1990","28606","CAN"
+"Canadá","1991","28667","CAN"
+"Canadá","1992","29988","CAN"
+"Canadá","1993","32753","CAN"
+"Canadá","1994","34994","CAN"
+"Canadá","1995","35127","CAN"
+"Canadá","1996","42278","CAN"
+"Canadá","1997","42454","CAN"
+"Canadá","1998","41229","CAN"
+"Canadá","1999","41286","CAN"
+"Canadá","2000","43612","CAN"
+"Canadá","2001","43172","CAN"
+"Canadá","2002","47425","CAN"
+"Canadá","2003","54103","CAN"
+"Canadá","2004","60227","CAN"
+"Canadá","2005","69537","CAN"
+"Canadá","2006","73576","CAN"
+"Canadá","2007","77680","CAN"
+"Canadá","2008","80609","CAN"
+"Canadá","2009","86615","CAN"
+"Canadá","2010","89782","CAN"
+"Canadá","2011","92551","CAN"
+"Canadá","2012","99246","CAN"
+"Canadá","2013","100955","CAN"
+"Canadá","2014","104583","CAN"
+"Canadá","2015","105898","CAN"
+"Canadá","2016","108998","CAN"
+"Canadá","2017","114912","CAN"
+"Canadá","2018","118440","CAN"
+"Canadá","2019","121608","CAN"
+"Canadá","2020","124892","CAN"
+"Canadá","2021","133668","CAN"
+"Chile","1990","762","CHL"
+"Chile","1991","774","CHL"
+"Chile","1992","815","CHL"
+"Chile","1993","918","CHL"
+"Chile","1994","968","CHL"
+"Chile","1995","1066","CHL"
+"Chile","1996","1752","CHL"
+"Chile","1997","1977","CHL"
+"Chile","1998","1902","CHL"
+"Chile","1999","2121","CHL"
+"Chile","2000","2258","CHL"
+"Chile","2001","2376","CHL"
+"Chile","2002","2920","CHL"
+"Chile","2003","3254","CHL"
+"Chile","2004","3575","CHL"
+"Chile","2005","4015","CHL"
+"Chile","2006","4977","CHL"
+"Chile","2007","5340","CHL"
+"Chile","2008","6034","CHL"
+"Chile","2009","6696","CHL"
+"Chile","2010","7113","CHL"
+"Chile","2011","7824","CHL"
+"Chile","2012","8907","CHL"
+"Chile","2013","9395","CHL"
+"Chile","2014","11102","CHL"
+"Chile","2015","11940","CHL"
+"Chile","2016","13648","CHL"
+"Chile","2017","13986","CHL"
+"Chile","2018","15442","CHL"
+"Chile","2019","16506","CHL"
+"Chile","2020","18927","CHL"
+"Chile","2021","20618","CHL"
+"Chile","2022","19555","CHL"
+"Colombia","1990","155","COL"
+"Colombia","1991","119","COL"
+"Colombia","1992","145","COL"
+"Colombia","1993","184","COL"
+"Colombia","1994","226","COL"
+"Colombia","1995","257","COL"
+"Colombia","1996","558","COL"
+"Colombia","1997","656","COL"
+"Colombia","1998","618","COL"
+"Colombia","1999","742","COL"
+"Colombia","2000","869","COL"
+"Colombia","2001","845","COL"
+"Colombia","2002","1000","COL"
+"Colombia","2003","1137","COL"
+"Colombia","2004","1311","COL"
+"Colombia","2005","1512","COL"
+"Colombia","2006","2124","COL"
+"Colombia","2007","2541","COL"
+"Colombia","2008","3630","COL"
+"Colombia","2009","4219","COL"
+"Colombia","2010","4910","COL"
+"Colombia","2011","5635","COL"
+"Colombia","2012","6645","COL"
+"Colombia","2013","7637","COL"
+"Colombia","2014","8490","COL"
+"Colombia","2015","9403","COL"
+"Colombia","2016","10932","COL"
+"Colombia","2017","12192","COL"
+"Colombia","2018","13579","COL"
+"Colombia","2019","15469","COL"
+"Colombia","2020","17108","COL"
+"Colombia","2021","18156","COL"
+"Colombia","2022","17673","COL"
+"Costa Rica","1990","56","CRI"
+"Costa Rica","1991","70","CRI"
+"Costa Rica","1992","70","CRI"
+"Costa Rica","1993","86","CRI"
+"Costa Rica","1994","91","CRI"
+"Costa Rica","1995","95","CRI"
+"Costa Rica","1996","256","CRI"
+"Costa Rica","1997","277","CRI"
+"Costa Rica","1998","254","CRI"
+"Costa Rica","1999","230","CRI"
+"Costa Rica","2000","228","CRI"
+"Costa Rica","2001","283","CRI"
+"Costa Rica","2002","301","CRI"
+"Costa Rica","2003","308","CRI"
+"Costa Rica","2004","412","CRI"
+"Costa Rica","2005","445","CRI"
+"Costa Rica","2006","459","CRI"
+"Costa Rica","2007","515","CRI"
+"Costa Rica","2008","524","CRI"
+"Costa Rica","2009","563","CRI"
+"Costa Rica","2010","597","CRI"
+"Costa Rica","2011","640","CRI"
+"Costa Rica","2012","696","CRI"
+"Costa Rica","2013","732","CRI"
+"Costa Rica","2014","891","CRI"
+"Costa Rica","2015","906","CRI"
+"Costa Rica","2016","1035","CRI"
+"Costa Rica","2017","1160","CRI"
+"Costa Rica","2018","1239","CRI"
+"Costa Rica","2019","1448","CRI"
+"Costa Rica","2020","1632","CRI"
+"Costa Rica","2021","1783","CRI"
+"Costa Rica","2022","1754","CRI"
+"Cuba","1990","256","CUB"
+"Cuba","1991","125","CUB"
+"Cuba","1992","150","CUB"
+"Cuba","1993","141","CUB"
+"Cuba","1994","171","CUB"
+"Cuba","1995","223","CUB"
+"Cuba","1996","740","CUB"
+"Cuba","1997","893","CUB"
+"Cuba","1998","1105","CUB"
+"Cuba","1999","1286","CUB"
+"Cuba","2000","1283","CUB"
+"Cuba","2001","1364","CUB"
+"Cuba","2002","1378","CUB"
+"Cuba","2003","1159","CUB"
+"Cuba","2004","1201","CUB"
+"Cuba","2005","1473","CUB"
+"Cuba","2006","1862","CUB"
+"Cuba","2007","1881","CUB"
+"Cuba","2008","1887","CUB"
+"Cuba","2009","2164","CUB"
+"Cuba","2010","2019","CUB"
+"Cuba","2011","2303","CUB"
+"Cuba","2012","2406","CUB"
+"Cuba","2013","2464","CUB"
+"Cuba","2014","2361","CUB"
+"Cuba","2015","2232","CUB"
+"Cuba","2016","2085","CUB"
+"Cuba","2017","2047","CUB"
+"Cuba","2018","2149","CUB"
+"Cuba","2019","2391","CUB"
+"Cuba","2020","2697","CUB"
+"Cuba","2021","2946","CUB"
+"Cuba","2022","2600","CUB"
+"Ecuador","1990","32","ECU"
+"Ecuador","1991","50","ECU"
+"Ecuador","1992","54","ECU"
+"Ecuador","1993","54","ECU"
+"Ecuador","1994","82","ECU"
+"Ecuador","1995","106","ECU"
+"Ecuador","1996","99","ECU"
+"Ecuador","1997","163","ECU"
+"Ecuador","1998","152","ECU"
+"Ecuador","1999","136","ECU"
+"Ecuador","2000","143","ECU"
+"Ecuador","2001","133","ECU"
+"Ecuador","2002","174","ECU"
+"Ecuador","2003","213","ECU"
+"Ecuador","2004","217","ECU"
+"Ecuador","2005","292","ECU"
+"Ecuador","2006","317","ECU"
+"Ecuador","2007","348","ECU"
+"Ecuador","2008","416","ECU"
+"Ecuador","2009","500","ECU"
+"Ecuador","2010","457","ECU"
+"Ecuador","2011","484","ECU"
+"Ecuador","2012","648","ECU"
+"Ecuador","2013","776","ECU"
+"Ecuador","2014","1057","ECU"
+"Ecuador","2015","1699","ECU"
+"Ecuador","2016","2543","ECU"
+"Ecuador","2017","3730","ECU"
+"Ecuador","2018","4727","ECU"
+"Ecuador","2019","5406","ECU"
+"Ecuador","2020","6125","ECU"
+"Ecuador","2021","6279","ECU"
+"Ecuador","2022","6905","ECU"
+"El Salvador","1990","4","SLV"
+"El Salvador","1991","6","SLV"
+"El Salvador","1992","3","SLV"
+"El Salvador","1993","8","SLV"
+"El Salvador","1994","6","SLV"
+"El Salvador","1995","7","SLV"
+"El Salvador","1996","18","SLV"
+"El Salvador","1997","24","SLV"
+"El Salvador","1998","11","SLV"
+"El Salvador","1999","12","SLV"
+"El Salvador","2000","17","SLV"
+"El Salvador","2001","25","SLV"
+"El Salvador","2002","29","SLV"
+"El Salvador","2003","23","SLV"
+"El Salvador","2004","61","SLV"
+"El Salvador","2005","45","SLV"
+"El Salvador","2006","50","SLV"
+"El Salvador","2007","40","SLV"
+"El Salvador","2008","44","SLV"
+"El Salvador","2009","75","SLV"
+"El Salvador","2010","110","SLV"
+"El Salvador","2011","108","SLV"
+"El Salvador","2012","109","SLV"
+"El Salvador","2013","88","SLV"
+"El Salvador","2014","119","SLV"
+"El Salvador","2015","157","SLV"
+"El Salvador","2016","171","SLV"
+"El Salvador","2017","135","SLV"
+"El Salvador","2018","142","SLV"
+"El Salvador","2019","127","SLV"
+"El Salvador","2020","123","SLV"
+"El Salvador","2021","190","SLV"
+"El Salvador","2022","236","SLV"
+"España","1990","11743","ESP"
+"España","1991","12029","ESP"
+"España","1992","13760","ESP"
+"España","1993","15350","ESP"
+"España","1994","16896","ESP"
+"España","1995","18188","ESP"
+"España","1996","23908","ESP"
+"España","1997","26670","ESP"
+"España","1998","27447","ESP"
+"España","1999","28918","ESP"
+"España","2000","30277","ESP"
+"España","2001","32152","ESP"
+"España","2002","34822","ESP"
+"España","2003","38477","ESP"
+"España","2004","42357","ESP"
+"España","2005","48675","ESP"
+"España","2006","53641","ESP"
+"España","2007","57760","ESP"
+"España","2008","61706","ESP"
+"España","2009","68051","ESP"
+"España","2010","72617","ESP"
+"España","2011","78853","ESP"
+"España","2012","84806","ESP"
+"España","2013","88315","ESP"
+"España","2014","90915","ESP"
+"España","2015","91744","ESP"
+"España","2016","94517","ESP"
+"España","2017","97092","ESP"
+"España","2018","100325","ESP"
+"España","2019","106449","ESP"
+"España","2020","116831","ESP"
+"España","2021","125442","ESP"
+"España","2022","122784","ESP"
+"Estados Unidos","1990","257720","USA"
+"Estados Unidos","1991","259578","USA"
+"Estados Unidos","1992","259350","USA"
+"Estados Unidos","1993","282444","USA"
+"Estados Unidos","1994","295586","USA"
+"Estados Unidos","1995","306621","USA"
+"Estados Unidos","1996","346757","USA"
+"Estados Unidos","1997","347092","USA"
+"Estados Unidos","1998","343064","USA"
+"Estados Unidos","1999","342396","USA"
+"Estados Unidos","2000","357233","USA"
+"Estados Unidos","2001","358300","USA"
+"Estados Unidos","2002","381199","USA"
+"Estados Unidos","2003","415837","USA"
+"Estados Unidos","2004","449179","USA"
+"Estados Unidos","2005","497929","USA"
+"Estados Unidos","2006","516505","USA"
+"Estados Unidos","2007","522265","USA"
+"Estados Unidos","2008","547663","USA"
+"Estados Unidos","2009","583439","USA"
+"Estados Unidos","2010","601456","USA"
+"Estados Unidos","2011","623400","USA"
+"Estados Unidos","2012","673016","USA"
+"Estados Unidos","2013","689643","USA"
+"Estados Unidos","2014","681689","USA"
+"Estados Unidos","2015","702622","USA"
+"Estados Unidos","2016","710173","USA"
+"Estados Unidos","2017","727147","USA"
+"Estados Unidos","2018","738283","USA"
+"Estados Unidos","2019","730473","USA"
+"Estados Unidos","2020","730260","USA"
+"Estados Unidos","2021","757937","USA"
+"Estados Unidos","2022","724916","USA"
+"Guatemala","1990","26","GTM"
+"Guatemala","1991","24","GTM"
+"Guatemala","1992","38","GTM"
+"Guatemala","1993","47","GTM"
+"Guatemala","1994","36","GTM"
+"Guatemala","1995","36","GTM"
+"Guatemala","1996","61","GTM"
+"Guatemala","1997","59","GTM"
+"Guatemala","1998","62","GTM"
+"Guatemala","1999","63","GTM"
+"Guatemala","2000","52","GTM"
+"Guatemala","2001","45","GTM"
+"Guatemala","2002","54","GTM"
+"Guatemala","2003","68","GTM"
+"Guatemala","2004","79","GTM"
+"Guatemala","2005","121","GTM"
+"Guatemala","2006","91","GTM"
+"Guatemala","2007","99","GTM"
+"Guatemala","2008","115","GTM"
+"Guatemala","2009","153","GTM"
+"Guatemala","2010","147","GTM"
+"Guatemala","2011","145","GTM"
+"Guatemala","2012","218","GTM"
+"Guatemala","2013","228","GTM"
+"Guatemala","2014","221","GTM"
+"Guatemala","2015","286","GTM"
+"Guatemala","2016","287","GTM"
+"Guatemala","2017","338","GTM"
+"Guatemala","2018","314","GTM"
+"Guatemala","2019","335","GTM"
+"Guatemala","2020","437","GTM"
+"Guatemala","2021","483","GTM"
+"Guatemala","2022","521","GTM"
+"Guyana","1990","6","GUY"
+"Guyana","1991","10","GUY"
+"Guyana","1992","9","GUY"
+"Guyana","1993","13","GUY"
+"Guyana","1994","8","GUY"
+"Guyana","1995","16","GUY"
+"Guyana","1996","9","GUY"
+"Guyana","1997","21","GUY"
+"Guyana","1998","12","GUY"
+"Guyana","1999","22","GUY"
+"Guyana","2000","22","GUY"
+"Guyana","2001","20","GUY"
+"Guyana","2002","21","GUY"
+"Guyana","2003","16","GUY"
+"Guyana","2004","26","GUY"
+"Guyana","2005","36","GUY"
+"Guyana","2006","31","GUY"
+"Guyana","2007","31","GUY"
+"Guyana","2008","23","GUY"
+"Guyana","2009","46","GUY"
+"Guyana","2010","42","GUY"
+"Guyana","2011","25","GUY"
+"Guyana","2012","36","GUY"
+"Guyana","2013","35","GUY"
+"Guyana","2014","32","GUY"
+"Guyana","2015","39","GUY"
+"Guyana","2016","46","GUY"
+"Guyana","2017","46","GUY"
+"Guyana","2018","67","GUY"
+"Guyana","2019","102","GUY"
+"Guyana","2020","121","GUY"
+"Guyana","2021","119","GUY"
+"Guyana","2022","131","GUY"
+"Haiti","1990","4","HTI"
+"Haiti","1991","6","HTI"
+"Haiti","1992","7","HTI"
+"Haiti","1993","9","HTI"
+"Haiti","1994","4","HTI"
+"Haiti","1995","1","HTI"
+"Haiti","1996","6","HTI"
+"Haiti","1997","8","HTI"
+"Haiti","1998","14","HTI"
+"Haiti","1999","6","HTI"
+"Haiti","2000","13","HTI"
+"Haiti","2001","11","HTI"
+"Haiti","2002","15","HTI"
+"Haiti","2003","18","HTI"
+"Haiti","2004","21","HTI"
+"Haiti","2005","30","HTI"
+"Haiti","2006","38","HTI"
+"Haiti","2007","29","HTI"
+"Haiti","2008","34","HTI"
+"Haiti","2009","42","HTI"
+"Haiti","2010","58","HTI"
+"Haiti","2011","69","HTI"
+"Haiti","2012","61","HTI"
+"Haiti","2013","35","HTI"
+"Haiti","2014","32","HTI"
+"Haiti","2015","39","HTI"
+"Haiti","2016","46","HTI"
+"Haiti","2017","46","HTI"
+"Haiti","2018","67","HTI"
+"Haiti","2019","102","HTI"
+"Haiti","2020","121","HTI"
+"Haiti","2021","119","HTI"
+"Haiti","2022","131","HTI"
+"Honduras","1990","6","HND"
+"Honduras","1991","18","HND"
+"Honduras","1992","10","HND"
+"Honduras","1993","12","HND"
+"Honduras","1994","9","HND"
+"Honduras","1995","10","HND"
+"Honduras","1996","25","HND"
+"Honduras","1997","29","HND"
+"Honduras","1998","31","HND"
+"Honduras","1999","39","HND"
+"Honduras","2000","29","HND"
+"Honduras","2001","19","HND"
+"Honduras","2002","35","HND"
+"Honduras","2003","31","HND"
+"Honduras","2004","40","HND"
+"Honduras","2005","43","HND"
+"Honduras","2006","43","HND"
+"Honduras","2007","38","HND"
+"Honduras","2008","41","HND"
+"Honduras","2009","66","HND"
+"Honduras","2010","73","HND"
+"Honduras","2011","75","HND"
+"Honduras","2012","86","HND"
+"Honduras","2013","90","HND"
+"Honduras","2014","85","HND"
+"Honduras","2015","109","HND"
+"Honduras","2016","106","HND"
+"Honduras","2017","150","HND"
+"Honduras","2018","189","HND"
+"Honduras","2019","234","HND"
+"Honduras","2020","407","HND"
+"Honduras","2021","368","HND"
+"Honduras","2022","419","HND"
+"Jamaica","1990","131","JAM"
+"Jamaica","1991","146","JAM"
+"Jamaica","1992","124","JAM"
+"Jamaica","1993","139","JAM"
+"Jamaica","1994","159","JAM"
+"Jamaica","1995","182","JAM"
+"Jamaica","1996","174","JAM"
+"Jamaica","1997","143","JAM"
+"Jamaica","1998","149","JAM"
+"Jamaica","1999","148","JAM"
+"Jamaica","2000","129","JAM"
+"Jamaica","2001","186","JAM"
+"Jamaica","2002","204","JAM"
+"Jamaica","2003","217","JAM"
+"Jamaica","2004","245","JAM"
+"Jamaica","2005","228","JAM"
+"Jamaica","2006","239","JAM"
+"Jamaica","2007","266","JAM"
+"Jamaica","2008","328","JAM"
+"Jamaica","2009","328","JAM"
+"Jamaica","2010","283","JAM"
+"Jamaica","2011","378","JAM"
+"Jamaica","2012","401","JAM"
+"Jamaica","2013","422","JAM"
+"Jamaica","2014","471","JAM"
+"Jamaica","2015","413","JAM"
+"Jamaica","2016","409","JAM"
+"Jamaica","2017","447","JAM"
+"Jamaica","2018","442","JAM"
+"Jamaica","2019","390","JAM"
+"Jamaica","2020","467","JAM"
+"Jamaica","2021","484","JAM"
+"Jamaica","2022","489","JAM"
+"México","1990","1509","MEX"
+"México","1991","1674","MEX"
+"México","1992","1714","MEX"
+"México","1993","2106","MEX"
+"México","1994","2418","MEX"
+"México","1995","2991","MEX"
+"México","1996","4590","MEX"
+"México","1997","5243","MEX"
+"México","1998","5668","MEX"
+"México","1999","6222","MEX"
+"México","2000","6513","MEX"
+"México","2001","6945","MEX"
+"México","2002","7582","MEX"
+"México","2003","8877","MEX"
+"México","2004","9582","MEX"
+"México","2005","11032","MEX"
+"México","2006","12356","MEX"
+"México","2007","12749","MEX"
+"México","2008","14162","MEX"
+"México","2009","15092","MEX"
+"México","2010","16006","MEX"
+"México","2011","17116","MEX"
+"México","2012","18352","MEX"
+"México","2013","19965","MEX"
+"México","2014","21440","MEX"
+"México","2015","21976","MEX"
+"México","2016","23608","MEX"
+"México","2017","25214","MEX"
+"México","2018","26951","MEX"
+"México","2019","29681","MEX"
+"México","2020","31739","MEX"
+"México","2021","33875","MEX"
+"México","2022","33420","MEX"
+"Nicaragua","1990","10","NIC"
+"Nicaragua","1991","23","NIC"
+"Nicaragua","1992","9","NIC"
+"Nicaragua","1993","19","NIC"
+"Nicaragua","1994","19","NIC"
+"Nicaragua","1995","14","NIC"
+"Nicaragua","1996","35","NIC"
+"Nicaragua","1997","39","NIC"
+"Nicaragua","1998","28","NIC"
+"Nicaragua","1999","28","NIC"
+"Nicaragua","2000","29","NIC"
+"Nicaragua","2001","23","NIC"
+"Nicaragua","2002","19","NIC"
+"Nicaragua","2003","39","NIC"
+"Nicaragua","2004","45","NIC"
+"Nicaragua","2005","53","NIC"
+"Nicaragua","2006","91","NIC"
+"Nicaragua","2007","70","NIC"
+"Nicaragua","2008","88","NIC"
+"Nicaragua","2009","98","NIC"
+"Nicaragua","2010","94","NIC"
+"Nicaragua","2011","108","NIC"
+"Nicaragua","2012","118","NIC"
+"Nicaragua","2013","99","NIC"
+"Nicaragua","2014","103","NIC"
+"Nicaragua","2015","121","NIC"
+"Nicaragua","2016","140","NIC"
+"Nicaragua","2017","173","NIC"
+"Nicaragua","2018","143","NIC"
+"Nicaragua","2019","147","NIC"
+"Nicaragua","2020","156","NIC"
+"Nicaragua","2021","144","NIC"
+"Nicaragua","2022","185","NIC"
+"Paraguay","1990","6","PRY"
+"Paraguay","1991","11","PRY"
+"Paraguay","1992","10","PRY"
+"Paraguay","1993","12","PRY"
+"Paraguay","1994","11","PRY"
+"Paraguay","1995","16","PRY"
+"Paraguay","1996","29","PRY"
+"Paraguay","1997","30","PRY"
+"Paraguay","1998","40","PRY"
+"Paraguay","1999","21","PRY"
+"Paraguay","2000","26","PRY"
+"Paraguay","2001","30","PRY"
+"Paraguay","2002","28","PRY"
+"Paraguay","2003","41","PRY"
+"Paraguay","2004","54","PRY"
+"Paraguay","2005","56","PRY"
+"Paraguay","2006","62","PRY"
+"Paraguay","2007","62","PRY"
+"Paraguay","2008","73","PRY"
+"Paraguay","2009","89","PRY"
+"Paraguay","2010","99","PRY"
+"Paraguay","2011","122","PRY"
+"Paraguay","2012","145","PRY"
+"Paraguay","2013","154","PRY"
+"Paraguay","2014","170","PRY"
+"Paraguay","2015","228","PRY"
+"Paraguay","2016","257","PRY"
+"Paraguay","2017","335","PRY"
+"Paraguay","2018","280","PRY"
+"Paraguay","2019","443","PRY"
+"Paraguay","2020","505","PRY"
+"Paraguay","2021","555","PRY"
+"Paraguay","2022","579","PRY"
+"Perú","1990","124","PER"
+"Perú","1991","111","PER"
+"Perú","1992","110","PER"
+"Perú","1993","102","PER"
+"Perú","1994","102","PER"
+"Perú","1995","106","PER"
+"Perú","1996","176","PER"
+"Perú","1997","227","PER"
+"Perú","1998","199","PER"
+"Perú","1999","238","PER"
+"Perú","2000","271","PER"
+"Perú","2001","281","PER"
+"Perú","2002","286","PER"
+"Perú","2003","440","PER"
+"Perú","2004","466","PER"
+"Perú","2005","555","PER"
+"Perú","2006","825","PER"
+"Perú","2007","760","PER"
+"Perú","2008","799","PER"
+"Perú","2009","971","PER"
+"Perú","2010","1090","PER"
+"Perú","2011","1283","PER"
+"Perú","2012","1376","PER"
+"Perú","2013","1594","PER"
+"Perú","2014","1763","PER"
+"Perú","2015","2154","PER"
+"Perú","2016","2520","PER"
+"Perú","2017","3045","PER"
+"Perú","2018","3606","PER"
+"Perú","2019","4807","PER"
+"Perú","2020","6584","PER"
+"Perú","2021","8100","PER"
+"Perú","2022","9391","PER"
+"Portugal","1990","1046","PRT"
+"Portugal","1991","1206","PRT"
+"Portugal","1992","1223","PRT"
+"Portugal","1993","1527","PRT"
+"Portugal","1994","1795","PRT"
+"Portugal","1995","2005","PRT"
+"Portugal","1996","2747","PRT"
+"Portugal","1997","3273","PRT"
+"Portugal","1998","3522","PRT"
+"Portugal","1999","4014","PRT"
+"Portugal","2000","4401","PRT"
+"Portugal","2001","4920","PRT"
+"Portugal","2002","5389","PRT"
+"Portugal","2003","6437","PRT"
+"Portugal","2004","7271","PRT"
+"Portugal","2005","8409","PRT"
+"Portugal","2006","10267","PRT"
+"Portugal","2007","10848","PRT"
+"Portugal","2008","12721","PRT"
+"Portugal","2009","14064","PRT"
+"Portugal","2010","15791","PRT"
+"Portugal","2011","18311","PRT"
+"Portugal","2012","20375","PRT"
+"Portugal","2013","22992","PRT"
+"Portugal","2014","23573","PRT"
+"Portugal","2015","25049","PRT"
+"Portugal","2016","25804","PRT"
+"Portugal","2017","26640","PRT"
+"Portugal","2018","27991","PRT"
+"Portugal","2019","31045","PRT"
+"Portugal","2020","33524","PRT"
+"Portugal","2021","37039","PRT"
+"Portugal","2022","37498","PRT"
+"Puerto Rico","1990","156","PRI"
+"Puerto Rico","1991","178","PRI"
+"Puerto Rico","1992","158","PRI"
+"Puerto Rico","1993","228","PRI"
+"Puerto Rico","1994","201","PRI"
+"Puerto Rico","1995","245","PRI"
+"Puerto Rico","1996","454","PRI"
+"Puerto Rico","1997","473","PRI"
+"Puerto Rico","1998","484","PRI"
+"Puerto Rico","1999","468","PRI"
+"Puerto Rico","2000","446","PRI"
+"Puerto Rico","2001","436","PRI"
+"Puerto Rico","2002","442","PRI"
+"Puerto Rico","2003","600","PRI"
+"Puerto Rico","2004","600","PRI"
+"Puerto Rico","2005","746","PRI"
+"Puerto Rico","2006","922","PRI"
+"Puerto Rico","2007","884","PRI"
+"Puerto Rico","2008","999","PRI"
+"Puerto Rico","2009","889","PRI"
+"Puerto Rico","2010","955","PRI"
+"Puerto Rico","2011","946","PRI"
+"Puerto Rico","2012","930","PRI"
+"Puerto Rico","2013","867","PRI"
+"Puerto Rico","2014","861","PRI"
+"Puerto Rico","2015","806","PRI"
+"Puerto Rico","2016","884","PRI"
+"Puerto Rico","2017","880","PRI"
+"Puerto Rico","2018","923","PRI"
+"Puerto Rico","2019","842","PRI"
+"Puerto Rico","2020","983","PRI"
+"Puerto Rico","2021","1076","PRI"
+"Puerto Rico","2022","1154","PRI"
+"República Dominicana","1990","20","DOM"
+"República Dominicana","1991","19","DOM"
+"República Dominicana","1992","12","DOM"
+"República Dominicana","1993","18","DOM"
+"República Dominicana","1994","16","DOM"
+"República Dominicana","1995","11","DOM"
+"República Dominicana","1996","35","DOM"
+"República Dominicana","1997","27","DOM"
+"República Dominicana","1998","22","DOM"
+"República Dominicana","1999","32","DOM"
+"República Dominicana","2000","35","DOM"
+"República Dominicana","2001","23","DOM"
+"República Dominicana","2002","21","DOM"
+"República Dominicana","2003","30","DOM"
+"República Dominicana","2004","38","DOM"
+"República Dominicana","2005","43","DOM"
+"República Dominicana","2006","46","DOM"
+"República Dominicana","2007","59","DOM"
+"República Dominicana","2008","69","DOM"
+"República Dominicana","2009","57","DOM"
+"República Dominicana","2010","59","DOM"
+"República Dominicana","2011","81","DOM"
+"República Dominicana","2012","87","DOM"
+"República Dominicana","2013","126","DOM"
+"República Dominicana","2014","117","DOM"
+"República Dominicana","2015","142","DOM"
+"República Dominicana","2016","147","DOM"
+"República Dominicana","2017","178","DOM"
+"República Dominicana","2018","213","DOM"
+"República Dominicana","2019","280","DOM"
+"República Dominicana","2020","341","DOM"
+"República Dominicana","2021","380","DOM"
+"República Dominicana","2022","413","DOM"
+"Trinidad y Tobago","1990","58","TTO"
+"Trinidad y Tobago","1991","61","TTO"
+"Trinidad y Tobago","1992","82","TTO"
+"Trinidad y Tobago","1993","75","TTO"
+"Trinidad y Tobago","1994","90","TTO"
+"Trinidad y Tobago","1995","107","TTO"
+"Trinidad y Tobago","1996","100","TTO"
+"Trinidad y Tobago","1997","99","TTO"
+"Trinidad y Tobago","1998","131","TTO"
+"Trinidad y Tobago","1999","103","TTO"
+"Trinidad y Tobago","2000","115","TTO"
+"Trinidad y Tobago","2001","158","TTO"
+"Trinidad y Tobago","2002","188","TTO"
+"Trinidad y Tobago","2003","193","TTO"
+"Trinidad y Tobago","2004","226","TTO"
+"Trinidad y Tobago","2005","278","TTO"
+"Trinidad y Tobago","2006","270","TTO"
+"Trinidad y Tobago","2007","305","TTO"
+"Trinidad y Tobago","2008","315","TTO"
+"Trinidad y Tobago","2009","378","TTO"
+"Trinidad y Tobago","2010","388","TTO"
+"Trinidad y Tobago","2011","448","TTO"
+"Trinidad y Tobago","2012","402","TTO"
+"Trinidad y Tobago","2013","360","TTO"
+"Trinidad y Tobago","2014","495","TTO"
+"Trinidad y Tobago","2015","363","TTO"
+"Trinidad y Tobago","2016","455","TTO"
+"Trinidad y Tobago","2017","465","TTO"
+"Trinidad y Tobago","2018","487","TTO"
+"Trinidad y Tobago","2019","489","TTO"
+"Trinidad y Tobago","2020","540","TTO"
+"Trinidad y Tobago","2021","586","TTO"
+"Trinidad y Tobago","2022","608","TTO"
+"Uruguay","1990","83","URY"
+"Uruguay","1991","84","URY"
+"Uruguay","1992","117","URY"
+"Uruguay","1993","138","URY"
+"Uruguay","1994","132","URY"
+"Uruguay","1995","151","URY"
+"Uruguay","1996","267","URY"
+"Uruguay","1997","328","URY"
+"Uruguay","1998","336","URY"
+"Uruguay","1999","336","URY"
+"Uruguay","2000","372","URY"
+"Uruguay","2001","361","URY"
+"Uruguay","2002","423","URY"
+"Uruguay","2003","478","URY"
+"Uruguay","2004","529","URY"
+"Uruguay","2005","608","URY"
+"Uruguay","2006","634","URY"
+"Uruguay","2007","671","URY"
+"Uruguay","2008","796","URY"
+"Uruguay","2009","888","URY"
+"Uruguay","2010","927","URY"
+"Uruguay","2011","1088","URY"
+"Uruguay","2012","1106","URY"
+"Uruguay","2013","1175","URY"
+"Uruguay","2014","1446","URY"
+"Uruguay","2015","1421","URY"
+"Uruguay","2016","1627","URY"
+"Uruguay","2017","1613","URY"
+"Uruguay","2018","1890","URY"
+"Uruguay","2019","2053","URY"
+"Uruguay","2020","2127","URY"
+"Uruguay","2021","2570","URY"
+"Uruguay","2022","2375","URY"
+"Venezuela","1990","428","VEN"
+"Venezuela","1991","456","VEN"
+"Venezuela","1992","478","VEN"
+"Venezuela","1993","577","VEN"
+"Venezuela","1994","620","VEN"
+"Venezuela","1995","724","VEN"
+"Venezuela","1996","1010","VEN"
+"Venezuela","1997","1200","VEN"
+"Venezuela","1998","1144","VEN"
+"Venezuela","1999","1256","VEN"
+"Venezuela","2000","1349","VEN"
+"Venezuela","2001","1421","VEN"
+"Venezuela","2002","1482","VEN"
+"Venezuela","2003","1619","VEN"
+"Venezuela","2004","1603","VEN"
+"Venezuela","2005","1864","VEN"
+"Venezuela","2006","1968","VEN"
+"Venezuela","2007","2027","VEN"
+"Venezuela","2008","2317","VEN"
+"Venezuela","2009","2400","VEN"
+"Venezuela","2010","2221","VEN"
+"Venezuela","2011","1975","VEN"
+"Venezuela","2012","2070","VEN"
+"Venezuela","2013","2012","VEN"
+"Venezuela","2014","2080","VEN"
+"Venezuela","2015","1833","VEN"
+"Venezuela","2016","1675","VEN"
+"Venezuela","2017","1832","VEN"
+"Venezuela","2018","1651","VEN"
+"Venezuela","2019","1777","VEN"
+"Venezuela","2020","1635","VEN"
+"Venezuela","2021","1711","VEN"
+"Venezuela","2022","1451","VEN"
+"América Latina y el Caribe","1990","8998","LCN"
+"América Latina y el Caribe","1991","9430","LCN"
+"América Latina y el Caribe","1992","10208","LCN"
+"América Latina y el Caribe","1993","11480","LCN"
+"América Latina y el Caribe","1994","12750","LCN"
+"América Latina y el Caribe","1995","14705","LCN"
+"América Latina y el Caribe","1996","22802","LCN"
+"América Latina y el Caribe","1997","26865","LCN"
+"América Latina y el Caribe","1998","28355","LCN"
+"América Latina y el Caribe","1999","31051","LCN"
+"América Latina y el Caribe","2000","33510","LCN"
+"América Latina y el Caribe","2001","35422","LCN"
+"América Latina y el Caribe","2002","40018","LCN"
+"América Latina y el Caribe","2003","43947","LCN"
+"América Latina y el Caribe","2004","48390","LCN"
+"América Latina y el Caribe","2005","54538","LCN"
+"América Latina y el Caribe","2006","66702","LCN"
+"América Latina y el Caribe","2007","70864","LCN"
+"América Latina y el Caribe","2008","80644","LCN"
+"América Latina y el Caribe","2009","88894","LCN"
+"América Latina y el Caribe","2010","94881","LCN"
+"América Latina y el Caribe","2011","102706","LCN"
+"América Latina y el Caribe","2012","112090","LCN"
+"América Latina y el Caribe","2013","120790","LCN"
+"América Latina y el Caribe","2014","129545","LCN"
+"América Latina y el Caribe","2015","134872","LCN"
+"América Latina y el Caribe","2016","145102","LCN"
+"América Latina y el Caribe","2017","154864","LCN"
+"América Latina y el Caribe","2018","166411","LCN"
+"América Latina y el Caribe","2019","179149","LCN"
+"América Latina y el Caribe","2020","196499","LCN"
+"América Latina y el Caribe","2021","207309","LCN"
+"América Latina y el Caribe","2022","198380","LCN"
+"Iberoamérica","1990","21397","RICYT_IBE"
+"Iberoamérica","1991","22221","RICYT_IBE"
+"Iberoamérica","1992","24659","RICYT_IBE"
+"Iberoamérica","1993","27747","RICYT_IBE"
+"Iberoamérica","1994","30760","RICYT_IBE"
+"Iberoamérica","1995","34026","RICYT_IBE"
+"Iberoamérica","1996","48211","RICYT_IBE"
+"Iberoamérica","1997","55350","RICYT_IBE"
+"Iberoamérica","1998","57709","RICYT_IBE"
+"Iberoamérica","1999","62231","RICYT_IBE"
+"Iberoamérica","2000","66260","RICYT_IBE"
+"Iberoamérica","2001","70351","RICYT_IBE"
+"Iberoamérica","2002","77760","RICYT_IBE"
+"Iberoamérica","2003","85719","RICYT_IBE"
+"Iberoamérica","2004","94349","RICYT_IBE"
+"Iberoamérica","2005","107366","RICYT_IBE"
+"Iberoamérica","2006","125566","RICYT_IBE"
+"Iberoamérica","2007","134066","RICYT_IBE"
+"Iberoamérica","2008","148562","RICYT_IBE"
+"Iberoamérica","2009","163772","RICYT_IBE"
+"Iberoamérica","2010","175154","RICYT_IBE"
+"Iberoamérica","2011","190417","RICYT_IBE"
+"Iberoamérica","2012","206524","RICYT_IBE"
+"Iberoamérica","2013","221503","RICYT_IBE"
+"Iberoamérica","2014","232208","RICYT_IBE"
+"Iberoamérica","2015","238855","RICYT_IBE"
+"Iberoamérica","2016","250795","RICYT_IBE"
+"Iberoamérica","2017","263229","RICYT_IBE"
+"Iberoamérica","2018","277771","RICYT_IBE"
+"Iberoamérica","2019","298579","RICYT_IBE"
+"Iberoamérica","2020","326474","RICYT_IBE"
+"Iberoamérica","2021","347428","RICYT_IBE"
+"Iberoamérica","2022","336855","RICYT_IBE"

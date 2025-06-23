@@ -1,216 +1,216 @@
-iso3,continente_fundar,iso3_desc_fundar,anio,valor_en_porcent,geocodigoFundar,geonombreFundar
-AFG,Asia,Afganistán,2023,0.000291605,AFG,Afganistán
-ALB,Europa,Albania,2023,0.000136122,ALB,Albania
-DZA,África,Argelia,2023,0.004713558,DZA,Argelia
-AND,Europa,Andorra,2023,1.1216e-05,AND,Andorra
-AGO,África,Angola,2023,0.000549872,AGO,Angola
-AIA,"América del Norte, Central y el Caribe",Anguila,2023,3.824e-06,AIA,Anguila
-ATG,"América del Norte, Central y el Caribe",Antigua y Barbuda,2023,1.7063e-05,ATG,Antigua y Barbuda
-ARG,América del Sur,Argentina,2023,0.005181208,ARG,Argentina
-ARM,Asia,Armenia,2023,0.000201323,ARM,Armenia
-ABW,"América del Norte, Central y el Caribe",Aruba,2023,2.2946e-05,ABW,Aruba
-AUS,Oceanía,Australia,2023,0.010133794,AUS,Australia
-AUT,Europa,Austria,2023,0.00155003,AUT,Austria
-AZE,Asia,Azerbaiyán,2023,0.001162613,AZE,Azerbaiyán
-BHS,"América del Norte, Central y el Caribe",Bahamas,2023,6.6294e-05,BHS,Bahamas
-BHR,Asia,Bahrein,2023,0.000966532,BHR,Bahrein
-BGD,Asia,Bangladesh,2023,0.00300138,BGD,Bangladesh
-BRB,"América del Norte, Central y el Caribe",Barbados,2023,3.1534e-05,BRB,Barbados
-BLR,Europa,Belarús,2023,0.001494798,BLR,Belarús
-BEL,Europa,Bélgica,2023,0.002206007,BEL,Bélgica
-BLZ,"América del Norte, Central y el Caribe",Belice,2023,1.7673e-05,BLZ,Belice
-BEN,África,Benin,2023,0.000147978,BEN,Benin
-BMU,"América del Norte, Central y el Caribe",Bermuda,2023,1.3827e-05,BMU,Bermuda
-BTN,Asia,Bhután,2023,4.5329e-05,BTN,Bhután
-BOL,América del Sur,Bolivia,2023,0.000618112,BOL,Bolivia
-BES,"América del Norte, Central y el Caribe","Bonaire, San Eustaquio y Saba",2023,3.04e-06,BES,Bonaire
-BIH,Europa,Bosnia y Herzegovina,2023,0.000533958,BIH,Bosnia y Herzegovina
-BWA,África,Botswana,2023,0.000177647,BWA,Botswana
-BRA,América del Sur,Brasil,2023,0.01287245,BRA,Brasil
-VGB,"América del Norte, Central y el Caribe",Islas Vírgenes Británicas,2023,4.903e-06,VGB,Islas Vírgenes Británicas
-BRN,Asia,Brunei Darussalam,2023,0.000311435,BRN,Brunei
-BGR,Europa,Bulgaria,2023,0.00095507,BGR,Bulgaria
-BFA,África,Burkina Faso,2023,0.000163703,BFA,Burkina Faso
-BDI,África,Burundi,2023,1.8779e-05,BDI,Burundi
-KHM,Asia,Camboya,2023,0.00053394,KHM,Camboya
-CMR,África,Camerún,2023,0.000263059,CMR,Camerún
-CAN,"América del Norte, Central y el Caribe",Canadá,2023,0.014534961,CAN,Canadá
-CPV,África,Cabo Verde,2023,1.4156e-05,CPV,Cabo Verde
-CAF,África,República Centroafricana,2023,7.441e-06,CAF,Rep. Centroafricana
-TCD,África,Chad,2023,8.1483e-05,TCD,Chad
-CHL,América del Sur,Chile,2023,0.002045104,CHL,Chile
-CHN,Asia,China,2023,0.314951271,CHN,China
-CXR,Oceanía,Isla Christmas,2023,0.0,CXR,Isla Christmas
-COL,América del Sur,Colombia,2023,0.002784713,COL,Colombia
-COM,África,Comoras,2023,1.1874e-05,COM,Comoras
-COG,África,Congo,2023,0.00020307,COG,Congo
-COK,Oceanía,Islas Cook,2023,1.927e-06,COK,Islas Cook
-CRI,"América del Norte, Central y el Caribe",Costa Rica,2023,0.000219071,CRI,Costa Rica
-CIV,África,Costa de Marfil,2023,0.000349168,CIV,Costa de Marfil
-HRV,Europa,Croacia,2023,0.000463703,HRV,Croacia
-CUB,"América del Norte, Central y el Caribe",Cuba,2023,0.00061118,CUB,Cuba
-CUW,"América del Norte, Central y el Caribe",Curazao,2023,5.3542e-05,CUW,Curazao
-CYP,Europa,Chipre,2023,0.000189837,CYP,Chipre
-CZE,Europa,Chequia,2023,0.002265695,CZE,Chequia
-COD,África,República Democrática del Congo,2023,0.000122142,COD,Rep. Dem. Congo
-DNK,Europa,Dinamarca,2023,0.000721451,DNK,Dinamarca
-DJI,África,Djibouti,2023,1.3033e-05,DJI,Djibouti
-DMA,"América del Norte, Central y el Caribe",Dominica,2023,4.315e-06,DMA,Dominica
-DOM,"América del Norte, Central y el Caribe",República Dominicana,2023,0.00084727,DOM,Rep. Dominicana
-TLS,Asia,Timor-Leste,2023,1.6727e-05,TLS,Timor-Leste
-ECU,América del Sur,Ecuador,2023,0.001142394,ECU,Ecuador
-EGY,África,Egipto,2023,0.007118154,EGY,Egipto
-SLV,"América del Norte, Central y el Caribe",El Salvador,2023,0.00021778,SLV,El Salvador
-GNQ,África,Guinea Ecuatorial,2023,0.000162506,GNQ,Guinea Ecuatorial
-ERI,África,Eritrea,2023,1.6426e-05,ERI,Eritrea
-EST,Europa,Estonia,2023,0.000265105,EST,Estonia
-SWZ,África,Eswatini,2023,2.9218e-05,SWZ,Eswatini
-ETH,África,Etiopía,2023,0.000402924,ETH,Etiopía
-FRO,Europa,Islas Feroe,2023,2.1106e-05,FRO,Islas Feroe
-FJI,Oceanía,Fiji,2023,3.0328e-05,FJI,Fiji
-FIN,Europa,Finlandia,2023,0.000836747,FIN,Finlandia
-FRA,Europa,Francia,2023,0.007209963,FRA,Francia
-PYF,Oceanía,Polinesia Francesa,2023,2.4242e-05,PYF,Polinesia Francesa
-GAB,África,Gabón,2023,0.000143178,GAB,Gabón
-GMB,África,Gambia,2023,1.8811e-05,GMB,Gambia
-GEO,Asia,Georgia,2023,0.000311417,GEO,Georgia
-DEU,Europa,Alemania,2023,0.015774718,DEU,Alemania
-GHA,África,Ghana,2023,0.000519883,GHA,Ghana
-GRC,Europa,Grecia,2023,0.001460543,GRC,Grecia
-GRL,Europa,Groenlandia,2023,1.5781e-05,GRL,Groenlandia
-GRD,"América del Norte, Central y el Caribe",Granada,2023,8.98e-06,GRD,Granada
-GTM,"América del Norte, Central y el Caribe",Guatemala,2023,0.000539335,GTM,Guatemala
-GIN,África,Guinea,2023,0.000106976,GIN,Guinea
-GNB,África,Guinea-Bissau,2023,7.885e-06,GNB,Guinea-Bissau
-GUY,América del Sur,Guyana,2023,9.3806e-05,GUY,Guyana
-HTI,"América del Norte, Central y el Caribe",Haití,2023,9.3196e-05,HTI,Haití
-HND,"América del Norte, Central y el Caribe",Honduras,2023,0.000292187,HND,Honduras
-HKG,Asia,Hong Kong,2023,0.00089626,HKG,Hong Kong
-HUN,Europa,Hungría,2023,0.001063469,HUN,Hungría
-ISL,Europa,Islandia,2023,9.9558e-05,ISL,Islandia
-IND,Asia,India,2023,0.081031947,IND,India
-IDN,Asia,Indonesia,2023,0.019401786,IDN,Indonesia
-IRN,Asia,Irán,2023,0.021641861,IRN,Irán
-IRQ,Asia,Iraq,2023,0.004669241,IRQ,Iraq
-IRL,Europa,Irlanda,2023,0.000911124,IRL,Irlanda
-ISR,Asia,Israel,2023,0.001574147,ISR,Israel
-ITA,Europa,Italia,2023,0.008294459,ITA,Italia
-JAM,"América del Norte, Central y el Caribe",Jamaica,2023,0.000202392,JAM,Jamaica
-JPN,Asia,Japón,2023,0.02616416,JPN,Japón
-JOR,Asia,Jordania,2023,0.000560678,JOR,Jordania
-KAZ,Asia,Kazajstán,2023,0.006751809,KAZ,Kazajstán
-KEN,África,Kenia,2023,0.000569731,KEN,Kenia
-KIR,Oceanía,Kiribati,2023,1.826e-06,KIR,Kiribati
-XKX,Europa,Kosovo,2023,0.000221656,XKX,Kosovo
-KWT,Asia,Kuwait,2023,0.002625808,KWT,Kuwait
-KGZ,Asia,Kirguistán,2023,0.00026864,KGZ,Kirguistán
-LAO,Asia,Lao,2023,0.000656133,LAO,Laos
-LVA,Europa,Letonia,2023,0.000172337,LVA,Letonia
-LBN,Asia,Líbano,2023,0.000515339,LBN,Líbano
-LSO,África,Lesotho,2023,0.000102901,LSO,Lesotho
-LBR,África,Liberia,2023,2.0401e-05,LBR,Liberia
-LBY,África,Libia,2023,0.00161348,LBY,Libia
-LIE,Europa,Liechtenstein,2023,4.161e-06,LIE,Liechtenstein
-LTU,Europa,Lituania,2023,0.000329748,LTU,Lituania
-LUX,Europa,Luxemburgo,2023,0.000185045,LUX,Luxemburgo
-MAC,Asia,Macao,2023,2.7982e-05,MAC,Macao
-MDG,África,Madagascar,2023,0.000118449,MDG,Madagascar
-MWI,África,Malawi,2023,4.637e-05,MWI,Malawi
-MYS,Asia,Malasia,2023,0.007642543,MYS,Malasia
-MDV,Asia,Maldivas,2023,5.4571e-05,MDV,Maldivas
-MLI,África,Malí,2023,0.00017892,MLI,Malí
-MLT,Europa,Malta,2023,4.8218e-05,MLT,Malta
-MHL,Oceanía,Islas Marshall,2023,4.057e-06,MHL,Islas Marshall
-MRT,África,Mauritania,2023,0.000116761,MRT,Mauritania
-MUS,África,Mauricio,2023,0.00010952,MUS,Mauricio
-MEX,"América del Norte, Central y el Caribe",México,2023,0.012770664,MEX,México
-FSM,Oceanía,Micronesia,2023,3.956e-06,FSM,Micronesia
-MDA,Europa,Moldavia,2023,0.000157766,MDA,Moldavia
-MNG,Asia,Mongolia,2023,0.001240223,MNG,Mongolia
-MNE,Europa,Montenegro,2023,6.1611e-05,MNE,Montenegro
-MSR,"América del Norte, Central y el Caribe",Montserrat,2023,5.88e-07,MSR,Montserrat
-MAR,África,Marruecos,2023,0.001817009,MAR,Marruecos
-MOZ,África,Mozambique,2023,0.000212306,MOZ,Mozambique
-MMR,Asia,Myanmar,2023,0.000799999,MMR,Myanmar
-NAM,África,Namibia,2023,0.000110453,NAM,Namibia
-NRU,Oceanía,Nauru,2023,1.521e-06,NRU,Nauru
-NPL,Asia,Nepal,2023,0.000441294,NPL,Nepal
-NLD,Europa,Países Bajos,2023,0.003140075,NLD,Países Bajos
-NCL,Oceanía,Nueva Caledonia,2023,0.000134094,NCL,Nueva Caledonia
-NZL,Oceanía,Nueva Zelanda,2023,0.000796983,NZL,Nueva Zelanda
-NIC,"América del Norte, Central y el Caribe",Nicaragua,2023,0.000147874,NIC,Nicaragua
-NER,África,Níger,2023,6.8736e-05,NER,Níger
-NGA,África,Nigeria,2023,0.00340128,NGA,Nigeria
-NIU,Oceanía,Niue,2023,2.03e-07,NIU,Niue
-PRK,Asia,Corea del Norte,2023,0.001607878,PRK,Corea del Norte
-MKD,Europa,Macedonia del Norte,2023,0.000197103,MKD,Macedonia del Norte
-NOR,Europa,Noruega,2023,0.001029357,NOR,Noruega
-OMN,Asia,Omán,2023,0.002077482,OMN,Omán
-PAK,Asia,Pakistán,2023,0.005309827,PAK,Pakistán
-PLW,Oceanía,Palau,2023,5.883e-06,PLW,Palau
-PSE,Asia,Palestina,2023,9.2531e-05,PSE,Palestina
-PAN,"América del Norte, Central y el Caribe",Panamá,2023,0.000370938,PAN,Panamá
-PNG,Oceanía,Papua Nueva Guinea,2023,0.000220208,PNG,Papúa Nueva Guinea
-PRY,América del Sur,Paraguay,2023,0.000215373,PRY,Paraguay
-PER,América del Sur,Perú,2023,0.001478204,PER,Perú
-PHL,Asia,Filipinas,2023,0.004090295,PHL,Filipinas
-POL,Europa,Polonia,2023,0.007654658,POL,Polonia
-PRT,Europa,Portugal,2023,0.000985091,PRT,Portugal
-QAT,Asia,Qatar,2023,0.003061842,QAT,Qatar
-ROU,Europa,Rumania,2023,0.00180568,ROU,Rumania
-RUS,Europa,Rusia,2023,0.048051052,RUS,Rusia
-RWA,África,Ruanda,2023,4.0756e-05,RWA,Ruanda
-SHN,"América del Norte, Central y el Caribe",Santa Elena,2023,2.94e-07,SHN,Santa Elena
-KNA,"América del Norte, Central y el Caribe",Saint Kitts y Nevis,2023,6.178e-06,KNA,Saint Kitts y Nevis
-LCA,"América del Norte, Central y el Caribe",Santa Lucía,2023,1.3532e-05,LCA,Santa Lucía
-SPM,"América del Norte, Central y el Caribe",San Pedro y Miquelón,2023,1.471e-06,SPM,San Pedro y Miquelón
-VCT,"América del Norte, Central y el Caribe",San Vicente y las Granadinas,2023,6.276e-06,VCT,San Vicente y las Granadinas
-WSM,Oceanía,Samoa,2023,6.796e-06,WSM,Samoa
-STP,"América del Norte, Central y el Caribe",Santo Tomé y Príncipe,2023,4.397e-06,STP,Santo Tomé y Príncipe
-SAU,Asia,Arabia Saudita,2023,0.019480675,SAU,Arabia Saudita
-SEN,África,Senegal,2023,0.000314902,SEN,Senegal
-SRB,Europa,Serbia,2023,0.001120826,SRB,Serbia
-SYC,África,Seychelles,2023,1.458e-05,SYC,Seychelles
-SLE,África,Sierra Leona,2023,3.2587e-05,SLE,Sierra Leona
-SGP,Asia,Singapur,2023,0.001303274,SGP,Singapur
-SXM,"América del Norte, Central y el Caribe",San Martín (parte Holandesa),2023,1.8338e-05,SXM,San Martín (parte holandesa)
-SVK,Europa,Eslovaquia,2023,0.000813387,SVK,Eslovaquia
-SVN,Europa,Eslovenia,2023,0.00029976,SVN,Eslovenia
-SLB,Oceanía,Islas Salomón,2023,8.013e-06,SLB,Islas Salomón
-SOM,África,Somalia,2023,1.4755e-05,SOM,Somalia
-ZAF,África,Sudáfrica,2023,0.010634464,ZAF,Sudáfrica
-KOR,Asia,Corea del Sur,2023,0.01527898,KOR,Corea del Sur
-SSD,África,Sudán del Sur,2023,4.182e-05,SSD,Sudán del Sur
-ESP,Europa,España,2023,0.005864156,ESP,España
-LKA,Asia,Sri Lanka,2023,0.00053762,LKA,Sri Lanka
-SDN,África,Sudán,2023,0.000529257,SDN,Sudán
-SUR,América del Sur,Suriname,2023,7.0054e-05,SUR,Suriname
-SWE,Europa,Suecia,2023,0.000967313,SWE,Suecia
-CHE,Europa,Suiza,2023,0.000866259,CHE,Suiza
-SYR,Asia,Siria,2023,0.00067484,SYR,Siria
-TWN,Asia,Taiwán,2023,0.00691034,TWN,Taiwán
-TJK,Asia,Tayikistán,2023,0.000239591,TJK,Tayikistán
-TZA,África,Tanzanía,2023,0.000478044,TZA,Tanzanía
-THA,Asia,Tailandia,2023,0.006995969,THA,Tailandia
-TGO,África,Togo,2023,6.9329e-05,TGO,Togo
-TON,Oceanía,Tonga,2023,5.274e-06,TON,Tonga
-TTO,"América del Norte, Central y el Caribe",Trinidad y Tobago,2023,0.000908084,TTO,Trinidad y Tobago
-TUN,África,Túnez,2023,0.00086773,TUN,Túnez
-TUR,Europa,Turquía,2023,0.011433167,TUR,Turquía
-TKM,Asia,Turkmenistán,2023,0.001676634,TKM,Turkmenistán
-TCA,"América del Norte, Central y el Caribe",Islas Turcas y Caicos,2023,9.806e-06,TCA,Islas Turcas y Caicos
-TUV,Oceanía,Tuvalu,2023,3.04e-07,TUV,Tuvalu
-UGA,África,Uganda,2023,0.000148543,UGA,Uganda
-UKR,Europa,Ucrania,2023,0.003610874,UKR,Ucrania
-ARE,Asia,Emiratos Árabes Unidos,2023,0.006069704,ARE,Emiratos Árabes Unidos
-GBR,Europa,Reino Unido,2023,0.008074455,GBR,Reino Unido
-USA,"América del Norte, Central y el Caribe",Estados Unidos,2023,0.129959962,USA,Estados Unidos
-URY,América del Sur,Uruguay,2023,0.00020814,URY,Uruguay
-UZB,Asia,Uzbekistán,2023,0.003301489,UZB,Uzbekistán
-VUT,Oceanía,Vanuatu,2023,5.985e-06,VUT,Vanuatu
-VEN,América del Sur,Venezuela,2023,0.002634685,VEN,Venezuela
-VNM,Asia,Vietnam,2023,0.008857163,VNM,Vietnam
-WLF,Oceanía,Islas Wallis y Futuna,2023,8.11e-07,WLF,Wallis y Futuna
-YEM,África,Yemen,2023,0.000265533,YEM,Yemen
-ZMB,África,Zambia,2023,0.000205044,ZMB,Zambia
-ZWE,África,Zimbabwe,2023,0.000295411,ZWE,Zimbabwe
+"iso3","continente_fundar","iso3_desc_fundar","anio","valor_en_porcent"
+"AFG","Asia","Afganistán","2023","0.000291605"
+"ALB","Europa","Albania","2023","0.000136122"
+"DZA","África","Argelia","2023","0.004713558"
+"AND","Europa","Andorra","2023","0.000011216"
+"AGO","África","Angola","2023","0.000549872"
+"AIA","América del Norte, Central y el Caribe","Anguila","2023","0.000003824"
+"ATG","América del Norte, Central y el Caribe","Antigua y Barbuda","2023","0.000017063"
+"ARG","América del Sur","Argentina","2023","0.005181208"
+"ARM","Asia","Armenia","2023","0.000201323"
+"ABW","América del Norte, Central y el Caribe","Aruba","2023","0.000022946"
+"AUS","Oceanía","Australia","2023","0.010133794"
+"AUT","Europa","Austria","2023","0.00155003"
+"AZE","Asia","Azerbaiyán","2023","0.001162613"
+"BHS","América del Norte, Central y el Caribe","Bahamas","2023","0.000066294"
+"BHR","Asia","Bahrein","2023","0.000966532"
+"BGD","Asia","Bangladesh","2023","0.00300138"
+"BRB","América del Norte, Central y el Caribe","Barbados","2023","0.000031534"
+"BLR","Europa","Belarús","2023","0.001494798"
+"BEL","Europa","Bélgica","2023","0.002206007"
+"BLZ","América del Norte, Central y el Caribe","Belice","2023","0.000017673"
+"BEN","África","Benin","2023","0.000147978"
+"BMU","América del Norte, Central y el Caribe","Bermuda","2023","0.000013827"
+"BTN","Asia","Bhután","2023","0.000045329"
+"BOL","América del Sur","Bolivia","2023","0.000618112"
+"BES","América del Norte, Central y el Caribe","Bonaire, San Eustaquio y Saba","2023","0.00000304"
+"BIH","Europa","Bosnia y Herzegovina","2023","0.000533958"
+"BWA","África","Botswana","2023","0.000177647"
+"BRA","América del Sur","Brasil","2023","0.01287245"
+"VGB","América del Norte, Central y el Caribe","Islas Vírgenes Británicas","2023","0.000004903"
+"BRN","Asia","Brunei Darussalam","2023","0.000311435"
+"BGR","Europa","Bulgaria","2023","0.00095507"
+"BFA","África","Burkina Faso","2023","0.000163703"
+"BDI","África","Burundi","2023","0.000018779"
+"KHM","Asia","Camboya","2023","0.00053394"
+"CMR","África","Camerún","2023","0.000263059"
+"CAN","América del Norte, Central y el Caribe","Canadá","2023","0.014534961"
+"CPV","África","Cabo Verde","2023","0.000014156"
+"CAF","África","República Centroafricana","2023","0.000007441"
+"TCD","África","Chad","2023","0.000081483"
+"CHL","América del Sur","Chile","2023","0.002045104"
+"CHN","Asia","China","2023","0.314951271"
+"CXR","Oceanía","Isla Christmas","2023","0"
+"COL","América del Sur","Colombia","2023","0.002784713"
+"COM","África","Comoras","2023","0.000011874"
+"COG","África","Congo","2023","0.00020307"
+"COK","Oceanía","Islas Cook","2023","0.000001927"
+"CRI","América del Norte, Central y el Caribe","Costa Rica","2023","0.000219071"
+"CIV","África","Costa de Marfil","2023","0.000349168"
+"HRV","Europa","Croacia","2023","0.000463703"
+"CUB","América del Norte, Central y el Caribe","Cuba","2023","0.00061118"
+"CUW","América del Norte, Central y el Caribe","Curazao","2023","0.000053542"
+"CYP","Europa","Chipre","2023","0.000189837"
+"CZE","Europa","Chequia","2023","0.002265695"
+"COD","África","República Democrática del Congo","2023","0.000122142"
+"DNK","Europa","Dinamarca","2023","0.000721451"
+"DJI","África","Djibouti","2023","0.000013033"
+"DMA","América del Norte, Central y el Caribe","Dominica","2023","0.000004315"
+"DOM","América del Norte, Central y el Caribe","República Dominicana","2023","0.00084727"
+"TLS","Asia","Timor-Leste","2023","0.000016727"
+"ECU","América del Sur","Ecuador","2023","0.001142394"
+"EGY","África","Egipto","2023","0.007118154"
+"SLV","América del Norte, Central y el Caribe","El Salvador","2023","0.00021778"
+"GNQ","África","Guinea Ecuatorial","2023","0.000162506"
+"ERI","África","Eritrea","2023","0.000016426"
+"EST","Europa","Estonia","2023","0.000265105"
+"SWZ","África","Eswatini","2023","0.000029218"
+"ETH","África","Etiopía","2023","0.000402924"
+"FRO","Europa","Islas Feroe","2023","0.000021106"
+"FJI","Oceanía","Fiji","2023","0.000030328"
+"FIN","Europa","Finlandia","2023","0.000836747"
+"FRA","Europa","Francia","2023","0.007209963"
+"PYF","Oceanía","Polinesia Francesa","2023","0.000024242"
+"GAB","África","Gabón","2023","0.000143178"
+"GMB","África","Gambia","2023","0.000018811"
+"GEO","Asia","Georgia","2023","0.000311417"
+"DEU","Europa","Alemania","2023","0.015774718"
+"GHA","África","Ghana","2023","0.000519883"
+"GRC","Europa","Grecia","2023","0.001460543"
+"GRL","Europa","Groenlandia","2023","0.000015781"
+"GRD","América del Norte, Central y el Caribe","Granada","2023","0.00000898"
+"GTM","América del Norte, Central y el Caribe","Guatemala","2023","0.000539335"
+"GIN","África","Guinea","2023","0.000106976"
+"GNB","África","Guinea-Bissau","2023","0.000007885"
+"GUY","América del Sur","Guyana","2023","0.000093806"
+"HTI","América del Norte, Central y el Caribe","Haití","2023","0.000093196"
+"HND","América del Norte, Central y el Caribe","Honduras","2023","0.000292187"
+"HKG","Asia","Hong Kong","2023","0.00089626"
+"HUN","Europa","Hungría","2023","0.001063469"
+"ISL","Europa","Islandia","2023","0.000099558"
+"IND","Asia","India","2023","0.081031947"
+"IDN","Asia","Indonesia","2023","0.019401786"
+"IRN","Asia","Irán","2023","0.021641861"
+"IRQ","Asia","Iraq","2023","0.004669241"
+"IRL","Europa","Irlanda","2023","0.000911124"
+"ISR","Asia","Israel","2023","0.001574147"
+"ITA","Europa","Italia","2023","0.008294459"
+"JAM","América del Norte, Central y el Caribe","Jamaica","2023","0.000202392"
+"JPN","Asia","Japón","2023","0.02616416"
+"JOR","Asia","Jordania","2023","0.000560678"
+"KAZ","Asia","Kazajstán","2023","0.006751809"
+"KEN","África","Kenia","2023","0.000569731"
+"KIR","Oceanía","Kiribati","2023","0.000001826"
+"XKX","Europa","Kosovo","2023","0.000221656"
+"KWT","Asia","Kuwait","2023","0.002625808"
+"KGZ","Asia","Kirguistán","2023","0.00026864"
+"LAO","Asia","Lao","2023","0.000656133"
+"LVA","Europa","Letonia","2023","0.000172337"
+"LBN","Asia","Líbano","2023","0.000515339"
+"LSO","África","Lesotho","2023","0.000102901"
+"LBR","África","Liberia","2023","0.000020401"
+"LBY","África","Libia","2023","0.00161348"
+"LIE","Europa","Liechtenstein","2023","0.000004161"
+"LTU","Europa","Lituania","2023","0.000329748"
+"LUX","Europa","Luxemburgo","2023","0.000185045"
+"MAC","Asia","Macao","2023","0.000027982"
+"MDG","África","Madagascar","2023","0.000118449"
+"MWI","África","Malawi","2023","0.00004637"
+"MYS","Asia","Malasia","2023","0.007642543"
+"MDV","Asia","Maldivas","2023","0.000054571"
+"MLI","África","Malí","2023","0.00017892"
+"MLT","Europa","Malta","2023","0.000048218"
+"MHL","Oceanía","Islas Marshall","2023","0.000004057"
+"MRT","África","Mauritania","2023","0.000116761"
+"MUS","África","Mauricio","2023","0.00010952"
+"MEX","América del Norte, Central y el Caribe","México","2023","0.012770664"
+"FSM","Oceanía","Micronesia","2023","0.000003956"
+"MDA","Europa","Moldavia","2023","0.000157766"
+"MNG","Asia","Mongolia","2023","0.001240223"
+"MNE","Europa","Montenegro","2023","0.000061611"
+"MSR","América del Norte, Central y el Caribe","Montserrat","2023","0.000000588"
+"MAR","África","Marruecos","2023","0.001817009"
+"MOZ","África","Mozambique","2023","0.000212306"
+"MMR","Asia","Myanmar","2023","0.000799999"
+"NAM","África","Namibia","2023","0.000110453"
+"NRU","Oceanía","Nauru","2023","0.000001521"
+"NPL","Asia","Nepal","2023","0.000441294"
+"NLD","Europa","Países Bajos","2023","0.003140075"
+"NCL","Oceanía","Nueva Caledonia","2023","0.000134094"
+"NZL","Oceanía","Nueva Zelanda","2023","0.000796983"
+"NIC","América del Norte, Central y el Caribe","Nicaragua","2023","0.000147874"
+"NER","África","Níger","2023","0.000068736"
+"NGA","África","Nigeria","2023","0.00340128"
+"NIU","Oceanía","Niue","2023","0.000000203"
+"PRK","Asia","Corea del Norte","2023","0.001607878"
+"MKD","Europa","Macedonia del Norte","2023","0.000197103"
+"NOR","Europa","Noruega","2023","0.001029357"
+"OMN","Asia","Omán","2023","0.002077482"
+"PAK","Asia","Pakistán","2023","0.005309827"
+"PLW","Oceanía","Palau","2023","0.000005883"
+"PSE","Asia","Palestina","2023","0.000092531"
+"PAN","América del Norte, Central y el Caribe","Panamá","2023","0.000370938"
+"PNG","Oceanía","Papua Nueva Guinea","2023","0.000220208"
+"PRY","América del Sur","Paraguay","2023","0.000215373"
+"PER","América del Sur","Perú","2023","0.001478204"
+"PHL","Asia","Filipinas","2023","0.004090295"
+"POL","Europa","Polonia","2023","0.007654658"
+"PRT","Europa","Portugal","2023","0.000985091"
+"QAT","Asia","Qatar","2023","0.003061842"
+"ROU","Europa","Rumania","2023","0.00180568"
+"RUS","Europa","Rusia","2023","0.048051052"
+"RWA","África","Ruanda","2023","0.000040756"
+"SHN","América del Norte, Central y el Caribe","Santa Elena","2023","0.000000294"
+"KNA","América del Norte, Central y el Caribe","Saint Kitts y Nevis","2023","0.000006178"
+"LCA","América del Norte, Central y el Caribe","Santa Lucía","2023","0.000013532"
+"SPM","América del Norte, Central y el Caribe","San Pedro y Miquelón","2023","0.000001471"
+"VCT","América del Norte, Central y el Caribe","San Vicente y las Granadinas","2023","0.000006276"
+"WSM","Oceanía","Samoa","2023","0.000006796"
+"STP","América del Norte, Central y el Caribe","Santo Tomé y Príncipe","2023","0.000004397"
+"SAU","Asia","Arabia Saudita","2023","0.019480675"
+"SEN","África","Senegal","2023","0.000314902"
+"SRB","Europa","Serbia","2023","0.001120826"
+"SYC","África","Seychelles","2023","0.00001458"
+"SLE","África","Sierra Leona","2023","0.000032587"
+"SGP","Asia","Singapur","2023","0.001303274"
+"SXM","América del Norte, Central y el Caribe","San Martín (parte Holandesa)","2023","0.000018338"
+"SVK","Europa","Eslovaquia","2023","0.000813387"
+"SVN","Europa","Eslovenia","2023","0.00029976"
+"SLB","Oceanía","Islas Salomón","2023","0.000008013"
+"SOM","África","Somalia","2023","0.000014755"
+"ZAF","África","Sudáfrica","2023","0.010634464"
+"KOR","Asia","Corea del Sur","2023","0.01527898"
+"SSD","África","Sudán del Sur","2023","0.00004182"
+"ESP","Europa","España","2023","0.005864156"
+"LKA","Asia","Sri Lanka","2023","0.00053762"
+"SDN","África","Sudán","2023","0.000529257"
+"SUR","América del Sur","Suriname","2023","0.000070054"
+"SWE","Europa","Suecia","2023","0.000967313"
+"CHE","Europa","Suiza","2023","0.000866259"
+"SYR","Asia","Siria","2023","0.00067484"
+"TWN","Asia","Taiwán","2023","0.00691034"
+"TJK","Asia","Tayikistán","2023","0.000239591"
+"TZA","África","Tanzanía","2023","0.000478044"
+"THA","Asia","Tailandia","2023","0.006995969"
+"TGO","África","Togo","2023","0.000069329"
+"TON","Oceanía","Tonga","2023","0.000005274"
+"TTO","América del Norte, Central y el Caribe","Trinidad y Tobago","2023","0.000908084"
+"TUN","África","Túnez","2023","0.00086773"
+"TUR","Europa","Turquía","2023","0.011433167"
+"TKM","Asia","Turkmenistán","2023","0.001676634"
+"TCA","América del Norte, Central y el Caribe","Islas Turcas y Caicos","2023","0.000009806"
+"TUV","Oceanía","Tuvalu","2023","0.000000304"
+"UGA","África","Uganda","2023","0.000148543"
+"UKR","Europa","Ucrania","2023","0.003610874"
+"ARE","Asia","Emiratos Árabes Unidos","2023","0.006069704"
+"GBR","Europa","Reino Unido","2023","0.008074455"
+"USA","América del Norte, Central y el Caribe","Estados Unidos","2023","0.129959962"
+"URY","América del Sur","Uruguay","2023","0.00020814"
+"UZB","Asia","Uzbekistán","2023","0.003301489"
+"VUT","Oceanía","Vanuatu","2023","0.000005985"
+"VEN","América del Sur","Venezuela","2023","0.002634685"
+"VNM","Asia","Vietnam","2023","0.008857163"
+"WLF","Oceanía","Islas Wallis y Futuna","2023","0.000000811"
+"YEM","África","Yemen","2023","0.000265533"
+"ZMB","África","Zambia","2023","0.000205044"
+"ZWE","África","Zimbabwe","2023","0.000295411"
