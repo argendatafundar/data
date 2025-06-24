@@ -1,25 +1,25 @@
-"anio","provincia","valor_en_mtco2e_per_cap","vab_precios_basicos_2004_per_cap"
-"2018","Buenos Aires","5.45","11033.99"
-"2018","Ciudad Autónoma de Buenos Aires","5.11","40450.69"
-"2018","Catamarca","2.04","8858.37"
-"2018","Chaco","17","8199.07"
-"2018","Chubut","15.9","20180.38"
-"2018","Córdoba","7.53","13306.03"
-"2018","Corrientes","-1.45","7145.71"
-"2018","Entre Ríos","7.36","11609.51"
-"2018","Formosa","17.43","6182.69"
-"2018","Jujuy","2.99","7508.09"
-"2018","La Pampa","45.2","16771.76"
-"2018","La Rioja","3.31","8814.24"
-"2018","Mendoza","4.59","10750.91"
-"2018","Misiones","-1.83","6024.41"
-"2018","Neuquén","23.5","22354.66"
-"2018","Río Negro","7.67","11922.03"
-"2018","Salta","9.93","7716.99"
-"2018","San Juan","2.6","9914.3"
-"2018","San Luis","18.4","12036.91"
-"2018","Santa Cruz","19.93","26452.89"
-"2018","Santa Fé","7.74","12967.28"
-"2018","Santiago del Estero","17.26","10471.97"
-"2018","Tierra del Fuego","19.65","34043.89"
-"2018","Tucumán","4.03","7222.43"
+anio,provincia,valor_en_mtco2e_per_cap,vab_precios_basicos_2004_per_cap,geocodigoFundar,geonombreFundar
+2018,Buenos Aires,5.45,11033.99,AR-B,Buenos Aires
+2018,Ciudad Autónoma de Buenos Aires,5.11,40450.69,AR-C,CABA
+2018,Catamarca,2.04,8858.37,AR-K,Catamarca
+2018,Chaco,17.0,8199.07,AR-H,Chaco
+2018,Chubut,15.9,20180.38,AR-U,Chubut
+2018,Córdoba,7.53,13306.03,AR-X,Córdoba
+2018,Corrientes,-1.45,7145.71,AR-W,Corrientes
+2018,Entre Ríos,7.36,11609.51,AR-E,Entre Ríos
+2018,Formosa,17.43,6182.69,AR-P,Formosa
+2018,Jujuy,2.99,7508.09,AR-Y,Jujuy
+2018,La Pampa,45.2,16771.76,AR-L,La Pampa
+2018,La Rioja,3.31,8814.24,AR-F,La Rioja
+2018,Mendoza,4.59,10750.91,AR-M,Mendoza
+2018,Misiones,-1.83,6024.41,AR-N,Misiones
+2018,Neuquén,23.5,22354.66,AR-Q,Neuquén
+2018,Río Negro,7.67,11922.03,AR-R,Río Negro
+2018,Salta,9.93,7716.99,AR-A,Salta
+2018,San Juan,2.6,9914.3,AR-J,San Juan
+2018,San Luis,18.4,12036.91,AR-D,San Luis
+2018,Santa Cruz,19.93,26452.89,AR-Z,Santa Cruz
+2018,Santa Fé,7.74,12967.28,AR-S,Santa Fe
+2018,Santiago del Estero,17.26,10471.97,AR-G,Santiago del Estero
+2018,Tierra del Fuego,19.65,34043.89,AR-V,Tierra del Fuego
+2018,Tucumán,4.03,7222.43,AR-T,Tucumán

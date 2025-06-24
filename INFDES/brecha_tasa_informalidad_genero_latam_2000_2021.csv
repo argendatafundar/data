@@ -1,23 +1,23 @@
-"iso3","pais","anio_circa","brecha","circa"
-"ARG","Argentina","2000","13.9851513315946","2000"
-"BOL","Bolivia","2000","-3.729876","2000"
-"BRA","Brasil","1999","6.1119502509968","2000"
-"CHL","Chile","2000","6.04307","2000"
-"CRI","Costa Rica","2000","10.799093","2000"
-"ECU","Ecuador","1999","-7.927","2000"
-"MEX","México","2000","-8.457671","2000"
-"PER","Perú","2001","0.932845828253598","2000"
-"PRY","Paraguay","1999","-1.0048570000001","2000"
-"SLV","El Salvador","2000","-9.34861799999999","2000"
-"URY","Uruguay","2001","7.9510457844137","2000"
-"ARG","Argentina","2021","5.486606","2021"
-"BOL","Bolivia","2021","-4.32111099999999","2021"
-"BRA","Brasil","2021","2.109927","2021"
-"CHL","Chile","2020","2.826316","2021"
-"CRI","Costa Rica","2021","4.720755","2021"
-"ECU","Ecuador","2021","-7.44819","2021"
-"MEX","México","2020","-1.859039","2021"
-"PER","Perú","2021","1.240627","2021"
-"PRY","Paraguay","2021","-2.317604","2021"
-"SLV","El Salvador","2021","-4.186193","2021"
-"URY","Uruguay","2020","0.1189738","2021"
+iso3,pais,anio_circa,brecha,circa,geocodigoFundar,geonombreFundar
+ARG,Argentina,2000,13.9851513315946,2000,ARG,Argentina
+BOL,Bolivia,2000,-3.729876,2000,BOL,Bolivia
+BRA,Brasil,1999,6.1119502509968,2000,BRA,Brasil
+CHL,Chile,2000,6.04307,2000,CHL,Chile
+CRI,Costa Rica,2000,10.799093,2000,CRI,Costa Rica
+ECU,Ecuador,1999,-7.927,2000,ECU,Ecuador
+MEX,México,2000,-8.457671,2000,MEX,México
+PER,Perú,2001,0.932845828253598,2000,PER,Perú
+PRY,Paraguay,1999,-1.0048570000001,2000,PRY,Paraguay
+SLV,El Salvador,2000,-9.34861799999999,2000,SLV,El Salvador
+URY,Uruguay,2001,7.9510457844137,2000,URY,Uruguay
+ARG,Argentina,2021,5.486606,2021,ARG,Argentina
+BOL,Bolivia,2021,-4.32111099999999,2021,BOL,Bolivia
+BRA,Brasil,2021,2.109927,2021,BRA,Brasil
+CHL,Chile,2020,2.826316,2021,CHL,Chile
+CRI,Costa Rica,2021,4.720755,2021,CRI,Costa Rica
+ECU,Ecuador,2021,-7.44819,2021,ECU,Ecuador
+MEX,México,2020,-1.859039,2021,MEX,México
+PER,Perú,2021,1.240627,2021,PER,Perú
+PRY,Paraguay,2021,-2.317604,2021,PRY,Paraguay
+SLV,El Salvador,2021,-4.186193,2021,SLV,El Salvador
+URY,Uruguay,2020,0.1189738,2021,URY,Uruguay

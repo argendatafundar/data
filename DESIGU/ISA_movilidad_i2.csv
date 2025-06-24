@@ -1,110 +1,110 @@
-"orden","pais","code","indicador"
-"109","Bhutan","BTN","0.21"
-"108","Benin","BEN","0.2552"
-"107","Mali","MLI","0.2894"
-"106","Guatemala","GTM","0.2924"
-"105","Romania","ROU","0.3112"
-"104","Ethiopia","ETH","0.3223"
-"103","Madagascar","MDG","0.3477"
-"102","Nepal","NPL","0.388"
-"101","Hungary","HUN","0.3983"
-"100","Togo","TGO","0.4222"
-"99","Timor-Leste","TLS","0.4238"
-"98","Turkey","TUR","0.4243"
-"97","India","IND","0.4244"
-"96","Bulgaria","BGR","0.4254"
-"95","Nigeria","NGA","0.4434"
-"94","Honduras","HND","0.449"
-"93","Montenegro","MNE","0.4601"
-"92","Burundi","BDI","0.4619"
-"91","Ghana","GHA","0.4744"
-"90","North Macedonia","MKD","0.4762"
-"89","Niger","NER","0.4791"
-"88","Gambia","GMB","0.4908"
-"87","Ecuador","ECU","0.5067"
-"86","Morocco","MAR","0.5073"
-"85","Panama","PAN","0.5077"
-"84","Iraq","IRQ","0.5097"
-"83","Portugal","PRT","0.5173"
-"82","China","CHN","0.5175"
-"81","Armenia","ARM","0.5177"
-"80","Austria","AUT","0.5178"
-"79","Congo Dem. Rep.","COD","0.5189"
-"78","Vietnam","VNM","0.5257"
-"77","Djibouti","DJI","0.5274"
-"76","Moldova","MDA","0.5284"
-"75","Colombia","COL","0.5321"
-"74","Croatia","HRV","0.5497"
-"73","Georgia","GEO","0.5505"
-"72","El Salvador","SLV","0.5515"
-"71","Serbia","SRB","0.5532"
-"70","Bosnia and Herzegovina","BIH","0.5537"
-"69","Uruguay","URY","0.5592"
-"68","Uganda","UGA","0.5613"
-"67","Bolivia","BOL","0.5616"
-"66","Tanzania","TZA","0.5678"
-"65","Azerbaijan","AZE","0.5882"
-"64","Gabon","GAB","0.5897"
-"63","Russian Federation","RUS","0.5927"
-"62","Sri Lanka","LKA","0.5931"
-"61","Paraguay","PRY","0.5938"
-"60","Nicaragua","NIC","0.5943"
-"59","Indonesia","IDN","0.5946"
-"58","Mexico","MEX","0.5961"
-"57","Tunisia","TUN","0.597"
-"56","Albania","ALB","0.6017"
-"55","Peru","PER","0.6051"
-"54","Egypt","EGY","0.6065"
-"53","Czech Republic","CZE","0.6072"
-"52","Lao PDR","LAO","0.6073"
-"51","Comoros","COM","0.6078"
-"50","Slovak Republic","SVK","0.609"
-"49","Kosovo","XKX","0.609"
-"48","Latvia","LVA","0.6127"
-"47","Estonia","EST","0.6145"
-"46","Ukraine","UKR","0.6208"
-"45","Chile","CHL","0.6246"
-"44","Malawi","MWI","0.6289"
-"43","Liberia","LBR","0.6309"
-"42","Argentina","ARG","0.6354"
-"41","Slovenia","SVN","0.6356"
-"40","Kyrgyz Republic","KGZ","0.6397"
-"39","Brazil","BRA","0.6409"
-"38","Costa Rica","CRI","0.6436"
-"37","Sweden","SWE","0.6445"
-"36","Ireland","IRL","0.6452"
-"35","Poland","POL","0.653"
-"34","Switzerland","CHE","0.6577"
-"33","Taiwan","TWN","0.6594"
-"32","Kenya","KEN","0.6597"
-"31","Kazakhstan","KAZ","0.6667"
-"30","Italy","ITA","0.6689"
-"29","United States","USA","0.6715"
-"28","Norway","NOR","0.6738"
-"27","Venezuela","VEN","0.6747"
-"26","Belarus","BLR","0.6828"
-"25","Spain","ESP","0.6834"
-"24","Greece","GRC","0.684"
-"23","Belgium","BEL","0.6884"
-"22","Lithuania","LTU","0.7028"
-"21","Malaysia","MYS","0.7072"
-"20","Dominican Republic","DOM","0.7126"
-"19","Japan","JPN","0.7136"
-"18","Germany","DEU","0.7274"
-"17","France","FRA","0.7347"
-"16","Canada","CAN","0.7405"
-"15","Netherlands","NLD","0.7543"
-"14","Jordan","JOR","0.7545"
-"13","Mongolia","MNG","0.7546"
-"12","Finland","FIN","0.7554"
-"11","Iceland","ISL","0.7605"
-"10","Tajikistan","TJK","0.7684"
-"9","Australia","AUS","0.7686"
-"8","Uzbekistan","UZB","0.7833"
-"7","South Africa","ZAF","0.7951"
-"6","Cyprus","CYP","0.7961"
-"5","Denmark","DNK","0.7991"
-"4","Israel","ISR","0.8002"
-"3","New Zealand","NZL","0.805"
-"2","Korea","KOR","0.8143"
-"1","United Kingdom","GBR","0.8209"
+orden,pais,code,indicador,geocodigoFundar,geonombreFundar
+109,Bhutan,BTN,0.21,BTN,Bhután
+108,Benin,BEN,0.2552,BEN,Benin
+107,Mali,MLI,0.2894,MLI,Malí
+106,Guatemala,GTM,0.2924,GTM,Guatemala
+105,Romania,ROU,0.3112,ROU,Rumania
+104,Ethiopia,ETH,0.3223,ETH,Etiopía
+103,Madagascar,MDG,0.3477,MDG,Madagascar
+102,Nepal,NPL,0.388,NPL,Nepal
+101,Hungary,HUN,0.3983,HUN,Hungría
+100,Togo,TGO,0.4222,TGO,Togo
+99,Timor-Leste,TLS,0.4238,TLS,Timor-Leste
+98,Turkey,TUR,0.4243,TUR,Turquía
+97,India,IND,0.4244,IND,India
+96,Bulgaria,BGR,0.4254,BGR,Bulgaria
+95,Nigeria,NGA,0.4434,NGA,Nigeria
+94,Honduras,HND,0.449,HND,Honduras
+93,Montenegro,MNE,0.4601,MNE,Montenegro
+92,Burundi,BDI,0.4619,BDI,Burundi
+91,Ghana,GHA,0.4744,GHA,Ghana
+90,North Macedonia,MKD,0.4762,MKD,Macedonia del Norte
+89,Niger,NER,0.4791,NER,Níger
+88,Gambia,GMB,0.4908,GMB,Gambia
+87,Ecuador,ECU,0.5067,ECU,Ecuador
+86,Morocco,MAR,0.5073,MAR,Marruecos
+85,Panama,PAN,0.5077,PAN,Panamá
+84,Iraq,IRQ,0.5097,IRQ,Iraq
+83,Portugal,PRT,0.5173,PRT,Portugal
+82,China,CHN,0.5175,CHN,China
+81,Armenia,ARM,0.5177,ARM,Armenia
+80,Austria,AUT,0.5178,AUT,Austria
+79,Congo Dem. Rep.,COD,0.5189,COD,Rep. Dem. Congo
+78,Vietnam,VNM,0.5257,VNM,Vietnam
+77,Djibouti,DJI,0.5274,DJI,Djibouti
+76,Moldova,MDA,0.5284,MDA,Moldavia
+75,Colombia,COL,0.5321,COL,Colombia
+74,Croatia,HRV,0.5497,HRV,Croacia
+73,Georgia,GEO,0.5505,GEO,Georgia
+72,El Salvador,SLV,0.5515,SLV,El Salvador
+71,Serbia,SRB,0.5532,SRB,Serbia
+70,Bosnia and Herzegovina,BIH,0.5537,BIH,Bosnia y Herzegovina
+69,Uruguay,URY,0.5592,URY,Uruguay
+68,Uganda,UGA,0.5613,UGA,Uganda
+67,Bolivia,BOL,0.5616,BOL,Bolivia
+66,Tanzania,TZA,0.5678,TZA,Tanzanía
+65,Azerbaijan,AZE,0.5882,AZE,Azerbaiyán
+64,Gabon,GAB,0.5897,GAB,Gabón
+63,Russian Federation,RUS,0.5927,RUS,Rusia
+62,Sri Lanka,LKA,0.5931,LKA,Sri Lanka
+61,Paraguay,PRY,0.5938,PRY,Paraguay
+60,Nicaragua,NIC,0.5943,NIC,Nicaragua
+59,Indonesia,IDN,0.5946,IDN,Indonesia
+58,Mexico,MEX,0.5961,MEX,México
+57,Tunisia,TUN,0.597,TUN,Túnez
+56,Albania,ALB,0.6017,ALB,Albania
+55,Peru,PER,0.6051,PER,Perú
+54,Egypt,EGY,0.6065,EGY,Egipto
+53,Czech Republic,CZE,0.6072,CZE,Chequia
+52,Lao PDR,LAO,0.6073,LAO,Laos
+51,Comoros,COM,0.6078,COM,Comoras
+50,Slovak Republic,SVK,0.609,SVK,Eslovaquia
+49,Kosovo,XKX,0.609,XKX,Kosovo
+48,Latvia,LVA,0.6127,LVA,Letonia
+47,Estonia,EST,0.6145,EST,Estonia
+46,Ukraine,UKR,0.6208,UKR,Ucrania
+45,Chile,CHL,0.6246,CHL,Chile
+44,Malawi,MWI,0.6289,MWI,Malawi
+43,Liberia,LBR,0.6309,LBR,Liberia
+42,Argentina,ARG,0.6354,ARG,Argentina
+41,Slovenia,SVN,0.6356,SVN,Eslovenia
+40,Kyrgyz Republic,KGZ,0.6397,KGZ,Kirguistán
+39,Brazil,BRA,0.6409,BRA,Brasil
+38,Costa Rica,CRI,0.6436,CRI,Costa Rica
+37,Sweden,SWE,0.6445,SWE,Suecia
+36,Ireland,IRL,0.6452,IRL,Irlanda
+35,Poland,POL,0.653,POL,Polonia
+34,Switzerland,CHE,0.6577,CHE,Suiza
+33,Taiwan,TWN,0.6594,TWN,Taiwán
+32,Kenya,KEN,0.6597,KEN,Kenia
+31,Kazakhstan,KAZ,0.6667,KAZ,Kazajstán
+30,Italy,ITA,0.6689,ITA,Italia
+29,United States,USA,0.6715,USA,Estados Unidos
+28,Norway,NOR,0.6738,NOR,Noruega
+27,Venezuela,VEN,0.6747,VEN,Venezuela
+26,Belarus,BLR,0.6828,BLR,Belarús
+25,Spain,ESP,0.6834,ESP,España
+24,Greece,GRC,0.684,GRC,Grecia
+23,Belgium,BEL,0.6884,BEL,Bélgica
+22,Lithuania,LTU,0.7028,LTU,Lituania
+21,Malaysia,MYS,0.7072,MYS,Malasia
+20,Dominican Republic,DOM,0.7126,DOM,Rep. Dominicana
+19,Japan,JPN,0.7136,JPN,Japón
+18,Germany,DEU,0.7274,DEU,Alemania
+17,France,FRA,0.7347,FRA,Francia
+16,Canada,CAN,0.7405,CAN,Canadá
+15,Netherlands,NLD,0.7543,NLD,Países Bajos
+14,Jordan,JOR,0.7545,JOR,Jordania
+13,Mongolia,MNG,0.7546,MNG,Mongolia
+12,Finland,FIN,0.7554,FIN,Finlandia
+11,Iceland,ISL,0.7605,ISL,Islandia
+10,Tajikistan,TJK,0.7684,TJK,Tayikistán
+9,Australia,AUS,0.7686,AUS,Australia
+8,Uzbekistan,UZB,0.7833,UZB,Uzbekistán
+7,South Africa,ZAF,0.7951,ZAF,Sudáfrica
+6,Cyprus,CYP,0.7961,CYP,Chipre
+5,Denmark,DNK,0.7991,DNK,Dinamarca
+4,Israel,ISR,0.8002,ISR,Israel
+3,New Zealand,NZL,0.805,NZL,Nueva Zelanda
+2,Korea,KOR,0.8143,KOR,Corea del Sur
+1,United Kingdom,GBR,0.8209,GBR,Reino Unido

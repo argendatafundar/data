@@ -1,113 +1,113 @@
-"anio","iso3","pais","disciplina","share"
-"2022","ARG","Argentina","Ciencias de la Salud","24.3324332433243"
-"2022","ARG","Argentina","Ciencias de la Vida","29.5029502950295"
-"2022","ARG","Argentina","Ciencias Físicas","31.8931893189319"
-"2022","ARG","Argentina","Ciencias Sociales","14.2714271427143"
-"2022","BRB","Barbados","Ciencias de la Salud","41.88"
-"2022","BRB","Barbados","Ciencias de la Vida","22.22"
-"2022","BRB","Barbados","Ciencias Físicas","20.09"
-"2022","BRB","Barbados","Ciencias Sociales","15.81"
-"2022","BOL","Bolivia","Ciencias de la Salud","28.5228522852285"
-"2022","BOL","Bolivia","Ciencias de la Vida","27.1127112711271"
-"2022","BOL","Bolivia","Ciencias Físicas","30.2830283028303"
-"2022","BOL","Bolivia","Ciencias Sociales","14.0814081408141"
-"2022","BRA","Brasil","Ciencias de la Salud","26.972697269727"
-"2022","BRA","Brasil","Ciencias de la Vida","27.4327432743274"
-"2022","BRA","Brasil","Ciencias Físicas","33.4733473347335"
-"2022","BRA","Brasil","Ciencias Sociales","12.1212121212121"
-"2022","CHL","Chile","Ciencias de la Salud","21.7021702170217"
-"2022","CHL","Chile","Ciencias de la Vida","19.0919091909191"
-"2022","CHL","Chile","Ciencias Físicas","38.6338633863386"
-"2022","CHL","Chile","Ciencias Sociales","20.5720572057206"
-"2022","COL","Colombia","Ciencias de la Salud","26.66"
-"2022","COL","Colombia","Ciencias de la Vida","19.11"
-"2022","COL","Colombia","Ciencias Físicas","34.79"
-"2022","COL","Colombia","Ciencias Sociales","19.44"
-"2022","CRI","Costa Rica","Ciencias de la Salud","22.4922492249225"
-"2022","CRI","Costa Rica","Ciencias de la Vida","32.7132713271327"
-"2022","CRI","Costa Rica","Ciencias Físicas","33.023302330233"
-"2022","CRI","Costa Rica","Ciencias Sociales","11.7711771177118"
-"2022","CUB","Cuba","Ciencias de la Salud","40.7259274072593"
-"2022","CUB","Cuba","Ciencias de la Vida","23.3376662333767"
-"2022","CUB","Cuba","Ciencias Físicas","26.7273272672733"
-"2022","CUB","Cuba","Ciencias Sociales","9.20907909209079"
-"2022","ECU","Ecuador","Ciencias de la Salud","19.09"
-"2022","ECU","Ecuador","Ciencias de la Vida","21.14"
-"2022","ECU","Ecuador","Ciencias Físicas","43.95"
-"2022","ECU","Ecuador","Ciencias Sociales","15.82"
-"2022","SLV","El Salvador","Ciencias de la Salud","41.12"
-"2022","SLV","El Salvador","Ciencias de la Vida","23.35"
-"2022","SLV","El Salvador","Ciencias Físicas","23.35"
-"2022","SLV","El Salvador","Ciencias Sociales","12.18"
-"2022","ESP","España","Ciencias de la Salud","28.4228422842284"
-"2022","ESP","España","Ciencias de la Vida","23.4923492349235"
-"2022","ESP","España","Ciencias Físicas","32.8232823282328"
-"2022","ESP","España","Ciencias Sociales","15.2615261526153"
-"2022","GTM","Guatemala","Ciencias de la Salud","49.69"
-"2022","GTM","Guatemala","Ciencias de la Vida","24.22"
-"2022","GTM","Guatemala","Ciencias Físicas","17.81"
-"2022","GTM","Guatemala","Ciencias Sociales","8.28"
-"2022","GUY","Guyana","Ciencias de la Salud","29.63"
-"2022","GUY","Guyana","Ciencias de la Vida","34.57"
-"2022","GUY","Guyana","Ciencias Físicas","20.99"
-"2022","GUY","Guyana","Ciencias Sociales","14.81"
-"2022","HTI","Haiti","Ciencias de la Salud","59.06"
-"2022","HTI","Haiti","Ciencias de la Vida","20.47"
-"2022","HTI","Haiti","Ciencias Físicas","14.96"
-"2022","HTI","Haiti","Ciencias Sociales","5.51"
-"2022","HND","Honduras","Ciencias de la Salud","32.25"
-"2022","HND","Honduras","Ciencias de la Vida","29.97"
-"2022","HND","Honduras","Ciencias Físicas","25.08"
-"2022","HND","Honduras","Ciencias Sociales","12.7"
-"2022","JAM","Jamaica","Ciencias de la Salud","34.99"
-"2022","JAM","Jamaica","Ciencias de la Vida","15.63"
-"2022","JAM","Jamaica","Ciencias Físicas","27.3"
-"2022","JAM","Jamaica","Ciencias Sociales","22.08"
-"2022","MEX","México","Ciencias de la Salud","20.2379762023798"
-"2022","MEX","México","Ciencias de la Vida","26.3373662633737"
-"2022","MEX","México","Ciencias Físicas","41.5958404159584"
-"2022","MEX","México","Ciencias Sociales","11.8288171182882"
-"2022","NIC","Nicaragua","Ciencias de la Salud","52.5352535253525"
-"2022","NIC","Nicaragua","Ciencias de la Vida","26.5826582658266"
-"2022","NIC","Nicaragua","Ciencias Físicas","13.2913291329133"
-"2022","NIC","Nicaragua","Ciencias Sociales","7.59075907590759"
-"2022","PRY","Paraguay","Ciencias de la Salud","43.2443244324432"
-"2022","PRY","Paraguay","Ciencias de la Vida","26.8326832683268"
-"2022","PRY","Paraguay","Ciencias Físicas","24.1324132413241"
-"2022","PRY","Paraguay","Ciencias Sociales","5.79057905790579"
-"2022","PER","Perú","Ciencias de la Salud","31.8"
-"2022","PER","Perú","Ciencias de la Vida","21.07"
-"2022","PER","Perú","Ciencias Físicas","30.79"
-"2022","PER","Perú","Ciencias Sociales","16.34"
-"2022","PRT","Portugal","Ciencias de la Salud","22.62"
-"2022","PRT","Portugal","Ciencias de la Vida","20.24"
-"2022","PRT","Portugal","Ciencias Físicas","41.25"
-"2022","PRT","Portugal","Ciencias Sociales","15.89"
-"2022","PRI","Puerto Rico","Ciencias de la Salud","36.05"
-"2022","PRI","Puerto Rico","Ciencias de la Vida","25.69"
-"2022","PRI","Puerto Rico","Ciencias Físicas","27.81"
-"2022","PRI","Puerto Rico","Ciencias Sociales","10.45"
-"2022","DOM","República Dominicana","Ciencias de la Salud","42.2157784221578"
-"2022","DOM","República Dominicana","Ciencias de la Vida","21.2278772122788"
-"2022","DOM","República Dominicana","Ciencias Físicas","19.3380661933807"
-"2022","DOM","República Dominicana","Ciencias Sociales","17.2182781721828"
-"2022","TTO","Trinidad y Tobago","Ciencias de la Salud","27.5872412758724"
-"2022","TTO","Trinidad y Tobago","Ciencias de la Vida","21.8378162183782"
-"2022","TTO","Trinidad y Tobago","Ciencias Físicas","34.0965903409659"
-"2022","TTO","Trinidad y Tobago","Ciencias Sociales","16.4783521647835"
-"2022","URY","Uruguay","Ciencias de la Salud","25.5274472552745"
-"2022","URY","Uruguay","Ciencias de la Vida","31.2268773122688"
-"2022","URY","Uruguay","Ciencias Físicas","28.7871212878712"
-"2022","URY","Uruguay","Ciencias Sociales","14.4585541445855"
-"2022","VEN","Venezuela","Ciencias de la Salud","32.6832683268327"
-"2022","VEN","Venezuela","Ciencias de la Vida","23.4623462346235"
-"2022","VEN","Venezuela","Ciencias Físicas","31.4831483148315"
-"2022","VEN","Venezuela","Ciencias Sociales","12.3712371237124"
-"2022","LCN","América Latina y el Caribe","Ciencias de la Salud","24.9740394600208"
-"2022","LCN","América Latina y el Caribe","Ciencias de la Vida","25.5140186915888"
-"2022","LCN","América Latina y el Caribe","Ciencias Físicas","35.3167185877466"
-"2022","LCN","América Latina y el Caribe","Ciencias Sociales","14.1952232606438"
-"2022","RICYT_IBE","Iberoamérica","Ciencias de la Salud","25.9183254668582"
-"2022","RICYT_IBE","Iberoamérica","Ciencias de la Vida","24.4100143648676"
-"2022","RICYT_IBE","Iberoamérica","Ciencias Físicas","34.8655858813872"
-"2022","RICYT_IBE","Iberoamérica","Ciencias Sociales","14.8060742868869"
+anio,iso3,pais,disciplina,share,geocodigoFundar,geonombreFundar
+2022,ARG,Argentina,Ciencias de la Salud,24.3324332433243,ARG,Argentina
+2022,ARG,Argentina,Ciencias de la Vida,29.5029502950295,ARG,Argentina
+2022,ARG,Argentina,Ciencias Físicas,31.8931893189319,ARG,Argentina
+2022,ARG,Argentina,Ciencias Sociales,14.2714271427143,ARG,Argentina
+2022,BRB,Barbados,Ciencias de la Salud,41.88,BRB,Barbados
+2022,BRB,Barbados,Ciencias de la Vida,22.22,BRB,Barbados
+2022,BRB,Barbados,Ciencias Físicas,20.09,BRB,Barbados
+2022,BRB,Barbados,Ciencias Sociales,15.81,BRB,Barbados
+2022,BOL,Bolivia,Ciencias de la Salud,28.5228522852285,BOL,Bolivia
+2022,BOL,Bolivia,Ciencias de la Vida,27.1127112711271,BOL,Bolivia
+2022,BOL,Bolivia,Ciencias Físicas,30.2830283028303,BOL,Bolivia
+2022,BOL,Bolivia,Ciencias Sociales,14.0814081408141,BOL,Bolivia
+2022,BRA,Brasil,Ciencias de la Salud,26.972697269727,BRA,Brasil
+2022,BRA,Brasil,Ciencias de la Vida,27.4327432743274,BRA,Brasil
+2022,BRA,Brasil,Ciencias Físicas,33.4733473347335,BRA,Brasil
+2022,BRA,Brasil,Ciencias Sociales,12.1212121212121,BRA,Brasil
+2022,CHL,Chile,Ciencias de la Salud,21.7021702170217,CHL,Chile
+2022,CHL,Chile,Ciencias de la Vida,19.0919091909191,CHL,Chile
+2022,CHL,Chile,Ciencias Físicas,38.6338633863386,CHL,Chile
+2022,CHL,Chile,Ciencias Sociales,20.5720572057206,CHL,Chile
+2022,COL,Colombia,Ciencias de la Salud,26.66,COL,Colombia
+2022,COL,Colombia,Ciencias de la Vida,19.11,COL,Colombia
+2022,COL,Colombia,Ciencias Físicas,34.79,COL,Colombia
+2022,COL,Colombia,Ciencias Sociales,19.44,COL,Colombia
+2022,CRI,Costa Rica,Ciencias de la Salud,22.4922492249225,CRI,Costa Rica
+2022,CRI,Costa Rica,Ciencias de la Vida,32.7132713271327,CRI,Costa Rica
+2022,CRI,Costa Rica,Ciencias Físicas,33.023302330233,CRI,Costa Rica
+2022,CRI,Costa Rica,Ciencias Sociales,11.7711771177118,CRI,Costa Rica
+2022,CUB,Cuba,Ciencias de la Salud,40.7259274072593,CUB,Cuba
+2022,CUB,Cuba,Ciencias de la Vida,23.3376662333767,CUB,Cuba
+2022,CUB,Cuba,Ciencias Físicas,26.7273272672733,CUB,Cuba
+2022,CUB,Cuba,Ciencias Sociales,9.20907909209079,CUB,Cuba
+2022,ECU,Ecuador,Ciencias de la Salud,19.09,ECU,Ecuador
+2022,ECU,Ecuador,Ciencias de la Vida,21.14,ECU,Ecuador
+2022,ECU,Ecuador,Ciencias Físicas,43.95,ECU,Ecuador
+2022,ECU,Ecuador,Ciencias Sociales,15.82,ECU,Ecuador
+2022,SLV,El Salvador,Ciencias de la Salud,41.12,SLV,El Salvador
+2022,SLV,El Salvador,Ciencias de la Vida,23.35,SLV,El Salvador
+2022,SLV,El Salvador,Ciencias Físicas,23.35,SLV,El Salvador
+2022,SLV,El Salvador,Ciencias Sociales,12.18,SLV,El Salvador
+2022,ESP,España,Ciencias de la Salud,28.4228422842284,ESP,España
+2022,ESP,España,Ciencias de la Vida,23.4923492349235,ESP,España
+2022,ESP,España,Ciencias Físicas,32.8232823282328,ESP,España
+2022,ESP,España,Ciencias Sociales,15.2615261526153,ESP,España
+2022,GTM,Guatemala,Ciencias de la Salud,49.69,GTM,Guatemala
+2022,GTM,Guatemala,Ciencias de la Vida,24.22,GTM,Guatemala
+2022,GTM,Guatemala,Ciencias Físicas,17.81,GTM,Guatemala
+2022,GTM,Guatemala,Ciencias Sociales,8.28,GTM,Guatemala
+2022,GUY,Guyana,Ciencias de la Salud,29.63,GUY,Guyana
+2022,GUY,Guyana,Ciencias de la Vida,34.57,GUY,Guyana
+2022,GUY,Guyana,Ciencias Físicas,20.99,GUY,Guyana
+2022,GUY,Guyana,Ciencias Sociales,14.81,GUY,Guyana
+2022,HTI,Haiti,Ciencias de la Salud,59.06,HTI,Haití
+2022,HTI,Haiti,Ciencias de la Vida,20.47,HTI,Haití
+2022,HTI,Haiti,Ciencias Físicas,14.96,HTI,Haití
+2022,HTI,Haiti,Ciencias Sociales,5.51,HTI,Haití
+2022,HND,Honduras,Ciencias de la Salud,32.25,HND,Honduras
+2022,HND,Honduras,Ciencias de la Vida,29.97,HND,Honduras
+2022,HND,Honduras,Ciencias Físicas,25.08,HND,Honduras
+2022,HND,Honduras,Ciencias Sociales,12.7,HND,Honduras
+2022,JAM,Jamaica,Ciencias de la Salud,34.99,JAM,Jamaica
+2022,JAM,Jamaica,Ciencias de la Vida,15.63,JAM,Jamaica
+2022,JAM,Jamaica,Ciencias Físicas,27.3,JAM,Jamaica
+2022,JAM,Jamaica,Ciencias Sociales,22.08,JAM,Jamaica
+2022,MEX,México,Ciencias de la Salud,20.2379762023798,MEX,México
+2022,MEX,México,Ciencias de la Vida,26.3373662633737,MEX,México
+2022,MEX,México,Ciencias Físicas,41.5958404159584,MEX,México
+2022,MEX,México,Ciencias Sociales,11.8288171182882,MEX,México
+2022,NIC,Nicaragua,Ciencias de la Salud,52.5352535253525,NIC,Nicaragua
+2022,NIC,Nicaragua,Ciencias de la Vida,26.5826582658266,NIC,Nicaragua
+2022,NIC,Nicaragua,Ciencias Físicas,13.2913291329133,NIC,Nicaragua
+2022,NIC,Nicaragua,Ciencias Sociales,7.59075907590759,NIC,Nicaragua
+2022,PRY,Paraguay,Ciencias de la Salud,43.2443244324432,PRY,Paraguay
+2022,PRY,Paraguay,Ciencias de la Vida,26.8326832683268,PRY,Paraguay
+2022,PRY,Paraguay,Ciencias Físicas,24.1324132413241,PRY,Paraguay
+2022,PRY,Paraguay,Ciencias Sociales,5.79057905790579,PRY,Paraguay
+2022,PER,Perú,Ciencias de la Salud,31.8,PER,Perú
+2022,PER,Perú,Ciencias de la Vida,21.07,PER,Perú
+2022,PER,Perú,Ciencias Físicas,30.79,PER,Perú
+2022,PER,Perú,Ciencias Sociales,16.34,PER,Perú
+2022,PRT,Portugal,Ciencias de la Salud,22.62,PRT,Portugal
+2022,PRT,Portugal,Ciencias de la Vida,20.24,PRT,Portugal
+2022,PRT,Portugal,Ciencias Físicas,41.25,PRT,Portugal
+2022,PRT,Portugal,Ciencias Sociales,15.89,PRT,Portugal
+2022,PRI,Puerto Rico,Ciencias de la Salud,36.05,PRI,Puerto Rico
+2022,PRI,Puerto Rico,Ciencias de la Vida,25.69,PRI,Puerto Rico
+2022,PRI,Puerto Rico,Ciencias Físicas,27.81,PRI,Puerto Rico
+2022,PRI,Puerto Rico,Ciencias Sociales,10.45,PRI,Puerto Rico
+2022,DOM,República Dominicana,Ciencias de la Salud,42.2157784221578,DOM,Rep. Dominicana
+2022,DOM,República Dominicana,Ciencias de la Vida,21.2278772122788,DOM,Rep. Dominicana
+2022,DOM,República Dominicana,Ciencias Físicas,19.3380661933807,DOM,Rep. Dominicana
+2022,DOM,República Dominicana,Ciencias Sociales,17.2182781721828,DOM,Rep. Dominicana
+2022,TTO,Trinidad y Tobago,Ciencias de la Salud,27.5872412758724,TTO,Trinidad y Tobago
+2022,TTO,Trinidad y Tobago,Ciencias de la Vida,21.8378162183782,TTO,Trinidad y Tobago
+2022,TTO,Trinidad y Tobago,Ciencias Físicas,34.0965903409659,TTO,Trinidad y Tobago
+2022,TTO,Trinidad y Tobago,Ciencias Sociales,16.4783521647835,TTO,Trinidad y Tobago
+2022,URY,Uruguay,Ciencias de la Salud,25.5274472552745,URY,Uruguay
+2022,URY,Uruguay,Ciencias de la Vida,31.2268773122688,URY,Uruguay
+2022,URY,Uruguay,Ciencias Físicas,28.7871212878712,URY,Uruguay
+2022,URY,Uruguay,Ciencias Sociales,14.4585541445855,URY,Uruguay
+2022,VEN,Venezuela,Ciencias de la Salud,32.6832683268327,VEN,Venezuela
+2022,VEN,Venezuela,Ciencias de la Vida,23.4623462346235,VEN,Venezuela
+2022,VEN,Venezuela,Ciencias Físicas,31.4831483148315,VEN,Venezuela
+2022,VEN,Venezuela,Ciencias Sociales,12.3712371237124,VEN,Venezuela
+2022,LCN,América Latina y el Caribe,Ciencias de la Salud,24.9740394600208,LCN,América Latina y el Caribe
+2022,LCN,América Latina y el Caribe,Ciencias de la Vida,25.5140186915888,LCN,América Latina y el Caribe
+2022,LCN,América Latina y el Caribe,Ciencias Físicas,35.3167185877466,LCN,América Latina y el Caribe
+2022,LCN,América Latina y el Caribe,Ciencias Sociales,14.1952232606438,LCN,América Latina y el Caribe
+2022,RICYT_IBE,Iberoamérica,Ciencias de la Salud,25.9183254668582,RICYT_IBE,Iberoamérica
+2022,RICYT_IBE,Iberoamérica,Ciencias de la Vida,24.4100143648676,RICYT_IBE,Iberoamérica
+2022,RICYT_IBE,Iberoamérica,Ciencias Físicas,34.8655858813872,RICYT_IBE,Iberoamérica
+2022,RICYT_IBE,Iberoamérica,Ciencias Sociales,14.8060742868869,RICYT_IBE,Iberoamérica

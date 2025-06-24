@@ -1,25 +1,25 @@
-"pais","anio","valor","calculo","iso3"
-"Guatemala","2022","667.9487","Publicaciones en SCOPUS cada 100 investigadores (EJC)","GTM"
-"Colombia","2017","283.2056","Publicaciones en SCOPUS cada 100 investigadores (EJC)","COL"
-"República Dominicana","2022","184.375","Publicaciones en SCOPUS cada 100 investigadores (EJC)","DOM"
-"Chile","2021","166.2777","Publicaciones en SCOPUS cada 100 investigadores (EJC)","CHL"
-"México","2022","95.3643","Publicaciones en SCOPUS cada 100 investigadores (EJC)","MEX"
-"Trinidad y Tobago","2022","82.7211","Publicaciones en SCOPUS cada 100 investigadores (EJC)","TTO"
-"Bolivia","2021","82.3644","Publicaciones en SCOPUS cada 100 investigadores (EJC)","BOL"
-"Uruguay","2022","79.5112","Publicaciones en SCOPUS cada 100 investigadores (EJC)","URY"
-"España","2022","75.9093","Publicaciones en SCOPUS cada 100 investigadores (EJC)","ESP"
-"Costa Rica","2022","74.7974","Publicaciones en SCOPUS cada 100 investigadores (EJC)","CRI"
-"El Salvador","2022","65.374","Publicaciones en SCOPUS cada 100 investigadores (EJC)","SLV"
-"Paraguay","2022","64.6927","Publicaciones en SCOPUS cada 100 investigadores (EJC)","PRY"
-"Portugal","2022","63.384","Publicaciones en SCOPUS cada 100 investigadores (EJC)","PRT"
-"Canadá","2020","62.1848","Publicaciones en SCOPUS cada 100 investigadores (EJC)","CAN"
-"Iberoamérica","2022","52.4383","Publicaciones en SCOPUS cada 100 investigadores (EJC)","RICYT_IBE"
-"América Latina y el Caribe","2022","47.0684","Publicaciones en SCOPUS cada 100 investigadores (EJC)","LCN"
-"Estados Unidos","2021","46.2366","Publicaciones en SCOPUS cada 100 investigadores (EJC)","USA"
-"Honduras","2017","45.8716","Publicaciones en SCOPUS cada 100 investigadores (EJC)","HND"
-"Brasil","2014","37.9868","Publicaciones en SCOPUS cada 100 investigadores (EJC)","BRA"
-"Argentina","2022","29.1159","Publicaciones en SCOPUS cada 100 investigadores (EJC)","ARG"
-"Ecuador","2014","16.5867","Publicaciones en SCOPUS cada 100 investigadores (EJC)","ECU"
-"Venezuela","2022","14.6981","Publicaciones en SCOPUS cada 100 investigadores (EJC)","VEN"
-"Nicaragua","1997","11.4706","Publicaciones en SCOPUS cada 100 investigadores (EJC)","NIC"
-"Cuba","2022","11.2862","Publicaciones en SCOPUS cada 100 investigadores (EJC)","CUB"
+pais,anio,valor,calculo,iso3,geocodigoFundar,geonombreFundar
+Guatemala,2022,667.9487,Publicaciones en SCOPUS cada 100 investigadores (EJC),GTM,GTM,Guatemala
+Colombia,2017,283.2056,Publicaciones en SCOPUS cada 100 investigadores (EJC),COL,COL,Colombia
+República Dominicana,2022,184.375,Publicaciones en SCOPUS cada 100 investigadores (EJC),DOM,DOM,Rep. Dominicana
+Chile,2021,166.2777,Publicaciones en SCOPUS cada 100 investigadores (EJC),CHL,CHL,Chile
+México,2022,95.3643,Publicaciones en SCOPUS cada 100 investigadores (EJC),MEX,MEX,México
+Trinidad y Tobago,2022,82.7211,Publicaciones en SCOPUS cada 100 investigadores (EJC),TTO,TTO,Trinidad y Tobago
+Bolivia,2021,82.3644,Publicaciones en SCOPUS cada 100 investigadores (EJC),BOL,BOL,Bolivia
+Uruguay,2022,79.5112,Publicaciones en SCOPUS cada 100 investigadores (EJC),URY,URY,Uruguay
+España,2022,75.9093,Publicaciones en SCOPUS cada 100 investigadores (EJC),ESP,ESP,España
+Costa Rica,2022,74.7974,Publicaciones en SCOPUS cada 100 investigadores (EJC),CRI,CRI,Costa Rica
+El Salvador,2022,65.374,Publicaciones en SCOPUS cada 100 investigadores (EJC),SLV,SLV,El Salvador
+Paraguay,2022,64.6927,Publicaciones en SCOPUS cada 100 investigadores (EJC),PRY,PRY,Paraguay
+Portugal,2022,63.384,Publicaciones en SCOPUS cada 100 investigadores (EJC),PRT,PRT,Portugal
+Canadá,2020,62.1848,Publicaciones en SCOPUS cada 100 investigadores (EJC),CAN,CAN,Canadá
+Iberoamérica,2022,52.4383,Publicaciones en SCOPUS cada 100 investigadores (EJC),RICYT_IBE,RICYT_IBE,Iberoamérica
+América Latina y el Caribe,2022,47.0684,Publicaciones en SCOPUS cada 100 investigadores (EJC),LCN,LCN,América Latina y el Caribe
+Estados Unidos,2021,46.2366,Publicaciones en SCOPUS cada 100 investigadores (EJC),USA,USA,Estados Unidos
+Honduras,2017,45.8716,Publicaciones en SCOPUS cada 100 investigadores (EJC),HND,HND,Honduras
+Brasil,2014,37.9868,Publicaciones en SCOPUS cada 100 investigadores (EJC),BRA,BRA,Brasil
+Argentina,2022,29.1159,Publicaciones en SCOPUS cada 100 investigadores (EJC),ARG,ARG,Argentina
+Ecuador,2014,16.5867,Publicaciones en SCOPUS cada 100 investigadores (EJC),ECU,ECU,Ecuador
+Venezuela,2022,14.6981,Publicaciones en SCOPUS cada 100 investigadores (EJC),VEN,VEN,Venezuela
+Nicaragua,1997,11.4706,Publicaciones en SCOPUS cada 100 investigadores (EJC),NIC,NIC,Nicaragua
+Cuba,2022,11.2862,Publicaciones en SCOPUS cada 100 investigadores (EJC),CUB,CUB,Cuba
