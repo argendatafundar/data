@@ -86,6 +86,11 @@ Cada tópico de ArgenData tiene asignado un nombre en clave de seis letras mayú
     </tr>
     <tr>
       <td><a href="https://argendata.fund.ar/categorias/sectores-productivos">Sectores productivos</a></td>
+      <td><a href="https://argendata.fund.ar/topico/pesca-y-acuicultura/">Pesca y acuicultura</a></td>
+      <td><a href="https://github.com/argendatafundar/data/tree/main/PESCAS#PESCAS">PESCAS</a></td>
+    </tr>  
+    <tr>
+      <td><a href="https://argendata.fund.ar/categorias/sectores-productivos">Sectores productivos</a></td>
       <td><a href="https://argendata.fund.ar/topico/agroindustria/">Agroindustria</a></td>
       <td><a href="https://github.com/argendatafundar/data/tree/main/AGROPE#AGROPE">AGROPE</a></td>
     </tr>
