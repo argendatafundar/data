@@ -1,37 +1,37 @@
-"region","tipo_energia","valor_en_mw","porcentaje"
-"CABA y Provincia de Buenos Aires","Bioenergía","48","3.21931589537223"
-"CABA y Provincia de Buenos Aires","Eólica","1443","96.7806841046278"
-"CABA y Provincia de Buenos Aires","Fotovoltaica","0","0"
-"CABA y Provincia de Buenos Aires","Hidro","0","0"
-"Centro","Bioenergía","34","6.67976424361493"
-"Centro","Eólica","240","47.1512770137525"
-"Centro","Fotovoltaica","118","23.1827111984283"
-"Centro","Hidro","117","22.9862475442043"
-"Comahue","Bioenergía","2","0.680272108843537"
-"Comahue","Eólica","253","86.0544217687075"
-"Comahue","Fotovoltaica","7","2.38095238095238"
-"Comahue","Hidro","32","10.8843537414966"
-"Cuyo","Bioenergía","0","0"
-"Cuyo","Eólica","0","0"
-"Cuyo","Fotovoltaica","564","75.3004005340454"
-"Cuyo","Hidro","185","24.6995994659546"
-"Litoral","Bioenergía","12","85.7142857142857"
-"Litoral","Eólica","0","0"
-"Litoral","Fotovoltaica","0","0"
-"Litoral","Hidro","2","14.2857142857143"
-"Noreste Argentino","Bioenergía","109","100"
-"Noreste Argentino","Eólica","0","0"
-"Noreste Argentino","Fotovoltaica","0","0"
-"Noreste Argentino","Hidro","0","0"
-"Noroeste Argentino","Bioenergía","72","6.19088564058469"
-"Noroeste Argentino","Eólica","194","16.6809974204643"
-"Noroeste Argentino","Fotovoltaica","778","66.8959587274291"
-"Noroeste Argentino","Hidro","119","10.2321582115219"
-"Patagonia","Bioenergía","0","0"
-"Patagonia","Eólica","1576","97.1041281577326"
-"Patagonia","Fotovoltaica","0","0"
-"Patagonia","Hidro","47","2.89587184226741"
-"Total","Bioenergía","277","4.65389784946237"
-"Total","Eólica","3706","62.2647849462366"
-"Total","Fotovoltaica","1467","24.6471774193548"
-"Total","Hidro","502","8.43413978494624"
+region,tipo_energia,valor_en_mw,porcentaje
+CABA y Provincia de Buenos Aires,Bioenergía,48,3.21931589537223
+CABA y Provincia de Buenos Aires,Eólica,1443,96.7806841046278
+CABA y Provincia de Buenos Aires,Fotovoltaica,0,0.0
+CABA y Provincia de Buenos Aires,Hidro,0,0.0
+Centro,Bioenergía,34,6.67976424361493
+Centro,Eólica,240,47.1512770137525
+Centro,Fotovoltaica,118,23.1827111984283
+Centro,Hidro,117,22.9862475442043
+Comahue,Bioenergía,2,0.680272108843537
+Comahue,Eólica,253,86.0544217687075
+Comahue,Fotovoltaica,7,2.38095238095238
+Comahue,Hidro,32,10.8843537414966
+Cuyo,Bioenergía,0,0.0
+Cuyo,Eólica,0,0.0
+Cuyo,Fotovoltaica,564,75.3004005340454
+Cuyo,Hidro,185,24.6995994659546
+Litoral,Bioenergía,12,85.7142857142857
+Litoral,Eólica,0,0.0
+Litoral,Fotovoltaica,0,0.0
+Litoral,Hidro,2,14.2857142857143
+Noreste Argentino,Bioenergía,109,100.0
+Noreste Argentino,Eólica,0,0.0
+Noreste Argentino,Fotovoltaica,0,0.0
+Noreste Argentino,Hidro,0,0.0
+Noroeste Argentino,Bioenergía,72,6.19088564058469
+Noroeste Argentino,Eólica,194,16.6809974204643
+Noroeste Argentino,Fotovoltaica,778,66.8959587274291
+Noroeste Argentino,Hidro,119,10.2321582115219
+Patagonia,Bioenergía,0,0.0
+Patagonia,Eólica,1576,97.1041281577326
+Patagonia,Fotovoltaica,0,0.0
+Patagonia,Hidro,47,2.89587184226741
+Total,Bioenergía,277,4.65389784946237
+Total,Eólica,3706,62.2647849462366
+Total,Fotovoltaica,1467,24.6471774193548
+Total,Hidro,502,8.43413978494624

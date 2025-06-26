@@ -1,10 +1,10 @@
-"sexo","tipo_trabajo","minutos"
-"Total","Trabajo total","501.643238800404"
-"Total","En la ocupación","235.320299195667"
-"Total","No remunerado","266.419086587997"
-"Mujeres","Trabajo total","530.273518773592"
-"Mujeres","En la ocupación","171.354024106228"
-"Mujeres","No remunerado","358.634586282071"
-"Varones","Trabajo total","471.083347276256"
-"Varones","En la ocupación","304.969674277066"
-"Varones","No remunerado","165.289362136074"
+sexo,tipo_trabajo,minutos
+Total,Trabajo total,501.643238800404
+Total,En la ocupación,235.320299195667
+Total,No remunerado,266.419086587997
+Mujeres,Trabajo total,530.273518773592
+Mujeres,En la ocupación,171.354024106228
+Mujeres,No remunerado,358.634586282071
+Varones,Trabajo total,471.083347276256
+Varones,En la ocupación,304.969674277066
+Varones,No remunerado,165.289362136074

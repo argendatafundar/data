@@ -1,8 +1,8 @@
-"anio","disciplina_de_formacion","personas_fisicas","share"
-"2023","Ciencias Agrícolas y Veterinarias","9203","0.0934049204287106"
-"2023","Ciencias Exactas y Naturales","21770","0.220952419616759"
-"2023","Ciencias Médicas","12841","0.130328434556674"
-"2023","Ciencias Sociales","24160","0.245209483598571"
-"2023","Humanidades y Artes","11149","0.11315565118545"
-"2023","Ingenierías y Tecnologías","18913","0.191955586229295"
-"2023","Sin clasificar","492","0.00499350438454044"
+anio,disciplina_de_formacion,personas_fisicas,share
+2023,Ciencias Agrícolas y Veterinarias,9203,0.0934049204287106
+2023,Ciencias Exactas y Naturales,21770,0.220952419616759
+2023,Ciencias Médicas,12841,0.130328434556674
+2023,Ciencias Sociales,24160,0.245209483598571
+2023,Humanidades y Artes,11149,0.11315565118545
+2023,Ingenierías y Tecnologías,18913,0.191955586229295
+2023,Sin clasificar,492,0.0049935043845404

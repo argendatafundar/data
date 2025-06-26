@@ -1,1352 +1,1352 @@
-anio,iso3,expo,geocodigoFundar,geonombreFundar
-2017,NAM,0.0,NAM,Namibia
-2019,NAM,0.0,NAM,Namibia
-2021,NAM,0.0,NAM,Namibia
-2022,NAM,0.0,NAM,Namibia
-2015,AND,0.1,AND,Andorra
-2016,AND,0.1,AND,Andorra
-2017,AND,0.0,AND,Andorra
-2018,AND,0.0,AND,Andorra
-2019,AND,0.2,AND,Andorra
-2020,AND,0.0,AND,Andorra
-2021,AND,0.0,AND,Andorra
-2022,AND,0.1,AND,Andorra
-2015,ARE,2.9,ARE,Emiratos Árabes Unidos
-2016,ARE,3.3,ARE,Emiratos Árabes Unidos
-2017,ARE,3.8,ARE,Emiratos Árabes Unidos
-2018,ARE,0.0,ARE,Emiratos Árabes Unidos
-2019,ARE,0.6,ARE,Emiratos Árabes Unidos
-2020,ARE,3.5,ARE,Emiratos Árabes Unidos
-2021,ARE,6.3,ARE,Emiratos Árabes Unidos
-2022,ARE,8.4,ARE,Emiratos Árabes Unidos
-2020,AFG,0.0,AFG,Afganistán
-2021,AFG,0.0,AFG,Afganistán
-2017,ATG,0.1,ATG,Antigua y Barbuda
-2018,ATG,0.0,ATG,Antigua y Barbuda
-2015,AIA,0.0,AIA,Anguila
-2016,AIA,0.0,AIA,Anguila
-2017,AIA,0.0,AIA,Anguila
-2018,AIA,0.0,AIA,Anguila
-2019,AIA,0.0,AIA,Anguila
-2020,AIA,0.0,AIA,Anguila
-2015,ALB,0.0,ALB,Albania
-2016,ALB,0.0,ALB,Albania
-2017,ALB,0.0,ALB,Albania
-2018,ALB,0.0,ALB,Albania
-2019,ALB,0.0,ALB,Albania
-2020,ALB,0.0,ALB,Albania
-2021,ALB,0.0,ALB,Albania
-2022,ALB,0.0,ALB,Albania
-2015,ARM,2.4,ARM,Armenia
-2016,ARM,3.1,ARM,Armenia
-2017,ARM,0.0,ARM,Armenia
-2018,ARM,0.0,ARM,Armenia
-2019,ARM,0.0,ARM,Armenia
-2020,ARM,0.0,ARM,Armenia
-2021,ARM,0.0,ARM,Armenia
-2022,ARM,0.0,ARM,Armenia
-2015,AGO,0.0,AGO,Angola
-2016,AGO,0.0,AGO,Angola
-2017,AGO,0.0,AGO,Angola
-2018,AGO,0.0,AGO,Angola
-2019,AGO,0.0,AGO,Angola
-2020,AGO,0.0,AGO,Angola
-2021,AGO,0.0,AGO,Angola
-2022,AGO,0.0,AGO,Angola
-2019,ATA,0.0,ATA,Antártida
-2019,ASM,0.0,ASM,Samoa Americana
-2020,ASM,0.0,ASM,Samoa Americana
-2015,AUT,14.2,AUT,Austria
-2016,AUT,14.2,AUT,Austria
-2017,AUT,5.3,AUT,Austria
-2018,AUT,2.9,AUT,Austria
-2019,AUT,3.9,AUT,Austria
-2020,AUT,0.0,AUT,Austria
-2021,AUT,1.8,AUT,Austria
-2022,AUT,1.9,AUT,Austria
-2015,AUS,6.3,AUS,Australia
-2016,AUS,7.2,AUS,Australia
-2017,AUS,8.7,AUS,Australia
-2018,AUS,0.1,AUS,Australia
-2019,AUS,9.2,AUS,Australia
-2020,AUS,5.5,AUS,Australia
-2021,AUS,7.7,AUS,Australia
-2022,AUS,8.6,AUS,Australia
-2015,ABW,0.1,ABW,Aruba
-2016,ABW,0.0,ABW,Aruba
-2017,ABW,0.0,ABW,Aruba
-2018,ABW,0.0,ABW,Aruba
-2019,ABW,0.0,ABW,Aruba
-2020,ABW,0.0,ABW,Aruba
-2021,ABW,0.0,ABW,Aruba
-2022,ABW,0.0,ABW,Aruba
-2017,AZE,0.0,AZE,Azerbaiyán
-2018,AZE,0.0,AZE,Azerbaiyán
-2019,AZE,0.0,AZE,Azerbaiyán
-2020,AZE,0.0,AZE,Azerbaiyán
-2021,AZE,0.0,AZE,Azerbaiyán
-2022,AZE,0.0,AZE,Azerbaiyán
-2015,BIH,0.0,BIH,Bosnia y Herzegovina
-2016,BIH,0.1,BIH,Bosnia y Herzegovina
-2017,BIH,0.0,BIH,Bosnia y Herzegovina
-2018,BIH,0.0,BIH,Bosnia y Herzegovina
-2019,BIH,0.0,BIH,Bosnia y Herzegovina
-2020,BIH,0.0,BIH,Bosnia y Herzegovina
-2021,BIH,0.0,BIH,Bosnia y Herzegovina
-2022,BIH,0.0,BIH,Bosnia y Herzegovina
-2015,BRB,0.0,BRB,Barbados
-2016,BRB,0.2,BRB,Barbados
-2017,BRB,0.0,BRB,Barbados
-2018,BRB,0.2,BRB,Barbados
-2019,BRB,0.0,BRB,Barbados
-2020,BRB,0.0,BRB,Barbados
-2021,BRB,0.0,BRB,Barbados
-2022,BRB,0.0,BRB,Barbados
-2015,BGD,0.0,BGD,Bangladesh
-2016,BGD,0.0,BGD,Bangladesh
-2017,BGD,0.0,BGD,Bangladesh
-2018,BGD,0.0,BGD,Bangladesh
-2019,BGD,0.0,BGD,Bangladesh
-2020,BGD,0.0,BGD,Bangladesh
-2021,BGD,0.0,BGD,Bangladesh
-2022,BGD,0.0,BGD,Bangladesh
-2015,BEL,164.4,BEL,Bélgica
-2016,BEL,155.3,BEL,Bélgica
-2017,BEL,152.9,BEL,Bélgica
-2018,BEL,120.6,BEL,Bélgica
-2019,BEL,98.9,BEL,Bélgica
-2020,BEL,107.7,BEL,Bélgica
-2021,BEL,120.1,BEL,Bélgica
-2022,BEL,162.9,BEL,Bélgica
-2017,BFA,0.0,BFA,Burkina Faso
-2020,BFA,0.0,BFA,Burkina Faso
-2015,BGR,0.0,BGR,Bulgaria
-2016,BGR,0.0,BGR,Bulgaria
-2017,BGR,0.1,BGR,Bulgaria
-2018,BGR,0.2,BGR,Bulgaria
-2019,BGR,0.0,BGR,Bulgaria
-2020,BGR,0.0,BGR,Bulgaria
-2021,BGR,0.0,BGR,Bulgaria
-2022,BGR,0.0,BGR,Bulgaria
-2015,BHR,0.0,BHR,Bahrein
-2016,BHR,0.0,BHR,Bahrein
-2017,BHR,0.0,BHR,Bahrein
-2018,BHR,0.0,BHR,Bahrein
-2019,BHR,0.0,BHR,Bahrein
-2020,BHR,0.0,BHR,Bahrein
-2021,BHR,0.0,BHR,Bahrein
-2022,BHR,0.0,BHR,Bahrein
-2017,BDI,0.0,BDI,Burundi
-2022,BDI,0.0,BDI,Burundi
-2019,BEN,0.0,BEN,Benin
-2020,BEN,0.0,BEN,Benin
-2017,BLM,0.0,BLM,San Barthélemy
-2019,BLM,0.0,BLM,San Barthélemy
-2020,BLM,0.0,BLM,San Barthélemy
-2015,BMU,0.0,BMU,Bermuda
-2016,BMU,0.1,BMU,Bermuda
-2017,BMU,0.7,BMU,Bermuda
-2018,BMU,7.3,BMU,Bermuda
-2019,BMU,6.1,BMU,Bermuda
-2020,BMU,0.0,BMU,Bermuda
-2021,BMU,0.0,BMU,Bermuda
-2022,BMU,0.0,BMU,Bermuda
-2015,BRN,0.0,BRN,Brunei
-2016,BRN,0.0,BRN,Brunei
-2017,BRN,0.0,BRN,Brunei
-2018,BRN,0.0,BRN,Brunei
-2019,BRN,0.0,BRN,Brunei
-2020,BRN,0.0,BRN,Brunei
-2021,BRN,0.0,BRN,Brunei
-2022,BRN,0.0,BRN,Brunei
-2015,BOL,22.9,BOL,Bolivia
-2016,BOL,20.9,BOL,Bolivia
-2017,BOL,33.6,BOL,Bolivia
-2018,BOL,19.7,BOL,Bolivia
-2019,BOL,26.8,BOL,Bolivia
-2020,BOL,22.1,BOL,Bolivia
-2021,BOL,21.7,BOL,Bolivia
-2022,BOL,15.5,BOL,Bolivia
-2015,BRA,111.2,BRA,Brasil
-2016,BRA,203.3,BRA,Brasil
-2017,BRA,276.4,BRA,Brasil
-2018,BRA,285.5,BRA,Brasil
-2019,BRA,352.0,BRA,Brasil
-2020,BRA,241.5,BRA,Brasil
-2021,BRA,497.9,BRA,Brasil
-2022,BRA,570.2,BRA,Brasil
-2015,BHS,1.5,BHS,Bahamas
-2016,BHS,1.9,BHS,Bahamas
-2017,BHS,0.0,BHS,Bahamas
-2018,BHS,0.0,BHS,Bahamas
-2019,BHS,1.1,BHS,Bahamas
-2020,BHS,0.0,BHS,Bahamas
-2021,BHS,0.0,BHS,Bahamas
-2022,BHS,0.7,BHS,Bahamas
-2017,BTN,0.0,BTN,Bhután
-2020,BTN,0.0,BTN,Bhután
-2015,BVT,0.0,BVT,Bouvet
-2016,BVT,0.1,BVT,Bouvet
-2017,BVT,0.0,BVT,Bouvet
-2018,BVT,0.0,BVT,Bouvet
-2019,BVT,0.0,BVT,Bouvet
-2015,BWA,0.0,BWA,Botswana
-2016,BWA,0.0,BWA,Botswana
-2017,BWA,0.0,BWA,Botswana
-2018,BWA,0.0,BWA,Botswana
-2019,BWA,0.0,BWA,Botswana
-2020,BWA,0.0,BWA,Botswana
-2021,BWA,0.0,BWA,Botswana
-2022,BWA,0.0,BWA,Botswana
-2019,BLR,0.0,BLR,Belarús
-2021,BLR,0.0,BLR,Belarús
-2022,BLR,0.0,BLR,Belarús
-2015,BLZ,0.2,BLZ,Belice
-2016,BLZ,0.2,BLZ,Belice
-2017,BLZ,0.0,BLZ,Belice
-2018,BLZ,0.0,BLZ,Belice
-2019,BLZ,0.0,BLZ,Belice
-2020,BLZ,0.0,BLZ,Belice
-2021,BLZ,0.1,BLZ,Belice
-2022,BLZ,0.0,BLZ,Belice
-2015,CAN,18.4,CAN,Canadá
-2016,CAN,18.4,CAN,Canadá
-2017,CAN,49.7,CAN,Canadá
-2018,CAN,46.5,CAN,Canadá
-2019,CAN,50.1,CAN,Canadá
-2020,CAN,37.2,CAN,Canadá
-2021,CAN,42.5,CAN,Canadá
-2022,CAN,51.1,CAN,Canadá
-2019,CCK,0.0,CCK,Islas Cocos
-2022,CCK,0.0,CCK,Islas Cocos
-2017,COD,0.0,COD,Rep. Dem. Congo
-2022,COD,0.0,COD,Rep. Dem. Congo
-2017,CAF,0.0,CAF,Rep. Centroafricana
-2019,CAF,0.0,CAF,Rep. Centroafricana
-2017,COG,0.0,COG,Congo
-2018,COG,0.0,COG,Congo
-2020,COG,0.0,COG,Congo
-2022,COG,0.0,COG,Congo
-2015,CHE,117.4,CHE,Suiza
-2016,CHE,147.4,CHE,Suiza
-2017,CHE,158.7,CHE,Suiza
-2018,CHE,168.5,CHE,Suiza
-2019,CHE,230.2,CHE,Suiza
-2020,CHE,182.0,CHE,Suiza
-2021,CHE,198.7,CHE,Suiza
-2022,CHE,193.4,CHE,Suiza
-2015,CIV,0.0,CIV,Costa de Marfil
-2017,CIV,0.0,CIV,Costa de Marfil
-2018,CIV,0.0,CIV,Costa de Marfil
-2019,CIV,0.0,CIV,Costa de Marfil
-2020,CIV,0.0,CIV,Costa de Marfil
-2021,CIV,0.0,CIV,Costa de Marfil
-2020,COK,0.0,COK,Islas Cook
-2015,CHL,162.7,CHL,Chile
-2016,CHL,179.9,CHL,Chile
-2017,CHL,210.4,CHL,Chile
-2018,CHL,212.0,CHL,Chile
-2019,CHL,252.0,CHL,Chile
-2020,CHL,221.0,CHL,Chile
-2021,CHL,241.6,CHL,Chile
-2022,CHL,337.7,CHL,Chile
-2018,CMR,0.0,CMR,Camerún
-2019,CMR,0.0,CMR,Camerún
-2020,CMR,0.0,CMR,Camerún
-2021,CMR,0.0,CMR,Camerún
-2022,CMR,0.0,CMR,Camerún
-2015,CHN,30.1,CHN,China
-2016,CHN,27.0,CHN,China
-2017,CHN,58.4,CHN,China
-2018,CHN,59.4,CHN,China
-2019,CHN,60.2,CHN,China
-2020,CHN,45.4,CHN,China
-2021,CHN,50.5,CHN,China
-2022,CHN,54.2,CHN,China
-2015,COL,50.8,COL,Colombia
-2016,COL,58.7,COL,Colombia
-2017,COL,106.5,COL,Colombia
-2018,COL,116.5,COL,Colombia
-2019,COL,127.8,COL,Colombia
-2020,COL,87.2,COL,Colombia
-2021,COL,106.5,COL,Colombia
-2022,COL,105.6,COL,Colombia
-2015,CRI,15.2,CRI,Costa Rica
-2016,CRI,19.6,CRI,Costa Rica
-2017,CRI,27.3,CRI,Costa Rica
-2018,CRI,24.3,CRI,Costa Rica
-2019,CRI,24.0,CRI,Costa Rica
-2020,CRI,25.7,CRI,Costa Rica
-2021,CRI,0.4,CRI,Costa Rica
-2022,CRI,2.1,CRI,Costa Rica
-2015,CUB,0.5,CUB,Cuba
-2016,CUB,0.0,CUB,Cuba
-2017,CUB,0.0,CUB,Cuba
-2018,CUB,0.0,CUB,Cuba
-2019,CUB,0.0,CUB,Cuba
-2020,CUB,0.0,CUB,Cuba
-2021,CUB,0.0,CUB,Cuba
-2022,CUB,0.0,CUB,Cuba
-2018,CPV,0.0,CPV,Cabo Verde
-2019,CPV,0.0,CPV,Cabo Verde
-2020,CPV,0.0,CPV,Cabo Verde
-2021,CPV,0.0,CPV,Cabo Verde
-2022,CPV,0.0,CPV,Cabo Verde
-2015,CUW,0.9,CUW,Curazao
-2016,CUW,0.4,CUW,Curazao
-2017,CUW,0.0,CUW,Curazao
-2018,CUW,0.0,CUW,Curazao
-2019,CUW,0.0,CUW,Curazao
-2020,CUW,0.0,CUW,Curazao
-2021,CUW,0.0,CUW,Curazao
-2022,CUW,0.0,CUW,Curazao
-2015,CYP,1.0,CYP,Chipre
-2016,CYP,1.0,CYP,Chipre
-2017,CYP,0.9,CYP,Chipre
-2018,CYP,1.2,CYP,Chipre
-2019,CYP,1.4,CYP,Chipre
-2020,CYP,1.2,CYP,Chipre
-2021,CYP,0.6,CYP,Chipre
-2022,CYP,0.5,CYP,Chipre
-2015,CZE,2.7,CZE,Chequia
-2016,CZE,11.4,CZE,Chequia
-2017,CZE,0.9,CZE,Chequia
-2018,CZE,0.0,CZE,Chequia
-2019,CZE,0.0,CZE,Chequia
-2020,CZE,12.4,CZE,Chequia
-2021,CZE,1.2,CZE,Chequia
-2022,CZE,12.3,CZE,Chequia
-2015,DEU,103.1,DEU,Alemania
-2016,DEU,130.0,DEU,Alemania
-2017,DEU,168.9,DEU,Alemania
-2018,DEU,180.4,DEU,Alemania
-2019,DEU,184.3,DEU,Alemania
-2020,DEU,199.9,DEU,Alemania
-2021,DEU,156.7,DEU,Alemania
-2022,DEU,173.1,DEU,Alemania
-2015,DNK,27.6,DNK,Dinamarca
-2016,DNK,26.9,DNK,Dinamarca
-2017,DNK,0.0,DNK,Dinamarca
-2018,DNK,21.7,DNK,Dinamarca
-2019,DNK,0.1,DNK,Dinamarca
-2020,DNK,15.0,DNK,Dinamarca
-2021,DNK,0.0,DNK,Dinamarca
-2022,DNK,0.0,DNK,Dinamarca
-2015,DMA,0.0,DMA,Dominica
-2016,DMA,0.0,DMA,Dominica
-2017,DMA,0.0,DMA,Dominica
-2018,DMA,0.0,DMA,Dominica
-2020,DMA,0.0,DMA,Dominica
-2021,DMA,0.0,DMA,Dominica
-2022,DMA,0.0,DMA,Dominica
-2015,DOM,1.0,DOM,Rep. Dominicana
-2016,DOM,1.8,DOM,Rep. Dominicana
-2017,DOM,0.3,DOM,Rep. Dominicana
-2018,DOM,4.9,DOM,Rep. Dominicana
-2019,DOM,0.2,DOM,Rep. Dominicana
-2020,DOM,2.5,DOM,Rep. Dominicana
-2021,DOM,0.0,DOM,Rep. Dominicana
-2022,DOM,0.0,DOM,Rep. Dominicana
-2017,DZA,0.0,DZA,Argelia
-2018,DZA,0.0,DZA,Argelia
-2019,DZA,0.0,DZA,Argelia
-2020,DZA,0.0,DZA,Argelia
-2021,DZA,0.0,DZA,Argelia
-2022,DZA,0.0,DZA,Argelia
-2015,ECU,12.0,ECU,Ecuador
-2016,ECU,13.2,ECU,Ecuador
-2017,ECU,21.3,ECU,Ecuador
-2018,ECU,16.1,ECU,Ecuador
-2019,ECU,14.5,ECU,Ecuador
-2020,ECU,12.9,ECU,Ecuador
-2021,ECU,10.8,ECU,Ecuador
-2022,ECU,9.8,ECU,Ecuador
-2015,EST,0.0,EST,Estonia
-2016,EST,0.0,EST,Estonia
-2017,EST,0.0,EST,Estonia
-2018,EST,0.0,EST,Estonia
-2019,EST,0.0,EST,Estonia
-2020,EST,0.0,EST,Estonia
-2021,EST,0.0,EST,Estonia
-2022,EST,0.0,EST,Estonia
-2015,EGY,0.2,EGY,Egipto
-2016,EGY,0.7,EGY,Egipto
-2017,EGY,0.0,EGY,Egipto
-2018,EGY,0.0,EGY,Egipto
-2019,EGY,0.7,EGY,Egipto
-2020,EGY,0.0,EGY,Egipto
-2021,EGY,0.0,EGY,Egipto
-2022,EGY,0.0,EGY,Egipto
-2019,ERI,0.0,ERI,Eritrea
-2022,ERI,0.0,ERI,Eritrea
-2015,ESP,121.7,ESP,España
-2016,ESP,144.5,ESP,España
-2017,ESP,182.8,ESP,España
-2018,ESP,186.0,ESP,España
-2019,ESP,183.6,ESP,España
-2020,ESP,125.2,ESP,España
-2021,ESP,135.8,ESP,España
-2022,ESP,162.3,ESP,España
-2018,ETH,0.0,ETH,Etiopía
-2019,ETH,0.0,ETH,Etiopía
-2021,ETH,0.0,ETH,Etiopía
-2022,ETH,0.0,ETH,Etiopía
-2015,FIN,3.0,FIN,Finlandia
-2016,FIN,3.7,FIN,Finlandia
-2017,FIN,0.0,FIN,Finlandia
-2018,FIN,0.0,FIN,Finlandia
-2019,FIN,7.4,FIN,Finlandia
-2020,FIN,8.3,FIN,Finlandia
-2021,FIN,0.0,FIN,Finlandia
-2022,FIN,0.0,FIN,Finlandia
-2018,FJI,0.0,FJI,Fiji
-2021,FJI,0.0,FJI,Fiji
-2017,FSM,0.0,FSM,Micronesia
-2019,FSM,0.0,FSM,Micronesia
-2017,FRO,0.0,FRO,Islas Feroe
-2018,FRO,0.0,FRO,Islas Feroe
-2015,FRA,94.2,FRA,Francia
-2016,FRA,101.5,FRA,Francia
-2017,FRA,134.7,FRA,Francia
-2018,FRA,101.3,FRA,Francia
-2019,FRA,106.6,FRA,Francia
-2020,FRA,83.2,FRA,Francia
-2021,FRA,87.2,FRA,Francia
-2022,FRA,101.9,FRA,Francia
-2016,GAB,0.0,GAB,Gabón
-2017,GAB,0.0,GAB,Gabón
-2018,GAB,0.0,GAB,Gabón
-2019,GAB,0.0,GAB,Gabón
-2020,GAB,0.0,GAB,Gabón
-2015,GBR,196.9,GBR,Reino Unido
-2016,GBR,226.9,GBR,Reino Unido
-2017,GBR,324.1,GBR,Reino Unido
-2018,GBR,310.6,GBR,Reino Unido
-2019,GBR,271.6,GBR,Reino Unido
-2020,GBR,241.4,GBR,Reino Unido
-2021,GBR,395.3,GBR,Reino Unido
-2022,GBR,506.5,GBR,Reino Unido
-2016,GRD,0.0,GRD,Granada
-2018,GRD,0.0,GRD,Granada
-2019,GRD,0.0,GRD,Granada
-2015,GEO,0.0,GEO,Georgia
-2016,GEO,0.0,GEO,Georgia
-2017,GEO,0.0,GEO,Georgia
-2018,GEO,0.0,GEO,Georgia
-2019,GEO,0.0,GEO,Georgia
-2020,GEO,0.0,GEO,Georgia
-2021,GEO,0.0,GEO,Georgia
-2022,GEO,0.0,GEO,Georgia
-2021,GUF,0.0,GUF,Guayana Francesa
-2018,GGY,0.0,GGY,Guernsey
-2019,GGY,0.0,GGY,Guernsey
-2020,GGY,0.0,GGY,Guernsey
-2021,GGY,0.0,GGY,Guernsey
-2022,GGY,0.0,GGY,Guernsey
-2015,GHA,0.0,GHA,Ghana
-2016,GHA,0.0,GHA,Ghana
-2017,GHA,0.0,GHA,Ghana
-2018,GHA,0.0,GHA,Ghana
-2019,GHA,0.0,GHA,Ghana
-2020,GHA,0.0,GHA,Ghana
-2021,GHA,0.0,GHA,Ghana
-2022,GHA,0.0,GHA,Ghana
-2015,GIB,0.0,GIB,Gibraltar
-2016,GIB,0.0,GIB,Gibraltar
-2017,GIB,0.0,GIB,Gibraltar
-2018,GIB,0.0,GIB,Gibraltar
-2019,GIB,0.0,GIB,Gibraltar
-2020,GIB,0.1,GIB,Gibraltar
-2021,GIB,0.1,GIB,Gibraltar
-2022,GIB,0.1,GIB,Gibraltar
-2020,GRL,0.0,GRL,Groenlandia
-2017,GMB,0.0,GMB,Gambia
-2020,GMB,0.0,GMB,Gambia
-2015,GIN,0.0,GIN,Guinea
-2016,GIN,0.0,GIN,Guinea
-2017,GIN,0.0,GIN,Guinea
-2019,GIN,0.0,GIN,Guinea
-2017,GLP,0.0,GLP,Guadalupe
-2015,GNQ,0.0,GNQ,Guinea Ecuatorial
-2016,GNQ,0.0,GNQ,Guinea Ecuatorial
-2017,GNQ,0.0,GNQ,Guinea Ecuatorial
-2018,GNQ,0.0,GNQ,Guinea Ecuatorial
-2019,GNQ,0.0,GNQ,Guinea Ecuatorial
-2020,GNQ,0.0,GNQ,Guinea Ecuatorial
-2021,GNQ,0.0,GNQ,Guinea Ecuatorial
-2015,GRC,1.1,GRC,Grecia
-2016,GRC,0.0,GRC,Grecia
-2017,GRC,1.1,GRC,Grecia
-2018,GRC,1.0,GRC,Grecia
-2019,GRC,0.8,GRC,Grecia
-2020,GRC,0.8,GRC,Grecia
-2021,GRC,0.6,GRC,Grecia
-2022,GRC,0.8,GRC,Grecia
-2015,GTM,2.8,GTM,Guatemala
-2016,GTM,4.2,GTM,Guatemala
-2017,GTM,7.0,GTM,Guatemala
-2018,GTM,7.2,GTM,Guatemala
-2019,GTM,9.0,GTM,Guatemala
-2020,GTM,2.6,GTM,Guatemala
-2021,GTM,2.6,GTM,Guatemala
-2022,GTM,0.0,GTM,Guatemala
-2015,GUM,0.0,GUM,Guam
-2016,GUM,0.0,GUM,Guam
-2017,GUM,0.0,GUM,Guam
-2018,GUM,0.0,GUM,Guam
-2020,GUM,0.0,GUM,Guam
-2021,GUM,0.0,GUM,Guam
-2015,GUY,0.0,GUY,Guyana
-2016,GUY,0.0,GUY,Guyana
-2017,GUY,0.0,GUY,Guyana
-2018,GUY,0.0,GUY,Guyana
-2019,GUY,0.0,GUY,Guyana
-2020,GUY,0.0,GUY,Guyana
-2021,GUY,0.0,GUY,Guyana
-2022,GUY,0.0,GUY,Guyana
-2015,HKG,39.9,HKG,Hong Kong
-2016,HKG,27.1,HKG,Hong Kong
-2017,HKG,18.7,HKG,Hong Kong
-2018,HKG,22.3,HKG,Hong Kong
-2019,HKG,1.9,HKG,Hong Kong
-2020,HKG,0.0,HKG,Hong Kong
-2021,HKG,0.0,HKG,Hong Kong
-2022,HKG,0.0,HKG,Hong Kong
-2015,HND,2.3,HND,Honduras
-2016,HND,3.1,HND,Honduras
-2017,HND,0.6,HND,Honduras
-2018,HND,0.0,HND,Honduras
-2019,HND,0.0,HND,Honduras
-2020,HND,0.0,HND,Honduras
-2021,HND,0.0,HND,Honduras
-2022,HND,0.0,HND,Honduras
-2015,HRV,0.0,HRV,Croacia
-2016,HRV,0.0,HRV,Croacia
-2017,HRV,0.0,HRV,Croacia
-2018,HRV,0.0,HRV,Croacia
-2019,HRV,0.0,HRV,Croacia
-2020,HRV,0.0,HRV,Croacia
-2021,HRV,0.0,HRV,Croacia
-2022,HRV,0.0,HRV,Croacia
-2015,HTI,0.0,HTI,Haití
-2016,HTI,0.0,HTI,Haití
-2017,HTI,0.0,HTI,Haití
-2018,HTI,0.0,HTI,Haití
-2019,HTI,0.0,HTI,Haití
-2020,HTI,0.0,HTI,Haití
-2021,HTI,0.0,HTI,Haití
-2022,HTI,0.0,HTI,Haití
-2015,HUN,0.1,HUN,Hungría
-2016,HUN,0.4,HUN,Hungría
-2017,HUN,0.7,HUN,Hungría
-2018,HUN,0.2,HUN,Hungría
-2019,HUN,0.6,HUN,Hungría
-2020,HUN,2.5,HUN,Hungría
-2021,HUN,0.0,HUN,Hungría
-2022,HUN,0.0,HUN,Hungría
-2015,IDN,0.0,IDN,Indonesia
-2016,IDN,0.0,IDN,Indonesia
-2017,IDN,0.3,IDN,Indonesia
-2018,IDN,0.0,IDN,Indonesia
-2019,IDN,0.0,IDN,Indonesia
-2020,IDN,0.0,IDN,Indonesia
-2021,IDN,0.0,IDN,Indonesia
-2022,IDN,0.7,IDN,Indonesia
-2015,IRL,124.0,IRL,Irlanda
-2016,IRL,117.9,IRL,Irlanda
-2017,IRL,71.7,IRL,Irlanda
-2018,IRL,104.0,IRL,Irlanda
-2019,IRL,201.4,IRL,Irlanda
-2020,IRL,155.5,IRL,Irlanda
-2021,IRL,379.4,IRL,Irlanda
-2022,IRL,364.9,IRL,Irlanda
-2015,ISR,2.5,ISR,Israel
-2016,ISR,3.7,ISR,Israel
-2017,ISR,0.0,ISR,Israel
-2018,ISR,3.0,ISR,Israel
-2019,ISR,0.1,ISR,Israel
-2020,ISR,1.6,ISR,Israel
-2021,ISR,0.9,ISR,Israel
-2022,ISR,1.1,ISR,Israel
-2015,IMN,0.0,IMN,Isla de Man
-2016,IMN,0.0,IMN,Isla de Man
-2017,IMN,0.0,IMN,Isla de Man
-2018,IMN,0.0,IMN,Isla de Man
-2019,IMN,0.0,IMN,Isla de Man
-2020,IMN,0.0,IMN,Isla de Man
-2021,IMN,0.0,IMN,Isla de Man
-2022,IMN,0.1,IMN,Isla de Man
-2015,IND,14.0,IND,India
-2016,IND,11.5,IND,India
-2017,IND,0.0,IND,India
-2018,IND,0.0,IND,India
-2019,IND,0.0,IND,India
-2020,IND,0.0,IND,India
-2021,IND,0.0,IND,India
-2022,IND,0.0,IND,India
-2020,IOT,0.0,IOT,Territorio Británico del Océano Índico
-2021,IOT,0.0,IOT,Territorio Británico del Océano Índico
-2022,IOT,0.0,IOT,Territorio Británico del Océano Índico
-2018,IRQ,0.0,IRQ,Iraq
-2019,IRQ,0.0,IRQ,Iraq
-2020,IRQ,0.0,IRQ,Iraq
-2021,IRQ,0.0,IRQ,Iraq
-2022,IRQ,0.0,IRQ,Iraq
-2015,IRN,0.0,IRN,Irán
-2016,IRN,0.0,IRN,Irán
-2017,IRN,0.0,IRN,Irán
-2019,IRN,0.0,IRN,Irán
-2020,IRN,0.0,IRN,Irán
-2021,IRN,0.0,IRN,Irán
-2022,IRN,0.0,IRN,Irán
-2015,ISL,0.0,ISL,Islandia
-2016,ISL,0.0,ISL,Islandia
-2017,ISL,0.0,ISL,Islandia
-2018,ISL,0.0,ISL,Islandia
-2019,ISL,0.0,ISL,Islandia
-2020,ISL,0.0,ISL,Islandia
-2022,ISL,0.0,ISL,Islandia
-2015,ITA,22.6,ITA,Italia
-2016,ITA,33.1,ITA,Italia
-2017,ITA,56.3,ITA,Italia
-2018,ITA,56.3,ITA,Italia
-2019,ITA,35.8,ITA,Italia
-2020,ITA,25.7,ITA,Italia
-2021,ITA,26.2,ITA,Italia
-2022,ITA,28.9,ITA,Italia
-2015,JEY,0.0,JEY,Jersey
-2016,JEY,0.0,JEY,Jersey
-2017,JEY,0.0,JEY,Jersey
-2018,JEY,0.0,JEY,Jersey
-2019,JEY,0.0,JEY,Jersey
-2020,JEY,0.0,JEY,Jersey
-2021,JEY,0.0,JEY,Jersey
-2022,JEY,0.0,JEY,Jersey
-2015,JAM,0.0,JAM,Jamaica
-2016,JAM,0.1,JAM,Jamaica
-2017,JAM,0.0,JAM,Jamaica
-2018,JAM,0.8,JAM,Jamaica
-2019,JAM,0.0,JAM,Jamaica
-2020,JAM,0.0,JAM,Jamaica
-2021,JAM,0.0,JAM,Jamaica
-2022,JAM,0.0,JAM,Jamaica
-2015,JOR,0.0,JOR,Jordania
-2016,JOR,0.0,JOR,Jordania
-2017,JOR,0.0,JOR,Jordania
-2018,JOR,0.0,JOR,Jordania
-2019,JOR,0.0,JOR,Jordania
-2020,JOR,0.0,JOR,Jordania
-2021,JOR,0.0,JOR,Jordania
-2022,JOR,0.0,JOR,Jordania
-2015,JPN,21.9,JPN,Japón
-2016,JPN,24.2,JPN,Japón
-2017,JPN,0.0,JPN,Japón
-2018,JPN,0.6,JPN,Japón
-2019,JPN,0.0,JPN,Japón
-2020,JPN,0.3,JPN,Japón
-2021,JPN,25.0,JPN,Japón
-2022,JPN,23.1,JPN,Japón
-2015,KEN,0.0,KEN,Kenia
-2016,KEN,0.1,KEN,Kenia
-2017,KEN,0.0,KEN,Kenia
-2018,KEN,0.0,KEN,Kenia
-2019,KEN,0.0,KEN,Kenia
-2020,KEN,0.0,KEN,Kenia
-2021,KEN,0.0,KEN,Kenia
-2022,KEN,0.0,KEN,Kenia
-2018,KHM,0.0,KHM,Camboya
-2019,KHM,0.0,KHM,Camboya
-2020,KHM,0.0,KHM,Camboya
-2021,KHM,0.0,KHM,Camboya
-2022,KHM,0.0,KHM,Camboya
-2021,KIR,0.0,KIR,Kiribati
-2022,KIR,0.0,KIR,Kiribati
-2019,COM,0.0,COM,Comoras
-2017,KNA,0.0,KNA,Saint Kitts y Nevis
-2018,KNA,0.0,KNA,Saint Kitts y Nevis
-2019,KNA,0.0,KNA,Saint Kitts y Nevis
-2020,KNA,0.0,KNA,Saint Kitts y Nevis
-2021,KNA,0.0,KNA,Saint Kitts y Nevis
-2016,PRK,0.0,PRK,Corea del Norte
-2017,PRK,0.0,PRK,Corea del Norte
-2018,PRK,0.0,PRK,Corea del Norte
-2019,PRK,0.0,PRK,Corea del Norte
-2020,PRK,0.0,PRK,Corea del Norte
-2021,PRK,0.0,PRK,Corea del Norte
-2022,PRK,0.0,PRK,Corea del Norte
-2015,KOR,82.1,KOR,Corea del Sur
-2016,KOR,177.1,KOR,Corea del Sur
-2017,KOR,0.0,KOR,Corea del Sur
-2018,KOR,0.0,KOR,Corea del Sur
-2019,KOR,0.1,KOR,Corea del Sur
-2020,KOR,0.0,KOR,Corea del Sur
-2021,KOR,0.0,KOR,Corea del Sur
-2022,KOR,148.5,KOR,Corea del Sur
-2015,KWT,0.1,KWT,Kuwait
-2016,KWT,0.2,KWT,Kuwait
-2017,KWT,0.0,KWT,Kuwait
-2018,KWT,1.1,KWT,Kuwait
-2019,KWT,0.0,KWT,Kuwait
-2020,KWT,0.0,KWT,Kuwait
-2021,KWT,0.0,KWT,Kuwait
-2022,KWT,0.1,KWT,Kuwait
-2015,CYM,1.4,CYM,Islas Caimán
-2016,CYM,2.1,CYM,Islas Caimán
-2017,CYM,0.0,CYM,Islas Caimán
-2018,CYM,0.0,CYM,Islas Caimán
-2019,CYM,0.0,CYM,Islas Caimán
-2020,CYM,0.4,CYM,Islas Caimán
-2021,CYM,0.0,CYM,Islas Caimán
-2022,CYM,0.0,CYM,Islas Caimán
-2015,KAZ,0.0,KAZ,Kazajstán
-2016,KAZ,0.0,KAZ,Kazajstán
-2017,KAZ,0.0,KAZ,Kazajstán
-2018,KAZ,0.0,KAZ,Kazajstán
-2019,KAZ,0.0,KAZ,Kazajstán
-2020,KAZ,0.0,KAZ,Kazajstán
-2021,KAZ,0.0,KAZ,Kazajstán
-2022,KAZ,0.0,KAZ,Kazajstán
-2018,LAO,0.0,LAO,Laos
-2020,LAO,0.0,LAO,Laos
-2015,LBN,0.1,LBN,Líbano
-2016,LBN,0.3,LBN,Líbano
-2017,LBN,0.2,LBN,Líbano
-2018,LBN,0.1,LBN,Líbano
-2019,LBN,0.1,LBN,Líbano
-2020,LBN,0.0,LBN,Líbano
-2021,LBN,0.0,LBN,Líbano
-2022,LBN,0.0,LBN,Líbano
-2015,LCA,0.2,LCA,Santa Lucía
-2016,LCA,0.2,LCA,Santa Lucía
-2017,LCA,0.0,LCA,Santa Lucía
-2018,LCA,0.0,LCA,Santa Lucía
-2019,LCA,0.0,LCA,Santa Lucía
-2020,LCA,0.0,LCA,Santa Lucía
-2021,LCA,0.0,LCA,Santa Lucía
-2015,LIE,0.4,LIE,Liechtenstein
-2016,LIE,0.2,LIE,Liechtenstein
-2017,LIE,0.0,LIE,Liechtenstein
-2018,LIE,0.0,LIE,Liechtenstein
-2019,LIE,0.0,LIE,Liechtenstein
-2020,LIE,0.1,LIE,Liechtenstein
-2021,LIE,0.1,LIE,Liechtenstein
-2022,LIE,0.0,LIE,Liechtenstein
-2015,LKA,0.0,LKA,Sri Lanka
-2016,LKA,0.0,LKA,Sri Lanka
-2017,LKA,0.0,LKA,Sri Lanka
-2018,LKA,0.0,LKA,Sri Lanka
-2019,LKA,0.0,LKA,Sri Lanka
-2020,LKA,0.0,LKA,Sri Lanka
-2021,LKA,0.0,LKA,Sri Lanka
-2022,LKA,0.0,LKA,Sri Lanka
-2015,LBR,0.6,LBR,Liberia
-2016,LBR,0.9,LBR,Liberia
-2017,LBR,0.0,LBR,Liberia
-2018,LBR,0.0,LBR,Liberia
-2019,LBR,0.0,LBR,Liberia
-2020,LBR,0.0,LBR,Liberia
-2021,LBR,0.0,LBR,Liberia
-2022,LBR,0.0,LBR,Liberia
-2017,LSO,0.0,LSO,Lesotho
-2018,LSO,0.0,LSO,Lesotho
-2015,LTU,0.0,LTU,Lituania
-2016,LTU,0.2,LTU,Lituania
-2017,LTU,0.0,LTU,Lituania
-2018,LTU,0.0,LTU,Lituania
-2019,LTU,0.0,LTU,Lituania
-2020,LTU,0.0,LTU,Lituania
-2021,LTU,0.1,LTU,Lituania
-2022,LTU,0.2,LTU,Lituania
-2015,LUX,23.5,LUX,Luxemburgo
-2016,LUX,19.4,LUX,Luxemburgo
-2017,LUX,24.8,LUX,Luxemburgo
-2018,LUX,0.0,LUX,Luxemburgo
-2019,LUX,0.0,LUX,Luxemburgo
-2020,LUX,18.3,LUX,Luxemburgo
-2021,LUX,19.7,LUX,Luxemburgo
-2022,LUX,22.9,LUX,Luxemburgo
-2015,LVA,0.0,LVA,Letonia
-2016,LVA,0.0,LVA,Letonia
-2017,LVA,0.0,LVA,Letonia
-2018,LVA,0.0,LVA,Letonia
-2019,LVA,0.0,LVA,Letonia
-2020,LVA,0.0,LVA,Letonia
-2021,LVA,0.0,LVA,Letonia
-2022,LVA,0.0,LVA,Letonia
-2015,LBY,0.0,LBY,Libia
-2016,LBY,0.0,LBY,Libia
-2017,LBY,0.0,LBY,Libia
-2018,LBY,0.0,LBY,Libia
-2019,LBY,0.0,LBY,Libia
-2022,LBY,0.0,LBY,Libia
-2015,MAR,0.0,MAR,Marruecos
-2016,MAR,0.0,MAR,Marruecos
-2017,MAR,0.0,MAR,Marruecos
-2018,MAR,0.0,MAR,Marruecos
-2019,MAR,0.0,MAR,Marruecos
-2020,MAR,0.0,MAR,Marruecos
-2021,MAR,0.0,MAR,Marruecos
-2022,MAR,0.0,MAR,Marruecos
-2015,MCO,0.0,MCO,Mónaco
-2016,MCO,0.1,MCO,Mónaco
-2017,MCO,0.0,MCO,Mónaco
-2018,MCO,0.4,MCO,Mónaco
-2019,MCO,0.0,MCO,Mónaco
-2020,MCO,0.0,MCO,Mónaco
-2021,MCO,0.0,MCO,Mónaco
-2022,MCO,0.0,MCO,Mónaco
-2015,MDA,0.0,MDA,Moldavia
-2016,MDA,0.0,MDA,Moldavia
-2017,MDA,0.0,MDA,Moldavia
-2018,MDA,0.0,MDA,Moldavia
-2019,MDA,0.0,MDA,Moldavia
-2020,MDA,0.0,MDA,Moldavia
-2021,MDA,0.0,MDA,Moldavia
-2022,MDA,0.0,MDA,Moldavia
-2015,MNE,0.0,MNE,Montenegro
-2016,MNE,0.0,MNE,Montenegro
-2017,MNE,0.0,MNE,Montenegro
-2018,MNE,0.0,MNE,Montenegro
-2019,MNE,0.0,MNE,Montenegro
-2021,MNE,0.0,MNE,Montenegro
-2021,MDG,0.0,MDG,Madagascar
-2015,MHL,0.2,MHL,Islas Marshall
-2016,MHL,0.2,MHL,Islas Marshall
-2017,MHL,0.0,MHL,Islas Marshall
-2018,MHL,0.0,MHL,Islas Marshall
-2019,MHL,0.0,MHL,Islas Marshall
-2020,MHL,0.0,MHL,Islas Marshall
-2021,MHL,0.0,MHL,Islas Marshall
-2022,MHL,0.0,MHL,Islas Marshall
-2015,MKD,0.0,MKD,Macedonia del Norte
-2016,MKD,0.0,MKD,Macedonia del Norte
-2017,MKD,0.0,MKD,Macedonia del Norte
-2018,MKD,0.0,MKD,Macedonia del Norte
-2019,MKD,0.0,MKD,Macedonia del Norte
-2020,MKD,0.0,MKD,Macedonia del Norte
-2021,MKD,0.0,MKD,Macedonia del Norte
-2022,MKD,0.0,MKD,Macedonia del Norte
-2017,MLI,0.0,MLI,Malí
-2019,MLI,0.0,MLI,Malí
-2020,MLI,0.0,MLI,Malí
-2021,MLI,0.0,MLI,Malí
-2022,MLI,0.0,MLI,Malí
-2020,MMR,0.0,MMR,Myanmar
-2021,MMR,0.0,MMR,Myanmar
-2015,MNG,0.1,MNG,Mongolia
-2016,MNG,0.1,MNG,Mongolia
-2019,MNG,0.0,MNG,Mongolia
-2020,MNG,0.0,MNG,Mongolia
-2017,MAC,0.0,MAC,Macao
-2018,MAC,0.0,MAC,Macao
-2019,MAC,0.0,MAC,Macao
-2020,MAC,0.0,MAC,Macao
-2021,MAC,0.0,MAC,Macao
-2022,MAC,0.0,MAC,Macao
-2018,MRT,0.0,MRT,Mauritania
-2019,MRT,0.0,MRT,Mauritania
-2022,MRT,0.0,MRT,Mauritania
-2015,MSR,0.0,MSR,Montserrat
-2016,MSR,0.0,MSR,Montserrat
-2017,MSR,0.0,MSR,Montserrat
-2019,MSR,0.0,MSR,Montserrat
-2015,MLT,0.4,MLT,Malta
-2016,MLT,0.8,MLT,Malta
-2017,MLT,0.0,MLT,Malta
-2018,MLT,0.0,MLT,Malta
-2019,MLT,0.0,MLT,Malta
-2020,MLT,0.0,MLT,Malta
-2021,MLT,0.0,MLT,Malta
-2022,MLT,0.0,MLT,Malta
-2015,MUS,0.0,MUS,Mauricio
-2016,MUS,0.0,MUS,Mauricio
-2017,MUS,0.0,MUS,Mauricio
-2018,MUS,0.0,MUS,Mauricio
-2019,MUS,0.0,MUS,Mauricio
-2020,MUS,0.3,MUS,Mauricio
-2021,MUS,0.0,MUS,Mauricio
-2022,MUS,0.0,MUS,Mauricio
-2022,MDV,0.0,MDV,Maldivas
-2015,MWI,0.0,MWI,Malawi
-2016,MWI,0.0,MWI,Malawi
-2017,MWI,0.0,MWI,Malawi
-2015,MEX,111.6,MEX,México
-2016,MEX,155.4,MEX,México
-2017,MEX,211.7,MEX,México
-2018,MEX,215.7,MEX,México
-2019,MEX,229.7,MEX,México
-2020,MEX,161.3,MEX,México
-2021,MEX,293.5,MEX,México
-2022,MEX,310.8,MEX,México
-2015,MYS,0.7,MYS,Malasia
-2016,MYS,0.9,MYS,Malasia
-2017,MYS,1.4,MYS,Malasia
-2018,MYS,0.0,MYS,Malasia
-2019,MYS,0.0,MYS,Malasia
-2020,MYS,0.8,MYS,Malasia
-2021,MYS,0.9,MYS,Malasia
-2022,MYS,0.0,MYS,Malasia
-2015,MOZ,0.0,MOZ,Mozambique
-2016,MOZ,0.0,MOZ,Mozambique
-2017,MOZ,0.0,MOZ,Mozambique
-2018,MOZ,0.0,MOZ,Mozambique
-2019,MOZ,0.0,MOZ,Mozambique
-2020,MOZ,0.0,MOZ,Mozambique
-2021,MOZ,0.0,MOZ,Mozambique
-2022,MOZ,0.0,MOZ,Mozambique
-2015,NCL,0.0,NCL,Nueva Caledonia
-2016,NCL,0.0,NCL,Nueva Caledonia
-2017,NCL,0.0,NCL,Nueva Caledonia
-2018,NCL,0.0,NCL,Nueva Caledonia
-2019,NCL,0.0,NCL,Nueva Caledonia
-2015,NER,0.0,NER,Níger
-2016,NER,0.0,NER,Níger
-2017,NER,0.0,NER,Níger
-2019,NER,0.0,NER,Níger
-2015,NGA,0.1,NGA,Nigeria
-2016,NGA,0.1,NGA,Nigeria
-2017,NGA,0.0,NGA,Nigeria
-2018,NGA,0.0,NGA,Nigeria
-2019,NGA,0.0,NGA,Nigeria
-2020,NGA,0.0,NGA,Nigeria
-2021,NGA,0.0,NGA,Nigeria
-2022,NGA,0.0,NGA,Nigeria
-2015,NIC,0.7,NIC,Nicaragua
-2016,NIC,1.4,NIC,Nicaragua
-2017,NIC,0.0,NIC,Nicaragua
-2018,NIC,0.0,NIC,Nicaragua
-2019,NIC,1.6,NIC,Nicaragua
-2020,NIC,0.0,NIC,Nicaragua
-2021,NIC,0.0,NIC,Nicaragua
-2022,NIC,0.1,NIC,Nicaragua
-2015,NLD,155.2,NLD,Países Bajos
-2016,NLD,202.4,NLD,Países Bajos
-2017,NLD,298.8,NLD,Países Bajos
-2018,NLD,275.1,NLD,Países Bajos
-2019,NLD,270.5,NLD,Países Bajos
-2020,NLD,131.4,NLD,Países Bajos
-2021,NLD,168.9,NLD,Países Bajos
-2022,NLD,199.8,NLD,Países Bajos
-2015,NOR,7.9,NOR,Noruega
-2016,NOR,8.5,NOR,Noruega
-2017,NOR,0.0,NOR,Noruega
-2018,NOR,6.5,NOR,Noruega
-2019,NOR,2.7,NOR,Noruega
-2020,NOR,0.0,NOR,Noruega
-2021,NOR,0.0,NOR,Noruega
-2022,NOR,0.0,NOR,Noruega
-2019,NPL,0.0,NPL,Nepal
-2017,NRU,0.0,NRU,Nauru
-2018,NRU,0.0,NRU,Nauru
-2019,NRU,0.0,NRU,Nauru
-2015,NZL,0.3,NZL,Nueva Zelanda
-2016,NZL,0.0,NZL,Nueva Zelanda
-2017,NZL,0.5,NZL,Nueva Zelanda
-2018,NZL,0.6,NZL,Nueva Zelanda
-2019,NZL,0.6,NZL,Nueva Zelanda
-2020,NZL,0.6,NZL,Nueva Zelanda
-2021,NZL,0.3,NZL,Nueva Zelanda
-2022,NZL,0.0,NZL,Nueva Zelanda
-2015,OMN,0.0,OMN,Omán
-2016,OMN,0.0,OMN,Omán
-2017,OMN,0.0,OMN,Omán
-2018,OMN,0.0,OMN,Omán
-2019,OMN,0.0,OMN,Omán
-2020,OMN,0.0,OMN,Omán
-2021,OMN,0.0,OMN,Omán
-2022,OMN,0.0,OMN,Omán
-2015,PAN,19.3,PAN,Panamá
-2016,PAN,24.6,PAN,Panamá
-2017,PAN,27.2,PAN,Panamá
-2018,PAN,32.2,PAN,Panamá
-2019,PAN,38.9,PAN,Panamá
-2020,PAN,28.5,PAN,Panamá
-2021,PAN,35.3,PAN,Panamá
-2022,PAN,34.3,PAN,Panamá
-2015,PER,34.2,PER,Perú
-2016,PER,49.2,PER,Perú
-2017,PER,72.0,PER,Perú
-2018,PER,70.1,PER,Perú
-2019,PER,77.0,PER,Perú
-2020,PER,48.5,PER,Perú
-2021,PER,50.1,PER,Perú
-2022,PER,57.3,PER,Perú
-2017,PYF,0.0,PYF,Polinesia Francesa
-2018,PYF,0.0,PYF,Polinesia Francesa
-2019,PYF,0.0,PYF,Polinesia Francesa
-2020,PYF,0.0,PYF,Polinesia Francesa
-2018,PNG,0.0,PNG,Papúa Nueva Guinea
-2020,PNG,0.0,PNG,Papúa Nueva Guinea
-2015,PHL,0.3,PHL,Filipinas
-2016,PHL,0.2,PHL,Filipinas
-2017,PHL,0.0,PHL,Filipinas
-2018,PHL,0.5,PHL,Filipinas
-2019,PHL,0.3,PHL,Filipinas
-2020,PHL,0.3,PHL,Filipinas
-2021,PHL,1.1,PHL,Filipinas
-2022,PHL,1.8,PHL,Filipinas
-2015,PAK,0.0,PAK,Pakistán
-2016,PAK,0.0,PAK,Pakistán
-2017,PAK,0.0,PAK,Pakistán
-2018,PAK,0.0,PAK,Pakistán
-2019,PAK,0.0,PAK,Pakistán
-2020,PAK,0.0,PAK,Pakistán
-2021,PAK,0.0,PAK,Pakistán
-2022,PAK,0.0,PAK,Pakistán
-2015,POL,0.8,POL,Polonia
-2016,POL,0.6,POL,Polonia
-2017,POL,0.0,POL,Polonia
-2018,POL,1.0,POL,Polonia
-2019,POL,0.7,POL,Polonia
-2020,POL,0.0,POL,Polonia
-2021,POL,1.1,POL,Polonia
-2022,POL,0.0,POL,Polonia
-2020,PCN,0.0,PCN,Pitcairn
-2021,PCN,0.0,PCN,Pitcairn
-2015,PRI,3.1,PRI,Puerto Rico
-2016,PRI,3.0,PRI,Puerto Rico
-2017,PRI,0.0,PRI,Puerto Rico
-2018,PRI,0.0,PRI,Puerto Rico
-2019,PRI,0.4,PRI,Puerto Rico
-2020,PRI,1.9,PRI,Puerto Rico
-2021,PRI,0.0,PRI,Puerto Rico
-2022,PRI,0.0,PRI,Puerto Rico
-2015,PSE,0.0,PSE,Palestina
-2016,PSE,0.0,PSE,Palestina
-2017,PSE,0.0,PSE,Palestina
-2018,PSE,0.0,PSE,Palestina
-2019,PSE,0.0,PSE,Palestina
-2020,PSE,0.0,PSE,Palestina
-2021,PSE,0.0,PSE,Palestina
-2015,PRT,0.7,PRT,Portugal
-2016,PRT,1.2,PRT,Portugal
-2017,PRT,0.0,PRT,Portugal
-2018,PRT,0.0,PRT,Portugal
-2019,PRT,0.9,PRT,Portugal
-2020,PRT,1.0,PRT,Portugal
-2021,PRT,1.9,PRT,Portugal
-2022,PRT,0.0,PRT,Portugal
-2015,PRY,33.9,PRY,Paraguay
-2016,PRY,46.2,PRY,Paraguay
-2017,PRY,48.4,PRY,Paraguay
-2018,PRY,47.5,PRY,Paraguay
-2019,PRY,53.1,PRY,Paraguay
-2020,PRY,38.0,PRY,Paraguay
-2021,PRY,55.5,PRY,Paraguay
-2022,PRY,37.1,PRY,Paraguay
-2015,QAT,0.0,QAT,Qatar
-2016,QAT,0.0,QAT,Qatar
-2017,QAT,0.0,QAT,Qatar
-2018,QAT,0.0,QAT,Qatar
-2019,QAT,0.0,QAT,Qatar
-2020,QAT,0.0,QAT,Qatar
-2021,QAT,0.0,QAT,Qatar
-2022,QAT,0.0,QAT,Qatar
-2019,REU,0.0,REU,Reunión
-2020,REU,0.0,REU,Reunión
-2015,ROU,0.0,ROU,Rumania
-2016,ROU,0.0,ROU,Rumania
-2017,ROU,0.0,ROU,Rumania
-2018,ROU,0.0,ROU,Rumania
-2019,ROU,0.0,ROU,Rumania
-2020,ROU,1.0,ROU,Rumania
-2021,ROU,0.0,ROU,Rumania
-2022,ROU,0.0,ROU,Rumania
-2015,SRB,0.0,SRB,Serbia
-2016,SRB,0.0,SRB,Serbia
-2017,SRB,0.0,SRB,Serbia
-2018,SRB,0.0,SRB,Serbia
-2019,SRB,0.0,SRB,Serbia
-2020,SRB,0.0,SRB,Serbia
-2021,SRB,0.0,SRB,Serbia
-2022,SRB,0.0,SRB,Serbia
-2015,RUS,2.0,RUS,Rusia
-2016,RUS,1.7,RUS,Rusia
-2017,RUS,0.0,RUS,Rusia
-2018,RUS,0.0,RUS,Rusia
-2019,RUS,0.8,RUS,Rusia
-2020,RUS,0.7,RUS,Rusia
-2021,RUS,0.0,RUS,Rusia
-2022,RUS,0.2,RUS,Rusia
-2015,RWA,0.0,RWA,Ruanda
-2016,RWA,0.0,RWA,Ruanda
-2017,RWA,0.0,RWA,Ruanda
-2019,RWA,0.0,RWA,Ruanda
-2020,RWA,0.0,RWA,Ruanda
-2015,SAU,0.0,SAU,Arabia Saudita
-2016,SAU,0.1,SAU,Arabia Saudita
-2017,SAU,0.0,SAU,Arabia Saudita
-2018,SAU,0.0,SAU,Arabia Saudita
-2019,SAU,1.4,SAU,Arabia Saudita
-2020,SAU,0.0,SAU,Arabia Saudita
-2021,SAU,0.0,SAU,Arabia Saudita
-2022,SAU,0.0,SAU,Arabia Saudita
-2015,SYC,0.0,SYC,Seychelles
-2016,SYC,0.0,SYC,Seychelles
-2017,SYC,0.0,SYC,Seychelles
-2018,SYC,0.0,SYC,Seychelles
-2019,SYC,0.0,SYC,Seychelles
-2020,SYC,0.0,SYC,Seychelles
-2022,SYC,0.0,SYC,Seychelles
-2019,SDN,0.0,SDN,Sudán
-2021,SDN,0.0,SDN,Sudán
-2022,SDN,0.0,SDN,Sudán
-2015,SWE,22.6,SWE,Suecia
-2016,SWE,9.3,SWE,Suecia
-2017,SWE,0.0,SWE,Suecia
-2018,SWE,0.0,SWE,Suecia
-2019,SWE,4.8,SWE,Suecia
-2020,SWE,0.1,SWE,Suecia
-2021,SWE,16.1,SWE,Suecia
-2022,SWE,29.8,SWE,Suecia
-2015,SGP,25.7,SGP,Singapur
-2016,SGP,0.0,SGP,Singapur
-2017,SGP,0.0,SGP,Singapur
-2018,SGP,6.5,SGP,Singapur
-2019,SGP,12.5,SGP,Singapur
-2020,SGP,6.7,SGP,Singapur
-2021,SGP,11.7,SGP,Singapur
-2022,SGP,10.0,SGP,Singapur
-2019,SHN,0.0,SHN,Santa Elena
-2015,SVN,0.0,SVN,Eslovenia
-2016,SVN,0.0,SVN,Eslovenia
-2017,SVN,0.0,SVN,Eslovenia
-2018,SVN,0.2,SVN,Eslovenia
-2019,SVN,0.2,SVN,Eslovenia
-2020,SVN,0.0,SVN,Eslovenia
-2021,SVN,0.0,SVN,Eslovenia
-2022,SVN,0.0,SVN,Eslovenia
-2017,SJM,0.0,SJM,Islas Svalbard y Jan Mayen
-2020,SJM,0.0,SJM,Islas Svalbard y Jan Mayen
-2015,SVK,0.0,SVK,Eslovaquia
-2016,SVK,0.0,SVK,Eslovaquia
-2017,SVK,0.0,SVK,Eslovaquia
-2018,SVK,0.0,SVK,Eslovaquia
-2019,SVK,0.0,SVK,Eslovaquia
-2020,SVK,0.0,SVK,Eslovaquia
-2021,SVK,0.0,SVK,Eslovaquia
-2022,SVK,0.0,SVK,Eslovaquia
-2017,SLE,0.0,SLE,Sierra Leona
-2018,SLE,0.0,SLE,Sierra Leona
-2019,SLE,0.0,SLE,Sierra Leona
-2020,SLE,0.0,SLE,Sierra Leona
-2018,SMR,0.0,SMR,San Marino
-2019,SMR,0.0,SMR,San Marino
-2021,SMR,0.0,SMR,San Marino
-2015,SEN,0.0,SEN,Senegal
-2016,SEN,0.0,SEN,Senegal
-2017,SEN,0.0,SEN,Senegal
-2019,SEN,0.0,SEN,Senegal
-2020,SEN,0.0,SEN,Senegal
-2021,SEN,0.0,SEN,Senegal
-2022,SEN,0.0,SEN,Senegal
-2019,SOM,0.0,SOM,Somalia
-2018,SUR,0.0,SUR,Suriname
-2019,SUR,0.0,SUR,Suriname
-2020,SUR,0.0,SUR,Suriname
-2021,SUR,0.0,SUR,Suriname
-2022,SUR,0.0,SUR,Suriname
-2022,SSD,0.0,SSD,Sudán del Sur
-2018,STP,0.0,STP,Santo Tomé y Príncipe
-2019,STP,0.0,STP,Santo Tomé y Príncipe
-2020,STP,0.1,STP,Santo Tomé y Príncipe
-2021,STP,0.0,STP,Santo Tomé y Príncipe
-2022,STP,0.0,STP,Santo Tomé y Príncipe
-2015,SLV,0.5,SLV,El Salvador
-2016,SLV,0.2,SLV,El Salvador
-2017,SLV,2.2,SLV,El Salvador
-2018,SLV,0.0,SLV,El Salvador
-2019,SLV,0.0,SLV,El Salvador
-2020,SLV,0.0,SLV,El Salvador
-2021,SLV,0.0,SLV,El Salvador
-2022,SLV,0.0,SLV,El Salvador
-2018,SXM,0.0,SXM,San Martín (parte holandesa)
-2020,SXM,0.0,SXM,San Martín (parte holandesa)
-2021,SXM,0.0,SXM,San Martín (parte holandesa)
-2022,SXM,0.0,SXM,San Martín (parte holandesa)
-2018,SYR,0.0,SYR,Siria
-2021,SYR,0.0,SYR,Siria
-2016,SWZ,0.0,SWZ,Eswatini
-2017,SWZ,0.0,SWZ,Eswatini
-2018,SWZ,0.0,SWZ,Eswatini
-2019,SWZ,0.0,SWZ,Eswatini
-2020,SWZ,0.0,SWZ,Eswatini
-2021,SWZ,0.0,SWZ,Eswatini
-2018,TCA,0.0,TCA,Islas Turcas y Caicos
-2019,TCA,0.0,TCA,Islas Turcas y Caicos
-2020,TCA,0.0,TCA,Islas Turcas y Caicos
-2015,TCD,0.0,TCD,Chad
-2016,TCD,0.0,TCD,Chad
-2017,TCD,0.0,TCD,Chad
-2021,ATF,0.0,ATF,Tierras Australes Francesas
-2017,TGO,0.0,TGO,Togo
-2020,TGO,0.0,TGO,Togo
-2022,TGO,0.0,TGO,Togo
-2015,THA,0.2,THA,Tailandia
-2016,THA,0.3,THA,Tailandia
-2017,THA,0.6,THA,Tailandia
-2018,THA,0.5,THA,Tailandia
-2019,THA,0.6,THA,Tailandia
-2020,THA,0.5,THA,Tailandia
-2021,THA,0.7,THA,Tailandia
-2022,THA,0.7,THA,Tailandia
-2015,TKL,0.0,TKL,Tokelau
-2016,TKL,0.0,TKL,Tokelau
-2017,TKL,0.0,TKL,Tokelau
-2021,TKL,0.0,TKL,Tokelau
-2022,TKL,0.0,TKL,Tokelau
-2020,TLS,0.0,TLS,Timor-Leste
-2015,TUN,0.0,TUN,Túnez
-2016,TUN,0.0,TUN,Túnez
-2017,TUN,0.0,TUN,Túnez
-2018,TUN,0.0,TUN,Túnez
-2019,TUN,0.0,TUN,Túnez
-2020,TUN,0.0,TUN,Túnez
-2021,TUN,0.0,TUN,Túnez
-2022,TUN,0.0,TUN,Túnez
-2018,TON,0.0,TON,Tonga
-2015,TUR,0.7,TUR,Turquía
-2016,TUR,0.9,TUR,Turquía
-2017,TUR,0.0,TUR,Turquía
-2018,TUR,0.0,TUR,Turquía
-2019,TUR,0.0,TUR,Turquía
-2020,TUR,0.0,TUR,Turquía
-2021,TUR,0.0,TUR,Turquía
-2022,TUR,0.1,TUR,Turquía
-2015,TTO,0.4,TTO,Trinidad y Tobago
-2016,TTO,0.1,TTO,Trinidad y Tobago
-2017,TTO,0.0,TTO,Trinidad y Tobago
-2018,TTO,0.0,TTO,Trinidad y Tobago
-2019,TTO,0.0,TTO,Trinidad y Tobago
-2020,TTO,0.1,TTO,Trinidad y Tobago
-2021,TTO,0.0,TTO,Trinidad y Tobago
-2022,TTO,0.0,TTO,Trinidad y Tobago
-2018,TUV,0.0,TUV,Tuvalu
-2019,TUV,0.0,TUV,Tuvalu
-2020,TUV,0.0,TUV,Tuvalu
-2022,TUV,0.0,TUV,Tuvalu
-2015,TWN,1.4,TWN,Taiwán
-2016,TWN,2.1,TWN,Taiwán
-2017,TWN,0.2,TWN,Taiwán
-2018,TWN,0.0,TWN,Taiwán
-2019,TWN,0.0,TWN,Taiwán
-2020,TWN,0.0,TWN,Taiwán
-2021,TWN,0.0,TWN,Taiwán
-2022,TWN,0.0,TWN,Taiwán
-2015,TZA,0.0,TZA,Tanzanía
-2016,TZA,0.0,TZA,Tanzanía
-2017,TZA,0.0,TZA,Tanzanía
-2018,TZA,0.0,TZA,Tanzanía
-2019,TZA,0.0,TZA,Tanzanía
-2020,TZA,0.0,TZA,Tanzanía
-2021,TZA,0.0,TZA,Tanzanía
-2022,TZA,0.0,TZA,Tanzanía
-2015,UKR,0.0,UKR,Ucrania
-2016,UKR,0.0,UKR,Ucrania
-2017,UKR,0.0,UKR,Ucrania
-2018,UKR,0.0,UKR,Ucrania
-2019,UKR,0.0,UKR,Ucrania
-2020,UKR,0.0,UKR,Ucrania
-2021,UKR,0.0,UKR,Ucrania
-2022,UKR,0.0,UKR,Ucrania
-2015,UGA,0.0,UGA,Uganda
-2016,UGA,0.0,UGA,Uganda
-2017,UGA,0.0,UGA,Uganda
-2018,UGA,0.0,UGA,Uganda
-2019,UGA,0.0,UGA,Uganda
-2020,UGA,0.0,UGA,Uganda
-2021,UGA,0.0,UGA,Uganda
-2022,UGA,0.0,UGA,Uganda
-2015,UMI,0.0,UMI,Islas menores alejadas de EEUU
-2019,UMI,0.0,UMI,Islas menores alejadas de EEUU
-2020,UMI,0.0,UMI,Islas menores alejadas de EEUU
-2015,USA,2392.9,USA,Estados Unidos
-2016,USA,2736.0,USA,Estados Unidos
-2017,USA,3512.9,USA,Estados Unidos
-2018,USA,3211.4,USA,Estados Unidos
-2019,USA,2977.8,USA,Estados Unidos
-2020,USA,2752.2,USA,Estados Unidos
-2021,USA,2837.1,USA,Estados Unidos
-2022,USA,3539.2,USA,Estados Unidos
-2015,URY,217.5,URY,Uruguay
-2016,URY,300.8,URY,Uruguay
-2017,URY,360.0,URY,Uruguay
-2018,URY,321.8,URY,Uruguay
-2019,URY,296.2,URY,Uruguay
-2020,URY,193.7,URY,Uruguay
-2021,URY,257.6,URY,Uruguay
-2022,URY,297.0,URY,Uruguay
-2017,UZB,0.0,UZB,Uzbekistán
-2020,UZB,0.0,UZB,Uzbekistán
-2021,UZB,0.0,UZB,Uzbekistán
-2017,VAT,0.0,VAT,Vaticano
-2018,VAT,0.0,VAT,Vaticano
-2019,VAT,0.0,VAT,Vaticano
-2020,VAT,0.0,VAT,Vaticano
-2021,VAT,0.0,VAT,Vaticano
-2015,VCT,0.0,VCT,San Vicente y las Granadinas
-2016,VCT,0.0,VCT,San Vicente y las Granadinas
-2017,VCT,0.0,VCT,San Vicente y las Granadinas
-2018,VCT,0.0,VCT,San Vicente y las Granadinas
-2019,VCT,0.0,VCT,San Vicente y las Granadinas
-2020,VCT,0.0,VCT,San Vicente y las Granadinas
-2015,VEN,33.7,VEN,Venezuela
-2016,VEN,25.4,VEN,Venezuela
-2017,VEN,16.3,VEN,Venezuela
-2018,VEN,13.0,VEN,Venezuela
-2019,VEN,0.0,VEN,Venezuela
-2020,VEN,3.7,VEN,Venezuela
-2021,VEN,0.0,VEN,Venezuela
-2022,VEN,0.0,VEN,Venezuela
-2015,VGB,0.7,VGB,Islas Vírgenes Británicas
-2016,VGB,1.3,VGB,Islas Vírgenes Británicas
-2017,VGB,1.6,VGB,Islas Vírgenes Británicas
-2018,VGB,1.5,VGB,Islas Vírgenes Británicas
-2019,VGB,1.9,VGB,Islas Vírgenes Británicas
-2020,VGB,1.7,VGB,Islas Vírgenes Británicas
-2021,VGB,0.8,VGB,Islas Vírgenes Británicas
-2022,VGB,0.0,VGB,Islas Vírgenes Británicas
-2015,VIR,0.0,VIR,Islas Vírgenes de EEUU
-2016,VIR,0.0,VIR,Islas Vírgenes de EEUU
-2017,VIR,0.0,VIR,Islas Vírgenes de EEUU
-2018,VIR,0.0,VIR,Islas Vírgenes de EEUU
-2019,VIR,0.0,VIR,Islas Vírgenes de EEUU
-2020,VIR,0.0,VIR,Islas Vírgenes de EEUU
-2021,VIR,0.0,VIR,Islas Vírgenes de EEUU
-2022,VIR,0.0,VIR,Islas Vírgenes de EEUU
-2015,VNM,0.4,VNM,Vietnam
-2016,VNM,0.0,VNM,Vietnam
-2017,VNM,0.0,VNM,Vietnam
-2018,VNM,0.0,VNM,Vietnam
-2019,VNM,0.0,VNM,Vietnam
-2020,VNM,0.0,VNM,Vietnam
-2021,VNM,0.0,VNM,Vietnam
-2022,VNM,0.0,VNM,Vietnam
-2018,WSM,0.0,WSM,Samoa
-2020,WSM,0.0,WSM,Samoa
-2021,WSM,0.0,WSM,Samoa
-2022,WSM,0.0,WSM,Samoa
-2020,YEM,0.0,YEM,Yemen
-2018,MYT,0.0,MYT,Mayotte
-2019,MYT,0.0,MYT,Mayotte
-2015,ZAF,1.7,ZAF,Sudáfrica
-2016,ZAF,1.5,ZAF,Sudáfrica
-2017,ZAF,2.2,ZAF,Sudáfrica
-2018,ZAF,2.7,ZAF,Sudáfrica
-2019,ZAF,3.2,ZAF,Sudáfrica
-2020,ZAF,1.8,ZAF,Sudáfrica
-2021,ZAF,2.7,ZAF,Sudáfrica
-2022,ZAF,2.2,ZAF,Sudáfrica
-2015,ZMB,0.0,ZMB,Zambia
-2016,ZMB,0.0,ZMB,Zambia
-2017,ZMB,0.0,ZMB,Zambia
-2018,ZMB,0.0,ZMB,Zambia
-2019,ZMB,0.0,ZMB,Zambia
-2020,ZMB,0.0,ZMB,Zambia
-2021,ZMB,0.0,ZMB,Zambia
-2015,ZWE,0.0,ZWE,Zimbabwe
-2016,ZWE,0.0,ZWE,Zimbabwe
-2017,ZWE,0.0,ZWE,Zimbabwe
-2018,ZWE,0.0,ZWE,Zimbabwe
-2021,ZWE,0.0,ZWE,Zimbabwe
-2022,ZWE,0.0,ZWE,Zimbabwe
+geocodigoFundar,geonombreFundar,anio,expo
+NAM,Namibia,2017,0.0
+NAM,Namibia,2019,0.0
+NAM,Namibia,2021,0.0
+NAM,Namibia,2022,0.0
+AND,Andorra,2015,0.1
+AND,Andorra,2016,0.1
+AND,Andorra,2017,0.0
+AND,Andorra,2018,0.0
+AND,Andorra,2019,0.2
+AND,Andorra,2020,0.0
+AND,Andorra,2021,0.0
+AND,Andorra,2022,0.1
+ARE,Emiratos Árabes Unidos,2015,2.9
+ARE,Emiratos Árabes Unidos,2016,3.3
+ARE,Emiratos Árabes Unidos,2017,3.8
+ARE,Emiratos Árabes Unidos,2018,0.0
+ARE,Emiratos Árabes Unidos,2019,0.6
+ARE,Emiratos Árabes Unidos,2020,3.5
+ARE,Emiratos Árabes Unidos,2021,6.3
+ARE,Emiratos Árabes Unidos,2022,8.4
+AFG,Afganistán,2020,0.0
+AFG,Afganistán,2021,0.0
+ATG,Antigua y Barbuda,2017,0.1
+ATG,Antigua y Barbuda,2018,0.0
+AIA,Anguila,2015,0.0
+AIA,Anguila,2016,0.0
+AIA,Anguila,2017,0.0
+AIA,Anguila,2018,0.0
+AIA,Anguila,2019,0.0
+AIA,Anguila,2020,0.0
+ALB,Albania,2015,0.0
+ALB,Albania,2016,0.0
+ALB,Albania,2017,0.0
+ALB,Albania,2018,0.0
+ALB,Albania,2019,0.0
+ALB,Albania,2020,0.0
+ALB,Albania,2021,0.0
+ALB,Albania,2022,0.0
+ARM,Armenia,2015,2.4
+ARM,Armenia,2016,3.1
+ARM,Armenia,2017,0.0
+ARM,Armenia,2018,0.0
+ARM,Armenia,2019,0.0
+ARM,Armenia,2020,0.0
+ARM,Armenia,2021,0.0
+ARM,Armenia,2022,0.0
+AGO,Angola,2015,0.0
+AGO,Angola,2016,0.0
+AGO,Angola,2017,0.0
+AGO,Angola,2018,0.0
+AGO,Angola,2019,0.0
+AGO,Angola,2020,0.0
+AGO,Angola,2021,0.0
+AGO,Angola,2022,0.0
+ATA,Antártida,2019,0.0
+ASM,Samoa Americana,2019,0.0
+ASM,Samoa Americana,2020,0.0
+AUT,Austria,2015,14.2
+AUT,Austria,2016,14.2
+AUT,Austria,2017,5.3
+AUT,Austria,2018,2.9
+AUT,Austria,2019,3.9
+AUT,Austria,2020,0.0
+AUT,Austria,2021,1.8
+AUT,Austria,2022,1.9
+AUS,Australia,2015,6.3
+AUS,Australia,2016,7.2
+AUS,Australia,2017,8.7
+AUS,Australia,2018,0.1
+AUS,Australia,2019,9.2
+AUS,Australia,2020,5.5
+AUS,Australia,2021,7.7
+AUS,Australia,2022,8.6
+ABW,Aruba,2015,0.1
+ABW,Aruba,2016,0.0
+ABW,Aruba,2017,0.0
+ABW,Aruba,2018,0.0
+ABW,Aruba,2019,0.0
+ABW,Aruba,2020,0.0
+ABW,Aruba,2021,0.0
+ABW,Aruba,2022,0.0
+AZE,Azerbaiyán,2017,0.0
+AZE,Azerbaiyán,2018,0.0
+AZE,Azerbaiyán,2019,0.0
+AZE,Azerbaiyán,2020,0.0
+AZE,Azerbaiyán,2021,0.0
+AZE,Azerbaiyán,2022,0.0
+BIH,Bosnia y Herzegovina,2015,0.0
+BIH,Bosnia y Herzegovina,2016,0.1
+BIH,Bosnia y Herzegovina,2017,0.0
+BIH,Bosnia y Herzegovina,2018,0.0
+BIH,Bosnia y Herzegovina,2019,0.0
+BIH,Bosnia y Herzegovina,2020,0.0
+BIH,Bosnia y Herzegovina,2021,0.0
+BIH,Bosnia y Herzegovina,2022,0.0
+BRB,Barbados,2015,0.0
+BRB,Barbados,2016,0.2
+BRB,Barbados,2017,0.0
+BRB,Barbados,2018,0.2
+BRB,Barbados,2019,0.0
+BRB,Barbados,2020,0.0
+BRB,Barbados,2021,0.0
+BRB,Barbados,2022,0.0
+BGD,Bangladesh,2015,0.0
+BGD,Bangladesh,2016,0.0
+BGD,Bangladesh,2017,0.0
+BGD,Bangladesh,2018,0.0
+BGD,Bangladesh,2019,0.0
+BGD,Bangladesh,2020,0.0
+BGD,Bangladesh,2021,0.0
+BGD,Bangladesh,2022,0.0
+BEL,Bélgica,2015,164.4
+BEL,Bélgica,2016,155.3
+BEL,Bélgica,2017,152.9
+BEL,Bélgica,2018,120.6
+BEL,Bélgica,2019,98.9
+BEL,Bélgica,2020,107.7
+BEL,Bélgica,2021,120.1
+BEL,Bélgica,2022,162.9
+BFA,Burkina Faso,2017,0.0
+BFA,Burkina Faso,2020,0.0
+BGR,Bulgaria,2015,0.0
+BGR,Bulgaria,2016,0.0
+BGR,Bulgaria,2017,0.1
+BGR,Bulgaria,2018,0.2
+BGR,Bulgaria,2019,0.0
+BGR,Bulgaria,2020,0.0
+BGR,Bulgaria,2021,0.0
+BGR,Bulgaria,2022,0.0
+BHR,Bahrein,2015,0.0
+BHR,Bahrein,2016,0.0
+BHR,Bahrein,2017,0.0
+BHR,Bahrein,2018,0.0
+BHR,Bahrein,2019,0.0
+BHR,Bahrein,2020,0.0
+BHR,Bahrein,2021,0.0
+BHR,Bahrein,2022,0.0
+BDI,Burundi,2017,0.0
+BDI,Burundi,2022,0.0
+BEN,Benin,2019,0.0
+BEN,Benin,2020,0.0
+BLM,San Barthélemy,2017,0.0
+BLM,San Barthélemy,2019,0.0
+BLM,San Barthélemy,2020,0.0
+BMU,Bermuda,2015,0.0
+BMU,Bermuda,2016,0.1
+BMU,Bermuda,2017,0.7
+BMU,Bermuda,2018,7.3
+BMU,Bermuda,2019,6.1
+BMU,Bermuda,2020,0.0
+BMU,Bermuda,2021,0.0
+BMU,Bermuda,2022,0.0
+BRN,Brunei,2015,0.0
+BRN,Brunei,2016,0.0
+BRN,Brunei,2017,0.0
+BRN,Brunei,2018,0.0
+BRN,Brunei,2019,0.0
+BRN,Brunei,2020,0.0
+BRN,Brunei,2021,0.0
+BRN,Brunei,2022,0.0
+BOL,Bolivia,2015,22.9
+BOL,Bolivia,2016,20.9
+BOL,Bolivia,2017,33.6
+BOL,Bolivia,2018,19.7
+BOL,Bolivia,2019,26.8
+BOL,Bolivia,2020,22.1
+BOL,Bolivia,2021,21.7
+BOL,Bolivia,2022,15.5
+BRA,Brasil,2015,111.2
+BRA,Brasil,2016,203.3
+BRA,Brasil,2017,276.4
+BRA,Brasil,2018,285.5
+BRA,Brasil,2019,352.0
+BRA,Brasil,2020,241.5
+BRA,Brasil,2021,497.9
+BRA,Brasil,2022,570.2
+BHS,Bahamas,2015,1.5
+BHS,Bahamas,2016,1.9
+BHS,Bahamas,2017,0.0
+BHS,Bahamas,2018,0.0
+BHS,Bahamas,2019,1.1
+BHS,Bahamas,2020,0.0
+BHS,Bahamas,2021,0.0
+BHS,Bahamas,2022,0.7
+BTN,Bhután,2017,0.0
+BTN,Bhután,2020,0.0
+BVT,Bouvet,2015,0.0
+BVT,Bouvet,2016,0.1
+BVT,Bouvet,2017,0.0
+BVT,Bouvet,2018,0.0
+BVT,Bouvet,2019,0.0
+BWA,Botswana,2015,0.0
+BWA,Botswana,2016,0.0
+BWA,Botswana,2017,0.0
+BWA,Botswana,2018,0.0
+BWA,Botswana,2019,0.0
+BWA,Botswana,2020,0.0
+BWA,Botswana,2021,0.0
+BWA,Botswana,2022,0.0
+BLR,Belarús,2019,0.0
+BLR,Belarús,2021,0.0
+BLR,Belarús,2022,0.0
+BLZ,Belice,2015,0.2
+BLZ,Belice,2016,0.2
+BLZ,Belice,2017,0.0
+BLZ,Belice,2018,0.0
+BLZ,Belice,2019,0.0
+BLZ,Belice,2020,0.0
+BLZ,Belice,2021,0.1
+BLZ,Belice,2022,0.0
+CAN,Canadá,2015,18.4
+CAN,Canadá,2016,18.4
+CAN,Canadá,2017,49.7
+CAN,Canadá,2018,46.5
+CAN,Canadá,2019,50.1
+CAN,Canadá,2020,37.2
+CAN,Canadá,2021,42.5
+CAN,Canadá,2022,51.1
+CCK,Islas Cocos,2019,0.0
+CCK,Islas Cocos,2022,0.0
+COD,Rep. Dem. Congo,2017,0.0
+COD,Rep. Dem. Congo,2022,0.0
+CAF,Rep. Centroafricana,2017,0.0
+CAF,Rep. Centroafricana,2019,0.0
+COG,Congo,2017,0.0
+COG,Congo,2018,0.0
+COG,Congo,2020,0.0
+COG,Congo,2022,0.0
+CHE,Suiza,2015,117.4
+CHE,Suiza,2016,147.4
+CHE,Suiza,2017,158.7
+CHE,Suiza,2018,168.5
+CHE,Suiza,2019,230.2
+CHE,Suiza,2020,182.0
+CHE,Suiza,2021,198.7
+CHE,Suiza,2022,193.4
+CIV,Costa de Marfil,2015,0.0
+CIV,Costa de Marfil,2017,0.0
+CIV,Costa de Marfil,2018,0.0
+CIV,Costa de Marfil,2019,0.0
+CIV,Costa de Marfil,2020,0.0
+CIV,Costa de Marfil,2021,0.0
+COK,Islas Cook,2020,0.0
+CHL,Chile,2015,162.7
+CHL,Chile,2016,179.9
+CHL,Chile,2017,210.4
+CHL,Chile,2018,212.0
+CHL,Chile,2019,252.0
+CHL,Chile,2020,221.0
+CHL,Chile,2021,241.6
+CHL,Chile,2022,337.7
+CMR,Camerún,2018,0.0
+CMR,Camerún,2019,0.0
+CMR,Camerún,2020,0.0
+CMR,Camerún,2021,0.0
+CMR,Camerún,2022,0.0
+CHN,China,2015,30.1
+CHN,China,2016,27.0
+CHN,China,2017,58.4
+CHN,China,2018,59.4
+CHN,China,2019,60.2
+CHN,China,2020,45.4
+CHN,China,2021,50.5
+CHN,China,2022,54.2
+COL,Colombia,2015,50.8
+COL,Colombia,2016,58.7
+COL,Colombia,2017,106.5
+COL,Colombia,2018,116.5
+COL,Colombia,2019,127.8
+COL,Colombia,2020,87.2
+COL,Colombia,2021,106.5
+COL,Colombia,2022,105.6
+CRI,Costa Rica,2015,15.2
+CRI,Costa Rica,2016,19.6
+CRI,Costa Rica,2017,27.3
+CRI,Costa Rica,2018,24.3
+CRI,Costa Rica,2019,24.0
+CRI,Costa Rica,2020,25.7
+CRI,Costa Rica,2021,0.4
+CRI,Costa Rica,2022,2.1
+CUB,Cuba,2015,0.5
+CUB,Cuba,2016,0.0
+CUB,Cuba,2017,0.0
+CUB,Cuba,2018,0.0
+CUB,Cuba,2019,0.0
+CUB,Cuba,2020,0.0
+CUB,Cuba,2021,0.0
+CUB,Cuba,2022,0.0
+CPV,Cabo Verde,2018,0.0
+CPV,Cabo Verde,2019,0.0
+CPV,Cabo Verde,2020,0.0
+CPV,Cabo Verde,2021,0.0
+CPV,Cabo Verde,2022,0.0
+CUW,Curazao,2015,0.9
+CUW,Curazao,2016,0.4
+CUW,Curazao,2017,0.0
+CUW,Curazao,2018,0.0
+CUW,Curazao,2019,0.0
+CUW,Curazao,2020,0.0
+CUW,Curazao,2021,0.0
+CUW,Curazao,2022,0.0
+CYP,Chipre,2015,1.0
+CYP,Chipre,2016,1.0
+CYP,Chipre,2017,0.9
+CYP,Chipre,2018,1.2
+CYP,Chipre,2019,1.4
+CYP,Chipre,2020,1.2
+CYP,Chipre,2021,0.6
+CYP,Chipre,2022,0.5
+CZE,Chequia,2015,2.7
+CZE,Chequia,2016,11.4
+CZE,Chequia,2017,0.9
+CZE,Chequia,2018,0.0
+CZE,Chequia,2019,0.0
+CZE,Chequia,2020,12.4
+CZE,Chequia,2021,1.2
+CZE,Chequia,2022,12.3
+DEU,Alemania,2015,103.1
+DEU,Alemania,2016,130.0
+DEU,Alemania,2017,168.9
+DEU,Alemania,2018,180.4
+DEU,Alemania,2019,184.3
+DEU,Alemania,2020,199.9
+DEU,Alemania,2021,156.7
+DEU,Alemania,2022,173.1
+DNK,Dinamarca,2015,27.6
+DNK,Dinamarca,2016,26.9
+DNK,Dinamarca,2017,0.0
+DNK,Dinamarca,2018,21.7
+DNK,Dinamarca,2019,0.1
+DNK,Dinamarca,2020,15.0
+DNK,Dinamarca,2021,0.0
+DNK,Dinamarca,2022,0.0
+DMA,Dominica,2015,0.0
+DMA,Dominica,2016,0.0
+DMA,Dominica,2017,0.0
+DMA,Dominica,2018,0.0
+DMA,Dominica,2020,0.0
+DMA,Dominica,2021,0.0
+DMA,Dominica,2022,0.0
+DOM,Rep. Dominicana,2015,1.0
+DOM,Rep. Dominicana,2016,1.8
+DOM,Rep. Dominicana,2017,0.3
+DOM,Rep. Dominicana,2018,4.9
+DOM,Rep. Dominicana,2019,0.2
+DOM,Rep. Dominicana,2020,2.5
+DOM,Rep. Dominicana,2021,0.0
+DOM,Rep. Dominicana,2022,0.0
+DZA,Argelia,2017,0.0
+DZA,Argelia,2018,0.0
+DZA,Argelia,2019,0.0
+DZA,Argelia,2020,0.0
+DZA,Argelia,2021,0.0
+DZA,Argelia,2022,0.0
+ECU,Ecuador,2015,12.0
+ECU,Ecuador,2016,13.2
+ECU,Ecuador,2017,21.3
+ECU,Ecuador,2018,16.1
+ECU,Ecuador,2019,14.5
+ECU,Ecuador,2020,12.9
+ECU,Ecuador,2021,10.8
+ECU,Ecuador,2022,9.8
+EST,Estonia,2015,0.0
+EST,Estonia,2016,0.0
+EST,Estonia,2017,0.0
+EST,Estonia,2018,0.0
+EST,Estonia,2019,0.0
+EST,Estonia,2020,0.0
+EST,Estonia,2021,0.0
+EST,Estonia,2022,0.0
+EGY,Egipto,2015,0.2
+EGY,Egipto,2016,0.7
+EGY,Egipto,2017,0.0
+EGY,Egipto,2018,0.0
+EGY,Egipto,2019,0.7
+EGY,Egipto,2020,0.0
+EGY,Egipto,2021,0.0
+EGY,Egipto,2022,0.0
+ERI,Eritrea,2019,0.0
+ERI,Eritrea,2022,0.0
+ESP,España,2015,121.7
+ESP,España,2016,144.5
+ESP,España,2017,182.8
+ESP,España,2018,186.0
+ESP,España,2019,183.6
+ESP,España,2020,125.2
+ESP,España,2021,135.8
+ESP,España,2022,162.3
+ETH,Etiopía,2018,0.0
+ETH,Etiopía,2019,0.0
+ETH,Etiopía,2021,0.0
+ETH,Etiopía,2022,0.0
+FIN,Finlandia,2015,3.0
+FIN,Finlandia,2016,3.7
+FIN,Finlandia,2017,0.0
+FIN,Finlandia,2018,0.0
+FIN,Finlandia,2019,7.4
+FIN,Finlandia,2020,8.3
+FIN,Finlandia,2021,0.0
+FIN,Finlandia,2022,0.0
+FJI,Fiji,2018,0.0
+FJI,Fiji,2021,0.0
+FSM,Micronesia,2017,0.0
+FSM,Micronesia,2019,0.0
+FRO,Islas Feroe,2017,0.0
+FRO,Islas Feroe,2018,0.0
+FRA,Francia,2015,94.2
+FRA,Francia,2016,101.5
+FRA,Francia,2017,134.7
+FRA,Francia,2018,101.3
+FRA,Francia,2019,106.6
+FRA,Francia,2020,83.2
+FRA,Francia,2021,87.2
+FRA,Francia,2022,101.9
+GAB,Gabón,2016,0.0
+GAB,Gabón,2017,0.0
+GAB,Gabón,2018,0.0
+GAB,Gabón,2019,0.0
+GAB,Gabón,2020,0.0
+GBR,Reino Unido,2015,196.9
+GBR,Reino Unido,2016,226.9
+GBR,Reino Unido,2017,324.1
+GBR,Reino Unido,2018,310.6
+GBR,Reino Unido,2019,271.6
+GBR,Reino Unido,2020,241.4
+GBR,Reino Unido,2021,395.3
+GBR,Reino Unido,2022,506.5
+GRD,Granada,2016,0.0
+GRD,Granada,2018,0.0
+GRD,Granada,2019,0.0
+GEO,Georgia,2015,0.0
+GEO,Georgia,2016,0.0
+GEO,Georgia,2017,0.0
+GEO,Georgia,2018,0.0
+GEO,Georgia,2019,0.0
+GEO,Georgia,2020,0.0
+GEO,Georgia,2021,0.0
+GEO,Georgia,2022,0.0
+GUF,Guayana Francesa,2021,0.0
+GGY,Guernsey,2018,0.0
+GGY,Guernsey,2019,0.0
+GGY,Guernsey,2020,0.0
+GGY,Guernsey,2021,0.0
+GGY,Guernsey,2022,0.0
+GHA,Ghana,2015,0.0
+GHA,Ghana,2016,0.0
+GHA,Ghana,2017,0.0
+GHA,Ghana,2018,0.0
+GHA,Ghana,2019,0.0
+GHA,Ghana,2020,0.0
+GHA,Ghana,2021,0.0
+GHA,Ghana,2022,0.0
+GIB,Gibraltar,2015,0.0
+GIB,Gibraltar,2016,0.0
+GIB,Gibraltar,2017,0.0
+GIB,Gibraltar,2018,0.0
+GIB,Gibraltar,2019,0.0
+GIB,Gibraltar,2020,0.1
+GIB,Gibraltar,2021,0.1
+GIB,Gibraltar,2022,0.1
+GRL,Groenlandia,2020,0.0
+GMB,Gambia,2017,0.0
+GMB,Gambia,2020,0.0
+GIN,Guinea,2015,0.0
+GIN,Guinea,2016,0.0
+GIN,Guinea,2017,0.0
+GIN,Guinea,2019,0.0
+GLP,Guadalupe,2017,0.0
+GNQ,Guinea Ecuatorial,2015,0.0
+GNQ,Guinea Ecuatorial,2016,0.0
+GNQ,Guinea Ecuatorial,2017,0.0
+GNQ,Guinea Ecuatorial,2018,0.0
+GNQ,Guinea Ecuatorial,2019,0.0
+GNQ,Guinea Ecuatorial,2020,0.0
+GNQ,Guinea Ecuatorial,2021,0.0
+GRC,Grecia,2015,1.1
+GRC,Grecia,2016,0.0
+GRC,Grecia,2017,1.1
+GRC,Grecia,2018,1.0
+GRC,Grecia,2019,0.8
+GRC,Grecia,2020,0.8
+GRC,Grecia,2021,0.6
+GRC,Grecia,2022,0.8
+GTM,Guatemala,2015,2.8
+GTM,Guatemala,2016,4.2
+GTM,Guatemala,2017,7.0
+GTM,Guatemala,2018,7.2
+GTM,Guatemala,2019,9.0
+GTM,Guatemala,2020,2.6
+GTM,Guatemala,2021,2.6
+GTM,Guatemala,2022,0.0
+GUM,Guam,2015,0.0
+GUM,Guam,2016,0.0
+GUM,Guam,2017,0.0
+GUM,Guam,2018,0.0
+GUM,Guam,2020,0.0
+GUM,Guam,2021,0.0
+GUY,Guyana,2015,0.0
+GUY,Guyana,2016,0.0
+GUY,Guyana,2017,0.0
+GUY,Guyana,2018,0.0
+GUY,Guyana,2019,0.0
+GUY,Guyana,2020,0.0
+GUY,Guyana,2021,0.0
+GUY,Guyana,2022,0.0
+HKG,Hong Kong,2015,39.9
+HKG,Hong Kong,2016,27.1
+HKG,Hong Kong,2017,18.7
+HKG,Hong Kong,2018,22.3
+HKG,Hong Kong,2019,1.9
+HKG,Hong Kong,2020,0.0
+HKG,Hong Kong,2021,0.0
+HKG,Hong Kong,2022,0.0
+HND,Honduras,2015,2.3
+HND,Honduras,2016,3.1
+HND,Honduras,2017,0.6
+HND,Honduras,2018,0.0
+HND,Honduras,2019,0.0
+HND,Honduras,2020,0.0
+HND,Honduras,2021,0.0
+HND,Honduras,2022,0.0
+HRV,Croacia,2015,0.0
+HRV,Croacia,2016,0.0
+HRV,Croacia,2017,0.0
+HRV,Croacia,2018,0.0
+HRV,Croacia,2019,0.0
+HRV,Croacia,2020,0.0
+HRV,Croacia,2021,0.0
+HRV,Croacia,2022,0.0
+HTI,Haití,2015,0.0
+HTI,Haití,2016,0.0
+HTI,Haití,2017,0.0
+HTI,Haití,2018,0.0
+HTI,Haití,2019,0.0
+HTI,Haití,2020,0.0
+HTI,Haití,2021,0.0
+HTI,Haití,2022,0.0
+HUN,Hungría,2015,0.1
+HUN,Hungría,2016,0.4
+HUN,Hungría,2017,0.7
+HUN,Hungría,2018,0.2
+HUN,Hungría,2019,0.6
+HUN,Hungría,2020,2.5
+HUN,Hungría,2021,0.0
+HUN,Hungría,2022,0.0
+IDN,Indonesia,2015,0.0
+IDN,Indonesia,2016,0.0
+IDN,Indonesia,2017,0.3
+IDN,Indonesia,2018,0.0
+IDN,Indonesia,2019,0.0
+IDN,Indonesia,2020,0.0
+IDN,Indonesia,2021,0.0
+IDN,Indonesia,2022,0.7
+IRL,Irlanda,2015,124.0
+IRL,Irlanda,2016,117.9
+IRL,Irlanda,2017,71.7
+IRL,Irlanda,2018,104.0
+IRL,Irlanda,2019,201.4
+IRL,Irlanda,2020,155.5
+IRL,Irlanda,2021,379.4
+IRL,Irlanda,2022,364.9
+ISR,Israel,2015,2.5
+ISR,Israel,2016,3.7
+ISR,Israel,2017,0.0
+ISR,Israel,2018,3.0
+ISR,Israel,2019,0.1
+ISR,Israel,2020,1.6
+ISR,Israel,2021,0.9
+ISR,Israel,2022,1.1
+IMN,Isla de Man,2015,0.0
+IMN,Isla de Man,2016,0.0
+IMN,Isla de Man,2017,0.0
+IMN,Isla de Man,2018,0.0
+IMN,Isla de Man,2019,0.0
+IMN,Isla de Man,2020,0.0
+IMN,Isla de Man,2021,0.0
+IMN,Isla de Man,2022,0.1
+IND,India,2015,14.0
+IND,India,2016,11.5
+IND,India,2017,0.0
+IND,India,2018,0.0
+IND,India,2019,0.0
+IND,India,2020,0.0
+IND,India,2021,0.0
+IND,India,2022,0.0
+IOT,Territorio Británico del Océano Índico,2020,0.0
+IOT,Territorio Británico del Océano Índico,2021,0.0
+IOT,Territorio Británico del Océano Índico,2022,0.0
+IRQ,Iraq,2018,0.0
+IRQ,Iraq,2019,0.0
+IRQ,Iraq,2020,0.0
+IRQ,Iraq,2021,0.0
+IRQ,Iraq,2022,0.0
+IRN,Irán,2015,0.0
+IRN,Irán,2016,0.0
+IRN,Irán,2017,0.0
+IRN,Irán,2019,0.0
+IRN,Irán,2020,0.0
+IRN,Irán,2021,0.0
+IRN,Irán,2022,0.0
+ISL,Islandia,2015,0.0
+ISL,Islandia,2016,0.0
+ISL,Islandia,2017,0.0
+ISL,Islandia,2018,0.0
+ISL,Islandia,2019,0.0
+ISL,Islandia,2020,0.0
+ISL,Islandia,2022,0.0
+ITA,Italia,2015,22.6
+ITA,Italia,2016,33.1
+ITA,Italia,2017,56.3
+ITA,Italia,2018,56.3
+ITA,Italia,2019,35.8
+ITA,Italia,2020,25.7
+ITA,Italia,2021,26.2
+ITA,Italia,2022,28.9
+JEY,Jersey,2015,0.0
+JEY,Jersey,2016,0.0
+JEY,Jersey,2017,0.0
+JEY,Jersey,2018,0.0
+JEY,Jersey,2019,0.0
+JEY,Jersey,2020,0.0
+JEY,Jersey,2021,0.0
+JEY,Jersey,2022,0.0
+JAM,Jamaica,2015,0.0
+JAM,Jamaica,2016,0.1
+JAM,Jamaica,2017,0.0
+JAM,Jamaica,2018,0.8
+JAM,Jamaica,2019,0.0
+JAM,Jamaica,2020,0.0
+JAM,Jamaica,2021,0.0
+JAM,Jamaica,2022,0.0
+JOR,Jordania,2015,0.0
+JOR,Jordania,2016,0.0
+JOR,Jordania,2017,0.0
+JOR,Jordania,2018,0.0
+JOR,Jordania,2019,0.0
+JOR,Jordania,2020,0.0
+JOR,Jordania,2021,0.0
+JOR,Jordania,2022,0.0
+JPN,Japón,2015,21.9
+JPN,Japón,2016,24.2
+JPN,Japón,2017,0.0
+JPN,Japón,2018,0.6
+JPN,Japón,2019,0.0
+JPN,Japón,2020,0.3
+JPN,Japón,2021,25.0
+JPN,Japón,2022,23.1
+KEN,Kenia,2015,0.0
+KEN,Kenia,2016,0.1
+KEN,Kenia,2017,0.0
+KEN,Kenia,2018,0.0
+KEN,Kenia,2019,0.0
+KEN,Kenia,2020,0.0
+KEN,Kenia,2021,0.0
+KEN,Kenia,2022,0.0
+KHM,Camboya,2018,0.0
+KHM,Camboya,2019,0.0
+KHM,Camboya,2020,0.0
+KHM,Camboya,2021,0.0
+KHM,Camboya,2022,0.0
+KIR,Kiribati,2021,0.0
+KIR,Kiribati,2022,0.0
+COM,Comoras,2019,0.0
+KNA,Saint Kitts y Nevis,2017,0.0
+KNA,Saint Kitts y Nevis,2018,0.0
+KNA,Saint Kitts y Nevis,2019,0.0
+KNA,Saint Kitts y Nevis,2020,0.0
+KNA,Saint Kitts y Nevis,2021,0.0
+PRK,Corea del Norte,2016,0.0
+PRK,Corea del Norte,2017,0.0
+PRK,Corea del Norte,2018,0.0
+PRK,Corea del Norte,2019,0.0
+PRK,Corea del Norte,2020,0.0
+PRK,Corea del Norte,2021,0.0
+PRK,Corea del Norte,2022,0.0
+KOR,Corea del Sur,2015,82.1
+KOR,Corea del Sur,2016,177.1
+KOR,Corea del Sur,2017,0.0
+KOR,Corea del Sur,2018,0.0
+KOR,Corea del Sur,2019,0.1
+KOR,Corea del Sur,2020,0.0
+KOR,Corea del Sur,2021,0.0
+KOR,Corea del Sur,2022,148.5
+KWT,Kuwait,2015,0.1
+KWT,Kuwait,2016,0.2
+KWT,Kuwait,2017,0.0
+KWT,Kuwait,2018,1.1
+KWT,Kuwait,2019,0.0
+KWT,Kuwait,2020,0.0
+KWT,Kuwait,2021,0.0
+KWT,Kuwait,2022,0.1
+CYM,Islas Caimán,2015,1.4
+CYM,Islas Caimán,2016,2.1
+CYM,Islas Caimán,2017,0.0
+CYM,Islas Caimán,2018,0.0
+CYM,Islas Caimán,2019,0.0
+CYM,Islas Caimán,2020,0.4
+CYM,Islas Caimán,2021,0.0
+CYM,Islas Caimán,2022,0.0
+KAZ,Kazajstán,2015,0.0
+KAZ,Kazajstán,2016,0.0
+KAZ,Kazajstán,2017,0.0
+KAZ,Kazajstán,2018,0.0
+KAZ,Kazajstán,2019,0.0
+KAZ,Kazajstán,2020,0.0
+KAZ,Kazajstán,2021,0.0
+KAZ,Kazajstán,2022,0.0
+LAO,Laos,2018,0.0
+LAO,Laos,2020,0.0
+LBN,Líbano,2015,0.1
+LBN,Líbano,2016,0.3
+LBN,Líbano,2017,0.2
+LBN,Líbano,2018,0.1
+LBN,Líbano,2019,0.1
+LBN,Líbano,2020,0.0
+LBN,Líbano,2021,0.0
+LBN,Líbano,2022,0.0
+LCA,Santa Lucía,2015,0.2
+LCA,Santa Lucía,2016,0.2
+LCA,Santa Lucía,2017,0.0
+LCA,Santa Lucía,2018,0.0
+LCA,Santa Lucía,2019,0.0
+LCA,Santa Lucía,2020,0.0
+LCA,Santa Lucía,2021,0.0
+LIE,Liechtenstein,2015,0.4
+LIE,Liechtenstein,2016,0.2
+LIE,Liechtenstein,2017,0.0
+LIE,Liechtenstein,2018,0.0
+LIE,Liechtenstein,2019,0.0
+LIE,Liechtenstein,2020,0.1
+LIE,Liechtenstein,2021,0.1
+LIE,Liechtenstein,2022,0.0
+LKA,Sri Lanka,2015,0.0
+LKA,Sri Lanka,2016,0.0
+LKA,Sri Lanka,2017,0.0
+LKA,Sri Lanka,2018,0.0
+LKA,Sri Lanka,2019,0.0
+LKA,Sri Lanka,2020,0.0
+LKA,Sri Lanka,2021,0.0
+LKA,Sri Lanka,2022,0.0
+LBR,Liberia,2015,0.6
+LBR,Liberia,2016,0.9
+LBR,Liberia,2017,0.0
+LBR,Liberia,2018,0.0
+LBR,Liberia,2019,0.0
+LBR,Liberia,2020,0.0
+LBR,Liberia,2021,0.0
+LBR,Liberia,2022,0.0
+LSO,Lesotho,2017,0.0
+LSO,Lesotho,2018,0.0
+LTU,Lituania,2015,0.0
+LTU,Lituania,2016,0.2
+LTU,Lituania,2017,0.0
+LTU,Lituania,2018,0.0
+LTU,Lituania,2019,0.0
+LTU,Lituania,2020,0.0
+LTU,Lituania,2021,0.1
+LTU,Lituania,2022,0.2
+LUX,Luxemburgo,2015,23.5
+LUX,Luxemburgo,2016,19.4
+LUX,Luxemburgo,2017,24.8
+LUX,Luxemburgo,2018,0.0
+LUX,Luxemburgo,2019,0.0
+LUX,Luxemburgo,2020,18.3
+LUX,Luxemburgo,2021,19.7
+LUX,Luxemburgo,2022,22.9
+LVA,Letonia,2015,0.0
+LVA,Letonia,2016,0.0
+LVA,Letonia,2017,0.0
+LVA,Letonia,2018,0.0
+LVA,Letonia,2019,0.0
+LVA,Letonia,2020,0.0
+LVA,Letonia,2021,0.0
+LVA,Letonia,2022,0.0
+LBY,Libia,2015,0.0
+LBY,Libia,2016,0.0
+LBY,Libia,2017,0.0
+LBY,Libia,2018,0.0
+LBY,Libia,2019,0.0
+LBY,Libia,2022,0.0
+MAR,Marruecos,2015,0.0
+MAR,Marruecos,2016,0.0
+MAR,Marruecos,2017,0.0
+MAR,Marruecos,2018,0.0
+MAR,Marruecos,2019,0.0
+MAR,Marruecos,2020,0.0
+MAR,Marruecos,2021,0.0
+MAR,Marruecos,2022,0.0
+MCO,Mónaco,2015,0.0
+MCO,Mónaco,2016,0.1
+MCO,Mónaco,2017,0.0
+MCO,Mónaco,2018,0.4
+MCO,Mónaco,2019,0.0
+MCO,Mónaco,2020,0.0
+MCO,Mónaco,2021,0.0
+MCO,Mónaco,2022,0.0
+MDA,Moldavia,2015,0.0
+MDA,Moldavia,2016,0.0
+MDA,Moldavia,2017,0.0
+MDA,Moldavia,2018,0.0
+MDA,Moldavia,2019,0.0
+MDA,Moldavia,2020,0.0
+MDA,Moldavia,2021,0.0
+MDA,Moldavia,2022,0.0
+MNE,Montenegro,2015,0.0
+MNE,Montenegro,2016,0.0
+MNE,Montenegro,2017,0.0
+MNE,Montenegro,2018,0.0
+MNE,Montenegro,2019,0.0
+MNE,Montenegro,2021,0.0
+MDG,Madagascar,2021,0.0
+MHL,Islas Marshall,2015,0.2
+MHL,Islas Marshall,2016,0.2
+MHL,Islas Marshall,2017,0.0
+MHL,Islas Marshall,2018,0.0
+MHL,Islas Marshall,2019,0.0
+MHL,Islas Marshall,2020,0.0
+MHL,Islas Marshall,2021,0.0
+MHL,Islas Marshall,2022,0.0
+MKD,Macedonia del Norte,2015,0.0
+MKD,Macedonia del Norte,2016,0.0
+MKD,Macedonia del Norte,2017,0.0
+MKD,Macedonia del Norte,2018,0.0
+MKD,Macedonia del Norte,2019,0.0
+MKD,Macedonia del Norte,2020,0.0
+MKD,Macedonia del Norte,2021,0.0
+MKD,Macedonia del Norte,2022,0.0
+MLI,Malí,2017,0.0
+MLI,Malí,2019,0.0
+MLI,Malí,2020,0.0
+MLI,Malí,2021,0.0
+MLI,Malí,2022,0.0
+MMR,Myanmar,2020,0.0
+MMR,Myanmar,2021,0.0
+MNG,Mongolia,2015,0.1
+MNG,Mongolia,2016,0.1
+MNG,Mongolia,2019,0.0
+MNG,Mongolia,2020,0.0
+MAC,Macao,2017,0.0
+MAC,Macao,2018,0.0
+MAC,Macao,2019,0.0
+MAC,Macao,2020,0.0
+MAC,Macao,2021,0.0
+MAC,Macao,2022,0.0
+MRT,Mauritania,2018,0.0
+MRT,Mauritania,2019,0.0
+MRT,Mauritania,2022,0.0
+MSR,Montserrat,2015,0.0
+MSR,Montserrat,2016,0.0
+MSR,Montserrat,2017,0.0
+MSR,Montserrat,2019,0.0
+MLT,Malta,2015,0.4
+MLT,Malta,2016,0.8
+MLT,Malta,2017,0.0
+MLT,Malta,2018,0.0
+MLT,Malta,2019,0.0
+MLT,Malta,2020,0.0
+MLT,Malta,2021,0.0
+MLT,Malta,2022,0.0
+MUS,Mauricio,2015,0.0
+MUS,Mauricio,2016,0.0
+MUS,Mauricio,2017,0.0
+MUS,Mauricio,2018,0.0
+MUS,Mauricio,2019,0.0
+MUS,Mauricio,2020,0.3
+MUS,Mauricio,2021,0.0
+MUS,Mauricio,2022,0.0
+MDV,Maldivas,2022,0.0
+MWI,Malawi,2015,0.0
+MWI,Malawi,2016,0.0
+MWI,Malawi,2017,0.0
+MEX,México,2015,111.6
+MEX,México,2016,155.4
+MEX,México,2017,211.7
+MEX,México,2018,215.7
+MEX,México,2019,229.7
+MEX,México,2020,161.3
+MEX,México,2021,293.5
+MEX,México,2022,310.8
+MYS,Malasia,2015,0.7
+MYS,Malasia,2016,0.9
+MYS,Malasia,2017,1.4
+MYS,Malasia,2018,0.0
+MYS,Malasia,2019,0.0
+MYS,Malasia,2020,0.8
+MYS,Malasia,2021,0.9
+MYS,Malasia,2022,0.0
+MOZ,Mozambique,2015,0.0
+MOZ,Mozambique,2016,0.0
+MOZ,Mozambique,2017,0.0
+MOZ,Mozambique,2018,0.0
+MOZ,Mozambique,2019,0.0
+MOZ,Mozambique,2020,0.0
+MOZ,Mozambique,2021,0.0
+MOZ,Mozambique,2022,0.0
+NCL,Nueva Caledonia,2015,0.0
+NCL,Nueva Caledonia,2016,0.0
+NCL,Nueva Caledonia,2017,0.0
+NCL,Nueva Caledonia,2018,0.0
+NCL,Nueva Caledonia,2019,0.0
+NER,Níger,2015,0.0
+NER,Níger,2016,0.0
+NER,Níger,2017,0.0
+NER,Níger,2019,0.0
+NGA,Nigeria,2015,0.1
+NGA,Nigeria,2016,0.1
+NGA,Nigeria,2017,0.0
+NGA,Nigeria,2018,0.0
+NGA,Nigeria,2019,0.0
+NGA,Nigeria,2020,0.0
+NGA,Nigeria,2021,0.0
+NGA,Nigeria,2022,0.0
+NIC,Nicaragua,2015,0.7
+NIC,Nicaragua,2016,1.4
+NIC,Nicaragua,2017,0.0
+NIC,Nicaragua,2018,0.0
+NIC,Nicaragua,2019,1.6
+NIC,Nicaragua,2020,0.0
+NIC,Nicaragua,2021,0.0
+NIC,Nicaragua,2022,0.1
+NLD,Países Bajos,2015,155.2
+NLD,Países Bajos,2016,202.4
+NLD,Países Bajos,2017,298.8
+NLD,Países Bajos,2018,275.1
+NLD,Países Bajos,2019,270.5
+NLD,Países Bajos,2020,131.4
+NLD,Países Bajos,2021,168.9
+NLD,Países Bajos,2022,199.8
+NOR,Noruega,2015,7.9
+NOR,Noruega,2016,8.5
+NOR,Noruega,2017,0.0
+NOR,Noruega,2018,6.5
+NOR,Noruega,2019,2.7
+NOR,Noruega,2020,0.0
+NOR,Noruega,2021,0.0
+NOR,Noruega,2022,0.0
+NPL,Nepal,2019,0.0
+NRU,Nauru,2017,0.0
+NRU,Nauru,2018,0.0
+NRU,Nauru,2019,0.0
+NZL,Nueva Zelanda,2015,0.3
+NZL,Nueva Zelanda,2016,0.0
+NZL,Nueva Zelanda,2017,0.5
+NZL,Nueva Zelanda,2018,0.6
+NZL,Nueva Zelanda,2019,0.6
+NZL,Nueva Zelanda,2020,0.6
+NZL,Nueva Zelanda,2021,0.3
+NZL,Nueva Zelanda,2022,0.0
+OMN,Omán,2015,0.0
+OMN,Omán,2016,0.0
+OMN,Omán,2017,0.0
+OMN,Omán,2018,0.0
+OMN,Omán,2019,0.0
+OMN,Omán,2020,0.0
+OMN,Omán,2021,0.0
+OMN,Omán,2022,0.0
+PAN,Panamá,2015,19.3
+PAN,Panamá,2016,24.6
+PAN,Panamá,2017,27.2
+PAN,Panamá,2018,32.2
+PAN,Panamá,2019,38.9
+PAN,Panamá,2020,28.5
+PAN,Panamá,2021,35.3
+PAN,Panamá,2022,34.3
+PER,Perú,2015,34.2
+PER,Perú,2016,49.2
+PER,Perú,2017,72.0
+PER,Perú,2018,70.1
+PER,Perú,2019,77.0
+PER,Perú,2020,48.5
+PER,Perú,2021,50.1
+PER,Perú,2022,57.3
+PYF,Polinesia Francesa,2017,0.0
+PYF,Polinesia Francesa,2018,0.0
+PYF,Polinesia Francesa,2019,0.0
+PYF,Polinesia Francesa,2020,0.0
+PNG,Papúa Nueva Guinea,2018,0.0
+PNG,Papúa Nueva Guinea,2020,0.0
+PHL,Filipinas,2015,0.3
+PHL,Filipinas,2016,0.2
+PHL,Filipinas,2017,0.0
+PHL,Filipinas,2018,0.5
+PHL,Filipinas,2019,0.3
+PHL,Filipinas,2020,0.3
+PHL,Filipinas,2021,1.1
+PHL,Filipinas,2022,1.8
+PAK,Pakistán,2015,0.0
+PAK,Pakistán,2016,0.0
+PAK,Pakistán,2017,0.0
+PAK,Pakistán,2018,0.0
+PAK,Pakistán,2019,0.0
+PAK,Pakistán,2020,0.0
+PAK,Pakistán,2021,0.0
+PAK,Pakistán,2022,0.0
+POL,Polonia,2015,0.8
+POL,Polonia,2016,0.6
+POL,Polonia,2017,0.0
+POL,Polonia,2018,1.0
+POL,Polonia,2019,0.7
+POL,Polonia,2020,0.0
+POL,Polonia,2021,1.1
+POL,Polonia,2022,0.0
+PCN,Pitcairn,2020,0.0
+PCN,Pitcairn,2021,0.0
+PRI,Puerto Rico,2015,3.1
+PRI,Puerto Rico,2016,3.0
+PRI,Puerto Rico,2017,0.0
+PRI,Puerto Rico,2018,0.0
+PRI,Puerto Rico,2019,0.4
+PRI,Puerto Rico,2020,1.9
+PRI,Puerto Rico,2021,0.0
+PRI,Puerto Rico,2022,0.0
+PSE,Palestina,2015,0.0
+PSE,Palestina,2016,0.0
+PSE,Palestina,2017,0.0
+PSE,Palestina,2018,0.0
+PSE,Palestina,2019,0.0
+PSE,Palestina,2020,0.0
+PSE,Palestina,2021,0.0
+PRT,Portugal,2015,0.7
+PRT,Portugal,2016,1.2
+PRT,Portugal,2017,0.0
+PRT,Portugal,2018,0.0
+PRT,Portugal,2019,0.9
+PRT,Portugal,2020,1.0
+PRT,Portugal,2021,1.9
+PRT,Portugal,2022,0.0
+PRY,Paraguay,2015,33.9
+PRY,Paraguay,2016,46.2
+PRY,Paraguay,2017,48.4
+PRY,Paraguay,2018,47.5
+PRY,Paraguay,2019,53.1
+PRY,Paraguay,2020,38.0
+PRY,Paraguay,2021,55.5
+PRY,Paraguay,2022,37.1
+QAT,Qatar,2015,0.0
+QAT,Qatar,2016,0.0
+QAT,Qatar,2017,0.0
+QAT,Qatar,2018,0.0
+QAT,Qatar,2019,0.0
+QAT,Qatar,2020,0.0
+QAT,Qatar,2021,0.0
+QAT,Qatar,2022,0.0
+REU,Reunión,2019,0.0
+REU,Reunión,2020,0.0
+ROU,Rumania,2015,0.0
+ROU,Rumania,2016,0.0
+ROU,Rumania,2017,0.0
+ROU,Rumania,2018,0.0
+ROU,Rumania,2019,0.0
+ROU,Rumania,2020,1.0
+ROU,Rumania,2021,0.0
+ROU,Rumania,2022,0.0
+SRB,Serbia,2015,0.0
+SRB,Serbia,2016,0.0
+SRB,Serbia,2017,0.0
+SRB,Serbia,2018,0.0
+SRB,Serbia,2019,0.0
+SRB,Serbia,2020,0.0
+SRB,Serbia,2021,0.0
+SRB,Serbia,2022,0.0
+RUS,Rusia,2015,2.0
+RUS,Rusia,2016,1.7
+RUS,Rusia,2017,0.0
+RUS,Rusia,2018,0.0
+RUS,Rusia,2019,0.8
+RUS,Rusia,2020,0.7
+RUS,Rusia,2021,0.0
+RUS,Rusia,2022,0.2
+RWA,Ruanda,2015,0.0
+RWA,Ruanda,2016,0.0
+RWA,Ruanda,2017,0.0
+RWA,Ruanda,2019,0.0
+RWA,Ruanda,2020,0.0
+SAU,Arabia Saudita,2015,0.0
+SAU,Arabia Saudita,2016,0.1
+SAU,Arabia Saudita,2017,0.0
+SAU,Arabia Saudita,2018,0.0
+SAU,Arabia Saudita,2019,1.4
+SAU,Arabia Saudita,2020,0.0
+SAU,Arabia Saudita,2021,0.0
+SAU,Arabia Saudita,2022,0.0
+SYC,Seychelles,2015,0.0
+SYC,Seychelles,2016,0.0
+SYC,Seychelles,2017,0.0
+SYC,Seychelles,2018,0.0
+SYC,Seychelles,2019,0.0
+SYC,Seychelles,2020,0.0
+SYC,Seychelles,2022,0.0
+SDN,Sudán,2019,0.0
+SDN,Sudán,2021,0.0
+SDN,Sudán,2022,0.0
+SWE,Suecia,2015,22.6
+SWE,Suecia,2016,9.3
+SWE,Suecia,2017,0.0
+SWE,Suecia,2018,0.0
+SWE,Suecia,2019,4.8
+SWE,Suecia,2020,0.1
+SWE,Suecia,2021,16.1
+SWE,Suecia,2022,29.8
+SGP,Singapur,2015,25.7
+SGP,Singapur,2016,0.0
+SGP,Singapur,2017,0.0
+SGP,Singapur,2018,6.5
+SGP,Singapur,2019,12.5
+SGP,Singapur,2020,6.7
+SGP,Singapur,2021,11.7
+SGP,Singapur,2022,10.0
+SHN,Santa Elena,2019,0.0
+SVN,Eslovenia,2015,0.0
+SVN,Eslovenia,2016,0.0
+SVN,Eslovenia,2017,0.0
+SVN,Eslovenia,2018,0.2
+SVN,Eslovenia,2019,0.2
+SVN,Eslovenia,2020,0.0
+SVN,Eslovenia,2021,0.0
+SVN,Eslovenia,2022,0.0
+SJM,Islas Svalbard y Jan Mayen,2017,0.0
+SJM,Islas Svalbard y Jan Mayen,2020,0.0
+SVK,Eslovaquia,2015,0.0
+SVK,Eslovaquia,2016,0.0
+SVK,Eslovaquia,2017,0.0
+SVK,Eslovaquia,2018,0.0
+SVK,Eslovaquia,2019,0.0
+SVK,Eslovaquia,2020,0.0
+SVK,Eslovaquia,2021,0.0
+SVK,Eslovaquia,2022,0.0
+SLE,Sierra Leona,2017,0.0
+SLE,Sierra Leona,2018,0.0
+SLE,Sierra Leona,2019,0.0
+SLE,Sierra Leona,2020,0.0
+SMR,San Marino,2018,0.0
+SMR,San Marino,2019,0.0
+SMR,San Marino,2021,0.0
+SEN,Senegal,2015,0.0
+SEN,Senegal,2016,0.0
+SEN,Senegal,2017,0.0
+SEN,Senegal,2019,0.0
+SEN,Senegal,2020,0.0
+SEN,Senegal,2021,0.0
+SEN,Senegal,2022,0.0
+SOM,Somalia,2019,0.0
+SUR,Suriname,2018,0.0
+SUR,Suriname,2019,0.0
+SUR,Suriname,2020,0.0
+SUR,Suriname,2021,0.0
+SUR,Suriname,2022,0.0
+SSD,Sudán del Sur,2022,0.0
+STP,Santo Tomé y Príncipe,2018,0.0
+STP,Santo Tomé y Príncipe,2019,0.0
+STP,Santo Tomé y Príncipe,2020,0.1
+STP,Santo Tomé y Príncipe,2021,0.0
+STP,Santo Tomé y Príncipe,2022,0.0
+SLV,El Salvador,2015,0.5
+SLV,El Salvador,2016,0.2
+SLV,El Salvador,2017,2.2
+SLV,El Salvador,2018,0.0
+SLV,El Salvador,2019,0.0
+SLV,El Salvador,2020,0.0
+SLV,El Salvador,2021,0.0
+SLV,El Salvador,2022,0.0
+SXM,San Martín (parte holandesa),2018,0.0
+SXM,San Martín (parte holandesa),2020,0.0
+SXM,San Martín (parte holandesa),2021,0.0
+SXM,San Martín (parte holandesa),2022,0.0
+SYR,Siria,2018,0.0
+SYR,Siria,2021,0.0
+SWZ,Eswatini,2016,0.0
+SWZ,Eswatini,2017,0.0
+SWZ,Eswatini,2018,0.0
+SWZ,Eswatini,2019,0.0
+SWZ,Eswatini,2020,0.0
+SWZ,Eswatini,2021,0.0
+TCA,Islas Turcas y Caicos,2018,0.0
+TCA,Islas Turcas y Caicos,2019,0.0
+TCA,Islas Turcas y Caicos,2020,0.0
+TCD,Chad,2015,0.0
+TCD,Chad,2016,0.0
+TCD,Chad,2017,0.0
+ATF,Tierras Australes Francesas,2021,0.0
+TGO,Togo,2017,0.0
+TGO,Togo,2020,0.0
+TGO,Togo,2022,0.0
+THA,Tailandia,2015,0.2
+THA,Tailandia,2016,0.3
+THA,Tailandia,2017,0.6
+THA,Tailandia,2018,0.5
+THA,Tailandia,2019,0.6
+THA,Tailandia,2020,0.5
+THA,Tailandia,2021,0.7
+THA,Tailandia,2022,0.7
+TKL,Tokelau,2015,0.0
+TKL,Tokelau,2016,0.0
+TKL,Tokelau,2017,0.0
+TKL,Tokelau,2021,0.0
+TKL,Tokelau,2022,0.0
+TLS,Timor-Leste,2020,0.0
+TUN,Túnez,2015,0.0
+TUN,Túnez,2016,0.0
+TUN,Túnez,2017,0.0
+TUN,Túnez,2018,0.0
+TUN,Túnez,2019,0.0
+TUN,Túnez,2020,0.0
+TUN,Túnez,2021,0.0
+TUN,Túnez,2022,0.0
+TON,Tonga,2018,0.0
+TUR,Turquía,2015,0.7
+TUR,Turquía,2016,0.9
+TUR,Turquía,2017,0.0
+TUR,Turquía,2018,0.0
+TUR,Turquía,2019,0.0
+TUR,Turquía,2020,0.0
+TUR,Turquía,2021,0.0
+TUR,Turquía,2022,0.1
+TTO,Trinidad y Tobago,2015,0.4
+TTO,Trinidad y Tobago,2016,0.1
+TTO,Trinidad y Tobago,2017,0.0
+TTO,Trinidad y Tobago,2018,0.0
+TTO,Trinidad y Tobago,2019,0.0
+TTO,Trinidad y Tobago,2020,0.1
+TTO,Trinidad y Tobago,2021,0.0
+TTO,Trinidad y Tobago,2022,0.0
+TUV,Tuvalu,2018,0.0
+TUV,Tuvalu,2019,0.0
+TUV,Tuvalu,2020,0.0
+TUV,Tuvalu,2022,0.0
+TWN,Taiwán,2015,1.4
+TWN,Taiwán,2016,2.1
+TWN,Taiwán,2017,0.2
+TWN,Taiwán,2018,0.0
+TWN,Taiwán,2019,0.0
+TWN,Taiwán,2020,0.0
+TWN,Taiwán,2021,0.0
+TWN,Taiwán,2022,0.0
+TZA,Tanzanía,2015,0.0
+TZA,Tanzanía,2016,0.0
+TZA,Tanzanía,2017,0.0
+TZA,Tanzanía,2018,0.0
+TZA,Tanzanía,2019,0.0
+TZA,Tanzanía,2020,0.0
+TZA,Tanzanía,2021,0.0
+TZA,Tanzanía,2022,0.0
+UKR,Ucrania,2015,0.0
+UKR,Ucrania,2016,0.0
+UKR,Ucrania,2017,0.0
+UKR,Ucrania,2018,0.0
+UKR,Ucrania,2019,0.0
+UKR,Ucrania,2020,0.0
+UKR,Ucrania,2021,0.0
+UKR,Ucrania,2022,0.0
+UGA,Uganda,2015,0.0
+UGA,Uganda,2016,0.0
+UGA,Uganda,2017,0.0
+UGA,Uganda,2018,0.0
+UGA,Uganda,2019,0.0
+UGA,Uganda,2020,0.0
+UGA,Uganda,2021,0.0
+UGA,Uganda,2022,0.0
+UMI,Islas menores alejadas de EEUU,2015,0.0
+UMI,Islas menores alejadas de EEUU,2019,0.0
+UMI,Islas menores alejadas de EEUU,2020,0.0
+USA,Estados Unidos,2015,2392.9
+USA,Estados Unidos,2016,2736.0
+USA,Estados Unidos,2017,3512.9
+USA,Estados Unidos,2018,3211.4
+USA,Estados Unidos,2019,2977.8
+USA,Estados Unidos,2020,2752.2
+USA,Estados Unidos,2021,2837.1
+USA,Estados Unidos,2022,3539.2
+URY,Uruguay,2015,217.5
+URY,Uruguay,2016,300.8
+URY,Uruguay,2017,360.0
+URY,Uruguay,2018,321.8
+URY,Uruguay,2019,296.2
+URY,Uruguay,2020,193.7
+URY,Uruguay,2021,257.6
+URY,Uruguay,2022,297.0
+UZB,Uzbekistán,2017,0.0
+UZB,Uzbekistán,2020,0.0
+UZB,Uzbekistán,2021,0.0
+VAT,Vaticano,2017,0.0
+VAT,Vaticano,2018,0.0
+VAT,Vaticano,2019,0.0
+VAT,Vaticano,2020,0.0
+VAT,Vaticano,2021,0.0
+VCT,San Vicente y las Granadinas,2015,0.0
+VCT,San Vicente y las Granadinas,2016,0.0
+VCT,San Vicente y las Granadinas,2017,0.0
+VCT,San Vicente y las Granadinas,2018,0.0
+VCT,San Vicente y las Granadinas,2019,0.0
+VCT,San Vicente y las Granadinas,2020,0.0
+VEN,Venezuela,2015,33.7
+VEN,Venezuela,2016,25.4
+VEN,Venezuela,2017,16.3
+VEN,Venezuela,2018,13.0
+VEN,Venezuela,2019,0.0
+VEN,Venezuela,2020,3.7
+VEN,Venezuela,2021,0.0
+VEN,Venezuela,2022,0.0
+VGB,Islas Vírgenes Británicas,2015,0.7
+VGB,Islas Vírgenes Británicas,2016,1.3
+VGB,Islas Vírgenes Británicas,2017,1.6
+VGB,Islas Vírgenes Británicas,2018,1.5
+VGB,Islas Vírgenes Británicas,2019,1.9
+VGB,Islas Vírgenes Británicas,2020,1.7
+VGB,Islas Vírgenes Británicas,2021,0.8
+VGB,Islas Vírgenes Británicas,2022,0.0
+VIR,Islas Vírgenes de EEUU,2015,0.0
+VIR,Islas Vírgenes de EEUU,2016,0.0
+VIR,Islas Vírgenes de EEUU,2017,0.0
+VIR,Islas Vírgenes de EEUU,2018,0.0
+VIR,Islas Vírgenes de EEUU,2019,0.0
+VIR,Islas Vírgenes de EEUU,2020,0.0
+VIR,Islas Vírgenes de EEUU,2021,0.0
+VIR,Islas Vírgenes de EEUU,2022,0.0
+VNM,Vietnam,2015,0.4
+VNM,Vietnam,2016,0.0
+VNM,Vietnam,2017,0.0
+VNM,Vietnam,2018,0.0
+VNM,Vietnam,2019,0.0
+VNM,Vietnam,2020,0.0
+VNM,Vietnam,2021,0.0
+VNM,Vietnam,2022,0.0
+WSM,Samoa,2018,0.0
+WSM,Samoa,2020,0.0
+WSM,Samoa,2021,0.0
+WSM,Samoa,2022,0.0
+YEM,Yemen,2020,0.0
+MYT,Mayotte,2018,0.0
+MYT,Mayotte,2019,0.0
+ZAF,Sudáfrica,2015,1.7
+ZAF,Sudáfrica,2016,1.5
+ZAF,Sudáfrica,2017,2.2
+ZAF,Sudáfrica,2018,2.7
+ZAF,Sudáfrica,2019,3.2
+ZAF,Sudáfrica,2020,1.8
+ZAF,Sudáfrica,2021,2.7
+ZAF,Sudáfrica,2022,2.2
+ZMB,Zambia,2015,0.0
+ZMB,Zambia,2016,0.0
+ZMB,Zambia,2017,0.0
+ZMB,Zambia,2018,0.0
+ZMB,Zambia,2019,0.0
+ZMB,Zambia,2020,0.0
+ZMB,Zambia,2021,0.0
+ZWE,Zimbabwe,2015,0.0
+ZWE,Zimbabwe,2016,0.0
+ZWE,Zimbabwe,2017,0.0
+ZWE,Zimbabwe,2018,0.0
+ZWE,Zimbabwe,2021,0.0
+ZWE,Zimbabwe,2022,0.0

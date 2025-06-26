@@ -1,781 +1,781 @@
-"anio","rubro","precio_relativo"
-2006,"Alimentos y bebidas","97.3951199411354"
-2006,"Educación","206.082833572558"
-2006,"Equipamiento y mantenimiento del hogar","97.4174017946873"
-2006,"Esparcimiento","149.538191129326"
-2006,"Indumentaria y calzado","21.0740229862058"
-2006,"Nivel general","100"
-2006,"Otros bienes y servicios","120.672036190865"
-2006,"Salud","186.10312461979"
-2006,"Transporte y comunicaciones","87.7444329190617"
-2006,"Vivienda","93.8945847486932"
-2007,"Alimentos y bebidas","105.755175660267"
-2007,"Educación","212.636944988946"
-2007,"Equipamiento y mantenimiento del hogar","93.5544736854678"
-2007,"Esparcimiento","139.472330090533"
-2007,"Indumentaria y calzado","20.7716818305902"
-2007,"Nivel general","100"
-2007,"Otros bienes y servicios","113.002210572387"
-2007,"Salud","171.873705671985"
-2007,"Transporte y comunicaciones","83.5015833487477"
-2007,"Vivienda","90.3721532291086"
-2008,"Alimentos y bebidas","111.395598257698"
-2008,"Educación","215.831475369471"
-2008,"Equipamiento y mantenimiento del hogar","90.0955298015033"
-2008,"Esparcimiento","136.590741399529"
-2008,"Indumentaria y calzado","21.3765618505196"
-2008,"Nivel general","100"
-2008,"Otros bienes y servicios","106.649236528251"
-2008,"Salud","158.117834097162"
-2008,"Transporte y comunicaciones","79.7406748201231"
-2008,"Vivienda","86.8072610251291"
-2009,"Alimentos y bebidas","107.819676368348"
-2009,"Educación","233.763855782476"
-2009,"Equipamiento y mantenimiento del hogar","93.2896794444056"
-2009,"Esparcimiento","139.777337416565"
-2009,"Indumentaria y calzado","22.2718617130199"
-2009,"Nivel general","100"
-2009,"Otros bienes y servicios","109.645079398727"
-2009,"Salud","160.537462428243"
-2009,"Transporte y comunicaciones","78.074271770651"
-2009,"Vivienda","91.7277380708649"
-2010,"Alimentos y bebidas","118.353859263285"
-2010,"Educación","235.470700476848"
-2010,"Equipamiento y mantenimiento del hogar","88.1611217030626"
-2010,"Esparcimiento","130.211721406017"
-2010,"Indumentaria y calzado","21.3079024695474"
-2010,"Nivel general","100"
-2010,"Otros bienes y servicios","105.608032813763"
-2010,"Salud","149.788063308272"
-2010,"Transporte y comunicaciones","71.7997585416414"
-2010,"Vivienda","86.2656043422187"
-2011,"Alimentos y bebidas","120.882763755947"
-2011,"Educación","247.422520625169"
-2011,"Equipamiento y mantenimiento del hogar","86.6191964821606"
-2011,"Esparcimiento","128.026493207033"
-2011,"Indumentaria y calzado","22.4563801816759"
-2011,"Nivel general","100"
-2011,"Otros bienes y servicios","105.881862332489"
-2011,"Salud","147.138199702661"
-2011,"Transporte y comunicaciones","69.2731050209031"
-2011,"Vivienda","79.9285746559942"
-2012,"Alimentos y bebidas","121.212053482462"
-2012,"Educación","250.5231106033"
-2012,"Equipamiento y mantenimiento del hogar","89.3167309096003"
-2012,"Esparcimiento","124.563027747412"
-2012,"Indumentaria y calzado","23.0187776136093"
-2012,"Nivel general","100"
-2012,"Otros bienes y servicios","105.073888504667"
-2012,"Salud","144.839270438696"
-2012,"Transporte y comunicaciones","68.4676131780747"
-2012,"Vivienda","77.9004761917919"
-2013,"Alimentos y bebidas","121.481458046653"
-2013,"Educación","257.341168269133"
-2013,"Equipamiento y mantenimiento del hogar","88.8890413984747"
-2013,"Esparcimiento","124.237808664577"
-2013,"Indumentaria y calzado","24.2277232031805"
-2013,"Nivel general","100"
-2013,"Otros bienes y servicios","104.44412526346"
-2013,"Salud","139.782630191612"
-2013,"Transporte y comunicaciones","66.6655477012256"
-2013,"Vivienda","78.3881690481955"
-2014,"Alimentos y bebidas","121.662090537447"
-2014,"Educación","246.476164997125"
-2014,"Equipamiento y mantenimiento del hogar","89.4809168994138"
-2014,"Esparcimiento","116.216055417023"
-2014,"Indumentaria y calzado","24.8309160620068"
-2014,"Nivel general","100"
-2014,"Otros bienes y servicios","104.050036398025"
-2014,"Salud","131.210148291758"
-2014,"Transporte y comunicaciones","69.7615040041682"
-2014,"Vivienda","76.5816325412678"
-2015,"Alimentos y bebidas","116.906152077832"
-2015,"Educación","262.138188047876"
-2015,"Equipamiento y mantenimiento del hogar","92.1727691988143"
-2015,"Esparcimiento","127.300178188355"
-2015,"Indumentaria y calzado","25.5962940372183"
-2015,"Nivel general","100"
-2015,"Otros bienes y servicios","111.5080185031"
-2015,"Salud","130.432087384576"
-2015,"Transporte y comunicaciones","68.8707599426863"
-2015,"Vivienda","81.1133835656369"
-2016,"Alimentos y bebidas","113.976659072945"
-2016,"Educación","267.8833294401"
-2016,"Equipamiento y mantenimiento del hogar","94.2239250516001"
-2016,"Esparcimiento","126.654781014365"
-2016,"Indumentaria y calzado","24.0454052765668"
-2016,"Nivel general","100"
-2016,"Otros bienes y servicios","117.420336930831"
-2016,"Salud","132.452609256976"
-2016,"Transporte y comunicaciones","65.7322292845989"
-2016,"Vivienda","98.1355645244844"
-2017,"Alimentos y bebidas","113.319688046513"
-2017,"Educación","287.807276194885"
-2017,"Equipamiento y mantenimiento del hogar","90.238436042343"
-2017,"Esparcimiento","123.729206941474"
-2017,"Indumentaria y calzado","22.8863851291745"
-2017,"Nivel general","100"
-2017,"Otros bienes y servicios","118.585953837753"
-2017,"Salud","138.075180420079"
-2017,"Transporte y comunicaciones","63.4406896483124"
-2017,"Vivienda","110.26311597098"
-2018,"Alimentos y bebidas","110.555475759132"
-2018,"Educación","279.614209949933"
-2018,"Equipamiento y mantenimiento del hogar","89.1319027083451"
-2018,"Esparcimiento","120.022959633064"
-2018,"Indumentaria y calzado","20.9041558516307"
-2018,"Nivel general","100"
-2018,"Otros bienes y servicios","116.00857039566"
-2018,"Salud","137.08293899426"
-2018,"Transporte y comunicaciones","67.5683771087411"
-2018,"Vivienda","125.440968700076"
-2019,"Alimentos y bebidas","111.089978458549"
-2019,"Educación","255.694468282961"
-2019,"Equipamiento y mantenimiento del hogar","91.8364649268088"
-2019,"Esparcimiento","115.31296208754"
-2019,"Indumentaria y calzado","19.6090595613189"
-2019,"Nivel general","100"
-2019,"Otros bienes y servicios","119.291232305646"
-2019,"Salud","146.589249578415"
-2019,"Transporte y comunicaciones","69.2187827595986"
-2019,"Vivienda","121.954614523636"
-2020,"Alimentos y bebidas","113.648065137488"
-2020,"Educación","240.529576059057"
-2020,"Equipamiento y mantenimiento del hogar","95.1645218426031"
-2020,"Esparcimiento","119.990228270839"
-2020,"Indumentaria y calzado","21.7002634778889"
-2020,"Nivel general","100"
-2020,"Otros bienes y servicios","118.627553336934"
-2020,"Salud","147.961758663248"
-2020,"Transporte y comunicaciones","67.157762480235"
-2020,"Vivienda","103.003694323395"
-2021,"Alimentos y bebidas","115.10161911886"
-2021,"Educación","229.103882379508"
-2021,"Equipamiento y mantenimiento del hogar","94.8933658851106"
-2021,"Esparcimiento","121.209461760357"
-2021,"Indumentaria y calzado","24.1637882462949"
-2021,"Nivel general","100"
-2021,"Otros bienes y servicios","106.513649764922"
-2021,"Salud","150.582974023773"
-2021,"Transporte y comunicaciones","67.5682297772053"
-2021,"Vivienda","87.6069179745584"
-2022,"Alimentos y bebidas","118.130537104521"
-2022,"Educación","220.934079976217"
-2022,"Equipamiento y mantenimiento del hogar","93.5732001810623"
-2022,"Esparcimiento","115.29159232628"
-2022,"Indumentaria y calzado","27.5861858923786"
-2022,"Nivel general","100"
-2022,"Otros bienes y servicios","103.540136206449"
-2022,"Salud","148.249838488376"
-2022,"Transporte y comunicaciones","63.8974312927749"
-2022,"Vivienda","77.5011275594009"
-2023,"Alimentos y bebidas","123.866217606124"
-2023,"Educación","203.446402638507"
-2023,"Equipamiento y mantenimiento del hogar","95.8937321027672"
-2023,"Esparcimiento","116.61585709823"
-2023,"Indumentaria y calzado","26.8510996923642"
-2023,"Nivel general","100"
-2023,"Otros bienes y servicios","101.770676420835"
-2023,"Salud","146.326158541308"
-2023,"Transporte y comunicaciones","58.9939229022129"
-2023,"Vivienda","72.0639012856198"
-1947,"Nivel general","100"
-1947,"Alimentos y bebidas","92.3781564975979"
-1947,"Indumentaria y calzado","94.4532737903731"
-1947,"Vivienda","920.698746205011"
-1947,"Equipamiento y mantenimiento del hogar","123.527664756764"
-1947,"Salud","0"
-1947,"Transporte y comunicaciones","0"
-1947,"Esparcimiento","0"
-1947,"Educación","0"
-1947,"Otros bienes y servicios","66.596121146884"
-1948,"Nivel general","100"
-1948,"Alimentos y bebidas","93.2996282122169"
-1948,"Indumentaria y calzado","99.3850188062484"
-1948,"Vivienda","817.563484231404"
-1948,"Equipamiento y mantenimiento del hogar","119.275361258164"
-1948,"Salud","0"
-1948,"Transporte y comunicaciones","0"
-1948,"Esparcimiento","0"
-1948,"Educación","0"
-1948,"Otros bienes y servicios","65.8884743308638"
-1949,"Nivel general","100"
-1949,"Alimentos y bebidas","92.6274730374733"
-1949,"Indumentaria y calzado","107.911773694789"
-1949,"Vivienda","637.449959163656"
-1949,"Equipamiento y mantenimiento del hogar","115.446380044708"
-1949,"Salud","0"
-1949,"Transporte y comunicaciones","0"
-1949,"Esparcimiento","0"
-1949,"Educación","0"
-1949,"Otros bienes y servicios","70.4800404834168"
-1950,"Nivel general","100"
-1950,"Alimentos y bebidas","94.6343447902653"
-1950,"Indumentaria y calzado","104.591110164854"
-1950,"Vivienda","543.350840155765"
-1950,"Equipamiento y mantenimiento del hogar","111.885952973101"
-1950,"Salud","0"
-1950,"Transporte y comunicaciones","0"
-1950,"Esparcimiento","0"
-1950,"Educación","0"
-1950,"Otros bienes y servicios","76.8321446420783"
-1951,"Nivel general","100"
-1951,"Alimentos y bebidas","94.0421162368265"
-1951,"Indumentaria y calzado","112.610676817976"
-1951,"Vivienda","397.703221582975"
-1951,"Equipamiento y mantenimiento del hogar","103.706512522836"
-1951,"Salud","0"
-1951,"Transporte y comunicaciones","0"
-1951,"Esparcimiento","0"
-1951,"Educación","0"
-1951,"Otros bienes y servicios","80.1567763440044"
-1952,"Nivel general","100"
-1952,"Alimentos y bebidas","98.7108497066998"
-1952,"Indumentaria y calzado","109.715078626222"
-1952,"Vivienda","290.499131066844"
-1952,"Equipamiento y mantenimiento del hogar","104.619073015416"
-1952,"Salud","0"
-1952,"Transporte y comunicaciones","0"
-1952,"Esparcimiento","0"
-1952,"Educación","0"
-1952,"Otros bienes y servicios","78.2876247039442"
-1953,"Nivel general","100"
-1953,"Alimentos y bebidas","97.5019727153344"
-1953,"Indumentaria y calzado","113.269842893867"
-1953,"Vivienda","281.034900695811"
-1953,"Equipamiento y mantenimiento del hogar","106.12541144276"
-1953,"Salud","0"
-1953,"Transporte y comunicaciones","0"
-1953,"Esparcimiento","0"
-1953,"Educación","0"
-1953,"Otros bienes y servicios","77.3297812419854"
-1954,"Nivel general","100"
-1954,"Alimentos y bebidas","92.9189986131995"
-1954,"Indumentaria y calzado","121.619281489622"
-1954,"Vivienda","270.824103719614"
-1954,"Equipamiento y mantenimiento del hogar","102.85456495546"
-1954,"Salud","0"
-1954,"Transporte y comunicaciones","0"
-1954,"Esparcimiento","0"
-1954,"Educación","0"
-1954,"Otros bienes y servicios","81.0390867041678"
-1955,"Nivel general","100"
-1955,"Alimentos y bebidas","91.9801621046878"
-1955,"Indumentaria y calzado","123.709397254952"
-1955,"Vivienda","241.491226852124"
-1955,"Equipamiento y mantenimiento del hogar","101.843161166067"
-1955,"Salud","0"
-1955,"Transporte y comunicaciones","0"
-1955,"Esparcimiento","0"
-1955,"Educación","0"
-1955,"Otros bienes y servicios","83.4977239862762"
-1956,"Nivel general","100"
-1956,"Alimentos y bebidas","92.5229018477121"
-1956,"Indumentaria y calzado","118.788152704581"
-1956,"Vivienda","213.315330500311"
-1956,"Equipamiento y mantenimiento del hogar","127.947514795643"
-1956,"Salud","0"
-1956,"Transporte y comunicaciones","0"
-1956,"Esparcimiento","0"
-1956,"Educación","0"
-1956,"Otros bienes y servicios","85.7909043430025"
-1957,"Nivel general","100"
-1957,"Alimentos y bebidas","98.9720959103208"
-1957,"Indumentaria y calzado","107.107117253809"
-1957,"Vivienda","172.653864533974"
-1957,"Equipamiento y mantenimiento del hogar","130.170171067311"
-1957,"Salud","0"
-1957,"Transporte y comunicaciones","0"
-1957,"Esparcimiento","0"
-1957,"Educación","0"
-1957,"Otros bienes y servicios","84.8362677220538"
-1958,"Nivel general","100"
-1958,"Alimentos y bebidas","103.397798626897"
-1958,"Indumentaria y calzado","99.5537711621634"
-1958,"Vivienda","134.737525289237"
-1958,"Equipamiento y mantenimiento del hogar","128.881788630449"
-1958,"Salud","0"
-1958,"Transporte y comunicaciones","0"
-1958,"Esparcimiento","0"
-1958,"Educación","0"
-1958,"Otros bienes y servicios","84.6378576712331"
-1959,"Nivel general","100"
-1959,"Alimentos y bebidas","112.898371248554"
-1959,"Indumentaria y calzado","82.9252504023338"
-1959,"Vivienda","75.8358406559443"
-1959,"Equipamiento y mantenimiento del hogar","158.439485379792"
-1959,"Salud","0"
-1959,"Transporte y comunicaciones","0"
-1959,"Esparcimiento","0"
-1959,"Educación","0"
-1959,"Otros bienes y servicios","77.0533291513962"
-1960,"Nivel general","100"
-1960,"Alimentos y bebidas","108.924326177189"
-1960,"Indumentaria y calzado","93.3084599980117"
-1960,"Vivienda","105.948206869052"
-1960,"Equipamiento y mantenimiento del hogar","130.088805726506"
-1960,"Salud","0"
-1960,"Transporte y comunicaciones","0"
-1960,"Esparcimiento","0"
-1960,"Educación","0"
-1960,"Otros bienes y servicios","78.2716013092779"
-1961,"Nivel general","100"
-1961,"Alimentos y bebidas","104.781810484652"
-1961,"Indumentaria y calzado","101.624736950254"
-1961,"Vivienda","97.8557905977827"
-1961,"Equipamiento y mantenimiento del hogar","123.009954185202"
-1961,"Salud","0"
-1961,"Transporte y comunicaciones","0"
-1961,"Esparcimiento","0"
-1961,"Educación","0"
-1961,"Otros bienes y servicios","81.6616291509502"
-1962,"Nivel general","100"
-1962,"Alimentos y bebidas","105.26382849234"
-1962,"Indumentaria y calzado","97.9567993216352"
-1962,"Vivienda","82.5299517837526"
-1962,"Equipamiento y mantenimiento del hogar","124.257677133721"
-1962,"Salud","0"
-1962,"Transporte y comunicaciones","0"
-1962,"Esparcimiento","0"
-1962,"Educación","0"
-1962,"Otros bienes y servicios","85.946369132894"
-1963,"Nivel general","100"
-1963,"Alimentos y bebidas","104.267091125364"
-1963,"Indumentaria y calzado","98.6747218821208"
-1963,"Vivienda","72.8177604848783"
-1963,"Equipamiento y mantenimiento del hogar","115.807115933504"
-1963,"Salud","0"
-1963,"Transporte y comunicaciones","0"
-1963,"Esparcimiento","0"
-1963,"Educación","0"
-1963,"Otros bienes y servicios","92.7393482779054"
-1964,"Nivel general","100"
-1964,"Alimentos y bebidas","108.279230483836"
-1964,"Indumentaria y calzado","96.7236535332091"
-1964,"Vivienda","61.0338976883315"
-1964,"Equipamiento y mantenimiento del hogar","105.437002304635"
-1964,"Salud","0"
-1964,"Transporte y comunicaciones","0"
-1964,"Esparcimiento","0"
-1964,"Educación","0"
-1964,"Otros bienes y servicios","87.7720537064741"
-1965,"Nivel general","100"
-1965,"Alimentos y bebidas","107.738221907981"
-1965,"Indumentaria y calzado","96.8235162765349"
-1965,"Vivienda","59.5344893153085"
-1965,"Equipamiento y mantenimiento del hogar","106.069005068873"
-1965,"Salud","0"
-1965,"Transporte y comunicaciones","0"
-1965,"Esparcimiento","0"
-1965,"Educación","0"
-1965,"Otros bienes y servicios","90.0382857467189"
-1966,"Nivel general","100"
-1966,"Alimentos y bebidas","102.361563976135"
-1966,"Indumentaria y calzado","98.395361043406"
-1966,"Vivienda","96.4820598960937"
-1966,"Equipamiento y mantenimiento del hogar","102.785699891399"
-1966,"Salud","0"
-1966,"Transporte y comunicaciones","0"
-1966,"Esparcimiento","0"
-1966,"Educación","0"
-1966,"Otros bienes y servicios","94.5061541301247"
-1967,"Nivel general","100"
-1967,"Alimentos y bebidas","102.14432852724"
-1967,"Indumentaria y calzado","98.0962791281348"
-1967,"Vivienda","86.6430005780097"
-1967,"Equipamiento y mantenimiento del hogar","105.12833231075"
-1967,"Salud","0"
-1967,"Transporte y comunicaciones","0"
-1967,"Esparcimiento","0"
-1967,"Educación","0"
-1967,"Otros bienes y servicios","81.5113105727596"
-1968,"Nivel general","100"
-1968,"Alimentos y bebidas","101.788707179039"
-1968,"Indumentaria y calzado","96.5590371613709"
-1968,"Vivienda","87.6648587385471"
-1968,"Equipamiento y mantenimiento del hogar","100.256500214579"
-1968,"Salud","0"
-1968,"Transporte y comunicaciones","0"
-1968,"Esparcimiento","0"
-1968,"Educación","0"
-1968,"Otros bienes y servicios","102.432717556013"
-1969,"Nivel general","100"
-1969,"Alimentos y bebidas","100.371010070113"
-1969,"Indumentaria y calzado","99.1571267761458"
-1969,"Vivienda","85.8022640814225"
-1969,"Equipamiento y mantenimiento del hogar","97.8737853137106"
-1969,"Salud","0"
-1969,"Transporte y comunicaciones","0"
-1969,"Esparcimiento","0"
-1969,"Educación","0"
-1969,"Otros bienes y servicios","104.976483572616"
-1970,"Nivel general","100"
-1970,"Alimentos y bebidas","103.004474538117"
-1970,"Indumentaria y calzado","95.5105950795961"
-1970,"Vivienda","79.8905633966674"
-1970,"Equipamiento y mantenimiento del hogar","92.2771204252301"
-1970,"Salud","0"
-1970,"Transporte y comunicaciones","0"
-1970,"Esparcimiento","0"
-1970,"Educación","0"
-1970,"Otros bienes y servicios","104.059766425007"
-1971,"Nivel general","100"
-1971,"Alimentos y bebidas","108.342401280841"
-1971,"Indumentaria y calzado","83.498319181231"
-1971,"Vivienda","85.2124344916973"
-1971,"Equipamiento y mantenimiento del hogar","95.2197096073898"
-1971,"Salud","0"
-1971,"Transporte y comunicaciones","0"
-1971,"Esparcimiento","0"
-1971,"Educación","0"
-1971,"Otros bienes y servicios","97.8924887088857"
-1972,"Nivel general","100"
-1972,"Alimentos y bebidas","111.535626109306"
-1972,"Indumentaria y calzado","82.0381695351162"
-1972,"Vivienda","67.2870917706337"
-1972,"Equipamiento y mantenimiento del hogar","95.1009939598754"
-1972,"Salud","0"
-1972,"Transporte y comunicaciones","0"
-1972,"Esparcimiento","0"
-1972,"Educación","0"
-1972,"Otros bienes y servicios","94.9507404724812"
-1973,"Nivel general","100"
-1973,"Alimentos y bebidas","107.95079366664"
-1973,"Indumentaria y calzado","80.3325443004803"
-1973,"Vivienda","111.687077469598"
-1973,"Equipamiento y mantenimiento del hogar","93.1376873889558"
-1973,"Salud","0"
-1973,"Transporte y comunicaciones","0"
-1973,"Esparcimiento","0"
-1973,"Educación","0"
-1973,"Otros bienes y servicios","94.3159752323167"
-1974,"Nivel general","100"
-1974,"Alimentos y bebidas","100"
-1974,"Indumentaria y calzado","100"
-1974,"Vivienda","100"
-1974,"Equipamiento y mantenimiento del hogar","100"
-1974,"Salud","100"
-1974,"Transporte y comunicaciones","100"
-1974,"Esparcimiento","100"
-1974,"Educación","100"
-1974,"Otros bienes y servicios","100"
-1975,"Nivel general","100"
-1975,"Alimentos y bebidas","97.1035811763586"
-1975,"Indumentaria y calzado","92.2856782489374"
-1975,"Vivienda","94.5841273613446"
-1975,"Equipamiento y mantenimiento del hogar","122.56627182979"
-1975,"Salud","87.3882136216316"
-1975,"Transporte y comunicaciones","106.801268338519"
-1975,"Esparcimiento","105.525334428434"
-1975,"Educación","105.525334428434"
-1975,"Otros bienes y servicios","98.8097376347439"
-1976,"Nivel general","100"
-1976,"Alimentos y bebidas","102.888626107935"
-1976,"Indumentaria y calzado","74.7073363106642"
-1976,"Vivienda","89.0301404272701"
-1976,"Equipamiento y mantenimiento del hogar","105.105658824268"
-1976,"Salud","97.568397608102"
-1976,"Transporte y comunicaciones","98.5591019158178"
-1976,"Esparcimiento","93.508622325939"
-1976,"Educación","93.5086223259391"
-1976,"Otros bienes y servicios","97.4383981285907"
-1977,"Nivel general","100"
-1977,"Alimentos y bebidas","106.115671470522"
-1977,"Indumentaria y calzado","56.6076349615147"
-1977,"Vivienda","92.9087824751346"
-1977,"Equipamiento y mantenimiento del hogar","87.0310084546975"
-1977,"Salud","104.391566306459"
-1977,"Transporte y comunicaciones","96.6099374452366"
-1977,"Esparcimiento","88.5853718850804"
-1977,"Educación","88.5853718850804"
-1977,"Otros bienes y servicios","98.0459722613419"
-1978,"Nivel general","100"
-1978,"Alimentos y bebidas","101.370799671202"
-1978,"Indumentaria y calzado","51.1869343568757"
-1978,"Vivienda","97.4386522371001"
-1978,"Equipamiento y mantenimiento del hogar","88.469863146463"
-1978,"Salud","111.917020427152"
-1978,"Transporte y comunicaciones","105.46861767186"
-1978,"Esparcimiento","94.3686185067665"
-1978,"Educación","94.3686185067662"
-1978,"Otros bienes y servicios","109.592005671861"
-1979,"Nivel general","100"
-1979,"Alimentos y bebidas","104.946830541368"
-1979,"Indumentaria y calzado","49.3188920598261"
-1979,"Vivienda","94.2404992622311"
-1979,"Equipamiento y mantenimiento del hogar","84.0267165621285"
-1979,"Salud","118.55534516411"
-1979,"Transporte y comunicaciones","95.9573382360594"
-1979,"Esparcimiento","90.3062858180034"
-1979,"Educación","90.3062858180031"
-1979,"Otros bienes y servicios","108.530309635416"
-1980,"Nivel general","100"
-1980,"Alimentos y bebidas","101.978196588126"
-1980,"Indumentaria y calzado","41.5342233089893"
-1980,"Vivienda","96.039082752992"
-1980,"Equipamiento y mantenimiento del hogar","83.7863546810027"
-1980,"Salud","132.778179671684"
-1980,"Transporte y comunicaciones","103.272619699493"
-1980,"Esparcimiento","95.2236476759297"
-1980,"Educación","95.2236476759296"
-1980,"Otros bienes y servicios","115.219969166331"
-1981,"Nivel general","100"
-1981,"Alimentos y bebidas","99.3239401801873"
-1981,"Indumentaria y calzado","36.8398205306719"
-1981,"Vivienda","99.1506050414583"
-1981,"Equipamiento y mantenimiento del hogar","82.0970992613589"
-1981,"Salud","141.326836561412"
-1981,"Transporte y comunicaciones","108.555284303133"
-1981,"Esparcimiento","97.1676181557255"
-1981,"Educación","97.1676181557253"
-1981,"Otros bienes y servicios","122.931781034247"
-1982,"Nivel general","100"
-1982,"Alimentos y bebidas","104.428228216998"
-1982,"Indumentaria y calzado","40.1121912783013"
-1982,"Vivienda","87.5344651261251"
-1982,"Equipamiento y mantenimiento del hogar","83.5737786013141"
-1982,"Salud","121.992260349556"
-1982,"Transporte y comunicaciones","102.687716562699"
-1982,"Esparcimiento","90.9939838454532"
-1982,"Educación","90.9939838454533"
-1982,"Otros bienes y servicios","127.195120882725"
-1983,"Nivel general","100"
-1983,"Alimentos y bebidas","103.306266332533"
-1983,"Indumentaria y calzado","46.2114932409239"
-1983,"Vivienda","91.9445151202906"
-1983,"Equipamiento y mantenimiento del hogar","87.222794415033"
-1983,"Salud","101.636857958397"
-1983,"Transporte y comunicaciones","112.187981572746"
-1983,"Esparcimiento","91.2006862618282"
-1983,"Educación","91.2006862618278"
-1983,"Otros bienes y servicios","115.834686380703"
-1984,"Nivel general","100"
-1984,"Alimentos y bebidas","105.030769139838"
-1984,"Indumentaria y calzado","52.5663109301224"
-1984,"Vivienda","79.1842655285091"
-1984,"Equipamiento y mantenimiento del hogar","91.8448476192864"
-1984,"Salud","100.644021884524"
-1984,"Transporte y comunicaciones","110.999757713332"
-1984,"Esparcimiento","102.832819065844"
-1984,"Educación","102.832819065844"
-1984,"Otros bienes y servicios","102.339164827317"
-1985,"Nivel general","100"
-1985,"Alimentos y bebidas","98.4960006229125"
-1985,"Indumentaria y calzado","39.9093019508252"
-1985,"Vivienda","89.0276121520502"
-1985,"Equipamiento y mantenimiento del hogar","89.94464223249"
-1985,"Salud","130.891696815856"
-1985,"Transporte y comunicaciones","118.577439499218"
-1985,"Esparcimiento","109.010096379554"
-1985,"Educación","109.010096379554"
-1985,"Otros bienes y servicios","117.146328124611"
-1986,"Nivel general","100"
-1986,"Alimentos y bebidas","102.651702155696"
-1986,"Indumentaria y calzado","39.5187238337869"
-1986,"Vivienda","79.1662670887522"
-1986,"Equipamiento y mantenimiento del hogar","77.8037821280492"
-1986,"Salud","154.852216167515"
-1986,"Transporte y comunicaciones","105.432208227469"
-1986,"Esparcimiento","110.277775050519"
-1986,"Educación","110.277775050524"
-1986,"Otros bienes y servicios","114.85291268206"
-1987,"Nivel general","100"
-1987,"Alimentos y bebidas","103.28707816703"
-1987,"Indumentaria y calzado","35.5229444531977"
-1987,"Vivienda","78.3000895464506"
-1987,"Equipamiento y mantenimiento del hogar","73.9014072160451"
-1987,"Salud","155.142620416375"
-1987,"Transporte y comunicaciones","103.314407925231"
-1987,"Esparcimiento","110.848120365828"
-1987,"Educación","110.848120365826"
-1987,"Otros bienes y servicios","123.53408138131"
-1988,"Nivel general","100"
-1988,"Alimentos y bebidas","102.128564479212"
-1988,"Indumentaria y calzado","33.9918631215952"
-1988,"Vivienda","81.2192780040584"
-1988,"Equipamiento y mantenimiento del hogar","80.6556956733038"
-1988,"Salud","131.055337632432"
-1988,"Transporte y comunicaciones","123.296219313347"
-1988,"Esparcimiento","101.969365524177"
-1988,"Educación","101.969365524176"
-1988,"Otros bienes y servicios","122.690407638392"
-1989,"Nivel general","100"
-1989,"Alimentos y bebidas","101.197332358924"
-1989,"Indumentaria y calzado","39.210139075605"
-1989,"Vivienda","71.4636842738965"
-1989,"Equipamiento y mantenimiento del hogar","101.812662185221"
-1989,"Salud","120.057868445958"
-1989,"Transporte y comunicaciones","122.798354993825"
-1989,"Esparcimiento","109.793189779617"
-1989,"Educación","106.612431234507"
-1989,"Otros bienes y servicios","120.40995362723"
-1990,"Nivel general","100"
-1990,"Alimentos y bebidas","93.4599148053912"
-1990,"Indumentaria y calzado","32.1697248694143"
-1990,"Vivienda","85.2429842796814"
-1990,"Equipamiento y mantenimiento del hogar","103.554117576807"
-1990,"Salud","154.966521116109"
-1990,"Transporte y comunicaciones","110.537786724554"
-1990,"Esparcimiento","121.454293220407"
-1990,"Educación","168.172423104545"
-1990,"Otros bienes y servicios","127.214072521516"
-1991,"Nivel general","100"
-1991,"Alimentos y bebidas","89.8268026773037"
-1991,"Indumentaria y calzado","29.7603882669261"
-1991,"Vivienda","93.7263485280058"
-1991,"Equipamiento y mantenimiento del hogar","106.54260514766"
-1991,"Salud","166.957731459966"
-1991,"Transporte y comunicaciones","95.8444214911861"
-1991,"Esparcimiento","128.993828232961"
-1991,"Educación","205.242579017434"
-1991,"Otros bienes y servicios","132.674459936648"
-1992,"Nivel general","100"
-1992,"Alimentos y bebidas","93.618989485073"
-1992,"Indumentaria y calzado","26.3666120155232"
-1992,"Vivienda","100.288345273733"
-1992,"Equipamiento y mantenimiento del hogar","104.163146740209"
-1992,"Salud","171.670217638762"
-1992,"Transporte y comunicaciones","85.9000250180572"
-1992,"Esparcimiento","127.952251450311"
-1992,"Educación","212.164819149976"
-1992,"Otros bienes y servicios","127.985261076112"
-1993,"Nivel general","100"
-1993,"Alimentos y bebidas","93.3540925391205"
-1993,"Indumentaria y calzado","23.6179311616437"
-1993,"Vivienda","107.179056030147"
-1993,"Equipamiento y mantenimiento del hogar","103.549905942389"
-1993,"Salud","182.350797015138"
-1993,"Transporte y comunicaciones","83.4628214210457"
-1993,"Esparcimiento","125.368502255719"
-1993,"Educación","229.804539150683"
-1993,"Otros bienes y servicios","121.782417004097"
-1994,"Nivel general","100"
-1994,"Alimentos y bebidas","90.8592271068506"
-1994,"Indumentaria y calzado","22.1016554861558"
-1994,"Vivienda","111.558595874063"
-1994,"Equipamiento y mantenimiento del hogar","102.210322784164"
-1994,"Salud","193.445383989722"
-1994,"Transporte y comunicaciones","84.447529490785"
-1994,"Esparcimiento","130.332832151884"
-1994,"Educación","238.687804151756"
-1994,"Otros bienes y servicios","119.165397581154"
-1995,"Nivel general","100"
-1995,"Alimentos y bebidas","90.3835310552737"
-1995,"Indumentaria y calzado","20.9510843701298"
-1995,"Vivienda","113.300805350456"
-1995,"Equipamiento y mantenimiento del hogar","100.959765932851"
-1995,"Salud","195.447082189415"
-1995,"Transporte y comunicaciones","86.9545178093332"
-1995,"Esparcimiento","133.153083683353"
-1995,"Educación","240.55013775839"
-1995,"Otros bienes y servicios","117.001838529549"
-1996,"Nivel general","100"
-1996,"Alimentos y bebidas","89.8367842238229"
-1996,"Indumentaria y calzado","20.123335100432"
-1996,"Vivienda","113.446254042265"
-1996,"Equipamiento y mantenimiento del hogar","100.267869320524"
-1996,"Salud","196.475900491821"
-1996,"Transporte y comunicaciones","89.7016204375742"
-1996,"Esparcimiento","133.606952734043"
-1996,"Educación","243.564414584797"
-1996,"Otros bienes y servicios","117.858527194794"
-1997,"Nivel general","100"
-1997,"Alimentos y bebidas","88.7756744046799"
-1997,"Indumentaria y calzado","19.4333143471649"
-1997,"Vivienda","112.192175816608"
-1997,"Equipamiento y mantenimiento del hogar","98.8768206901978"
-1997,"Salud","196.456686434484"
-1997,"Transporte y comunicaciones","98.0009607276868"
-1997,"Esparcimiento","135.012471720049"
-1997,"Educación","243.321687987756"
-1997,"Otros bienes y servicios","116.611215406998"
-1998,"Nivel general","100"
-1998,"Alimentos y bebidas","89.4690202767638"
-1998,"Indumentaria y calzado","18.7798973701738"
-1998,"Vivienda","110.294218152134"
-1998,"Equipamiento y mantenimiento del hogar","97.4807048815366"
-1998,"Salud","195.204767570382"
-1998,"Transporte y comunicaciones","100.865682075737"
-1998,"Esparcimiento","137.2182278954"
-1998,"Educación","242.26341713577"
-1998,"Otros bienes y servicios","114.871621379602"
-1999,"Nivel general","100"
-1999,"Alimentos y bebidas","87.1722454643777"
-1999,"Indumentaria y calzado","18.3020512320323"
-1999,"Vivienda","112.985422135219"
-1999,"Equipamiento y mantenimiento del hogar","97.2496703996623"
-1999,"Salud","199.418715334936"
-1999,"Transporte y comunicaciones","101.726242456952"
-1999,"Esparcimiento","141.6579331869"
-1999,"Educación","246.488052195011"
-1999,"Otros bienes y servicios","115.890533659942"
-2000,"Nivel general","100"
-2000,"Alimentos y bebidas","85.0132161003911"
-2000,"Indumentaria y calzado","17.5280120907322"
-2000,"Vivienda","113.038291722406"
-2000,"Equipamiento y mantenimiento del hogar","95.8613276469999"
-2000,"Salud","202.708251594996"
-2000,"Transporte y comunicaciones","104.609199706809"
-2000,"Esparcimiento","139.835332683671"
-2000,"Educación","245.069652055476"
-2000,"Otros bienes y servicios","117.014286678394"
-2001,"Nivel general","100"
-2001,"Alimentos y bebidas","84.2907100957436"
-2001,"Indumentaria y calzado","16.9044743047579"
-2001,"Vivienda","113.682335085116"
-2001,"Equipamiento y mantenimiento del hogar","95.5971297773179"
-2001,"Salud","207.217366524666"
-2001,"Transporte y comunicaciones","106.179742354217"
-2001,"Esparcimiento","137.120068779368"
-2001,"Educación","244.28810946717"
-2001,"Otros bienes y servicios","118.795115286254"
-2002,"Nivel general","100"
-2002,"Alimentos y bebidas","90.1335795285305"
-2002,"Indumentaria y calzado","18.2454215416585"
-2002,"Vivienda","96.2856408863167"
-2002,"Equipamiento y mantenimiento del hogar","104.435764863619"
-2002,"Salud","199.585438735747"
-2002,"Transporte y comunicaciones","101.417223757377"
-2002,"Esparcimiento","146.467090212285"
-2002,"Educación","201.727733762686"
-2002,"Otros bienes y servicios","122.559370491138"
-2003,"Nivel general","100"
-2003,"Alimentos y bebidas","94.6678635479428"
-2003,"Indumentaria y calzado","19.5552939993137"
-2003,"Vivienda","91.7131379147605"
-2003,"Equipamiento y mantenimiento del hogar","103.033685945797"
-2003,"Salud","190.264187000539"
-2003,"Transporte y comunicaciones","97.5117823162973"
-2003,"Esparcimiento","147.63848282156"
-2003,"Educación","183.374175976394"
-2003,"Otros bienes y servicios","120.6064888645"
-2004,"Nivel general","100"
-2004,"Alimentos y bebidas","95.181678955984"
-2004,"Indumentaria y calzado","19.9812688779795"
-2004,"Vivienda","91.7398927693689"
-2004,"Equipamiento y mantenimiento del hogar","100.917033768283"
-2004,"Salud","189.727695209127"
-2004,"Transporte y comunicaciones","94.7481723477929"
-2004,"Esparcimiento","149.233034770015"
-2004,"Educación","184.37043749538"
-2004,"Otros bienes y servicios","125.552112713054"
-2005,"Nivel general","100"
-2005,"Alimentos y bebidas","96.3309131060413"
-2005,"Indumentaria y calzado","20.2929508930768"
-2005,"Vivienda","93.7072597371712"
-2005,"Equipamiento y mantenimiento del hogar","99.7589332421003"
-2005,"Salud","186.211369727431"
-2005,"Transporte y comunicaciones","90.9897472093212"
-2005,"Esparcimiento","148.44511067828"
-2005,"Educación","190.809056498347"
-2005,"Otros bienes y servicios","127.619447290343"
-2006,"Nivel general","100"
-2006,"Alimentos y bebidas","97.3951199411355"
-2006,"Indumentaria y calzado","21.0740229862058"
-2006,"Vivienda","93.8945847486932"
-2006,"Equipamiento y mantenimiento del hogar","97.4174017946873"
-2006,"Salud","186.10312461979"
-2006,"Transporte y comunicaciones","87.7444329190617"
-2006,"Esparcimiento","149.538191129326"
-2006,"Educación","206.082833572558"
-2006,"Otros bienes y servicios","120.672036190865"
+anio,rubro,precio_relativo
+2006,Alimentos y bebidas,97.3951199411354
+2006,Educación,206.082833572558
+2006,Equipamiento y mantenimiento del hogar,97.4174017946873
+2006,Esparcimiento,149.538191129326
+2006,Indumentaria y calzado,21.0740229862058
+2006,Nivel general,100.0
+2006,Otros bienes y servicios,120.672036190865
+2006,Salud,186.10312461979
+2006,Transporte y comunicaciones,87.7444329190617
+2006,Vivienda,93.8945847486932
+2007,Alimentos y bebidas,105.755175660267
+2007,Educación,212.636944988946
+2007,Equipamiento y mantenimiento del hogar,93.5544736854678
+2007,Esparcimiento,139.472330090533
+2007,Indumentaria y calzado,20.7716818305902
+2007,Nivel general,100.0
+2007,Otros bienes y servicios,113.002210572387
+2007,Salud,171.873705671985
+2007,Transporte y comunicaciones,83.5015833487477
+2007,Vivienda,90.3721532291086
+2008,Alimentos y bebidas,111.395598257698
+2008,Educación,215.831475369471
+2008,Equipamiento y mantenimiento del hogar,90.0955298015033
+2008,Esparcimiento,136.590741399529
+2008,Indumentaria y calzado,21.3765618505196
+2008,Nivel general,100.0
+2008,Otros bienes y servicios,106.649236528251
+2008,Salud,158.117834097162
+2008,Transporte y comunicaciones,79.7406748201231
+2008,Vivienda,86.8072610251291
+2009,Alimentos y bebidas,107.819676368348
+2009,Educación,233.763855782476
+2009,Equipamiento y mantenimiento del hogar,93.2896794444056
+2009,Esparcimiento,139.777337416565
+2009,Indumentaria y calzado,22.2718617130199
+2009,Nivel general,100.0
+2009,Otros bienes y servicios,109.645079398727
+2009,Salud,160.537462428243
+2009,Transporte y comunicaciones,78.074271770651
+2009,Vivienda,91.7277380708649
+2010,Alimentos y bebidas,118.353859263285
+2010,Educación,235.470700476848
+2010,Equipamiento y mantenimiento del hogar,88.1611217030626
+2010,Esparcimiento,130.211721406017
+2010,Indumentaria y calzado,21.3079024695474
+2010,Nivel general,100.0
+2010,Otros bienes y servicios,105.608032813763
+2010,Salud,149.788063308272
+2010,Transporte y comunicaciones,71.7997585416414
+2010,Vivienda,86.2656043422187
+2011,Alimentos y bebidas,120.882763755947
+2011,Educación,247.422520625169
+2011,Equipamiento y mantenimiento del hogar,86.6191964821606
+2011,Esparcimiento,128.026493207033
+2011,Indumentaria y calzado,22.4563801816759
+2011,Nivel general,100.0
+2011,Otros bienes y servicios,105.881862332489
+2011,Salud,147.138199702661
+2011,Transporte y comunicaciones,69.2731050209031
+2011,Vivienda,79.9285746559942
+2012,Alimentos y bebidas,121.212053482462
+2012,Educación,250.5231106033
+2012,Equipamiento y mantenimiento del hogar,89.3167309096003
+2012,Esparcimiento,124.563027747412
+2012,Indumentaria y calzado,23.0187776136093
+2012,Nivel general,100.0
+2012,Otros bienes y servicios,105.073888504667
+2012,Salud,144.839270438696
+2012,Transporte y comunicaciones,68.4676131780747
+2012,Vivienda,77.9004761917919
+2013,Alimentos y bebidas,121.481458046653
+2013,Educación,257.341168269133
+2013,Equipamiento y mantenimiento del hogar,88.8890413984747
+2013,Esparcimiento,124.237808664577
+2013,Indumentaria y calzado,24.2277232031805
+2013,Nivel general,100.0
+2013,Otros bienes y servicios,104.44412526346
+2013,Salud,139.782630191612
+2013,Transporte y comunicaciones,66.6655477012256
+2013,Vivienda,78.3881690481955
+2014,Alimentos y bebidas,121.662090537447
+2014,Educación,246.476164997125
+2014,Equipamiento y mantenimiento del hogar,89.4809168994138
+2014,Esparcimiento,116.216055417023
+2014,Indumentaria y calzado,24.8309160620068
+2014,Nivel general,100.0
+2014,Otros bienes y servicios,104.050036398025
+2014,Salud,131.210148291758
+2014,Transporte y comunicaciones,69.7615040041682
+2014,Vivienda,76.5816325412678
+2015,Alimentos y bebidas,116.906152077832
+2015,Educación,262.138188047876
+2015,Equipamiento y mantenimiento del hogar,92.1727691988143
+2015,Esparcimiento,127.300178188355
+2015,Indumentaria y calzado,25.5962940372183
+2015,Nivel general,100.0
+2015,Otros bienes y servicios,111.5080185031
+2015,Salud,130.432087384576
+2015,Transporte y comunicaciones,68.8707599426863
+2015,Vivienda,81.1133835656369
+2016,Alimentos y bebidas,113.976659072945
+2016,Educación,267.8833294401
+2016,Equipamiento y mantenimiento del hogar,94.2239250516001
+2016,Esparcimiento,126.654781014365
+2016,Indumentaria y calzado,24.0454052765668
+2016,Nivel general,100.0
+2016,Otros bienes y servicios,117.420336930831
+2016,Salud,132.452609256976
+2016,Transporte y comunicaciones,65.7322292845989
+2016,Vivienda,98.1355645244844
+2017,Alimentos y bebidas,113.319688046513
+2017,Educación,287.807276194885
+2017,Equipamiento y mantenimiento del hogar,90.238436042343
+2017,Esparcimiento,123.729206941474
+2017,Indumentaria y calzado,22.8863851291745
+2017,Nivel general,100.0
+2017,Otros bienes y servicios,118.585953837753
+2017,Salud,138.075180420079
+2017,Transporte y comunicaciones,63.4406896483124
+2017,Vivienda,110.26311597098
+2018,Alimentos y bebidas,110.555475759132
+2018,Educación,279.614209949933
+2018,Equipamiento y mantenimiento del hogar,89.1319027083451
+2018,Esparcimiento,120.022959633064
+2018,Indumentaria y calzado,20.9041558516307
+2018,Nivel general,100.0
+2018,Otros bienes y servicios,116.00857039566
+2018,Salud,137.08293899426
+2018,Transporte y comunicaciones,67.5683771087411
+2018,Vivienda,125.440968700076
+2019,Alimentos y bebidas,111.089978458549
+2019,Educación,255.694468282961
+2019,Equipamiento y mantenimiento del hogar,91.8364649268088
+2019,Esparcimiento,115.31296208754
+2019,Indumentaria y calzado,19.6090595613189
+2019,Nivel general,100.0
+2019,Otros bienes y servicios,119.291232305646
+2019,Salud,146.589249578415
+2019,Transporte y comunicaciones,69.2187827595986
+2019,Vivienda,121.954614523636
+2020,Alimentos y bebidas,113.648065137488
+2020,Educación,240.529576059057
+2020,Equipamiento y mantenimiento del hogar,95.1645218426031
+2020,Esparcimiento,119.990228270839
+2020,Indumentaria y calzado,21.7002634778889
+2020,Nivel general,100.0
+2020,Otros bienes y servicios,118.627553336934
+2020,Salud,147.961758663248
+2020,Transporte y comunicaciones,67.157762480235
+2020,Vivienda,103.003694323395
+2021,Alimentos y bebidas,115.10161911886
+2021,Educación,229.103882379508
+2021,Equipamiento y mantenimiento del hogar,94.8933658851106
+2021,Esparcimiento,121.209461760357
+2021,Indumentaria y calzado,24.1637882462949
+2021,Nivel general,100.0
+2021,Otros bienes y servicios,106.513649764922
+2021,Salud,150.582974023773
+2021,Transporte y comunicaciones,67.5682297772053
+2021,Vivienda,87.6069179745584
+2022,Alimentos y bebidas,118.130537104521
+2022,Educación,220.934079976217
+2022,Equipamiento y mantenimiento del hogar,93.5732001810623
+2022,Esparcimiento,115.29159232628
+2022,Indumentaria y calzado,27.5861858923786
+2022,Nivel general,100.0
+2022,Otros bienes y servicios,103.540136206449
+2022,Salud,148.249838488376
+2022,Transporte y comunicaciones,63.8974312927749
+2022,Vivienda,77.5011275594009
+2023,Alimentos y bebidas,123.866217606124
+2023,Educación,203.446402638507
+2023,Equipamiento y mantenimiento del hogar,95.8937321027672
+2023,Esparcimiento,116.61585709823
+2023,Indumentaria y calzado,26.8510996923642
+2023,Nivel general,100.0
+2023,Otros bienes y servicios,101.770676420835
+2023,Salud,146.326158541308
+2023,Transporte y comunicaciones,58.9939229022129
+2023,Vivienda,72.0639012856198
+1947,Nivel general,100.0
+1947,Alimentos y bebidas,92.3781564975979
+1947,Indumentaria y calzado,94.4532737903731
+1947,Vivienda,920.698746205011
+1947,Equipamiento y mantenimiento del hogar,123.527664756764
+1947,Salud,0.0
+1947,Transporte y comunicaciones,0.0
+1947,Esparcimiento,0.0
+1947,Educación,0.0
+1947,Otros bienes y servicios,66.596121146884
+1948,Nivel general,100.0
+1948,Alimentos y bebidas,93.2996282122169
+1948,Indumentaria y calzado,99.3850188062484
+1948,Vivienda,817.563484231404
+1948,Equipamiento y mantenimiento del hogar,119.275361258164
+1948,Salud,0.0
+1948,Transporte y comunicaciones,0.0
+1948,Esparcimiento,0.0
+1948,Educación,0.0
+1948,Otros bienes y servicios,65.8884743308638
+1949,Nivel general,100.0
+1949,Alimentos y bebidas,92.6274730374733
+1949,Indumentaria y calzado,107.911773694789
+1949,Vivienda,637.449959163656
+1949,Equipamiento y mantenimiento del hogar,115.446380044708
+1949,Salud,0.0
+1949,Transporte y comunicaciones,0.0
+1949,Esparcimiento,0.0
+1949,Educación,0.0
+1949,Otros bienes y servicios,70.4800404834168
+1950,Nivel general,100.0
+1950,Alimentos y bebidas,94.6343447902653
+1950,Indumentaria y calzado,104.591110164854
+1950,Vivienda,543.350840155765
+1950,Equipamiento y mantenimiento del hogar,111.885952973101
+1950,Salud,0.0
+1950,Transporte y comunicaciones,0.0
+1950,Esparcimiento,0.0
+1950,Educación,0.0
+1950,Otros bienes y servicios,76.8321446420783
+1951,Nivel general,100.0
+1951,Alimentos y bebidas,94.0421162368265
+1951,Indumentaria y calzado,112.610676817976
+1951,Vivienda,397.703221582975
+1951,Equipamiento y mantenimiento del hogar,103.706512522836
+1951,Salud,0.0
+1951,Transporte y comunicaciones,0.0
+1951,Esparcimiento,0.0
+1951,Educación,0.0
+1951,Otros bienes y servicios,80.1567763440044
+1952,Nivel general,100.0
+1952,Alimentos y bebidas,98.7108497066998
+1952,Indumentaria y calzado,109.715078626222
+1952,Vivienda,290.499131066844
+1952,Equipamiento y mantenimiento del hogar,104.619073015416
+1952,Salud,0.0
+1952,Transporte y comunicaciones,0.0
+1952,Esparcimiento,0.0
+1952,Educación,0.0
+1952,Otros bienes y servicios,78.2876247039442
+1953,Nivel general,100.0
+1953,Alimentos y bebidas,97.5019727153344
+1953,Indumentaria y calzado,113.269842893867
+1953,Vivienda,281.034900695811
+1953,Equipamiento y mantenimiento del hogar,106.12541144276
+1953,Salud,0.0
+1953,Transporte y comunicaciones,0.0
+1953,Esparcimiento,0.0
+1953,Educación,0.0
+1953,Otros bienes y servicios,77.3297812419854
+1954,Nivel general,100.0
+1954,Alimentos y bebidas,92.9189986131995
+1954,Indumentaria y calzado,121.619281489622
+1954,Vivienda,270.824103719614
+1954,Equipamiento y mantenimiento del hogar,102.85456495546
+1954,Salud,0.0
+1954,Transporte y comunicaciones,0.0
+1954,Esparcimiento,0.0
+1954,Educación,0.0
+1954,Otros bienes y servicios,81.0390867041678
+1955,Nivel general,100.0
+1955,Alimentos y bebidas,91.9801621046878
+1955,Indumentaria y calzado,123.709397254952
+1955,Vivienda,241.491226852124
+1955,Equipamiento y mantenimiento del hogar,101.843161166067
+1955,Salud,0.0
+1955,Transporte y comunicaciones,0.0
+1955,Esparcimiento,0.0
+1955,Educación,0.0
+1955,Otros bienes y servicios,83.4977239862762
+1956,Nivel general,100.0
+1956,Alimentos y bebidas,92.5229018477121
+1956,Indumentaria y calzado,118.788152704581
+1956,Vivienda,213.315330500311
+1956,Equipamiento y mantenimiento del hogar,127.947514795643
+1956,Salud,0.0
+1956,Transporte y comunicaciones,0.0
+1956,Esparcimiento,0.0
+1956,Educación,0.0
+1956,Otros bienes y servicios,85.7909043430025
+1957,Nivel general,100.0
+1957,Alimentos y bebidas,98.9720959103208
+1957,Indumentaria y calzado,107.107117253809
+1957,Vivienda,172.653864533974
+1957,Equipamiento y mantenimiento del hogar,130.170171067311
+1957,Salud,0.0
+1957,Transporte y comunicaciones,0.0
+1957,Esparcimiento,0.0
+1957,Educación,0.0
+1957,Otros bienes y servicios,84.8362677220538
+1958,Nivel general,100.0
+1958,Alimentos y bebidas,103.397798626897
+1958,Indumentaria y calzado,99.5537711621634
+1958,Vivienda,134.737525289237
+1958,Equipamiento y mantenimiento del hogar,128.881788630449
+1958,Salud,0.0
+1958,Transporte y comunicaciones,0.0
+1958,Esparcimiento,0.0
+1958,Educación,0.0
+1958,Otros bienes y servicios,84.6378576712331
+1959,Nivel general,100.0
+1959,Alimentos y bebidas,112.898371248554
+1959,Indumentaria y calzado,82.9252504023338
+1959,Vivienda,75.8358406559443
+1959,Equipamiento y mantenimiento del hogar,158.439485379792
+1959,Salud,0.0
+1959,Transporte y comunicaciones,0.0
+1959,Esparcimiento,0.0
+1959,Educación,0.0
+1959,Otros bienes y servicios,77.0533291513962
+1960,Nivel general,100.0
+1960,Alimentos y bebidas,108.924326177189
+1960,Indumentaria y calzado,93.3084599980117
+1960,Vivienda,105.948206869052
+1960,Equipamiento y mantenimiento del hogar,130.088805726506
+1960,Salud,0.0
+1960,Transporte y comunicaciones,0.0
+1960,Esparcimiento,0.0
+1960,Educación,0.0
+1960,Otros bienes y servicios,78.2716013092779
+1961,Nivel general,100.0
+1961,Alimentos y bebidas,104.781810484652
+1961,Indumentaria y calzado,101.624736950254
+1961,Vivienda,97.8557905977827
+1961,Equipamiento y mantenimiento del hogar,123.009954185202
+1961,Salud,0.0
+1961,Transporte y comunicaciones,0.0
+1961,Esparcimiento,0.0
+1961,Educación,0.0
+1961,Otros bienes y servicios,81.6616291509502
+1962,Nivel general,100.0
+1962,Alimentos y bebidas,105.26382849234
+1962,Indumentaria y calzado,97.9567993216352
+1962,Vivienda,82.5299517837526
+1962,Equipamiento y mantenimiento del hogar,124.257677133721
+1962,Salud,0.0
+1962,Transporte y comunicaciones,0.0
+1962,Esparcimiento,0.0
+1962,Educación,0.0
+1962,Otros bienes y servicios,85.946369132894
+1963,Nivel general,100.0
+1963,Alimentos y bebidas,104.267091125364
+1963,Indumentaria y calzado,98.6747218821208
+1963,Vivienda,72.8177604848783
+1963,Equipamiento y mantenimiento del hogar,115.807115933504
+1963,Salud,0.0
+1963,Transporte y comunicaciones,0.0
+1963,Esparcimiento,0.0
+1963,Educación,0.0
+1963,Otros bienes y servicios,92.7393482779054
+1964,Nivel general,100.0
+1964,Alimentos y bebidas,108.279230483836
+1964,Indumentaria y calzado,96.7236535332091
+1964,Vivienda,61.0338976883315
+1964,Equipamiento y mantenimiento del hogar,105.437002304635
+1964,Salud,0.0
+1964,Transporte y comunicaciones,0.0
+1964,Esparcimiento,0.0
+1964,Educación,0.0
+1964,Otros bienes y servicios,87.7720537064741
+1965,Nivel general,100.0
+1965,Alimentos y bebidas,107.738221907981
+1965,Indumentaria y calzado,96.8235162765349
+1965,Vivienda,59.5344893153085
+1965,Equipamiento y mantenimiento del hogar,106.069005068873
+1965,Salud,0.0
+1965,Transporte y comunicaciones,0.0
+1965,Esparcimiento,0.0
+1965,Educación,0.0
+1965,Otros bienes y servicios,90.0382857467189
+1966,Nivel general,100.0
+1966,Alimentos y bebidas,102.361563976135
+1966,Indumentaria y calzado,98.395361043406
+1966,Vivienda,96.4820598960937
+1966,Equipamiento y mantenimiento del hogar,102.785699891399
+1966,Salud,0.0
+1966,Transporte y comunicaciones,0.0
+1966,Esparcimiento,0.0
+1966,Educación,0.0
+1966,Otros bienes y servicios,94.5061541301247
+1967,Nivel general,100.0
+1967,Alimentos y bebidas,102.14432852724
+1967,Indumentaria y calzado,98.0962791281348
+1967,Vivienda,86.6430005780097
+1967,Equipamiento y mantenimiento del hogar,105.12833231075
+1967,Salud,0.0
+1967,Transporte y comunicaciones,0.0
+1967,Esparcimiento,0.0
+1967,Educación,0.0
+1967,Otros bienes y servicios,81.5113105727596
+1968,Nivel general,100.0
+1968,Alimentos y bebidas,101.788707179039
+1968,Indumentaria y calzado,96.5590371613709
+1968,Vivienda,87.6648587385471
+1968,Equipamiento y mantenimiento del hogar,100.256500214579
+1968,Salud,0.0
+1968,Transporte y comunicaciones,0.0
+1968,Esparcimiento,0.0
+1968,Educación,0.0
+1968,Otros bienes y servicios,102.432717556013
+1969,Nivel general,100.0
+1969,Alimentos y bebidas,100.371010070113
+1969,Indumentaria y calzado,99.1571267761458
+1969,Vivienda,85.8022640814225
+1969,Equipamiento y mantenimiento del hogar,97.8737853137106
+1969,Salud,0.0
+1969,Transporte y comunicaciones,0.0
+1969,Esparcimiento,0.0
+1969,Educación,0.0
+1969,Otros bienes y servicios,104.976483572616
+1970,Nivel general,100.0
+1970,Alimentos y bebidas,103.004474538117
+1970,Indumentaria y calzado,95.5105950795961
+1970,Vivienda,79.8905633966674
+1970,Equipamiento y mantenimiento del hogar,92.2771204252301
+1970,Salud,0.0
+1970,Transporte y comunicaciones,0.0
+1970,Esparcimiento,0.0
+1970,Educación,0.0
+1970,Otros bienes y servicios,104.059766425007
+1971,Nivel general,100.0
+1971,Alimentos y bebidas,108.342401280841
+1971,Indumentaria y calzado,83.498319181231
+1971,Vivienda,85.2124344916973
+1971,Equipamiento y mantenimiento del hogar,95.2197096073898
+1971,Salud,0.0
+1971,Transporte y comunicaciones,0.0
+1971,Esparcimiento,0.0
+1971,Educación,0.0
+1971,Otros bienes y servicios,97.8924887088857
+1972,Nivel general,100.0
+1972,Alimentos y bebidas,111.535626109306
+1972,Indumentaria y calzado,82.0381695351162
+1972,Vivienda,67.2870917706337
+1972,Equipamiento y mantenimiento del hogar,95.1009939598754
+1972,Salud,0.0
+1972,Transporte y comunicaciones,0.0
+1972,Esparcimiento,0.0
+1972,Educación,0.0
+1972,Otros bienes y servicios,94.9507404724812
+1973,Nivel general,100.0
+1973,Alimentos y bebidas,107.95079366664
+1973,Indumentaria y calzado,80.3325443004803
+1973,Vivienda,111.687077469598
+1973,Equipamiento y mantenimiento del hogar,93.1376873889558
+1973,Salud,0.0
+1973,Transporte y comunicaciones,0.0
+1973,Esparcimiento,0.0
+1973,Educación,0.0
+1973,Otros bienes y servicios,94.3159752323167
+1974,Nivel general,100.0
+1974,Alimentos y bebidas,100.0
+1974,Indumentaria y calzado,100.0
+1974,Vivienda,100.0
+1974,Equipamiento y mantenimiento del hogar,100.0
+1974,Salud,100.0
+1974,Transporte y comunicaciones,100.0
+1974,Esparcimiento,100.0
+1974,Educación,100.0
+1974,Otros bienes y servicios,100.0
+1975,Nivel general,100.0
+1975,Alimentos y bebidas,97.1035811763586
+1975,Indumentaria y calzado,92.2856782489374
+1975,Vivienda,94.5841273613446
+1975,Equipamiento y mantenimiento del hogar,122.56627182979
+1975,Salud,87.3882136216316
+1975,Transporte y comunicaciones,106.801268338519
+1975,Esparcimiento,105.525334428434
+1975,Educación,105.525334428434
+1975,Otros bienes y servicios,98.8097376347439
+1976,Nivel general,100.0
+1976,Alimentos y bebidas,102.888626107935
+1976,Indumentaria y calzado,74.7073363106642
+1976,Vivienda,89.0301404272701
+1976,Equipamiento y mantenimiento del hogar,105.105658824268
+1976,Salud,97.568397608102
+1976,Transporte y comunicaciones,98.5591019158178
+1976,Esparcimiento,93.508622325939
+1976,Educación,93.5086223259391
+1976,Otros bienes y servicios,97.4383981285907
+1977,Nivel general,100.0
+1977,Alimentos y bebidas,106.115671470522
+1977,Indumentaria y calzado,56.6076349615147
+1977,Vivienda,92.9087824751346
+1977,Equipamiento y mantenimiento del hogar,87.0310084546975
+1977,Salud,104.391566306459
+1977,Transporte y comunicaciones,96.6099374452366
+1977,Esparcimiento,88.5853718850804
+1977,Educación,88.5853718850804
+1977,Otros bienes y servicios,98.0459722613419
+1978,Nivel general,100.0
+1978,Alimentos y bebidas,101.370799671202
+1978,Indumentaria y calzado,51.1869343568757
+1978,Vivienda,97.4386522371001
+1978,Equipamiento y mantenimiento del hogar,88.469863146463
+1978,Salud,111.917020427152
+1978,Transporte y comunicaciones,105.46861767186
+1978,Esparcimiento,94.3686185067665
+1978,Educación,94.3686185067662
+1978,Otros bienes y servicios,109.592005671861
+1979,Nivel general,100.0
+1979,Alimentos y bebidas,104.946830541368
+1979,Indumentaria y calzado,49.3188920598261
+1979,Vivienda,94.2404992622311
+1979,Equipamiento y mantenimiento del hogar,84.0267165621285
+1979,Salud,118.55534516411
+1979,Transporte y comunicaciones,95.9573382360594
+1979,Esparcimiento,90.3062858180034
+1979,Educación,90.3062858180031
+1979,Otros bienes y servicios,108.530309635416
+1980,Nivel general,100.0
+1980,Alimentos y bebidas,101.978196588126
+1980,Indumentaria y calzado,41.5342233089893
+1980,Vivienda,96.039082752992
+1980,Equipamiento y mantenimiento del hogar,83.7863546810027
+1980,Salud,132.778179671684
+1980,Transporte y comunicaciones,103.272619699493
+1980,Esparcimiento,95.2236476759297
+1980,Educación,95.2236476759296
+1980,Otros bienes y servicios,115.219969166331
+1981,Nivel general,100.0
+1981,Alimentos y bebidas,99.3239401801873
+1981,Indumentaria y calzado,36.8398205306719
+1981,Vivienda,99.1506050414583
+1981,Equipamiento y mantenimiento del hogar,82.0970992613589
+1981,Salud,141.326836561412
+1981,Transporte y comunicaciones,108.555284303133
+1981,Esparcimiento,97.1676181557255
+1981,Educación,97.1676181557253
+1981,Otros bienes y servicios,122.931781034247
+1982,Nivel general,100.0
+1982,Alimentos y bebidas,104.428228216998
+1982,Indumentaria y calzado,40.1121912783013
+1982,Vivienda,87.5344651261251
+1982,Equipamiento y mantenimiento del hogar,83.5737786013141
+1982,Salud,121.992260349556
+1982,Transporte y comunicaciones,102.687716562699
+1982,Esparcimiento,90.9939838454532
+1982,Educación,90.9939838454533
+1982,Otros bienes y servicios,127.195120882725
+1983,Nivel general,100.0
+1983,Alimentos y bebidas,103.306266332533
+1983,Indumentaria y calzado,46.2114932409239
+1983,Vivienda,91.9445151202906
+1983,Equipamiento y mantenimiento del hogar,87.222794415033
+1983,Salud,101.636857958397
+1983,Transporte y comunicaciones,112.187981572746
+1983,Esparcimiento,91.2006862618282
+1983,Educación,91.2006862618278
+1983,Otros bienes y servicios,115.834686380703
+1984,Nivel general,100.0
+1984,Alimentos y bebidas,105.030769139838
+1984,Indumentaria y calzado,52.5663109301224
+1984,Vivienda,79.1842655285091
+1984,Equipamiento y mantenimiento del hogar,91.8448476192864
+1984,Salud,100.644021884524
+1984,Transporte y comunicaciones,110.999757713332
+1984,Esparcimiento,102.832819065844
+1984,Educación,102.832819065844
+1984,Otros bienes y servicios,102.339164827317
+1985,Nivel general,100.0
+1985,Alimentos y bebidas,98.4960006229125
+1985,Indumentaria y calzado,39.9093019508252
+1985,Vivienda,89.0276121520502
+1985,Equipamiento y mantenimiento del hogar,89.94464223249
+1985,Salud,130.891696815856
+1985,Transporte y comunicaciones,118.577439499218
+1985,Esparcimiento,109.010096379554
+1985,Educación,109.010096379554
+1985,Otros bienes y servicios,117.146328124611
+1986,Nivel general,100.0
+1986,Alimentos y bebidas,102.651702155696
+1986,Indumentaria y calzado,39.5187238337869
+1986,Vivienda,79.1662670887522
+1986,Equipamiento y mantenimiento del hogar,77.8037821280492
+1986,Salud,154.852216167515
+1986,Transporte y comunicaciones,105.432208227469
+1986,Esparcimiento,110.277775050519
+1986,Educación,110.277775050524
+1986,Otros bienes y servicios,114.85291268206
+1987,Nivel general,100.0
+1987,Alimentos y bebidas,103.28707816703
+1987,Indumentaria y calzado,35.5229444531977
+1987,Vivienda,78.3000895464506
+1987,Equipamiento y mantenimiento del hogar,73.9014072160451
+1987,Salud,155.142620416375
+1987,Transporte y comunicaciones,103.314407925231
+1987,Esparcimiento,110.848120365828
+1987,Educación,110.848120365826
+1987,Otros bienes y servicios,123.53408138131
+1988,Nivel general,100.0
+1988,Alimentos y bebidas,102.128564479212
+1988,Indumentaria y calzado,33.9918631215952
+1988,Vivienda,81.2192780040584
+1988,Equipamiento y mantenimiento del hogar,80.6556956733038
+1988,Salud,131.055337632432
+1988,Transporte y comunicaciones,123.296219313347
+1988,Esparcimiento,101.969365524177
+1988,Educación,101.969365524176
+1988,Otros bienes y servicios,122.690407638392
+1989,Nivel general,100.0
+1989,Alimentos y bebidas,101.197332358924
+1989,Indumentaria y calzado,39.210139075605
+1989,Vivienda,71.4636842738965
+1989,Equipamiento y mantenimiento del hogar,101.812662185221
+1989,Salud,120.057868445958
+1989,Transporte y comunicaciones,122.798354993825
+1989,Esparcimiento,109.793189779617
+1989,Educación,106.612431234507
+1989,Otros bienes y servicios,120.40995362723
+1990,Nivel general,100.0
+1990,Alimentos y bebidas,93.4599148053912
+1990,Indumentaria y calzado,32.1697248694143
+1990,Vivienda,85.2429842796814
+1990,Equipamiento y mantenimiento del hogar,103.554117576807
+1990,Salud,154.966521116109
+1990,Transporte y comunicaciones,110.537786724554
+1990,Esparcimiento,121.454293220407
+1990,Educación,168.172423104545
+1990,Otros bienes y servicios,127.214072521516
+1991,Nivel general,100.0
+1991,Alimentos y bebidas,89.8268026773037
+1991,Indumentaria y calzado,29.7603882669261
+1991,Vivienda,93.7263485280058
+1991,Equipamiento y mantenimiento del hogar,106.54260514766
+1991,Salud,166.957731459966
+1991,Transporte y comunicaciones,95.8444214911861
+1991,Esparcimiento,128.993828232961
+1991,Educación,205.242579017434
+1991,Otros bienes y servicios,132.674459936648
+1992,Nivel general,100.0
+1992,Alimentos y bebidas,93.618989485073
+1992,Indumentaria y calzado,26.3666120155232
+1992,Vivienda,100.288345273733
+1992,Equipamiento y mantenimiento del hogar,104.163146740209
+1992,Salud,171.670217638762
+1992,Transporte y comunicaciones,85.9000250180572
+1992,Esparcimiento,127.952251450311
+1992,Educación,212.164819149976
+1992,Otros bienes y servicios,127.985261076112
+1993,Nivel general,100.0
+1993,Alimentos y bebidas,93.3540925391205
+1993,Indumentaria y calzado,23.6179311616437
+1993,Vivienda,107.179056030147
+1993,Equipamiento y mantenimiento del hogar,103.549905942389
+1993,Salud,182.350797015138
+1993,Transporte y comunicaciones,83.4628214210457
+1993,Esparcimiento,125.368502255719
+1993,Educación,229.804539150683
+1993,Otros bienes y servicios,121.782417004097
+1994,Nivel general,100.0
+1994,Alimentos y bebidas,90.8592271068506
+1994,Indumentaria y calzado,22.1016554861558
+1994,Vivienda,111.558595874063
+1994,Equipamiento y mantenimiento del hogar,102.210322784164
+1994,Salud,193.445383989722
+1994,Transporte y comunicaciones,84.447529490785
+1994,Esparcimiento,130.332832151884
+1994,Educación,238.687804151756
+1994,Otros bienes y servicios,119.165397581154
+1995,Nivel general,100.0
+1995,Alimentos y bebidas,90.3835310552737
+1995,Indumentaria y calzado,20.9510843701298
+1995,Vivienda,113.300805350456
+1995,Equipamiento y mantenimiento del hogar,100.959765932851
+1995,Salud,195.447082189415
+1995,Transporte y comunicaciones,86.9545178093332
+1995,Esparcimiento,133.153083683353
+1995,Educación,240.55013775839
+1995,Otros bienes y servicios,117.001838529549
+1996,Nivel general,100.0
+1996,Alimentos y bebidas,89.8367842238229
+1996,Indumentaria y calzado,20.123335100432
+1996,Vivienda,113.446254042265
+1996,Equipamiento y mantenimiento del hogar,100.267869320524
+1996,Salud,196.475900491821
+1996,Transporte y comunicaciones,89.7016204375742
+1996,Esparcimiento,133.606952734043
+1996,Educación,243.564414584797
+1996,Otros bienes y servicios,117.858527194794
+1997,Nivel general,100.0
+1997,Alimentos y bebidas,88.7756744046799
+1997,Indumentaria y calzado,19.4333143471649
+1997,Vivienda,112.192175816608
+1997,Equipamiento y mantenimiento del hogar,98.8768206901978
+1997,Salud,196.456686434484
+1997,Transporte y comunicaciones,98.0009607276868
+1997,Esparcimiento,135.012471720049
+1997,Educación,243.321687987756
+1997,Otros bienes y servicios,116.611215406998
+1998,Nivel general,100.0
+1998,Alimentos y bebidas,89.4690202767638
+1998,Indumentaria y calzado,18.7798973701738
+1998,Vivienda,110.294218152134
+1998,Equipamiento y mantenimiento del hogar,97.4807048815366
+1998,Salud,195.204767570382
+1998,Transporte y comunicaciones,100.865682075737
+1998,Esparcimiento,137.2182278954
+1998,Educación,242.26341713577
+1998,Otros bienes y servicios,114.871621379602
+1999,Nivel general,100.0
+1999,Alimentos y bebidas,87.1722454643777
+1999,Indumentaria y calzado,18.3020512320323
+1999,Vivienda,112.985422135219
+1999,Equipamiento y mantenimiento del hogar,97.2496703996623
+1999,Salud,199.418715334936
+1999,Transporte y comunicaciones,101.726242456952
+1999,Esparcimiento,141.6579331869
+1999,Educación,246.488052195011
+1999,Otros bienes y servicios,115.890533659942
+2000,Nivel general,100.0
+2000,Alimentos y bebidas,85.0132161003911
+2000,Indumentaria y calzado,17.5280120907322
+2000,Vivienda,113.038291722406
+2000,Equipamiento y mantenimiento del hogar,95.8613276469999
+2000,Salud,202.708251594996
+2000,Transporte y comunicaciones,104.609199706809
+2000,Esparcimiento,139.835332683671
+2000,Educación,245.069652055476
+2000,Otros bienes y servicios,117.014286678394
+2001,Nivel general,100.0
+2001,Alimentos y bebidas,84.2907100957436
+2001,Indumentaria y calzado,16.9044743047579
+2001,Vivienda,113.682335085116
+2001,Equipamiento y mantenimiento del hogar,95.5971297773179
+2001,Salud,207.217366524666
+2001,Transporte y comunicaciones,106.179742354217
+2001,Esparcimiento,137.120068779368
+2001,Educación,244.28810946717
+2001,Otros bienes y servicios,118.795115286254
+2002,Nivel general,100.0
+2002,Alimentos y bebidas,90.1335795285305
+2002,Indumentaria y calzado,18.2454215416585
+2002,Vivienda,96.2856408863167
+2002,Equipamiento y mantenimiento del hogar,104.435764863619
+2002,Salud,199.585438735747
+2002,Transporte y comunicaciones,101.417223757377
+2002,Esparcimiento,146.467090212285
+2002,Educación,201.727733762686
+2002,Otros bienes y servicios,122.559370491138
+2003,Nivel general,100.0
+2003,Alimentos y bebidas,94.6678635479428
+2003,Indumentaria y calzado,19.5552939993137
+2003,Vivienda,91.7131379147605
+2003,Equipamiento y mantenimiento del hogar,103.033685945797
+2003,Salud,190.264187000539
+2003,Transporte y comunicaciones,97.5117823162973
+2003,Esparcimiento,147.63848282156
+2003,Educación,183.374175976394
+2003,Otros bienes y servicios,120.6064888645
+2004,Nivel general,100.0
+2004,Alimentos y bebidas,95.181678955984
+2004,Indumentaria y calzado,19.9812688779795
+2004,Vivienda,91.7398927693689
+2004,Equipamiento y mantenimiento del hogar,100.917033768283
+2004,Salud,189.727695209127
+2004,Transporte y comunicaciones,94.7481723477929
+2004,Esparcimiento,149.233034770015
+2004,Educación,184.37043749538
+2004,Otros bienes y servicios,125.552112713054
+2005,Nivel general,100.0
+2005,Alimentos y bebidas,96.3309131060413
+2005,Indumentaria y calzado,20.2929508930768
+2005,Vivienda,93.7072597371712
+2005,Equipamiento y mantenimiento del hogar,99.7589332421003
+2005,Salud,186.211369727431
+2005,Transporte y comunicaciones,90.9897472093212
+2005,Esparcimiento,148.44511067828
+2005,Educación,190.809056498347
+2005,Otros bienes y servicios,127.619447290343
+2006,Nivel general,100.0
+2006,Alimentos y bebidas,97.3951199411355
+2006,Indumentaria y calzado,21.0740229862058
+2006,Vivienda,93.8945847486932
+2006,Equipamiento y mantenimiento del hogar,97.4174017946873
+2006,Salud,186.10312461979
+2006,Transporte y comunicaciones,87.7444329190617
+2006,Esparcimiento,149.538191129326
+2006,Educación,206.082833572558
+2006,Otros bienes y servicios,120.672036190865

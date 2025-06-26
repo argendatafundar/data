@@ -1,31 +1,31 @@
-"year","semestre","edad_jefe","fuente","proporcion"
-"2024","1","24 o menos","Ingreso laboral","0.74222571"
-"2024","1","25 a 34","Ingreso laboral","0.85816061"
-"2024","1","35 a 44","Ingreso laboral","0.88280725"
-"2024","1","45 a 54","Ingreso laboral","0.90316576"
-"2024","1","55 a 64","Ingreso laboral","0.77138495"
-"2024","1","65 o mas","Ingreso laboral","0.47391045"
-"2024","1","24 o menos","Ingreso de capital","0.016111176"
-"2024","1","25 a 34","Ingreso de capital","0.01284515"
-"2024","1","35 a 44","Ingreso de capital","0.021634569"
-"2024","1","45 a 54","Ingreso de capital","0.02051679"
-"2024","1","55 a 64","Ingreso de capital","0.047237717"
-"2024","1","65 o mas","Ingreso de capital","0.017169809"
-"2024","1","24 o menos","Ingreso de jubilaciones","0.024591202"
-"2024","1","25 a 34","Ingreso de jubilaciones","0.021193303"
-"2024","1","35 a 44","Ingreso de jubilaciones","0.027344761"
-"2024","1","45 a 54","Ingreso de jubilaciones","0.041353103"
-"2024","1","55 a 64","Ingreso de jubilaciones","0.14615534"
-"2024","1","65 o mas","Ingreso de jubilaciones","0.47946498"
-"2024","1","24 o menos","Ingreso de transferencias estatales","0.077521116"
-"2024","1","25 a 34","Ingreso de transferencias estatales","0.073462188"
-"2024","1","35 a 44","Ingreso de transferencias estatales","0.048732623"
-"2024","1","45 a 54","Ingreso de transferencias estatales","0.022320431"
-"2024","1","55 a 64","Ingreso de transferencias estatales","0.021654975"
-"2024","1","65 o mas","Ingreso de transferencias estatales","0.013893325"
-"2024","1","24 o menos","Otros ingresos","0.13955078"
-"2024","1","25 a 34","Otros ingresos","0.034338724"
-"2024","1","35 a 44","Otros ingresos","0.019480802"
-"2024","1","45 a 54","Otros ingresos","0.012643943"
-"2024","1","55 a 64","Otros ingresos","0.013566987"
-"2024","1","65 o mas","Otros ingresos","0.015561439"
+year,semestre,edad_jefe,fuente,proporcion
+2024,1,24 o menos,Ingreso laboral,0.74222571
+2024,1,25 a 34,Ingreso laboral,0.85816061
+2024,1,35 a 44,Ingreso laboral,0.88280725
+2024,1,45 a 54,Ingreso laboral,0.90316576
+2024,1,55 a 64,Ingreso laboral,0.77138495
+2024,1,65 o mas,Ingreso laboral,0.47391045
+2024,1,24 o menos,Ingreso de capital,0.016111176
+2024,1,25 a 34,Ingreso de capital,0.01284515
+2024,1,35 a 44,Ingreso de capital,0.021634569
+2024,1,45 a 54,Ingreso de capital,0.02051679
+2024,1,55 a 64,Ingreso de capital,0.047237717
+2024,1,65 o mas,Ingreso de capital,0.017169809
+2024,1,24 o menos,Ingreso de jubilaciones,0.024591202
+2024,1,25 a 34,Ingreso de jubilaciones,0.021193303
+2024,1,35 a 44,Ingreso de jubilaciones,0.027344761
+2024,1,45 a 54,Ingreso de jubilaciones,0.041353103
+2024,1,55 a 64,Ingreso de jubilaciones,0.14615534
+2024,1,65 o mas,Ingreso de jubilaciones,0.47946498
+2024,1,24 o menos,Ingreso de transferencias estatales,0.077521116
+2024,1,25 a 34,Ingreso de transferencias estatales,0.073462188
+2024,1,35 a 44,Ingreso de transferencias estatales,0.048732623
+2024,1,45 a 54,Ingreso de transferencias estatales,0.022320431
+2024,1,55 a 64,Ingreso de transferencias estatales,0.021654975
+2024,1,65 o mas,Ingreso de transferencias estatales,0.013893325
+2024,1,24 o menos,Otros ingresos,0.13955078
+2024,1,25 a 34,Otros ingresos,0.034338724
+2024,1,35 a 44,Otros ingresos,0.019480802
+2024,1,45 a 54,Otros ingresos,0.012643943
+2024,1,55 a 64,Otros ingresos,0.013566987
+2024,1,65 o mas,Otros ingresos,0.015561439

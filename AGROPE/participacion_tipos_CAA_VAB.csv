@@ -1,32 +1,32 @@
-"cadena","valor"
-"Soja","0.236"
-"Maiz","0.137"
-"Bovino","0.128"
-"Lacteo","0.084"
-"Trigo","0.071"
-"Avicola","0.050"
-"Porcinos","0.047"
-"Berries","0.032"
-"Forestal","0.026"
-"Cebada","0.022"
-"Girasol","0.021"
-"Uva","0.021"
-"Arroz","0.018"
-"Maní","0.017"
-"Peras y Manzanas","0.016"
-"Yerba Mate","0.016"
-"Limón","0.008"
-"Tabaco","0.007"
-"Ajo","0.006"
-"Citrico","0.006"
-"Ovinos","0.006"
-"Caña de Azucar","0.005"
-"Sorgo","0.005"
-"Papa","0.003"
-"Miel","0.003"
-"Tomate","0.003"
-"Algodón","0.003"
-"Olivo","0.002"
-"Té","0.001"
-"Caprino","0.000"
-"Colza","0.000"
+cadena,valor
+Soja,0.236
+Maiz,0.137
+Bovino,0.128
+Lacteo,0.084
+Trigo,0.071
+Avicola,0.05
+Porcinos,0.047
+Berries,0.032
+Forestal,0.026
+Cebada,0.022
+Girasol,0.021
+Uva,0.021
+Arroz,0.018
+Maní,0.017
+Peras y Manzanas,0.016
+Yerba Mate,0.016
+Limón,0.008
+Tabaco,0.007
+Ajo,0.006
+Citrico,0.006
+Ovinos,0.006
+Caña de Azucar,0.005
+Sorgo,0.005
+Papa,0.003
+Miel,0.003
+Tomate,0.003
+Algodón,0.003
+Olivo,0.002
+Té,0.001
+Caprino,0.0
+Colza,0.0

@@ -1,530 +1,530 @@
-anio,id_depto,departamento,provincia_id,provincia,densidad_emp,geocodigoFundar,geonombreFundar
-2022.0,2007,Comuna 1,2.0,Ciudad de Buenos Aires,166.823228392245,,
-2022.0,2014,Comuna 2,2.0,Ciudad de Buenos Aires,74.6388691267902,,
-2022.0,2021,Comuna 3,2.0,Ciudad de Buenos Aires,54.1734610680799,,
-2022.0,2028,Comuna 4,2.0,Ciudad de Buenos Aires,31.7571104519281,,
-2022.0,2035,Comuna 5,2.0,Ciudad de Buenos Aires,35.8365376201286,,
-2022.0,2042,Comuna 6,2.0,Ciudad de Buenos Aires,37.6225725585221,,
-2022.0,2056,Comuna 8,2.0,Ciudad de Buenos Aires,11.034071058439,,
-2022.0,2063,Comuna 9,2.0,Ciudad de Buenos Aires,29.1015775184399,,
-2022.0,2070,Comuna 10,2.0,Ciudad de Buenos Aires,32.4269959076091,,
-2022.0,2077,Comuna 11,2.0,Ciudad de Buenos Aires,31.9451029076104,,
-2022.0,2084,Comuna 12,2.0,Ciudad de Buenos Aires,31.1709802564092,,
-2022.0,2091,Comuna 13,2.0,Ciudad de Buenos Aires,55.3473154679728,,
-2022.0,2098,Comuna 14,2.0,Ciudad de Buenos Aires,65.5700122669777,,
-2022.0,2105,Comuna 15,2.0,Ciudad de Buenos Aires,48.914037262033,,
-2022.0,6007,Adolfo Alsina,6.0,Buenos Aires,25.0683682771194,AR-B,Buenos Aires
-2022.0,6014,Adolfo Gonzales Chaves,6.0,Buenos Aires,24.5470032522843,AR-B,Buenos Aires
-2022.0,6021,Alberti,6.0,Buenos Aires,18.5641657679864,AR-B,Buenos Aires
-2022.0,6028,Almirante Brown,6.0,Buenos Aires,6.85159884889036,AR-B,Buenos Aires
-2022.0,6035,Avellaneda,6.0,Buenos Aires,15.1460737741937,AR-B,Buenos Aires
-2022.0,6042,Ayacucho,6.0,Buenos Aires,27.3467716248806,AR-B,Buenos Aires
-2022.0,6056,Bahía Blanca,6.0,Buenos Aires,22.2833611627755,AR-B,Buenos Aires
-2022.0,6063,Balcarce,6.0,Buenos Aires,22.8451267812666,AR-B,Buenos Aires
-2022.0,6070,Baradero,6.0,Buenos Aires,17.7741112944353,AR-B,Buenos Aires
-2022.0,6077,Arrecifes,6.0,Buenos Aires,18.2834083501474,AR-B,Buenos Aires
-2022.0,6084,Benito Juárez,6.0,Buenos Aires,23.0127399964113,AR-B,Buenos Aires
-2022.0,6091,Berazategui,6.0,Buenos Aires,7.1282811837909,AR-B,Buenos Aires
-2022.0,6098,Berisso,6.0,Buenos Aires,6.6878034281185,AR-B,Buenos Aires
-2022.0,6105,Bolívar,6.0,Buenos Aires,24.4719902112039,AR-B,Buenos Aires
-2022.0,6119,Brandsen,6.0,Buenos Aires,15.7174556213018,AR-B,Buenos Aires
-2022.0,6126,Campana,6.0,Buenos Aires,14.5704827885607,AR-B,Buenos Aires
-2022.0,6140,Capitán Sarmiento,6.0,Buenos Aires,21.1713122455371,AR-B,Buenos Aires
-2022.0,6147,Carlos Casares,6.0,Buenos Aires,24.5887445887446,AR-B,Buenos Aires
-2022.0,6154,Carlos Tejedor,6.0,Buenos Aires,17.2597485616876,AR-B,Buenos Aires
-2022.0,6161,Carmen de Areco,6.0,Buenos Aires,21.8869649694268,AR-B,Buenos Aires
-2022.0,6168,Castelli,6.0,Buenos Aires,20.1167396289348,AR-B,Buenos Aires
-2022.0,6175,Colón,6.0,Buenos Aires,17.8519488074462,AR-B,Buenos Aires
-2022.0,6182,Coronel de Marina Leonardo Rosales,6.0,Buenos Aires,9.34773269336178,AR-B,Buenos Aires
-2022.0,6189,Coronel Dorrego,6.0,Buenos Aires,24.3612224448898,AR-B,Buenos Aires
-2022.0,6196,Coronel Pringles,6.0,Buenos Aires,23.0958230958231,AR-B,Buenos Aires
-2022.0,6203,Coronel Suárez,6.0,Buenos Aires,24.4834956067442,AR-B,Buenos Aires
-2022.0,6210,Chacabuco,6.0,Buenos Aires,20.7847376306158,AR-B,Buenos Aires
-2022.0,6218,Chascomús,6.0,Buenos Aires,20.446622067276,AR-B,Buenos Aires
-2022.0,6224,Chivilcoy,6.0,Buenos Aires,20.2854359886503,AR-B,Buenos Aires
-2022.0,6231,Daireaux,6.0,Buenos Aires,23.884485940723,AR-B,Buenos Aires
-2022.0,6245,Ensenada,6.0,Buenos Aires,9.68795412284951,AR-B,Buenos Aires
-2022.0,6252,Escobar,6.0,Buenos Aires,10.3134218864626,AR-B,Buenos Aires
-2022.0,6260,Esteban Echeverría,6.0,Buenos Aires,7.9975183171827,AR-B,Buenos Aires
-2022.0,6266,Exaltación de la Cruz,6.0,Buenos Aires,13.5461540377001,AR-B,Buenos Aires
-2022.0,6270,Ezeiza,6.0,Buenos Aires,8.31220131903469,AR-B,Buenos Aires
-2022.0,6274,Florencio Varela,6.0,Buenos Aires,3.97838177558704,AR-B,Buenos Aires
-2022.0,6277,Florentino Ameghino,6.0,Buenos Aires,20.2965708989805,AR-B,Buenos Aires
-2022.0,6280,General Alvarado,6.0,Buenos Aires,20.9330931775249,AR-B,Buenos Aires
-2022.0,6287,General Alvear,6.0,Buenos Aires,13.8132146420075,AR-B,Buenos Aires
-2022.0,6294,General Arenales,6.0,Buenos Aires,22.0183486238532,AR-B,Buenos Aires
-2022.0,6301,General Belgrano,6.0,Buenos Aires,19.5276802462604,AR-B,Buenos Aires
-2022.0,6308,General Guido,6.0,Buenos Aires,29.9306868304978,AR-B,Buenos Aires
-2022.0,6315,General Juan Madariaga,6.0,Buenos Aires,18.5201555869873,AR-B,Buenos Aires
-2022.0,6322,General La Madrid,6.0,Buenos Aires,25.6498536753314,AR-B,Buenos Aires
-2022.0,6336,General Lavalle,6.0,Buenos Aires,24.0246406570842,AR-B,Buenos Aires
-2022.0,6343,General Paz,6.0,Buenos Aires,15.4853241359893,AR-B,Buenos Aires
-2022.0,6351,General Pinto,6.0,Buenos Aires,19.3957190325323,AR-B,Buenos Aires
-2022.0,6357,General Pueyrredón,6.0,Buenos Aires,22.4425183110922,AR-B,Buenos Aires
-2022.0,6364,General Rodríguez,6.0,Buenos Aires,9.95732574679943,AR-B,Buenos Aires
-2022.0,6371,General San Martín,6.0,Buenos Aires,15.9285357598624,AR-B,Buenos Aires
-2022.0,6385,General Viamonte,6.0,Buenos Aires,15.100004415206,AR-B,Buenos Aires
-2022.0,6392,General Villegas,6.0,Buenos Aires,26.9495900825508,AR-B,Buenos Aires
-2022.0,6399,Guaminí,6.0,Buenos Aires,27.1163460723667,AR-B,Buenos Aires
-2022.0,6406,Hipólito Yrigoyen,6.0,Buenos Aires,21.6677609980302,AR-B,Buenos Aires
-2022.0,6408,Hurlingham,6.0,Buenos Aires,8.80732165846984,AR-B,Buenos Aires
-2022.0,6410,Ituzaingó,6.0,Buenos Aires,10.8027431310755,AR-B,Buenos Aires
-2022.0,6412,José C. Paz,6.0,Buenos Aires,3.77073445221901,AR-B,Buenos Aires
-2022.0,6413,Junín,6.0,Buenos Aires,21.7464615028857,AR-B,Buenos Aires
-2022.0,6427,La Matanza,6.0,Buenos Aires,6.77312712525805,AR-B,Buenos Aires
-2022.0,6434,Lanús,6.0,Buenos Aires,13.2656357380866,AR-B,Buenos Aires
-2022.0,6441,La Plata,6.0,Buenos Aires,12.8345934128853,AR-B,Buenos Aires
-2022.0,6448,Laprida,6.0,Buenos Aires,20.607934054611,AR-B,Buenos Aires
-2022.0,6455,Las Flores,6.0,Buenos Aires,17.3280957450714,AR-B,Buenos Aires
-2022.0,6462,Leandro N. Alem,6.0,Buenos Aires,25.4256921116645,AR-B,Buenos Aires
-2022.0,6466,Lezama,6.0,Buenos Aires,33.9173766275518,AR-B,Buenos Aires
-2022.0,6469,Lincoln,6.0,Buenos Aires,23.9528853338021,AR-B,Buenos Aires
-2022.0,6476,Lobería,6.0,Buenos Aires,27.6270350271337,AR-B,Buenos Aires
-2022.0,6483,Lobos,6.0,Buenos Aires,18.6781609195402,AR-B,Buenos Aires
-2022.0,6490,Lomas de Zamora,6.0,Buenos Aires,9.57522782813263,AR-B,Buenos Aires
-2022.0,6497,Luján,6.0,Buenos Aires,17.5933266070914,AR-B,Buenos Aires
-2022.0,6505,Magdalena,6.0,Buenos Aires,11.9269474468878,AR-B,Buenos Aires
-2022.0,6511,Maipú,6.0,Buenos Aires,19.5177956371986,AR-B,Buenos Aires
-2022.0,6518,Mar Chiquita,6.0,Buenos Aires,14.3461189972818,AR-B,Buenos Aires
-2022.0,6525,Marcos Paz,6.0,Buenos Aires,7.50623032039516,AR-B,Buenos Aires
-2022.0,6532,Mercedes,6.0,Buenos Aires,14.8122773362565,AR-B,Buenos Aires
-2022.0,6539,Merlo,6.0,Buenos Aires,4.3760708411876,AR-B,Buenos Aires
-2022.0,6547,Monte,6.0,Buenos Aires,19.0606401801512,AR-B,Buenos Aires
-2022.0,6553,Monte Hermoso,6.0,Buenos Aires,32.9592439456586,AR-B,Buenos Aires
-2022.0,6560,Moreno,6.0,Buenos Aires,5.23210643876857,AR-B,Buenos Aires
-2022.0,6568,Morón,6.0,Buenos Aires,17.0117427524964,AR-B,Buenos Aires
-2022.0,6574,Navarro,6.0,Buenos Aires,16.4329865822403,AR-B,Buenos Aires
-2022.0,6581,Necochea,6.0,Buenos Aires,20.9382038977573,AR-B,Buenos Aires
-2022.0,6588,9 de Julio,6.0,Buenos Aires,20.9097648601897,AR-B,Buenos Aires
-2022.0,6595,Olavarría,6.0,Buenos Aires,19.2761886585395,AR-B,Buenos Aires
-2022.0,6602,Patagones,6.0,Buenos Aires,14.3972799234978,AR-B,Buenos Aires
-2022.0,6609,Pehuajó,6.0,Buenos Aires,20.5211799120202,AR-B,Buenos Aires
-2022.0,6623,Pergamino,6.0,Buenos Aires,20.5566152245535,AR-B,Buenos Aires
-2022.0,6630,Pila,6.0,Buenos Aires,9.90952175786299,AR-B,Buenos Aires
-2022.0,6638,Pilar,6.0,Buenos Aires,12.0454764232915,AR-B,Buenos Aires
-2022.0,6644,Pinamar,6.0,Buenos Aires,35.3621131080636,AR-B,Buenos Aires
-2022.0,6648,Presidente Perón,6.0,Buenos Aires,3.26131667091062,AR-B,Buenos Aires
-2022.0,6651,Puán,6.0,Buenos Aires,24.5590802383675,AR-B,Buenos Aires
-2022.0,6655,Punta Indio,6.0,Buenos Aires,12.8486622753517,AR-B,Buenos Aires
-2022.0,6658,Quilmes,6.0,Buenos Aires,10.0017208959395,AR-B,Buenos Aires
-2022.0,6665,Ramallo,6.0,Buenos Aires,17.1406997231311,AR-B,Buenos Aires
-2022.0,6672,Rauch,6.0,Buenos Aires,24.4063721070033,AR-B,Buenos Aires
-2022.0,6679,Rivadavia,6.0,Buenos Aires,27.2054007758577,AR-B,Buenos Aires
-2022.0,6686,Rojas,6.0,Buenos Aires,23.4908494946736,AR-B,Buenos Aires
-2022.0,6693,Roque Pérez,6.0,Buenos Aires,23.2524862273735,AR-B,Buenos Aires
-2022.0,6700,Saavedra,6.0,Buenos Aires,24.6705417757465,AR-B,Buenos Aires
-2022.0,6714,Salto,6.0,Buenos Aires,18.6176284083703,AR-B,Buenos Aires
-2022.0,6721,Salliqueló,6.0,Buenos Aires,25.3527103002015,AR-B,Buenos Aires
-2022.0,6728,San Andrés de Giles,6.0,Buenos Aires,20.2942285929838,AR-B,Buenos Aires
-2022.0,6735,San Antonio de Areco,6.0,Buenos Aires,20.7458080826858,AR-B,Buenos Aires
-2022.0,6742,San Cayetano,6.0,Buenos Aires,21.0140093395597,AR-B,Buenos Aires
-2022.0,6749,San Fernando,6.0,Buenos Aires,14.0313257505128,AR-B,Buenos Aires
-2022.0,6756,San Isidro,6.0,Buenos Aires,26.9777517643181,AR-B,Buenos Aires
-2022.0,6760,San Miguel,6.0,Buenos Aires,9.52757461949002,AR-B,Buenos Aires
-2022.0,6763,San Nicolás,6.0,Buenos Aires,13.6631232719992,AR-B,Buenos Aires
-2022.0,6770,San Pedro,6.0,Buenos Aires,16.7898211709151,AR-B,Buenos Aires
-2022.0,6778,San Vicente,6.0,Buenos Aires,6.39413531537952,AR-B,Buenos Aires
-2022.0,6784,Suipacha,6.0,Buenos Aires,16.4602070252842,AR-B,Buenos Aires
-2022.0,6791,Tandil,6.0,Buenos Aires,27.4566374720934,AR-B,Buenos Aires
-2022.0,6798,Tapalqué,6.0,Buenos Aires,21.9790410831865,AR-B,Buenos Aires
-2022.0,6812,Tordillo,6.0,Buenos Aires,14.5554681353265,AR-B,Buenos Aires
-2022.0,6819,Tornquist,6.0,Buenos Aires,27.6839972991222,AR-B,Buenos Aires
-2022.0,6826,Trenque Lauquen,6.0,Buenos Aires,27.2566874201464,AR-B,Buenos Aires
-2022.0,6833,Tres Arroyos,6.0,Buenos Aires,25.4060807996668,AR-B,Buenos Aires
-2022.0,6840,Tres de Febrero,6.0,Buenos Aires,15.9950134001142,AR-B,Buenos Aires
-2022.0,6847,Tres Lomas,6.0,Buenos Aires,19.4238323876037,AR-B,Buenos Aires
-2022.0,6854,25 de Mayo,6.0,Buenos Aires,21.1455726457273,AR-B,Buenos Aires
-2022.0,6861,Vicente López,6.0,Buenos Aires,28.4255759332013,AR-B,Buenos Aires
-2022.0,6868,Villa Gesell,6.0,Buenos Aires,34.2471238288445,AR-B,Buenos Aires
-2022.0,6875,Villarino,6.0,Buenos Aires,19.5922609041171,AR-B,Buenos Aires
-2022.0,6882,Zárate,6.0,Buenos Aires,13.1446593203803,AR-B,Buenos Aires
-2022.0,10007,Ambato,10.0,Catamarca,4.67927471241958,AR-K,Catamarca
-2022.0,10014,Ancasti,10.0,Catamarca,1.51423379769836,AR-K,Catamarca
-2022.0,10021,Andalgalá,10.0,Catamarca,9.24890740928956,AR-K,Catamarca
-2022.0,10035,Belén,10.0,Catamarca,6.64071444927868,AR-K,Catamarca
-2022.0,10042,Capayán,10.0,Catamarca,2.96706059844104,AR-K,Catamarca
-2022.0,10049,Capital,10.0,Catamarca,12.9074015630098,AR-K,Catamarca
-2022.0,10056,El Alto,10.0,Catamarca,4.11428571428571,AR-K,Catamarca
-2022.0,10063,Fray Mamerto Esquiú,10.0,Catamarca,5.12820512820513,AR-K,Catamarca
-2022.0,10070,La Paz,10.0,Catamarca,4.70231323473644,AR-K,Catamarca
-2022.0,10077,Paclín,10.0,Catamarca,4.65608465608466,AR-K,Catamarca
-2022.0,10084,Pomán,10.0,Catamarca,8.23817292006525,AR-K,Catamarca
-2022.0,10091,Santa María,10.0,Catamarca,7.68688031490215,AR-K,Catamarca
-2022.0,10098,Santa Rosa,10.0,Catamarca,7.35625281489266,AR-K,Catamarca
-2022.0,10105,Tinogasta,10.0,Catamarca,5.98543020279583,AR-K,Catamarca
-2022.0,10112,Valle viejo,10.0,Catamarca,3.43824385083311,AR-K,Catamarca
-2022.0,14014,Capital,14.0,Córdoba,16.1076233183856,AR-X,Córdoba
-2022.0,14021,Colón,14.0,Córdoba,11.3991038972018,AR-X,Córdoba
-2022.0,14035,General Roca,14.0,Córdoba,29.3582031896694,AR-X,Córdoba
-2022.0,14042,General San Martín,14.0,Córdoba,22.4542843993284,AR-X,Córdoba
-2022.0,14049,Ischilín,14.0,Córdoba,7.31829018129401,AR-X,Córdoba
-2022.0,14056,Juárez Celman,14.0,Córdoba,25.8483775553321,AR-X,Córdoba
-2022.0,14063,Marcos Juárez,14.0,Córdoba,25.7507145243309,AR-X,Córdoba
-2022.0,14070,Minas,14.0,Córdoba,10.6776180698152,AR-X,Córdoba
-2022.0,14077,Pocho,14.0,Córdoba,3.12317001756783,AR-X,Córdoba
-2022.0,14084,Presidente Roque Sáenz Peña,14.0,Córdoba,24.3068440863065,AR-X,Córdoba
-2022.0,14091,Punilla,14.0,Córdoba,16.4321901000122,AR-X,Córdoba
-2022.0,14098,Río Cuarto,14.0,Córdoba,22.2346859672124,AR-X,Córdoba
-2022.0,14105,Río Primero,14.0,Córdoba,17.3546929554323,AR-X,Córdoba
-2022.0,14112,Río Seco,14.0,Córdoba,9.345183636126,AR-X,Córdoba
-2022.0,14119,Río Segundo,14.0,Córdoba,20.8775778850373,AR-X,Córdoba
-2022.0,14126,San Alberto,14.0,Córdoba,10.8855475975905,AR-X,Córdoba
-2022.0,14140,San Justo,14.0,Córdoba,22.0544501799522,AR-X,Córdoba
-2022.0,14147,Santa María,14.0,Córdoba,13.098205469899,AR-X,Córdoba
-2022.0,14154,Sobremonte,14.0,Córdoba,10.2154119475905,AR-X,Córdoba
-2022.0,14161,Tercero Arriba,14.0,Córdoba,20.4518764782745,AR-X,Córdoba
-2022.0,14168,Totoral,14.0,Córdoba,17.026005779062,AR-X,Córdoba
-2022.0,14175,Tulumba,14.0,Córdoba,9.83444177161455,AR-X,Córdoba
-2022.0,14182,Unión,14.0,Córdoba,21.3055659809201,AR-X,Córdoba
-2022.0,18007,Bella Vista,18.0,Corrientes,8.0619736071702,AR-W,Corrientes
-2022.0,18014,Berón de Astrada,18.0,Corrientes,7.43099787685775,AR-W,Corrientes
-2022.0,18021,Capital,18.0,Corrientes,9.63416577503586,AR-W,Corrientes
-2022.0,18028,Concepción,18.0,Corrientes,5.09854653374933,AR-W,Corrientes
-2022.0,18035,Curuzú Cuatiá,18.0,Corrientes,11.7984941395638,AR-W,Corrientes
-2022.0,18042,Empedrado,18.0,Corrientes,4.06277827248442,AR-W,Corrientes
-2022.0,18049,Esquina,18.0,Corrientes,6.30343243588108,AR-W,Corrientes
-2022.0,18084,Ituzaingó,18.0,Corrientes,11.2264078069882,AR-W,Corrientes
-2022.0,18063,General Paz,18.0,Corrientes,4.81786133960047,AR-W,Corrientes
-2022.0,18070,Goya,18.0,Corrientes,7.86868601404518,AR-W,Corrientes
-2022.0,18077,Itatí,18.0,Corrientes,4.07993338884263,AR-W,Corrientes
-2022.0,18091,Lavalle,18.0,Corrientes,4.17820411392405,AR-W,Corrientes
-2022.0,18098,Mburucuyá,18.0,Corrientes,3.80359612724758,AR-W,Corrientes
-2022.0,18105,Mercedes,18.0,Corrientes,10.7253117356962,AR-W,Corrientes
-2022.0,18112,Monte Caseros,18.0,Corrientes,11.7144733961025,AR-W,Corrientes
-2022.0,18126,Saladas,18.0,Corrientes,5.54832522775533,AR-W,Corrientes
-2022.0,18119,Paso de los Libres,18.0,Corrientes,11.423257119795,AR-W,Corrientes
-2022.0,18140,San Luis del Palmar,18.0,Corrientes,3.72803951721888,AR-W,Corrientes
-2022.0,18133,San Cosme,18.0,Corrientes,9.64173348218817,AR-W,Corrientes
-2022.0,18147,San Martín,18.0,Corrientes,7.76980312109041,AR-W,Corrientes
-2022.0,18154,San Miguel,18.0,Corrientes,4.16896090615905,AR-W,Corrientes
-2022.0,18168,Santo Tomé,18.0,Corrientes,12.3597536391063,AR-W,Corrientes
-2022.0,18175,Sauce,18.0,Corrientes,10.4989404738971,AR-W,Corrientes
-2022.0,22007,Almirante Brown,22.0,Chaco,7.84655623365301,AR-H,Chaco
-2022.0,22014,Bermejo,22.0,Chaco,3.83740761796475,AR-H,Chaco
-2022.0,22021,Comandante Fernández,22.0,Chaco,10.9454688112985,AR-H,Chaco
-2022.0,22028,Chacabuco,22.0,Chaco,17.7755939649691,AR-H,Chaco
-2022.0,22036,12 de Octubre,22.0,Chaco,6.89001808629748,AR-H,Chaco
-2022.0,22039,2 de Abril,22.0,Chaco,16.9491525423729,AR-H,Chaco
-2022.0,22043,Fray Justo Santa María de Oro,22.0,Chaco,4.59964329296912,AR-H,Chaco
-2022.0,22049,General Belgrano,22.0,Chaco,7.41781838057312,AR-H,Chaco
-2022.0,22056,General Donovan,22.0,Chaco,0.993640699523052,AR-H,Chaco
-2022.0,22063,General Güemes,22.0,Chaco,4.97628602699745,AR-H,Chaco
-2022.0,22070,Independencia,22.0,Chaco,13.6388434260775,AR-H,Chaco
-2022.0,22077,Libertad,22.0,Chaco,8.25668139349605,AR-H,Chaco
-2022.0,22091,Maipú,22.0,Chaco,8.97183525136281,AR-H,Chaco
-2022.0,22098,Mayor Luis Jorge Fontana,22.0,Chaco,11.1064787792879,AR-H,Chaco
-2022.0,22105,9 de Julio,22.0,Chaco,9.0224072972437,AR-H,Chaco
-2022.0,22112,O'Higgins,22.0,Chaco,6.30242365262524,AR-H,Chaco
-2022.0,22119,Presidencia de la Plaza,22.0,Chaco,11.9661794210375,AR-H,Chaco
-2022.0,22126,1ro. de Mayo,22.0,Chaco,5.53260032215141,AR-H,Chaco
-2022.0,22133,Quitilipi,22.0,Chaco,7.07677225660192,AR-H,Chaco
-2022.0,22140,San Fernando,22.0,Chaco,11.9935598596626,AR-H,Chaco
-2022.0,22147,San Lorenzo,22.0,Chaco,5.16747603038227,AR-H,Chaco
-2022.0,22154,Sargento Cabral,22.0,Chaco,3.40552333315596,AR-H,Chaco
-2022.0,22161,Tapenagá,22.0,Chaco,13.0574033013057,AR-H,Chaco
-2022.0,22168,25 de Mayo,22.0,Chaco,6.49528862867075,AR-H,Chaco
-2022.0,26007,Biedma,26.0,Chubut,19.908309344499,AR-U,Chubut
-2022.0,26014,Cushamen,26.0,Chubut,8.82697011592045,AR-U,Chubut
-2022.0,26028,Florentino Ameghino,26.0,Chubut,12.8779395296753,AR-U,Chubut
-2022.0,26035,Futaleufú,26.0,Chubut,17.7279592972414,AR-U,Chubut
-2022.0,26042,Gaiman,26.0,Chubut,17.3273201993829,AR-U,Chubut
-2022.0,26049,Gastre,26.0,Chubut,10.0418410041841,AR-U,Chubut
-2022.0,26056,Languiñeo,26.0,Chubut,6.24133148404993,AR-U,Chubut
-2022.0,26063,Mártires,26.0,Chubut,19.893899204244,AR-U,Chubut
-2022.0,26070,Paso de Indios,26.0,Chubut,15.9066808059385,AR-U,Chubut
-2022.0,26077,Rawson,26.0,Chubut,17.0413616624246,AR-U,Chubut
-2022.0,26084,Río Senguer,26.0,Chubut,16.9651272384543,AR-U,Chubut
-2022.0,26091,Sarmiento,26.0,Chubut,13.1542888462592,AR-U,Chubut
-2022.0,26098,Tehuelches,26.0,Chubut,18.0662428905989,AR-U,Chubut
-2022.0,26105,Telsen,26.0,Chubut,8.00985828712261,AR-U,Chubut
-2022.0,30008,Colón,30.0,Entre Ríos,16.0945488347387,AR-E,Entre Ríos
-2022.0,30015,Concordia,30.0,Entre Ríos,12.2584279836219,AR-E,Entre Ríos
-2022.0,30028,Federación,30.0,Entre Ríos,16.0247042228463,AR-E,Entre Ríos
-2022.0,30035,Federal,30.0,Entre Ríos,12.168402602218,AR-E,Entre Ríos
-2022.0,30042,Feliciano,30.0,Entre Ríos,9.70064869368565,AR-E,Entre Ríos
-2022.0,30049,Gualeguay,30.0,Entre Ríos,15.6187285133414,AR-E,Entre Ríos
-2022.0,30056,Gualeguaychú,30.0,Entre Ríos,17.0594623732629,AR-E,Entre Ríos
-2022.0,30063,Islas del Ibicuy,30.0,Entre Ríos,9.64285714285714,AR-E,Entre Ríos
-2022.0,30070,La Paz,30.0,Entre Ríos,10.7549696977734,AR-E,Entre Ríos
-2022.0,30077,Nogoyá,30.0,Entre Ríos,12.8255585137169,AR-E,Entre Ríos
-2022.0,30084,Paraná,30.0,Entre Ríos,15.6473387525019,AR-E,Entre Ríos
-2022.0,30088,San Salvador,30.0,Entre Ríos,17.8383044020332,AR-E,Entre Ríos
-2022.0,30091,Tala,30.0,Entre Ríos,11.2108339455109,AR-E,Entre Ríos
-2022.0,30098,Uruguay,30.0,Entre Ríos,14.2665612430816,AR-E,Entre Ríos
-2022.0,30105,Victoria,30.0,Entre Ríos,15.2760011807537,AR-E,Entre Ríos
-2022.0,30113,Villaguay,30.0,Entre Ríos,13.0296078571941,AR-E,Entre Ríos
-2022.0,34014,Formosa,34.0,Formosa,7.82672883537533,AR-P,Formosa
-2022.0,34021,Laishí,34.0,Formosa,3.83360099466404,AR-P,Formosa
-2022.0,34028,Matacos,34.0,Formosa,3.05307656176609,AR-P,Formosa
-2022.0,34035,Patiño,34.0,Formosa,4.03329300040333,AR-P,Formosa
-2022.0,34042,Pilagás,34.0,Formosa,2.04017576898933,AR-P,Formosa
-2022.0,34049,Pilcomayo,34.0,Formosa,4.88435417395082,AR-P,Formosa
-2022.0,34056,Pirané,34.0,Formosa,4.40909840118675,AR-P,Formosa
-2022.0,34063,Ramón Lista,34.0,Formosa,0.0564047605617914,AR-P,Formosa
-2022.0,38007,Cochinoca,38.0,Jujuy,8.70200611133254,AR-Y,Jujuy
-2022.0,38014,El Carmen,38.0,Jujuy,10.4931108314401,AR-Y,Jujuy
-2022.0,38021,Dr. Manuel Belgrano,38.0,Jujuy,9.49562291660176,AR-Y,Jujuy
-2022.0,38028,Humahuaca,38.0,Jujuy,3.9208185904179,AR-Y,Jujuy
-2022.0,38035,Ledesma,38.0,Jujuy,5.05029071001146,AR-Y,Jujuy
-2022.0,38042,Palpalá,38.0,Jujuy,5.00450099937444,AR-Y,Jujuy
-2022.0,38056,San Antonio,38.0,Jujuy,4.45831475702185,AR-Y,Jujuy
-2022.0,38063,San Pedro,38.0,Jujuy,5.00900941739101,AR-Y,Jujuy
-2022.0,38070,Santa Bárbara,38.0,Jujuy,3.02453778233085,AR-Y,Jujuy
-2022.0,38077,Santa Catalina,38.0,Jujuy,4.91307634164777,AR-Y,Jujuy
-2022.0,38084,Susques,38.0,Jujuy,11.9570522205954,AR-Y,Jujuy
-2022.0,38094,Tilcara,38.0,Jujuy,7.81196929556416,AR-Y,Jujuy
-2022.0,38098,Tumbaya,38.0,Jujuy,13.0087344359784,AR-Y,Jujuy
-2022.0,38105,Valle Grande,38.0,Jujuy,3.58708648864089,AR-Y,Jujuy
-2022.0,38112,Yavi,38.0,Jujuy,5.79867017164064,AR-Y,Jujuy
-2022.0,42007,Atreucó,42.0,La Pampa,25.6778595798168,AR-L,La Pampa
-2022.0,42021,Capital,42.0,La Pampa,22.8366992109135,AR-L,La Pampa
-2022.0,42028,Catriló,42.0,La Pampa,27.0795385549484,AR-L,La Pampa
-2022.0,42035,Conhelo,42.0,La Pampa,21.9939417884894,AR-L,La Pampa
-2022.0,42042,Curacó,42.0,La Pampa,18.8172043010753,AR-L,La Pampa
-2022.0,42056,Chapaleufú,42.0,La Pampa,26.3499270309713,AR-L,La Pampa
-2022.0,42063,Chical Co,42.0,La Pampa,4.77489768076398,AR-L,La Pampa
-2022.0,42070,Guatraché,42.0,La Pampa,21.1201008721236,AR-L,La Pampa
-2022.0,42077,Hucal,42.0,La Pampa,22.2165147039938,AR-L,La Pampa
-2022.0,42084,Lihuel Calel,42.0,La Pampa,24.8306997742664,AR-L,La Pampa
-2022.0,42091,Limay Mahuida,42.0,La Pampa,56.7375886524823,AR-L,La Pampa
-2022.0,42098,Loventué,42.0,La Pampa,16.1982407208753,AR-L,La Pampa
-2022.0,42105,Maracó,42.0,La Pampa,23.1320309577927,AR-L,La Pampa
-2022.0,42112,Puelén,42.0,La Pampa,13.8149991419255,AR-L,La Pampa
-2022.0,42119,Quemú Quemú,42.0,La Pampa,31.4420803782506,AR-L,La Pampa
-2022.0,42126,Rancul,42.0,La Pampa,20.3000089823049,AR-L,La Pampa
-2022.0,42133,Realicó,42.0,La Pampa,26.4453348597596,AR-L,La Pampa
-2022.0,42140,Toay,42.0,La Pampa,11.3151034444506,AR-L,La Pampa
-2022.0,42147,Trenel,42.0,La Pampa,21.220624342336,AR-L,La Pampa
-2022.0,46007,Arauco,46.0,La Rioja,9.71889032416805,AR-F,La Rioja
-2022.0,46014,Capital,46.0,La Rioja,9.8841961531011,AR-F,La Rioja
-2022.0,46021,Castro Barros,46.0,La Rioja,4.64716006884682,AR-F,La Rioja
-2022.0,46028,Coronel Felipe Varela,46.0,La Rioja,5.97959901512487,AR-F,La Rioja
-2022.0,46035,Chamical,46.0,La Rioja,7.02157538618665,AR-F,La Rioja
-2022.0,46042,Chilecito,46.0,La Rioja,9.11595632504507,AR-F,La Rioja
-2022.0,46049,Famatina,46.0,La Rioja,3.28477577834904,AR-F,La Rioja
-2022.0,46056,General  Angel V. Peñaloza,46.0,La Rioja,0.313971742543171,AR-F,La Rioja
-2022.0,46063,General Belgrano,46.0,La Rioja,5.38199002362825,AR-F,La Rioja
-2022.0,46070,General Juan F. Quiroga,46.0,La Rioja,0.248941996514812,AR-F,La Rioja
-2022.0,46077,General Lamadrid,46.0,La Rioja,2.65111346765642,AR-F,La Rioja
-2022.0,46084,General Ocampo,46.0,La Rioja,2.17716696149136,AR-F,La Rioja
-2022.0,46091,General San Martín,46.0,La Rioja,3.38712891014146,AR-F,La Rioja
-2022.0,46098,Vinchina,46.0,La Rioja,5.55761393108559,AR-F,La Rioja
-2022.0,46112,Rosario Vera Peñaloza,46.0,La Rioja,4.62522967750111,AR-F,La Rioja
-2022.0,46119,San Blas de Los Sauces,46.0,La Rioja,2.78164116828929,AR-F,La Rioja
-2022.0,46126,Sanagasta,46.0,La Rioja,2.63331138907176,AR-F,La Rioja
-2022.0,50007,Capital,50.0,Mendoza,50.3381566530355,AR-M,Mendoza
-2022.0,50014,General Alvear,50.0,Mendoza,13.1979309295603,AR-M,Mendoza
-2022.0,50021,Godoy Cruz,50.0,Mendoza,15.1466240347614,AR-M,Mendoza
-2022.0,50028,Guaymallén,50.0,Mendoza,11.7403701011908,AR-M,Mendoza
-2022.0,50035,Junín,50.0,Mendoza,11.801562097674,AR-M,Mendoza
-2022.0,50042,La Paz,50.0,Mendoza,4.63346020188648,AR-M,Mendoza
-2022.0,50049,Las Heras,50.0,Mendoza,6.10065656716482,AR-M,Mendoza
-2022.0,50056,Lavalle,50.0,Mendoza,8.05648016621791,AR-M,Mendoza
-2022.0,50063,Cuyo,50.0,Mendoza,13.1158029430582,AR-M,Mendoza
-2022.0,50070,Maipú,50.0,Mendoza,11.1803903337253,AR-M,Mendoza
-2022.0,50077,Malargüe,50.0,Mendoza,13.0818840358224,AR-M,Mendoza
-2022.0,50091,San Carlos,50.0,Mendoza,12.9674684592039,AR-M,Mendoza
-2022.0,50098,,50.0,Mendoza,14.3713517225592,AR-M,Mendoza
-2022.0,50105,San Rafael,50.0,Mendoza,14.1521718909869,AR-M,Mendoza
-2022.0,50112,Santa Rosa,50.0,Mendoza,14.9623361882159,AR-M,Mendoza
-2022.0,50119,Tunuyán,50.0,Mendoza,13.1126290073291,AR-M,Mendoza
-2022.0,50126,Tupungato,50.0,Mendoza,15.140503875969,AR-M,Mendoza
-2022.0,54007,Apóstoles,54.0,Misiones,9.98082890289938,AR-N,Misiones
-2022.0,54014,Cainguás,54.0,Misiones,15.3119943956099,AR-N,Misiones
-2022.0,54021,Candelaria,54.0,Misiones,3.45432923721615,AR-N,Misiones
-2022.0,54028,Capital,54.0,Misiones,10.8470193602244,AR-N,Misiones
-2022.0,54035,Concepción,54.0,Misiones,14.1090065713181,AR-N,Misiones
-2022.0,54042,Eldorado,54.0,Misiones,8.55791034362463,AR-N,Misiones
-2022.0,54049,General Manuel Belgrano,54.0,Misiones,7.19771779679614,AR-N,Misiones
-2022.0,54056,Guaraní,54.0,Misiones,6.24675997926387,AR-N,Misiones
-2022.0,54070,Leandro N. Alem,54.0,Misiones,11.7878587063478,AR-N,Misiones
-2022.0,54077,Libertador General San Martín,54.0,Misiones,9.11726558327611,AR-N,Misiones
-2022.0,54084,Montecarlo,54.0,Misiones,10.2666218417854,AR-N,Misiones
-2022.0,54091,Oberá,54.0,Misiones,12.3828070434918,AR-N,Misiones
-2022.0,54098,San Ignacio,54.0,Misiones,7.60324320913651,AR-N,Misiones
-2022.0,54105,San Javier,54.0,Misiones,5.19082670297409,AR-N,Misiones
-2022.0,54112,San Pedro,54.0,Misiones,0.833309387661274,AR-N,Misiones
-2022.0,54119,25de Mayo,54.0,Misiones,4.7262956848273,AR-N,Misiones
-2022.0,58007,Aluminé,58.0,Neuquén,10.7379929714955,AR-Q,Neuquén
-2022.0,58014,Añelo,58.0,Neuquén,16.8446548497193,AR-Q,Neuquén
-2022.0,58021,Catán Lil,58.0,Neuquén,4.85799701046338,AR-Q,Neuquén
-2022.0,58028,Collón Curá,58.0,Neuquén,12.6163391933816,AR-Q,Neuquén
-2022.0,58035,Confluencia,58.0,Neuquén,18.0313741216824,AR-Q,Neuquén
-2022.0,58042,Chos Malal,58.0,Neuquén,11.8140243902439,AR-Q,Neuquén
-2022.0,58056,Lácar,58.0,Neuquén,26.7703808465502,AR-Q,Neuquén
-2022.0,58063,Loncopué,58.0,Neuquén,10.7820213042349,AR-Q,Neuquén
-2022.0,58070,Los Lagos,58.0,Neuquén,33.6226293796207,AR-Q,Neuquén
-2022.0,58077,Minas,58.0,Neuquén,3.23729362253156,AR-Q,Neuquén
-2022.0,58084,Ñorquín,58.0,Neuquén,2.49598858976645,AR-Q,Neuquén
-2022.0,58091,Pehuenches,58.0,Neuquén,13.9817833495782,AR-Q,Neuquén
-2022.0,58098,Picún Leufú,58.0,Neuquén,6.48712404167486,AR-Q,Neuquén
-2022.0,58112,Zapala,58.0,Neuquén,10.0879688388989,AR-Q,Neuquén
-2022.0,58105,Picunches,58.0,Neuquén,6.94526191877575,AR-Q,Neuquén
-2022.0,62007,Adolfo Alsina,62.0,Río Negro,17.1520734468534,AR-R,Río Negro
-2022.0,62014,Avellaneda,62.0,Río Negro,14.3161153027665,AR-R,Río Negro
-2022.0,62021,Bariloche,62.0,Río Negro,22.7098859878584,AR-R,Río Negro
-2022.0,62028,Conesa,62.0,Río Negro,17.7682056804415,AR-R,Río Negro
-2022.0,62035,El Cuy,62.0,Río Negro,5.89080459770115,AR-R,Río Negro
-2022.0,62049,9 de julio,62.0,Río Negro,4.57112126915838,AR-R,Río Negro
-2022.0,62056,Ñorquinco,62.0,Río Negro,6.19834710743802,AR-R,Río Negro
-2022.0,62063,Pichi Mahuida,62.0,Río Negro,17.5215999033291,AR-R,Río Negro
-2022.0,62070,Pilcaniyeu,62.0,Río Negro,10.3488744265443,AR-R,Río Negro
-2022.0,62091,25 de Mayo,62.0,Río Negro,8.73310204569925,AR-R,Río Negro
-2022.0,62077,San Antonio,62.0,Río Negro,16.927374301676,AR-R,Río Negro
-2022.0,62084,Valcheta,62.0,Río Negro,10.4190784903913,AR-R,Río Negro
-2022.0,66007,Anta,66.0,Salta,7.59583867749751,AR-A,Salta
-2022.0,66014,Cachi,66.0,Salta,5.02905677246312,AR-A,Salta
-2022.0,66021,Cafayate,66.0,Salta,13.4612148746424,AR-A,Salta
-2022.0,66028,Capital,66.0,Salta,11.392312300065,AR-A,Salta
-2022.0,66035,Cerrillos,66.0,Salta,5.86248190316181,AR-A,Salta
-2022.0,66042,Chicoana,66.0,Salta,12.8189574992923,AR-A,Salta
-2022.0,66056,General José de San Martín,66.0,Salta,6.17401856138064,AR-A,Salta
-2022.0,66063,Guachipas,66.0,Salta,11.1715840733314,AR-A,Salta
-2022.0,66070,Iruya,66.0,Salta,0.3269042170644,AR-A,Salta
-2022.0,66077,La Caldera,66.0,Salta,3.17098951134239,AR-A,Salta
-2022.0,66084,La Candelaria,66.0,Salta,9.43789035392089,AR-A,Salta
-2022.0,66091,La Poma,66.0,Salta,3.91280044717719,AR-A,Salta
-2022.0,66098,La Viña,66.0,Salta,7.64044943820225,AR-A,Salta
-2022.0,66105,Los Andes,66.0,Salta,15.3160679476469,AR-A,Salta
-2022.0,66112,Metán,66.0,Salta,8.39465229557467,AR-A,Salta
-2022.0,66119,Molinos,66.0,Salta,6.18556701030928,AR-A,Salta
-2022.0,66126,Orán,66.0,Salta,5.08584305474284,AR-A,Salta
-2022.0,66133,Rivadavia,66.0,Salta,1.75793036496733,AR-A,Salta
-2022.0,66140,Rosario de la Frontera,66.0,Salta,9.13957821881747,AR-A,Salta
-2022.0,66147,Rosario de Lerma,66.0,Salta,8.48553735204202,AR-A,Salta
-2022.0,66154,San Carlos,66.0,Salta,1.66709412669915,AR-A,Salta
-2022.0,70007,Albardón,70.0,San Juan,5.88160081830968,AR-J,San Juan
-2022.0,70014,Angaco,70.0,San Juan,4.6187106918239,AR-J,San Juan
-2022.0,70021,Calingasta,70.0,San Juan,11.4192495921697,AR-J,San Juan
-2022.0,70028,Capital,70.0,San Juan,39.3361643123321,AR-J,San Juan
-2022.0,70035,Caucete,70.0,San Juan,9.14931777419575,AR-J,San Juan
-2022.0,70042,Chimbas,70.0,San Juan,4.29814346710595,AR-J,San Juan
-2022.0,70049,Iglesia,70.0,San Juan,16.9587337478802,AR-J,San Juan
-2022.0,70056,Jachal,70.0,San Juan,7.31312013282207,AR-J,San Juan
-2022.0,70063,9 de Julio,70.0,San Juan,6.87230302061691,AR-J,San Juan
-2022.0,70070,Pocito,70.0,San Juan,6.61043680998423,AR-J,San Juan
-2022.0,70077,Rawson,70.0,San Juan,5.96558261416954,AR-J,San Juan
-2022.0,70084,Rivadavia,70.0,San Juan,4.83937599590817,AR-J,San Juan
-2022.0,70098,Santa Lucía,70.0,San Juan,8.95917358797366,AR-J,San Juan
-2022.0,70105,Sarmiento,70.0,San Juan,9.82050904810946,AR-J,San Juan
-2022.0,70119,Valle Fértil,70.0,San Juan,4.80882007975604,AR-J,San Juan
-2022.0,70126,25 de Mayo,70.0,San Juan,7.20322704571648,AR-J,San Juan
-2022.0,70133,Zonda,70.0,San Juan,1.19706718539578,AR-J,San Juan
-2022.0,74007,Ayacucho,74.0,San Luis,5.60364655208464,AR-D,San Luis
-2022.0,74014,Belgrano,74.0,San Luis,3.94053376320974,AR-D,San Luis
-2022.0,74021,Coronel Pringles,74.0,San Luis,13.0849274098075,AR-D,San Luis
-2022.0,74028,Chacabuco,74.0,San Luis,10.242120721467,AR-D,San Luis
-2022.0,74035,General Pedernera,74.0,San Luis,12.5474391267842,AR-D,San Luis
-2022.0,74042,Gobernador Dupuy,74.0,San Luis,15.6173743289409,AR-D,San Luis
-2022.0,74049,Junín,74.0,San Luis,13.1314883179307,AR-D,San Luis
-2022.0,74056,Juan Martín de Pueyrredón,74.0,San Luis,12.2202394372117,AR-D,San Luis
-2022.0,74063,Libertador General San Martín,74.0,San Luis,5.11617991899382,AR-D,San Luis
-2022.0,78007,Corpen Aike,78.0,Santa Cruz,10.8760134467075,AR-Z,Santa Cruz
-2022.0,78014,Deseado,78.0,Santa Cruz,13.5944391406231,AR-Z,Santa Cruz
-2022.0,78028,Lago Argentino,78.0,Santa Cruz,27.5150472914875,AR-Z,Santa Cruz
-2022.0,78035,Lago Buenos Aires,78.0,Santa Cruz,19.1972076788831,AR-Z,Santa Cruz
-2022.0,78042,Magallanes,78.0,Santa Cruz,16.3426535512354,AR-Z,Santa Cruz
-2022.0,78049,Río Chico,78.0,Santa Cruz,15.5210643015521,AR-Z,Santa Cruz
-2022.0,82007,Belgrano,82.0,Santa Fe,25.6452307250774,AR-S,Santa Fe
-2022.0,82014,Caseros,82.0,Santa Fe,23.8747238586156,AR-S,Santa Fe
-2022.0,82021,Castellanos,82.0,Santa Fe,20.9154305084034,AR-S,Santa Fe
-2022.0,82028,Constitución,82.0,Santa Fe,16.4060744212926,AR-S,Santa Fe
-2022.0,82035,Garay,82.0,Santa Fe,10.8717454968508,AR-S,Santa Fe
-2022.0,82042,General López,82.0,Santa Fe,25.7374462976376,AR-S,Santa Fe
-2022.0,82049,General Obligado,82.0,Santa Fe,13.1827502954754,AR-S,Santa Fe
-2022.0,82056,Iriondo,82.0,Santa Fe,21.3008697519596,AR-S,Santa Fe
-2022.0,82063,La Capital,82.0,Santa Fe,13.1687242798354,AR-S,Santa Fe
-2022.0,82070,Las Colonias,82.0,Santa Fe,22.8961465353378,AR-S,Santa Fe
-2022.0,82084,Rosario,82.0,Santa Fe,18.7050733099779,AR-S,Santa Fe
-2022.0,82091,San Cristóbal,82.0,Santa Fe,19.8623645279598,AR-S,Santa Fe
-2022.0,82098,San Javier,82.0,Santa Fe,11.6006491554968,AR-S,Santa Fe
-2022.0,82105,San Jerónimo,82.0,Santa Fe,18.0856059651574,AR-S,Santa Fe
-2022.0,82112,San Justo,82.0,Santa Fe,17.357762777242,AR-S,Santa Fe
-2022.0,82119,San Lorenzo,82.0,Santa Fe,16.7900092506938,AR-S,Santa Fe
-2022.0,82126,San Martín,82.0,Santa Fe,22.5279018679877,AR-S,Santa Fe
-2022.0,82133,Vera,82.0,Santa Fe,11.565852178414,AR-S,Santa Fe
-2022.0,86007,Aguirre,86.0,Santiago del Estero,6.13154960981048,AR-G,Santiago del Estero
-2022.0,86014,Alberdi,86.0,Santiago del Estero,4.87465181058496,AR-G,Santiago del Estero
-2022.0,86021,Atamisqui,86.0,Santiago del Estero,0.402603502650473,AR-G,Santiago del Estero
-2022.0,86028,Avellaneda,86.0,Santiago del Estero,2.04113675616266,AR-G,Santiago del Estero
-2022.0,86035,Banda,86.0,Santiago del Estero,5.76615431494688,AR-G,Santiago del Estero
-2022.0,86042,Belgrano,86.0,Santiago del Estero,26.9120503098123,AR-G,Santiago del Estero
-2022.0,86056,Copo,86.0,Santiago del Estero,4.00100724657956,AR-G,Santiago del Estero
-2022.0,86063,Choya,86.0,Santiago del Estero,6.33345527711725,AR-G,Santiago del Estero
-2022.0,86070,Figueroa,86.0,Santiago del Estero,1.52935372471633,AR-G,Santiago del Estero
-2022.0,86077,General Taboada,86.0,Santiago del Estero,5.20340586565752,AR-G,Santiago del Estero
-2022.0,86084,Guasayán,86.0,Santiago del Estero,1.94489465153971,AR-G,Santiago del Estero
-2022.0,86091,Jiménez,86.0,Santiago del Estero,2.95302013422819,AR-G,Santiago del Estero
-2022.0,86098,Juan F. Ibarra,86.0,Santiago del Estero,2.1370634804993,AR-G,Santiago del Estero
-2022.0,86105,Loreto,86.0,Santiago del Estero,3.28345802161264,AR-G,Santiago del Estero
-2022.0,86112,Mitre,86.0,Santiago del Estero,4.16666666666667,AR-G,Santiago del Estero
-2022.0,86119,Moreno,86.0,Santiago del Estero,8.13148788927336,AR-G,Santiago del Estero
-2022.0,86126,Ojo de Agua,86.0,Santiago del Estero,4.82931992590632,AR-G,Santiago del Estero
-2022.0,86133,Pellegrini,86.0,Santiago del Estero,3.32149811018211,AR-G,Santiago del Estero
-2022.0,86140,Quebrachos,86.0,Santiago del Estero,4.6138902379796,AR-G,Santiago del Estero
-2022.0,86147,Río Hondo,86.0,Santiago del Estero,5.75186111652012,AR-G,Santiago del Estero
-2022.0,86161,Robles,86.0,Santiago del Estero,4.29510321207072,AR-G,Santiago del Estero
-2022.0,86175,San Martín,86.0,Santiago del Estero,1.18163403106009,AR-G,Santiago del Estero
-2022.0,86182,Sarmiento,86.0,Santiago del Estero,4.76379515680826,AR-G,Santiago del Estero
-2022.0,86168,Salavina,86.0,Santiago del Estero,2.03331508563385,AR-G,Santiago del Estero
-2022.0,86189,Silipica,86.0,Santiago del Estero,2.96948597173869,AR-G,Santiago del Estero
-2022.0,90007,Burruyacú,90.0,Tucumán,3.82619403641481,AR-T,Tucumán
-2022.0,90014,Cruz Alta,90.0,Tucumán,4.42832902923136,AR-T,Tucumán
-2022.0,90021,Chicligasta,90.0,Tucumán,7.59113683483068,AR-T,Tucumán
-2022.0,90028,Famaillá,90.0,Tucumán,6.15896210950307,AR-T,Tucumán
-2022.0,90035,Graneros,90.0,Tucumán,2.57400257400257,AR-T,Tucumán
-2022.0,90042,Juan Bautista Alberdi,90.0,Tucumán,7.36351607892769,AR-T,Tucumán
-2022.0,90049,La Cocha,90.0,Tucumán,4.85436893203883,AR-T,Tucumán
-2022.0,90056,Leales,90.0,Tucumán,2.69610796481504,AR-T,Tucumán
-2022.0,90063,Lules,90.0,Tucumán,3.59158542842483,AR-T,Tucumán
-2022.0,90077,Río Chico,90.0,Tucumán,4.23324405036791,AR-T,Tucumán
-2022.0,90084,Capital,90.0,Tucumán,14.4932937178788,AR-T,Tucumán
-2022.0,90091,Simoca,90.0,Tucumán,3.67835988423985,AR-T,Tucumán
-2022.0,90098,Tafí del Valle,90.0,Tucumán,5.92691622103387,AR-T,Tucumán
-2022.0,90105,Tafí Viejo,90.0,Tucumán,4.052351057311,AR-T,Tucumán
-2022.0,90112,Trancas,90.0,Tucumán,5.44819954030816,AR-T,Tucumán
-2022.0,90119,Yerba Buena,90.0,Tucumán,13.2955684682843,AR-T,Tucumán
-2022.0,94008,,94.0,Tierra del Fuego,15.1247972108302,AR-V,Tierra del Fuego
-2022.0,94011,Tolhuin,94.0,Tierra del Fuego,10.9289617486339,AR-V,Tierra del Fuego
-2022.0,94015,,94.0,Tierra del Fuego,21.5002923940227,AR-V,Tierra del Fuego
-,94028,Antártida Argentina,,,,,
-,94021,Islas del Atlántico Sur,,,,,
-2022.0,2049,Comuna 7,2.0,Ciudad de Buenos Aires,32.7426168155038,,
-2022.0,6049,Azul,6.0,Buenos Aires,20.9472366774257,AR-B,Buenos Aires
-2022.0,6112,Bragado,6.0,Buenos Aires,18.277997591605,AR-B,Buenos Aires
-2022.0,6134,Cañuelas,6.0,Buenos Aires,14.0484409484466,AR-B,Buenos Aires
-2022.0,6238,Dolores,6.0,Buenos Aires,14.9537962037962,AR-B,Buenos Aires
-2022.0,6329,General Las Heras,6.0,Buenos Aires,13.7054710908889,AR-B,Buenos Aires
-2022.0,6420,La Costa,6.0,Buenos Aires,18.0059390797406,AR-B,Buenos Aires
-2022.0,6515,Malvinas Argentinas,6.0,Buenos Aires,7.31163416734631,AR-B,Buenos Aires
-2022.0,6616,Pellegrini,6.0,Buenos Aires,24.4995100097998,AR-B,Buenos Aires
-2022.0,6707,Saladillo,6.0,Buenos Aires,20.3051379851918,AR-B,Buenos Aires
-2022.0,6805,Tigre,6.0,Buenos Aires,12.7419459490904,AR-B,Buenos Aires
-2022.0,10028,Antofagasta de la Sierra,10.0,Catamarca,11.3748763600396,AR-K,Catamarca
-2022.0,14007,Calamuchita,14.0,Córdoba,13.8846807445561,AR-X,Córdoba
-2022.0,14028,Cruz del Eje,14.0,Córdoba,6.28799618548099,AR-X,Córdoba
-2022.0,14133,San Javier,14.0,Córdoba,10.4296511352699,AR-X,Córdoba
-2022.0,18056,General Alvear,18.0,Corrientes,7.76380535811919,AR-W,Corrientes
-2022.0,18161,San Roque,18.0,Corrientes,6.20735197006383,AR-W,Corrientes
-2022.0,22084,Libertador General San Martín,22.0,Chaco,4.36927199098742,AR-H,Chaco
-2022.0,26021,Escalante,26.0,Chubut,18.198864717595,AR-U,Chubut
-2022.0,30021,Diamante,30.0,Entre Ríos,14.1990857356097,AR-E,Entre Ríos
-2022.0,34007,Bermejo,34.0,Formosa,2.55689082076195,AR-P,Formosa
-2022.0,38049,Rinconada,38.0,Jujuy,18.3129855715871,AR-Y,Jujuy
-2022.0,42014,Caleu Caleu,42.0,La Pampa,14.1708157793949,AR-L,La Pampa
-2022.0,42049,Chalileo,42.0,La Pampa,7.62564991334489,AR-L,La Pampa
-2022.0,42154,Utracán,42.0,La Pampa,17.3014268059769,AR-L,La Pampa
-2022.0,46105,Independencia,46.0,La Rioja,2.49895876718034,AR-F,La Rioja
-2022.0,50084,Rivadavia,50.0,Mendoza,15.4729772142364,AR-M,Mendoza
-2022.0,54063,Iguazú,54.0,Misiones,9.24112851662404,AR-N,Misiones
-2022.0,58049,Huiliches,58.0,Neuquén,11.204882467935,AR-Q,Neuquén
-2022.0,62042,General Roca,62.0,Río Negro,17.1631298863412,AR-R,Río Negro
-2022.0,66049,General Güemes,66.0,Salta,7.51344229605099,AR-A,Salta
-2022.0,66161,Santa Victoria,66.0,Salta,0.424944226070328,AR-A,Salta
-2022.0,70091,San Martín,70.0,San Juan,5.51971802886214,AR-J,San Juan
-2022.0,70112,Ullum,70.0,San Juan,0.774713356058258,AR-J,San Juan
-2022.0,78021,Güer Aike,78.0,Santa Cruz,13.9961564958846,AR-Z,Santa Cruz
-2022.0,82077,9 de Julio,82.0,Santa Fe,16.2606872076141,AR-S,Santa Fe
-2022.0,86049,Capital,86.0,Santiago del Estero,10.466144823575,AR-G,Santiago del Estero
-2022.0,86154,Rivadavia,86.0,Santiago del Estero,19.755409219191,AR-G,Santiago del Estero
-2022.0,90070,Monteros,90.0,Tucumán,5.828422586427,AR-T,Tucumán
+geocodigoFundar,geonombreFundar,anio,id_depto,departamento,provincia_id,densidad_emp
+,,2022.0,2007,Comuna 1,2.0,166.823228392245
+,,2022.0,2014,Comuna 2,2.0,74.6388691267902
+,,2022.0,2021,Comuna 3,2.0,54.1734610680799
+,,2022.0,2028,Comuna 4,2.0,31.7571104519281
+,,2022.0,2035,Comuna 5,2.0,35.8365376201286
+,,2022.0,2042,Comuna 6,2.0,37.6225725585221
+,,2022.0,2056,Comuna 8,2.0,11.034071058439
+,,2022.0,2063,Comuna 9,2.0,29.1015775184399
+,,2022.0,2070,Comuna 10,2.0,32.4269959076091
+,,2022.0,2077,Comuna 11,2.0,31.9451029076104
+,,2022.0,2084,Comuna 12,2.0,31.1709802564092
+,,2022.0,2091,Comuna 13,2.0,55.3473154679728
+,,2022.0,2098,Comuna 14,2.0,65.5700122669777
+,,2022.0,2105,Comuna 15,2.0,48.914037262033
+AR-B,Buenos Aires,2022.0,6007,Adolfo Alsina,6.0,25.0683682771194
+AR-B,Buenos Aires,2022.0,6014,Adolfo Gonzales Chaves,6.0,24.5470032522843
+AR-B,Buenos Aires,2022.0,6021,Alberti,6.0,18.5641657679864
+AR-B,Buenos Aires,2022.0,6028,Almirante Brown,6.0,6.85159884889036
+AR-B,Buenos Aires,2022.0,6035,Avellaneda,6.0,15.1460737741937
+AR-B,Buenos Aires,2022.0,6042,Ayacucho,6.0,27.3467716248806
+AR-B,Buenos Aires,2022.0,6056,Bahía Blanca,6.0,22.2833611627755
+AR-B,Buenos Aires,2022.0,6063,Balcarce,6.0,22.8451267812666
+AR-B,Buenos Aires,2022.0,6070,Baradero,6.0,17.7741112944353
+AR-B,Buenos Aires,2022.0,6077,Arrecifes,6.0,18.2834083501474
+AR-B,Buenos Aires,2022.0,6084,Benito Juárez,6.0,23.0127399964113
+AR-B,Buenos Aires,2022.0,6091,Berazategui,6.0,7.1282811837909
+AR-B,Buenos Aires,2022.0,6098,Berisso,6.0,6.6878034281185
+AR-B,Buenos Aires,2022.0,6105,Bolívar,6.0,24.4719902112039
+AR-B,Buenos Aires,2022.0,6119,Brandsen,6.0,15.7174556213018
+AR-B,Buenos Aires,2022.0,6126,Campana,6.0,14.5704827885607
+AR-B,Buenos Aires,2022.0,6140,Capitán Sarmiento,6.0,21.1713122455371
+AR-B,Buenos Aires,2022.0,6147,Carlos Casares,6.0,24.5887445887446
+AR-B,Buenos Aires,2022.0,6154,Carlos Tejedor,6.0,17.2597485616876
+AR-B,Buenos Aires,2022.0,6161,Carmen de Areco,6.0,21.8869649694268
+AR-B,Buenos Aires,2022.0,6168,Castelli,6.0,20.1167396289348
+AR-B,Buenos Aires,2022.0,6175,Colón,6.0,17.8519488074462
+AR-B,Buenos Aires,2022.0,6182,Coronel de Marina Leonardo Rosales,6.0,9.34773269336178
+AR-B,Buenos Aires,2022.0,6189,Coronel Dorrego,6.0,24.3612224448898
+AR-B,Buenos Aires,2022.0,6196,Coronel Pringles,6.0,23.0958230958231
+AR-B,Buenos Aires,2022.0,6203,Coronel Suárez,6.0,24.4834956067442
+AR-B,Buenos Aires,2022.0,6210,Chacabuco,6.0,20.7847376306158
+AR-B,Buenos Aires,2022.0,6218,Chascomús,6.0,20.446622067276
+AR-B,Buenos Aires,2022.0,6224,Chivilcoy,6.0,20.2854359886503
+AR-B,Buenos Aires,2022.0,6231,Daireaux,6.0,23.884485940723
+AR-B,Buenos Aires,2022.0,6245,Ensenada,6.0,9.68795412284951
+AR-B,Buenos Aires,2022.0,6252,Escobar,6.0,10.3134218864626
+AR-B,Buenos Aires,2022.0,6260,Esteban Echeverría,6.0,7.9975183171827
+AR-B,Buenos Aires,2022.0,6266,Exaltación de la Cruz,6.0,13.5461540377001
+AR-B,Buenos Aires,2022.0,6270,Ezeiza,6.0,8.31220131903469
+AR-B,Buenos Aires,2022.0,6274,Florencio Varela,6.0,3.97838177558704
+AR-B,Buenos Aires,2022.0,6277,Florentino Ameghino,6.0,20.2965708989805
+AR-B,Buenos Aires,2022.0,6280,General Alvarado,6.0,20.9330931775249
+AR-B,Buenos Aires,2022.0,6287,General Alvear,6.0,13.8132146420075
+AR-B,Buenos Aires,2022.0,6294,General Arenales,6.0,22.0183486238532
+AR-B,Buenos Aires,2022.0,6301,General Belgrano,6.0,19.5276802462604
+AR-B,Buenos Aires,2022.0,6308,General Guido,6.0,29.9306868304978
+AR-B,Buenos Aires,2022.0,6315,General Juan Madariaga,6.0,18.5201555869873
+AR-B,Buenos Aires,2022.0,6322,General La Madrid,6.0,25.6498536753314
+AR-B,Buenos Aires,2022.0,6336,General Lavalle,6.0,24.0246406570842
+AR-B,Buenos Aires,2022.0,6343,General Paz,6.0,15.4853241359893
+AR-B,Buenos Aires,2022.0,6351,General Pinto,6.0,19.3957190325323
+AR-B,Buenos Aires,2022.0,6357,General Pueyrredón,6.0,22.4425183110922
+AR-B,Buenos Aires,2022.0,6364,General Rodríguez,6.0,9.95732574679943
+AR-B,Buenos Aires,2022.0,6371,General San Martín,6.0,15.9285357598624
+AR-B,Buenos Aires,2022.0,6385,General Viamonte,6.0,15.100004415206
+AR-B,Buenos Aires,2022.0,6392,General Villegas,6.0,26.9495900825508
+AR-B,Buenos Aires,2022.0,6399,Guaminí,6.0,27.1163460723667
+AR-B,Buenos Aires,2022.0,6406,Hipólito Yrigoyen,6.0,21.6677609980302
+AR-B,Buenos Aires,2022.0,6408,Hurlingham,6.0,8.80732165846984
+AR-B,Buenos Aires,2022.0,6410,Ituzaingó,6.0,10.8027431310755
+AR-B,Buenos Aires,2022.0,6412,José C. Paz,6.0,3.77073445221901
+AR-B,Buenos Aires,2022.0,6413,Junín,6.0,21.7464615028857
+AR-B,Buenos Aires,2022.0,6427,La Matanza,6.0,6.77312712525805
+AR-B,Buenos Aires,2022.0,6434,Lanús,6.0,13.2656357380866
+AR-B,Buenos Aires,2022.0,6441,La Plata,6.0,12.8345934128853
+AR-B,Buenos Aires,2022.0,6448,Laprida,6.0,20.607934054611
+AR-B,Buenos Aires,2022.0,6455,Las Flores,6.0,17.3280957450714
+AR-B,Buenos Aires,2022.0,6462,Leandro N. Alem,6.0,25.4256921116645
+AR-B,Buenos Aires,2022.0,6466,Lezama,6.0,33.9173766275518
+AR-B,Buenos Aires,2022.0,6469,Lincoln,6.0,23.9528853338021
+AR-B,Buenos Aires,2022.0,6476,Lobería,6.0,27.6270350271337
+AR-B,Buenos Aires,2022.0,6483,Lobos,6.0,18.6781609195402
+AR-B,Buenos Aires,2022.0,6490,Lomas de Zamora,6.0,9.57522782813263
+AR-B,Buenos Aires,2022.0,6497,Luján,6.0,17.5933266070914
+AR-B,Buenos Aires,2022.0,6505,Magdalena,6.0,11.9269474468878
+AR-B,Buenos Aires,2022.0,6511,Maipú,6.0,19.5177956371986
+AR-B,Buenos Aires,2022.0,6518,Mar Chiquita,6.0,14.3461189972818
+AR-B,Buenos Aires,2022.0,6525,Marcos Paz,6.0,7.50623032039516
+AR-B,Buenos Aires,2022.0,6532,Mercedes,6.0,14.8122773362565
+AR-B,Buenos Aires,2022.0,6539,Merlo,6.0,4.3760708411876
+AR-B,Buenos Aires,2022.0,6547,Monte,6.0,19.0606401801512
+AR-B,Buenos Aires,2022.0,6553,Monte Hermoso,6.0,32.9592439456586
+AR-B,Buenos Aires,2022.0,6560,Moreno,6.0,5.23210643876857
+AR-B,Buenos Aires,2022.0,6568,Morón,6.0,17.0117427524964
+AR-B,Buenos Aires,2022.0,6574,Navarro,6.0,16.4329865822403
+AR-B,Buenos Aires,2022.0,6581,Necochea,6.0,20.9382038977573
+AR-B,Buenos Aires,2022.0,6588,9 de Julio,6.0,20.9097648601897
+AR-B,Buenos Aires,2022.0,6595,Olavarría,6.0,19.2761886585395
+AR-B,Buenos Aires,2022.0,6602,Patagones,6.0,14.3972799234978
+AR-B,Buenos Aires,2022.0,6609,Pehuajó,6.0,20.5211799120202
+AR-B,Buenos Aires,2022.0,6623,Pergamino,6.0,20.5566152245535
+AR-B,Buenos Aires,2022.0,6630,Pila,6.0,9.90952175786299
+AR-B,Buenos Aires,2022.0,6638,Pilar,6.0,12.0454764232915
+AR-B,Buenos Aires,2022.0,6644,Pinamar,6.0,35.3621131080636
+AR-B,Buenos Aires,2022.0,6648,Presidente Perón,6.0,3.26131667091062
+AR-B,Buenos Aires,2022.0,6651,Puán,6.0,24.5590802383675
+AR-B,Buenos Aires,2022.0,6655,Punta Indio,6.0,12.8486622753517
+AR-B,Buenos Aires,2022.0,6658,Quilmes,6.0,10.0017208959395
+AR-B,Buenos Aires,2022.0,6665,Ramallo,6.0,17.1406997231311
+AR-B,Buenos Aires,2022.0,6672,Rauch,6.0,24.4063721070033
+AR-B,Buenos Aires,2022.0,6679,Rivadavia,6.0,27.2054007758577
+AR-B,Buenos Aires,2022.0,6686,Rojas,6.0,23.4908494946736
+AR-B,Buenos Aires,2022.0,6693,Roque Pérez,6.0,23.2524862273735
+AR-B,Buenos Aires,2022.0,6700,Saavedra,6.0,24.6705417757465
+AR-B,Buenos Aires,2022.0,6714,Salto,6.0,18.6176284083703
+AR-B,Buenos Aires,2022.0,6721,Salliqueló,6.0,25.3527103002015
+AR-B,Buenos Aires,2022.0,6728,San Andrés de Giles,6.0,20.2942285929838
+AR-B,Buenos Aires,2022.0,6735,San Antonio de Areco,6.0,20.7458080826858
+AR-B,Buenos Aires,2022.0,6742,San Cayetano,6.0,21.0140093395597
+AR-B,Buenos Aires,2022.0,6749,San Fernando,6.0,14.0313257505128
+AR-B,Buenos Aires,2022.0,6756,San Isidro,6.0,26.9777517643181
+AR-B,Buenos Aires,2022.0,6760,San Miguel,6.0,9.52757461949002
+AR-B,Buenos Aires,2022.0,6763,San Nicolás,6.0,13.6631232719992
+AR-B,Buenos Aires,2022.0,6770,San Pedro,6.0,16.7898211709151
+AR-B,Buenos Aires,2022.0,6778,San Vicente,6.0,6.39413531537952
+AR-B,Buenos Aires,2022.0,6784,Suipacha,6.0,16.4602070252842
+AR-B,Buenos Aires,2022.0,6791,Tandil,6.0,27.4566374720934
+AR-B,Buenos Aires,2022.0,6798,Tapalqué,6.0,21.9790410831865
+AR-B,Buenos Aires,2022.0,6812,Tordillo,6.0,14.5554681353265
+AR-B,Buenos Aires,2022.0,6819,Tornquist,6.0,27.6839972991222
+AR-B,Buenos Aires,2022.0,6826,Trenque Lauquen,6.0,27.2566874201464
+AR-B,Buenos Aires,2022.0,6833,Tres Arroyos,6.0,25.4060807996668
+AR-B,Buenos Aires,2022.0,6840,Tres de Febrero,6.0,15.9950134001142
+AR-B,Buenos Aires,2022.0,6847,Tres Lomas,6.0,19.4238323876037
+AR-B,Buenos Aires,2022.0,6854,25 de Mayo,6.0,21.1455726457273
+AR-B,Buenos Aires,2022.0,6861,Vicente López,6.0,28.4255759332013
+AR-B,Buenos Aires,2022.0,6868,Villa Gesell,6.0,34.2471238288445
+AR-B,Buenos Aires,2022.0,6875,Villarino,6.0,19.5922609041171
+AR-B,Buenos Aires,2022.0,6882,Zárate,6.0,13.1446593203803
+AR-K,Catamarca,2022.0,10007,Ambato,10.0,4.67927471241958
+AR-K,Catamarca,2022.0,10014,Ancasti,10.0,1.51423379769836
+AR-K,Catamarca,2022.0,10021,Andalgalá,10.0,9.24890740928956
+AR-K,Catamarca,2022.0,10035,Belén,10.0,6.64071444927868
+AR-K,Catamarca,2022.0,10042,Capayán,10.0,2.96706059844104
+AR-K,Catamarca,2022.0,10049,Capital,10.0,12.9074015630098
+AR-K,Catamarca,2022.0,10056,El Alto,10.0,4.11428571428571
+AR-K,Catamarca,2022.0,10063,Fray Mamerto Esquiú,10.0,5.12820512820513
+AR-K,Catamarca,2022.0,10070,La Paz,10.0,4.70231323473644
+AR-K,Catamarca,2022.0,10077,Paclín,10.0,4.65608465608466
+AR-K,Catamarca,2022.0,10084,Pomán,10.0,8.23817292006525
+AR-K,Catamarca,2022.0,10091,Santa María,10.0,7.68688031490215
+AR-K,Catamarca,2022.0,10098,Santa Rosa,10.0,7.35625281489266
+AR-K,Catamarca,2022.0,10105,Tinogasta,10.0,5.98543020279583
+AR-K,Catamarca,2022.0,10112,Valle viejo,10.0,3.43824385083311
+AR-X,Córdoba,2022.0,14014,Capital,14.0,16.1076233183856
+AR-X,Córdoba,2022.0,14021,Colón,14.0,11.3991038972018
+AR-X,Córdoba,2022.0,14035,General Roca,14.0,29.3582031896694
+AR-X,Córdoba,2022.0,14042,General San Martín,14.0,22.4542843993284
+AR-X,Córdoba,2022.0,14049,Ischilín,14.0,7.31829018129401
+AR-X,Córdoba,2022.0,14056,Juárez Celman,14.0,25.8483775553321
+AR-X,Córdoba,2022.0,14063,Marcos Juárez,14.0,25.7507145243309
+AR-X,Córdoba,2022.0,14070,Minas,14.0,10.6776180698152
+AR-X,Córdoba,2022.0,14077,Pocho,14.0,3.12317001756783
+AR-X,Córdoba,2022.0,14084,Presidente Roque Sáenz Peña,14.0,24.3068440863065
+AR-X,Córdoba,2022.0,14091,Punilla,14.0,16.4321901000122
+AR-X,Córdoba,2022.0,14098,Río Cuarto,14.0,22.2346859672124
+AR-X,Córdoba,2022.0,14105,Río Primero,14.0,17.3546929554323
+AR-X,Córdoba,2022.0,14112,Río Seco,14.0,9.345183636126
+AR-X,Córdoba,2022.0,14119,Río Segundo,14.0,20.8775778850373
+AR-X,Córdoba,2022.0,14126,San Alberto,14.0,10.8855475975905
+AR-X,Córdoba,2022.0,14140,San Justo,14.0,22.0544501799522
+AR-X,Córdoba,2022.0,14147,Santa María,14.0,13.098205469899
+AR-X,Córdoba,2022.0,14154,Sobremonte,14.0,10.2154119475905
+AR-X,Córdoba,2022.0,14161,Tercero Arriba,14.0,20.4518764782745
+AR-X,Córdoba,2022.0,14168,Totoral,14.0,17.026005779062
+AR-X,Córdoba,2022.0,14175,Tulumba,14.0,9.83444177161455
+AR-X,Córdoba,2022.0,14182,Unión,14.0,21.3055659809201
+AR-W,Corrientes,2022.0,18007,Bella Vista,18.0,8.0619736071702
+AR-W,Corrientes,2022.0,18014,Berón de Astrada,18.0,7.43099787685775
+AR-W,Corrientes,2022.0,18021,Capital,18.0,9.63416577503586
+AR-W,Corrientes,2022.0,18028,Concepción,18.0,5.09854653374933
+AR-W,Corrientes,2022.0,18035,Curuzú Cuatiá,18.0,11.7984941395638
+AR-W,Corrientes,2022.0,18042,Empedrado,18.0,4.06277827248442
+AR-W,Corrientes,2022.0,18049,Esquina,18.0,6.30343243588108
+AR-W,Corrientes,2022.0,18084,Ituzaingó,18.0,11.2264078069882
+AR-W,Corrientes,2022.0,18063,General Paz,18.0,4.81786133960047
+AR-W,Corrientes,2022.0,18070,Goya,18.0,7.86868601404518
+AR-W,Corrientes,2022.0,18077,Itatí,18.0,4.07993338884263
+AR-W,Corrientes,2022.0,18091,Lavalle,18.0,4.17820411392405
+AR-W,Corrientes,2022.0,18098,Mburucuyá,18.0,3.80359612724758
+AR-W,Corrientes,2022.0,18105,Mercedes,18.0,10.7253117356962
+AR-W,Corrientes,2022.0,18112,Monte Caseros,18.0,11.7144733961025
+AR-W,Corrientes,2022.0,18126,Saladas,18.0,5.54832522775533
+AR-W,Corrientes,2022.0,18119,Paso de los Libres,18.0,11.423257119795
+AR-W,Corrientes,2022.0,18140,San Luis del Palmar,18.0,3.72803951721888
+AR-W,Corrientes,2022.0,18133,San Cosme,18.0,9.64173348218817
+AR-W,Corrientes,2022.0,18147,San Martín,18.0,7.76980312109041
+AR-W,Corrientes,2022.0,18154,San Miguel,18.0,4.16896090615905
+AR-W,Corrientes,2022.0,18168,Santo Tomé,18.0,12.3597536391063
+AR-W,Corrientes,2022.0,18175,Sauce,18.0,10.4989404738971
+AR-H,Chaco,2022.0,22007,Almirante Brown,22.0,7.84655623365301
+AR-H,Chaco,2022.0,22014,Bermejo,22.0,3.83740761796475
+AR-H,Chaco,2022.0,22021,Comandante Fernández,22.0,10.9454688112985
+AR-H,Chaco,2022.0,22028,Chacabuco,22.0,17.7755939649691
+AR-H,Chaco,2022.0,22036,12 de Octubre,22.0,6.89001808629748
+AR-H,Chaco,2022.0,22039,2 de Abril,22.0,16.9491525423729
+AR-H,Chaco,2022.0,22043,Fray Justo Santa María de Oro,22.0,4.59964329296912
+AR-H,Chaco,2022.0,22049,General Belgrano,22.0,7.41781838057312
+AR-H,Chaco,2022.0,22056,General Donovan,22.0,0.993640699523052
+AR-H,Chaco,2022.0,22063,General Güemes,22.0,4.97628602699745
+AR-H,Chaco,2022.0,22070,Independencia,22.0,13.6388434260775
+AR-H,Chaco,2022.0,22077,Libertad,22.0,8.25668139349605
+AR-H,Chaco,2022.0,22091,Maipú,22.0,8.97183525136281
+AR-H,Chaco,2022.0,22098,Mayor Luis Jorge Fontana,22.0,11.1064787792879
+AR-H,Chaco,2022.0,22105,9 de Julio,22.0,9.0224072972437
+AR-H,Chaco,2022.0,22112,O'Higgins,22.0,6.30242365262524
+AR-H,Chaco,2022.0,22119,Presidencia de la Plaza,22.0,11.9661794210375
+AR-H,Chaco,2022.0,22126,1ro. de Mayo,22.0,5.53260032215141
+AR-H,Chaco,2022.0,22133,Quitilipi,22.0,7.07677225660192
+AR-H,Chaco,2022.0,22140,San Fernando,22.0,11.9935598596626
+AR-H,Chaco,2022.0,22147,San Lorenzo,22.0,5.16747603038227
+AR-H,Chaco,2022.0,22154,Sargento Cabral,22.0,3.40552333315596
+AR-H,Chaco,2022.0,22161,Tapenagá,22.0,13.0574033013057
+AR-H,Chaco,2022.0,22168,25 de Mayo,22.0,6.49528862867075
+AR-U,Chubut,2022.0,26007,Biedma,26.0,19.908309344499
+AR-U,Chubut,2022.0,26014,Cushamen,26.0,8.82697011592045
+AR-U,Chubut,2022.0,26028,Florentino Ameghino,26.0,12.8779395296753
+AR-U,Chubut,2022.0,26035,Futaleufú,26.0,17.7279592972414
+AR-U,Chubut,2022.0,26042,Gaiman,26.0,17.3273201993829
+AR-U,Chubut,2022.0,26049,Gastre,26.0,10.0418410041841
+AR-U,Chubut,2022.0,26056,Languiñeo,26.0,6.24133148404993
+AR-U,Chubut,2022.0,26063,Mártires,26.0,19.893899204244
+AR-U,Chubut,2022.0,26070,Paso de Indios,26.0,15.9066808059385
+AR-U,Chubut,2022.0,26077,Rawson,26.0,17.0413616624246
+AR-U,Chubut,2022.0,26084,Río Senguer,26.0,16.9651272384543
+AR-U,Chubut,2022.0,26091,Sarmiento,26.0,13.1542888462592
+AR-U,Chubut,2022.0,26098,Tehuelches,26.0,18.0662428905989
+AR-U,Chubut,2022.0,26105,Telsen,26.0,8.00985828712261
+AR-E,Entre Ríos,2022.0,30008,Colón,30.0,16.0945488347387
+AR-E,Entre Ríos,2022.0,30015,Concordia,30.0,12.2584279836219
+AR-E,Entre Ríos,2022.0,30028,Federación,30.0,16.0247042228463
+AR-E,Entre Ríos,2022.0,30035,Federal,30.0,12.168402602218
+AR-E,Entre Ríos,2022.0,30042,Feliciano,30.0,9.70064869368565
+AR-E,Entre Ríos,2022.0,30049,Gualeguay,30.0,15.6187285133414
+AR-E,Entre Ríos,2022.0,30056,Gualeguaychú,30.0,17.0594623732629
+AR-E,Entre Ríos,2022.0,30063,Islas del Ibicuy,30.0,9.64285714285714
+AR-E,Entre Ríos,2022.0,30070,La Paz,30.0,10.7549696977734
+AR-E,Entre Ríos,2022.0,30077,Nogoyá,30.0,12.8255585137169
+AR-E,Entre Ríos,2022.0,30084,Paraná,30.0,15.6473387525019
+AR-E,Entre Ríos,2022.0,30088,San Salvador,30.0,17.8383044020332
+AR-E,Entre Ríos,2022.0,30091,Tala,30.0,11.2108339455109
+AR-E,Entre Ríos,2022.0,30098,Uruguay,30.0,14.2665612430816
+AR-E,Entre Ríos,2022.0,30105,Victoria,30.0,15.2760011807537
+AR-E,Entre Ríos,2022.0,30113,Villaguay,30.0,13.0296078571941
+AR-P,Formosa,2022.0,34014,Formosa,34.0,7.82672883537533
+AR-P,Formosa,2022.0,34021,Laishí,34.0,3.83360099466404
+AR-P,Formosa,2022.0,34028,Matacos,34.0,3.05307656176609
+AR-P,Formosa,2022.0,34035,Patiño,34.0,4.03329300040333
+AR-P,Formosa,2022.0,34042,Pilagás,34.0,2.04017576898933
+AR-P,Formosa,2022.0,34049,Pilcomayo,34.0,4.88435417395082
+AR-P,Formosa,2022.0,34056,Pirané,34.0,4.40909840118675
+AR-P,Formosa,2022.0,34063,Ramón Lista,34.0,0.0564047605617914
+AR-Y,Jujuy,2022.0,38007,Cochinoca,38.0,8.70200611133254
+AR-Y,Jujuy,2022.0,38014,El Carmen,38.0,10.4931108314401
+AR-Y,Jujuy,2022.0,38021,Dr. Manuel Belgrano,38.0,9.49562291660176
+AR-Y,Jujuy,2022.0,38028,Humahuaca,38.0,3.9208185904179
+AR-Y,Jujuy,2022.0,38035,Ledesma,38.0,5.05029071001146
+AR-Y,Jujuy,2022.0,38042,Palpalá,38.0,5.00450099937444
+AR-Y,Jujuy,2022.0,38056,San Antonio,38.0,4.45831475702185
+AR-Y,Jujuy,2022.0,38063,San Pedro,38.0,5.00900941739101
+AR-Y,Jujuy,2022.0,38070,Santa Bárbara,38.0,3.02453778233085
+AR-Y,Jujuy,2022.0,38077,Santa Catalina,38.0,4.91307634164777
+AR-Y,Jujuy,2022.0,38084,Susques,38.0,11.9570522205954
+AR-Y,Jujuy,2022.0,38094,Tilcara,38.0,7.81196929556416
+AR-Y,Jujuy,2022.0,38098,Tumbaya,38.0,13.0087344359784
+AR-Y,Jujuy,2022.0,38105,Valle Grande,38.0,3.58708648864089
+AR-Y,Jujuy,2022.0,38112,Yavi,38.0,5.79867017164064
+AR-L,La Pampa,2022.0,42007,Atreucó,42.0,25.6778595798168
+AR-L,La Pampa,2022.0,42021,Capital,42.0,22.8366992109135
+AR-L,La Pampa,2022.0,42028,Catriló,42.0,27.0795385549484
+AR-L,La Pampa,2022.0,42035,Conhelo,42.0,21.9939417884894
+AR-L,La Pampa,2022.0,42042,Curacó,42.0,18.8172043010753
+AR-L,La Pampa,2022.0,42056,Chapaleufú,42.0,26.3499270309713
+AR-L,La Pampa,2022.0,42063,Chical Co,42.0,4.77489768076398
+AR-L,La Pampa,2022.0,42070,Guatraché,42.0,21.1201008721236
+AR-L,La Pampa,2022.0,42077,Hucal,42.0,22.2165147039938
+AR-L,La Pampa,2022.0,42084,Lihuel Calel,42.0,24.8306997742664
+AR-L,La Pampa,2022.0,42091,Limay Mahuida,42.0,56.7375886524823
+AR-L,La Pampa,2022.0,42098,Loventué,42.0,16.1982407208753
+AR-L,La Pampa,2022.0,42105,Maracó,42.0,23.1320309577927
+AR-L,La Pampa,2022.0,42112,Puelén,42.0,13.8149991419255
+AR-L,La Pampa,2022.0,42119,Quemú Quemú,42.0,31.4420803782506
+AR-L,La Pampa,2022.0,42126,Rancul,42.0,20.3000089823049
+AR-L,La Pampa,2022.0,42133,Realicó,42.0,26.4453348597596
+AR-L,La Pampa,2022.0,42140,Toay,42.0,11.3151034444506
+AR-L,La Pampa,2022.0,42147,Trenel,42.0,21.220624342336
+AR-F,La Rioja,2022.0,46007,Arauco,46.0,9.71889032416805
+AR-F,La Rioja,2022.0,46014,Capital,46.0,9.8841961531011
+AR-F,La Rioja,2022.0,46021,Castro Barros,46.0,4.64716006884682
+AR-F,La Rioja,2022.0,46028,Coronel Felipe Varela,46.0,5.97959901512487
+AR-F,La Rioja,2022.0,46035,Chamical,46.0,7.02157538618665
+AR-F,La Rioja,2022.0,46042,Chilecito,46.0,9.11595632504507
+AR-F,La Rioja,2022.0,46049,Famatina,46.0,3.28477577834904
+AR-F,La Rioja,2022.0,46056,General  Angel V. Peñaloza,46.0,0.313971742543171
+AR-F,La Rioja,2022.0,46063,General Belgrano,46.0,5.38199002362825
+AR-F,La Rioja,2022.0,46070,General Juan F. Quiroga,46.0,0.248941996514812
+AR-F,La Rioja,2022.0,46077,General Lamadrid,46.0,2.65111346765642
+AR-F,La Rioja,2022.0,46084,General Ocampo,46.0,2.17716696149136
+AR-F,La Rioja,2022.0,46091,General San Martín,46.0,3.38712891014146
+AR-F,La Rioja,2022.0,46098,Vinchina,46.0,5.55761393108559
+AR-F,La Rioja,2022.0,46112,Rosario Vera Peñaloza,46.0,4.62522967750111
+AR-F,La Rioja,2022.0,46119,San Blas de Los Sauces,46.0,2.78164116828929
+AR-F,La Rioja,2022.0,46126,Sanagasta,46.0,2.63331138907176
+AR-M,Mendoza,2022.0,50007,Capital,50.0,50.3381566530355
+AR-M,Mendoza,2022.0,50014,General Alvear,50.0,13.1979309295603
+AR-M,Mendoza,2022.0,50021,Godoy Cruz,50.0,15.1466240347614
+AR-M,Mendoza,2022.0,50028,Guaymallén,50.0,11.7403701011908
+AR-M,Mendoza,2022.0,50035,Junín,50.0,11.801562097674
+AR-M,Mendoza,2022.0,50042,La Paz,50.0,4.63346020188648
+AR-M,Mendoza,2022.0,50049,Las Heras,50.0,6.10065656716482
+AR-M,Mendoza,2022.0,50056,Lavalle,50.0,8.05648016621791
+AR-M,Mendoza,2022.0,50063,Cuyo,50.0,13.1158029430582
+AR-M,Mendoza,2022.0,50070,Maipú,50.0,11.1803903337253
+AR-M,Mendoza,2022.0,50077,Malargüe,50.0,13.0818840358224
+AR-M,Mendoza,2022.0,50091,San Carlos,50.0,12.9674684592039
+AR-M,Mendoza,2022.0,50098,,50.0,14.3713517225592
+AR-M,Mendoza,2022.0,50105,San Rafael,50.0,14.1521718909869
+AR-M,Mendoza,2022.0,50112,Santa Rosa,50.0,14.9623361882159
+AR-M,Mendoza,2022.0,50119,Tunuyán,50.0,13.1126290073291
+AR-M,Mendoza,2022.0,50126,Tupungato,50.0,15.140503875969
+AR-N,Misiones,2022.0,54007,Apóstoles,54.0,9.98082890289938
+AR-N,Misiones,2022.0,54014,Cainguás,54.0,15.3119943956099
+AR-N,Misiones,2022.0,54021,Candelaria,54.0,3.45432923721615
+AR-N,Misiones,2022.0,54028,Capital,54.0,10.8470193602244
+AR-N,Misiones,2022.0,54035,Concepción,54.0,14.1090065713181
+AR-N,Misiones,2022.0,54042,Eldorado,54.0,8.55791034362463
+AR-N,Misiones,2022.0,54049,General Manuel Belgrano,54.0,7.19771779679614
+AR-N,Misiones,2022.0,54056,Guaraní,54.0,6.24675997926387
+AR-N,Misiones,2022.0,54070,Leandro N. Alem,54.0,11.7878587063478
+AR-N,Misiones,2022.0,54077,Libertador General San Martín,54.0,9.11726558327611
+AR-N,Misiones,2022.0,54084,Montecarlo,54.0,10.2666218417854
+AR-N,Misiones,2022.0,54091,Oberá,54.0,12.3828070434918
+AR-N,Misiones,2022.0,54098,San Ignacio,54.0,7.60324320913651
+AR-N,Misiones,2022.0,54105,San Javier,54.0,5.19082670297409
+AR-N,Misiones,2022.0,54112,San Pedro,54.0,0.833309387661274
+AR-N,Misiones,2022.0,54119,25de Mayo,54.0,4.7262956848273
+AR-Q,Neuquén,2022.0,58007,Aluminé,58.0,10.7379929714955
+AR-Q,Neuquén,2022.0,58014,Añelo,58.0,16.8446548497193
+AR-Q,Neuquén,2022.0,58021,Catán Lil,58.0,4.85799701046338
+AR-Q,Neuquén,2022.0,58028,Collón Curá,58.0,12.6163391933816
+AR-Q,Neuquén,2022.0,58035,Confluencia,58.0,18.0313741216824
+AR-Q,Neuquén,2022.0,58042,Chos Malal,58.0,11.8140243902439
+AR-Q,Neuquén,2022.0,58056,Lácar,58.0,26.7703808465502
+AR-Q,Neuquén,2022.0,58063,Loncopué,58.0,10.7820213042349
+AR-Q,Neuquén,2022.0,58070,Los Lagos,58.0,33.6226293796207
+AR-Q,Neuquén,2022.0,58077,Minas,58.0,3.23729362253156
+AR-Q,Neuquén,2022.0,58084,Ñorquín,58.0,2.49598858976645
+AR-Q,Neuquén,2022.0,58091,Pehuenches,58.0,13.9817833495782
+AR-Q,Neuquén,2022.0,58098,Picún Leufú,58.0,6.48712404167486
+AR-Q,Neuquén,2022.0,58112,Zapala,58.0,10.0879688388989
+AR-Q,Neuquén,2022.0,58105,Picunches,58.0,6.94526191877575
+AR-R,Río Negro,2022.0,62007,Adolfo Alsina,62.0,17.1520734468534
+AR-R,Río Negro,2022.0,62014,Avellaneda,62.0,14.3161153027665
+AR-R,Río Negro,2022.0,62021,Bariloche,62.0,22.7098859878584
+AR-R,Río Negro,2022.0,62028,Conesa,62.0,17.7682056804415
+AR-R,Río Negro,2022.0,62035,El Cuy,62.0,5.89080459770115
+AR-R,Río Negro,2022.0,62049,9 de julio,62.0,4.57112126915838
+AR-R,Río Negro,2022.0,62056,Ñorquinco,62.0,6.19834710743802
+AR-R,Río Negro,2022.0,62063,Pichi Mahuida,62.0,17.5215999033291
+AR-R,Río Negro,2022.0,62070,Pilcaniyeu,62.0,10.3488744265443
+AR-R,Río Negro,2022.0,62091,25 de Mayo,62.0,8.73310204569925
+AR-R,Río Negro,2022.0,62077,San Antonio,62.0,16.927374301676
+AR-R,Río Negro,2022.0,62084,Valcheta,62.0,10.4190784903913
+AR-A,Salta,2022.0,66007,Anta,66.0,7.59583867749751
+AR-A,Salta,2022.0,66014,Cachi,66.0,5.02905677246312
+AR-A,Salta,2022.0,66021,Cafayate,66.0,13.4612148746424
+AR-A,Salta,2022.0,66028,Capital,66.0,11.392312300065
+AR-A,Salta,2022.0,66035,Cerrillos,66.0,5.86248190316181
+AR-A,Salta,2022.0,66042,Chicoana,66.0,12.8189574992923
+AR-A,Salta,2022.0,66056,General José de San Martín,66.0,6.17401856138064
+AR-A,Salta,2022.0,66063,Guachipas,66.0,11.1715840733314
+AR-A,Salta,2022.0,66070,Iruya,66.0,0.3269042170644
+AR-A,Salta,2022.0,66077,La Caldera,66.0,3.17098951134239
+AR-A,Salta,2022.0,66084,La Candelaria,66.0,9.43789035392089
+AR-A,Salta,2022.0,66091,La Poma,66.0,3.91280044717719
+AR-A,Salta,2022.0,66098,La Viña,66.0,7.64044943820225
+AR-A,Salta,2022.0,66105,Los Andes,66.0,15.3160679476469
+AR-A,Salta,2022.0,66112,Metán,66.0,8.39465229557467
+AR-A,Salta,2022.0,66119,Molinos,66.0,6.18556701030928
+AR-A,Salta,2022.0,66126,Orán,66.0,5.08584305474284
+AR-A,Salta,2022.0,66133,Rivadavia,66.0,1.75793036496733
+AR-A,Salta,2022.0,66140,Rosario de la Frontera,66.0,9.13957821881747
+AR-A,Salta,2022.0,66147,Rosario de Lerma,66.0,8.48553735204202
+AR-A,Salta,2022.0,66154,San Carlos,66.0,1.66709412669915
+AR-J,San Juan,2022.0,70007,Albardón,70.0,5.88160081830968
+AR-J,San Juan,2022.0,70014,Angaco,70.0,4.6187106918239
+AR-J,San Juan,2022.0,70021,Calingasta,70.0,11.4192495921697
+AR-J,San Juan,2022.0,70028,Capital,70.0,39.3361643123321
+AR-J,San Juan,2022.0,70035,Caucete,70.0,9.14931777419575
+AR-J,San Juan,2022.0,70042,Chimbas,70.0,4.29814346710595
+AR-J,San Juan,2022.0,70049,Iglesia,70.0,16.9587337478802
+AR-J,San Juan,2022.0,70056,Jachal,70.0,7.31312013282207
+AR-J,San Juan,2022.0,70063,9 de Julio,70.0,6.87230302061691
+AR-J,San Juan,2022.0,70070,Pocito,70.0,6.61043680998423
+AR-J,San Juan,2022.0,70077,Rawson,70.0,5.96558261416954
+AR-J,San Juan,2022.0,70084,Rivadavia,70.0,4.83937599590817
+AR-J,San Juan,2022.0,70098,Santa Lucía,70.0,8.95917358797366
+AR-J,San Juan,2022.0,70105,Sarmiento,70.0,9.82050904810946
+AR-J,San Juan,2022.0,70119,Valle Fértil,70.0,4.80882007975604
+AR-J,San Juan,2022.0,70126,25 de Mayo,70.0,7.20322704571648
+AR-J,San Juan,2022.0,70133,Zonda,70.0,1.19706718539578
+AR-D,San Luis,2022.0,74007,Ayacucho,74.0,5.60364655208464
+AR-D,San Luis,2022.0,74014,Belgrano,74.0,3.94053376320974
+AR-D,San Luis,2022.0,74021,Coronel Pringles,74.0,13.0849274098075
+AR-D,San Luis,2022.0,74028,Chacabuco,74.0,10.242120721467
+AR-D,San Luis,2022.0,74035,General Pedernera,74.0,12.5474391267842
+AR-D,San Luis,2022.0,74042,Gobernador Dupuy,74.0,15.6173743289409
+AR-D,San Luis,2022.0,74049,Junín,74.0,13.1314883179307
+AR-D,San Luis,2022.0,74056,Juan Martín de Pueyrredón,74.0,12.2202394372117
+AR-D,San Luis,2022.0,74063,Libertador General San Martín,74.0,5.11617991899382
+AR-Z,Santa Cruz,2022.0,78007,Corpen Aike,78.0,10.8760134467075
+AR-Z,Santa Cruz,2022.0,78014,Deseado,78.0,13.5944391406231
+AR-Z,Santa Cruz,2022.0,78028,Lago Argentino,78.0,27.5150472914875
+AR-Z,Santa Cruz,2022.0,78035,Lago Buenos Aires,78.0,19.1972076788831
+AR-Z,Santa Cruz,2022.0,78042,Magallanes,78.0,16.3426535512354
+AR-Z,Santa Cruz,2022.0,78049,Río Chico,78.0,15.5210643015521
+AR-S,Santa Fe,2022.0,82007,Belgrano,82.0,25.6452307250774
+AR-S,Santa Fe,2022.0,82014,Caseros,82.0,23.8747238586156
+AR-S,Santa Fe,2022.0,82021,Castellanos,82.0,20.9154305084034
+AR-S,Santa Fe,2022.0,82028,Constitución,82.0,16.4060744212926
+AR-S,Santa Fe,2022.0,82035,Garay,82.0,10.8717454968508
+AR-S,Santa Fe,2022.0,82042,General López,82.0,25.7374462976376
+AR-S,Santa Fe,2022.0,82049,General Obligado,82.0,13.1827502954754
+AR-S,Santa Fe,2022.0,82056,Iriondo,82.0,21.3008697519596
+AR-S,Santa Fe,2022.0,82063,La Capital,82.0,13.1687242798354
+AR-S,Santa Fe,2022.0,82070,Las Colonias,82.0,22.8961465353378
+AR-S,Santa Fe,2022.0,82084,Rosario,82.0,18.7050733099779
+AR-S,Santa Fe,2022.0,82091,San Cristóbal,82.0,19.8623645279598
+AR-S,Santa Fe,2022.0,82098,San Javier,82.0,11.6006491554968
+AR-S,Santa Fe,2022.0,82105,San Jerónimo,82.0,18.0856059651574
+AR-S,Santa Fe,2022.0,82112,San Justo,82.0,17.357762777242
+AR-S,Santa Fe,2022.0,82119,San Lorenzo,82.0,16.7900092506938
+AR-S,Santa Fe,2022.0,82126,San Martín,82.0,22.5279018679877
+AR-S,Santa Fe,2022.0,82133,Vera,82.0,11.565852178414
+AR-G,Santiago del Estero,2022.0,86007,Aguirre,86.0,6.13154960981048
+AR-G,Santiago del Estero,2022.0,86014,Alberdi,86.0,4.87465181058496
+AR-G,Santiago del Estero,2022.0,86021,Atamisqui,86.0,0.402603502650473
+AR-G,Santiago del Estero,2022.0,86028,Avellaneda,86.0,2.04113675616266
+AR-G,Santiago del Estero,2022.0,86035,Banda,86.0,5.76615431494688
+AR-G,Santiago del Estero,2022.0,86042,Belgrano,86.0,26.9120503098123
+AR-G,Santiago del Estero,2022.0,86056,Copo,86.0,4.00100724657956
+AR-G,Santiago del Estero,2022.0,86063,Choya,86.0,6.33345527711725
+AR-G,Santiago del Estero,2022.0,86070,Figueroa,86.0,1.52935372471633
+AR-G,Santiago del Estero,2022.0,86077,General Taboada,86.0,5.20340586565752
+AR-G,Santiago del Estero,2022.0,86084,Guasayán,86.0,1.94489465153971
+AR-G,Santiago del Estero,2022.0,86091,Jiménez,86.0,2.95302013422819
+AR-G,Santiago del Estero,2022.0,86098,Juan F. Ibarra,86.0,2.1370634804993
+AR-G,Santiago del Estero,2022.0,86105,Loreto,86.0,3.28345802161264
+AR-G,Santiago del Estero,2022.0,86112,Mitre,86.0,4.16666666666667
+AR-G,Santiago del Estero,2022.0,86119,Moreno,86.0,8.13148788927336
+AR-G,Santiago del Estero,2022.0,86126,Ojo de Agua,86.0,4.82931992590632
+AR-G,Santiago del Estero,2022.0,86133,Pellegrini,86.0,3.32149811018211
+AR-G,Santiago del Estero,2022.0,86140,Quebrachos,86.0,4.6138902379796
+AR-G,Santiago del Estero,2022.0,86147,Río Hondo,86.0,5.75186111652012
+AR-G,Santiago del Estero,2022.0,86161,Robles,86.0,4.29510321207072
+AR-G,Santiago del Estero,2022.0,86175,San Martín,86.0,1.18163403106009
+AR-G,Santiago del Estero,2022.0,86182,Sarmiento,86.0,4.76379515680826
+AR-G,Santiago del Estero,2022.0,86168,Salavina,86.0,2.03331508563385
+AR-G,Santiago del Estero,2022.0,86189,Silipica,86.0,2.96948597173869
+AR-T,Tucumán,2022.0,90007,Burruyacú,90.0,3.82619403641481
+AR-T,Tucumán,2022.0,90014,Cruz Alta,90.0,4.42832902923136
+AR-T,Tucumán,2022.0,90021,Chicligasta,90.0,7.59113683483068
+AR-T,Tucumán,2022.0,90028,Famaillá,90.0,6.15896210950307
+AR-T,Tucumán,2022.0,90035,Graneros,90.0,2.57400257400257
+AR-T,Tucumán,2022.0,90042,Juan Bautista Alberdi,90.0,7.36351607892769
+AR-T,Tucumán,2022.0,90049,La Cocha,90.0,4.85436893203883
+AR-T,Tucumán,2022.0,90056,Leales,90.0,2.69610796481504
+AR-T,Tucumán,2022.0,90063,Lules,90.0,3.59158542842483
+AR-T,Tucumán,2022.0,90077,Río Chico,90.0,4.23324405036791
+AR-T,Tucumán,2022.0,90084,Capital,90.0,14.4932937178788
+AR-T,Tucumán,2022.0,90091,Simoca,90.0,3.67835988423985
+AR-T,Tucumán,2022.0,90098,Tafí del Valle,90.0,5.92691622103387
+AR-T,Tucumán,2022.0,90105,Tafí Viejo,90.0,4.052351057311
+AR-T,Tucumán,2022.0,90112,Trancas,90.0,5.44819954030816
+AR-T,Tucumán,2022.0,90119,Yerba Buena,90.0,13.2955684682843
+AR-V,Tierra del Fuego,2022.0,94008,,94.0,15.1247972108302
+AR-V,Tierra del Fuego,2022.0,94011,Tolhuin,94.0,10.9289617486339
+AR-V,Tierra del Fuego,2022.0,94015,,94.0,21.5002923940227
+,,,94028,Antártida Argentina,,
+,,,94021,Islas del Atlántico Sur,,
+,,2022.0,2049,Comuna 7,2.0,32.7426168155038
+AR-B,Buenos Aires,2022.0,6049,Azul,6.0,20.9472366774257
+AR-B,Buenos Aires,2022.0,6112,Bragado,6.0,18.277997591605
+AR-B,Buenos Aires,2022.0,6134,Cañuelas,6.0,14.0484409484466
+AR-B,Buenos Aires,2022.0,6238,Dolores,6.0,14.9537962037962
+AR-B,Buenos Aires,2022.0,6329,General Las Heras,6.0,13.7054710908889
+AR-B,Buenos Aires,2022.0,6420,La Costa,6.0,18.0059390797406
+AR-B,Buenos Aires,2022.0,6515,Malvinas Argentinas,6.0,7.31163416734631
+AR-B,Buenos Aires,2022.0,6616,Pellegrini,6.0,24.4995100097998
+AR-B,Buenos Aires,2022.0,6707,Saladillo,6.0,20.3051379851918
+AR-B,Buenos Aires,2022.0,6805,Tigre,6.0,12.7419459490904
+AR-K,Catamarca,2022.0,10028,Antofagasta de la Sierra,10.0,11.3748763600396
+AR-X,Córdoba,2022.0,14007,Calamuchita,14.0,13.8846807445561
+AR-X,Córdoba,2022.0,14028,Cruz del Eje,14.0,6.28799618548099
+AR-X,Córdoba,2022.0,14133,San Javier,14.0,10.4296511352699
+AR-W,Corrientes,2022.0,18056,General Alvear,18.0,7.76380535811919
+AR-W,Corrientes,2022.0,18161,San Roque,18.0,6.20735197006383
+AR-H,Chaco,2022.0,22084,Libertador General San Martín,22.0,4.36927199098742
+AR-U,Chubut,2022.0,26021,Escalante,26.0,18.198864717595
+AR-E,Entre Ríos,2022.0,30021,Diamante,30.0,14.1990857356097
+AR-P,Formosa,2022.0,34007,Bermejo,34.0,2.55689082076195
+AR-Y,Jujuy,2022.0,38049,Rinconada,38.0,18.3129855715871
+AR-L,La Pampa,2022.0,42014,Caleu Caleu,42.0,14.1708157793949
+AR-L,La Pampa,2022.0,42049,Chalileo,42.0,7.62564991334489
+AR-L,La Pampa,2022.0,42154,Utracán,42.0,17.3014268059769
+AR-F,La Rioja,2022.0,46105,Independencia,46.0,2.49895876718034
+AR-M,Mendoza,2022.0,50084,Rivadavia,50.0,15.4729772142364
+AR-N,Misiones,2022.0,54063,Iguazú,54.0,9.24112851662404
+AR-Q,Neuquén,2022.0,58049,Huiliches,58.0,11.204882467935
+AR-R,Río Negro,2022.0,62042,General Roca,62.0,17.1631298863412
+AR-A,Salta,2022.0,66049,General Güemes,66.0,7.51344229605099
+AR-A,Salta,2022.0,66161,Santa Victoria,66.0,0.424944226070328
+AR-J,San Juan,2022.0,70091,San Martín,70.0,5.51971802886214
+AR-J,San Juan,2022.0,70112,Ullum,70.0,0.774713356058258
+AR-Z,Santa Cruz,2022.0,78021,Güer Aike,78.0,13.9961564958846
+AR-S,Santa Fe,2022.0,82077,9 de Julio,82.0,16.2606872076141
+AR-G,Santiago del Estero,2022.0,86049,Capital,86.0,10.466144823575
+AR-G,Santiago del Estero,2022.0,86154,Rivadavia,86.0,19.755409219191
+AR-T,Tucumán,2022.0,90070,Monteros,90.0,5.828422586427

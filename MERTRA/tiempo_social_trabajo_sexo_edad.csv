@@ -1,13 +1,13 @@
-"sexo","grupo_edad","minutos"
-"Total","Total","266.419086587997"
-"Total","14 a 29 años","196.928263817013"
-"Total","30 a 64 años","299.565561395742"
-"Total","65 años y más","291.578600222561"
-"Mujeres","Total","358.634586282071"
-"Mujeres","14 a 29 años","268.658969760034"
-"Mujeres","30 a 64 años","413.480135068373"
-"Mujeres","65 años y más","344.48203955341"
-"Varones","Total","165.289362136074"
-"Varones","14 a 29 años","124.995550333441"
-"Varones","30 a 64 años","175.590130234706"
-"Varones","65 años y más","221.526065871163"
+sexo,grupo_edad,minutos
+Total,Total,266.419086587997
+Total,14 a 29 años,196.928263817013
+Total,30 a 64 años,299.565561395742
+Total,65 años y más,291.578600222561
+Mujeres,Total,358.634586282071
+Mujeres,14 a 29 años,268.658969760034
+Mujeres,30 a 64 años,413.480135068373
+Mujeres,65 años y más,344.48203955341
+Varones,Total,165.289362136074
+Varones,14 a 29 años,124.995550333441
+Varones,30 a 64 años,175.590130234706
+Varones,65 años y más,221.526065871163

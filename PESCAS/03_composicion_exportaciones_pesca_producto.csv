@@ -1,9 +1,9 @@
-"gran_rubro","producto","toneladas","fob_miles_usd","share_toneladas","share_fob"
-"MOA","Filetes y demás carnes de pescado","79321.9496","254036.2931","0.152354186802008","0.13441499002148"
-"MOA","Harina, polvo y pellets de pescado. No aptos p/c humano","19235","22645.27833","0.0369447901610405","0.0119820078604375"
-"MOA","Pescado sec./sal./en salm. har./pol./pell. aptos p/c humano","2518.596","5071.15279","0.00483748379102864","0.00268323452270235"
-"MOA","Preparaciones y conservas de pescado","3155.63979","10213.04476","0.0060610579602485","0.00540389836724607"
-"PP","Crustáceos","155671.27548","1020868.7366","0.298998835805049","0.540159279482615"
-"PP","Moluscos","146003.22029","372706.06693","0.280429339040822","0.197205216845219"
-"PP","Pescado congelado, exc. filetes","114732.50419","204382.51137","0.220367470337939","0.108142316560844"
-"PP","Pescado fresco o refrigerado, exc. filetes","3.55916","17.11594","0.00000683610186376755","0.00000905633945541247"
+gran_rubro,producto,toneladas,fob_miles_usd,share_toneladas,share_fob
+MOA,Filetes y demás carnes de pescado,79321.9496,254036.2931,0.152354186802008,0.13441499002148
+MOA,"Harina, polvo y pellets de pescado. No aptos p/c humano",19235.0,22645.27833,0.0369447901610405,0.0119820078604375
+MOA,Pescado sec./sal./en salm. har./pol./pell. aptos p/c humano,2518.596,5071.15279,0.0048374837910286,0.0026832345227023
+MOA,Preparaciones y conservas de pescado,3155.63979,10213.04476,0.0060610579602485,0.005403898367246
+PP,Crustáceos,155671.27548,1020868.7366,0.298998835805049,0.540159279482615
+PP,Moluscos,146003.22029,372706.06693,0.280429339040822,0.197205216845219
+PP,"Pescado congelado, exc. filetes",114732.50419,204382.51137,0.220367470337939,0.108142316560844
+PP,"Pescado fresco o refrigerado, exc. filetes",3.55916,17.11594,6.8361018637e-06,9.0563394554e-06

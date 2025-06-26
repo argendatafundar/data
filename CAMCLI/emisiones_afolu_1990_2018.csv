@@ -1,117 +1,117 @@
-"anio","sector","subsector","valor_en_mtco2e"
-1990,"AGSyOUT","Emisiones de la quema de biomasa","9.03"
-1990,"AGSyOUT","Emisiones directas e indirectas de N2O y otros","35.15"
-1990,"AGSyOUT","Ganado","59.36"
-1990,"AGSyOUT","Tierras","48.43"
-1991,"AGSyOUT","Emisiones de la quema de biomasa","9.12"
-1991,"AGSyOUT","Emisiones directas e indirectas de N2O y otros","36"
-1991,"AGSyOUT","Ganado","60.27"
-1991,"AGSyOUT","Tierras","66.76"
-1992,"AGSyOUT","Emisiones de la quema de biomasa","9.17"
-1992,"AGSyOUT","Emisiones directas e indirectas de N2O y otros","36.44"
-1992,"AGSyOUT","Ganado","61.22"
-1992,"AGSyOUT","Tierras","69.62"
-1993,"AGSyOUT","Emisiones de la quema de biomasa","9.22"
-1993,"AGSyOUT","Emisiones directas e indirectas de N2O y otros","36.64"
-1993,"AGSyOUT","Ganado","62.76"
-1993,"AGSyOUT","Tierras","61.69"
-1994,"AGSyOUT","Emisiones de la quema de biomasa","5.25"
-1994,"AGSyOUT","Emisiones directas e indirectas de N2O y otros","37.17"
-1994,"AGSyOUT","Ganado","63.15"
-1994,"AGSyOUT","Tierras","65"
-1995,"AGSyOUT","Emisiones de la quema de biomasa","5.4"
-1995,"AGSyOUT","Emisiones directas e indirectas de N2O y otros","37.24"
-1995,"AGSyOUT","Ganado","61.93"
-1995,"AGSyOUT","Tierras","69.57"
-1996,"AGSyOUT","Emisiones de la quema de biomasa","4.86"
-1996,"AGSyOUT","Emisiones directas e indirectas de N2O y otros","37.08"
-1996,"AGSyOUT","Ganado","59.69"
-1996,"AGSyOUT","Tierras","88.62"
-1997,"AGSyOUT","Emisiones de la quema de biomasa","4.78"
-1997,"AGSyOUT","Emisiones directas e indirectas de N2O y otros","37.13"
-1997,"AGSyOUT","Ganado","58.72"
-1997,"AGSyOUT","Tierras","84.12"
-1998,"AGSyOUT","Emisiones de la quema de biomasa","6.05"
-1998,"AGSyOUT","Emisiones directas e indirectas de N2O y otros","36.64"
-1998,"AGSyOUT","Ganado","55.88"
-1998,"AGSyOUT","Tierras","102.23"
-1999,"AGSyOUT","Emisiones de la quema de biomasa","5.1"
-1999,"AGSyOUT","Emisiones directas e indirectas de N2O y otros","38.07"
-1999,"AGSyOUT","Ganado","58.41"
-1999,"AGSyOUT","Tierras","87.64"
-2000,"AGSyOUT","Emisiones de la quema de biomasa","12.29"
-2000,"AGSyOUT","Emisiones directas e indirectas de N2O y otros","37.53"
-2000,"AGSyOUT","Ganado","57.82"
-2000,"AGSyOUT","Tierras","84.97"
-2001,"AGSyOUT","Emisiones de la quema de biomasa","16.76"
-2001,"AGSyOUT","Emisiones directas e indirectas de N2O y otros","37.45"
-2001,"AGSyOUT","Ganado","57.31"
-2001,"AGSyOUT","Tierras","83.39"
-2002,"AGSyOUT","Emisiones de la quema de biomasa","11.42"
-2002,"AGSyOUT","Emisiones directas e indirectas de N2O y otros","37.63"
-2002,"AGSyOUT","Ganado","59.19"
-2002,"AGSyOUT","Tierras","97.47"
-2003,"AGSyOUT","Emisiones de la quema de biomasa","12.26"
-2003,"AGSyOUT","Emisiones directas e indirectas de N2O y otros","39.23"
-2003,"AGSyOUT","Ganado","60.6"
-2003,"AGSyOUT","Tierras","98.67"
-2004,"AGSyOUT","Emisiones de la quema de biomasa","5.62"
-2004,"AGSyOUT","Emisiones directas e indirectas de N2O y otros","40.52"
-2004,"AGSyOUT","Ganado","61.55"
-2004,"AGSyOUT","Tierras","104.9"
-2005,"AGSyOUT","Emisiones de la quema de biomasa","6.53"
-2005,"AGSyOUT","Emisiones directas e indirectas de N2O y otros","40.64"
-2005,"AGSyOUT","Ganado","61.66"
-2005,"AGSyOUT","Tierras","94.24"
-2006,"AGSyOUT","Emisiones de la quema de biomasa","6.42"
-2006,"AGSyOUT","Emisiones directas e indirectas de N2O y otros","41.71"
-2006,"AGSyOUT","Ganado","62"
-2006,"AGSyOUT","Tierras","110.16"
-2007,"AGSyOUT","Emisiones de la quema de biomasa","6.06"
-2007,"AGSyOUT","Emisiones directas e indirectas de N2O y otros","42.25"
-2007,"AGSyOUT","Ganado","61.64"
-2007,"AGSyOUT","Tierras","114.6"
-2008,"AGSyOUT","Emisiones de la quema de biomasa","5.68"
-2008,"AGSyOUT","Emisiones directas e indirectas de N2O y otros","39.53"
-2008,"AGSyOUT","Ganado","61.96"
-2008,"AGSyOUT","Tierras","91.19"
-2009,"AGSyOUT","Emisiones de la quema de biomasa","5.01"
-2009,"AGSyOUT","Emisiones directas e indirectas de N2O y otros","36.84"
-2009,"AGSyOUT","Ganado","59.72"
-2009,"AGSyOUT","Tierras","68.01"
-2010,"AGSyOUT","Emisiones de la quema de biomasa","3.62"
-2010,"AGSyOUT","Emisiones directas e indirectas de N2O y otros","38.15"
-2010,"AGSyOUT","Ganado","55.28"
-2010,"AGSyOUT","Tierras","69.43"
-2011,"AGSyOUT","Emisiones de la quema de biomasa","3.35"
-2011,"AGSyOUT","Emisiones directas e indirectas de N2O y otros","39.35"
-2011,"AGSyOUT","Ganado","53.97"
-2011,"AGSyOUT","Tierras","57.1"
-2012,"AGSyOUT","Emisiones de la quema de biomasa","4.69"
-2012,"AGSyOUT","Emisiones directas e indirectas de N2O y otros","38.19"
-2012,"AGSyOUT","Ganado","55.3"
-2012,"AGSyOUT","Tierras","93.22"
-2013,"AGSyOUT","Emisiones de la quema de biomasa","5.02"
-2013,"AGSyOUT","Emisiones directas e indirectas de N2O y otros","39.21"
-2013,"AGSyOUT","Ganado","56.22"
-2013,"AGSyOUT","Tierras","89.25"
-2014,"AGSyOUT","Emisiones de la quema de biomasa","4.28"
-2014,"AGSyOUT","Emisiones directas e indirectas de N2O y otros","40.62"
-2014,"AGSyOUT","Ganado","56.72"
-2014,"AGSyOUT","Tierras","61.56"
-2015,"AGSyOUT","Emisiones de la quema de biomasa","3.27"
-2015,"AGSyOUT","Emisiones directas e indirectas de N2O y otros","39.63"
-2015,"AGSyOUT","Ganado","56.56"
-2015,"AGSyOUT","Tierras","39.78"
-2016,"AGSyOUT","Emisiones de la quema de biomasa","3.85"
-2016,"AGSyOUT","Emisiones directas e indirectas de N2O y otros","41.34"
-2016,"AGSyOUT","Ganado","56.61"
-2016,"AGSyOUT","Tierras","31.37"
-2017,"AGSyOUT","Emisiones de la quema de biomasa","6.4"
-2017,"AGSyOUT","Emisiones directas e indirectas de N2O y otros","42.52"
-2017,"AGSyOUT","Ganado","57.72"
-2017,"AGSyOUT","Tierras","41.01"
-2018,"AGSyOUT","Emisiones de la quema de biomasa","4.52"
-2018,"AGSyOUT","Emisiones directas e indirectas de N2O y otros","42.64"
-2018,"AGSyOUT","Ganado","57.85"
-2018,"AGSyOUT","Tierras","39.28"
+anio,sector,subsector,valor_en_mtco2e
+1990,AGSyOUT,Emisiones de la quema de biomasa,9.03
+1990,AGSyOUT,Emisiones directas e indirectas de N2O y otros,35.15
+1990,AGSyOUT,Ganado,59.36
+1990,AGSyOUT,Tierras,48.43
+1991,AGSyOUT,Emisiones de la quema de biomasa,9.12
+1991,AGSyOUT,Emisiones directas e indirectas de N2O y otros,36.0
+1991,AGSyOUT,Ganado,60.27
+1991,AGSyOUT,Tierras,66.76
+1992,AGSyOUT,Emisiones de la quema de biomasa,9.17
+1992,AGSyOUT,Emisiones directas e indirectas de N2O y otros,36.44
+1992,AGSyOUT,Ganado,61.22
+1992,AGSyOUT,Tierras,69.62
+1993,AGSyOUT,Emisiones de la quema de biomasa,9.22
+1993,AGSyOUT,Emisiones directas e indirectas de N2O y otros,36.64
+1993,AGSyOUT,Ganado,62.76
+1993,AGSyOUT,Tierras,61.69
+1994,AGSyOUT,Emisiones de la quema de biomasa,5.25
+1994,AGSyOUT,Emisiones directas e indirectas de N2O y otros,37.17
+1994,AGSyOUT,Ganado,63.15
+1994,AGSyOUT,Tierras,65.0
+1995,AGSyOUT,Emisiones de la quema de biomasa,5.4
+1995,AGSyOUT,Emisiones directas e indirectas de N2O y otros,37.24
+1995,AGSyOUT,Ganado,61.93
+1995,AGSyOUT,Tierras,69.57
+1996,AGSyOUT,Emisiones de la quema de biomasa,4.86
+1996,AGSyOUT,Emisiones directas e indirectas de N2O y otros,37.08
+1996,AGSyOUT,Ganado,59.69
+1996,AGSyOUT,Tierras,88.62
+1997,AGSyOUT,Emisiones de la quema de biomasa,4.78
+1997,AGSyOUT,Emisiones directas e indirectas de N2O y otros,37.13
+1997,AGSyOUT,Ganado,58.72
+1997,AGSyOUT,Tierras,84.12
+1998,AGSyOUT,Emisiones de la quema de biomasa,6.05
+1998,AGSyOUT,Emisiones directas e indirectas de N2O y otros,36.64
+1998,AGSyOUT,Ganado,55.88
+1998,AGSyOUT,Tierras,102.23
+1999,AGSyOUT,Emisiones de la quema de biomasa,5.1
+1999,AGSyOUT,Emisiones directas e indirectas de N2O y otros,38.07
+1999,AGSyOUT,Ganado,58.41
+1999,AGSyOUT,Tierras,87.64
+2000,AGSyOUT,Emisiones de la quema de biomasa,12.29
+2000,AGSyOUT,Emisiones directas e indirectas de N2O y otros,37.53
+2000,AGSyOUT,Ganado,57.82
+2000,AGSyOUT,Tierras,84.97
+2001,AGSyOUT,Emisiones de la quema de biomasa,16.76
+2001,AGSyOUT,Emisiones directas e indirectas de N2O y otros,37.45
+2001,AGSyOUT,Ganado,57.31
+2001,AGSyOUT,Tierras,83.39
+2002,AGSyOUT,Emisiones de la quema de biomasa,11.42
+2002,AGSyOUT,Emisiones directas e indirectas de N2O y otros,37.63
+2002,AGSyOUT,Ganado,59.19
+2002,AGSyOUT,Tierras,97.47
+2003,AGSyOUT,Emisiones de la quema de biomasa,12.26
+2003,AGSyOUT,Emisiones directas e indirectas de N2O y otros,39.23
+2003,AGSyOUT,Ganado,60.6
+2003,AGSyOUT,Tierras,98.67
+2004,AGSyOUT,Emisiones de la quema de biomasa,5.62
+2004,AGSyOUT,Emisiones directas e indirectas de N2O y otros,40.52
+2004,AGSyOUT,Ganado,61.55
+2004,AGSyOUT,Tierras,104.9
+2005,AGSyOUT,Emisiones de la quema de biomasa,6.53
+2005,AGSyOUT,Emisiones directas e indirectas de N2O y otros,40.64
+2005,AGSyOUT,Ganado,61.66
+2005,AGSyOUT,Tierras,94.24
+2006,AGSyOUT,Emisiones de la quema de biomasa,6.42
+2006,AGSyOUT,Emisiones directas e indirectas de N2O y otros,41.71
+2006,AGSyOUT,Ganado,62.0
+2006,AGSyOUT,Tierras,110.16
+2007,AGSyOUT,Emisiones de la quema de biomasa,6.06
+2007,AGSyOUT,Emisiones directas e indirectas de N2O y otros,42.25
+2007,AGSyOUT,Ganado,61.64
+2007,AGSyOUT,Tierras,114.6
+2008,AGSyOUT,Emisiones de la quema de biomasa,5.68
+2008,AGSyOUT,Emisiones directas e indirectas de N2O y otros,39.53
+2008,AGSyOUT,Ganado,61.96
+2008,AGSyOUT,Tierras,91.19
+2009,AGSyOUT,Emisiones de la quema de biomasa,5.01
+2009,AGSyOUT,Emisiones directas e indirectas de N2O y otros,36.84
+2009,AGSyOUT,Ganado,59.72
+2009,AGSyOUT,Tierras,68.01
+2010,AGSyOUT,Emisiones de la quema de biomasa,3.62
+2010,AGSyOUT,Emisiones directas e indirectas de N2O y otros,38.15
+2010,AGSyOUT,Ganado,55.28
+2010,AGSyOUT,Tierras,69.43
+2011,AGSyOUT,Emisiones de la quema de biomasa,3.35
+2011,AGSyOUT,Emisiones directas e indirectas de N2O y otros,39.35
+2011,AGSyOUT,Ganado,53.97
+2011,AGSyOUT,Tierras,57.1
+2012,AGSyOUT,Emisiones de la quema de biomasa,4.69
+2012,AGSyOUT,Emisiones directas e indirectas de N2O y otros,38.19
+2012,AGSyOUT,Ganado,55.3
+2012,AGSyOUT,Tierras,93.22
+2013,AGSyOUT,Emisiones de la quema de biomasa,5.02
+2013,AGSyOUT,Emisiones directas e indirectas de N2O y otros,39.21
+2013,AGSyOUT,Ganado,56.22
+2013,AGSyOUT,Tierras,89.25
+2014,AGSyOUT,Emisiones de la quema de biomasa,4.28
+2014,AGSyOUT,Emisiones directas e indirectas de N2O y otros,40.62
+2014,AGSyOUT,Ganado,56.72
+2014,AGSyOUT,Tierras,61.56
+2015,AGSyOUT,Emisiones de la quema de biomasa,3.27
+2015,AGSyOUT,Emisiones directas e indirectas de N2O y otros,39.63
+2015,AGSyOUT,Ganado,56.56
+2015,AGSyOUT,Tierras,39.78
+2016,AGSyOUT,Emisiones de la quema de biomasa,3.85
+2016,AGSyOUT,Emisiones directas e indirectas de N2O y otros,41.34
+2016,AGSyOUT,Ganado,56.61
+2016,AGSyOUT,Tierras,31.37
+2017,AGSyOUT,Emisiones de la quema de biomasa,6.4
+2017,AGSyOUT,Emisiones directas e indirectas de N2O y otros,42.52
+2017,AGSyOUT,Ganado,57.72
+2017,AGSyOUT,Tierras,41.01
+2018,AGSyOUT,Emisiones de la quema de biomasa,4.52
+2018,AGSyOUT,Emisiones directas e indirectas de N2O y otros,42.64
+2018,AGSyOUT,Ganado,57.85
+2018,AGSyOUT,Tierras,39.28

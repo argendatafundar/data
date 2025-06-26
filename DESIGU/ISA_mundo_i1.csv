@@ -1,163 +1,163 @@
-code,pais,gini,geocodigoFundar,geonombreFundar
-ISL,Iceland,24.3,ISL,Islandia
-SVN,Slovenia,24.3,SVN,Eslovenia
-CZE,Czech Republic,24.6,CZE,Chequia
-SVK,Slovak Republic,24.8,SVK,Eslovaquia
-NOR,Norway,25.4,NOR,Noruega
-FIN,Finland,25.4,FIN,Finlandia
-UKR,Ukraine,25.5,UKR,Ucrania
-SWE,Sweden,25.8,SWE,Suecia
-KAZ,Kazakhstan,26.5,KAZ,Kazajstán
-BEL,Belgium,26.7,BEL,Bélgica
-XKX,Kosovo,26.7,XKX,Kosovo
-BLR,Belarus,26.7,BLR,Belarús
-MDA,Moldova,27.0,MDA,Moldavia
-DNK,Denmark,27.1,DNK,Dinamarca
-NLD,Netherlands,27.1,NLD,Países Bajos
-DZA,Algeria,27.6,DZA,Argelia
-HUN,Hungary,28.8,HUN,Hungría
-AUT,Austria,28.9,AUT,Austria
-ALB,Albania,29.0,ALB,Albania
-KGZ,Kyrgyz Republic,29.0,KGZ,Kirguistán
-SRB,Serbia,29.1,SRB,Serbia
-IRQ,Iraq,29.5,IRQ,Iraq
-LUX,Luxembourg,29.5,LUX,Luxemburgo
-DEU,Germany,29.8,DEU,Alemania
-KOR,Korea,,KOR,Corea del Sur
-HRV,Croatia,30.0,HRV,Croacia
-IRL,Ireland,30.2,IRL,Irlanda
-TLS,Timor-Leste,30.3,TLS,Timor-Leste
-JPN,Japan,30.4,JPN,Japón
-FRA,France,30.6,FRA,Francia
-PAK,Pakistan,30.7,PAK,Pakistán
-CHE,Switzerland,30.8,CHE,Suiza
-STP,Sao Tome and Principe,30.8,STP,Santo Tomé y Príncipe
-AZE,Azerbaijan,31.8,AZE,Azerbaiyán
-EGY,Egypt,,EGY,Egipto
-LBN,Lebanon,31.8,LBN,Líbano
-MNE,Montenegro,31.9,MNE,Montenegro
-MNG,Mongolia,32.0,MNG,Mongolia
-POL,Poland,32.1,POL,Polonia
-BGD,Bangladesh,32.1,BGD,Bangladesh
-EST,Estonia,32.2,EST,Estonia
-CAN,Canada,32.3,CAN,Canadá
-GBR,United Kingdom,32.3,GBR,Reino Unido
-ARM,Armenia,32.4,ARM,Armenia
-MRT,Mauritania,32.4,MRT,Mauritania
-LVA,Latvia,32.7,LVA,Letonia
-NPL,Nepal,32.8,NPL,Nepal
-ITA,Italy,32.9,ITA,Italia
-AUS,Australia,32.9,AUS,Australia
-MLI,Mali,33.0,MLI,Malí
-MKD,Macedonia,,MKD,Macedonia del Norte
-ETH,Ethiopia,33.2,ETH,Etiopía
-LBR,Liberia,33.2,LBR,Liberia
-JOR,Jordan,33.7,JOR,Jordania
-PRT,Portugal,33.7,PRT,Portugal
-CYP,Cyprus,33.7,CYP,Chipre
-GIN,Guinea,33.7,GIN,Guinea
-BIH,Bosnia and Herzegovina,33.8,BIH,Bosnia y Herzegovina
-GRC,Greece,34.0,GRC,Grecia
-NER,Niger,34.0,NER,Níger
-SLE,Sierra Leone,34.0,SLE,Sierra Leona
-TJK,Tajikistan,34.0,TJK,Tayikistán
-ESP,Spain,34.2,ESP,España
-PSE,West Bank and Gaza,34.4,PSE,Palestina
-TTO,Trinidad and Tobago,34.7,TTO,Trinidad y Tobago
-VNM,Vietnam,34.8,VNM,Vietnam
-BGR,Bulgaria,34.8,BGR,Bulgaria
-LTU,Lithuania,35.1,LTU,Lituania
-UZB,Uzbekistan,35.3,UZB,Uzbekistán
-BFA,Burkina Faso,35.3,BFA,Burkina Faso
-SDN,Sudan,35.4,SDN,Sudán
-IND,India,35.7,IND,India
-SYR,Syrian Arab Republic,35.8,SYR,Siria
-TUN,Tunisia,35.8,TUN,Túnez
-MUS,Mauritius,35.8,MUS,Mauricio
-URY,Uruguay,35.9,URY,Uruguay
-ROU,Romania,36.4,ROU,Rumania
-LAO,Lao PDR,36.4,LAO,Laos
-FJI,Fiji,36.4,FJI,Fiji
-LCA,St. Lucia,36.7,LCA,Santa Lucía
-YEM,Yemen,,YEM,Yemen
-ARG,Argentina,36.7,ARG,Argentina
-KIR,Kiribati,37.0,KIR,Kiribati
-SLB,Solomon Islands,37.0,SLB,Islas Salomón
-VUT,Vanuatu,37.3,VUT,Vanuatu
-TON,Tonga,37.5,TON,Tonga
-RUS,Russian Federation,37.7,RUS,Rusia
-TZA,Tanzania,37.8,TZA,Tanzanía
-THA,Thailand,37.8,THA,Tailandia
-MMR,Myanmar,38.1,MMR,Myanmar
-PER,Peru,38.1,PER,Perú
-GUY,Guyana,38.4,GUY,Guyana
-MDV,Maldives,38.4,MDV,Maldivas
-GEO,Georgia,38.5,GEO,Georgia
-IDN,Indonesia,38.6,IDN,Indonesia
-CHN,China,38.6,CHN,China
-DOM,Dominican Republic,38.6,DOM,Rep. Dominicana
-IRN,Iran,,IRN,Irán
-BTN,Bhutan,38.8,BTN,Bhután
-USA,United States,38.9,USA,Estados Unidos
-TUV,Tuvalu,39.1,TUV,Tuvalu
-LKA,Sri Lanka,39.2,LKA,Sri Lanka
-BDI,Burundi,39.2,BDI,Burundi
-ISR,Israel,39.2,ISR,Israel
-BOL,Bolivia,39.4,BOL,Bolivia
-MYS,Malaysia,39.8,MYS,Malasia
-FSM,Micronesia,40.1,FSM,Micronesia
-ECU,Ecuador,40.1,ECU,Ecuador
-NIC,Nicaragua,40.1,NIC,Nicaragua
-PHL,Philippines,40.1,PHL,Filipinas
-SEN,Senegal,40.3,SEN,Senegal
-SYC,Seychelles,40.3,SYC,Seychelles
-VEN,Venezuela,,VEN,Venezuela
-MAR,Morocco,40.7,MAR,Marruecos
-TKM,Turkmenistan,40.8,TKM,Turkmenistán
-UGA,Uganda,41.0,UGA,Uganda
-CHL,Chile,41.0,CHL,Chile
-TUR,Turkey,41.2,TUR,Turquía
-PRY,Paraguay,41.3,PRY,Paraguay
-CRI,Costa Rica,41.5,CRI,Costa Rica
-CIV,Cote d'Ivoire,41.7,CIV,Costa de Marfil
-PNG,Papua New Guinea,41.8,PNG,Papúa Nueva Guinea
-GTM,Guatemala,41.9,GTM,Guatemala
-WSM,Samoa,42.0,WSM,Samoa
-COD,Congo,,COD,Rep. Dem. Congo
-GAB,Gabon,42.2,GAB,Gabón
-GHA,Ghana,42.2,GHA,Ghana
-MEX,Mexico,42.3,MEX,México
-MDG,Madagascar,42.7,MDG,Madagascar
-AGO,Angola,42.7,AGO,Angola
-NGA,Nigeria,43.0,NGA,Nigeria
-TGO,Togo,43.0,TGO,Togo
-HND,Honduras,43.1,HND,Honduras
-ZWE,Zimbabwe,43.2,ZWE,Zimbabwe
-TCD,Chad,43.3,TCD,Chad
-PAN,Panama,43.9,PAN,Panamá
-COL,Colombia,44.0,COL,Colombia
-DJI,Djibouti,44.1,DJI,Djibouti
-BRA,Brazil,44.2,BRA,Brasil
-COM,Comoros,45.0,COM,Comoras
-JAM,Jamaica,45.5,JAM,Jamaica
-MOZ,Mozambique,45.6,MOZ,Mozambique
-BLZ,Belize,45.9,BLZ,Belice
-MWI,Malawi,46.1,MWI,Malawi
-SSD,South Sudan,46.3,SSD,Sudán del Sur
-CMR,Cameroon,46.5,CMR,Camerún
-CPV,Cabo Verde,47.2,CPV,Cabo Verde
-GMB,Gambia,,GMB,Gambia
-BEN,Benin,47.8,BEN,Benin
-KEN,Kenya,48.5,KEN,Kenia
-COG,Congo,,COG,Congo
-SUR,Suriname,49.6,SUR,Suriname
-RWA,Rwanda,50.4,RWA,Ruanda
-GNB,Guinea-Bissau,50.7,GNB,Guinea-Bissau
-SWZ,Swaziland,51.5,SWZ,Eswatini
-HTI,Haiti,52.3,HTI,Haití
-LSO,Lesotho,54.2,LSO,Lesotho
-CAF,Central African Republic,56.2,CAF,Rep. Centroafricana
-ZMB,Zambia,57.1,ZMB,Zambia
-BWA,Botswana,60.5,BWA,Botswana
-NAM,Namibia,61.0,NAM,Namibia
-ZAF,South Africa,63.4,ZAF,Sudáfrica
+geocodigoFundar,geonombreFundar,pais,gini
+ISL,Islandia,Iceland,24.3
+SVN,Eslovenia,Slovenia,24.3
+CZE,Chequia,Czech Republic,24.6
+SVK,Eslovaquia,Slovak Republic,24.8
+NOR,Noruega,Norway,25.4
+FIN,Finlandia,Finland,25.4
+UKR,Ucrania,Ukraine,25.5
+SWE,Suecia,Sweden,25.8
+KAZ,Kazajstán,Kazakhstan,26.5
+BEL,Bélgica,Belgium,26.7
+XKX,Kosovo,Kosovo,26.7
+BLR,Belarús,Belarus,26.7
+MDA,Moldavia,Moldova,27.0
+DNK,Dinamarca,Denmark,27.1
+NLD,Países Bajos,Netherlands,27.1
+DZA,Argelia,Algeria,27.6
+HUN,Hungría,Hungary,28.8
+AUT,Austria,Austria,28.9
+ALB,Albania,Albania,29.0
+KGZ,Kirguistán,Kyrgyz Republic,29.0
+SRB,Serbia,Serbia,29.1
+IRQ,Iraq,Iraq,29.5
+LUX,Luxemburgo,Luxembourg,29.5
+DEU,Alemania,Germany,29.8
+KOR,Corea del Sur,Korea,
+HRV,Croacia,Croatia,30.0
+IRL,Irlanda,Ireland,30.2
+TLS,Timor-Leste,Timor-Leste,30.3
+JPN,Japón,Japan,30.4
+FRA,Francia,France,30.6
+PAK,Pakistán,Pakistan,30.7
+CHE,Suiza,Switzerland,30.8
+STP,Santo Tomé y Príncipe,Sao Tome and Principe,30.8
+AZE,Azerbaiyán,Azerbaijan,31.8
+EGY,Egipto,Egypt,
+LBN,Líbano,Lebanon,31.8
+MNE,Montenegro,Montenegro,31.9
+MNG,Mongolia,Mongolia,32.0
+POL,Polonia,Poland,32.1
+BGD,Bangladesh,Bangladesh,32.1
+EST,Estonia,Estonia,32.2
+CAN,Canadá,Canada,32.3
+GBR,Reino Unido,United Kingdom,32.3
+ARM,Armenia,Armenia,32.4
+MRT,Mauritania,Mauritania,32.4
+LVA,Letonia,Latvia,32.7
+NPL,Nepal,Nepal,32.8
+ITA,Italia,Italy,32.9
+AUS,Australia,Australia,32.9
+MLI,Malí,Mali,33.0
+MKD,Macedonia del Norte,Macedonia,
+ETH,Etiopía,Ethiopia,33.2
+LBR,Liberia,Liberia,33.2
+JOR,Jordania,Jordan,33.7
+PRT,Portugal,Portugal,33.7
+CYP,Chipre,Cyprus,33.7
+GIN,Guinea,Guinea,33.7
+BIH,Bosnia y Herzegovina,Bosnia and Herzegovina,33.8
+GRC,Grecia,Greece,34.0
+NER,Níger,Niger,34.0
+SLE,Sierra Leona,Sierra Leone,34.0
+TJK,Tayikistán,Tajikistan,34.0
+ESP,España,Spain,34.2
+PSE,Palestina,West Bank and Gaza,34.4
+TTO,Trinidad y Tobago,Trinidad and Tobago,34.7
+VNM,Vietnam,Vietnam,34.8
+BGR,Bulgaria,Bulgaria,34.8
+LTU,Lituania,Lithuania,35.1
+UZB,Uzbekistán,Uzbekistan,35.3
+BFA,Burkina Faso,Burkina Faso,35.3
+SDN,Sudán,Sudan,35.4
+IND,India,India,35.7
+SYR,Siria,Syrian Arab Republic,35.8
+TUN,Túnez,Tunisia,35.8
+MUS,Mauricio,Mauritius,35.8
+URY,Uruguay,Uruguay,35.9
+ROU,Rumania,Romania,36.4
+LAO,Laos,Lao PDR,36.4
+FJI,Fiji,Fiji,36.4
+LCA,Santa Lucía,St. Lucia,36.7
+YEM,Yemen,Yemen,
+ARG,Argentina,Argentina,36.7
+KIR,Kiribati,Kiribati,37.0
+SLB,Islas Salomón,Solomon Islands,37.0
+VUT,Vanuatu,Vanuatu,37.3
+TON,Tonga,Tonga,37.5
+RUS,Rusia,Russian Federation,37.7
+TZA,Tanzanía,Tanzania,37.8
+THA,Tailandia,Thailand,37.8
+MMR,Myanmar,Myanmar,38.1
+PER,Perú,Peru,38.1
+GUY,Guyana,Guyana,38.4
+MDV,Maldivas,Maldives,38.4
+GEO,Georgia,Georgia,38.5
+IDN,Indonesia,Indonesia,38.6
+CHN,China,China,38.6
+DOM,Rep. Dominicana,Dominican Republic,38.6
+IRN,Irán,Iran,
+BTN,Bhután,Bhutan,38.8
+USA,Estados Unidos,United States,38.9
+TUV,Tuvalu,Tuvalu,39.1
+LKA,Sri Lanka,Sri Lanka,39.2
+BDI,Burundi,Burundi,39.2
+ISR,Israel,Israel,39.2
+BOL,Bolivia,Bolivia,39.4
+MYS,Malasia,Malaysia,39.8
+FSM,Micronesia,Micronesia,40.1
+ECU,Ecuador,Ecuador,40.1
+NIC,Nicaragua,Nicaragua,40.1
+PHL,Filipinas,Philippines,40.1
+SEN,Senegal,Senegal,40.3
+SYC,Seychelles,Seychelles,40.3
+VEN,Venezuela,Venezuela,
+MAR,Marruecos,Morocco,40.7
+TKM,Turkmenistán,Turkmenistan,40.8
+UGA,Uganda,Uganda,41.0
+CHL,Chile,Chile,41.0
+TUR,Turquía,Turkey,41.2
+PRY,Paraguay,Paraguay,41.3
+CRI,Costa Rica,Costa Rica,41.5
+CIV,Costa de Marfil,Cote d'Ivoire,41.7
+PNG,Papúa Nueva Guinea,Papua New Guinea,41.8
+GTM,Guatemala,Guatemala,41.9
+WSM,Samoa,Samoa,42.0
+COD,Rep. Dem. Congo,Congo,
+GAB,Gabón,Gabon,42.2
+GHA,Ghana,Ghana,42.2
+MEX,México,Mexico,42.3
+MDG,Madagascar,Madagascar,42.7
+AGO,Angola,Angola,42.7
+NGA,Nigeria,Nigeria,43.0
+TGO,Togo,Togo,43.0
+HND,Honduras,Honduras,43.1
+ZWE,Zimbabwe,Zimbabwe,43.2
+TCD,Chad,Chad,43.3
+PAN,Panamá,Panama,43.9
+COL,Colombia,Colombia,44.0
+DJI,Djibouti,Djibouti,44.1
+BRA,Brasil,Brazil,44.2
+COM,Comoras,Comoros,45.0
+JAM,Jamaica,Jamaica,45.5
+MOZ,Mozambique,Mozambique,45.6
+BLZ,Belice,Belize,45.9
+MWI,Malawi,Malawi,46.1
+SSD,Sudán del Sur,South Sudan,46.3
+CMR,Camerún,Cameroon,46.5
+CPV,Cabo Verde,Cabo Verde,47.2
+GMB,Gambia,Gambia,
+BEN,Benin,Benin,47.8
+KEN,Kenia,Kenya,48.5
+COG,Congo,Congo,
+SUR,Suriname,Suriname,49.6
+RWA,Ruanda,Rwanda,50.4
+GNB,Guinea-Bissau,Guinea-Bissau,50.7
+SWZ,Eswatini,Swaziland,51.5
+HTI,Haití,Haiti,52.3
+LSO,Lesotho,Lesotho,54.2
+CAF,Rep. Centroafricana,Central African Republic,56.2
+ZMB,Zambia,Zambia,57.1
+BWA,Botswana,Botswana,60.5
+NAM,Namibia,Namibia,61.0
+ZAF,Sudáfrica,South Africa,63.4

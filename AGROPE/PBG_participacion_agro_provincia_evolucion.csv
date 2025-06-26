@@ -1,433 +1,433 @@
-anio,nom_pcia,valor,cod_pcia,geocodigoFundar,geonombreFundar
-2004,Ciudad de Buenos Aires,0.0021,2,AR-C,CABA
-2005,Ciudad de Buenos Aires,0.002,2,AR-C,CABA
-2006,Ciudad de Buenos Aires,0.0017,2,AR-C,CABA
-2007,Ciudad de Buenos Aires,0.0018,2,AR-C,CABA
-2008,Ciudad de Buenos Aires,0.0018,2,AR-C,CABA
-2009,Ciudad de Buenos Aires,0.0012,2,AR-C,CABA
-2010,Ciudad de Buenos Aires,0.0018,2,AR-C,CABA
-2011,Ciudad de Buenos Aires,0.0016,2,AR-C,CABA
-2012,Ciudad de Buenos Aires,0.0014,2,AR-C,CABA
-2013,Ciudad de Buenos Aires,0.0016,2,AR-C,CABA
-2014,Ciudad de Buenos Aires,0.0016,2,AR-C,CABA
-2015,Ciudad de Buenos Aires,0.0017,2,AR-C,CABA
-2016,Ciudad de Buenos Aires,0.0016,2,AR-C,CABA
-2017,Ciudad de Buenos Aires,0.0017,2,AR-C,CABA
-2018,Ciudad de Buenos Aires,0.0014,2,AR-C,CABA
-2019,Ciudad de Buenos Aires,0.0018,2,AR-C,CABA
-2020,Ciudad de Buenos Aires,0.0019,2,AR-C,CABA
-2021,Ciudad de Buenos Aires,0.0018,2,AR-C,CABA
-2004,Buenos Aires,0.0889,6,AR-B,Buenos Aires
-2005,Buenos Aires,0.0971,6,AR-B,Buenos Aires
-2006,Buenos Aires,0.0868,6,AR-B,Buenos Aires
-2007,Buenos Aires,0.0831,6,AR-B,Buenos Aires
-2008,Buenos Aires,0.082,6,AR-B,Buenos Aires
-2009,Buenos Aires,0.0604,6,AR-B,Buenos Aires
-2010,Buenos Aires,0.0842,6,AR-B,Buenos Aires
-2011,Buenos Aires,0.0811,6,AR-B,Buenos Aires
-2012,Buenos Aires,0.0749,6,AR-B,Buenos Aires
-2013,Buenos Aires,0.0779,6,AR-B,Buenos Aires
-2014,Buenos Aires,0.0742,6,AR-B,Buenos Aires
-2015,Buenos Aires,0.0814,6,AR-B,Buenos Aires
-2016,Buenos Aires,0.0822,6,AR-B,Buenos Aires
-2017,Buenos Aires,0.0793,6,AR-B,Buenos Aires
-2018,Buenos Aires,0.0693,6,AR-B,Buenos Aires
-2019,Buenos Aires,0.0875,6,AR-B,Buenos Aires
-2020,Buenos Aires,0.089,6,AR-B,Buenos Aires
-2021,Buenos Aires,0.0781,6,AR-B,Buenos Aires
-2004,Catamarca,0.0501,10,AR-K,Catamarca
-2005,Catamarca,0.0461,10,AR-K,Catamarca
-2006,Catamarca,0.0444,10,AR-K,Catamarca
-2007,Catamarca,0.041,10,AR-K,Catamarca
-2008,Catamarca,0.0497,10,AR-K,Catamarca
-2009,Catamarca,0.0429,10,AR-K,Catamarca
-2010,Catamarca,0.0472,10,AR-K,Catamarca
-2011,Catamarca,0.0449,10,AR-K,Catamarca
-2012,Catamarca,0.0345,10,AR-K,Catamarca
-2013,Catamarca,0.0253,10,AR-K,Catamarca
-2014,Catamarca,0.024,10,AR-K,Catamarca
-2015,Catamarca,0.0386,10,AR-K,Catamarca
-2016,Catamarca,0.0482,10,AR-K,Catamarca
-2017,Catamarca,0.0395,10,AR-K,Catamarca
-2018,Catamarca,0.0412,10,AR-K,Catamarca
-2019,Catamarca,0.0572,10,AR-K,Catamarca
-2020,Catamarca,0.05,10,AR-K,Catamarca
-2021,Catamarca,0.0454,10,AR-K,Catamarca
-2004,Córdoba,0.2114,14,AR-X,Córdoba
-2005,Córdoba,0.2457,14,AR-X,Córdoba
-2006,Córdoba,0.2124,14,AR-X,Córdoba
-2007,Córdoba,0.2427,14,AR-X,Córdoba
-2008,Córdoba,0.2114,14,AR-X,Córdoba
-2009,Córdoba,0.1789,14,AR-X,Córdoba
-2010,Córdoba,0.1977,14,AR-X,Córdoba
-2011,Córdoba,0.1702,14,AR-X,Córdoba
-2012,Córdoba,0.1486,14,AR-X,Córdoba
-2013,Córdoba,0.1867,14,AR-X,Córdoba
-2014,Córdoba,0.2105,14,AR-X,Córdoba
-2015,Córdoba,0.2259,14,AR-X,Córdoba
-2016,Córdoba,0.2274,14,AR-X,Córdoba
-2017,Córdoba,0.217,14,AR-X,Córdoba
-2018,Córdoba,0.1681,14,AR-X,Córdoba
-2019,Córdoba,0.2299,14,AR-X,Córdoba
-2020,Córdoba,0.2296,14,AR-X,Córdoba
-2021,Córdoba,0.2145,14,AR-X,Córdoba
-2004,Corrientes,0.066,18,AR-W,Corrientes
-2005,Corrientes,0.0622,18,AR-W,Corrientes
-2006,Corrientes,0.0596,18,AR-W,Corrientes
-2007,Corrientes,0.0548,18,AR-W,Corrientes
-2008,Corrientes,0.0547,18,AR-W,Corrientes
-2009,Corrientes,0.0529,18,AR-W,Corrientes
-2010,Corrientes,0.0453,18,AR-W,Corrientes
-2011,Corrientes,0.0474,18,AR-W,Corrientes
-2012,Corrientes,0.0401,18,AR-W,Corrientes
-2013,Corrientes,0.0443,18,AR-W,Corrientes
-2014,Corrientes,0.044,18,AR-W,Corrientes
-2015,Corrientes,0.0426,18,AR-W,Corrientes
-2016,Corrientes,0.0399,18,AR-W,Corrientes
-2017,Corrientes,0.0374,18,AR-W,Corrientes
-2018,Corrientes,0.0361,18,AR-W,Corrientes
-2019,Corrientes,0.0381,18,AR-W,Corrientes
-2020,Corrientes,0.0426,18,AR-W,Corrientes
-2021,Corrientes,0.0385,18,AR-W,Corrientes
-2004,Chaco,0.1732,22,AR-H,Chaco
-2005,Chaco,0.1869,22,AR-H,Chaco
-2006,Chaco,0.2008,22,AR-H,Chaco
-2007,Chaco,0.1906,22,AR-H,Chaco
-2008,Chaco,0.1777,22,AR-H,Chaco
-2009,Chaco,0.1111,22,AR-H,Chaco
-2010,Chaco,0.1862,22,AR-H,Chaco
-2011,Chaco,0.1879,22,AR-H,Chaco
-2012,Chaco,0.106,22,AR-H,Chaco
-2013,Chaco,0.1002,22,AR-H,Chaco
-2014,Chaco,0.1621,22,AR-H,Chaco
-2015,Chaco,0.1202,22,AR-H,Chaco
-2016,Chaco,0.1185,22,AR-H,Chaco
-2017,Chaco,0.1096,22,AR-H,Chaco
-2018,Chaco,0.1203,22,AR-H,Chaco
-2019,Chaco,0.1224,22,AR-H,Chaco
-2020,Chaco,0.1473,22,AR-H,Chaco
-2021,Chaco,0.1213,22,AR-H,Chaco
-2004,Chubut,0.0263,26,AR-U,Chubut
-2005,Chubut,0.0279,26,AR-U,Chubut
-2006,Chubut,0.0239,26,AR-U,Chubut
-2007,Chubut,0.0231,26,AR-U,Chubut
-2008,Chubut,0.0232,26,AR-U,Chubut
-2009,Chubut,0.0189,26,AR-U,Chubut
-2010,Chubut,0.0187,26,AR-U,Chubut
-2011,Chubut,0.0166,26,AR-U,Chubut
-2012,Chubut,0.015,26,AR-U,Chubut
-2013,Chubut,0.0142,26,AR-U,Chubut
-2014,Chubut,0.0134,26,AR-U,Chubut
-2015,Chubut,0.0137,26,AR-U,Chubut
-2016,Chubut,0.0137,26,AR-U,Chubut
-2017,Chubut,0.0134,26,AR-U,Chubut
-2018,Chubut,0.0132,26,AR-U,Chubut
-2019,Chubut,0.013,26,AR-U,Chubut
-2020,Chubut,0.0145,26,AR-U,Chubut
-2021,Chubut,0.0131,26,AR-U,Chubut
-2004,Entre Ríos,0.2232,30,AR-E,Entre Ríos
-2005,Entre Ríos,0.2396,30,AR-E,Entre Ríos
-2006,Entre Ríos,0.2165,30,AR-E,Entre Ríos
-2007,Entre Ríos,0.2259,30,AR-E,Entre Ríos
-2008,Entre Ríos,0.2067,30,AR-E,Entre Ríos
-2009,Entre Ríos,0.1591,30,AR-E,Entre Ríos
-2010,Entre Ríos,0.2199,30,AR-E,Entre Ríos
-2011,Entre Ríos,0.1935,30,AR-E,Entre Ríos
-2012,Entre Ríos,0.1799,30,AR-E,Entre Ríos
-2013,Entre Ríos,0.191,30,AR-E,Entre Ríos
-2014,Entre Ríos,0.1928,30,AR-E,Entre Ríos
-2015,Entre Ríos,0.197,30,AR-E,Entre Ríos
-2016,Entre Ríos,0.1746,30,AR-E,Entre Ríos
-2017,Entre Ríos,0.1947,30,AR-E,Entre Ríos
-2018,Entre Ríos,0.1625,30,AR-E,Entre Ríos
-2019,Entre Ríos,0.1984,30,AR-E,Entre Ríos
-2020,Entre Ríos,0.197,30,AR-E,Entre Ríos
-2021,Entre Ríos,0.1742,30,AR-E,Entre Ríos
-2004,Formosa,0.0734,34,AR-P,Formosa
-2005,Formosa,0.0686,34,AR-P,Formosa
-2006,Formosa,0.0597,34,AR-P,Formosa
-2007,Formosa,0.058,34,AR-P,Formosa
-2008,Formosa,0.0497,34,AR-P,Formosa
-2009,Formosa,0.0467,34,AR-P,Formosa
-2010,Formosa,0.0387,34,AR-P,Formosa
-2011,Formosa,0.0376,34,AR-P,Formosa
-2012,Formosa,0.0393,34,AR-P,Formosa
-2013,Formosa,0.0385,34,AR-P,Formosa
-2014,Formosa,0.0331,34,AR-P,Formosa
-2015,Formosa,0.0354,34,AR-P,Formosa
-2016,Formosa,0.0323,34,AR-P,Formosa
-2017,Formosa,0.032,34,AR-P,Formosa
-2018,Formosa,0.0371,34,AR-P,Formosa
-2019,Formosa,0.0351,34,AR-P,Formosa
-2020,Formosa,0.0339,34,AR-P,Formosa
-2021,Formosa,0.0294,34,AR-P,Formosa
-2004,Jujuy,0.1121,38,AR-Y,Jujuy
-2005,Jujuy,0.1111,38,AR-Y,Jujuy
-2006,Jujuy,0.0991,38,AR-Y,Jujuy
-2007,Jujuy,0.0949,38,AR-Y,Jujuy
-2008,Jujuy,0.0942,38,AR-Y,Jujuy
-2009,Jujuy,0.0828,38,AR-Y,Jujuy
-2010,Jujuy,0.086,38,AR-Y,Jujuy
-2011,Jujuy,0.0752,38,AR-Y,Jujuy
-2012,Jujuy,0.0691,38,AR-Y,Jujuy
-2013,Jujuy,0.0634,38,AR-Y,Jujuy
-2014,Jujuy,0.0675,38,AR-Y,Jujuy
-2015,Jujuy,0.0662,38,AR-Y,Jujuy
-2016,Jujuy,0.0623,38,AR-Y,Jujuy
-2017,Jujuy,0.065,38,AR-Y,Jujuy
-2018,Jujuy,0.0592,38,AR-Y,Jujuy
-2019,Jujuy,0.0605,38,AR-Y,Jujuy
-2020,Jujuy,0.062,38,AR-Y,Jujuy
-2021,Jujuy,0.0582,38,AR-Y,Jujuy
-2004,La Pampa,0.2056,42,AR-L,La Pampa
-2005,La Pampa,0.2462,42,AR-L,La Pampa
-2006,La Pampa,0.1716,42,AR-L,La Pampa
-2007,La Pampa,0.1649,42,AR-L,La Pampa
-2008,La Pampa,0.1698,42,AR-L,La Pampa
-2009,La Pampa,0.1197,42,AR-L,La Pampa
-2010,La Pampa,0.1287,42,AR-L,La Pampa
-2011,La Pampa,0.1247,42,AR-L,La Pampa
-2012,La Pampa,0.1568,42,AR-L,La Pampa
-2013,La Pampa,0.1455,42,AR-L,La Pampa
-2014,La Pampa,0.1501,42,AR-L,La Pampa
-2015,La Pampa,0.1768,42,AR-L,La Pampa
-2016,La Pampa,0.2002,42,AR-L,La Pampa
-2017,La Pampa,0.1757,42,AR-L,La Pampa
-2018,La Pampa,0.1652,42,AR-L,La Pampa
-2019,La Pampa,0.1926,42,AR-L,La Pampa
-2020,La Pampa,0.2021,42,AR-L,La Pampa
-2021,La Pampa,0.1787,42,AR-L,La Pampa
-2004,La Rioja,0.046,46,AR-F,La Rioja
-2005,La Rioja,0.0483,46,AR-F,La Rioja
-2006,La Rioja,0.0431,46,AR-F,La Rioja
-2007,La Rioja,0.0431,46,AR-F,La Rioja
-2008,La Rioja,0.0403,46,AR-F,La Rioja
-2009,La Rioja,0.0371,46,AR-F,La Rioja
-2010,La Rioja,0.0347,46,AR-F,La Rioja
-2011,La Rioja,0.0355,46,AR-F,La Rioja
-2012,La Rioja,0.0297,46,AR-F,La Rioja
-2013,La Rioja,0.0294,46,AR-F,La Rioja
-2014,La Rioja,0.0326,46,AR-F,La Rioja
-2015,La Rioja,0.0318,46,AR-F,La Rioja
-2016,La Rioja,0.0306,46,AR-F,La Rioja
-2017,La Rioja,0.0308,46,AR-F,La Rioja
-2018,La Rioja,0.0335,46,AR-F,La Rioja
-2019,La Rioja,0.0396,46,AR-F,La Rioja
-2020,La Rioja,0.0443,46,AR-F,La Rioja
-2021,La Rioja,0.0411,46,AR-F,La Rioja
-2004,Mendoza,0.0982,50,AR-M,Mendoza
-2005,Mendoza,0.0976,50,AR-M,Mendoza
-2006,Mendoza,0.0974,50,AR-M,Mendoza
-2007,Mendoza,0.0934,50,AR-M,Mendoza
-2008,Mendoza,0.0851,50,AR-M,Mendoza
-2009,Mendoza,0.077,50,AR-M,Mendoza
-2010,Mendoza,0.0803,50,AR-M,Mendoza
-2011,Mendoza,0.0769,50,AR-M,Mendoza
-2012,Mendoza,0.0718,50,AR-M,Mendoza
-2013,Mendoza,0.068,50,AR-M,Mendoza
-2014,Mendoza,0.0678,50,AR-M,Mendoza
-2015,Mendoza,0.0654,50,AR-M,Mendoza
-2016,Mendoza,0.0567,50,AR-M,Mendoza
-2017,Mendoza,0.0554,50,AR-M,Mendoza
-2018,Mendoza,0.0645,50,AR-M,Mendoza
-2019,Mendoza,0.0648,50,AR-M,Mendoza
-2020,Mendoza,0.0692,50,AR-M,Mendoza
-2021,Mendoza,0.0677,50,AR-M,Mendoza
-2004,Misiones,0.0807,54,AR-N,Misiones
-2005,Misiones,0.0848,54,AR-N,Misiones
-2006,Misiones,0.0737,54,AR-N,Misiones
-2007,Misiones,0.0637,54,AR-N,Misiones
-2008,Misiones,0.067,54,AR-N,Misiones
-2009,Misiones,0.0555,54,AR-N,Misiones
-2010,Misiones,0.063,54,AR-N,Misiones
-2011,Misiones,0.059,54,AR-N,Misiones
-2012,Misiones,0.054,54,AR-N,Misiones
-2013,Misiones,0.0538,54,AR-N,Misiones
-2014,Misiones,0.0579,54,AR-N,Misiones
-2015,Misiones,0.0531,54,AR-N,Misiones
-2016,Misiones,0.0516,54,AR-N,Misiones
-2017,Misiones,0.0499,54,AR-N,Misiones
-2018,Misiones,0.052,54,AR-N,Misiones
-2019,Misiones,0.0561,54,AR-N,Misiones
-2020,Misiones,0.0552,54,AR-N,Misiones
-2021,Misiones,0.0497,54,AR-N,Misiones
-2004,Neuquén,0.0076,58,AR-Q,Neuquén
-2005,Neuquén,0.0083,58,AR-Q,Neuquén
-2006,Neuquén,0.008,58,AR-Q,Neuquén
-2007,Neuquén,0.0076,58,AR-Q,Neuquén
-2008,Neuquén,0.0069,58,AR-Q,Neuquén
-2009,Neuquén,0.0081,58,AR-Q,Neuquén
-2010,Neuquén,0.0076,58,AR-Q,Neuquén
-2011,Neuquén,0.007,58,AR-Q,Neuquén
-2012,Neuquén,0.0056,58,AR-Q,Neuquén
-2013,Neuquén,0.0059,58,AR-Q,Neuquén
-2014,Neuquén,0.0053,58,AR-Q,Neuquén
-2015,Neuquén,0.0069,58,AR-Q,Neuquén
-2016,Neuquén,0.0055,58,AR-Q,Neuquén
-2017,Neuquén,0.0056,58,AR-Q,Neuquén
-2018,Neuquén,0.0054,58,AR-Q,Neuquén
-2019,Neuquén,0.0052,58,AR-Q,Neuquén
-2020,Neuquén,0.0055,58,AR-Q,Neuquén
-2021,Neuquén,0.0044,58,AR-Q,Neuquén
-2004,Río Negro,0.1017,62,AR-R,Río Negro
-2005,Río Negro,0.1098,62,AR-R,Río Negro
-2006,Río Negro,0.0934,62,AR-R,Río Negro
-2007,Río Negro,0.0864,62,AR-R,Río Negro
-2008,Río Negro,0.0846,62,AR-R,Río Negro
-2009,Río Negro,0.0815,62,AR-R,Río Negro
-2010,Río Negro,0.0717,62,AR-R,Río Negro
-2011,Río Negro,0.075,62,AR-R,Río Negro
-2012,Río Negro,0.0695,62,AR-R,Río Negro
-2013,Río Negro,0.0647,62,AR-R,Río Negro
-2014,Río Negro,0.0635,62,AR-R,Río Negro
-2015,Río Negro,0.0664,62,AR-R,Río Negro
-2016,Río Negro,0.0551,62,AR-R,Río Negro
-2017,Río Negro,0.0543,62,AR-R,Río Negro
-2018,Río Negro,0.055,62,AR-R,Río Negro
-2019,Río Negro,0.0599,62,AR-R,Río Negro
-2020,Río Negro,0.0649,62,AR-R,Río Negro
-2021,Río Negro,0.0583,62,AR-R,Río Negro
-2004,Salta,0.1407,66,AR-A,Salta
-2005,Salta,0.1444,66,AR-A,Salta
-2006,Salta,0.1722,66,AR-A,Salta
-2007,Salta,0.1626,66,AR-A,Salta
-2008,Salta,0.1652,66,AR-A,Salta
-2009,Salta,0.1448,66,AR-A,Salta
-2010,Salta,0.1615,66,AR-A,Salta
-2011,Salta,0.1548,66,AR-A,Salta
-2012,Salta,0.1165,66,AR-A,Salta
-2013,Salta,0.0764,66,AR-A,Salta
-2014,Salta,0.127,66,AR-A,Salta
-2015,Salta,0.1451,66,AR-A,Salta
-2016,Salta,0.1281,66,AR-A,Salta
-2017,Salta,0.1359,66,AR-A,Salta
-2018,Salta,0.1263,66,AR-A,Salta
-2019,Salta,0.1463,66,AR-A,Salta
-2020,Salta,0.1507,66,AR-A,Salta
-2021,Salta,0.1412,66,AR-A,Salta
-2004,San Juan,0.1183,70,AR-J,San Juan
-2005,San Juan,0.1271,70,AR-J,San Juan
-2006,San Juan,0.0972,70,AR-J,San Juan
-2007,San Juan,0.0916,70,AR-J,San Juan
-2008,San Juan,0.0851,70,AR-J,San Juan
-2009,San Juan,0.0556,70,AR-J,San Juan
-2010,San Juan,0.0714,70,AR-J,San Juan
-2011,San Juan,0.0613,70,AR-J,San Juan
-2012,San Juan,0.0475,70,AR-J,San Juan
-2013,San Juan,0.0646,70,AR-J,San Juan
-2014,San Juan,0.0655,70,AR-J,San Juan
-2015,San Juan,0.0586,70,AR-J,San Juan
-2016,San Juan,0.0631,70,AR-J,San Juan
-2017,San Juan,0.0566,70,AR-J,San Juan
-2018,San Juan,0.0618,70,AR-J,San Juan
-2019,San Juan,0.0584,70,AR-J,San Juan
-2020,San Juan,0.0518,70,AR-J,San Juan
-2021,San Juan,0.0476,70,AR-J,San Juan
-2004,San Luis,0.0489,74,AR-D,San Luis
-2005,San Luis,0.0613,74,AR-D,San Luis
-2006,San Luis,0.0445,74,AR-D,San Luis
-2007,San Luis,0.0558,74,AR-D,San Luis
-2008,San Luis,0.0638,74,AR-D,San Luis
-2009,San Luis,0.0626,74,AR-D,San Luis
-2010,San Luis,0.0484,74,AR-D,San Luis
-2011,San Luis,0.0547,74,AR-D,San Luis
-2012,San Luis,0.0475,74,AR-D,San Luis
-2013,San Luis,0.0798,74,AR-D,San Luis
-2014,San Luis,0.0746,74,AR-D,San Luis
-2015,San Luis,0.087,74,AR-D,San Luis
-2016,San Luis,0.1008,74,AR-D,San Luis
-2017,San Luis,0.1006,74,AR-D,San Luis
-2018,San Luis,0.0788,74,AR-D,San Luis
-2019,San Luis,0.0886,74,AR-D,San Luis
-2020,San Luis,0.0769,74,AR-D,San Luis
-2021,San Luis,0.0842,74,AR-D,San Luis
-2004,Santa Cruz,0.014,78,AR-Z,Santa Cruz
-2005,Santa Cruz,0.0153,78,AR-Z,Santa Cruz
-2006,Santa Cruz,0.015,78,AR-Z,Santa Cruz
-2007,Santa Cruz,0.0162,78,AR-Z,Santa Cruz
-2008,Santa Cruz,0.0143,78,AR-Z,Santa Cruz
-2009,Santa Cruz,0.0123,78,AR-Z,Santa Cruz
-2010,Santa Cruz,0.0127,78,AR-Z,Santa Cruz
-2011,Santa Cruz,0.0124,78,AR-Z,Santa Cruz
-2012,Santa Cruz,0.008,78,AR-Z,Santa Cruz
-2013,Santa Cruz,0.008,78,AR-Z,Santa Cruz
-2014,Santa Cruz,0.0077,78,AR-Z,Santa Cruz
-2015,Santa Cruz,0.0072,78,AR-Z,Santa Cruz
-2016,Santa Cruz,0.0085,78,AR-Z,Santa Cruz
-2017,Santa Cruz,0.0088,78,AR-Z,Santa Cruz
-2018,Santa Cruz,0.0078,78,AR-Z,Santa Cruz
-2019,Santa Cruz,0.0098,78,AR-Z,Santa Cruz
-2020,Santa Cruz,0.0112,78,AR-Z,Santa Cruz
-2021,Santa Cruz,0.0092,78,AR-Z,Santa Cruz
-2004,Santa Fe,0.2132,82,AR-S,Santa Fe
-2005,Santa Fe,0.2278,82,AR-S,Santa Fe
-2006,Santa Fe,0.2054,82,AR-S,Santa Fe
-2007,Santa Fe,0.2052,82,AR-S,Santa Fe
-2008,Santa Fe,0.1911,82,AR-S,Santa Fe
-2009,Santa Fe,0.1529,82,AR-S,Santa Fe
-2010,Santa Fe,0.2029,82,AR-S,Santa Fe
-2011,Santa Fe,0.1719,82,AR-S,Santa Fe
-2012,Santa Fe,0.1579,82,AR-S,Santa Fe
-2013,Santa Fe,0.1791,82,AR-S,Santa Fe
-2014,Santa Fe,0.1759,82,AR-S,Santa Fe
-2015,Santa Fe,0.1821,82,AR-S,Santa Fe
-2016,Santa Fe,0.151,82,AR-S,Santa Fe
-2017,Santa Fe,0.1668,82,AR-S,Santa Fe
-2018,Santa Fe,0.1434,82,AR-S,Santa Fe
-2019,Santa Fe,0.1782,82,AR-S,Santa Fe
-2020,Santa Fe,0.187,82,AR-S,Santa Fe
-2021,Santa Fe,0.1749,82,AR-S,Santa Fe
-2004,Santiago del Estero,0.1813,86,AR-G,Santiago del Estero
-2005,Santiago del Estero,0.1592,86,AR-G,Santiago del Estero
-2006,Santiago del Estero,0.1787,86,AR-G,Santiago del Estero
-2007,Santiago del Estero,0.1885,86,AR-G,Santiago del Estero
-2008,Santiago del Estero,0.1802,86,AR-G,Santiago del Estero
-2009,Santiago del Estero,0.0914,86,AR-G,Santiago del Estero
-2010,Santiago del Estero,0.2361,86,AR-G,Santiago del Estero
-2011,Santiago del Estero,0.2584,86,AR-G,Santiago del Estero
-2012,Santiago del Estero,0.1719,86,AR-G,Santiago del Estero
-2013,Santiago del Estero,0.1482,86,AR-G,Santiago del Estero
-2014,Santiago del Estero,0.2277,86,AR-G,Santiago del Estero
-2015,Santiago del Estero,0.2002,86,AR-G,Santiago del Estero
-2016,Santiago del Estero,0.2201,86,AR-G,Santiago del Estero
-2017,Santiago del Estero,0.2452,86,AR-G,Santiago del Estero
-2018,Santiago del Estero,0.24,86,AR-G,Santiago del Estero
-2019,Santiago del Estero,0.3208,86,AR-G,Santiago del Estero
-2020,Santiago del Estero,0.3497,86,AR-G,Santiago del Estero
-2021,Santiago del Estero,0.3065,86,AR-G,Santiago del Estero
-2004,Tucumán,0.1215,90,AR-T,Tucumán
-2005,Tucumán,0.1281,90,AR-T,Tucumán
-2006,Tucumán,0.132,90,AR-T,Tucumán
-2007,Tucumán,0.1179,90,AR-T,Tucumán
-2008,Tucumán,0.1058,90,AR-T,Tucumán
-2009,Tucumán,0.0982,90,AR-T,Tucumán
-2010,Tucumán,0.0941,90,AR-T,Tucumán
-2011,Tucumán,0.0942,90,AR-T,Tucumán
-2012,Tucumán,0.0704,90,AR-T,Tucumán
-2013,Tucumán,0.0668,90,AR-T,Tucumán
-2014,Tucumán,0.0651,90,AR-T,Tucumán
-2015,Tucumán,0.0728,90,AR-T,Tucumán
-2016,Tucumán,0.0812,90,AR-T,Tucumán
-2017,Tucumán,0.0777,90,AR-T,Tucumán
-2018,Tucumán,0.0756,90,AR-T,Tucumán
-2019,Tucumán,0.086,90,AR-T,Tucumán
-2020,Tucumán,0.0814,90,AR-T,Tucumán
-2021,Tucumán,0.0808,90,AR-T,Tucumán
-2004,Tierra del Fuego,0.0073,94,AR-V,Tierra del Fuego
-2005,Tierra del Fuego,0.0072,94,AR-V,Tierra del Fuego
-2006,Tierra del Fuego,0.006,94,AR-V,Tierra del Fuego
-2007,Tierra del Fuego,0.0061,94,AR-V,Tierra del Fuego
-2008,Tierra del Fuego,0.0063,94,AR-V,Tierra del Fuego
-2009,Tierra del Fuego,0.0054,94,AR-V,Tierra del Fuego
-2010,Tierra del Fuego,0.0044,94,AR-V,Tierra del Fuego
-2011,Tierra del Fuego,0.0034,94,AR-V,Tierra del Fuego
-2012,Tierra del Fuego,0.0029,94,AR-V,Tierra del Fuego
-2013,Tierra del Fuego,0.0029,94,AR-V,Tierra del Fuego
-2014,Tierra del Fuego,0.003,94,AR-V,Tierra del Fuego
-2015,Tierra del Fuego,0.0029,94,AR-V,Tierra del Fuego
-2016,Tierra del Fuego,0.0026,94,AR-V,Tierra del Fuego
-2017,Tierra del Fuego,0.0026,94,AR-V,Tierra del Fuego
-2018,Tierra del Fuego,0.0029,94,AR-V,Tierra del Fuego
-2019,Tierra del Fuego,0.0031,94,AR-V,Tierra del Fuego
-2020,Tierra del Fuego,0.0034,94,AR-V,Tierra del Fuego
-2021,Tierra del Fuego,0.0026,94,AR-V,Tierra del Fuego
+geocodigoFundar,geonombreFundar,anio,valor,cod_pcia
+AR-C,CABA,2004,0.0021,2
+AR-C,CABA,2005,0.002,2
+AR-C,CABA,2006,0.0017,2
+AR-C,CABA,2007,0.0018,2
+AR-C,CABA,2008,0.0018,2
+AR-C,CABA,2009,0.0012,2
+AR-C,CABA,2010,0.0018,2
+AR-C,CABA,2011,0.0016,2
+AR-C,CABA,2012,0.0014,2
+AR-C,CABA,2013,0.0016,2
+AR-C,CABA,2014,0.0016,2
+AR-C,CABA,2015,0.0017,2
+AR-C,CABA,2016,0.0016,2
+AR-C,CABA,2017,0.0017,2
+AR-C,CABA,2018,0.0014,2
+AR-C,CABA,2019,0.0018,2
+AR-C,CABA,2020,0.0019,2
+AR-C,CABA,2021,0.0018,2
+AR-B,Buenos Aires,2004,0.0889,6
+AR-B,Buenos Aires,2005,0.0971,6
+AR-B,Buenos Aires,2006,0.0868,6
+AR-B,Buenos Aires,2007,0.0831,6
+AR-B,Buenos Aires,2008,0.082,6
+AR-B,Buenos Aires,2009,0.0604,6
+AR-B,Buenos Aires,2010,0.0842,6
+AR-B,Buenos Aires,2011,0.0811,6
+AR-B,Buenos Aires,2012,0.0749,6
+AR-B,Buenos Aires,2013,0.0779,6
+AR-B,Buenos Aires,2014,0.0742,6
+AR-B,Buenos Aires,2015,0.0814,6
+AR-B,Buenos Aires,2016,0.0822,6
+AR-B,Buenos Aires,2017,0.0793,6
+AR-B,Buenos Aires,2018,0.0693,6
+AR-B,Buenos Aires,2019,0.0875,6
+AR-B,Buenos Aires,2020,0.089,6
+AR-B,Buenos Aires,2021,0.0781,6
+AR-K,Catamarca,2004,0.0501,10
+AR-K,Catamarca,2005,0.0461,10
+AR-K,Catamarca,2006,0.0444,10
+AR-K,Catamarca,2007,0.041,10
+AR-K,Catamarca,2008,0.0497,10
+AR-K,Catamarca,2009,0.0429,10
+AR-K,Catamarca,2010,0.0472,10
+AR-K,Catamarca,2011,0.0449,10
+AR-K,Catamarca,2012,0.0345,10
+AR-K,Catamarca,2013,0.0253,10
+AR-K,Catamarca,2014,0.024,10
+AR-K,Catamarca,2015,0.0386,10
+AR-K,Catamarca,2016,0.0482,10
+AR-K,Catamarca,2017,0.0395,10
+AR-K,Catamarca,2018,0.0412,10
+AR-K,Catamarca,2019,0.0572,10
+AR-K,Catamarca,2020,0.05,10
+AR-K,Catamarca,2021,0.0454,10
+AR-X,Córdoba,2004,0.2114,14
+AR-X,Córdoba,2005,0.2457,14
+AR-X,Córdoba,2006,0.2124,14
+AR-X,Córdoba,2007,0.2427,14
+AR-X,Córdoba,2008,0.2114,14
+AR-X,Córdoba,2009,0.1789,14
+AR-X,Córdoba,2010,0.1977,14
+AR-X,Córdoba,2011,0.1702,14
+AR-X,Córdoba,2012,0.1486,14
+AR-X,Córdoba,2013,0.1867,14
+AR-X,Córdoba,2014,0.2105,14
+AR-X,Córdoba,2015,0.2259,14
+AR-X,Córdoba,2016,0.2274,14
+AR-X,Córdoba,2017,0.217,14
+AR-X,Córdoba,2018,0.1681,14
+AR-X,Córdoba,2019,0.2299,14
+AR-X,Córdoba,2020,0.2296,14
+AR-X,Córdoba,2021,0.2145,14
+AR-W,Corrientes,2004,0.066,18
+AR-W,Corrientes,2005,0.0622,18
+AR-W,Corrientes,2006,0.0596,18
+AR-W,Corrientes,2007,0.0548,18
+AR-W,Corrientes,2008,0.0547,18
+AR-W,Corrientes,2009,0.0529,18
+AR-W,Corrientes,2010,0.0453,18
+AR-W,Corrientes,2011,0.0474,18
+AR-W,Corrientes,2012,0.0401,18
+AR-W,Corrientes,2013,0.0443,18
+AR-W,Corrientes,2014,0.044,18
+AR-W,Corrientes,2015,0.0426,18
+AR-W,Corrientes,2016,0.0399,18
+AR-W,Corrientes,2017,0.0374,18
+AR-W,Corrientes,2018,0.0361,18
+AR-W,Corrientes,2019,0.0381,18
+AR-W,Corrientes,2020,0.0426,18
+AR-W,Corrientes,2021,0.0385,18
+AR-H,Chaco,2004,0.1732,22
+AR-H,Chaco,2005,0.1869,22
+AR-H,Chaco,2006,0.2008,22
+AR-H,Chaco,2007,0.1906,22
+AR-H,Chaco,2008,0.1777,22
+AR-H,Chaco,2009,0.1111,22
+AR-H,Chaco,2010,0.1862,22
+AR-H,Chaco,2011,0.1879,22
+AR-H,Chaco,2012,0.106,22
+AR-H,Chaco,2013,0.1002,22
+AR-H,Chaco,2014,0.1621,22
+AR-H,Chaco,2015,0.1202,22
+AR-H,Chaco,2016,0.1185,22
+AR-H,Chaco,2017,0.1096,22
+AR-H,Chaco,2018,0.1203,22
+AR-H,Chaco,2019,0.1224,22
+AR-H,Chaco,2020,0.1473,22
+AR-H,Chaco,2021,0.1213,22
+AR-U,Chubut,2004,0.0263,26
+AR-U,Chubut,2005,0.0279,26
+AR-U,Chubut,2006,0.0239,26
+AR-U,Chubut,2007,0.0231,26
+AR-U,Chubut,2008,0.0232,26
+AR-U,Chubut,2009,0.0189,26
+AR-U,Chubut,2010,0.0187,26
+AR-U,Chubut,2011,0.0166,26
+AR-U,Chubut,2012,0.015,26
+AR-U,Chubut,2013,0.0142,26
+AR-U,Chubut,2014,0.0134,26
+AR-U,Chubut,2015,0.0137,26
+AR-U,Chubut,2016,0.0137,26
+AR-U,Chubut,2017,0.0134,26
+AR-U,Chubut,2018,0.0132,26
+AR-U,Chubut,2019,0.013,26
+AR-U,Chubut,2020,0.0145,26
+AR-U,Chubut,2021,0.0131,26
+AR-E,Entre Ríos,2004,0.2232,30
+AR-E,Entre Ríos,2005,0.2396,30
+AR-E,Entre Ríos,2006,0.2165,30
+AR-E,Entre Ríos,2007,0.2259,30
+AR-E,Entre Ríos,2008,0.2067,30
+AR-E,Entre Ríos,2009,0.1591,30
+AR-E,Entre Ríos,2010,0.2199,30
+AR-E,Entre Ríos,2011,0.1935,30
+AR-E,Entre Ríos,2012,0.1799,30
+AR-E,Entre Ríos,2013,0.191,30
+AR-E,Entre Ríos,2014,0.1928,30
+AR-E,Entre Ríos,2015,0.197,30
+AR-E,Entre Ríos,2016,0.1746,30
+AR-E,Entre Ríos,2017,0.1947,30
+AR-E,Entre Ríos,2018,0.1625,30
+AR-E,Entre Ríos,2019,0.1984,30
+AR-E,Entre Ríos,2020,0.197,30
+AR-E,Entre Ríos,2021,0.1742,30
+AR-P,Formosa,2004,0.0734,34
+AR-P,Formosa,2005,0.0686,34
+AR-P,Formosa,2006,0.0597,34
+AR-P,Formosa,2007,0.058,34
+AR-P,Formosa,2008,0.0497,34
+AR-P,Formosa,2009,0.0467,34
+AR-P,Formosa,2010,0.0387,34
+AR-P,Formosa,2011,0.0376,34
+AR-P,Formosa,2012,0.0393,34
+AR-P,Formosa,2013,0.0385,34
+AR-P,Formosa,2014,0.0331,34
+AR-P,Formosa,2015,0.0354,34
+AR-P,Formosa,2016,0.0323,34
+AR-P,Formosa,2017,0.032,34
+AR-P,Formosa,2018,0.0371,34
+AR-P,Formosa,2019,0.0351,34
+AR-P,Formosa,2020,0.0339,34
+AR-P,Formosa,2021,0.0294,34
+AR-Y,Jujuy,2004,0.1121,38
+AR-Y,Jujuy,2005,0.1111,38
+AR-Y,Jujuy,2006,0.0991,38
+AR-Y,Jujuy,2007,0.0949,38
+AR-Y,Jujuy,2008,0.0942,38
+AR-Y,Jujuy,2009,0.0828,38
+AR-Y,Jujuy,2010,0.086,38
+AR-Y,Jujuy,2011,0.0752,38
+AR-Y,Jujuy,2012,0.0691,38
+AR-Y,Jujuy,2013,0.0634,38
+AR-Y,Jujuy,2014,0.0675,38
+AR-Y,Jujuy,2015,0.0662,38
+AR-Y,Jujuy,2016,0.0623,38
+AR-Y,Jujuy,2017,0.065,38
+AR-Y,Jujuy,2018,0.0592,38
+AR-Y,Jujuy,2019,0.0605,38
+AR-Y,Jujuy,2020,0.062,38
+AR-Y,Jujuy,2021,0.0582,38
+AR-L,La Pampa,2004,0.2056,42
+AR-L,La Pampa,2005,0.2462,42
+AR-L,La Pampa,2006,0.1716,42
+AR-L,La Pampa,2007,0.1649,42
+AR-L,La Pampa,2008,0.1698,42
+AR-L,La Pampa,2009,0.1197,42
+AR-L,La Pampa,2010,0.1287,42
+AR-L,La Pampa,2011,0.1247,42
+AR-L,La Pampa,2012,0.1568,42
+AR-L,La Pampa,2013,0.1455,42
+AR-L,La Pampa,2014,0.1501,42
+AR-L,La Pampa,2015,0.1768,42
+AR-L,La Pampa,2016,0.2002,42
+AR-L,La Pampa,2017,0.1757,42
+AR-L,La Pampa,2018,0.1652,42
+AR-L,La Pampa,2019,0.1926,42
+AR-L,La Pampa,2020,0.2021,42
+AR-L,La Pampa,2021,0.1787,42
+AR-F,La Rioja,2004,0.046,46
+AR-F,La Rioja,2005,0.0483,46
+AR-F,La Rioja,2006,0.0431,46
+AR-F,La Rioja,2007,0.0431,46
+AR-F,La Rioja,2008,0.0403,46
+AR-F,La Rioja,2009,0.0371,46
+AR-F,La Rioja,2010,0.0347,46
+AR-F,La Rioja,2011,0.0355,46
+AR-F,La Rioja,2012,0.0297,46
+AR-F,La Rioja,2013,0.0294,46
+AR-F,La Rioja,2014,0.0326,46
+AR-F,La Rioja,2015,0.0318,46
+AR-F,La Rioja,2016,0.0306,46
+AR-F,La Rioja,2017,0.0308,46
+AR-F,La Rioja,2018,0.0335,46
+AR-F,La Rioja,2019,0.0396,46
+AR-F,La Rioja,2020,0.0443,46
+AR-F,La Rioja,2021,0.0411,46
+AR-M,Mendoza,2004,0.0982,50
+AR-M,Mendoza,2005,0.0976,50
+AR-M,Mendoza,2006,0.0974,50
+AR-M,Mendoza,2007,0.0934,50
+AR-M,Mendoza,2008,0.0851,50
+AR-M,Mendoza,2009,0.077,50
+AR-M,Mendoza,2010,0.0803,50
+AR-M,Mendoza,2011,0.0769,50
+AR-M,Mendoza,2012,0.0718,50
+AR-M,Mendoza,2013,0.068,50
+AR-M,Mendoza,2014,0.0678,50
+AR-M,Mendoza,2015,0.0654,50
+AR-M,Mendoza,2016,0.0567,50
+AR-M,Mendoza,2017,0.0554,50
+AR-M,Mendoza,2018,0.0645,50
+AR-M,Mendoza,2019,0.0648,50
+AR-M,Mendoza,2020,0.0692,50
+AR-M,Mendoza,2021,0.0677,50
+AR-N,Misiones,2004,0.0807,54
+AR-N,Misiones,2005,0.0848,54
+AR-N,Misiones,2006,0.0737,54
+AR-N,Misiones,2007,0.0637,54
+AR-N,Misiones,2008,0.067,54
+AR-N,Misiones,2009,0.0555,54
+AR-N,Misiones,2010,0.063,54
+AR-N,Misiones,2011,0.059,54
+AR-N,Misiones,2012,0.054,54
+AR-N,Misiones,2013,0.0538,54
+AR-N,Misiones,2014,0.0579,54
+AR-N,Misiones,2015,0.0531,54
+AR-N,Misiones,2016,0.0516,54
+AR-N,Misiones,2017,0.0499,54
+AR-N,Misiones,2018,0.052,54
+AR-N,Misiones,2019,0.0561,54
+AR-N,Misiones,2020,0.0552,54
+AR-N,Misiones,2021,0.0497,54
+AR-Q,Neuquén,2004,0.0076,58
+AR-Q,Neuquén,2005,0.0083,58
+AR-Q,Neuquén,2006,0.008,58
+AR-Q,Neuquén,2007,0.0076,58
+AR-Q,Neuquén,2008,0.0069,58
+AR-Q,Neuquén,2009,0.0081,58
+AR-Q,Neuquén,2010,0.0076,58
+AR-Q,Neuquén,2011,0.007,58
+AR-Q,Neuquén,2012,0.0056,58
+AR-Q,Neuquén,2013,0.0059,58
+AR-Q,Neuquén,2014,0.0053,58
+AR-Q,Neuquén,2015,0.0069,58
+AR-Q,Neuquén,2016,0.0055,58
+AR-Q,Neuquén,2017,0.0056,58
+AR-Q,Neuquén,2018,0.0054,58
+AR-Q,Neuquén,2019,0.0052,58
+AR-Q,Neuquén,2020,0.0055,58
+AR-Q,Neuquén,2021,0.0044,58
+AR-R,Río Negro,2004,0.1017,62
+AR-R,Río Negro,2005,0.1098,62
+AR-R,Río Negro,2006,0.0934,62
+AR-R,Río Negro,2007,0.0864,62
+AR-R,Río Negro,2008,0.0846,62
+AR-R,Río Negro,2009,0.0815,62
+AR-R,Río Negro,2010,0.0717,62
+AR-R,Río Negro,2011,0.075,62
+AR-R,Río Negro,2012,0.0695,62
+AR-R,Río Negro,2013,0.0647,62
+AR-R,Río Negro,2014,0.0635,62
+AR-R,Río Negro,2015,0.0664,62
+AR-R,Río Negro,2016,0.0551,62
+AR-R,Río Negro,2017,0.0543,62
+AR-R,Río Negro,2018,0.055,62
+AR-R,Río Negro,2019,0.0599,62
+AR-R,Río Negro,2020,0.0649,62
+AR-R,Río Negro,2021,0.0583,62
+AR-A,Salta,2004,0.1407,66
+AR-A,Salta,2005,0.1444,66
+AR-A,Salta,2006,0.1722,66
+AR-A,Salta,2007,0.1626,66
+AR-A,Salta,2008,0.1652,66
+AR-A,Salta,2009,0.1448,66
+AR-A,Salta,2010,0.1615,66
+AR-A,Salta,2011,0.1548,66
+AR-A,Salta,2012,0.1165,66
+AR-A,Salta,2013,0.0764,66
+AR-A,Salta,2014,0.127,66
+AR-A,Salta,2015,0.1451,66
+AR-A,Salta,2016,0.1281,66
+AR-A,Salta,2017,0.1359,66
+AR-A,Salta,2018,0.1263,66
+AR-A,Salta,2019,0.1463,66
+AR-A,Salta,2020,0.1507,66
+AR-A,Salta,2021,0.1412,66
+AR-J,San Juan,2004,0.1183,70
+AR-J,San Juan,2005,0.1271,70
+AR-J,San Juan,2006,0.0972,70
+AR-J,San Juan,2007,0.0916,70
+AR-J,San Juan,2008,0.0851,70
+AR-J,San Juan,2009,0.0556,70
+AR-J,San Juan,2010,0.0714,70
+AR-J,San Juan,2011,0.0613,70
+AR-J,San Juan,2012,0.0475,70
+AR-J,San Juan,2013,0.0646,70
+AR-J,San Juan,2014,0.0655,70
+AR-J,San Juan,2015,0.0586,70
+AR-J,San Juan,2016,0.0631,70
+AR-J,San Juan,2017,0.0566,70
+AR-J,San Juan,2018,0.0618,70
+AR-J,San Juan,2019,0.0584,70
+AR-J,San Juan,2020,0.0518,70
+AR-J,San Juan,2021,0.0476,70
+AR-D,San Luis,2004,0.0489,74
+AR-D,San Luis,2005,0.0613,74
+AR-D,San Luis,2006,0.0445,74
+AR-D,San Luis,2007,0.0558,74
+AR-D,San Luis,2008,0.0638,74
+AR-D,San Luis,2009,0.0626,74
+AR-D,San Luis,2010,0.0484,74
+AR-D,San Luis,2011,0.0547,74
+AR-D,San Luis,2012,0.0475,74
+AR-D,San Luis,2013,0.0798,74
+AR-D,San Luis,2014,0.0746,74
+AR-D,San Luis,2015,0.087,74
+AR-D,San Luis,2016,0.1008,74
+AR-D,San Luis,2017,0.1006,74
+AR-D,San Luis,2018,0.0788,74
+AR-D,San Luis,2019,0.0886,74
+AR-D,San Luis,2020,0.0769,74
+AR-D,San Luis,2021,0.0842,74
+AR-Z,Santa Cruz,2004,0.014,78
+AR-Z,Santa Cruz,2005,0.0153,78
+AR-Z,Santa Cruz,2006,0.015,78
+AR-Z,Santa Cruz,2007,0.0162,78
+AR-Z,Santa Cruz,2008,0.0143,78
+AR-Z,Santa Cruz,2009,0.0123,78
+AR-Z,Santa Cruz,2010,0.0127,78
+AR-Z,Santa Cruz,2011,0.0124,78
+AR-Z,Santa Cruz,2012,0.008,78
+AR-Z,Santa Cruz,2013,0.008,78
+AR-Z,Santa Cruz,2014,0.0077,78
+AR-Z,Santa Cruz,2015,0.0072,78
+AR-Z,Santa Cruz,2016,0.0085,78
+AR-Z,Santa Cruz,2017,0.0088,78
+AR-Z,Santa Cruz,2018,0.0078,78
+AR-Z,Santa Cruz,2019,0.0098,78
+AR-Z,Santa Cruz,2020,0.0112,78
+AR-Z,Santa Cruz,2021,0.0092,78
+AR-S,Santa Fe,2004,0.2132,82
+AR-S,Santa Fe,2005,0.2278,82
+AR-S,Santa Fe,2006,0.2054,82
+AR-S,Santa Fe,2007,0.2052,82
+AR-S,Santa Fe,2008,0.1911,82
+AR-S,Santa Fe,2009,0.1529,82
+AR-S,Santa Fe,2010,0.2029,82
+AR-S,Santa Fe,2011,0.1719,82
+AR-S,Santa Fe,2012,0.1579,82
+AR-S,Santa Fe,2013,0.1791,82
+AR-S,Santa Fe,2014,0.1759,82
+AR-S,Santa Fe,2015,0.1821,82
+AR-S,Santa Fe,2016,0.151,82
+AR-S,Santa Fe,2017,0.1668,82
+AR-S,Santa Fe,2018,0.1434,82
+AR-S,Santa Fe,2019,0.1782,82
+AR-S,Santa Fe,2020,0.187,82
+AR-S,Santa Fe,2021,0.1749,82
+AR-G,Santiago del Estero,2004,0.1813,86
+AR-G,Santiago del Estero,2005,0.1592,86
+AR-G,Santiago del Estero,2006,0.1787,86
+AR-G,Santiago del Estero,2007,0.1885,86
+AR-G,Santiago del Estero,2008,0.1802,86
+AR-G,Santiago del Estero,2009,0.0914,86
+AR-G,Santiago del Estero,2010,0.2361,86
+AR-G,Santiago del Estero,2011,0.2584,86
+AR-G,Santiago del Estero,2012,0.1719,86
+AR-G,Santiago del Estero,2013,0.1482,86
+AR-G,Santiago del Estero,2014,0.2277,86
+AR-G,Santiago del Estero,2015,0.2002,86
+AR-G,Santiago del Estero,2016,0.2201,86
+AR-G,Santiago del Estero,2017,0.2452,86
+AR-G,Santiago del Estero,2018,0.24,86
+AR-G,Santiago del Estero,2019,0.3208,86
+AR-G,Santiago del Estero,2020,0.3497,86
+AR-G,Santiago del Estero,2021,0.3065,86
+AR-T,Tucumán,2004,0.1215,90
+AR-T,Tucumán,2005,0.1281,90
+AR-T,Tucumán,2006,0.132,90
+AR-T,Tucumán,2007,0.1179,90
+AR-T,Tucumán,2008,0.1058,90
+AR-T,Tucumán,2009,0.0982,90
+AR-T,Tucumán,2010,0.0941,90
+AR-T,Tucumán,2011,0.0942,90
+AR-T,Tucumán,2012,0.0704,90
+AR-T,Tucumán,2013,0.0668,90
+AR-T,Tucumán,2014,0.0651,90
+AR-T,Tucumán,2015,0.0728,90
+AR-T,Tucumán,2016,0.0812,90
+AR-T,Tucumán,2017,0.0777,90
+AR-T,Tucumán,2018,0.0756,90
+AR-T,Tucumán,2019,0.086,90
+AR-T,Tucumán,2020,0.0814,90
+AR-T,Tucumán,2021,0.0808,90
+AR-V,Tierra del Fuego,2004,0.0073,94
+AR-V,Tierra del Fuego,2005,0.0072,94
+AR-V,Tierra del Fuego,2006,0.006,94
+AR-V,Tierra del Fuego,2007,0.0061,94
+AR-V,Tierra del Fuego,2008,0.0063,94
+AR-V,Tierra del Fuego,2009,0.0054,94
+AR-V,Tierra del Fuego,2010,0.0044,94
+AR-V,Tierra del Fuego,2011,0.0034,94
+AR-V,Tierra del Fuego,2012,0.0029,94
+AR-V,Tierra del Fuego,2013,0.0029,94
+AR-V,Tierra del Fuego,2014,0.003,94
+AR-V,Tierra del Fuego,2015,0.0029,94
+AR-V,Tierra del Fuego,2016,0.0026,94
+AR-V,Tierra del Fuego,2017,0.0026,94
+AR-V,Tierra del Fuego,2018,0.0029,94
+AR-V,Tierra del Fuego,2019,0.0031,94
+AR-V,Tierra del Fuego,2020,0.0034,94
+AR-V,Tierra del Fuego,2021,0.0026,94

@@ -1,18 +1,18 @@
-iso3,pais_nombre,salariohorario,geocodigoFundar,geonombreFundar
-HND,Honduras,2.7,HND,Honduras
-GTM,Guatemala,3.3,GTM,Guatemala
-PER,Perú,3.4,PER,Perú
-SLV,El Salvador,3.6,SLV,El Salvador
-MEX,México,3.7,MEX,México
-COL,Colombia,3.7,COL,Colombia
-ECU,Ecuador,3.9,ECU,Ecuador
-NIC,Nicaragua,4.0,NIC,Nicaragua
-PRY,Paraguay,4.7,PRY,Paraguay
-BOL,Bolivia,4.8,BOL,Bolivia
-DOM,Rep. Dominicana,5.0,DOM,Rep. Dominicana
-BRA,Brasil,5.2,BRA,Brasil
-ARG,Argentina,5.3,ARG,Argentina
-URY,Uruguay,6.4,URY,Uruguay
-CRI,Costa Rica,6.4,CRI,Costa Rica
-CHI,Islas Del Canal,7.5,CHI,Islas Del Canal
-PAN,Panamá,10.5,PAN,Panamá
+geocodigoFundar,geonombreFundar,salariohorario
+HND,Honduras,2.7
+GTM,Guatemala,3.3
+PER,Perú,3.4
+SLV,El Salvador,3.6
+MEX,México,3.7
+COL,Colombia,3.7
+ECU,Ecuador,3.9
+NIC,Nicaragua,4.0
+PRY,Paraguay,4.7
+BOL,Bolivia,4.8
+DOM,Rep. Dominicana,5.0
+BRA,Brasil,5.2
+ARG,Argentina,5.3
+URY,Uruguay,6.4
+CRI,Costa Rica,6.4
+CHI,Islas Del Canal,7.5
+PAN,Panamá,10.5

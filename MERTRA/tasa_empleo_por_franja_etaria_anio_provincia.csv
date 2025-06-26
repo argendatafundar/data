@@ -1,789 +1,789 @@
-anio,prov_desc,apertura_edad,tasa_empleo,geocodigoFundar,geonombreFundar
-2016,Buenos Aires,"Edad, entre 18 y 65",0.656322418651848,AR-B,Buenos Aires
-2016,Buenos Aires,"Edad, mayor a 65",0.128950238695527,AR-B,Buenos Aires
-2016,Buenos Aires,"Edad, menor de 18",0.013355758030508,AR-B,Buenos Aires
-2016,Buenos Aires,"Edad, total",0.406335490515795,AR-B,Buenos Aires
-2016,CABA,"Edad, entre 18 y 65",0.755645390552976,AR-C,CABA
-2016,CABA,"Edad, mayor a 65",0.179505776003621,AR-C,CABA
-2016,CABA,"Edad, menor de 18",0.0087161893125773,AR-C,CABA
-2016,CABA,"Edad, total",0.513004338146002,AR-C,CABA
-2016,Catamarca,"Edad, entre 18 y 65",0.650908270929037,AR-K,Catamarca
-2016,Catamarca,"Edad, mayor a 65",0.0995670995670996,AR-K,Catamarca
-2016,Catamarca,"Edad, menor de 18",0.0114723357633475,AR-K,Catamarca
-2016,Catamarca,"Edad, total",0.409790030453598,AR-K,Catamarca
-2016,Chaco,"Edad, entre 18 y 65",0.566381398408299,AR-H,Chaco
-2016,Chaco,"Edad, mayor a 65",0.0899694658981435,AR-H,Chaco
-2016,Chaco,"Edad, menor de 18",0.009631093544137,AR-H,Chaco
-2016,Chaco,"Edad, total",0.357439904872441,AR-H,Chaco
-2016,Chubut,"Edad, entre 18 y 65",0.668603321859565,AR-U,Chubut
-2016,Chubut,"Edad, mayor a 65",0.0780205548128342,AR-U,Chubut
-2016,Chubut,"Edad, menor de 18",0.0044725933341033,AR-U,Chubut
-2016,Chubut,"Edad, total",0.416649298551212,AR-U,Chubut
-2016,Corrientes,"Edad, entre 18 y 65",0.603855401693029,AR-W,Corrientes
-2016,Corrientes,"Edad, mayor a 65",0.180236321546513,AR-W,Corrientes
-2016,Corrientes,"Edad, menor de 18",0.0200511945392491,AR-W,Corrientes
-2016,Corrientes,"Edad, total",0.395460104724128,AR-W,Corrientes
-2016,Córdoba,"Edad, entre 18 y 65",0.655947742196958,AR-X,Córdoba
-2016,Córdoba,"Edad, mayor a 65",0.165242270893832,AR-X,Córdoba
-2016,Córdoba,"Edad, menor de 18",0.0173740569432015,AR-X,Córdoba
-2016,Córdoba,"Edad, total",0.40789645758115,AR-X,Córdoba
-2016,Entre Ríos,"Edad, entre 18 y 65",0.61942985698626,AR-E,Entre Ríos
-2016,Entre Ríos,"Edad, mayor a 65",0.0857075774131501,AR-E,Entre Ríos
-2016,Entre Ríos,"Edad, menor de 18",0.0059675502538909,AR-E,Entre Ríos
-2016,Entre Ríos,"Edad, total",0.37997722850596,AR-E,Entre Ríos
-2016,Formosa,"Edad, entre 18 y 65",0.483743232791957,AR-P,Formosa
-2016,Formosa,"Edad, mayor a 65",0.106109603906674,AR-P,Formosa
-2016,Formosa,"Edad, menor de 18",0.0094402559485807,AR-P,Formosa
-2016,Formosa,"Edad, total",0.308432146732913,AR-P,Formosa
-2016,Jujuy,"Edad, entre 18 y 65",0.625170521565208,AR-Y,Jujuy
-2016,Jujuy,"Edad, mayor a 65",0.117670159773465,AR-Y,Jujuy
-2016,Jujuy,"Edad, menor de 18",0.0069043698357707,AR-Y,Jujuy
-2016,Jujuy,"Edad, total",0.390209233391497,AR-Y,Jujuy
-2016,La Pampa,"Edad, entre 18 y 65",0.659097361883355,AR-L,La Pampa
-2016,La Pampa,"Edad, mayor a 65",0.0637747690162124,AR-L,La Pampa
-2016,La Pampa,"Edad, menor de 18",0.0068490119276815,AR-L,La Pampa
-2016,La Pampa,"Edad, total",0.388765245562452,AR-L,La Pampa
-2016,La Rioja,"Edad, entre 18 y 65",0.618187558571335,AR-F,La Rioja
-2016,La Rioja,"Edad, mayor a 65",0.108217490761922,AR-F,La Rioja
-2016,La Rioja,"Edad, menor de 18",0.0079876856512876,AR-F,La Rioja
-2016,La Rioja,"Edad, total",0.397530957248691,AR-F,La Rioja
-2016,Mendoza,"Edad, entre 18 y 65",0.655826038074737,AR-M,Mendoza
-2016,Mendoza,"Edad, mayor a 65",0.124954664849597,AR-M,Mendoza
-2016,Mendoza,"Edad, menor de 18",0.0083995263125868,AR-M,Mendoza
-2016,Mendoza,"Edad, total",0.404397469838126,AR-M,Mendoza
-2016,Misiones,"Edad, entre 18 y 65",0.640463122485301,AR-N,Misiones
-2016,Misiones,"Edad, mayor a 65",0.154345436200172,AR-N,Misiones
-2016,Misiones,"Edad, menor de 18",0.0096175822900076,AR-N,Misiones
-2016,Misiones,"Edad, total",0.412525553158862,AR-N,Misiones
-2016,Neuquén,"Edad, entre 18 y 65",0.635696864162144,AR-Q,Neuquén
-2016,Neuquén,"Edad, mayor a 65",0.116058115083158,AR-Q,Neuquén
-2016,Neuquén,"Edad, menor de 18",0.0029912221872718,AR-Q,Neuquén
-2016,Neuquén,"Edad, total",0.398816205554592,AR-Q,Neuquén
-2016,Río Negro,"Edad, entre 18 y 65",0.640968413892786,AR-R,Río Negro
-2016,Río Negro,"Edad, mayor a 65",0.10001799133648,AR-R,Río Negro
-2016,Río Negro,"Edad, menor de 18",0.0105197943886251,AR-R,Río Negro
-2016,Río Negro,"Edad, total",0.409027370183324,AR-R,Río Negro
-2016,Salta,"Edad, entre 18 y 65",0.607520788244675,AR-A,Salta
-2016,Salta,"Edad, mayor a 65",0.141214071889982,AR-A,Salta
-2016,Salta,"Edad, menor de 18",0.0117773046249984,AR-A,Salta
-2016,Salta,"Edad, total",0.373636307776739,AR-A,Salta
-2016,San Juan,"Edad, entre 18 y 65",0.57035908489152,AR-J,San Juan
-2016,San Juan,"Edad, mayor a 65",0.0793780484785461,AR-J,San Juan
-2016,San Juan,"Edad, menor de 18",0.0131006501442049,AR-J,San Juan
-2016,San Juan,"Edad, total",0.344725585142913,AR-J,San Juan
-2016,San Luis,"Edad, entre 18 y 65",0.624847303543324,AR-D,San Luis
-2016,San Luis,"Edad, mayor a 65",0.0586531325560796,AR-D,San Luis
-2016,San Luis,"Edad, menor de 18",0.005036633906011,AR-D,San Luis
-2016,San Luis,"Edad, total",0.394589346291808,AR-D,San Luis
-2016,Santa Cruz,"Edad, entre 18 y 65",0.655736345305543,AR-Z,Santa Cruz
-2016,Santa Cruz,"Edad, mayor a 65",0.0685616827743036,AR-Z,Santa Cruz
-2016,Santa Cruz,"Edad, menor de 18",0.0125064357594196,AR-Z,Santa Cruz
-2016,Santa Cruz,"Edad, total",0.406656708704393,AR-Z,Santa Cruz
-2016,Santa Fe,"Edad, entre 18 y 65",0.648027324930759,AR-S,Santa Fe
-2016,Santa Fe,"Edad, mayor a 65",0.0815828381733478,AR-S,Santa Fe
-2016,Santa Fe,"Edad, menor de 18",0.0085908284866359,AR-S,Santa Fe
-2016,Santa Fe,"Edad, total",0.400392525326519,AR-S,Santa Fe
-2016,Santiago del Estero,"Edad, entre 18 y 65",0.611879828683322,AR-G,Santiago del Estero
-2016,Santiago del Estero,"Edad, mayor a 65",0.0521338313597711,AR-G,Santiago del Estero
-2016,Santiago del Estero,"Edad, menor de 18",0.0050477109271053,AR-G,Santiago del Estero
-2016,Santiago del Estero,"Edad, total",0.36571062246403,AR-G,Santiago del Estero
-2016,Tierra del Fuego,"Edad, entre 18 y 65",0.657323434991974,AR-V,Tierra del Fuego
-2016,Tierra del Fuego,"Edad, mayor a 65",0.0736224028906956,AR-V,Tierra del Fuego
-2016,Tierra del Fuego,"Edad, menor de 18",0.0035907053334553,AR-V,Tierra del Fuego
-2016,Tierra del Fuego,"Edad, total",0.440984764672167,AR-V,Tierra del Fuego
-2016,Total,"Edad, entre 18 y 65",0.65088030906748,,
-2016,Total,"Edad, mayor a 65",0.127494501006891,,
-2016,Total,"Edad, menor de 18",0.0118875620650446,,
-2016,Total,"Edad, total",0.407658230452811,,
-2016,Tucumán,"Edad, entre 18 y 65",0.642254611548129,AR-T,Tucumán
-2016,Tucumán,"Edad, mayor a 65",0.137637134490144,AR-T,Tucumán
-2016,Tucumán,"Edad, menor de 18",0.0175305110022217,AR-T,Tucumán
-2016,Tucumán,"Edad, total",0.40634912013904,AR-T,Tucumán
-2017,Buenos Aires,"Edad, entre 18 y 65",0.663844638209151,AR-B,Buenos Aires
-2017,Buenos Aires,"Edad, mayor a 65",0.129930173577028,AR-B,Buenos Aires
-2017,Buenos Aires,"Edad, menor de 18",0.0102248985140014,AR-B,Buenos Aires
-2017,Buenos Aires,"Edad, total",0.413326776762686,AR-B,Buenos Aires
-2017,CABA,"Edad, entre 18 y 65",0.771677992768684,AR-C,CABA
-2017,CABA,"Edad, mayor a 65",0.149479775779328,AR-C,CABA
-2017,CABA,"Edad, menor de 18",0.0016160839733613,AR-C,CABA
-2017,CABA,"Edad, total",0.49975704923768,AR-C,CABA
-2017,Catamarca,"Edad, entre 18 y 65",0.652842750127629,AR-K,Catamarca
-2017,Catamarca,"Edad, mayor a 65",0.0896243551551261,AR-K,Catamarca
-2017,Catamarca,"Edad, menor de 18",0.0069479011116641,AR-K,Catamarca
-2017,Catamarca,"Edad, total",0.406615598885794,AR-K,Catamarca
-2017,Chaco,"Edad, entre 18 y 65",0.607357839782978,AR-H,Chaco
-2017,Chaco,"Edad, mayor a 65",0.105686162367177,AR-H,Chaco
-2017,Chaco,"Edad, menor de 18",0.0171774307908047,AR-H,Chaco
-2017,Chaco,"Edad, total",0.377445754404833,AR-H,Chaco
-2017,Chubut,"Edad, entre 18 y 65",0.640752997002997,AR-U,Chubut
-2017,Chubut,"Edad, mayor a 65",0.0975251677852349,AR-U,Chubut
-2017,Chubut,"Edad, menor de 18",0.0055858747993579,AR-U,Chubut
-2017,Chubut,"Edad, total",0.396965230664221,AR-U,Chubut
-2017,Corrientes,"Edad, entre 18 y 65",0.620004180489975,AR-W,Corrientes
-2017,Corrientes,"Edad, mayor a 65",0.119738153143984,AR-W,Corrientes
-2017,Corrientes,"Edad, menor de 18",0.0119103412748519,AR-W,Corrientes
-2017,Corrientes,"Edad, total",0.396477839999385,AR-W,Corrientes
-2017,Córdoba,"Edad, entre 18 y 65",0.645682838023762,AR-X,Córdoba
-2017,Córdoba,"Edad, mayor a 65",0.145634721188192,AR-X,Córdoba
-2017,Córdoba,"Edad, menor de 18",0.0100662353244106,AR-X,Córdoba
-2017,Córdoba,"Edad, total",0.410528532154554,AR-X,Córdoba
-2017,Entre Ríos,"Edad, entre 18 y 65",0.632968724629354,AR-E,Entre Ríos
-2017,Entre Ríos,"Edad, mayor a 65",0.150042555977478,AR-E,Entre Ríos
-2017,Entre Ríos,"Edad, menor de 18",0.0077626324301132,AR-E,Entre Ríos
-2017,Entre Ríos,"Edad, total",0.399841041357398,AR-E,Entre Ríos
-2017,Formosa,"Edad, entre 18 y 65",0.472148163223771,AR-P,Formosa
-2017,Formosa,"Edad, mayor a 65",0.0379782425330363,AR-P,Formosa
-2017,Formosa,"Edad, menor de 18",0.0,AR-P,Formosa
-2017,Formosa,"Edad, total",0.29263684587516,AR-P,Formosa
-2017,Jujuy,"Edad, entre 18 y 65",0.63575806487883,AR-Y,Jujuy
-2017,Jujuy,"Edad, mayor a 65",0.139834095141358,AR-Y,Jujuy
-2017,Jujuy,"Edad, menor de 18",0.0062287655719139,AR-Y,Jujuy
-2017,Jujuy,"Edad, total",0.404053883884284,AR-Y,Jujuy
-2017,La Pampa,"Edad, entre 18 y 65",0.621391261280458,AR-L,La Pampa
-2017,La Pampa,"Edad, mayor a 65",0.0961007957559682,AR-L,La Pampa
-2017,La Pampa,"Edad, menor de 18",0.0021039661505556,AR-L,La Pampa
-2017,La Pampa,"Edad, total",0.375637675749658,AR-L,La Pampa
-2017,La Rioja,"Edad, entre 18 y 65",0.623326429286373,AR-F,La Rioja
-2017,La Rioja,"Edad, mayor a 65",0.0654276565543195,AR-F,La Rioja
-2017,La Rioja,"Edad, menor de 18",0.0005150402717659,AR-F,La Rioja
-2017,La Rioja,"Edad, total",0.395300004329513,AR-F,La Rioja
-2017,Mendoza,"Edad, entre 18 y 65",0.647046888381707,AR-M,Mendoza
-2017,Mendoza,"Edad, mayor a 65",0.113210234498194,AR-M,Mendoza
-2017,Mendoza,"Edad, menor de 18",0.0059406753864217,AR-M,Mendoza
-2017,Mendoza,"Edad, total",0.400594439475253,AR-M,Mendoza
-2017,Misiones,"Edad, entre 18 y 65",0.664485895499414,AR-N,Misiones
-2017,Misiones,"Edad, mayor a 65",0.19524525726419,AR-N,Misiones
-2017,Misiones,"Edad, menor de 18",0.0175803734381581,AR-N,Misiones
-2017,Misiones,"Edad, total",0.42365650101903,AR-N,Misiones
-2017,Neuquén,"Edad, entre 18 y 65",0.632198431183283,AR-Q,Neuquén
-2017,Neuquén,"Edad, mayor a 65",0.0992987503371393,AR-Q,Neuquén
-2017,Neuquén,"Edad, menor de 18",0.0057851395405807,AR-Q,Neuquén
-2017,Neuquén,"Edad, total",0.416593013872344,AR-Q,Neuquén
-2017,Río Negro,"Edad, entre 18 y 65",0.622786069136289,AR-R,Río Negro
-2017,Río Negro,"Edad, mayor a 65",0.0604022113160715,AR-R,Río Negro
-2017,Río Negro,"Edad, menor de 18",0.0021562589211416,AR-R,Río Negro
-2017,Río Negro,"Edad, total",0.394261473594124,AR-R,Río Negro
-2017,Salta,"Edad, entre 18 y 65",0.627289717590721,AR-A,Salta
-2017,Salta,"Edad, mayor a 65",0.132721303501946,AR-A,Salta
-2017,Salta,"Edad, menor de 18",0.0112666777360593,AR-A,Salta
-2017,Salta,"Edad, total",0.396226008570247,AR-A,Salta
-2017,San Juan,"Edad, entre 18 y 65",0.576238095986834,AR-J,San Juan
-2017,San Juan,"Edad, mayor a 65",0.0745051504746516,AR-J,San Juan
-2017,San Juan,"Edad, menor de 18",0.0104093244089071,AR-J,San Juan
-2017,San Juan,"Edad, total",0.35671337974868,AR-J,San Juan
-2017,San Luis,"Edad, entre 18 y 65",0.625448361040632,AR-D,San Luis
-2017,San Luis,"Edad, mayor a 65",0.0517234731647131,AR-D,San Luis
-2017,San Luis,"Edad, menor de 18",0.0035016192934291,AR-D,San Luis
-2017,San Luis,"Edad, total",0.378524099842371,AR-D,San Luis
-2017,Santa Cruz,"Edad, entre 18 y 65",0.640568989760957,AR-Z,Santa Cruz
-2017,Santa Cruz,"Edad, mayor a 65",0.039621773147567,AR-Z,Santa Cruz
-2017,Santa Cruz,"Edad, menor de 18",0.0,AR-Z,Santa Cruz
-2017,Santa Cruz,"Edad, total",0.399072778327265,AR-Z,Santa Cruz
-2017,Santa Fe,"Edad, entre 18 y 65",0.666520398520052,AR-S,Santa Fe
-2017,Santa Fe,"Edad, mayor a 65",0.0779665957495135,AR-S,Santa Fe
-2017,Santa Fe,"Edad, menor de 18",0.0068290902062685,AR-S,Santa Fe
-2017,Santa Fe,"Edad, total",0.411133969303117,AR-S,Santa Fe
-2017,Santiago del Estero,"Edad, entre 18 y 65",0.607469872881462,AR-G,Santiago del Estero
-2017,Santiago del Estero,"Edad, mayor a 65",0.0653022754813518,AR-G,Santiago del Estero
-2017,Santiago del Estero,"Edad, menor de 18",0.0126142518419353,AR-G,Santiago del Estero
-2017,Santiago del Estero,"Edad, total",0.374802003252346,AR-G,Santiago del Estero
-2017,Tierra del Fuego,"Edad, entre 18 y 65",0.611266588426469,AR-V,Tierra del Fuego
-2017,Tierra del Fuego,"Edad, mayor a 65",0.0576083107071184,AR-V,Tierra del Fuego
-2017,Tierra del Fuego,"Edad, menor de 18",0.0,AR-V,Tierra del Fuego
-2017,Tierra del Fuego,"Edad, total",0.398716101309862,AR-V,Tierra del Fuego
-2017,Total,"Edad, entre 18 y 65",0.656602007888553,,
-2017,Total,"Edad, mayor a 65",0.121301684180562,,
-2017,Total,"Edad, menor de 18",0.0091410530524576,,
-2017,Total,"Edad, total",0.411846808234291,,
-2017,Tucumán,"Edad, entre 18 y 65",0.636387549764016,AR-T,Tucumán
-2017,Tucumán,"Edad, mayor a 65",0.115780741811492,AR-T,Tucumán
-2017,Tucumán,"Edad, menor de 18",0.016181657064653,AR-T,Tucumán
-2017,Tucumán,"Edad, total",0.400880635735714,AR-T,Tucumán
-2018,Buenos Aires,"Edad, entre 18 y 65",0.649472146410886,AR-B,Buenos Aires
-2018,Buenos Aires,"Edad, mayor a 65",0.136069079935576,AR-B,Buenos Aires
-2018,Buenos Aires,"Edad, menor de 18",0.0074965943056923,AR-B,Buenos Aires
-2018,Buenos Aires,"Edad, total",0.410119219591475,AR-B,Buenos Aires
-2018,CABA,"Edad, entre 18 y 65",0.754071699506562,AR-C,CABA
-2018,CABA,"Edad, mayor a 65",0.177121105163925,AR-C,CABA
-2018,CABA,"Edad, menor de 18",0.0037261801383053,AR-C,CABA
-2018,CABA,"Edad, total",0.49214515135441,AR-C,CABA
-2018,Catamarca,"Edad, entre 18 y 65",0.65285502216275,AR-K,Catamarca
-2018,Catamarca,"Edad, mayor a 65",0.139557037389855,AR-K,Catamarca
-2018,Catamarca,"Edad, menor de 18",0.0049923195084485,AR-K,Catamarca
-2018,Catamarca,"Edad, total",0.4051060980989,AR-K,Catamarca
-2018,Chaco,"Edad, entre 18 y 65",0.52084310567997,AR-H,Chaco
-2018,Chaco,"Edad, mayor a 65",0.0909947103599536,AR-H,Chaco
-2018,Chaco,"Edad, menor de 18",0.0097381876334186,AR-H,Chaco
-2018,Chaco,"Edad, total",0.342934362059141,AR-H,Chaco
-2018,Chubut,"Edad, entre 18 y 65",0.627881185928845,AR-U,Chubut
-2018,Chubut,"Edad, mayor a 65",0.0633792983068598,AR-U,Chubut
-2018,Chubut,"Edad, menor de 18",0.0050292230223887,AR-U,Chubut
-2018,Chubut,"Edad, total",0.384245254550406,AR-U,Chubut
-2018,Corrientes,"Edad, entre 18 y 65",0.599357506638228,AR-W,Corrientes
-2018,Corrientes,"Edad, mayor a 65",0.16060297082474,AR-W,Corrientes
-2018,Corrientes,"Edad, menor de 18",0.0033925983853531,AR-W,Corrientes
-2018,Corrientes,"Edad, total",0.38955477686754,AR-W,Corrientes
-2018,Córdoba,"Edad, entre 18 y 65",0.667821721223939,AR-X,Córdoba
-2018,Córdoba,"Edad, mayor a 65",0.0934772048461646,AR-X,Córdoba
-2018,Córdoba,"Edad, menor de 18",0.0240188541608215,AR-X,Córdoba
-2018,Córdoba,"Edad, total",0.42136458731776,AR-X,Córdoba
-2018,Entre Ríos,"Edad, entre 18 y 65",0.675188026815575,AR-E,Entre Ríos
-2018,Entre Ríos,"Edad, mayor a 65",0.120259952299393,AR-E,Entre Ríos
-2018,Entre Ríos,"Edad, menor de 18",0.0072983730567825,AR-E,Entre Ríos
-2018,Entre Ríos,"Edad, total",0.429531713232063,AR-E,Entre Ríos
-2018,Formosa,"Edad, entre 18 y 65",0.495952538255687,AR-P,Formosa
-2018,Formosa,"Edad, mayor a 65",0.0595018260905248,AR-P,Formosa
-2018,Formosa,"Edad, menor de 18",0.0034888760473851,AR-P,Formosa
-2018,Formosa,"Edad, total",0.312231962404903,AR-P,Formosa
-2018,Jujuy,"Edad, entre 18 y 65",0.628697111197492,AR-Y,Jujuy
-2018,Jujuy,"Edad, mayor a 65",0.157219786668508,AR-Y,Jujuy
-2018,Jujuy,"Edad, menor de 18",0.0071591095441128,AR-Y,Jujuy
-2018,Jujuy,"Edad, total",0.403387209267065,AR-Y,Jujuy
-2018,La Pampa,"Edad, entre 18 y 65",0.633917357978385,AR-L,La Pampa
-2018,La Pampa,"Edad, mayor a 65",0.0521818970134408,AR-L,La Pampa
-2018,La Pampa,"Edad, menor de 18",0.0033173608551419,AR-L,La Pampa
-2018,La Pampa,"Edad, total",0.381835525288078,AR-L,La Pampa
-2018,La Rioja,"Edad, entre 18 y 65",0.636797830856639,AR-F,La Rioja
-2018,La Rioja,"Edad, mayor a 65",0.0948332469327804,AR-F,La Rioja
-2018,La Rioja,"Edad, menor de 18",0.003431686271048,AR-F,La Rioja
-2018,La Rioja,"Edad, total",0.414197686921083,AR-F,La Rioja
-2018,Mendoza,"Edad, entre 18 y 65",0.661023273782478,AR-M,Mendoza
-2018,Mendoza,"Edad, mayor a 65",0.124327178924705,AR-M,Mendoza
-2018,Mendoza,"Edad, menor de 18",0.0072116025810456,AR-M,Mendoza
-2018,Mendoza,"Edad, total",0.414180549919532,AR-M,Mendoza
-2018,Misiones,"Edad, entre 18 y 65",0.661795452684445,AR-N,Misiones
-2018,Misiones,"Edad, mayor a 65",0.16062248511697,AR-N,Misiones
-2018,Misiones,"Edad, menor de 18",0.0131606017954588,AR-N,Misiones
-2018,Misiones,"Edad, total",0.407014904451647,AR-N,Misiones
-2018,Neuquén,"Edad, entre 18 y 65",0.632553828683396,AR-Q,Neuquén
-2018,Neuquén,"Edad, mayor a 65",0.0642223260158804,AR-Q,Neuquén
-2018,Neuquén,"Edad, menor de 18",0.00717139891994,AR-Q,Neuquén
-2018,Neuquén,"Edad, total",0.400365076109233,AR-Q,Neuquén
-2018,Río Negro,"Edad, entre 18 y 65",0.640365681073431,AR-R,Río Negro
-2018,Río Negro,"Edad, mayor a 65",0.0453771765032214,AR-R,Río Negro
-2018,Río Negro,"Edad, menor de 18",0.0011118124279783,AR-R,Río Negro
-2018,Río Negro,"Edad, total",0.397336582281409,AR-R,Río Negro
-2018,Salta,"Edad, entre 18 y 65",0.647329658887923,AR-A,Salta
-2018,Salta,"Edad, mayor a 65",0.161422970259157,AR-A,Salta
-2018,Salta,"Edad, menor de 18",0.0225282608313295,AR-A,Salta
-2018,Salta,"Edad, total",0.406990385423921,AR-A,Salta
-2018,San Juan,"Edad, entre 18 y 65",0.615210977829539,AR-J,San Juan
-2018,San Juan,"Edad, mayor a 65",0.107031698908255,AR-J,San Juan
-2018,San Juan,"Edad, menor de 18",0.002047993823851,AR-J,San Juan
-2018,San Juan,"Edad, total",0.37218672563766,AR-J,San Juan
-2018,San Luis,"Edad, entre 18 y 65",0.671935465239406,AR-D,San Luis
-2018,San Luis,"Edad, mayor a 65",0.0784788245462403,AR-D,San Luis
-2018,San Luis,"Edad, menor de 18",0.0030515538942458,AR-D,San Luis
-2018,San Luis,"Edad, total",0.413596738557681,AR-D,San Luis
-2018,Santa Cruz,"Edad, entre 18 y 65",0.673797398860345,AR-Z,Santa Cruz
-2018,Santa Cruz,"Edad, mayor a 65",0.0491222725714938,AR-Z,Santa Cruz
-2018,Santa Cruz,"Edad, menor de 18",0.0050569029278957,AR-Z,Santa Cruz
-2018,Santa Cruz,"Edad, total",0.429744305223901,AR-Z,Santa Cruz
-2018,Santa Fe,"Edad, entre 18 y 65",0.695901893985824,AR-S,Santa Fe
-2018,Santa Fe,"Edad, mayor a 65",0.103389011122869,AR-S,Santa Fe
-2018,Santa Fe,"Edad, menor de 18",0.0034899044415159,AR-S,Santa Fe
-2018,Santa Fe,"Edad, total",0.433040240239483,AR-S,Santa Fe
-2018,Santiago del Estero,"Edad, entre 18 y 65",0.591037084660277,AR-G,Santiago del Estero
-2018,Santiago del Estero,"Edad, mayor a 65",0.0721865866337119,AR-G,Santiago del Estero
-2018,Santiago del Estero,"Edad, menor de 18",0.0052462483224205,AR-G,Santiago del Estero
-2018,Santiago del Estero,"Edad, total",0.359309538019353,AR-G,Santiago del Estero
-2018,Tierra del Fuego,"Edad, entre 18 y 65",0.596580621543272,AR-V,Tierra del Fuego
-2018,Tierra del Fuego,"Edad, mayor a 65",0.0667967298402081,AR-V,Tierra del Fuego
-2018,Tierra del Fuego,"Edad, menor de 18",0.0,AR-V,Tierra del Fuego
-2018,Tierra del Fuego,"Edad, total",0.386826005642375,AR-V,Tierra del Fuego
-2018,Total,"Edad, entre 18 y 65",0.654355016878987,,
-2018,Total,"Edad, mayor a 65",0.125710025632201,,
-2018,Total,"Edad, menor de 18",0.0089270873611845,,
-2018,Total,"Edad, total",0.41350239959339,,
-2018,Tucumán,"Edad, entre 18 y 65",0.636475503982815,AR-T,Tucumán
-2018,Tucumán,"Edad, mayor a 65",0.105378803840713,AR-T,Tucumán
-2018,Tucumán,"Edad, menor de 18",0.0200339171156968,AR-T,Tucumán
-2018,Tucumán,"Edad, total",0.40359309389949,AR-T,Tucumán
-2019,Buenos Aires,"Edad, entre 18 y 65",0.644652258375157,AR-B,Buenos Aires
-2019,Buenos Aires,"Edad, mayor a 65",0.133652441646647,AR-B,Buenos Aires
-2019,Buenos Aires,"Edad, menor de 18",0.009556907990515,AR-B,Buenos Aires
-2019,Buenos Aires,"Edad, total",0.406736837017766,AR-B,Buenos Aires
-2019,CABA,"Edad, entre 18 y 65",0.78160249206228,AR-C,CABA
-2019,CABA,"Edad, mayor a 65",0.235238439044275,AR-C,CABA
-2019,CABA,"Edad, menor de 18",0.0044537156689194,AR-C,CABA
-2019,CABA,"Edad, total",0.524219955060018,AR-C,CABA
-2019,Catamarca,"Edad, entre 18 y 65",0.642114222840416,AR-K,Catamarca
-2019,Catamarca,"Edad, mayor a 65",0.112099921935988,AR-K,Catamarca
-2019,Catamarca,"Edad, menor de 18",0.0027585231291554,AR-K,Catamarca
-2019,Catamarca,"Edad, total",0.394179820618104,AR-K,Catamarca
-2019,Chubut,"Edad, entre 18 y 65",0.648022936605127,AR-U,Chubut
-2019,Chubut,"Edad, mayor a 65",0.0348888849412893,AR-U,Chubut
-2019,Chubut,"Edad, menor de 18",0.0016556397225684,AR-U,Chubut
-2019,Chubut,"Edad, total",0.404666893940753,AR-U,Chubut
-2019,Corrientes,"Edad, entre 18 y 65",0.616775649408929,AR-W,Corrientes
-2019,Corrientes,"Edad, mayor a 65",0.141827215015181,AR-W,Corrientes
-2019,Corrientes,"Edad, menor de 18",0.0063032188229041,AR-W,Corrientes
-2019,Corrientes,"Edad, total",0.402869348346791,AR-W,Corrientes
-2019,Córdoba,"Edad, entre 18 y 65",0.664874975156392,AR-X,Córdoba
-2019,Córdoba,"Edad, mayor a 65",0.0920579704987456,AR-X,Córdoba
-2019,Córdoba,"Edad, menor de 18",0.0245800699472932,AR-X,Córdoba
-2019,Córdoba,"Edad, total",0.423947350587682,AR-X,Córdoba
-2019,Entre Ríos,"Edad, entre 18 y 65",0.663636119258124,AR-E,Entre Ríos
-2019,Entre Ríos,"Edad, mayor a 65",0.106873017398827,AR-E,Entre Ríos
-2019,Entre Ríos,"Edad, menor de 18",0.0058637584012477,AR-E,Entre Ríos
-2019,Entre Ríos,"Edad, total",0.406825935719589,AR-E,Entre Ríos
-2019,Formosa,"Edad, entre 18 y 65",0.464017973434942,AR-P,Formosa
-2019,Formosa,"Edad, mayor a 65",0.0347207089416721,AR-P,Formosa
-2019,Formosa,"Edad, menor de 18",0.0037930335582129,AR-P,Formosa
-2019,Formosa,"Edad, total",0.28669855797869,AR-P,Formosa
-2019,Jujuy,"Edad, entre 18 y 65",0.638803937525357,AR-Y,Jujuy
-2019,Jujuy,"Edad, mayor a 65",0.103601881555109,AR-Y,Jujuy
-2019,Jujuy,"Edad, menor de 18",0.0072725513593704,AR-Y,Jujuy
-2019,Jujuy,"Edad, total",0.414611315464708,AR-Y,Jujuy
-2019,La Pampa,"Edad, entre 18 y 65",0.669099179165034,AR-L,La Pampa
-2019,La Pampa,"Edad, mayor a 65",0.0976824999361218,AR-L,La Pampa
-2019,La Pampa,"Edad, menor de 18",0.0043867991820818,AR-L,La Pampa
-2019,La Pampa,"Edad, total",0.411957557241878,AR-L,La Pampa
-2019,La Rioja,"Edad, entre 18 y 65",0.621253025507354,AR-F,La Rioja
-2019,La Rioja,"Edad, mayor a 65",0.12649919241211,AR-F,La Rioja
-2019,La Rioja,"Edad, menor de 18",0.0009336578406277,AR-F,La Rioja
-2019,La Rioja,"Edad, total",0.404523923917433,AR-F,La Rioja
-2019,Mendoza,"Edad, entre 18 y 65",0.647191763362465,AR-M,Mendoza
-2019,Mendoza,"Edad, mayor a 65",0.111678032267217,AR-M,Mendoza
-2019,Mendoza,"Edad, menor de 18",0.00813508783302,AR-M,Mendoza
-2019,Mendoza,"Edad, total",0.406460983572162,AR-M,Mendoza
-2019,Misiones,"Edad, entre 18 y 65",0.680529459363085,AR-N,Misiones
-2019,Misiones,"Edad, mayor a 65",0.190655377861399,AR-N,Misiones
-2019,Misiones,"Edad, menor de 18",0.0104037181293334,AR-N,Misiones
-2019,Misiones,"Edad, total",0.436635294315903,AR-N,Misiones
-2019,Neuquén,"Edad, entre 18 y 65",0.639163469250612,AR-Q,Neuquén
-2019,Neuquén,"Edad, mayor a 65",0.0789270393320294,AR-Q,Neuquén
-2019,Neuquén,"Edad, menor de 18",0.0024874043428049,AR-Q,Neuquén
-2019,Neuquén,"Edad, total",0.410354001732816,AR-Q,Neuquén
-2019,Río Negro,"Edad, entre 18 y 65",0.63726309989318,AR-R,Río Negro
-2019,Río Negro,"Edad, mayor a 65",0.0488686190656634,AR-R,Río Negro
-2019,Río Negro,"Edad, menor de 18",0.0032083441723339,AR-R,Río Negro
-2019,Río Negro,"Edad, total",0.412579645308783,AR-R,Río Negro
-2019,Salta,"Edad, entre 18 y 65",0.638497429513556,AR-A,Salta
-2019,Salta,"Edad, mayor a 65",0.21420995622151,AR-A,Salta
-2019,Salta,"Edad, menor de 18",0.0243116676871269,AR-A,Salta
-2019,Salta,"Edad, total",0.401720001512019,AR-A,Salta
-2019,San Juan,"Edad, entre 18 y 65",0.666892899722843,AR-J,San Juan
-2019,San Juan,"Edad, mayor a 65",0.106200107742789,AR-J,San Juan
-2019,San Juan,"Edad, menor de 18",0.0127244429637659,AR-J,San Juan
-2019,San Juan,"Edad, total",0.402299896612068,AR-J,San Juan
-2019,San Luis,"Edad, entre 18 y 65",0.685808233114123,AR-D,San Luis
-2019,San Luis,"Edad, mayor a 65",0.102948450504312,AR-D,San Luis
-2019,San Luis,"Edad, menor de 18",0.0043232970062238,AR-D,San Luis
-2019,San Luis,"Edad, total",0.442486169955625,AR-D,San Luis
-2019,Santa Cruz,"Edad, entre 18 y 65",0.650567992140629,AR-Z,Santa Cruz
-2019,Santa Cruz,"Edad, mayor a 65",0.102684214439735,AR-Z,Santa Cruz
-2019,Santa Cruz,"Edad, menor de 18",0.0038443766749838,AR-Z,Santa Cruz
-2019,Santa Cruz,"Edad, total",0.404859133279581,AR-Z,Santa Cruz
-2019,Santa Fe,"Edad, entre 18 y 65",0.677343618983733,AR-S,Santa Fe
-2019,Santa Fe,"Edad, mayor a 65",0.117593152691837,AR-S,Santa Fe
-2019,Santa Fe,"Edad, menor de 18",0.006639334190391,AR-S,Santa Fe
-2019,Santa Fe,"Edad, total",0.432003859751944,AR-S,Santa Fe
-2019,Santiago del Estero,"Edad, entre 18 y 65",0.619299740491779,AR-G,Santiago del Estero
-2019,Santiago del Estero,"Edad, mayor a 65",0.100232884814431,AR-G,Santiago del Estero
-2019,Santiago del Estero,"Edad, menor de 18",0.0048442052461993,AR-G,Santiago del Estero
-2019,Santiago del Estero,"Edad, total",0.377586570184123,AR-G,Santiago del Estero
-2019,Tierra del Fuego,"Edad, entre 18 y 65",0.594397347536515,AR-V,Tierra del Fuego
-2019,Tierra del Fuego,"Edad, mayor a 65",0.096619576185671,AR-V,Tierra del Fuego
-2019,Tierra del Fuego,"Edad, menor de 18",0.0,AR-V,Tierra del Fuego
-2019,Tierra del Fuego,"Edad, total",0.387281056985465,AR-V,Tierra del Fuego
-2019,Total,"Edad, entre 18 y 65",0.657724855997761,,
-2019,Total,"Edad, mayor a 65",0.134323975550765,,
-2019,Total,"Edad, menor de 18",0.0100318325888769,,
-2019,Total,"Edad, total",0.418197777163488,,
-2019,Tucumán,"Edad, entre 18 y 65",0.64408230595172,AR-T,Tucumán
-2019,Tucumán,"Edad, mayor a 65",0.126633890967666,AR-T,Tucumán
-2019,Tucumán,"Edad, menor de 18",0.0155799783319716,AR-T,Tucumán
-2019,Tucumán,"Edad, total",0.415159424373974,AR-T,Tucumán
-2020,Buenos Aires,"Edad, entre 18 y 65",0.562614588743116,AR-B,Buenos Aires
-2020,Buenos Aires,"Edad, mayor a 65",0.0986580200959805,AR-B,Buenos Aires
-2020,Buenos Aires,"Edad, menor de 18",0.0115107919392238,AR-B,Buenos Aires
-2020,Buenos Aires,"Edad, total",0.349928136145333,AR-B,Buenos Aires
-2020,CABA,"Edad, entre 18 y 65",0.66376632339563,AR-C,CABA
-2020,CABA,"Edad, mayor a 65",0.185317261044905,AR-C,CABA
-2020,CABA,"Edad, menor de 18",0.0,AR-C,CABA
-2020,CABA,"Edad, total",0.428938579884812,AR-C,CABA
-2020,Catamarca,"Edad, entre 18 y 65",0.583968492760432,AR-K,Catamarca
-2020,Catamarca,"Edad, mayor a 65",0.070823223265464,AR-K,Catamarca
-2020,Catamarca,"Edad, menor de 18",0.0058975266804916,AR-K,Catamarca
-2020,Catamarca,"Edad, total",0.364837662238486,AR-K,Catamarca
-2020,Chaco,"Edad, entre 18 y 65",0.555059267890867,AR-H,Chaco
-2020,Chaco,"Edad, mayor a 65",0.1377223216323,AR-H,Chaco
-2020,Chaco,"Edad, menor de 18",0.0117623449597348,AR-H,Chaco
-2020,Chaco,"Edad, total",0.355330659821214,AR-H,Chaco
-2020,Chubut,"Edad, entre 18 y 65",0.629586767773499,AR-U,Chubut
-2020,Chubut,"Edad, mayor a 65",0.0553463931224708,AR-U,Chubut
-2020,Chubut,"Edad, menor de 18",0.004269974054381,AR-U,Chubut
-2020,Chubut,"Edad, total",0.389793514901059,AR-U,Chubut
-2020,Corrientes,"Edad, entre 18 y 65",0.588469472310866,AR-W,Corrientes
-2020,Corrientes,"Edad, mayor a 65",0.0943346070775876,AR-W,Corrientes
-2020,Corrientes,"Edad, menor de 18",0.0060359620717479,AR-W,Corrientes
-2020,Corrientes,"Edad, total",0.365466378546523,AR-W,Corrientes
-2020,Córdoba,"Edad, entre 18 y 65",0.634683607830881,AR-X,Córdoba
-2020,Córdoba,"Edad, mayor a 65",0.145305801437251,AR-X,Córdoba
-2020,Córdoba,"Edad, menor de 18",0.0050026263029043,AR-X,Córdoba
-2020,Córdoba,"Edad, total",0.39382709974823,AR-X,Córdoba
-2020,Entre Ríos,"Edad, entre 18 y 65",0.593735950432087,AR-E,Entre Ríos
-2020,Entre Ríos,"Edad, mayor a 65",0.0571776804418206,AR-E,Entre Ríos
-2020,Entre Ríos,"Edad, menor de 18",0.0010060726657581,AR-E,Entre Ríos
-2020,Entre Ríos,"Edad, total",0.360327391233018,AR-E,Entre Ríos
-2020,Formosa,"Edad, entre 18 y 65",0.474296283332819,AR-P,Formosa
-2020,Formosa,"Edad, mayor a 65",0.0924922690599642,AR-P,Formosa
-2020,Formosa,"Edad, menor de 18",0.0016677128333887,AR-P,Formosa
-2020,Formosa,"Edad, total",0.286697764648115,AR-P,Formosa
-2020,Jujuy,"Edad, entre 18 y 65",0.568516235296358,AR-Y,Jujuy
-2020,Jujuy,"Edad, mayor a 65",0.0872076788830716,AR-Y,Jujuy
-2020,Jujuy,"Edad, menor de 18",0.0007410917743854,AR-Y,Jujuy
-2020,Jujuy,"Edad, total",0.361054469583746,AR-Y,Jujuy
-2020,La Pampa,"Edad, entre 18 y 65",0.601865272913867,AR-L,La Pampa
-2020,La Pampa,"Edad, mayor a 65",0.0479866239375784,AR-L,La Pampa
-2020,La Pampa,"Edad, menor de 18",0.003302557674228,AR-L,La Pampa
-2020,La Pampa,"Edad, total",0.376013771375676,AR-L,La Pampa
-2020,La Rioja,"Edad, entre 18 y 65",0.607753816108261,AR-F,La Rioja
-2020,La Rioja,"Edad, mayor a 65",0.0751671579552808,AR-F,La Rioja
-2020,La Rioja,"Edad, menor de 18",0.0084012450766084,AR-F,La Rioja
-2020,La Rioja,"Edad, total",0.391847644503842,AR-F,La Rioja
-2020,Mendoza,"Edad, entre 18 y 65",0.647267516193731,AR-M,Mendoza
-2020,Mendoza,"Edad, mayor a 65",0.1306142579905,AR-M,Mendoza
-2020,Mendoza,"Edad, menor de 18",0.0134867590287549,AR-M,Mendoza
-2020,Mendoza,"Edad, total",0.414310790493049,AR-M,Mendoza
-2020,Misiones,"Edad, entre 18 y 65",0.633910365098425,AR-N,Misiones
-2020,Misiones,"Edad, mayor a 65",0.134857900621441,AR-N,Misiones
-2020,Misiones,"Edad, menor de 18",0.009059510025486,AR-N,Misiones
-2020,Misiones,"Edad, total",0.396453810944613,AR-N,Misiones
-2020,Neuquén,"Edad, entre 18 y 65",0.586283251960952,AR-Q,Neuquén
-2020,Neuquén,"Edad, mayor a 65",0.0544188339701713,AR-Q,Neuquén
-2020,Neuquén,"Edad, menor de 18",0.0,AR-Q,Neuquén
-2020,Neuquén,"Edad, total",0.367332147217392,AR-Q,Neuquén
-2020,Río Negro,"Edad, entre 18 y 65",0.603610477294157,AR-R,Río Negro
-2020,Río Negro,"Edad, mayor a 65",0.0327524329916906,AR-R,Río Negro
-2020,Río Negro,"Edad, menor de 18",0.00273073619767,AR-R,Río Negro
-2020,Río Negro,"Edad, total",0.384834638585693,AR-R,Río Negro
-2020,Salta,"Edad, entre 18 y 65",0.612472556656039,AR-A,Salta
-2020,Salta,"Edad, mayor a 65",0.163466883735705,AR-A,Salta
-2020,Salta,"Edad, menor de 18",0.0428639881514179,AR-A,Salta
-2020,Salta,"Edad, total",0.390020128444687,AR-A,Salta
-2020,San Juan,"Edad, entre 18 y 65",0.616296158177398,AR-J,San Juan
-2020,San Juan,"Edad, mayor a 65",0.0962779229599445,AR-J,San Juan
-2020,San Juan,"Edad, menor de 18",0.0148554128315332,AR-J,San Juan
-2020,San Juan,"Edad, total",0.383052450824139,AR-J,San Juan
-2020,San Luis,"Edad, entre 18 y 65",0.624415414524246,AR-D,San Luis
-2020,San Luis,"Edad, mayor a 65",0.0543015238680778,AR-D,San Luis
-2020,San Luis,"Edad, menor de 18",0.0076503529373627,AR-D,San Luis
-2020,San Luis,"Edad, total",0.394598428388085,AR-D,San Luis
-2020,Santa Cruz,"Edad, entre 18 y 65",0.576126128209992,AR-Z,Santa Cruz
-2020,Santa Cruz,"Edad, mayor a 65",0.11423602484472,AR-Z,Santa Cruz
-2020,Santa Cruz,"Edad, menor de 18",0.0,AR-Z,Santa Cruz
-2020,Santa Cruz,"Edad, total",0.358505658756091,AR-Z,Santa Cruz
-2020,Santa Fe,"Edad, entre 18 y 65",0.660054195129978,AR-S,Santa Fe
-2020,Santa Fe,"Edad, mayor a 65",0.124232009246305,AR-S,Santa Fe
-2020,Santa Fe,"Edad, menor de 18",0.0149978396750871,AR-S,Santa Fe
-2020,Santa Fe,"Edad, total",0.420930572883466,AR-S,Santa Fe
-2020,Total,"Edad, entre 18 y 65",0.595373016516351,,
-2020,Total,"Edad, mayor a 65",0.112885344276069,,
-2020,Total,"Edad, menor de 18",0.0101901461041418,,
-2020,Total,"Edad, total",0.373383861066111,,
-2020,Tucumán,"Edad, entre 18 y 65",0.555324859594941,AR-T,Tucumán
-2020,Tucumán,"Edad, mayor a 65",0.0656279697494829,AR-T,Tucumán
-2020,Tucumán,"Edad, menor de 18",0.0110479185348057,AR-T,Tucumán
-2020,Tucumán,"Edad, total",0.347070425666786,AR-T,Tucumán
-2021,Buenos Aires,"Edad, entre 18 y 65",0.666574190019197,AR-B,Buenos Aires
-2021,Buenos Aires,"Edad, mayor a 65",0.127552852598058,AR-B,Buenos Aires
-2021,Buenos Aires,"Edad, menor de 18",0.0036296885346968,AR-B,Buenos Aires
-2021,Buenos Aires,"Edad, total",0.417284832744725,AR-B,Buenos Aires
-2021,CABA,"Edad, entre 18 y 65",0.768846431878338,AR-C,CABA
-2021,CABA,"Edad, mayor a 65",0.21682447603984,AR-C,CABA
-2021,CABA,"Edad, menor de 18",0.0072767997303479,AR-C,CABA
-2021,CABA,"Edad, total",0.496888414590278,AR-C,CABA
-2021,Catamarca,"Edad, entre 18 y 65",0.62447840806204,AR-K,Catamarca
-2021,Catamarca,"Edad, mayor a 65",0.0652925622076073,AR-K,Catamarca
-2021,Catamarca,"Edad, menor de 18",0.0077737582310381,AR-K,Catamarca
-2021,Catamarca,"Edad, total",0.391387068522937,AR-K,Catamarca
-2021,Chaco,"Edad, entre 18 y 65",0.59604920294298,AR-H,Chaco
-2021,Chaco,"Edad, mayor a 65",0.110782068651312,AR-H,Chaco
-2021,Chaco,"Edad, menor de 18",0.0108718728710173,AR-H,Chaco
-2021,Chaco,"Edad, total",0.376456164853857,AR-H,Chaco
-2021,Chubut,"Edad, entre 18 y 65",0.654284879441232,AR-U,Chubut
-2021,Chubut,"Edad, mayor a 65",0.0596738705763813,AR-U,Chubut
-2021,Chubut,"Edad, menor de 18",0.0030431430740961,AR-U,Chubut
-2021,Chubut,"Edad, total",0.409485059160319,AR-U,Chubut
-2021,Corrientes,"Edad, entre 18 y 65",0.632704570066394,AR-W,Corrientes
-2021,Corrientes,"Edad, mayor a 65",0.146046909852872,AR-W,Corrientes
-2021,Corrientes,"Edad, menor de 18",0.0147467708443318,AR-W,Corrientes
-2021,Corrientes,"Edad, total",0.40264384907073,AR-W,Corrientes
-2021,Córdoba,"Edad, entre 18 y 65",0.667341783303839,AR-X,Córdoba
-2021,Córdoba,"Edad, mayor a 65",0.0969755479616491,AR-X,Córdoba
-2021,Córdoba,"Edad, menor de 18",0.0167615511329796,AR-X,Córdoba
-2021,Córdoba,"Edad, total",0.424206125317088,AR-X,Córdoba
-2021,Entre Ríos,"Edad, entre 18 y 65",0.632747794443185,AR-E,Entre Ríos
-2021,Entre Ríos,"Edad, mayor a 65",0.0644513010541415,AR-E,Entre Ríos
-2021,Entre Ríos,"Edad, menor de 18",0.0294776013407948,AR-E,Entre Ríos
-2021,Entre Ríos,"Edad, total",0.397622477152842,AR-E,Entre Ríos
-2021,Formosa,"Edad, entre 18 y 65",0.468937733877221,AR-P,Formosa
-2021,Formosa,"Edad, mayor a 65",0.0791745256851215,AR-P,Formosa
-2021,Formosa,"Edad, menor de 18",0.0029978265757325,AR-P,Formosa
-2021,Formosa,"Edad, total",0.28526477099944,AR-P,Formosa
-2021,Jujuy,"Edad, entre 18 y 65",0.649110365862336,AR-Y,Jujuy
-2021,Jujuy,"Edad, mayor a 65",0.120743597808274,AR-Y,Jujuy
-2021,Jujuy,"Edad, menor de 18",0.0059794141562382,AR-Y,Jujuy
-2021,Jujuy,"Edad, total",0.412713990069252,AR-Y,Jujuy
-2021,La Pampa,"Edad, entre 18 y 65",0.628174965189418,AR-L,La Pampa
-2021,La Pampa,"Edad, mayor a 65",0.151198331762219,AR-L,La Pampa
-2021,La Pampa,"Edad, menor de 18",0.0102403673028448,AR-L,La Pampa
-2021,La Pampa,"Edad, total",0.398151062913971,AR-L,La Pampa
-2021,La Rioja,"Edad, entre 18 y 65",0.67404898738012,AR-F,La Rioja
-2021,La Rioja,"Edad, mayor a 65",0.0990179168573339,AR-F,La Rioja
-2021,La Rioja,"Edad, menor de 18",0.0064060727159539,AR-F,La Rioja
-2021,La Rioja,"Edad, total",0.436827137051389,AR-F,La Rioja
-2021,Mendoza,"Edad, entre 18 y 65",0.684103224530208,AR-M,Mendoza
-2021,Mendoza,"Edad, mayor a 65",0.122742225182136,AR-M,Mendoza
-2021,Mendoza,"Edad, menor de 18",0.0053261961711851,AR-M,Mendoza
-2021,Mendoza,"Edad, total",0.429895165379497,AR-M,Mendoza
-2021,Misiones,"Edad, entre 18 y 65",0.644306508587438,AR-N,Misiones
-2021,Misiones,"Edad, mayor a 65",0.0930174594668694,AR-N,Misiones
-2021,Misiones,"Edad, menor de 18",0.0104077846844794,AR-N,Misiones
-2021,Misiones,"Edad, total",0.400066829550924,AR-N,Misiones
-2021,Neuquén,"Edad, entre 18 y 65",0.645600827724458,AR-Q,Neuquén
-2021,Neuquén,"Edad, mayor a 65",0.0584894074301504,AR-Q,Neuquén
-2021,Neuquén,"Edad, menor de 18",0.0007957812386166,AR-Q,Neuquén
-2021,Neuquén,"Edad, total",0.403524400398211,AR-Q,Neuquén
-2021,Río Negro,"Edad, entre 18 y 65",0.662734847486418,AR-R,Río Negro
-2021,Río Negro,"Edad, mayor a 65",0.0438129838674798,AR-R,Río Negro
-2021,Río Negro,"Edad, menor de 18",0.0113835422320528,AR-R,Río Negro
-2021,Río Negro,"Edad, total",0.412867836822618,AR-R,Río Negro
-2021,Salta,"Edad, entre 18 y 65",0.644935077938092,AR-A,Salta
-2021,Salta,"Edad, mayor a 65",0.131640523442239,AR-A,Salta
-2021,Salta,"Edad, menor de 18",0.0196713123493195,AR-A,Salta
-2021,Salta,"Edad, total",0.399739244418494,AR-A,Salta
-2021,San Juan,"Edad, entre 18 y 65",0.653049402338074,AR-J,San Juan
-2021,San Juan,"Edad, mayor a 65",0.0943031281309139,AR-J,San Juan
-2021,San Juan,"Edad, menor de 18",0.0137238697131745,AR-J,San Juan
-2021,San Juan,"Edad, total",0.403689634885934,AR-J,San Juan
-2021,San Luis,"Edad, entre 18 y 65",0.680294857441952,AR-D,San Luis
-2021,San Luis,"Edad, mayor a 65",0.0628683693516699,AR-D,San Luis
-2021,San Luis,"Edad, menor de 18",0.0018872556540951,AR-D,San Luis
-2021,San Luis,"Edad, total",0.422882198213662,AR-D,San Luis
-2021,Santa Cruz,"Edad, entre 18 y 65",0.650868983957219,AR-Z,Santa Cruz
-2021,Santa Cruz,"Edad, mayor a 65",0.0744391834200109,AR-Z,Santa Cruz
-2021,Santa Cruz,"Edad, menor de 18",0.0,AR-Z,Santa Cruz
-2021,Santa Cruz,"Edad, total",0.407735717001824,AR-Z,Santa Cruz
-2021,Santa Fe,"Edad, entre 18 y 65",0.709895994856473,AR-S,Santa Fe
-2021,Santa Fe,"Edad, mayor a 65",0.125210337200844,AR-S,Santa Fe
-2021,Santa Fe,"Edad, menor de 18",0.0139232537707851,AR-S,Santa Fe
-2021,Santa Fe,"Edad, total",0.451402318857302,AR-S,Santa Fe
-2021,Santiago del Estero,"Edad, entre 18 y 65",0.613835473589681,AR-G,Santiago del Estero
-2021,Santiago del Estero,"Edad, mayor a 65",0.0898517499617912,AR-G,Santiago del Estero
-2021,Santiago del Estero,"Edad, menor de 18",0.0094987422422082,AR-G,Santiago del Estero
-2021,Santiago del Estero,"Edad, total",0.391347190275751,AR-G,Santiago del Estero
-2021,Tierra del Fuego,"Edad, entre 18 y 65",0.649872741498862,AR-V,Tierra del Fuego
-2021,Tierra del Fuego,"Edad, mayor a 65",0.0993788819875776,AR-V,Tierra del Fuego
-2021,Tierra del Fuego,"Edad, menor de 18",0.0,AR-V,Tierra del Fuego
-2021,Tierra del Fuego,"Edad, total",0.433142444287838,AR-V,Tierra del Fuego
-2021,Total,"Edad, entre 18 y 65",0.666627501135985,,
-2021,Total,"Edad, mayor a 65",0.125801506581517,,
-2021,Total,"Edad, menor de 18",0.0084018061252546,,
-2021,Total,"Edad, total",0.420179232742717,,
-2021,Tucumán,"Edad, entre 18 y 65",0.612796536240112,AR-T,Tucumán
-2021,Tucumán,"Edad, mayor a 65",0.138757331014864,AR-T,Tucumán
-2021,Tucumán,"Edad, menor de 18",0.0127640398247947,AR-T,Tucumán
-2021,Tucumán,"Edad, total",0.391386041492605,AR-T,Tucumán
-2022,Buenos Aires,"Edad, entre 18 y 65",0.686412070675332,AR-B,Buenos Aires
-2022,Buenos Aires,"Edad, mayor a 65",0.11649971272264,AR-B,Buenos Aires
-2022,Buenos Aires,"Edad, menor de 18",0.0141984582867994,AR-B,Buenos Aires
-2022,Buenos Aires,"Edad, total",0.428131998796611,AR-B,Buenos Aires
-2022,CABA,"Edad, entre 18 y 65",0.789681802023918,AR-C,CABA
-2022,CABA,"Edad, mayor a 65",0.166604358491834,AR-C,CABA
-2022,CABA,"Edad, menor de 18",0.0,AR-C,CABA
-2022,CABA,"Edad, total",0.510064093409328,AR-C,CABA
-2022,Catamarca,"Edad, entre 18 y 65",0.655688938282013,AR-K,Catamarca
-2022,Catamarca,"Edad, mayor a 65",0.0805554652183811,AR-K,Catamarca
-2022,Catamarca,"Edad, menor de 18",0.0081336897843746,AR-K,Catamarca
-2022,Catamarca,"Edad, total",0.41661662494872,AR-K,Catamarca
-2022,Chaco,"Edad, entre 18 y 65",0.638670180033766,AR-H,Chaco
-2022,Chaco,"Edad, mayor a 65",0.0689194089384462,AR-H,Chaco
-2022,Chaco,"Edad, menor de 18",0.0091277953484904,AR-H,Chaco
-2022,Chaco,"Edad, total",0.396391580738237,AR-H,Chaco
-2022,Chubut,"Edad, entre 18 y 65",0.692788912815416,AR-U,Chubut
-2022,Chubut,"Edad, mayor a 65",0.0696408100878869,AR-U,Chubut
-2022,Chubut,"Edad, menor de 18",0.0034664109881257,AR-U,Chubut
-2022,Chubut,"Edad, total",0.431936468282379,AR-U,Chubut
-2022,Corrientes,"Edad, entre 18 y 65",0.629436553078654,AR-W,Corrientes
-2022,Corrientes,"Edad, mayor a 65",0.123513568181576,AR-W,Corrientes
-2022,Corrientes,"Edad, menor de 18",0.0113683369206285,AR-W,Corrientes
-2022,Corrientes,"Edad, total",0.39790392868558,AR-W,Corrientes
-2022,Córdoba,"Edad, entre 18 y 65",0.690171536018032,AR-X,Córdoba
-2022,Córdoba,"Edad, mayor a 65",0.146879185247325,AR-X,Córdoba
-2022,Córdoba,"Edad, menor de 18",0.0139949950943105,AR-X,Córdoba
-2022,Córdoba,"Edad, total",0.450076570339023,AR-X,Córdoba
-2022,Entre Ríos,"Edad, entre 18 y 65",0.6690640831021,AR-E,Entre Ríos
-2022,Entre Ríos,"Edad, mayor a 65",0.0635796677520834,AR-E,Entre Ríos
-2022,Entre Ríos,"Edad, menor de 18",0.0081971763739222,AR-E,Entre Ríos
-2022,Entre Ríos,"Edad, total",0.408715703719447,AR-E,Entre Ríos
-2022,Formosa,"Edad, entre 18 y 65",0.529326361843848,AR-P,Formosa
-2022,Formosa,"Edad, mayor a 65",0.04318167328984,AR-P,Formosa
-2022,Formosa,"Edad, menor de 18",0.0021501097518709,AR-P,Formosa
-2022,Formosa,"Edad, total",0.322882755366832,AR-P,Formosa
-2022,Jujuy,"Edad, entre 18 y 65",0.660111186695128,AR-Y,Jujuy
-2022,Jujuy,"Edad, mayor a 65",0.156956754881242,AR-Y,Jujuy
-2022,Jujuy,"Edad, menor de 18",0.0015454602710126,AR-Y,Jujuy
-2022,Jujuy,"Edad, total",0.419008313138264,AR-Y,Jujuy
-2022,La Pampa,"Edad, entre 18 y 65",0.676663708961846,AR-L,La Pampa
-2022,La Pampa,"Edad, mayor a 65",0.102367338750125,AR-L,La Pampa
-2022,La Pampa,"Edad, menor de 18",0.0,AR-L,La Pampa
-2022,La Pampa,"Edad, total",0.421955413912248,AR-L,La Pampa
-2022,La Rioja,"Edad, entre 18 y 65",0.666019126657945,AR-F,La Rioja
-2022,La Rioja,"Edad, mayor a 65",0.0898475620015479,AR-F,La Rioja
-2022,La Rioja,"Edad, menor de 18",0.0032167676542885,AR-F,La Rioja
-2022,La Rioja,"Edad, total",0.433601340881416,AR-F,La Rioja
-2022,Mendoza,"Edad, entre 18 y 65",0.716360712101394,AR-M,Mendoza
-2022,Mendoza,"Edad, mayor a 65",0.106425375163787,AR-M,Mendoza
-2022,Mendoza,"Edad, menor de 18",0.011092780299464,AR-M,Mendoza
-2022,Mendoza,"Edad, total",0.446536724369937,AR-M,Mendoza
-2022,Misiones,"Edad, entre 18 y 65",0.706368846698277,AR-N,Misiones
-2022,Misiones,"Edad, mayor a 65",0.120908584428246,AR-N,Misiones
-2022,Misiones,"Edad, menor de 18",0.0116776580344217,AR-N,Misiones
-2022,Misiones,"Edad, total",0.440818067994226,AR-N,Misiones
-2022,Neuquén,"Edad, entre 18 y 65",0.677278686881211,AR-Q,Neuquén
-2022,Neuquén,"Edad, mayor a 65",0.0892619529356009,AR-Q,Neuquén
-2022,Neuquén,"Edad, menor de 18",0.0022281113380483,AR-Q,Neuquén
-2022,Neuquén,"Edad, total",0.428388786525782,AR-Q,Neuquén
-2022,Río Negro,"Edad, entre 18 y 65",0.66543825830593,AR-R,Río Negro
-2022,Río Negro,"Edad, mayor a 65",0.0387873196913787,AR-R,Río Negro
-2022,Río Negro,"Edad, menor de 18",0.0058482852600499,AR-R,Río Negro
-2022,Río Negro,"Edad, total",0.414755993424225,AR-R,Río Negro
-2022,Salta,"Edad, entre 18 y 65",0.645991846345026,AR-A,Salta
-2022,Salta,"Edad, mayor a 65",0.117141783432652,AR-A,Salta
-2022,Salta,"Edad, menor de 18",0.0147022405589496,AR-A,Salta
-2022,Salta,"Edad, total",0.399962369728129,AR-A,Salta
-2022,San Juan,"Edad, entre 18 y 65",0.646313918702381,AR-J,San Juan
-2022,San Juan,"Edad, mayor a 65",0.0997207118474844,AR-J,San Juan
-2022,San Juan,"Edad, menor de 18",0.0043740776820764,AR-J,San Juan
-2022,San Juan,"Edad, total",0.397918103287943,AR-J,San Juan
-2022,San Luis,"Edad, entre 18 y 65",0.693616186126178,AR-D,San Luis
-2022,San Luis,"Edad, mayor a 65",0.0788586034233517,AR-D,San Luis
-2022,San Luis,"Edad, menor de 18",0.0019011994559169,AR-D,San Luis
-2022,San Luis,"Edad, total",0.433767051554236,AR-D,San Luis
-2022,Santa Cruz,"Edad, entre 18 y 65",0.674770871521413,AR-Z,Santa Cruz
-2022,Santa Cruz,"Edad, mayor a 65",0.101296207393183,AR-Z,Santa Cruz
-2022,Santa Cruz,"Edad, menor de 18",0.0109051724137931,AR-Z,Santa Cruz
-2022,Santa Cruz,"Edad, total",0.436882674104704,AR-Z,Santa Cruz
-2022,Santa Fe,"Edad, entre 18 y 65",0.713268063871669,AR-S,Santa Fe
-2022,Santa Fe,"Edad, mayor a 65",0.119257774523807,AR-S,Santa Fe
-2022,Santa Fe,"Edad, menor de 18",0.0025665465480362,AR-S,Santa Fe
-2022,Santa Fe,"Edad, total",0.456444183676247,AR-S,Santa Fe
-2022,Santiago del Estero,"Edad, entre 18 y 65",0.627656222110081,AR-G,Santiago del Estero
-2022,Santiago del Estero,"Edad, mayor a 65",0.104102887328171,AR-G,Santiago del Estero
-2022,Santiago del Estero,"Edad, menor de 18",0.0081818788300437,AR-G,Santiago del Estero
-2022,Santiago del Estero,"Edad, total",0.401871603200403,AR-G,Santiago del Estero
-2022,Tierra del Fuego,"Edad, entre 18 y 65",0.654393484401593,AR-V,Tierra del Fuego
-2022,Tierra del Fuego,"Edad, mayor a 65",0.158070500927644,AR-V,Tierra del Fuego
-2022,Tierra del Fuego,"Edad, menor de 18",0.0,AR-V,Tierra del Fuego
-2022,Tierra del Fuego,"Edad, total",0.436025392551673,AR-V,Tierra del Fuego
-2022,Total,"Edad, entre 18 y 65",0.687509612344397,,
-2022,Total,"Edad, mayor a 65",0.119885954517287,,
-2022,Total,"Edad, menor de 18",0.0102203160508275,,
-2022,Total,"Edad, total",0.433125881161887,,
-2022,Tucumán,"Edad, entre 18 y 65",0.652255565600566,AR-T,Tucumán
-2022,Tucumán,"Edad, mayor a 65",0.174385367090034,AR-T,Tucumán
-2022,Tucumán,"Edad, menor de 18",0.0098611144426587,AR-T,Tucumán
-2022,Tucumán,"Edad, total",0.412978783310345,AR-T,Tucumán
-2023,Buenos Aires,"Edad, entre 18 y 65",0.714798727111891,AR-B,Buenos Aires
-2023,Buenos Aires,"Edad, mayor a 65",0.14286180563317,AR-B,Buenos Aires
-2023,Buenos Aires,"Edad, menor de 18",0.0115829488661721,AR-B,Buenos Aires
-2023,Buenos Aires,"Edad, total",0.450224663485831,AR-B,Buenos Aires
-2023,CABA,"Edad, entre 18 y 65",0.799108104872501,AR-C,CABA
-2023,CABA,"Edad, mayor a 65",0.235179540523795,AR-C,CABA
-2023,CABA,"Edad, menor de 18",0.0080803094847616,AR-C,CABA
-2023,CABA,"Edad, total",0.528291476483892,AR-C,CABA
-2023,Catamarca,"Edad, entre 18 y 65",0.689755967513116,AR-K,Catamarca
-2023,Catamarca,"Edad, mayor a 65",0.0601468373493976,AR-K,Catamarca
-2023,Catamarca,"Edad, menor de 18",0.0092310551694941,AR-K,Catamarca
-2023,Catamarca,"Edad, total",0.435976302715978,AR-K,Catamarca
-2023,Chaco,"Edad, entre 18 y 65",0.615713802651559,AR-H,Chaco
-2023,Chaco,"Edad, mayor a 65",0.1051189359527,AR-H,Chaco
-2023,Chaco,"Edad, menor de 18",0.0034468313178046,AR-H,Chaco
-2023,Chaco,"Edad, total",0.379477506041677,AR-H,Chaco
-2023,Chubut,"Edad, entre 18 y 65",0.698020405561929,AR-U,Chubut
-2023,Chubut,"Edad, mayor a 65",0.0985039226418537,AR-U,Chubut
-2023,Chubut,"Edad, menor de 18",0.0028724044787414,AR-U,Chubut
-2023,Chubut,"Edad, total",0.432061669948469,AR-U,Chubut
-2023,Corrientes,"Edad, entre 18 y 65",0.614758973042015,AR-W,Corrientes
-2023,Corrientes,"Edad, mayor a 65",0.102037886013764,AR-W,Corrientes
-2023,Corrientes,"Edad, menor de 18",0.0071361287928524,AR-W,Corrientes
-2023,Corrientes,"Edad, total",0.387577592350237,AR-W,Corrientes
-2023,Córdoba,"Edad, entre 18 y 65",0.693699272253398,AR-X,Córdoba
-2023,Córdoba,"Edad, mayor a 65",0.158195018292135,AR-X,Córdoba
-2023,Córdoba,"Edad, menor de 18",0.0059440109702047,AR-X,Córdoba
-2023,Córdoba,"Edad, total",0.447920104201938,AR-X,Córdoba
-2023,Entre Ríos,"Edad, entre 18 y 65",0.678423519172289,AR-E,Entre Ríos
-2023,Entre Ríos,"Edad, mayor a 65",0.0813383387695653,AR-E,Entre Ríos
-2023,Entre Ríos,"Edad, menor de 18",0.0058124001659873,AR-E,Entre Ríos
-2023,Entre Ríos,"Edad, total",0.420095718960711,AR-E,Entre Ríos
-2023,Formosa,"Edad, entre 18 y 65",0.590348864235278,AR-P,Formosa
-2023,Formosa,"Edad, mayor a 65",0.0633753290332952,AR-P,Formosa
-2023,Formosa,"Edad, menor de 18",0.0016159957932807,AR-P,Formosa
-2023,Formosa,"Edad, total",0.359447166876962,AR-P,Formosa
-2023,Jujuy,"Edad, entre 18 y 65",0.709449076230939,AR-Y,Jujuy
-2023,Jujuy,"Edad, mayor a 65",0.197523639387686,AR-Y,Jujuy
-2023,Jujuy,"Edad, menor de 18",0.0116247567913701,AR-Y,Jujuy
-2023,Jujuy,"Edad, total",0.459358753653194,AR-Y,Jujuy
-2023,La Pampa,"Edad, entre 18 y 65",0.712688935561943,AR-L,La Pampa
-2023,La Pampa,"Edad, mayor a 65",0.121517397311895,AR-L,La Pampa
-2023,La Pampa,"Edad, menor de 18",0.0021416570035733,AR-L,La Pampa
-2023,La Pampa,"Edad, total",0.449934297803849,AR-L,La Pampa
-2023,La Rioja,"Edad, entre 18 y 65",0.692787636949141,AR-F,La Rioja
-2023,La Rioja,"Edad, mayor a 65",0.101819553125295,AR-F,La Rioja
-2023,La Rioja,"Edad, menor de 18",0.0082749260624721,AR-F,La Rioja
-2023,La Rioja,"Edad, total",0.452221495105888,AR-F,La Rioja
-2023,Mendoza,"Edad, entre 18 y 65",0.697383513298813,AR-M,Mendoza
-2023,Mendoza,"Edad, mayor a 65",0.0748468337571135,AR-M,Mendoza
-2023,Mendoza,"Edad, menor de 18",0.0038198346721166,AR-M,Mendoza
-2023,Mendoza,"Edad, total",0.425810675871108,AR-M,Mendoza
-2023,Misiones,"Edad, entre 18 y 65",0.722568928247121,AR-N,Misiones
-2023,Misiones,"Edad, mayor a 65",0.137772948008286,AR-N,Misiones
-2023,Misiones,"Edad, menor de 18",0.0087517847040758,AR-N,Misiones
-2023,Misiones,"Edad, total",0.460892851116709,AR-N,Misiones
-2023,Neuquén,"Edad, entre 18 y 65",0.697062643198784,AR-Q,Neuquén
-2023,Neuquén,"Edad, mayor a 65",0.0551068264721209,AR-Q,Neuquén
-2023,Neuquén,"Edad, menor de 18",0.0033858625197599,AR-Q,Neuquén
-2023,Neuquén,"Edad, total",0.434936910439636,AR-Q,Neuquén
-2023,Río Negro,"Edad, entre 18 y 65",0.665981197897896,AR-R,Río Negro
-2023,Río Negro,"Edad, mayor a 65",0.0340918494000827,AR-R,Río Negro
-2023,Río Negro,"Edad, menor de 18",0.004954219829596,AR-R,Río Negro
-2023,Río Negro,"Edad, total",0.417247891041392,AR-R,Río Negro
-2023,Salta,"Edad, entre 18 y 65",0.682908106528052,AR-A,Salta
-2023,Salta,"Edad, mayor a 65",0.0962924729677713,AR-A,Salta
-2023,Salta,"Edad, menor de 18",0.014657523647407,AR-A,Salta
-2023,Salta,"Edad, total",0.421690870824868,AR-A,Salta
-2023,San Juan,"Edad, entre 18 y 65",0.661398781519394,AR-J,San Juan
-2023,San Juan,"Edad, mayor a 65",0.164267855060823,AR-J,San Juan
-2023,San Juan,"Edad, menor de 18",0.0071928450887798,AR-J,San Juan
-2023,San Juan,"Edad, total",0.415695559244185,AR-J,San Juan
-2023,San Luis,"Edad, entre 18 y 65",0.704857424208973,AR-D,San Luis
-2023,San Luis,"Edad, mayor a 65",0.0558874503007442,AR-D,San Luis
-2023,San Luis,"Edad, menor de 18",0.0033050793851603,AR-D,San Luis
-2023,San Luis,"Edad, total",0.443277338274669,AR-D,San Luis
-2023,Santa Cruz,"Edad, entre 18 y 65",0.693277901296812,AR-Z,Santa Cruz
-2023,Santa Cruz,"Edad, mayor a 65",0.0965333110842268,AR-Z,Santa Cruz
-2023,Santa Cruz,"Edad, menor de 18",0.0,AR-Z,Santa Cruz
-2023,Santa Cruz,"Edad, total",0.446140810635691,AR-Z,Santa Cruz
-2023,Santa Fe,"Edad, entre 18 y 65",0.715768344083102,AR-S,Santa Fe
-2023,Santa Fe,"Edad, mayor a 65",0.126952082064734,AR-S,Santa Fe
-2023,Santa Fe,"Edad, menor de 18",0.0060628389943149,AR-S,Santa Fe
-2023,Santa Fe,"Edad, total",0.456520133790232,AR-S,Santa Fe
-2023,Santiago del Estero,"Edad, entre 18 y 65",0.678647758970947,AR-G,Santiago del Estero
-2023,Santiago del Estero,"Edad, mayor a 65",0.0968060493200158,AR-G,Santiago del Estero
-2023,Santiago del Estero,"Edad, menor de 18",0.0087927972774398,AR-G,Santiago del Estero
-2023,Santiago del Estero,"Edad, total",0.431680112968014,AR-G,Santiago del Estero
-2023,Tierra del Fuego,"Edad, entre 18 y 65",0.700644140580857,AR-V,Tierra del Fuego
-2023,Tierra del Fuego,"Edad, mayor a 65",0.0721023036459278,AR-V,Tierra del Fuego
-2023,Tierra del Fuego,"Edad, menor de 18",0.0,AR-V,Tierra del Fuego
-2023,Tierra del Fuego,"Edad, total",0.463190061857313,AR-V,Tierra del Fuego
-2023,Total,"Edad, entre 18 y 65",0.706267861115704,,
-2023,Total,"Edad, mayor a 65",0.139461661161368,,
-2023,Total,"Edad, menor de 18",0.0086652363358182,,
-2023,Total,"Edad, total",0.447388821823369,,
-2023,Tucumán,"Edad, entre 18 y 65",0.700480664846561,AR-T,Tucumán
-2023,Tucumán,"Edad, mayor a 65",0.167646136149744,AR-T,Tucumán
-2023,Tucumán,"Edad, menor de 18",0.0081475321969032,AR-T,Tucumán
-2023,Tucumán,"Edad, total",0.449978737617946,AR-T,Tucumán
+geocodigoFundar,geonombreFundar,anio,apertura_edad,tasa_empleo
+AR-B,Buenos Aires,2016,"Edad, entre 18 y 65",0.656322418651848
+AR-B,Buenos Aires,2016,"Edad, mayor a 65",0.128950238695527
+AR-B,Buenos Aires,2016,"Edad, menor de 18",0.013355758030508
+AR-B,Buenos Aires,2016,"Edad, total",0.406335490515795
+AR-C,CABA,2016,"Edad, entre 18 y 65",0.755645390552976
+AR-C,CABA,2016,"Edad, mayor a 65",0.179505776003621
+AR-C,CABA,2016,"Edad, menor de 18",0.0087161893125773
+AR-C,CABA,2016,"Edad, total",0.513004338146002
+AR-K,Catamarca,2016,"Edad, entre 18 y 65",0.650908270929037
+AR-K,Catamarca,2016,"Edad, mayor a 65",0.0995670995670996
+AR-K,Catamarca,2016,"Edad, menor de 18",0.0114723357633475
+AR-K,Catamarca,2016,"Edad, total",0.409790030453598
+AR-H,Chaco,2016,"Edad, entre 18 y 65",0.566381398408299
+AR-H,Chaco,2016,"Edad, mayor a 65",0.0899694658981435
+AR-H,Chaco,2016,"Edad, menor de 18",0.009631093544137
+AR-H,Chaco,2016,"Edad, total",0.357439904872441
+AR-U,Chubut,2016,"Edad, entre 18 y 65",0.668603321859565
+AR-U,Chubut,2016,"Edad, mayor a 65",0.0780205548128342
+AR-U,Chubut,2016,"Edad, menor de 18",0.0044725933341033
+AR-U,Chubut,2016,"Edad, total",0.416649298551212
+AR-W,Corrientes,2016,"Edad, entre 18 y 65",0.603855401693029
+AR-W,Corrientes,2016,"Edad, mayor a 65",0.180236321546513
+AR-W,Corrientes,2016,"Edad, menor de 18",0.0200511945392491
+AR-W,Corrientes,2016,"Edad, total",0.395460104724128
+AR-X,Córdoba,2016,"Edad, entre 18 y 65",0.655947742196958
+AR-X,Córdoba,2016,"Edad, mayor a 65",0.165242270893832
+AR-X,Córdoba,2016,"Edad, menor de 18",0.0173740569432015
+AR-X,Córdoba,2016,"Edad, total",0.40789645758115
+AR-E,Entre Ríos,2016,"Edad, entre 18 y 65",0.61942985698626
+AR-E,Entre Ríos,2016,"Edad, mayor a 65",0.0857075774131501
+AR-E,Entre Ríos,2016,"Edad, menor de 18",0.0059675502538909
+AR-E,Entre Ríos,2016,"Edad, total",0.37997722850596
+AR-P,Formosa,2016,"Edad, entre 18 y 65",0.483743232791957
+AR-P,Formosa,2016,"Edad, mayor a 65",0.106109603906674
+AR-P,Formosa,2016,"Edad, menor de 18",0.0094402559485807
+AR-P,Formosa,2016,"Edad, total",0.308432146732913
+AR-Y,Jujuy,2016,"Edad, entre 18 y 65",0.625170521565208
+AR-Y,Jujuy,2016,"Edad, mayor a 65",0.117670159773465
+AR-Y,Jujuy,2016,"Edad, menor de 18",0.0069043698357707
+AR-Y,Jujuy,2016,"Edad, total",0.390209233391497
+AR-L,La Pampa,2016,"Edad, entre 18 y 65",0.659097361883355
+AR-L,La Pampa,2016,"Edad, mayor a 65",0.0637747690162124
+AR-L,La Pampa,2016,"Edad, menor de 18",0.0068490119276815
+AR-L,La Pampa,2016,"Edad, total",0.388765245562452
+AR-F,La Rioja,2016,"Edad, entre 18 y 65",0.618187558571335
+AR-F,La Rioja,2016,"Edad, mayor a 65",0.108217490761922
+AR-F,La Rioja,2016,"Edad, menor de 18",0.0079876856512876
+AR-F,La Rioja,2016,"Edad, total",0.397530957248691
+AR-M,Mendoza,2016,"Edad, entre 18 y 65",0.655826038074737
+AR-M,Mendoza,2016,"Edad, mayor a 65",0.124954664849597
+AR-M,Mendoza,2016,"Edad, menor de 18",0.0083995263125868
+AR-M,Mendoza,2016,"Edad, total",0.404397469838126
+AR-N,Misiones,2016,"Edad, entre 18 y 65",0.640463122485301
+AR-N,Misiones,2016,"Edad, mayor a 65",0.154345436200172
+AR-N,Misiones,2016,"Edad, menor de 18",0.0096175822900076
+AR-N,Misiones,2016,"Edad, total",0.412525553158862
+AR-Q,Neuquén,2016,"Edad, entre 18 y 65",0.635696864162144
+AR-Q,Neuquén,2016,"Edad, mayor a 65",0.116058115083158
+AR-Q,Neuquén,2016,"Edad, menor de 18",0.0029912221872718
+AR-Q,Neuquén,2016,"Edad, total",0.398816205554592
+AR-R,Río Negro,2016,"Edad, entre 18 y 65",0.640968413892786
+AR-R,Río Negro,2016,"Edad, mayor a 65",0.10001799133648
+AR-R,Río Negro,2016,"Edad, menor de 18",0.0105197943886251
+AR-R,Río Negro,2016,"Edad, total",0.409027370183324
+AR-A,Salta,2016,"Edad, entre 18 y 65",0.607520788244675
+AR-A,Salta,2016,"Edad, mayor a 65",0.141214071889982
+AR-A,Salta,2016,"Edad, menor de 18",0.0117773046249984
+AR-A,Salta,2016,"Edad, total",0.373636307776739
+AR-J,San Juan,2016,"Edad, entre 18 y 65",0.57035908489152
+AR-J,San Juan,2016,"Edad, mayor a 65",0.0793780484785461
+AR-J,San Juan,2016,"Edad, menor de 18",0.0131006501442049
+AR-J,San Juan,2016,"Edad, total",0.344725585142913
+AR-D,San Luis,2016,"Edad, entre 18 y 65",0.624847303543324
+AR-D,San Luis,2016,"Edad, mayor a 65",0.0586531325560796
+AR-D,San Luis,2016,"Edad, menor de 18",0.005036633906011
+AR-D,San Luis,2016,"Edad, total",0.394589346291808
+AR-Z,Santa Cruz,2016,"Edad, entre 18 y 65",0.655736345305543
+AR-Z,Santa Cruz,2016,"Edad, mayor a 65",0.0685616827743036
+AR-Z,Santa Cruz,2016,"Edad, menor de 18",0.0125064357594196
+AR-Z,Santa Cruz,2016,"Edad, total",0.406656708704393
+AR-S,Santa Fe,2016,"Edad, entre 18 y 65",0.648027324930759
+AR-S,Santa Fe,2016,"Edad, mayor a 65",0.0815828381733478
+AR-S,Santa Fe,2016,"Edad, menor de 18",0.0085908284866359
+AR-S,Santa Fe,2016,"Edad, total",0.400392525326519
+AR-G,Santiago del Estero,2016,"Edad, entre 18 y 65",0.611879828683322
+AR-G,Santiago del Estero,2016,"Edad, mayor a 65",0.0521338313597711
+AR-G,Santiago del Estero,2016,"Edad, menor de 18",0.0050477109271053
+AR-G,Santiago del Estero,2016,"Edad, total",0.36571062246403
+AR-V,Tierra del Fuego,2016,"Edad, entre 18 y 65",0.657323434991974
+AR-V,Tierra del Fuego,2016,"Edad, mayor a 65",0.0736224028906956
+AR-V,Tierra del Fuego,2016,"Edad, menor de 18",0.0035907053334553
+AR-V,Tierra del Fuego,2016,"Edad, total",0.440984764672167
+,,2016,"Edad, entre 18 y 65",0.65088030906748
+,,2016,"Edad, mayor a 65",0.127494501006891
+,,2016,"Edad, menor de 18",0.0118875620650446
+,,2016,"Edad, total",0.407658230452811
+AR-T,Tucumán,2016,"Edad, entre 18 y 65",0.642254611548129
+AR-T,Tucumán,2016,"Edad, mayor a 65",0.137637134490144
+AR-T,Tucumán,2016,"Edad, menor de 18",0.0175305110022217
+AR-T,Tucumán,2016,"Edad, total",0.40634912013904
+AR-B,Buenos Aires,2017,"Edad, entre 18 y 65",0.663844638209151
+AR-B,Buenos Aires,2017,"Edad, mayor a 65",0.129930173577028
+AR-B,Buenos Aires,2017,"Edad, menor de 18",0.0102248985140014
+AR-B,Buenos Aires,2017,"Edad, total",0.413326776762686
+AR-C,CABA,2017,"Edad, entre 18 y 65",0.771677992768684
+AR-C,CABA,2017,"Edad, mayor a 65",0.149479775779328
+AR-C,CABA,2017,"Edad, menor de 18",0.0016160839733613
+AR-C,CABA,2017,"Edad, total",0.49975704923768
+AR-K,Catamarca,2017,"Edad, entre 18 y 65",0.652842750127629
+AR-K,Catamarca,2017,"Edad, mayor a 65",0.0896243551551261
+AR-K,Catamarca,2017,"Edad, menor de 18",0.0069479011116641
+AR-K,Catamarca,2017,"Edad, total",0.406615598885794
+AR-H,Chaco,2017,"Edad, entre 18 y 65",0.607357839782978
+AR-H,Chaco,2017,"Edad, mayor a 65",0.105686162367177
+AR-H,Chaco,2017,"Edad, menor de 18",0.0171774307908047
+AR-H,Chaco,2017,"Edad, total",0.377445754404833
+AR-U,Chubut,2017,"Edad, entre 18 y 65",0.640752997002997
+AR-U,Chubut,2017,"Edad, mayor a 65",0.0975251677852349
+AR-U,Chubut,2017,"Edad, menor de 18",0.0055858747993579
+AR-U,Chubut,2017,"Edad, total",0.396965230664221
+AR-W,Corrientes,2017,"Edad, entre 18 y 65",0.620004180489975
+AR-W,Corrientes,2017,"Edad, mayor a 65",0.119738153143984
+AR-W,Corrientes,2017,"Edad, menor de 18",0.0119103412748519
+AR-W,Corrientes,2017,"Edad, total",0.396477839999385
+AR-X,Córdoba,2017,"Edad, entre 18 y 65",0.645682838023762
+AR-X,Córdoba,2017,"Edad, mayor a 65",0.145634721188192
+AR-X,Córdoba,2017,"Edad, menor de 18",0.0100662353244106
+AR-X,Córdoba,2017,"Edad, total",0.410528532154554
+AR-E,Entre Ríos,2017,"Edad, entre 18 y 65",0.632968724629354
+AR-E,Entre Ríos,2017,"Edad, mayor a 65",0.150042555977478
+AR-E,Entre Ríos,2017,"Edad, menor de 18",0.0077626324301132
+AR-E,Entre Ríos,2017,"Edad, total",0.399841041357398
+AR-P,Formosa,2017,"Edad, entre 18 y 65",0.472148163223771
+AR-P,Formosa,2017,"Edad, mayor a 65",0.0379782425330363
+AR-P,Formosa,2017,"Edad, menor de 18",0.0
+AR-P,Formosa,2017,"Edad, total",0.29263684587516
+AR-Y,Jujuy,2017,"Edad, entre 18 y 65",0.63575806487883
+AR-Y,Jujuy,2017,"Edad, mayor a 65",0.139834095141358
+AR-Y,Jujuy,2017,"Edad, menor de 18",0.0062287655719139
+AR-Y,Jujuy,2017,"Edad, total",0.404053883884284
+AR-L,La Pampa,2017,"Edad, entre 18 y 65",0.621391261280458
+AR-L,La Pampa,2017,"Edad, mayor a 65",0.0961007957559682
+AR-L,La Pampa,2017,"Edad, menor de 18",0.0021039661505556
+AR-L,La Pampa,2017,"Edad, total",0.375637675749658
+AR-F,La Rioja,2017,"Edad, entre 18 y 65",0.623326429286373
+AR-F,La Rioja,2017,"Edad, mayor a 65",0.0654276565543195
+AR-F,La Rioja,2017,"Edad, menor de 18",0.0005150402717659
+AR-F,La Rioja,2017,"Edad, total",0.395300004329513
+AR-M,Mendoza,2017,"Edad, entre 18 y 65",0.647046888381707
+AR-M,Mendoza,2017,"Edad, mayor a 65",0.113210234498194
+AR-M,Mendoza,2017,"Edad, menor de 18",0.0059406753864217
+AR-M,Mendoza,2017,"Edad, total",0.400594439475253
+AR-N,Misiones,2017,"Edad, entre 18 y 65",0.664485895499414
+AR-N,Misiones,2017,"Edad, mayor a 65",0.19524525726419
+AR-N,Misiones,2017,"Edad, menor de 18",0.0175803734381581
+AR-N,Misiones,2017,"Edad, total",0.42365650101903
+AR-Q,Neuquén,2017,"Edad, entre 18 y 65",0.632198431183283
+AR-Q,Neuquén,2017,"Edad, mayor a 65",0.0992987503371393
+AR-Q,Neuquén,2017,"Edad, menor de 18",0.0057851395405807
+AR-Q,Neuquén,2017,"Edad, total",0.416593013872344
+AR-R,Río Negro,2017,"Edad, entre 18 y 65",0.622786069136289
+AR-R,Río Negro,2017,"Edad, mayor a 65",0.0604022113160715
+AR-R,Río Negro,2017,"Edad, menor de 18",0.0021562589211416
+AR-R,Río Negro,2017,"Edad, total",0.394261473594124
+AR-A,Salta,2017,"Edad, entre 18 y 65",0.627289717590721
+AR-A,Salta,2017,"Edad, mayor a 65",0.132721303501946
+AR-A,Salta,2017,"Edad, menor de 18",0.0112666777360593
+AR-A,Salta,2017,"Edad, total",0.396226008570247
+AR-J,San Juan,2017,"Edad, entre 18 y 65",0.576238095986834
+AR-J,San Juan,2017,"Edad, mayor a 65",0.0745051504746516
+AR-J,San Juan,2017,"Edad, menor de 18",0.0104093244089071
+AR-J,San Juan,2017,"Edad, total",0.35671337974868
+AR-D,San Luis,2017,"Edad, entre 18 y 65",0.625448361040632
+AR-D,San Luis,2017,"Edad, mayor a 65",0.0517234731647131
+AR-D,San Luis,2017,"Edad, menor de 18",0.0035016192934291
+AR-D,San Luis,2017,"Edad, total",0.378524099842371
+AR-Z,Santa Cruz,2017,"Edad, entre 18 y 65",0.640568989760957
+AR-Z,Santa Cruz,2017,"Edad, mayor a 65",0.039621773147567
+AR-Z,Santa Cruz,2017,"Edad, menor de 18",0.0
+AR-Z,Santa Cruz,2017,"Edad, total",0.399072778327265
+AR-S,Santa Fe,2017,"Edad, entre 18 y 65",0.666520398520052
+AR-S,Santa Fe,2017,"Edad, mayor a 65",0.0779665957495135
+AR-S,Santa Fe,2017,"Edad, menor de 18",0.0068290902062685
+AR-S,Santa Fe,2017,"Edad, total",0.411133969303117
+AR-G,Santiago del Estero,2017,"Edad, entre 18 y 65",0.607469872881462
+AR-G,Santiago del Estero,2017,"Edad, mayor a 65",0.0653022754813518
+AR-G,Santiago del Estero,2017,"Edad, menor de 18",0.0126142518419353
+AR-G,Santiago del Estero,2017,"Edad, total",0.374802003252346
+AR-V,Tierra del Fuego,2017,"Edad, entre 18 y 65",0.611266588426469
+AR-V,Tierra del Fuego,2017,"Edad, mayor a 65",0.0576083107071184
+AR-V,Tierra del Fuego,2017,"Edad, menor de 18",0.0
+AR-V,Tierra del Fuego,2017,"Edad, total",0.398716101309862
+,,2017,"Edad, entre 18 y 65",0.656602007888553
+,,2017,"Edad, mayor a 65",0.121301684180562
+,,2017,"Edad, menor de 18",0.0091410530524576
+,,2017,"Edad, total",0.411846808234291
+AR-T,Tucumán,2017,"Edad, entre 18 y 65",0.636387549764016
+AR-T,Tucumán,2017,"Edad, mayor a 65",0.115780741811492
+AR-T,Tucumán,2017,"Edad, menor de 18",0.016181657064653
+AR-T,Tucumán,2017,"Edad, total",0.400880635735714
+AR-B,Buenos Aires,2018,"Edad, entre 18 y 65",0.649472146410886
+AR-B,Buenos Aires,2018,"Edad, mayor a 65",0.136069079935576
+AR-B,Buenos Aires,2018,"Edad, menor de 18",0.0074965943056923
+AR-B,Buenos Aires,2018,"Edad, total",0.410119219591475
+AR-C,CABA,2018,"Edad, entre 18 y 65",0.754071699506562
+AR-C,CABA,2018,"Edad, mayor a 65",0.177121105163925
+AR-C,CABA,2018,"Edad, menor de 18",0.0037261801383053
+AR-C,CABA,2018,"Edad, total",0.49214515135441
+AR-K,Catamarca,2018,"Edad, entre 18 y 65",0.65285502216275
+AR-K,Catamarca,2018,"Edad, mayor a 65",0.139557037389855
+AR-K,Catamarca,2018,"Edad, menor de 18",0.0049923195084485
+AR-K,Catamarca,2018,"Edad, total",0.4051060980989
+AR-H,Chaco,2018,"Edad, entre 18 y 65",0.52084310567997
+AR-H,Chaco,2018,"Edad, mayor a 65",0.0909947103599536
+AR-H,Chaco,2018,"Edad, menor de 18",0.0097381876334186
+AR-H,Chaco,2018,"Edad, total",0.342934362059141
+AR-U,Chubut,2018,"Edad, entre 18 y 65",0.627881185928845
+AR-U,Chubut,2018,"Edad, mayor a 65",0.0633792983068598
+AR-U,Chubut,2018,"Edad, menor de 18",0.0050292230223887
+AR-U,Chubut,2018,"Edad, total",0.384245254550406
+AR-W,Corrientes,2018,"Edad, entre 18 y 65",0.599357506638228
+AR-W,Corrientes,2018,"Edad, mayor a 65",0.16060297082474
+AR-W,Corrientes,2018,"Edad, menor de 18",0.0033925983853531
+AR-W,Corrientes,2018,"Edad, total",0.38955477686754
+AR-X,Córdoba,2018,"Edad, entre 18 y 65",0.667821721223939
+AR-X,Córdoba,2018,"Edad, mayor a 65",0.0934772048461646
+AR-X,Córdoba,2018,"Edad, menor de 18",0.0240188541608215
+AR-X,Córdoba,2018,"Edad, total",0.42136458731776
+AR-E,Entre Ríos,2018,"Edad, entre 18 y 65",0.675188026815575
+AR-E,Entre Ríos,2018,"Edad, mayor a 65",0.120259952299393
+AR-E,Entre Ríos,2018,"Edad, menor de 18",0.0072983730567825
+AR-E,Entre Ríos,2018,"Edad, total",0.429531713232063
+AR-P,Formosa,2018,"Edad, entre 18 y 65",0.495952538255687
+AR-P,Formosa,2018,"Edad, mayor a 65",0.0595018260905248
+AR-P,Formosa,2018,"Edad, menor de 18",0.0034888760473851
+AR-P,Formosa,2018,"Edad, total",0.312231962404903
+AR-Y,Jujuy,2018,"Edad, entre 18 y 65",0.628697111197492
+AR-Y,Jujuy,2018,"Edad, mayor a 65",0.157219786668508
+AR-Y,Jujuy,2018,"Edad, menor de 18",0.0071591095441128
+AR-Y,Jujuy,2018,"Edad, total",0.403387209267065
+AR-L,La Pampa,2018,"Edad, entre 18 y 65",0.633917357978385
+AR-L,La Pampa,2018,"Edad, mayor a 65",0.0521818970134408
+AR-L,La Pampa,2018,"Edad, menor de 18",0.0033173608551419
+AR-L,La Pampa,2018,"Edad, total",0.381835525288078
+AR-F,La Rioja,2018,"Edad, entre 18 y 65",0.636797830856639
+AR-F,La Rioja,2018,"Edad, mayor a 65",0.0948332469327804
+AR-F,La Rioja,2018,"Edad, menor de 18",0.003431686271048
+AR-F,La Rioja,2018,"Edad, total",0.414197686921083
+AR-M,Mendoza,2018,"Edad, entre 18 y 65",0.661023273782478
+AR-M,Mendoza,2018,"Edad, mayor a 65",0.124327178924705
+AR-M,Mendoza,2018,"Edad, menor de 18",0.0072116025810456
+AR-M,Mendoza,2018,"Edad, total",0.414180549919532
+AR-N,Misiones,2018,"Edad, entre 18 y 65",0.661795452684445
+AR-N,Misiones,2018,"Edad, mayor a 65",0.16062248511697
+AR-N,Misiones,2018,"Edad, menor de 18",0.0131606017954588
+AR-N,Misiones,2018,"Edad, total",0.407014904451647
+AR-Q,Neuquén,2018,"Edad, entre 18 y 65",0.632553828683396
+AR-Q,Neuquén,2018,"Edad, mayor a 65",0.0642223260158804
+AR-Q,Neuquén,2018,"Edad, menor de 18",0.00717139891994
+AR-Q,Neuquén,2018,"Edad, total",0.400365076109233
+AR-R,Río Negro,2018,"Edad, entre 18 y 65",0.640365681073431
+AR-R,Río Negro,2018,"Edad, mayor a 65",0.0453771765032214
+AR-R,Río Negro,2018,"Edad, menor de 18",0.0011118124279783
+AR-R,Río Negro,2018,"Edad, total",0.397336582281409
+AR-A,Salta,2018,"Edad, entre 18 y 65",0.647329658887923
+AR-A,Salta,2018,"Edad, mayor a 65",0.161422970259157
+AR-A,Salta,2018,"Edad, menor de 18",0.0225282608313295
+AR-A,Salta,2018,"Edad, total",0.406990385423921
+AR-J,San Juan,2018,"Edad, entre 18 y 65",0.615210977829539
+AR-J,San Juan,2018,"Edad, mayor a 65",0.107031698908255
+AR-J,San Juan,2018,"Edad, menor de 18",0.002047993823851
+AR-J,San Juan,2018,"Edad, total",0.37218672563766
+AR-D,San Luis,2018,"Edad, entre 18 y 65",0.671935465239406
+AR-D,San Luis,2018,"Edad, mayor a 65",0.0784788245462403
+AR-D,San Luis,2018,"Edad, menor de 18",0.0030515538942458
+AR-D,San Luis,2018,"Edad, total",0.413596738557681
+AR-Z,Santa Cruz,2018,"Edad, entre 18 y 65",0.673797398860345
+AR-Z,Santa Cruz,2018,"Edad, mayor a 65",0.0491222725714938
+AR-Z,Santa Cruz,2018,"Edad, menor de 18",0.0050569029278957
+AR-Z,Santa Cruz,2018,"Edad, total",0.429744305223901
+AR-S,Santa Fe,2018,"Edad, entre 18 y 65",0.695901893985824
+AR-S,Santa Fe,2018,"Edad, mayor a 65",0.103389011122869
+AR-S,Santa Fe,2018,"Edad, menor de 18",0.0034899044415159
+AR-S,Santa Fe,2018,"Edad, total",0.433040240239483
+AR-G,Santiago del Estero,2018,"Edad, entre 18 y 65",0.591037084660277
+AR-G,Santiago del Estero,2018,"Edad, mayor a 65",0.0721865866337119
+AR-G,Santiago del Estero,2018,"Edad, menor de 18",0.0052462483224205
+AR-G,Santiago del Estero,2018,"Edad, total",0.359309538019353
+AR-V,Tierra del Fuego,2018,"Edad, entre 18 y 65",0.596580621543272
+AR-V,Tierra del Fuego,2018,"Edad, mayor a 65",0.0667967298402081
+AR-V,Tierra del Fuego,2018,"Edad, menor de 18",0.0
+AR-V,Tierra del Fuego,2018,"Edad, total",0.386826005642375
+,,2018,"Edad, entre 18 y 65",0.654355016878987
+,,2018,"Edad, mayor a 65",0.125710025632201
+,,2018,"Edad, menor de 18",0.0089270873611845
+,,2018,"Edad, total",0.41350239959339
+AR-T,Tucumán,2018,"Edad, entre 18 y 65",0.636475503982815
+AR-T,Tucumán,2018,"Edad, mayor a 65",0.105378803840713
+AR-T,Tucumán,2018,"Edad, menor de 18",0.0200339171156968
+AR-T,Tucumán,2018,"Edad, total",0.40359309389949
+AR-B,Buenos Aires,2019,"Edad, entre 18 y 65",0.644652258375157
+AR-B,Buenos Aires,2019,"Edad, mayor a 65",0.133652441646647
+AR-B,Buenos Aires,2019,"Edad, menor de 18",0.009556907990515
+AR-B,Buenos Aires,2019,"Edad, total",0.406736837017766
+AR-C,CABA,2019,"Edad, entre 18 y 65",0.78160249206228
+AR-C,CABA,2019,"Edad, mayor a 65",0.235238439044275
+AR-C,CABA,2019,"Edad, menor de 18",0.0044537156689194
+AR-C,CABA,2019,"Edad, total",0.524219955060018
+AR-K,Catamarca,2019,"Edad, entre 18 y 65",0.642114222840416
+AR-K,Catamarca,2019,"Edad, mayor a 65",0.112099921935988
+AR-K,Catamarca,2019,"Edad, menor de 18",0.0027585231291554
+AR-K,Catamarca,2019,"Edad, total",0.394179820618104
+AR-U,Chubut,2019,"Edad, entre 18 y 65",0.648022936605127
+AR-U,Chubut,2019,"Edad, mayor a 65",0.0348888849412893
+AR-U,Chubut,2019,"Edad, menor de 18",0.0016556397225684
+AR-U,Chubut,2019,"Edad, total",0.404666893940753
+AR-W,Corrientes,2019,"Edad, entre 18 y 65",0.616775649408929
+AR-W,Corrientes,2019,"Edad, mayor a 65",0.141827215015181
+AR-W,Corrientes,2019,"Edad, menor de 18",0.0063032188229041
+AR-W,Corrientes,2019,"Edad, total",0.402869348346791
+AR-X,Córdoba,2019,"Edad, entre 18 y 65",0.664874975156392
+AR-X,Córdoba,2019,"Edad, mayor a 65",0.0920579704987456
+AR-X,Córdoba,2019,"Edad, menor de 18",0.0245800699472932
+AR-X,Córdoba,2019,"Edad, total",0.423947350587682
+AR-E,Entre Ríos,2019,"Edad, entre 18 y 65",0.663636119258124
+AR-E,Entre Ríos,2019,"Edad, mayor a 65",0.106873017398827
+AR-E,Entre Ríos,2019,"Edad, menor de 18",0.0058637584012477
+AR-E,Entre Ríos,2019,"Edad, total",0.406825935719589
+AR-P,Formosa,2019,"Edad, entre 18 y 65",0.464017973434942
+AR-P,Formosa,2019,"Edad, mayor a 65",0.0347207089416721
+AR-P,Formosa,2019,"Edad, menor de 18",0.0037930335582129
+AR-P,Formosa,2019,"Edad, total",0.28669855797869
+AR-Y,Jujuy,2019,"Edad, entre 18 y 65",0.638803937525357
+AR-Y,Jujuy,2019,"Edad, mayor a 65",0.103601881555109
+AR-Y,Jujuy,2019,"Edad, menor de 18",0.0072725513593704
+AR-Y,Jujuy,2019,"Edad, total",0.414611315464708
+AR-L,La Pampa,2019,"Edad, entre 18 y 65",0.669099179165034
+AR-L,La Pampa,2019,"Edad, mayor a 65",0.0976824999361218
+AR-L,La Pampa,2019,"Edad, menor de 18",0.0043867991820818
+AR-L,La Pampa,2019,"Edad, total",0.411957557241878
+AR-F,La Rioja,2019,"Edad, entre 18 y 65",0.621253025507354
+AR-F,La Rioja,2019,"Edad, mayor a 65",0.12649919241211
+AR-F,La Rioja,2019,"Edad, menor de 18",0.0009336578406277
+AR-F,La Rioja,2019,"Edad, total",0.404523923917433
+AR-M,Mendoza,2019,"Edad, entre 18 y 65",0.647191763362465
+AR-M,Mendoza,2019,"Edad, mayor a 65",0.111678032267217
+AR-M,Mendoza,2019,"Edad, menor de 18",0.00813508783302
+AR-M,Mendoza,2019,"Edad, total",0.406460983572162
+AR-N,Misiones,2019,"Edad, entre 18 y 65",0.680529459363085
+AR-N,Misiones,2019,"Edad, mayor a 65",0.190655377861399
+AR-N,Misiones,2019,"Edad, menor de 18",0.0104037181293334
+AR-N,Misiones,2019,"Edad, total",0.436635294315903
+AR-Q,Neuquén,2019,"Edad, entre 18 y 65",0.639163469250612
+AR-Q,Neuquén,2019,"Edad, mayor a 65",0.0789270393320294
+AR-Q,Neuquén,2019,"Edad, menor de 18",0.0024874043428049
+AR-Q,Neuquén,2019,"Edad, total",0.410354001732816
+AR-R,Río Negro,2019,"Edad, entre 18 y 65",0.63726309989318
+AR-R,Río Negro,2019,"Edad, mayor a 65",0.0488686190656634
+AR-R,Río Negro,2019,"Edad, menor de 18",0.0032083441723339
+AR-R,Río Negro,2019,"Edad, total",0.412579645308783
+AR-A,Salta,2019,"Edad, entre 18 y 65",0.638497429513556
+AR-A,Salta,2019,"Edad, mayor a 65",0.21420995622151
+AR-A,Salta,2019,"Edad, menor de 18",0.0243116676871269
+AR-A,Salta,2019,"Edad, total",0.401720001512019
+AR-J,San Juan,2019,"Edad, entre 18 y 65",0.666892899722843
+AR-J,San Juan,2019,"Edad, mayor a 65",0.106200107742789
+AR-J,San Juan,2019,"Edad, menor de 18",0.0127244429637659
+AR-J,San Juan,2019,"Edad, total",0.402299896612068
+AR-D,San Luis,2019,"Edad, entre 18 y 65",0.685808233114123
+AR-D,San Luis,2019,"Edad, mayor a 65",0.102948450504312
+AR-D,San Luis,2019,"Edad, menor de 18",0.0043232970062238
+AR-D,San Luis,2019,"Edad, total",0.442486169955625
+AR-Z,Santa Cruz,2019,"Edad, entre 18 y 65",0.650567992140629
+AR-Z,Santa Cruz,2019,"Edad, mayor a 65",0.102684214439735
+AR-Z,Santa Cruz,2019,"Edad, menor de 18",0.0038443766749838
+AR-Z,Santa Cruz,2019,"Edad, total",0.404859133279581
+AR-S,Santa Fe,2019,"Edad, entre 18 y 65",0.677343618983733
+AR-S,Santa Fe,2019,"Edad, mayor a 65",0.117593152691837
+AR-S,Santa Fe,2019,"Edad, menor de 18",0.006639334190391
+AR-S,Santa Fe,2019,"Edad, total",0.432003859751944
+AR-G,Santiago del Estero,2019,"Edad, entre 18 y 65",0.619299740491779
+AR-G,Santiago del Estero,2019,"Edad, mayor a 65",0.100232884814431
+AR-G,Santiago del Estero,2019,"Edad, menor de 18",0.0048442052461993
+AR-G,Santiago del Estero,2019,"Edad, total",0.377586570184123
+AR-V,Tierra del Fuego,2019,"Edad, entre 18 y 65",0.594397347536515
+AR-V,Tierra del Fuego,2019,"Edad, mayor a 65",0.096619576185671
+AR-V,Tierra del Fuego,2019,"Edad, menor de 18",0.0
+AR-V,Tierra del Fuego,2019,"Edad, total",0.387281056985465
+,,2019,"Edad, entre 18 y 65",0.657724855997761
+,,2019,"Edad, mayor a 65",0.134323975550765
+,,2019,"Edad, menor de 18",0.0100318325888769
+,,2019,"Edad, total",0.418197777163488
+AR-T,Tucumán,2019,"Edad, entre 18 y 65",0.64408230595172
+AR-T,Tucumán,2019,"Edad, mayor a 65",0.126633890967666
+AR-T,Tucumán,2019,"Edad, menor de 18",0.0155799783319716
+AR-T,Tucumán,2019,"Edad, total",0.415159424373974
+AR-B,Buenos Aires,2020,"Edad, entre 18 y 65",0.562614588743116
+AR-B,Buenos Aires,2020,"Edad, mayor a 65",0.0986580200959805
+AR-B,Buenos Aires,2020,"Edad, menor de 18",0.0115107919392238
+AR-B,Buenos Aires,2020,"Edad, total",0.349928136145333
+AR-C,CABA,2020,"Edad, entre 18 y 65",0.66376632339563
+AR-C,CABA,2020,"Edad, mayor a 65",0.185317261044905
+AR-C,CABA,2020,"Edad, menor de 18",0.0
+AR-C,CABA,2020,"Edad, total",0.428938579884812
+AR-K,Catamarca,2020,"Edad, entre 18 y 65",0.583968492760432
+AR-K,Catamarca,2020,"Edad, mayor a 65",0.070823223265464
+AR-K,Catamarca,2020,"Edad, menor de 18",0.0058975266804916
+AR-K,Catamarca,2020,"Edad, total",0.364837662238486
+AR-H,Chaco,2020,"Edad, entre 18 y 65",0.555059267890867
+AR-H,Chaco,2020,"Edad, mayor a 65",0.1377223216323
+AR-H,Chaco,2020,"Edad, menor de 18",0.0117623449597348
+AR-H,Chaco,2020,"Edad, total",0.355330659821214
+AR-U,Chubut,2020,"Edad, entre 18 y 65",0.629586767773499
+AR-U,Chubut,2020,"Edad, mayor a 65",0.0553463931224708
+AR-U,Chubut,2020,"Edad, menor de 18",0.004269974054381
+AR-U,Chubut,2020,"Edad, total",0.389793514901059
+AR-W,Corrientes,2020,"Edad, entre 18 y 65",0.588469472310866
+AR-W,Corrientes,2020,"Edad, mayor a 65",0.0943346070775876
+AR-W,Corrientes,2020,"Edad, menor de 18",0.0060359620717479
+AR-W,Corrientes,2020,"Edad, total",0.365466378546523
+AR-X,Córdoba,2020,"Edad, entre 18 y 65",0.634683607830881
+AR-X,Córdoba,2020,"Edad, mayor a 65",0.145305801437251
+AR-X,Córdoba,2020,"Edad, menor de 18",0.0050026263029043
+AR-X,Córdoba,2020,"Edad, total",0.39382709974823
+AR-E,Entre Ríos,2020,"Edad, entre 18 y 65",0.593735950432087
+AR-E,Entre Ríos,2020,"Edad, mayor a 65",0.0571776804418206
+AR-E,Entre Ríos,2020,"Edad, menor de 18",0.0010060726657581
+AR-E,Entre Ríos,2020,"Edad, total",0.360327391233018
+AR-P,Formosa,2020,"Edad, entre 18 y 65",0.474296283332819
+AR-P,Formosa,2020,"Edad, mayor a 65",0.0924922690599642
+AR-P,Formosa,2020,"Edad, menor de 18",0.0016677128333887
+AR-P,Formosa,2020,"Edad, total",0.286697764648115
+AR-Y,Jujuy,2020,"Edad, entre 18 y 65",0.568516235296358
+AR-Y,Jujuy,2020,"Edad, mayor a 65",0.0872076788830716
+AR-Y,Jujuy,2020,"Edad, menor de 18",0.0007410917743854
+AR-Y,Jujuy,2020,"Edad, total",0.361054469583746
+AR-L,La Pampa,2020,"Edad, entre 18 y 65",0.601865272913867
+AR-L,La Pampa,2020,"Edad, mayor a 65",0.0479866239375784
+AR-L,La Pampa,2020,"Edad, menor de 18",0.003302557674228
+AR-L,La Pampa,2020,"Edad, total",0.376013771375676
+AR-F,La Rioja,2020,"Edad, entre 18 y 65",0.607753816108261
+AR-F,La Rioja,2020,"Edad, mayor a 65",0.0751671579552808
+AR-F,La Rioja,2020,"Edad, menor de 18",0.0084012450766084
+AR-F,La Rioja,2020,"Edad, total",0.391847644503842
+AR-M,Mendoza,2020,"Edad, entre 18 y 65",0.647267516193731
+AR-M,Mendoza,2020,"Edad, mayor a 65",0.1306142579905
+AR-M,Mendoza,2020,"Edad, menor de 18",0.0134867590287549
+AR-M,Mendoza,2020,"Edad, total",0.414310790493049
+AR-N,Misiones,2020,"Edad, entre 18 y 65",0.633910365098425
+AR-N,Misiones,2020,"Edad, mayor a 65",0.134857900621441
+AR-N,Misiones,2020,"Edad, menor de 18",0.009059510025486
+AR-N,Misiones,2020,"Edad, total",0.396453810944613
+AR-Q,Neuquén,2020,"Edad, entre 18 y 65",0.586283251960952
+AR-Q,Neuquén,2020,"Edad, mayor a 65",0.0544188339701713
+AR-Q,Neuquén,2020,"Edad, menor de 18",0.0
+AR-Q,Neuquén,2020,"Edad, total",0.367332147217392
+AR-R,Río Negro,2020,"Edad, entre 18 y 65",0.603610477294157
+AR-R,Río Negro,2020,"Edad, mayor a 65",0.0327524329916906
+AR-R,Río Negro,2020,"Edad, menor de 18",0.00273073619767
+AR-R,Río Negro,2020,"Edad, total",0.384834638585693
+AR-A,Salta,2020,"Edad, entre 18 y 65",0.612472556656039
+AR-A,Salta,2020,"Edad, mayor a 65",0.163466883735705
+AR-A,Salta,2020,"Edad, menor de 18",0.0428639881514179
+AR-A,Salta,2020,"Edad, total",0.390020128444687
+AR-J,San Juan,2020,"Edad, entre 18 y 65",0.616296158177398
+AR-J,San Juan,2020,"Edad, mayor a 65",0.0962779229599445
+AR-J,San Juan,2020,"Edad, menor de 18",0.0148554128315332
+AR-J,San Juan,2020,"Edad, total",0.383052450824139
+AR-D,San Luis,2020,"Edad, entre 18 y 65",0.624415414524246
+AR-D,San Luis,2020,"Edad, mayor a 65",0.0543015238680778
+AR-D,San Luis,2020,"Edad, menor de 18",0.0076503529373627
+AR-D,San Luis,2020,"Edad, total",0.394598428388085
+AR-Z,Santa Cruz,2020,"Edad, entre 18 y 65",0.576126128209992
+AR-Z,Santa Cruz,2020,"Edad, mayor a 65",0.11423602484472
+AR-Z,Santa Cruz,2020,"Edad, menor de 18",0.0
+AR-Z,Santa Cruz,2020,"Edad, total",0.358505658756091
+AR-S,Santa Fe,2020,"Edad, entre 18 y 65",0.660054195129978
+AR-S,Santa Fe,2020,"Edad, mayor a 65",0.124232009246305
+AR-S,Santa Fe,2020,"Edad, menor de 18",0.0149978396750871
+AR-S,Santa Fe,2020,"Edad, total",0.420930572883466
+,,2020,"Edad, entre 18 y 65",0.595373016516351
+,,2020,"Edad, mayor a 65",0.112885344276069
+,,2020,"Edad, menor de 18",0.0101901461041418
+,,2020,"Edad, total",0.373383861066111
+AR-T,Tucumán,2020,"Edad, entre 18 y 65",0.555324859594941
+AR-T,Tucumán,2020,"Edad, mayor a 65",0.0656279697494829
+AR-T,Tucumán,2020,"Edad, menor de 18",0.0110479185348057
+AR-T,Tucumán,2020,"Edad, total",0.347070425666786
+AR-B,Buenos Aires,2021,"Edad, entre 18 y 65",0.666574190019197
+AR-B,Buenos Aires,2021,"Edad, mayor a 65",0.127552852598058
+AR-B,Buenos Aires,2021,"Edad, menor de 18",0.0036296885346968
+AR-B,Buenos Aires,2021,"Edad, total",0.417284832744725
+AR-C,CABA,2021,"Edad, entre 18 y 65",0.768846431878338
+AR-C,CABA,2021,"Edad, mayor a 65",0.21682447603984
+AR-C,CABA,2021,"Edad, menor de 18",0.0072767997303479
+AR-C,CABA,2021,"Edad, total",0.496888414590278
+AR-K,Catamarca,2021,"Edad, entre 18 y 65",0.62447840806204
+AR-K,Catamarca,2021,"Edad, mayor a 65",0.0652925622076073
+AR-K,Catamarca,2021,"Edad, menor de 18",0.0077737582310381
+AR-K,Catamarca,2021,"Edad, total",0.391387068522937
+AR-H,Chaco,2021,"Edad, entre 18 y 65",0.59604920294298
+AR-H,Chaco,2021,"Edad, mayor a 65",0.110782068651312
+AR-H,Chaco,2021,"Edad, menor de 18",0.0108718728710173
+AR-H,Chaco,2021,"Edad, total",0.376456164853857
+AR-U,Chubut,2021,"Edad, entre 18 y 65",0.654284879441232
+AR-U,Chubut,2021,"Edad, mayor a 65",0.0596738705763813
+AR-U,Chubut,2021,"Edad, menor de 18",0.0030431430740961
+AR-U,Chubut,2021,"Edad, total",0.409485059160319
+AR-W,Corrientes,2021,"Edad, entre 18 y 65",0.632704570066394
+AR-W,Corrientes,2021,"Edad, mayor a 65",0.146046909852872
+AR-W,Corrientes,2021,"Edad, menor de 18",0.0147467708443318
+AR-W,Corrientes,2021,"Edad, total",0.40264384907073
+AR-X,Córdoba,2021,"Edad, entre 18 y 65",0.667341783303839
+AR-X,Córdoba,2021,"Edad, mayor a 65",0.0969755479616491
+AR-X,Córdoba,2021,"Edad, menor de 18",0.0167615511329796
+AR-X,Córdoba,2021,"Edad, total",0.424206125317088
+AR-E,Entre Ríos,2021,"Edad, entre 18 y 65",0.632747794443185
+AR-E,Entre Ríos,2021,"Edad, mayor a 65",0.0644513010541415
+AR-E,Entre Ríos,2021,"Edad, menor de 18",0.0294776013407948
+AR-E,Entre Ríos,2021,"Edad, total",0.397622477152842
+AR-P,Formosa,2021,"Edad, entre 18 y 65",0.468937733877221
+AR-P,Formosa,2021,"Edad, mayor a 65",0.0791745256851215
+AR-P,Formosa,2021,"Edad, menor de 18",0.0029978265757325
+AR-P,Formosa,2021,"Edad, total",0.28526477099944
+AR-Y,Jujuy,2021,"Edad, entre 18 y 65",0.649110365862336
+AR-Y,Jujuy,2021,"Edad, mayor a 65",0.120743597808274
+AR-Y,Jujuy,2021,"Edad, menor de 18",0.0059794141562382
+AR-Y,Jujuy,2021,"Edad, total",0.412713990069252
+AR-L,La Pampa,2021,"Edad, entre 18 y 65",0.628174965189418
+AR-L,La Pampa,2021,"Edad, mayor a 65",0.151198331762219
+AR-L,La Pampa,2021,"Edad, menor de 18",0.0102403673028448
+AR-L,La Pampa,2021,"Edad, total",0.398151062913971
+AR-F,La Rioja,2021,"Edad, entre 18 y 65",0.67404898738012
+AR-F,La Rioja,2021,"Edad, mayor a 65",0.0990179168573339
+AR-F,La Rioja,2021,"Edad, menor de 18",0.0064060727159539
+AR-F,La Rioja,2021,"Edad, total",0.436827137051389
+AR-M,Mendoza,2021,"Edad, entre 18 y 65",0.684103224530208
+AR-M,Mendoza,2021,"Edad, mayor a 65",0.122742225182136
+AR-M,Mendoza,2021,"Edad, menor de 18",0.0053261961711851
+AR-M,Mendoza,2021,"Edad, total",0.429895165379497
+AR-N,Misiones,2021,"Edad, entre 18 y 65",0.644306508587438
+AR-N,Misiones,2021,"Edad, mayor a 65",0.0930174594668694
+AR-N,Misiones,2021,"Edad, menor de 18",0.0104077846844794
+AR-N,Misiones,2021,"Edad, total",0.400066829550924
+AR-Q,Neuquén,2021,"Edad, entre 18 y 65",0.645600827724458
+AR-Q,Neuquén,2021,"Edad, mayor a 65",0.0584894074301504
+AR-Q,Neuquén,2021,"Edad, menor de 18",0.0007957812386166
+AR-Q,Neuquén,2021,"Edad, total",0.403524400398211
+AR-R,Río Negro,2021,"Edad, entre 18 y 65",0.662734847486418
+AR-R,Río Negro,2021,"Edad, mayor a 65",0.0438129838674798
+AR-R,Río Negro,2021,"Edad, menor de 18",0.0113835422320528
+AR-R,Río Negro,2021,"Edad, total",0.412867836822618
+AR-A,Salta,2021,"Edad, entre 18 y 65",0.644935077938092
+AR-A,Salta,2021,"Edad, mayor a 65",0.131640523442239
+AR-A,Salta,2021,"Edad, menor de 18",0.0196713123493195
+AR-A,Salta,2021,"Edad, total",0.399739244418494
+AR-J,San Juan,2021,"Edad, entre 18 y 65",0.653049402338074
+AR-J,San Juan,2021,"Edad, mayor a 65",0.0943031281309139
+AR-J,San Juan,2021,"Edad, menor de 18",0.0137238697131745
+AR-J,San Juan,2021,"Edad, total",0.403689634885934
+AR-D,San Luis,2021,"Edad, entre 18 y 65",0.680294857441952
+AR-D,San Luis,2021,"Edad, mayor a 65",0.0628683693516699
+AR-D,San Luis,2021,"Edad, menor de 18",0.0018872556540951
+AR-D,San Luis,2021,"Edad, total",0.422882198213662
+AR-Z,Santa Cruz,2021,"Edad, entre 18 y 65",0.650868983957219
+AR-Z,Santa Cruz,2021,"Edad, mayor a 65",0.0744391834200109
+AR-Z,Santa Cruz,2021,"Edad, menor de 18",0.0
+AR-Z,Santa Cruz,2021,"Edad, total",0.407735717001824
+AR-S,Santa Fe,2021,"Edad, entre 18 y 65",0.709895994856473
+AR-S,Santa Fe,2021,"Edad, mayor a 65",0.125210337200844
+AR-S,Santa Fe,2021,"Edad, menor de 18",0.0139232537707851
+AR-S,Santa Fe,2021,"Edad, total",0.451402318857302
+AR-G,Santiago del Estero,2021,"Edad, entre 18 y 65",0.613835473589681
+AR-G,Santiago del Estero,2021,"Edad, mayor a 65",0.0898517499617912
+AR-G,Santiago del Estero,2021,"Edad, menor de 18",0.0094987422422082
+AR-G,Santiago del Estero,2021,"Edad, total",0.391347190275751
+AR-V,Tierra del Fuego,2021,"Edad, entre 18 y 65",0.649872741498862
+AR-V,Tierra del Fuego,2021,"Edad, mayor a 65",0.0993788819875776
+AR-V,Tierra del Fuego,2021,"Edad, menor de 18",0.0
+AR-V,Tierra del Fuego,2021,"Edad, total",0.433142444287838
+,,2021,"Edad, entre 18 y 65",0.666627501135985
+,,2021,"Edad, mayor a 65",0.125801506581517
+,,2021,"Edad, menor de 18",0.0084018061252546
+,,2021,"Edad, total",0.420179232742717
+AR-T,Tucumán,2021,"Edad, entre 18 y 65",0.612796536240112
+AR-T,Tucumán,2021,"Edad, mayor a 65",0.138757331014864
+AR-T,Tucumán,2021,"Edad, menor de 18",0.0127640398247947
+AR-T,Tucumán,2021,"Edad, total",0.391386041492605
+AR-B,Buenos Aires,2022,"Edad, entre 18 y 65",0.686412070675332
+AR-B,Buenos Aires,2022,"Edad, mayor a 65",0.11649971272264
+AR-B,Buenos Aires,2022,"Edad, menor de 18",0.0141984582867994
+AR-B,Buenos Aires,2022,"Edad, total",0.428131998796611
+AR-C,CABA,2022,"Edad, entre 18 y 65",0.789681802023918
+AR-C,CABA,2022,"Edad, mayor a 65",0.166604358491834
+AR-C,CABA,2022,"Edad, menor de 18",0.0
+AR-C,CABA,2022,"Edad, total",0.510064093409328
+AR-K,Catamarca,2022,"Edad, entre 18 y 65",0.655688938282013
+AR-K,Catamarca,2022,"Edad, mayor a 65",0.0805554652183811
+AR-K,Catamarca,2022,"Edad, menor de 18",0.0081336897843746
+AR-K,Catamarca,2022,"Edad, total",0.41661662494872
+AR-H,Chaco,2022,"Edad, entre 18 y 65",0.638670180033766
+AR-H,Chaco,2022,"Edad, mayor a 65",0.0689194089384462
+AR-H,Chaco,2022,"Edad, menor de 18",0.0091277953484904
+AR-H,Chaco,2022,"Edad, total",0.396391580738237
+AR-U,Chubut,2022,"Edad, entre 18 y 65",0.692788912815416
+AR-U,Chubut,2022,"Edad, mayor a 65",0.0696408100878869
+AR-U,Chubut,2022,"Edad, menor de 18",0.0034664109881257
+AR-U,Chubut,2022,"Edad, total",0.431936468282379
+AR-W,Corrientes,2022,"Edad, entre 18 y 65",0.629436553078654
+AR-W,Corrientes,2022,"Edad, mayor a 65",0.123513568181576
+AR-W,Corrientes,2022,"Edad, menor de 18",0.0113683369206285
+AR-W,Corrientes,2022,"Edad, total",0.39790392868558
+AR-X,Córdoba,2022,"Edad, entre 18 y 65",0.690171536018032
+AR-X,Córdoba,2022,"Edad, mayor a 65",0.146879185247325
+AR-X,Córdoba,2022,"Edad, menor de 18",0.0139949950943105
+AR-X,Córdoba,2022,"Edad, total",0.450076570339023
+AR-E,Entre Ríos,2022,"Edad, entre 18 y 65",0.6690640831021
+AR-E,Entre Ríos,2022,"Edad, mayor a 65",0.0635796677520834
+AR-E,Entre Ríos,2022,"Edad, menor de 18",0.0081971763739222
+AR-E,Entre Ríos,2022,"Edad, total",0.408715703719447
+AR-P,Formosa,2022,"Edad, entre 18 y 65",0.529326361843848
+AR-P,Formosa,2022,"Edad, mayor a 65",0.04318167328984
+AR-P,Formosa,2022,"Edad, menor de 18",0.0021501097518709
+AR-P,Formosa,2022,"Edad, total",0.322882755366832
+AR-Y,Jujuy,2022,"Edad, entre 18 y 65",0.660111186695128
+AR-Y,Jujuy,2022,"Edad, mayor a 65",0.156956754881242
+AR-Y,Jujuy,2022,"Edad, menor de 18",0.0015454602710126
+AR-Y,Jujuy,2022,"Edad, total",0.419008313138264
+AR-L,La Pampa,2022,"Edad, entre 18 y 65",0.676663708961846
+AR-L,La Pampa,2022,"Edad, mayor a 65",0.102367338750125
+AR-L,La Pampa,2022,"Edad, menor de 18",0.0
+AR-L,La Pampa,2022,"Edad, total",0.421955413912248
+AR-F,La Rioja,2022,"Edad, entre 18 y 65",0.666019126657945
+AR-F,La Rioja,2022,"Edad, mayor a 65",0.0898475620015479
+AR-F,La Rioja,2022,"Edad, menor de 18",0.0032167676542885
+AR-F,La Rioja,2022,"Edad, total",0.433601340881416
+AR-M,Mendoza,2022,"Edad, entre 18 y 65",0.716360712101394
+AR-M,Mendoza,2022,"Edad, mayor a 65",0.106425375163787
+AR-M,Mendoza,2022,"Edad, menor de 18",0.011092780299464
+AR-M,Mendoza,2022,"Edad, total",0.446536724369937
+AR-N,Misiones,2022,"Edad, entre 18 y 65",0.706368846698277
+AR-N,Misiones,2022,"Edad, mayor a 65",0.120908584428246
+AR-N,Misiones,2022,"Edad, menor de 18",0.0116776580344217
+AR-N,Misiones,2022,"Edad, total",0.440818067994226
+AR-Q,Neuquén,2022,"Edad, entre 18 y 65",0.677278686881211
+AR-Q,Neuquén,2022,"Edad, mayor a 65",0.0892619529356009
+AR-Q,Neuquén,2022,"Edad, menor de 18",0.0022281113380483
+AR-Q,Neuquén,2022,"Edad, total",0.428388786525782
+AR-R,Río Negro,2022,"Edad, entre 18 y 65",0.66543825830593
+AR-R,Río Negro,2022,"Edad, mayor a 65",0.0387873196913787
+AR-R,Río Negro,2022,"Edad, menor de 18",0.0058482852600499
+AR-R,Río Negro,2022,"Edad, total",0.414755993424225
+AR-A,Salta,2022,"Edad, entre 18 y 65",0.645991846345026
+AR-A,Salta,2022,"Edad, mayor a 65",0.117141783432652
+AR-A,Salta,2022,"Edad, menor de 18",0.0147022405589496
+AR-A,Salta,2022,"Edad, total",0.399962369728129
+AR-J,San Juan,2022,"Edad, entre 18 y 65",0.646313918702381
+AR-J,San Juan,2022,"Edad, mayor a 65",0.0997207118474844
+AR-J,San Juan,2022,"Edad, menor de 18",0.0043740776820764
+AR-J,San Juan,2022,"Edad, total",0.397918103287943
+AR-D,San Luis,2022,"Edad, entre 18 y 65",0.693616186126178
+AR-D,San Luis,2022,"Edad, mayor a 65",0.0788586034233517
+AR-D,San Luis,2022,"Edad, menor de 18",0.0019011994559169
+AR-D,San Luis,2022,"Edad, total",0.433767051554236
+AR-Z,Santa Cruz,2022,"Edad, entre 18 y 65",0.674770871521413
+AR-Z,Santa Cruz,2022,"Edad, mayor a 65",0.101296207393183
+AR-Z,Santa Cruz,2022,"Edad, menor de 18",0.0109051724137931
+AR-Z,Santa Cruz,2022,"Edad, total",0.436882674104704
+AR-S,Santa Fe,2022,"Edad, entre 18 y 65",0.713268063871669
+AR-S,Santa Fe,2022,"Edad, mayor a 65",0.119257774523807
+AR-S,Santa Fe,2022,"Edad, menor de 18",0.0025665465480362
+AR-S,Santa Fe,2022,"Edad, total",0.456444183676247
+AR-G,Santiago del Estero,2022,"Edad, entre 18 y 65",0.627656222110081
+AR-G,Santiago del Estero,2022,"Edad, mayor a 65",0.104102887328171
+AR-G,Santiago del Estero,2022,"Edad, menor de 18",0.0081818788300437
+AR-G,Santiago del Estero,2022,"Edad, total",0.401871603200403
+AR-V,Tierra del Fuego,2022,"Edad, entre 18 y 65",0.654393484401593
+AR-V,Tierra del Fuego,2022,"Edad, mayor a 65",0.158070500927644
+AR-V,Tierra del Fuego,2022,"Edad, menor de 18",0.0
+AR-V,Tierra del Fuego,2022,"Edad, total",0.436025392551673
+,,2022,"Edad, entre 18 y 65",0.687509612344397
+,,2022,"Edad, mayor a 65",0.119885954517287
+,,2022,"Edad, menor de 18",0.0102203160508275
+,,2022,"Edad, total",0.433125881161887
+AR-T,Tucumán,2022,"Edad, entre 18 y 65",0.652255565600566
+AR-T,Tucumán,2022,"Edad, mayor a 65",0.174385367090034
+AR-T,Tucumán,2022,"Edad, menor de 18",0.0098611144426587
+AR-T,Tucumán,2022,"Edad, total",0.412978783310345
+AR-B,Buenos Aires,2023,"Edad, entre 18 y 65",0.714798727111891
+AR-B,Buenos Aires,2023,"Edad, mayor a 65",0.14286180563317
+AR-B,Buenos Aires,2023,"Edad, menor de 18",0.0115829488661721
+AR-B,Buenos Aires,2023,"Edad, total",0.450224663485831
+AR-C,CABA,2023,"Edad, entre 18 y 65",0.799108104872501
+AR-C,CABA,2023,"Edad, mayor a 65",0.235179540523795
+AR-C,CABA,2023,"Edad, menor de 18",0.0080803094847616
+AR-C,CABA,2023,"Edad, total",0.528291476483892
+AR-K,Catamarca,2023,"Edad, entre 18 y 65",0.689755967513116
+AR-K,Catamarca,2023,"Edad, mayor a 65",0.0601468373493976
+AR-K,Catamarca,2023,"Edad, menor de 18",0.0092310551694941
+AR-K,Catamarca,2023,"Edad, total",0.435976302715978
+AR-H,Chaco,2023,"Edad, entre 18 y 65",0.615713802651559
+AR-H,Chaco,2023,"Edad, mayor a 65",0.1051189359527
+AR-H,Chaco,2023,"Edad, menor de 18",0.0034468313178046
+AR-H,Chaco,2023,"Edad, total",0.379477506041677
+AR-U,Chubut,2023,"Edad, entre 18 y 65",0.698020405561929
+AR-U,Chubut,2023,"Edad, mayor a 65",0.0985039226418537
+AR-U,Chubut,2023,"Edad, menor de 18",0.0028724044787414
+AR-U,Chubut,2023,"Edad, total",0.432061669948469
+AR-W,Corrientes,2023,"Edad, entre 18 y 65",0.614758973042015
+AR-W,Corrientes,2023,"Edad, mayor a 65",0.102037886013764
+AR-W,Corrientes,2023,"Edad, menor de 18",0.0071361287928524
+AR-W,Corrientes,2023,"Edad, total",0.387577592350237
+AR-X,Córdoba,2023,"Edad, entre 18 y 65",0.693699272253398
+AR-X,Córdoba,2023,"Edad, mayor a 65",0.158195018292135
+AR-X,Córdoba,2023,"Edad, menor de 18",0.0059440109702047
+AR-X,Córdoba,2023,"Edad, total",0.447920104201938
+AR-E,Entre Ríos,2023,"Edad, entre 18 y 65",0.678423519172289
+AR-E,Entre Ríos,2023,"Edad, mayor a 65",0.0813383387695653
+AR-E,Entre Ríos,2023,"Edad, menor de 18",0.0058124001659873
+AR-E,Entre Ríos,2023,"Edad, total",0.420095718960711
+AR-P,Formosa,2023,"Edad, entre 18 y 65",0.590348864235278
+AR-P,Formosa,2023,"Edad, mayor a 65",0.0633753290332952
+AR-P,Formosa,2023,"Edad, menor de 18",0.0016159957932807
+AR-P,Formosa,2023,"Edad, total",0.359447166876962
+AR-Y,Jujuy,2023,"Edad, entre 18 y 65",0.709449076230939
+AR-Y,Jujuy,2023,"Edad, mayor a 65",0.197523639387686
+AR-Y,Jujuy,2023,"Edad, menor de 18",0.0116247567913701
+AR-Y,Jujuy,2023,"Edad, total",0.459358753653194
+AR-L,La Pampa,2023,"Edad, entre 18 y 65",0.712688935561943
+AR-L,La Pampa,2023,"Edad, mayor a 65",0.121517397311895
+AR-L,La Pampa,2023,"Edad, menor de 18",0.0021416570035733
+AR-L,La Pampa,2023,"Edad, total",0.449934297803849
+AR-F,La Rioja,2023,"Edad, entre 18 y 65",0.692787636949141
+AR-F,La Rioja,2023,"Edad, mayor a 65",0.101819553125295
+AR-F,La Rioja,2023,"Edad, menor de 18",0.0082749260624721
+AR-F,La Rioja,2023,"Edad, total",0.452221495105888
+AR-M,Mendoza,2023,"Edad, entre 18 y 65",0.697383513298813
+AR-M,Mendoza,2023,"Edad, mayor a 65",0.0748468337571135
+AR-M,Mendoza,2023,"Edad, menor de 18",0.0038198346721166
+AR-M,Mendoza,2023,"Edad, total",0.425810675871108
+AR-N,Misiones,2023,"Edad, entre 18 y 65",0.722568928247121
+AR-N,Misiones,2023,"Edad, mayor a 65",0.137772948008286
+AR-N,Misiones,2023,"Edad, menor de 18",0.0087517847040758
+AR-N,Misiones,2023,"Edad, total",0.460892851116709
+AR-Q,Neuquén,2023,"Edad, entre 18 y 65",0.697062643198784
+AR-Q,Neuquén,2023,"Edad, mayor a 65",0.0551068264721209
+AR-Q,Neuquén,2023,"Edad, menor de 18",0.0033858625197599
+AR-Q,Neuquén,2023,"Edad, total",0.434936910439636
+AR-R,Río Negro,2023,"Edad, entre 18 y 65",0.665981197897896
+AR-R,Río Negro,2023,"Edad, mayor a 65",0.0340918494000827
+AR-R,Río Negro,2023,"Edad, menor de 18",0.004954219829596
+AR-R,Río Negro,2023,"Edad, total",0.417247891041392
+AR-A,Salta,2023,"Edad, entre 18 y 65",0.682908106528052
+AR-A,Salta,2023,"Edad, mayor a 65",0.0962924729677713
+AR-A,Salta,2023,"Edad, menor de 18",0.014657523647407
+AR-A,Salta,2023,"Edad, total",0.421690870824868
+AR-J,San Juan,2023,"Edad, entre 18 y 65",0.661398781519394
+AR-J,San Juan,2023,"Edad, mayor a 65",0.164267855060823
+AR-J,San Juan,2023,"Edad, menor de 18",0.0071928450887798
+AR-J,San Juan,2023,"Edad, total",0.415695559244185
+AR-D,San Luis,2023,"Edad, entre 18 y 65",0.704857424208973
+AR-D,San Luis,2023,"Edad, mayor a 65",0.0558874503007442
+AR-D,San Luis,2023,"Edad, menor de 18",0.0033050793851603
+AR-D,San Luis,2023,"Edad, total",0.443277338274669
+AR-Z,Santa Cruz,2023,"Edad, entre 18 y 65",0.693277901296812
+AR-Z,Santa Cruz,2023,"Edad, mayor a 65",0.0965333110842268
+AR-Z,Santa Cruz,2023,"Edad, menor de 18",0.0
+AR-Z,Santa Cruz,2023,"Edad, total",0.446140810635691
+AR-S,Santa Fe,2023,"Edad, entre 18 y 65",0.715768344083102
+AR-S,Santa Fe,2023,"Edad, mayor a 65",0.126952082064734
+AR-S,Santa Fe,2023,"Edad, menor de 18",0.0060628389943149
+AR-S,Santa Fe,2023,"Edad, total",0.456520133790232
+AR-G,Santiago del Estero,2023,"Edad, entre 18 y 65",0.678647758970947
+AR-G,Santiago del Estero,2023,"Edad, mayor a 65",0.0968060493200158
+AR-G,Santiago del Estero,2023,"Edad, menor de 18",0.0087927972774398
+AR-G,Santiago del Estero,2023,"Edad, total",0.431680112968014
+AR-V,Tierra del Fuego,2023,"Edad, entre 18 y 65",0.700644140580857
+AR-V,Tierra del Fuego,2023,"Edad, mayor a 65",0.0721023036459278
+AR-V,Tierra del Fuego,2023,"Edad, menor de 18",0.0
+AR-V,Tierra del Fuego,2023,"Edad, total",0.463190061857313
+,,2023,"Edad, entre 18 y 65",0.706267861115704
+,,2023,"Edad, mayor a 65",0.139461661161368
+,,2023,"Edad, menor de 18",0.0086652363358182
+,,2023,"Edad, total",0.447388821823369
+AR-T,Tucumán,2023,"Edad, entre 18 y 65",0.700480664846561
+AR-T,Tucumán,2023,"Edad, mayor a 65",0.167646136149744
+AR-T,Tucumán,2023,"Edad, menor de 18",0.0081475321969032
+AR-T,Tucumán,2023,"Edad, total",0.449978737617946

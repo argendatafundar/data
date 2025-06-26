@@ -1,30 +1,30 @@
-"sector","subsector","subsubsector","valor_en_porcent"
-"Energía","Transporte","Carretera","11.9"
-"Energía","Transporte","Aviación","1.9"
-"Energía","Transporte","Tren","0.4"
-"Energía","Transporte","Tuberías","0.3"
-"Energía","Transporte","Marítimo","1.7"
-"Energía","Edificaciones","Residencial","10.9"
-"Energía","Edificaciones","Comercial","6.6"
-"Energía","Industrias manufactureras y de la construcción","Hierro y acero","7.2"
-"Energía","Industrias manufactureras y de la construcción","Metales no ferrosos","0.7"
-"Energía","Industrias manufactureras y de la construcción","Maquinaria","0.5"
-"Energía","Industrias manufactureras y de la construcción","Alimentación y tabaco","1"
-"Energía","Industrias manufactureras y de la construcción","Papel","0.6"
-"Energía","Industrias manufactureras y de la construcción","Química y petroquímica","3.6"
-"Energía","Industrias manufactureras y de la construcción","Otras industrias","10.6"
-"Energía","Agricultura, ganadería y pesca","Agricultura, ganadería y pesca","1.7"
-"Energía","Industria de la energía","Industria de la energía","7.8"
-"Energía","Industria de la energía","Carbón","1.9"
-"Energía","Industria de la energía","Petróleo y gas","3.9"
-"Industria Química","Industria de los minerales","Cemento","3"
-"Industria Química","Industria química y petroquímica","Industria química y petroquímica","2.2"
-"AGSyOUT","Ganadería y manejo de estiércol","Ganadería y manejo de estiércol","5.8"
-"AGSyOUT","Cultivo de arroz","Cultivo de arroz","1.3"
-"AGSyOUT","Tierras","Suelos agrícolas","4.1"
-"AGSyOUT","Quema de biomasa","Quema de biomasa","3.5"
-"AGSyOUT","Tierras","Tierras forestales","2.2"
-"AGSyOUT","Tierras","Tierras de cultivo","1.4"
-"AGSyOUT","Tierras","Pastizales","0.1"
-"Residuos","Residuos sólidos","Residuos sólidos","1.9"
-"Residuos","Aguas residuales","Aguas residuales","1.3"
+sector,subsector,subsubsector,valor_en_porcent
+Energía,Transporte,Carretera,11.9
+Energía,Transporte,Aviación,1.9
+Energía,Transporte,Tren,0.4
+Energía,Transporte,Tuberías,0.3
+Energía,Transporte,Marítimo,1.7
+Energía,Edificaciones,Residencial,10.9
+Energía,Edificaciones,Comercial,6.6
+Energía,Industrias manufactureras y de la construcción,Hierro y acero,7.2
+Energía,Industrias manufactureras y de la construcción,Metales no ferrosos,0.7
+Energía,Industrias manufactureras y de la construcción,Maquinaria,0.5
+Energía,Industrias manufactureras y de la construcción,Alimentación y tabaco,1.0
+Energía,Industrias manufactureras y de la construcción,Papel,0.6
+Energía,Industrias manufactureras y de la construcción,Química y petroquímica,3.6
+Energía,Industrias manufactureras y de la construcción,Otras industrias,10.6
+Energía,"Agricultura, ganadería y pesca","Agricultura, ganadería y pesca",1.7
+Energía,Industria de la energía,Industria de la energía,7.8
+Energía,Industria de la energía,Carbón,1.9
+Energía,Industria de la energía,Petróleo y gas,3.9
+Industria Química,Industria de los minerales,Cemento,3.0
+Industria Química,Industria química y petroquímica,Industria química y petroquímica,2.2
+AGSyOUT,Ganadería y manejo de estiércol,Ganadería y manejo de estiércol,5.8
+AGSyOUT,Cultivo de arroz,Cultivo de arroz,1.3
+AGSyOUT,Tierras,Suelos agrícolas,4.1
+AGSyOUT,Quema de biomasa,Quema de biomasa,3.5
+AGSyOUT,Tierras,Tierras forestales,2.2
+AGSyOUT,Tierras,Tierras de cultivo,1.4
+AGSyOUT,Tierras,Pastizales,0.1
+Residuos,Residuos sólidos,Residuos sólidos,1.9
+Residuos,Aguas residuales,Aguas residuales,1.3

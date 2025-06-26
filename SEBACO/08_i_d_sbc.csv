@@ -1,25 +1,25 @@
-"sector","anio","prop"
-"Otros servicios (empresariales, relacionados con la salud humana y animal y comunicaciones)","2015",0.0279135946329047
-"Otros servicios (empresariales, relacionados con la salud humana y animal y comunicaciones)","2016",0.0243594689695383
-"Otros servicios (empresariales, relacionados con la salud humana y animal y comunicaciones)","2017",0.0215079404168216
-"Otros servicios (empresariales, relacionados con la salud humana y animal y comunicaciones)","2018",0.0283384041727484
-"Otros servicios (empresariales, relacionados con la salud humana y animal y comunicaciones)","2019",0.0311795816922407
-"Otros servicios (empresariales, relacionados con la salud humana y animal y comunicaciones)","2020",0.0393671394314596
-"Otros servicios (empresariales, relacionados con la salud humana y animal y comunicaciones)","2021",0.0655331158889878
-"Otros servicios (empresariales, relacionados con la salud humana y animal y comunicaciones)","2022",0.0432527973821735
-"Servicios de inversión y desarrollo","2015",0.214179244250156
-"Servicios de inversión y desarrollo","2016",0.216482984912845
-"Servicios de inversión y desarrollo","2017",0.190170944407682
-"Servicios de inversión y desarrollo","2018",0.195368889103359
-"Servicios de inversión y desarrollo","2019",0.194991139086899
-"Servicios de inversión y desarrollo","2020",0.177338380508993
-"Servicios de inversión y desarrollo","2021",0.202135294702364
-"Servicios de inversión y desarrollo","2022",0.239507552570357
-"Software y servicios informáticos","2015",0.0412745187915689
-"Software y servicios informáticos","2016",0.0617331749187908
-"Software y servicios informáticos","2017",0.106316457299345
-"Software y servicios informáticos","2018",0.132452700097907
-"Software y servicios informáticos","2019",0.170074735647429
-"Software y servicios informáticos","2020",0.192994473700938
-"Software y servicios informáticos","2021",0.134999097999974
-"Software y servicios informáticos","2022",0.133520430813232
+sector,anio,prop
+"Otros servicios (empresariales, relacionados con la salud humana y animal y comunicaciones)",2015,0.0279135946329047
+"Otros servicios (empresariales, relacionados con la salud humana y animal y comunicaciones)",2016,0.0243594689695383
+"Otros servicios (empresariales, relacionados con la salud humana y animal y comunicaciones)",2017,0.0215079404168216
+"Otros servicios (empresariales, relacionados con la salud humana y animal y comunicaciones)",2018,0.0283384041727484
+"Otros servicios (empresariales, relacionados con la salud humana y animal y comunicaciones)",2019,0.0311795816922407
+"Otros servicios (empresariales, relacionados con la salud humana y animal y comunicaciones)",2020,0.0393671394314596
+"Otros servicios (empresariales, relacionados con la salud humana y animal y comunicaciones)",2021,0.0655331158889878
+"Otros servicios (empresariales, relacionados con la salud humana y animal y comunicaciones)",2022,0.0432527973821735
+Servicios de inversión y desarrollo,2015,0.214179244250156
+Servicios de inversión y desarrollo,2016,0.216482984912845
+Servicios de inversión y desarrollo,2017,0.190170944407682
+Servicios de inversión y desarrollo,2018,0.195368889103359
+Servicios de inversión y desarrollo,2019,0.194991139086899
+Servicios de inversión y desarrollo,2020,0.177338380508993
+Servicios de inversión y desarrollo,2021,0.202135294702364
+Servicios de inversión y desarrollo,2022,0.239507552570357
+Software y servicios informáticos,2015,0.0412745187915689
+Software y servicios informáticos,2016,0.0617331749187908
+Software y servicios informáticos,2017,0.106316457299345
+Software y servicios informáticos,2018,0.132452700097907
+Software y servicios informáticos,2019,0.170074735647429
+Software y servicios informáticos,2020,0.192994473700938
+Software y servicios informáticos,2021,0.134999097999974
+Software y servicios informáticos,2022,0.133520430813232
