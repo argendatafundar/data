@@ -1,453 +1,453 @@
-"year","iso3","country_name_abbreviation","microd","microd_name","import_value_pc"
-2020,"ABW","Aruba",1,"Diferenciado","77.3214846803109"
-2020,"ABW","Aruba",2,"No diferenciado","22.6785153196891"
-2020,"AFG","Afghanistan",1,"Diferenciado","60.1600925883472"
-2020,"AFG","Afghanistan",2,"No diferenciado","39.8399074116528"
-2020,"AGO","Angola",1,"Diferenciado","64.9009429492753"
-2020,"AGO","Angola",2,"No diferenciado","35.0990570507248"
-2020,"AIA","Anguilla",1,"Diferenciado","44.6459757569006"
-2020,"AIA","Anguilla",2,"No diferenciado","55.3540242430994"
-2020,"ALB","Albania",1,"Diferenciado","69.5979705540942"
-2020,"ALB","Albania",2,"No diferenciado","30.4020294459058"
-2020,"AND","Andorra",1,"Diferenciado","85.225017693936"
-2020,"AND","Andorra",2,"No diferenciado","14.774982306064"
-2020,"ARE","United Arab Emirates",1,"Diferenciado","57.2207107420595"
-2020,"ARE","United Arab Emirates",2,"No diferenciado","42.7792892579405"
-2020,"ARG","Argentina",1,"Diferenciado","66.5803039087331"
-2020,"ARG","Argentina",2,"No diferenciado","33.4196960912669"
-2020,"ARM","Armenia",1,"Diferenciado","59.8319850267101"
-2020,"ARM","Armenia",2,"No diferenciado","40.16801497329"
-2020,"ASM","American Samoa",1,"Diferenciado","29.4997497874822"
-2020,"ASM","American Samoa",2,"No diferenciado","70.5002502125178"
-2020,"ATF","Fr. South Antarctic Terr.",1,"Diferenciado","92.9449534581868"
-2020,"ATF","Fr. South Antarctic Terr.",2,"No diferenciado","7.05504654181321"
-2020,"ATG","Antigua and Barbuda",1,"Diferenciado","76.6763171734115"
-2020,"ATG","Antigua and Barbuda",2,"No diferenciado","23.3236828265884"
-2020,"AUS","Australia",1,"Diferenciado","74.8392139822424"
-2020,"AUS","Australia",2,"No diferenciado","25.1607860177576"
-2020,"AUT","Austria",1,"Diferenciado","73.9053716278196"
-2020,"AUT","Austria",2,"No diferenciado","26.0946283721803"
-2020,"AZE","Azerbaijan",1,"Diferenciado","76.4934663319825"
-2020,"AZE","Azerbaijan",2,"No diferenciado","23.5065336680175"
-2020,"BDI","Burundi",1,"Diferenciado","57.6654480489409"
-2020,"BDI","Burundi",2,"No diferenciado","42.3345519510591"
-2020,"BEL","Belgium",1,"Diferenciado","61.3747085321763"
-2020,"BEL","Belgium",2,"No diferenciado","38.6252914678237"
-2020,"BEN","Benin",1,"Diferenciado","48.9879248880307"
-2020,"BEN","Benin",2,"No diferenciado","51.0120751119693"
-2020,"BES","Bonaire",1,"Diferenciado","97.6277377633653"
-2020,"BES","Bonaire",2,"No diferenciado","2.37226223663463"
-2020,"BFA","Burkina Faso",1,"Diferenciado","55.3354473689608"
-2020,"BFA","Burkina Faso",2,"No diferenciado","44.6645526310391"
-2020,"BGD","Bangladesh",1,"Diferenciado","41.6855964624098"
-2020,"BGD","Bangladesh",2,"No diferenciado","58.3144035375902"
-2020,"BGR","Bulgaria",1,"Diferenciado","57.2102837163639"
-2020,"BGR","Bulgaria",2,"No diferenciado","42.7897162836361"
-2020,"BHR","Bahrain",1,"Diferenciado","58.451598975137"
-2020,"BHR","Bahrain",2,"No diferenciado","41.548401024863"
-2020,"BHS","Bahamas",1,"Diferenciado","54.8417684320525"
-2020,"BHS","Bahamas",2,"No diferenciado","45.1582315679475"
-2020,"BIH","Bosnia Herzegovina",1,"Diferenciado","61.7230382546705"
-2020,"BIH","Bosnia Herzegovina",2,"No diferenciado","38.2769617453295"
-2020,"BLM","Saint Barthélemy",1,"Diferenciado","97.2013553444604"
-2020,"BLM","Saint Barthélemy",2,"No diferenciado","2.79864465553963"
-2020,"BLR","Belarus",1,"Diferenciado","57.5200722917077"
-2020,"BLR","Belarus",2,"No diferenciado","42.4799277082924"
-2020,"BLZ","Belize",1,"Diferenciado","74.1199147141799"
-2020,"BLZ","Belize",2,"No diferenciado","25.88008528582"
-2020,"BMU","Bermuda",1,"Diferenciado","87.105148300403"
-2020,"BMU","Bermuda",2,"No diferenciado","12.894851699597"
-2020,"BOL","Bolivia (Plurinational State of)",1,"Diferenciado","72.8285778744008"
-2020,"BOL","Bolivia (Plurinational State of)",2,"No diferenciado","27.1714221255991"
-2020,"BRA","Brazil",1,"Diferenciado","61.5092435941691"
-2020,"BRA","Brazil",2,"No diferenciado","38.4907564058309"
-2020,"BRB","Barbados",1,"Diferenciado","65.8193339829173"
-2020,"BRB","Barbados",2,"No diferenciado","34.1806660170827"
-2020,"BRN","Brunei Darussalam",1,"Diferenciado","44.4832922943449"
-2020,"BRN","Brunei Darussalam",2,"No diferenciado","55.5167077056552"
-2020,"BTN","Bhutan",1,"Diferenciado","49.3357541355007"
-2020,"BTN","Bhutan",2,"No diferenciado","50.6642458644993"
-2020,"BWA","Botswana",1,"Diferenciado","42.9399575171265"
-2020,"BWA","Botswana",2,"No diferenciado","57.0600424828735"
-2020,"CAF","Central African Rep.",1,"Diferenciado","67.7385477595079"
-2020,"CAF","Central African Rep.",2,"No diferenciado","32.261452240492"
-2020,"CAN","Canada",1,"Diferenciado","73.2825559103539"
-2020,"CAN","Canada",2,"No diferenciado","26.7174440896461"
-2020,"CCK","Cocos Isds",1,"Diferenciado","79.145955480779"
-2020,"CCK","Cocos Isds",2,"No diferenciado","20.854044519221"
-2020,"CHE","Switzerland",1,"Diferenciado","53.3332993018503"
-2020,"CHE","Switzerland",2,"No diferenciado","46.6667006981497"
-2020,"CHL","Chile",1,"Diferenciado","70.2328857810641"
-2020,"CHL","Chile",2,"No diferenciado","29.7671142189359"
-2020,"CHN","China",1,"Diferenciado","47.8305955634729"
-2020,"CHN","China",2,"No diferenciado","52.1694044365271"
-2020,"CIV","Côte d'Ivoire",1,"Diferenciado","48.3728723770811"
-2020,"CIV","Côte d'Ivoire",2,"No diferenciado","51.627127622919"
-2020,"CMR","Cameroon",1,"Diferenciado","56.7932767672681"
-2020,"CMR","Cameroon",2,"No diferenciado","43.2067232327319"
-2020,"COD","Dem. Rep. of the Congo",1,"Diferenciado","70.1586628889679"
-2020,"COD","Dem. Rep. of the Congo",2,"No diferenciado","29.8413371110321"
-2020,"COG","Congo",1,"Diferenciado","73.7903446432066"
-2020,"COG","Congo",2,"No diferenciado","26.2096553567934"
-2020,"COK","Cook Isds",1,"Diferenciado","83.7934958098336"
-2020,"COK","Cook Isds",2,"No diferenciado","16.2065041901664"
-2020,"COL","Colombia",1,"Diferenciado","63.8135087155718"
-2020,"COL","Colombia",2,"No diferenciado","36.1864912844282"
-2020,"COM","Comoros",1,"Diferenciado","48.3079678030778"
-2020,"COM","Comoros",2,"No diferenciado","51.6920321969222"
-2020,"CPV","Cabo Verde",1,"Diferenciado","34.2212811414233"
-2020,"CPV","Cabo Verde",2,"No diferenciado","65.7787188585766"
-2020,"CRI","Costa Rica",1,"Diferenciado","68.0703428462196"
-2020,"CRI","Costa Rica",2,"No diferenciado","31.9296571537805"
-2020,"CUB","Cuba",1,"Diferenciado","86.1867255356642"
-2020,"CUB","Cuba",2,"No diferenciado","13.8132744643358"
-2020,"CUW","Curaçao",1,"Diferenciado","70.6257792620262"
-2020,"CUW","Curaçao",2,"No diferenciado","29.3742207379738"
-2020,"CXR","Christmas Isds",1,"Diferenciado","23.7909070822882"
-2020,"CXR","Christmas Isds",2,"No diferenciado","76.2090929177117"
-2020,"CYM","Cayman Isds",1,"Diferenciado","95.5516658362546"
-2020,"CYM","Cayman Isds",2,"No diferenciado","4.44833416374543"
-2020,"CYP","Cyprus",1,"Diferenciado","69.9202623354452"
-2020,"CYP","Cyprus",2,"No diferenciado","30.0797376645548"
-2020,"CZE","Czechia",1,"Diferenciado","79.29320787476"
-2020,"CZE","Czechia",2,"No diferenciado","20.7067921252401"
-2020,"DEU","Germany",1,"Diferenciado","73.3747288677715"
-2020,"DEU","Germany",2,"No diferenciado","26.6252711322286"
-2020,"DJI","Djibouti",1,"Diferenciado","65.3176747649326"
-2020,"DJI","Djibouti",2,"No diferenciado","34.6823252350674"
-2020,"DMA","Dominica",1,"Diferenciado","74.0357092022367"
-2020,"DMA","Dominica",2,"No diferenciado","25.9642907977634"
-2020,"DNK","Denmark",1,"Diferenciado","72.8821629368001"
-2020,"DNK","Denmark",2,"No diferenciado","27.1178370631999"
-2020,"DOM","Dominican Rep.",1,"Diferenciado","59.478034338849"
-2020,"DOM","Dominican Rep.",2,"No diferenciado","40.521965661151"
-2020,"DZA","Algeria",1,"Diferenciado","57.8664788727935"
-2020,"DZA","Algeria",2,"No diferenciado","42.1335211272064"
-2020,"ECU","Ecuador",1,"Diferenciado","60.9123981842354"
-2020,"ECU","Ecuador",2,"No diferenciado","39.0876018157646"
-2020,"EGY","Egypt",1,"Diferenciado","47.274866997907"
-2020,"EGY","Egypt",2,"No diferenciado","52.7251330020931"
-2020,"ERI","Eritrea",1,"Diferenciado","75.1399495781721"
-2020,"ERI","Eritrea",2,"No diferenciado","24.8600504218279"
-2020,"ESP","Spain",1,"Diferenciado","65.5624169379653"
-2020,"ESP","Spain",2,"No diferenciado","34.4375830620347"
-2020,"EST","Estonia",1,"Diferenciado","62.7180648730635"
-2020,"EST","Estonia",2,"No diferenciado","37.2819351269365"
-2020,"ETH","Ethiopia",1,"Diferenciado","61.5547991452862"
-2020,"ETH","Ethiopia",2,"No diferenciado","38.4452008547137"
-2020,"FIN","Finland",1,"Diferenciado","65.1087700462151"
-2020,"FIN","Finland",2,"No diferenciado","34.8912299537849"
-2020,"FJI","Fiji",1,"Diferenciado","54.2206633704647"
-2020,"FJI","Fiji",2,"No diferenciado","45.7793366295353"
-2020,"FLK","Falkland Isds (Malvinas)",1,"Diferenciado","41.4550361581618"
-2020,"FLK","Falkland Isds (Malvinas)",2,"No diferenciado","58.5449638418382"
-2020,"FRA","France",1,"Diferenciado","73.4199831346984"
-2020,"FRA","France",2,"No diferenciado","26.5800168653015"
-2020,"FSM","FS Micronesia",1,"Diferenciado","72.2644620376028"
-2020,"FSM","FS Micronesia",2,"No diferenciado","27.7355379623972"
-2020,"GAB","Gabon",1,"Diferenciado","81.8566233692695"
-2020,"GAB","Gabon",2,"No diferenciado","18.1433766307306"
-2020,"GBR","United Kingdom",1,"Diferenciado","64.6615232544389"
-2020,"GBR","United Kingdom",2,"No diferenciado","35.338476745561"
-2020,"GEO","Georgia",1,"Diferenciado","64.6830045986016"
-2020,"GEO","Georgia",2,"No diferenciado","35.3169954013984"
-2020,"GHA","Ghana",1,"Diferenciado","67.4910414328957"
-2020,"GHA","Ghana",2,"No diferenciado","32.5089585671043"
-2020,"GIB","Gibraltar",1,"Diferenciado","15.2552705514201"
-2020,"GIB","Gibraltar",2,"No diferenciado","84.7447294485799"
-2020,"GIN","Guinea",1,"Diferenciado","73.3052749887002"
-2020,"GIN","Guinea",2,"No diferenciado","26.6947250112998"
-2020,"GMB","Gambia",1,"Diferenciado","43.7788252343858"
-2020,"GMB","Gambia",2,"No diferenciado","56.2211747656142"
-2020,"GNB","Guinea-Bissau",1,"Diferenciado","44.3524200064416"
-2020,"GNB","Guinea-Bissau",2,"No diferenciado","55.6475799935584"
-2020,"GNQ","Equatorial Guinea",1,"Diferenciado","77.4338895515965"
-2020,"GNQ","Equatorial Guinea",2,"No diferenciado","22.5661104484035"
-2020,"GRC","Greece",1,"Diferenciado","53.8421601746655"
-2020,"GRC","Greece",2,"No diferenciado","46.1578398253345"
-2020,"GRD","Grenada",1,"Diferenciado","65.1071549636003"
-2020,"GRD","Grenada",2,"No diferenciado","34.8928450363997"
-2020,"GRL","Greenland",1,"Diferenciado","71.1342327549282"
-2020,"GRL","Greenland",2,"No diferenciado","28.8657672450718"
-2020,"GTM","Guatemala",1,"Diferenciado","57.62260268271"
-2020,"GTM","Guatemala",2,"No diferenciado","42.37739731729"
-2020,"GUM","Guam",1,"Diferenciado","32.0151192451752"
-2020,"GUM","Guam",2,"No diferenciado","67.9848807548249"
-2020,"GUY","Guyana",1,"Diferenciado","56.9757328463307"
-2020,"GUY","Guyana",2,"No diferenciado","43.0242671536693"
-2020,"HKG","China, Hong Kong SAR",1,"Diferenciado","84.8669982028991"
-2020,"HKG","China, Hong Kong SAR",2,"No diferenciado","15.1330017971009"
-2020,"HND","Honduras",1,"Diferenciado","56.5288293456812"
-2020,"HND","Honduras",2,"No diferenciado","43.4711706543188"
-2020,"HRV","Croatia",1,"Diferenciado","65.8506860591888"
-2020,"HRV","Croatia",2,"No diferenciado","34.1493139408112"
-2020,"HTI","Haiti",1,"Diferenciado","54.454741978213"
-2020,"HTI","Haiti",2,"No diferenciado","45.545258021787"
-2020,"HUN","Hungary",1,"Diferenciado","77.8291591370581"
-2020,"HUN","Hungary",2,"No diferenciado","22.1708408629419"
-2020,"IDN","Indonesia",1,"Diferenciado","53.8055720842946"
-2020,"IDN","Indonesia",2,"No diferenciado","46.1944279157053"
-2020,"IND","India",1,"Diferenciado","35.2183670066236"
-2020,"IND","India",2,"No diferenciado","64.7816329933764"
-2020,"IOT","Br. Indian Ocean Terr.",1,"Diferenciado","42.4111751234619"
-2020,"IOT","Br. Indian Ocean Terr.",2,"No diferenciado","57.5888248765381"
-2020,"IRL","Ireland",1,"Diferenciado","75.718832616519"
-2020,"IRL","Ireland",2,"No diferenciado","24.281167383481"
-2020,"IRN","Iran",1,"Diferenciado","53.0053817768745"
-2020,"IRN","Iran",2,"No diferenciado","46.9946182231255"
-2020,"IRQ","Iraq",1,"Diferenciado","74.939862633357"
-2020,"IRQ","Iraq",2,"No diferenciado","25.060137366643"
-2020,"ISL","Iceland",1,"Diferenciado","78.5021920149717"
-2020,"ISL","Iceland",2,"No diferenciado","21.4978079850283"
-2020,"ISR","Israel",1,"Diferenciado","72.1319760891617"
-2020,"ISR","Israel",2,"No diferenciado","27.8680239108383"
-2020,"ITA","Italy",1,"Diferenciado","60.4931050700229"
-2020,"ITA","Italy",2,"No diferenciado","39.5068949299771"
-2020,"JAM","Jamaica",1,"Diferenciado","57.7530397053215"
-2020,"JAM","Jamaica",2,"No diferenciado","42.2469602946785"
-2020,"JOR","Jordan",1,"Diferenciado","62.103277497684"
-2020,"JOR","Jordan",2,"No diferenciado","37.896722502316"
-2020,"JPN","Japan",1,"Diferenciado","60.606382955406"
-2020,"JPN","Japan",2,"No diferenciado","39.3936170445939"
-2020,"KAZ","Kazakhstan",1,"Diferenciado","76.8889126436984"
-2020,"KAZ","Kazakhstan",2,"No diferenciado","23.1110873563016"
-2020,"KEN","Kenya",1,"Diferenciado","52.1360334411998"
-2020,"KEN","Kenya",2,"No diferenciado","47.8639665588002"
-2020,"KGZ","Kyrgyzstan",1,"Diferenciado","72.8015736616311"
-2020,"KGZ","Kyrgyzstan",2,"No diferenciado","27.1984263383689"
-2020,"KHM","Cambodia",1,"Diferenciado","61.1276489699544"
-2020,"KHM","Cambodia",2,"No diferenciado","38.8723510300455"
-2020,"KIR","Kiribati",1,"Diferenciado","42.5583998759162"
-2020,"KIR","Kiribati",2,"No diferenciado","57.4416001240837"
-2020,"KNA","Saint Kitts and Nevis",1,"Diferenciado","72.4245261567342"
-2020,"KNA","Saint Kitts and Nevis",2,"No diferenciado","27.5754738432658"
-2020,"KOR","Rep. of Korea",1,"Diferenciado","57.9315251442455"
-2020,"KOR","Rep. of Korea",2,"No diferenciado","42.0684748557545"
-2020,"KWT","Kuwait",1,"Diferenciado","75.8015965637037"
-2020,"KWT","Kuwait",2,"No diferenciado","24.1984034362964"
-2020,"LAO","Lao People's Dem. Rep.",1,"Diferenciado","57.9806010704397"
-2020,"LAO","Lao People's Dem. Rep.",2,"No diferenciado","42.0193989295602"
-2020,"LBN","Lebanon",1,"Diferenciado","44.123577515117"
-2020,"LBN","Lebanon",2,"No diferenciado","55.876422484883"
-2020,"LBR","Liberia",1,"Diferenciado","80.5392366854271"
-2020,"LBR","Liberia",2,"No diferenciado","19.460763314573"
-2020,"LBY","Libya",1,"Diferenciado","64.2069094868289"
-2020,"LBY","Libya",2,"No diferenciado","35.7930905131711"
-2020,"LCA","Saint Lucia",1,"Diferenciado","58.9683856517118"
-2020,"LCA","Saint Lucia",2,"No diferenciado","41.0316143482883"
-2020,"LKA","Sri Lanka",1,"Diferenciado","49.2446323295705"
-2020,"LKA","Sri Lanka",2,"No diferenciado","50.7553676704295"
-2020,"LSO","Lesotho",1,"Diferenciado","63.4753215219318"
-2020,"LSO","Lesotho",2,"No diferenciado","36.5246784780682"
-2020,"LTU","Lithuania",1,"Diferenciado","61.8909633555123"
-2020,"LTU","Lithuania",2,"No diferenciado","38.1090366444877"
-2020,"LUX","Luxembourg",1,"Diferenciado","67.8777293156582"
-2020,"LUX","Luxembourg",2,"No diferenciado","32.1222706843417"
-2020,"LVA","Latvia",1,"Diferenciado","65.3037458258051"
-2020,"LVA","Latvia",2,"No diferenciado","34.6962541741949"
-2020,"MAC","China, Macao SAR",1,"Diferenciado","85.3091164816046"
-2020,"MAC","China, Macao SAR",2,"No diferenciado","14.6908835183954"
-2020,"MAR","Morocco",1,"Diferenciado","59.8876925652181"
-2020,"MAR","Morocco",2,"No diferenciado","40.1123074347818"
-2020,"MDA","Rep. of Moldova",1,"Diferenciado","70.5612079184502"
-2020,"MDA","Rep. of Moldova",2,"No diferenciado","29.4387920815497"
-2020,"MDG","Madagascar",1,"Diferenciado","55.8145284602418"
-2020,"MDG","Madagascar",2,"No diferenciado","44.1854715397582"
-2020,"MDV","Maldives",1,"Diferenciado","73.1705198530611"
-2020,"MDV","Maldives",2,"No diferenciado","26.8294801469388"
-2020,"MEX","Mexico",1,"Diferenciado","72.6593332593086"
-2020,"MEX","Mexico",2,"No diferenciado","27.3406667406915"
-2020,"MHL","Marshall Isds",1,"Diferenciado","91.9394179676068"
-2020,"MHL","Marshall Isds",2,"No diferenciado","8.06058203239325"
-2020,"MKD","North Macedonia",1,"Diferenciado","64.666809277829"
-2020,"MKD","North Macedonia",2,"No diferenciado","35.333190722171"
-2020,"MLI","Mali",1,"Diferenciado","55.8868350983853"
-2020,"MLI","Mali",2,"No diferenciado","44.1131649016148"
-2020,"MLT","Malta",1,"Diferenciado","66.9105161510578"
-2020,"MLT","Malta",2,"No diferenciado","33.0894838489422"
-2020,"MMR","Myanmar",1,"Diferenciado","61.4848373715976"
-2020,"MMR","Myanmar",2,"No diferenciado","38.5151626284024"
-2020,"MNE","Montenegro",1,"Diferenciado","69.9072794708472"
-2020,"MNE","Montenegro",2,"No diferenciado","30.0927205291527"
-2020,"MNG","Mongolia",1,"Diferenciado","65.1063197314543"
-2020,"MNG","Mongolia",2,"No diferenciado","34.8936802685457"
-2020,"MNP","N. Mariana Isds",1,"Diferenciado","26.8933944044807"
-2020,"MNP","N. Mariana Isds",2,"No diferenciado","73.1066055955194"
-2020,"MOZ","Mozambique",1,"Diferenciado","42.0442165320924"
-2020,"MOZ","Mozambique",2,"No diferenciado","57.9557834679075"
-2020,"MRT","Mauritania",1,"Diferenciado","63.8537454956467"
-2020,"MRT","Mauritania",2,"No diferenciado","36.1462545043532"
-2020,"MSR","Montserrat",1,"Diferenciado","61.5664581021559"
-2020,"MSR","Montserrat",2,"No diferenciado","38.4335418978442"
-2020,"MUS","Mauritius",1,"Diferenciado","54.0236135814562"
-2020,"MUS","Mauritius",2,"No diferenciado","45.9763864185438"
-2020,"MWI","Malawi",1,"Diferenciado","58.8603813478529"
-2020,"MWI","Malawi",2,"No diferenciado","41.1396186521471"
-2020,"MYS","Malaysia",1,"Diferenciado","61.0358926616304"
-2020,"MYS","Malaysia",2,"No diferenciado","38.9641073383695"
-2020,"NAM","Namibia",1,"Diferenciado","54.6701650521583"
-2020,"NAM","Namibia",2,"No diferenciado","45.3298349478417"
-2020,"NCL","New Caledonia",1,"Diferenciado","74.2084121413331"
-2020,"NCL","New Caledonia",2,"No diferenciado","25.791587858667"
-2020,"NER","Niger",1,"Diferenciado","68.82297939649"
-2020,"NER","Niger",2,"No diferenciado","31.17702060351"
-2020,"NFK","Norfolk Isds",1,"Diferenciado","10.5701219753732"
-2020,"NFK","Norfolk Isds",2,"No diferenciado","89.4298780246269"
-2020,"NGA","Nigeria",1,"Diferenciado","57.3616348522194"
-2020,"NGA","Nigeria",2,"No diferenciado","42.6383651477806"
-2020,"NIC","Nicaragua",1,"Diferenciado","70.2920128835597"
-2020,"NIC","Nicaragua",2,"No diferenciado","29.7079871164403"
-2020,"NIU","Niue",1,"Diferenciado","95.3184576653767"
-2020,"NIU","Niue",2,"No diferenciado","4.68154233462325"
-2020,"NLD","Netherlands",1,"Diferenciado","64.3031516686575"
-2020,"NLD","Netherlands",2,"No diferenciado","35.6968483313426"
-2020,"NOR","Norway",1,"Diferenciado","75.0184367064801"
-2020,"NOR","Norway",2,"No diferenciado","24.98156329352"
-2020,"NPL","Nepal",1,"Diferenciado","49.17913256863"
-2020,"NPL","Nepal",2,"No diferenciado","50.82086743137"
-2020,"NRU","Nauru",1,"Diferenciado","14.8602724834547"
-2020,"NRU","Nauru",2,"No diferenciado","85.1397275165453"
-2020,"NZL","New Zealand",1,"Diferenciado","71.90389137231"
-2020,"NZL","New Zealand",2,"No diferenciado","28.09610862769"
-2020,"OMN","Oman",1,"Diferenciado","62.1102754991599"
-2020,"OMN","Oman",2,"No diferenciado","37.8897245008401"
-2020,"PAK","Pakistan",1,"Diferenciado","41.6808459295339"
-2020,"PAK","Pakistan",2,"No diferenciado","58.319154070466"
-2020,"PAN","Panama",1,"Diferenciado","69.6796119624522"
-2020,"PAN","Panama",2,"No diferenciado","30.3203880375478"
-2020,"PCN","Pitcairn",1,"Diferenciado","73.0008140883092"
-2020,"PCN","Pitcairn",2,"No diferenciado","26.9991859116908"
-2020,"PER","Peru",1,"Diferenciado","61.2803248094242"
-2020,"PER","Peru",2,"No diferenciado","38.7196751905758"
-2020,"PHL","Philippines",1,"Diferenciado","68.7195423432746"
-2020,"PHL","Philippines",2,"No diferenciado","31.2804576567253"
-2020,"PLW","Palau",1,"Diferenciado","35.2974340513657"
-2020,"PLW","Palau",2,"No diferenciado","64.7025659486343"
-2020,"PNG","Papua New Guinea",1,"Diferenciado","64.908835964862"
-2020,"PNG","Papua New Guinea",2,"No diferenciado","35.0911640351381"
-2020,"POL","Poland",1,"Diferenciado","70.5576903257993"
-2020,"POL","Poland",2,"No diferenciado","29.4423096742007"
-2020,"PRK","Dem. People's Rep. of Korea",1,"Diferenciado","54.243556593342"
-2020,"PRK","Dem. People's Rep. of Korea",2,"No diferenciado","45.756443406658"
-2020,"PRT","Portugal",1,"Diferenciado","64.0302200631682"
-2020,"PRT","Portugal",2,"No diferenciado","35.9697799368318"
-2020,"PRY","Paraguay",1,"Diferenciado","71.2939200996732"
-2020,"PRY","Paraguay",2,"No diferenciado","28.7060799003268"
-2020,"PSE","State of Palestine",1,"Diferenciado","50.7150178848241"
-2020,"PSE","State of Palestine",2,"No diferenciado","49.2849821151759"
-2020,"PYF","French Polynesia",1,"Diferenciado","78.4936176969136"
-2020,"PYF","French Polynesia",2,"No diferenciado","21.5063823030865"
-2020,"QAT","Qatar",1,"Diferenciado","80.8528332046184"
-2020,"QAT","Qatar",2,"No diferenciado","19.1471667953816"
-2020,"ROU","Romania",1,"Diferenciado","72.2293075066087"
-2020,"ROU","Romania",2,"No diferenciado","27.7706924933913"
-2020,"RUS","Russian Federation",1,"Diferenciado","78.3903920445895"
-2020,"RUS","Russian Federation",2,"No diferenciado","21.6096079554105"
-2020,"RWA","Rwanda",1,"Diferenciado","47.44489912433"
-2020,"RWA","Rwanda",2,"No diferenciado","52.55510087567"
-2020,"SAU","Saudi Arabia",1,"Diferenciado","70.9974238484792"
-2020,"SAU","Saudi Arabia",2,"No diferenciado","29.0025761515208"
-2020,"SDN","Sudan",1,"Diferenciado","83.7306842999235"
-2020,"SDN","Sudan",2,"No diferenciado","16.2693157000766"
-2020,"SEN","Senegal",1,"Diferenciado","47.3752063656786"
-2020,"SEN","Senegal",2,"No diferenciado","52.6247936343215"
-2020,"SGP","Singapore",1,"Diferenciado","66.4210586263097"
-2020,"SGP","Singapore",2,"No diferenciado","33.5789413736902"
-2020,"SHN","Saint Helena",1,"Diferenciado","54.7965046333103"
-2020,"SHN","Saint Helena",2,"No diferenciado","45.2034953666897"
-2020,"SLB","Solomon Isds",1,"Diferenciado","37.9885042779279"
-2020,"SLB","Solomon Isds",2,"No diferenciado","62.0114957220722"
-2020,"SLE","Sierra Leone",1,"Diferenciado","75.3227685870505"
-2020,"SLE","Sierra Leone",2,"No diferenciado","24.6772314129495"
-2020,"SLV","El Salvador",1,"Diferenciado","61.6887193321358"
-2020,"SLV","El Salvador",2,"No diferenciado","38.3112806678642"
-2020,"SMR","San Marino",1,"Diferenciado","76.0735131992321"
-2020,"SMR","San Marino",2,"No diferenciado","23.9264868007679"
-2020,"SOM","Somalia",1,"Diferenciado","69.5059251784894"
-2020,"SOM","Somalia",2,"No diferenciado","30.4940748215106"
-2020,"SPM","Saint Pierre and Miquelon",1,"Diferenciado","81.1057640052735"
-2020,"SPM","Saint Pierre and Miquelon",2,"No diferenciado","18.8942359947265"
-2020,"SRB","Serbia",1,"Diferenciado","64.2626189046468"
-2020,"SRB","Serbia",2,"No diferenciado","35.7373810953531"
-2020,"SSD","South Sudan",1,"Diferenciado","56.1664558137494"
-2020,"SSD","South Sudan",2,"No diferenciado","43.8335441862505"
-2020,"STP","Sao Tome and Principe",1,"Diferenciado","88.2112611002421"
-2020,"STP","Sao Tome and Principe",2,"No diferenciado","11.7887388997579"
-2020,"SUR","Suriname",1,"Diferenciado","74.7679627614626"
-2020,"SUR","Suriname",2,"No diferenciado","25.2320372385374"
-2020,"SVK","Slovakia",1,"Diferenciado","77.2792601111221"
-2020,"SVK","Slovakia",2,"No diferenciado","22.7207398888779"
-2020,"SVN","Slovenia",1,"Diferenciado","70.1336290146227"
-2020,"SVN","Slovenia",2,"No diferenciado","29.8663709853773"
-2020,"SWE","Sweden",1,"Diferenciado","72.2096959636737"
-2020,"SWE","Sweden",2,"No diferenciado","27.7903040363263"
-2020,"SWZ","Eswatini",1,"Diferenciado","53.7216012746374"
-2020,"SWZ","Eswatini",2,"No diferenciado","46.2783987253626"
-2020,"SXM","Saint Maarten",1,"Diferenciado","85.912257096852"
-2020,"SXM","Saint Maarten",2,"No diferenciado","14.087742903148"
-2020,"SYC","Seychelles",1,"Diferenciado","80.0165021007443"
-2020,"SYC","Seychelles",2,"No diferenciado","19.9834978992557"
-2020,"SYR","Syria",1,"Diferenciado","55.9894550712819"
-2020,"SYR","Syria",2,"No diferenciado","44.0105449287181"
-2020,"TCA","Turks and Caicos Isds",1,"Diferenciado","66.5244896883878"
-2020,"TCA","Turks and Caicos Isds",2,"No diferenciado","33.4755103116121"
-2020,"TCD","Chad",1,"Diferenciado","86.1900272558526"
-2020,"TCD","Chad",2,"No diferenciado","13.8099727441474"
-2020,"TGO","Togo",1,"Diferenciado","38.7417433034196"
-2020,"TGO","Togo",2,"No diferenciado","61.2582566965804"
-2020,"THA","Thailand",1,"Diferenciado","57.303536836568"
-2020,"THA","Thailand",2,"No diferenciado","42.696463163432"
-2020,"TJK","Tajikistan",1,"Diferenciado","64.4578973047807"
-2020,"TJK","Tajikistan",2,"No diferenciado","35.5421026952194"
-2020,"TKL","Tokelau",1,"Diferenciado","97.9291016229621"
-2020,"TKL","Tokelau",2,"No diferenciado","2.07089837703793"
-2020,"TKM","Turkmenistan",1,"Diferenciado","80.7511447755333"
-2020,"TKM","Turkmenistan",2,"No diferenciado","19.2488552244667"
-2020,"TLS","Timor-Leste",1,"Diferenciado","51.0385233677753"
-2020,"TLS","Timor-Leste",2,"No diferenciado","48.9614766322247"
-2020,"TON","Tonga",1,"Diferenciado","43.3454383287211"
-2020,"TON","Tonga",2,"No diferenciado","56.6545616712789"
-2020,"TTO","Trinidad and Tobago",1,"Diferenciado","68.8956437067079"
-2020,"TTO","Trinidad and Tobago",2,"No diferenciado","31.1043562932921"
-2020,"TUN","Tunisia",1,"Diferenciado","61.5504433043394"
-2020,"TUN","Tunisia",2,"No diferenciado","38.4495566956606"
-2020,"TUR","Türkiye",1,"Diferenciado","47.001741113002"
-2020,"TUR","Türkiye",2,"No diferenciado","52.998258886998"
-2020,"TUV","Tuvalu",1,"Diferenciado","66.8245667872105"
-2020,"TUV","Tuvalu",2,"No diferenciado","33.1754332127895"
-2020,"TWN","Other Asia, nes",1,"Diferenciado","65.6917345950822"
-2020,"TWN","Other Asia, nes",2,"No diferenciado","34.3082654049177"
-2020,"TZA","United Rep. of Tanzania",1,"Diferenciado","48.2740263122539"
-2020,"TZA","United Rep. of Tanzania",2,"No diferenciado","51.7259736877462"
-2020,"UGA","Uganda",1,"Diferenciado","40.0110907882086"
-2020,"UGA","Uganda",2,"No diferenciado","59.9889092117914"
-2020,"UKR","Ukraine",1,"Diferenciado","64.5190018733212"
-2020,"UKR","Ukraine",2,"No diferenciado","35.4809981266789"
-2020,"URY","Uruguay",1,"Diferenciado","63.2492127486693"
-2020,"URY","Uruguay",2,"No diferenciado","36.7507872513307"
-2020,"USA","USA",1,"Diferenciado","78.2686519282197"
-2020,"USA","USA",2,"No diferenciado","21.7313480717802"
-2020,"UZB","Uzbekistan",1,"Diferenciado","67.2214603945078"
-2020,"UZB","Uzbekistan",2,"No diferenciado","32.7785396054921"
-2020,"VCT","Saint Vincent and the Grenadines",1,"Diferenciado","67.7179245182552"
-2020,"VCT","Saint Vincent and the Grenadines",2,"No diferenciado","32.2820754817448"
-2020,"VEN","Venezuela",1,"Diferenciado","59.0023087581635"
-2020,"VEN","Venezuela",2,"No diferenciado","40.9976912418365"
-2020,"VGB","Br. Virgin Isds",1,"Diferenciado","89.0351830312533"
-2020,"VGB","Br. Virgin Isds",2,"No diferenciado","10.9648169687467"
-2020,"VNM","Viet Nam",1,"Diferenciado","67.4358142040425"
-2020,"VNM","Viet Nam",2,"No diferenciado","32.5641857959575"
-2020,"VUT","Vanuatu",1,"Diferenciado","64.8164614281582"
-2020,"VUT","Vanuatu",2,"No diferenciado","35.1835385718417"
-2020,"WLF","Wallis and Futuna Isds",1,"Diferenciado","73.3878902781444"
-2020,"WLF","Wallis and Futuna Isds",2,"No diferenciado","26.6121097218556"
-2020,"WSM","Samoa",1,"Diferenciado","56.0089224780787"
-2020,"WSM","Samoa",2,"No diferenciado","43.9910775219213"
-2020,"YEM","Yemen",1,"Diferenciado","54.9577411201682"
-2020,"YEM","Yemen",2,"No diferenciado","45.0422588798317"
-2020,"ZAF","South Africa",1,"Diferenciado","59.5387019163268"
-2020,"ZAF","South Africa",2,"No diferenciado","40.4612980836732"
-2020,"ZMB","Zambia",1,"Diferenciado","57.200261397569"
-2020,"ZMB","Zambia",2,"No diferenciado","42.799738602431"
-2020,"ZWE","Zimbabwe",1,"Diferenciado","53.0545143115313"
-2020,"ZWE","Zimbabwe",2,"No diferenciado","46.9454856884687"
+geocodigoFundar,geonombreFundar,year,country_name_abbreviation,microd,microd_name,import_value_pc
+ABW,Aruba,2020,Aruba,1,Diferenciado,77.3214846803109
+ABW,Aruba,2020,Aruba,2,No diferenciado,22.6785153196891
+AFG,Afganistán,2020,Afghanistan,1,Diferenciado,60.1600925883472
+AFG,Afganistán,2020,Afghanistan,2,No diferenciado,39.8399074116528
+AGO,Angola,2020,Angola,1,Diferenciado,64.9009429492753
+AGO,Angola,2020,Angola,2,No diferenciado,35.0990570507248
+AIA,Anguila,2020,Anguilla,1,Diferenciado,44.6459757569006
+AIA,Anguila,2020,Anguilla,2,No diferenciado,55.3540242430994
+ALB,Albania,2020,Albania,1,Diferenciado,69.5979705540942
+ALB,Albania,2020,Albania,2,No diferenciado,30.4020294459058
+AND,Andorra,2020,Andorra,1,Diferenciado,85.225017693936
+AND,Andorra,2020,Andorra,2,No diferenciado,14.774982306064
+ARE,Emiratos Árabes Unidos,2020,United Arab Emirates,1,Diferenciado,57.2207107420595
+ARE,Emiratos Árabes Unidos,2020,United Arab Emirates,2,No diferenciado,42.7792892579405
+ARG,Argentina,2020,Argentina,1,Diferenciado,66.5803039087331
+ARG,Argentina,2020,Argentina,2,No diferenciado,33.4196960912669
+ARM,Armenia,2020,Armenia,1,Diferenciado,59.8319850267101
+ARM,Armenia,2020,Armenia,2,No diferenciado,40.16801497329
+ASM,Samoa Americana,2020,American Samoa,1,Diferenciado,29.4997497874822
+ASM,Samoa Americana,2020,American Samoa,2,No diferenciado,70.5002502125178
+ATF,Tierras Australes Francesas,2020,Fr. South Antarctic Terr.,1,Diferenciado,92.9449534581868
+ATF,Tierras Australes Francesas,2020,Fr. South Antarctic Terr.,2,No diferenciado,7.05504654181321
+ATG,Antigua y Barbuda,2020,Antigua and Barbuda,1,Diferenciado,76.6763171734115
+ATG,Antigua y Barbuda,2020,Antigua and Barbuda,2,No diferenciado,23.3236828265884
+AUS,Australia,2020,Australia,1,Diferenciado,74.8392139822424
+AUS,Australia,2020,Australia,2,No diferenciado,25.1607860177576
+AUT,Austria,2020,Austria,1,Diferenciado,73.9053716278196
+AUT,Austria,2020,Austria,2,No diferenciado,26.0946283721803
+AZE,Azerbaiyán,2020,Azerbaijan,1,Diferenciado,76.4934663319825
+AZE,Azerbaiyán,2020,Azerbaijan,2,No diferenciado,23.5065336680175
+BDI,Burundi,2020,Burundi,1,Diferenciado,57.6654480489409
+BDI,Burundi,2020,Burundi,2,No diferenciado,42.3345519510591
+BEL,Bélgica,2020,Belgium,1,Diferenciado,61.3747085321763
+BEL,Bélgica,2020,Belgium,2,No diferenciado,38.6252914678237
+BEN,Benin,2020,Benin,1,Diferenciado,48.9879248880307
+BEN,Benin,2020,Benin,2,No diferenciado,51.0120751119693
+BES,Bonaire,2020,Bonaire,1,Diferenciado,97.6277377633653
+BES,Bonaire,2020,Bonaire,2,No diferenciado,2.37226223663463
+BFA,Burkina Faso,2020,Burkina Faso,1,Diferenciado,55.3354473689608
+BFA,Burkina Faso,2020,Burkina Faso,2,No diferenciado,44.6645526310391
+BGD,Bangladesh,2020,Bangladesh,1,Diferenciado,41.6855964624098
+BGD,Bangladesh,2020,Bangladesh,2,No diferenciado,58.3144035375902
+BGR,Bulgaria,2020,Bulgaria,1,Diferenciado,57.2102837163639
+BGR,Bulgaria,2020,Bulgaria,2,No diferenciado,42.7897162836361
+BHR,Bahrein,2020,Bahrain,1,Diferenciado,58.451598975137
+BHR,Bahrein,2020,Bahrain,2,No diferenciado,41.548401024863
+BHS,Bahamas,2020,Bahamas,1,Diferenciado,54.8417684320525
+BHS,Bahamas,2020,Bahamas,2,No diferenciado,45.1582315679475
+BIH,Bosnia y Herzegovina,2020,Bosnia Herzegovina,1,Diferenciado,61.7230382546705
+BIH,Bosnia y Herzegovina,2020,Bosnia Herzegovina,2,No diferenciado,38.2769617453295
+BLM,San Barthélemy,2020,Saint Barthélemy,1,Diferenciado,97.2013553444604
+BLM,San Barthélemy,2020,Saint Barthélemy,2,No diferenciado,2.79864465553963
+BLR,Belarús,2020,Belarus,1,Diferenciado,57.5200722917077
+BLR,Belarús,2020,Belarus,2,No diferenciado,42.4799277082924
+BLZ,Belice,2020,Belize,1,Diferenciado,74.1199147141799
+BLZ,Belice,2020,Belize,2,No diferenciado,25.88008528582
+BMU,Bermuda,2020,Bermuda,1,Diferenciado,87.105148300403
+BMU,Bermuda,2020,Bermuda,2,No diferenciado,12.894851699597
+BOL,Bolivia,2020,Bolivia (Plurinational State of),1,Diferenciado,72.8285778744008
+BOL,Bolivia,2020,Bolivia (Plurinational State of),2,No diferenciado,27.1714221255991
+BRA,Brasil,2020,Brazil,1,Diferenciado,61.5092435941691
+BRA,Brasil,2020,Brazil,2,No diferenciado,38.4907564058309
+BRB,Barbados,2020,Barbados,1,Diferenciado,65.8193339829173
+BRB,Barbados,2020,Barbados,2,No diferenciado,34.1806660170827
+BRN,Brunei,2020,Brunei Darussalam,1,Diferenciado,44.4832922943449
+BRN,Brunei,2020,Brunei Darussalam,2,No diferenciado,55.5167077056552
+BTN,Bhután,2020,Bhutan,1,Diferenciado,49.3357541355007
+BTN,Bhután,2020,Bhutan,2,No diferenciado,50.6642458644993
+BWA,Botswana,2020,Botswana,1,Diferenciado,42.9399575171265
+BWA,Botswana,2020,Botswana,2,No diferenciado,57.0600424828735
+CAF,Rep. Centroafricana,2020,Central African Rep.,1,Diferenciado,67.7385477595079
+CAF,Rep. Centroafricana,2020,Central African Rep.,2,No diferenciado,32.261452240492
+CAN,Canadá,2020,Canada,1,Diferenciado,73.2825559103539
+CAN,Canadá,2020,Canada,2,No diferenciado,26.7174440896461
+CCK,Islas Cocos,2020,Cocos Isds,1,Diferenciado,79.145955480779
+CCK,Islas Cocos,2020,Cocos Isds,2,No diferenciado,20.854044519221
+CHE,Suiza,2020,Switzerland,1,Diferenciado,53.3332993018503
+CHE,Suiza,2020,Switzerland,2,No diferenciado,46.6667006981497
+CHL,Chile,2020,Chile,1,Diferenciado,70.2328857810641
+CHL,Chile,2020,Chile,2,No diferenciado,29.7671142189359
+CHN,China,2020,China,1,Diferenciado,47.8305955634729
+CHN,China,2020,China,2,No diferenciado,52.1694044365271
+CIV,Costa de Marfil,2020,Côte d'Ivoire,1,Diferenciado,48.3728723770811
+CIV,Costa de Marfil,2020,Côte d'Ivoire,2,No diferenciado,51.627127622919
+CMR,Camerún,2020,Cameroon,1,Diferenciado,56.7932767672681
+CMR,Camerún,2020,Cameroon,2,No diferenciado,43.2067232327319
+COD,Rep. Dem. Congo,2020,Dem. Rep. of the Congo,1,Diferenciado,70.1586628889679
+COD,Rep. Dem. Congo,2020,Dem. Rep. of the Congo,2,No diferenciado,29.8413371110321
+COG,Congo,2020,Congo,1,Diferenciado,73.7903446432066
+COG,Congo,2020,Congo,2,No diferenciado,26.2096553567934
+COK,Islas Cook,2020,Cook Isds,1,Diferenciado,83.7934958098336
+COK,Islas Cook,2020,Cook Isds,2,No diferenciado,16.2065041901664
+COL,Colombia,2020,Colombia,1,Diferenciado,63.8135087155718
+COL,Colombia,2020,Colombia,2,No diferenciado,36.1864912844282
+COM,Comoras,2020,Comoros,1,Diferenciado,48.3079678030778
+COM,Comoras,2020,Comoros,2,No diferenciado,51.6920321969222
+CPV,Cabo Verde,2020,Cabo Verde,1,Diferenciado,34.2212811414233
+CPV,Cabo Verde,2020,Cabo Verde,2,No diferenciado,65.7787188585766
+CRI,Costa Rica,2020,Costa Rica,1,Diferenciado,68.0703428462196
+CRI,Costa Rica,2020,Costa Rica,2,No diferenciado,31.9296571537805
+CUB,Cuba,2020,Cuba,1,Diferenciado,86.1867255356642
+CUB,Cuba,2020,Cuba,2,No diferenciado,13.8132744643358
+CUW,Curazao,2020,Curaçao,1,Diferenciado,70.6257792620262
+CUW,Curazao,2020,Curaçao,2,No diferenciado,29.3742207379738
+CXR,Isla Christmas,2020,Christmas Isds,1,Diferenciado,23.7909070822882
+CXR,Isla Christmas,2020,Christmas Isds,2,No diferenciado,76.2090929177117
+CYM,Islas Caimán,2020,Cayman Isds,1,Diferenciado,95.5516658362546
+CYM,Islas Caimán,2020,Cayman Isds,2,No diferenciado,4.44833416374543
+CYP,Chipre,2020,Cyprus,1,Diferenciado,69.9202623354452
+CYP,Chipre,2020,Cyprus,2,No diferenciado,30.0797376645548
+CZE,Chequia,2020,Czechia,1,Diferenciado,79.29320787476
+CZE,Chequia,2020,Czechia,2,No diferenciado,20.7067921252401
+DEU,Alemania,2020,Germany,1,Diferenciado,73.3747288677715
+DEU,Alemania,2020,Germany,2,No diferenciado,26.6252711322286
+DJI,Djibouti,2020,Djibouti,1,Diferenciado,65.3176747649326
+DJI,Djibouti,2020,Djibouti,2,No diferenciado,34.6823252350674
+DMA,Dominica,2020,Dominica,1,Diferenciado,74.0357092022367
+DMA,Dominica,2020,Dominica,2,No diferenciado,25.9642907977634
+DNK,Dinamarca,2020,Denmark,1,Diferenciado,72.8821629368001
+DNK,Dinamarca,2020,Denmark,2,No diferenciado,27.1178370631999
+DOM,Rep. Dominicana,2020,Dominican Rep.,1,Diferenciado,59.478034338849
+DOM,Rep. Dominicana,2020,Dominican Rep.,2,No diferenciado,40.521965661151
+DZA,Argelia,2020,Algeria,1,Diferenciado,57.8664788727935
+DZA,Argelia,2020,Algeria,2,No diferenciado,42.1335211272064
+ECU,Ecuador,2020,Ecuador,1,Diferenciado,60.9123981842354
+ECU,Ecuador,2020,Ecuador,2,No diferenciado,39.0876018157646
+EGY,Egipto,2020,Egypt,1,Diferenciado,47.274866997907
+EGY,Egipto,2020,Egypt,2,No diferenciado,52.7251330020931
+ERI,Eritrea,2020,Eritrea,1,Diferenciado,75.1399495781721
+ERI,Eritrea,2020,Eritrea,2,No diferenciado,24.8600504218279
+ESP,España,2020,Spain,1,Diferenciado,65.5624169379653
+ESP,España,2020,Spain,2,No diferenciado,34.4375830620347
+EST,Estonia,2020,Estonia,1,Diferenciado,62.7180648730635
+EST,Estonia,2020,Estonia,2,No diferenciado,37.2819351269365
+ETH,Etiopía,2020,Ethiopia,1,Diferenciado,61.5547991452862
+ETH,Etiopía,2020,Ethiopia,2,No diferenciado,38.4452008547137
+FIN,Finlandia,2020,Finland,1,Diferenciado,65.1087700462151
+FIN,Finlandia,2020,Finland,2,No diferenciado,34.8912299537849
+FJI,Fiji,2020,Fiji,1,Diferenciado,54.2206633704647
+FJI,Fiji,2020,Fiji,2,No diferenciado,45.7793366295353
+FLK,Islas Malvinas,2020,Falkland Isds (Malvinas),1,Diferenciado,41.4550361581618
+FLK,Islas Malvinas,2020,Falkland Isds (Malvinas),2,No diferenciado,58.5449638418382
+FRA,Francia,2020,France,1,Diferenciado,73.4199831346984
+FRA,Francia,2020,France,2,No diferenciado,26.5800168653015
+FSM,Micronesia,2020,FS Micronesia,1,Diferenciado,72.2644620376028
+FSM,Micronesia,2020,FS Micronesia,2,No diferenciado,27.7355379623972
+GAB,Gabón,2020,Gabon,1,Diferenciado,81.8566233692695
+GAB,Gabón,2020,Gabon,2,No diferenciado,18.1433766307306
+GBR,Reino Unido,2020,United Kingdom,1,Diferenciado,64.6615232544389
+GBR,Reino Unido,2020,United Kingdom,2,No diferenciado,35.338476745561
+GEO,Georgia,2020,Georgia,1,Diferenciado,64.6830045986016
+GEO,Georgia,2020,Georgia,2,No diferenciado,35.3169954013984
+GHA,Ghana,2020,Ghana,1,Diferenciado,67.4910414328957
+GHA,Ghana,2020,Ghana,2,No diferenciado,32.5089585671043
+GIB,Gibraltar,2020,Gibraltar,1,Diferenciado,15.2552705514201
+GIB,Gibraltar,2020,Gibraltar,2,No diferenciado,84.7447294485799
+GIN,Guinea,2020,Guinea,1,Diferenciado,73.3052749887002
+GIN,Guinea,2020,Guinea,2,No diferenciado,26.6947250112998
+GMB,Gambia,2020,Gambia,1,Diferenciado,43.7788252343858
+GMB,Gambia,2020,Gambia,2,No diferenciado,56.2211747656142
+GNB,Guinea-Bissau,2020,Guinea-Bissau,1,Diferenciado,44.3524200064416
+GNB,Guinea-Bissau,2020,Guinea-Bissau,2,No diferenciado,55.6475799935584
+GNQ,Guinea Ecuatorial,2020,Equatorial Guinea,1,Diferenciado,77.4338895515965
+GNQ,Guinea Ecuatorial,2020,Equatorial Guinea,2,No diferenciado,22.5661104484035
+GRC,Grecia,2020,Greece,1,Diferenciado,53.8421601746655
+GRC,Grecia,2020,Greece,2,No diferenciado,46.1578398253345
+GRD,Granada,2020,Grenada,1,Diferenciado,65.1071549636003
+GRD,Granada,2020,Grenada,2,No diferenciado,34.8928450363997
+GRL,Groenlandia,2020,Greenland,1,Diferenciado,71.1342327549282
+GRL,Groenlandia,2020,Greenland,2,No diferenciado,28.8657672450718
+GTM,Guatemala,2020,Guatemala,1,Diferenciado,57.62260268271
+GTM,Guatemala,2020,Guatemala,2,No diferenciado,42.37739731729
+GUM,Guam,2020,Guam,1,Diferenciado,32.0151192451752
+GUM,Guam,2020,Guam,2,No diferenciado,67.9848807548249
+GUY,Guyana,2020,Guyana,1,Diferenciado,56.9757328463307
+GUY,Guyana,2020,Guyana,2,No diferenciado,43.0242671536693
+HKG,Hong Kong,2020,"China, Hong Kong SAR",1,Diferenciado,84.8669982028991
+HKG,Hong Kong,2020,"China, Hong Kong SAR",2,No diferenciado,15.1330017971009
+HND,Honduras,2020,Honduras,1,Diferenciado,56.5288293456812
+HND,Honduras,2020,Honduras,2,No diferenciado,43.4711706543188
+HRV,Croacia,2020,Croatia,1,Diferenciado,65.8506860591888
+HRV,Croacia,2020,Croatia,2,No diferenciado,34.1493139408112
+HTI,Haití,2020,Haiti,1,Diferenciado,54.454741978213
+HTI,Haití,2020,Haiti,2,No diferenciado,45.545258021787
+HUN,Hungría,2020,Hungary,1,Diferenciado,77.8291591370581
+HUN,Hungría,2020,Hungary,2,No diferenciado,22.1708408629419
+IDN,Indonesia,2020,Indonesia,1,Diferenciado,53.8055720842946
+IDN,Indonesia,2020,Indonesia,2,No diferenciado,46.1944279157053
+IND,India,2020,India,1,Diferenciado,35.2183670066236
+IND,India,2020,India,2,No diferenciado,64.7816329933764
+IOT,Territorio Británico del Océano Índico,2020,Br. Indian Ocean Terr.,1,Diferenciado,42.4111751234619
+IOT,Territorio Británico del Océano Índico,2020,Br. Indian Ocean Terr.,2,No diferenciado,57.5888248765381
+IRL,Irlanda,2020,Ireland,1,Diferenciado,75.718832616519
+IRL,Irlanda,2020,Ireland,2,No diferenciado,24.281167383481
+IRN,Irán,2020,Iran,1,Diferenciado,53.0053817768745
+IRN,Irán,2020,Iran,2,No diferenciado,46.9946182231255
+IRQ,Iraq,2020,Iraq,1,Diferenciado,74.939862633357
+IRQ,Iraq,2020,Iraq,2,No diferenciado,25.060137366643
+ISL,Islandia,2020,Iceland,1,Diferenciado,78.5021920149717
+ISL,Islandia,2020,Iceland,2,No diferenciado,21.4978079850283
+ISR,Israel,2020,Israel,1,Diferenciado,72.1319760891617
+ISR,Israel,2020,Israel,2,No diferenciado,27.8680239108383
+ITA,Italia,2020,Italy,1,Diferenciado,60.4931050700229
+ITA,Italia,2020,Italy,2,No diferenciado,39.5068949299771
+JAM,Jamaica,2020,Jamaica,1,Diferenciado,57.7530397053215
+JAM,Jamaica,2020,Jamaica,2,No diferenciado,42.2469602946785
+JOR,Jordania,2020,Jordan,1,Diferenciado,62.103277497684
+JOR,Jordania,2020,Jordan,2,No diferenciado,37.896722502316
+JPN,Japón,2020,Japan,1,Diferenciado,60.606382955406
+JPN,Japón,2020,Japan,2,No diferenciado,39.3936170445939
+KAZ,Kazajstán,2020,Kazakhstan,1,Diferenciado,76.8889126436984
+KAZ,Kazajstán,2020,Kazakhstan,2,No diferenciado,23.1110873563016
+KEN,Kenia,2020,Kenya,1,Diferenciado,52.1360334411998
+KEN,Kenia,2020,Kenya,2,No diferenciado,47.8639665588002
+KGZ,Kirguistán,2020,Kyrgyzstan,1,Diferenciado,72.8015736616311
+KGZ,Kirguistán,2020,Kyrgyzstan,2,No diferenciado,27.1984263383689
+KHM,Camboya,2020,Cambodia,1,Diferenciado,61.1276489699544
+KHM,Camboya,2020,Cambodia,2,No diferenciado,38.8723510300455
+KIR,Kiribati,2020,Kiribati,1,Diferenciado,42.5583998759162
+KIR,Kiribati,2020,Kiribati,2,No diferenciado,57.4416001240837
+KNA,Saint Kitts y Nevis,2020,Saint Kitts and Nevis,1,Diferenciado,72.4245261567342
+KNA,Saint Kitts y Nevis,2020,Saint Kitts and Nevis,2,No diferenciado,27.5754738432658
+KOR,Corea del Sur,2020,Rep. of Korea,1,Diferenciado,57.9315251442455
+KOR,Corea del Sur,2020,Rep. of Korea,2,No diferenciado,42.0684748557545
+KWT,Kuwait,2020,Kuwait,1,Diferenciado,75.8015965637037
+KWT,Kuwait,2020,Kuwait,2,No diferenciado,24.1984034362964
+LAO,Laos,2020,Lao People's Dem. Rep.,1,Diferenciado,57.9806010704397
+LAO,Laos,2020,Lao People's Dem. Rep.,2,No diferenciado,42.0193989295602
+LBN,Líbano,2020,Lebanon,1,Diferenciado,44.123577515117
+LBN,Líbano,2020,Lebanon,2,No diferenciado,55.876422484883
+LBR,Liberia,2020,Liberia,1,Diferenciado,80.5392366854271
+LBR,Liberia,2020,Liberia,2,No diferenciado,19.460763314573
+LBY,Libia,2020,Libya,1,Diferenciado,64.2069094868289
+LBY,Libia,2020,Libya,2,No diferenciado,35.7930905131711
+LCA,Santa Lucía,2020,Saint Lucia,1,Diferenciado,58.9683856517118
+LCA,Santa Lucía,2020,Saint Lucia,2,No diferenciado,41.0316143482883
+LKA,Sri Lanka,2020,Sri Lanka,1,Diferenciado,49.2446323295705
+LKA,Sri Lanka,2020,Sri Lanka,2,No diferenciado,50.7553676704295
+LSO,Lesotho,2020,Lesotho,1,Diferenciado,63.4753215219318
+LSO,Lesotho,2020,Lesotho,2,No diferenciado,36.5246784780682
+LTU,Lituania,2020,Lithuania,1,Diferenciado,61.8909633555123
+LTU,Lituania,2020,Lithuania,2,No diferenciado,38.1090366444877
+LUX,Luxemburgo,2020,Luxembourg,1,Diferenciado,67.8777293156582
+LUX,Luxemburgo,2020,Luxembourg,2,No diferenciado,32.1222706843417
+LVA,Letonia,2020,Latvia,1,Diferenciado,65.3037458258051
+LVA,Letonia,2020,Latvia,2,No diferenciado,34.6962541741949
+MAC,Macao,2020,"China, Macao SAR",1,Diferenciado,85.3091164816046
+MAC,Macao,2020,"China, Macao SAR",2,No diferenciado,14.6908835183954
+MAR,Marruecos,2020,Morocco,1,Diferenciado,59.8876925652181
+MAR,Marruecos,2020,Morocco,2,No diferenciado,40.1123074347818
+MDA,Moldavia,2020,Rep. of Moldova,1,Diferenciado,70.5612079184502
+MDA,Moldavia,2020,Rep. of Moldova,2,No diferenciado,29.4387920815497
+MDG,Madagascar,2020,Madagascar,1,Diferenciado,55.8145284602418
+MDG,Madagascar,2020,Madagascar,2,No diferenciado,44.1854715397582
+MDV,Maldivas,2020,Maldives,1,Diferenciado,73.1705198530611
+MDV,Maldivas,2020,Maldives,2,No diferenciado,26.8294801469388
+MEX,México,2020,Mexico,1,Diferenciado,72.6593332593086
+MEX,México,2020,Mexico,2,No diferenciado,27.3406667406915
+MHL,Islas Marshall,2020,Marshall Isds,1,Diferenciado,91.9394179676068
+MHL,Islas Marshall,2020,Marshall Isds,2,No diferenciado,8.06058203239325
+MKD,Macedonia del Norte,2020,North Macedonia,1,Diferenciado,64.666809277829
+MKD,Macedonia del Norte,2020,North Macedonia,2,No diferenciado,35.333190722171
+MLI,Malí,2020,Mali,1,Diferenciado,55.8868350983853
+MLI,Malí,2020,Mali,2,No diferenciado,44.1131649016148
+MLT,Malta,2020,Malta,1,Diferenciado,66.9105161510578
+MLT,Malta,2020,Malta,2,No diferenciado,33.0894838489422
+MMR,Myanmar,2020,Myanmar,1,Diferenciado,61.4848373715976
+MMR,Myanmar,2020,Myanmar,2,No diferenciado,38.5151626284024
+MNE,Montenegro,2020,Montenegro,1,Diferenciado,69.9072794708472
+MNE,Montenegro,2020,Montenegro,2,No diferenciado,30.0927205291527
+MNG,Mongolia,2020,Mongolia,1,Diferenciado,65.1063197314543
+MNG,Mongolia,2020,Mongolia,2,No diferenciado,34.8936802685457
+MNP,Islas Marianas,2020,N. Mariana Isds,1,Diferenciado,26.8933944044807
+MNP,Islas Marianas,2020,N. Mariana Isds,2,No diferenciado,73.1066055955194
+MOZ,Mozambique,2020,Mozambique,1,Diferenciado,42.0442165320924
+MOZ,Mozambique,2020,Mozambique,2,No diferenciado,57.9557834679075
+MRT,Mauritania,2020,Mauritania,1,Diferenciado,63.8537454956467
+MRT,Mauritania,2020,Mauritania,2,No diferenciado,36.1462545043532
+MSR,Montserrat,2020,Montserrat,1,Diferenciado,61.5664581021559
+MSR,Montserrat,2020,Montserrat,2,No diferenciado,38.4335418978442
+MUS,Mauricio,2020,Mauritius,1,Diferenciado,54.0236135814562
+MUS,Mauricio,2020,Mauritius,2,No diferenciado,45.9763864185438
+MWI,Malawi,2020,Malawi,1,Diferenciado,58.8603813478529
+MWI,Malawi,2020,Malawi,2,No diferenciado,41.1396186521471
+MYS,Malasia,2020,Malaysia,1,Diferenciado,61.0358926616304
+MYS,Malasia,2020,Malaysia,2,No diferenciado,38.9641073383695
+NAM,Namibia,2020,Namibia,1,Diferenciado,54.6701650521583
+NAM,Namibia,2020,Namibia,2,No diferenciado,45.3298349478417
+NCL,Nueva Caledonia,2020,New Caledonia,1,Diferenciado,74.2084121413331
+NCL,Nueva Caledonia,2020,New Caledonia,2,No diferenciado,25.791587858667
+NER,Níger,2020,Niger,1,Diferenciado,68.82297939649
+NER,Níger,2020,Niger,2,No diferenciado,31.17702060351
+NFK,Isla Norfolk,2020,Norfolk Isds,1,Diferenciado,10.5701219753732
+NFK,Isla Norfolk,2020,Norfolk Isds,2,No diferenciado,89.4298780246269
+NGA,Nigeria,2020,Nigeria,1,Diferenciado,57.3616348522194
+NGA,Nigeria,2020,Nigeria,2,No diferenciado,42.6383651477806
+NIC,Nicaragua,2020,Nicaragua,1,Diferenciado,70.2920128835597
+NIC,Nicaragua,2020,Nicaragua,2,No diferenciado,29.7079871164403
+NIU,Niue,2020,Niue,1,Diferenciado,95.3184576653767
+NIU,Niue,2020,Niue,2,No diferenciado,4.68154233462325
+NLD,Países Bajos,2020,Netherlands,1,Diferenciado,64.3031516686575
+NLD,Países Bajos,2020,Netherlands,2,No diferenciado,35.6968483313426
+NOR,Noruega,2020,Norway,1,Diferenciado,75.0184367064801
+NOR,Noruega,2020,Norway,2,No diferenciado,24.98156329352
+NPL,Nepal,2020,Nepal,1,Diferenciado,49.17913256863
+NPL,Nepal,2020,Nepal,2,No diferenciado,50.82086743137
+NRU,Nauru,2020,Nauru,1,Diferenciado,14.8602724834547
+NRU,Nauru,2020,Nauru,2,No diferenciado,85.1397275165453
+NZL,Nueva Zelanda,2020,New Zealand,1,Diferenciado,71.90389137231
+NZL,Nueva Zelanda,2020,New Zealand,2,No diferenciado,28.09610862769
+OMN,Omán,2020,Oman,1,Diferenciado,62.1102754991599
+OMN,Omán,2020,Oman,2,No diferenciado,37.8897245008401
+PAK,Pakistán,2020,Pakistan,1,Diferenciado,41.6808459295339
+PAK,Pakistán,2020,Pakistan,2,No diferenciado,58.319154070466
+PAN,Panamá,2020,Panama,1,Diferenciado,69.6796119624522
+PAN,Panamá,2020,Panama,2,No diferenciado,30.3203880375478
+PCN,Pitcairn,2020,Pitcairn,1,Diferenciado,73.0008140883092
+PCN,Pitcairn,2020,Pitcairn,2,No diferenciado,26.9991859116908
+PER,Perú,2020,Peru,1,Diferenciado,61.2803248094242
+PER,Perú,2020,Peru,2,No diferenciado,38.7196751905758
+PHL,Filipinas,2020,Philippines,1,Diferenciado,68.7195423432746
+PHL,Filipinas,2020,Philippines,2,No diferenciado,31.2804576567253
+PLW,Palau,2020,Palau,1,Diferenciado,35.2974340513657
+PLW,Palau,2020,Palau,2,No diferenciado,64.7025659486343
+PNG,Papúa Nueva Guinea,2020,Papua New Guinea,1,Diferenciado,64.908835964862
+PNG,Papúa Nueva Guinea,2020,Papua New Guinea,2,No diferenciado,35.0911640351381
+POL,Polonia,2020,Poland,1,Diferenciado,70.5576903257993
+POL,Polonia,2020,Poland,2,No diferenciado,29.4423096742007
+PRK,Corea del Norte,2020,Dem. People's Rep. of Korea,1,Diferenciado,54.243556593342
+PRK,Corea del Norte,2020,Dem. People's Rep. of Korea,2,No diferenciado,45.756443406658
+PRT,Portugal,2020,Portugal,1,Diferenciado,64.0302200631682
+PRT,Portugal,2020,Portugal,2,No diferenciado,35.9697799368318
+PRY,Paraguay,2020,Paraguay,1,Diferenciado,71.2939200996732
+PRY,Paraguay,2020,Paraguay,2,No diferenciado,28.7060799003268
+PSE,Palestina,2020,State of Palestine,1,Diferenciado,50.7150178848241
+PSE,Palestina,2020,State of Palestine,2,No diferenciado,49.2849821151759
+PYF,Polinesia Francesa,2020,French Polynesia,1,Diferenciado,78.4936176969136
+PYF,Polinesia Francesa,2020,French Polynesia,2,No diferenciado,21.5063823030865
+QAT,Qatar,2020,Qatar,1,Diferenciado,80.8528332046184
+QAT,Qatar,2020,Qatar,2,No diferenciado,19.1471667953816
+ROU,Rumania,2020,Romania,1,Diferenciado,72.2293075066087
+ROU,Rumania,2020,Romania,2,No diferenciado,27.7706924933913
+RUS,Rusia,2020,Russian Federation,1,Diferenciado,78.3903920445895
+RUS,Rusia,2020,Russian Federation,2,No diferenciado,21.6096079554105
+RWA,Ruanda,2020,Rwanda,1,Diferenciado,47.44489912433
+RWA,Ruanda,2020,Rwanda,2,No diferenciado,52.55510087567
+SAU,Arabia Saudita,2020,Saudi Arabia,1,Diferenciado,70.9974238484792
+SAU,Arabia Saudita,2020,Saudi Arabia,2,No diferenciado,29.0025761515208
+SDN,Sudán,2020,Sudan,1,Diferenciado,83.7306842999235
+SDN,Sudán,2020,Sudan,2,No diferenciado,16.2693157000766
+SEN,Senegal,2020,Senegal,1,Diferenciado,47.3752063656786
+SEN,Senegal,2020,Senegal,2,No diferenciado,52.6247936343215
+SGP,Singapur,2020,Singapore,1,Diferenciado,66.4210586263097
+SGP,Singapur,2020,Singapore,2,No diferenciado,33.5789413736902
+SHN,Santa Elena,2020,Saint Helena,1,Diferenciado,54.7965046333103
+SHN,Santa Elena,2020,Saint Helena,2,No diferenciado,45.2034953666897
+SLB,Islas Salomón,2020,Solomon Isds,1,Diferenciado,37.9885042779279
+SLB,Islas Salomón,2020,Solomon Isds,2,No diferenciado,62.0114957220722
+SLE,Sierra Leona,2020,Sierra Leone,1,Diferenciado,75.3227685870505
+SLE,Sierra Leona,2020,Sierra Leone,2,No diferenciado,24.6772314129495
+SLV,El Salvador,2020,El Salvador,1,Diferenciado,61.6887193321358
+SLV,El Salvador,2020,El Salvador,2,No diferenciado,38.3112806678642
+SMR,San Marino,2020,San Marino,1,Diferenciado,76.0735131992321
+SMR,San Marino,2020,San Marino,2,No diferenciado,23.9264868007679
+SOM,Somalia,2020,Somalia,1,Diferenciado,69.5059251784894
+SOM,Somalia,2020,Somalia,2,No diferenciado,30.4940748215106
+SPM,San Pedro y Miquelón,2020,Saint Pierre and Miquelon,1,Diferenciado,81.1057640052735
+SPM,San Pedro y Miquelón,2020,Saint Pierre and Miquelon,2,No diferenciado,18.8942359947265
+SRB,Serbia,2020,Serbia,1,Diferenciado,64.2626189046468
+SRB,Serbia,2020,Serbia,2,No diferenciado,35.7373810953531
+SSD,Sudán del Sur,2020,South Sudan,1,Diferenciado,56.1664558137494
+SSD,Sudán del Sur,2020,South Sudan,2,No diferenciado,43.8335441862505
+STP,Santo Tomé y Príncipe,2020,Sao Tome and Principe,1,Diferenciado,88.2112611002421
+STP,Santo Tomé y Príncipe,2020,Sao Tome and Principe,2,No diferenciado,11.7887388997579
+SUR,Suriname,2020,Suriname,1,Diferenciado,74.7679627614626
+SUR,Suriname,2020,Suriname,2,No diferenciado,25.2320372385374
+SVK,Eslovaquia,2020,Slovakia,1,Diferenciado,77.2792601111221
+SVK,Eslovaquia,2020,Slovakia,2,No diferenciado,22.7207398888779
+SVN,Eslovenia,2020,Slovenia,1,Diferenciado,70.1336290146227
+SVN,Eslovenia,2020,Slovenia,2,No diferenciado,29.8663709853773
+SWE,Suecia,2020,Sweden,1,Diferenciado,72.2096959636737
+SWE,Suecia,2020,Sweden,2,No diferenciado,27.7903040363263
+SWZ,Eswatini,2020,Eswatini,1,Diferenciado,53.7216012746374
+SWZ,Eswatini,2020,Eswatini,2,No diferenciado,46.2783987253626
+SXM,San Martín (parte holandesa),2020,Saint Maarten,1,Diferenciado,85.912257096852
+SXM,San Martín (parte holandesa),2020,Saint Maarten,2,No diferenciado,14.087742903148
+SYC,Seychelles,2020,Seychelles,1,Diferenciado,80.0165021007443
+SYC,Seychelles,2020,Seychelles,2,No diferenciado,19.9834978992557
+SYR,Siria,2020,Syria,1,Diferenciado,55.9894550712819
+SYR,Siria,2020,Syria,2,No diferenciado,44.0105449287181
+TCA,Islas Turcas y Caicos,2020,Turks and Caicos Isds,1,Diferenciado,66.5244896883878
+TCA,Islas Turcas y Caicos,2020,Turks and Caicos Isds,2,No diferenciado,33.4755103116121
+TCD,Chad,2020,Chad,1,Diferenciado,86.1900272558526
+TCD,Chad,2020,Chad,2,No diferenciado,13.8099727441474
+TGO,Togo,2020,Togo,1,Diferenciado,38.7417433034196
+TGO,Togo,2020,Togo,2,No diferenciado,61.2582566965804
+THA,Tailandia,2020,Thailand,1,Diferenciado,57.303536836568
+THA,Tailandia,2020,Thailand,2,No diferenciado,42.696463163432
+TJK,Tayikistán,2020,Tajikistan,1,Diferenciado,64.4578973047807
+TJK,Tayikistán,2020,Tajikistan,2,No diferenciado,35.5421026952194
+TKL,Tokelau,2020,Tokelau,1,Diferenciado,97.9291016229621
+TKL,Tokelau,2020,Tokelau,2,No diferenciado,2.07089837703793
+TKM,Turkmenistán,2020,Turkmenistan,1,Diferenciado,80.7511447755333
+TKM,Turkmenistán,2020,Turkmenistan,2,No diferenciado,19.2488552244667
+TLS,Timor-Leste,2020,Timor-Leste,1,Diferenciado,51.0385233677753
+TLS,Timor-Leste,2020,Timor-Leste,2,No diferenciado,48.9614766322247
+TON,Tonga,2020,Tonga,1,Diferenciado,43.3454383287211
+TON,Tonga,2020,Tonga,2,No diferenciado,56.6545616712789
+TTO,Trinidad y Tobago,2020,Trinidad and Tobago,1,Diferenciado,68.8956437067079
+TTO,Trinidad y Tobago,2020,Trinidad and Tobago,2,No diferenciado,31.1043562932921
+TUN,Túnez,2020,Tunisia,1,Diferenciado,61.5504433043394
+TUN,Túnez,2020,Tunisia,2,No diferenciado,38.4495566956606
+TUR,Turquía,2020,Türkiye,1,Diferenciado,47.001741113002
+TUR,Turquía,2020,Türkiye,2,No diferenciado,52.998258886998
+TUV,Tuvalu,2020,Tuvalu,1,Diferenciado,66.8245667872105
+TUV,Tuvalu,2020,Tuvalu,2,No diferenciado,33.1754332127895
+TWN,Taiwán,2020,"Other Asia, nes",1,Diferenciado,65.6917345950822
+TWN,Taiwán,2020,"Other Asia, nes",2,No diferenciado,34.3082654049177
+TZA,Tanzanía,2020,United Rep. of Tanzania,1,Diferenciado,48.2740263122539
+TZA,Tanzanía,2020,United Rep. of Tanzania,2,No diferenciado,51.7259736877462
+UGA,Uganda,2020,Uganda,1,Diferenciado,40.0110907882086
+UGA,Uganda,2020,Uganda,2,No diferenciado,59.9889092117914
+UKR,Ucrania,2020,Ukraine,1,Diferenciado,64.5190018733212
+UKR,Ucrania,2020,Ukraine,2,No diferenciado,35.4809981266789
+URY,Uruguay,2020,Uruguay,1,Diferenciado,63.2492127486693
+URY,Uruguay,2020,Uruguay,2,No diferenciado,36.7507872513307
+USA,Estados Unidos,2020,USA,1,Diferenciado,78.2686519282197
+USA,Estados Unidos,2020,USA,2,No diferenciado,21.7313480717802
+UZB,Uzbekistán,2020,Uzbekistan,1,Diferenciado,67.2214603945078
+UZB,Uzbekistán,2020,Uzbekistan,2,No diferenciado,32.7785396054921
+VCT,San Vicente y las Granadinas,2020,Saint Vincent and the Grenadines,1,Diferenciado,67.7179245182552
+VCT,San Vicente y las Granadinas,2020,Saint Vincent and the Grenadines,2,No diferenciado,32.2820754817448
+VEN,Venezuela,2020,Venezuela,1,Diferenciado,59.0023087581635
+VEN,Venezuela,2020,Venezuela,2,No diferenciado,40.9976912418365
+VGB,Islas Vírgenes Británicas,2020,Br. Virgin Isds,1,Diferenciado,89.0351830312533
+VGB,Islas Vírgenes Británicas,2020,Br. Virgin Isds,2,No diferenciado,10.9648169687467
+VNM,Vietnam,2020,Viet Nam,1,Diferenciado,67.4358142040425
+VNM,Vietnam,2020,Viet Nam,2,No diferenciado,32.5641857959575
+VUT,Vanuatu,2020,Vanuatu,1,Diferenciado,64.8164614281582
+VUT,Vanuatu,2020,Vanuatu,2,No diferenciado,35.1835385718417
+WLF,Wallis y Futuna,2020,Wallis and Futuna Isds,1,Diferenciado,73.3878902781444
+WLF,Wallis y Futuna,2020,Wallis and Futuna Isds,2,No diferenciado,26.6121097218556
+WSM,Samoa,2020,Samoa,1,Diferenciado,56.0089224780787
+WSM,Samoa,2020,Samoa,2,No diferenciado,43.9910775219213
+YEM,Yemen,2020,Yemen,1,Diferenciado,54.9577411201682
+YEM,Yemen,2020,Yemen,2,No diferenciado,45.0422588798317
+ZAF,Sudáfrica,2020,South Africa,1,Diferenciado,59.5387019163268
+ZAF,Sudáfrica,2020,South Africa,2,No diferenciado,40.4612980836732
+ZMB,Zambia,2020,Zambia,1,Diferenciado,57.200261397569
+ZMB,Zambia,2020,Zambia,2,No diferenciado,42.799738602431
+ZWE,Zimbabwe,2020,Zimbabwe,1,Diferenciado,53.0545143115313
+ZWE,Zimbabwe,2020,Zimbabwe,2,No diferenciado,46.9454856884687

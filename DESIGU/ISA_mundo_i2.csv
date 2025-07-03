@@ -1,649 +1,649 @@
-"code","pais","variable","valor"
-"PNG","Papua New Guinea","gini","41.85"
-"PNG","Papua New Guinea","loggnip","7.53"
-"PNG","Papua New Guinea","gininoal","41.85"
-"PNG","Papua New Guinea","ginial",
-"SLB","Solomon Islands","gini","37.05"
-"SLB","Solomon Islands","loggnip","7.64"
-"SLB","Solomon Islands","gininoal","37.05"
-"SLB","Solomon Islands","ginial",
-"KIR","Kiribati","gini","36.97"
-"KIR","Kiribati","loggnip","7.85"
-"KIR","Kiribati","gininoal","36.97"
-"KIR","Kiribati","ginial",
-"VUT","Vanuatu","gini","37.35"
-"VUT","Vanuatu","loggnip","7.93"
-"VUT","Vanuatu","gininoal","37.35"
-"VUT","Vanuatu","ginial",
-"FSM","Micronesia","gini","40.06"
-"FSM","Micronesia","loggnip","8.22"
-"FSM","Micronesia","gininoal","40.06"
-"FSM","Micronesia","ginial",
-"LAO","Lao PDR","gini","36.39"
-"LAO","Lao PDR","loggnip","8.37"
-"LAO","Lao PDR","gininoal","36.39"
-"LAO","Lao PDR","ginial",
-"TLS","Timor-Leste","gini","30.3"
-"TLS","Timor-Leste","loggnip","8.39"
-"TLS","Timor-Leste","gininoal","30.3"
-"TLS","Timor-Leste","ginial",
-"TUV","Tuvalu","gini","39.14"
-"TUV","Tuvalu","loggnip","8.46"
-"TUV","Tuvalu","gininoal","39.14"
-"TUV","Tuvalu","ginial",
-"TON","Tonga","gini","37.48"
-"TON","Tonga","loggnip","8.46"
-"TON","Tonga","gininoal","37.48"
-"TON","Tonga","ginial",
-"MMR","Myanmar","gini","38.07"
-"MMR","Myanmar","loggnip","8.53"
-"MMR","Myanmar","gininoal","38.07"
-"MMR","Myanmar","ginial",
-"WSM","Samoa","gini","42.05"
-"WSM","Samoa","loggnip","8.54"
-"WSM","Samoa","gininoal","42.05"
-"WSM","Samoa","ginial",
-"VNM","Vietnam","gini","34.76"
-"VNM","Vietnam","loggnip","8.59"
-"VNM","Vietnam","gininoal","34.76"
-"VNM","Vietnam","ginial",
-"FJI","Fiji","gini","36.4"
-"FJI","Fiji","loggnip","9"
-"FJI","Fiji","gininoal","36.4"
-"FJI","Fiji","ginial",
-"PHL","Philippines","gini","40.11"
-"PHL","Philippines","loggnip","9.09"
-"PHL","Philippines","gininoal","40.11"
-"PHL","Philippines","ginial",
-"MNG","Mongolia","gini","32.04"
-"MNG","Mongolia","loggnip","9.3"
-"MNG","Mongolia","gininoal","32.04"
-"MNG","Mongolia","ginial",
-"IDN","Indonesia","gini","38.57"
-"IDN","Indonesia","loggnip","9.33"
-"IDN","Indonesia","gininoal","38.57"
-"IDN","Indonesia","ginial",
-"THA","Thailand","gini","37.85"
-"THA","Thailand","loggnip","9.57"
-"THA","Thailand","gininoal","37.85"
-"THA","Thailand","ginial",
-"CHN","China","gini","38.59"
-"CHN","China","loggnip","9.57"
-"CHN","China","gininoal","38.59"
-"CHN","China","ginial",
-"MYS","Malaysia","gini","39.83"
-"MYS","Malaysia","loggnip","9.86"
-"MYS","Malaysia","gininoal","39.83"
-"MYS","Malaysia","ginial",
-"UZB","Uzbekistan","gini","35.27"
-"UZB","Uzbekistan","loggnip","7.72"
-"UZB","Uzbekistan","gininoal","35.27"
-"UZB","Uzbekistan","ginial",
-"KGZ","Kyrgyz Republic","gini","29"
-"KGZ","Kyrgyz Republic","loggnip","8.1"
-"KGZ","Kyrgyz Republic","gininoal","29"
-"KGZ","Kyrgyz Republic","ginial",
-"TJK","Tajikistan","gini","34"
-"TJK","Tajikistan","loggnip","8.12"
-"TJK","Tajikistan","gininoal","34"
-"TJK","Tajikistan","ginial",
-"TKM","Turkmenistan","gini","40.77"
-"TKM","Turkmenistan","loggnip","8.14"
-"TKM","Turkmenistan","gininoal","40.77"
-"TKM","Turkmenistan","ginial",
-"MDA","Moldova","gini","27.03"
-"MDA","Moldova","loggnip","8.6"
-"MDA","Moldova","gininoal","27.03"
-"MDA","Moldova","ginial",
-"UKR","Ukraine","gini","25.46"
-"UKR","Ukraine","loggnip","8.97"
-"UKR","Ukraine","gininoal","25.46"
-"UKR","Ukraine","ginial",
-"XKX","Kosovo","gini","26.71"
-"XKX","Kosovo","loggnip","9.11"
-"XKX","Kosovo","gininoal","26.71"
-"XKX","Kosovo","ginial",
-"ARM","Armenia","gini","32.36"
-"ARM","Armenia","loggnip","9.11"
-"ARM","Armenia","gininoal","32.36"
-"ARM","Armenia","ginial",
-"GEO","Georgia","gini","38.54"
-"GEO","Georgia","loggnip","9.14"
-"GEO","Georgia","gininoal","38.54"
-"GEO","Georgia","ginial",
-"BIH","Bosnia and Herzegovina","gini","33.83"
-"BIH","Bosnia and Herzegovina","loggnip","9.21"
-"BIH","Bosnia and Herzegovina","gininoal","33.83"
-"BIH","Bosnia and Herzegovina","ginial",
-"ALB","Albania","gini","28.96"
-"ALB","Albania","loggnip","9.25"
-"ALB","Albania","gininoal","28.96"
-"ALB","Albania","ginial",
-"AZE","Azerbaijan","gini","31.79"
-"AZE","Azerbaijan","loggnip","9.42"
-"AZE","Azerbaijan","gininoal","31.79"
-"AZE","Azerbaijan","ginial",
-"SRB","Serbia","gini","29.06"
-"SRB","Serbia","loggnip","9.49"
-"SRB","Serbia","gininoal","29.06"
-"SRB","Serbia","ginial",
-"MKD","Macedonia","gini",
-"MKD","Macedonia","loggnip",
-"MKD","Macedonia","gininoal",
-"MKD","Macedonia","ginial",
-"MNE","Montenegro","gini","31.93"
-"MNE","Montenegro","loggnip","9.66"
-"MNE","Montenegro","gininoal","31.93"
-"MNE","Montenegro","ginial",
-"BGR","Bulgaria","gini","34.83"
-"BGR","Bulgaria","loggnip","9.76"
-"BGR","Bulgaria","gininoal","34.83"
-"BGR","Bulgaria","ginial",
-"BLR","Belarus","gini","26.73"
-"BLR","Belarus","loggnip","9.77"
-"BLR","Belarus","gininoal","26.73"
-"BLR","Belarus","ginial",
-"ROU","Romania","gini","36.38"
-"ROU","Romania","loggnip","9.93"
-"ROU","Romania","gininoal","36.38"
-"ROU","Romania","ginial",
-"HRV","Croatia","gini","30"
-"HRV","Croatia","loggnip","9.98"
-"HRV","Croatia","gininoal","30"
-"HRV","Croatia","ginial",
-"TUR","Turkey","gini","41.24"
-"TUR","Turkey","loggnip","10.04"
-"TUR","Turkey","gininoal","41.24"
-"TUR","Turkey","ginial",
-"RUS","Russian Federation","gini","37.73"
-"RUS","Russian Federation","loggnip","10.05"
-"RUS","Russian Federation","gininoal","37.73"
-"RUS","Russian Federation","ginial",
-"KAZ","Kazakhstan","gini","26.47"
-"KAZ","Kazakhstan","loggnip","10.06"
-"KAZ","Kazakhstan","gininoal","26.47"
-"KAZ","Kazakhstan","ginial",
-"LVA","Latvia","gini","32.68"
-"LVA","Latvia","loggnip","10.08"
-"LVA","Latvia","gininoal","32.68"
-"LVA","Latvia","ginial",
-"HUN","Hungary","gini","28.78"
-"HUN","Hungary","loggnip","10.1"
-"HUN","Hungary","gininoal","28.78"
-"HUN","Hungary","ginial",
-"POL","Poland","gini","32.08"
-"POL","Poland","loggnip","10.12"
-"POL","Poland","gininoal","32.08"
-"POL","Poland","ginial",
-"EST","Estonia","gini","32.19"
-"EST","Estonia","loggnip","10.23"
-"EST","Estonia","gininoal","32.19"
-"EST","Estonia","ginial",
-"LTU","Lithuania","gini","35.07"
-"LTU","Lithuania","loggnip","10.23"
-"LTU","Lithuania","gininoal","35.07"
-"LTU","Lithuania","ginial",
-"HTI","Haiti","gini","52.34"
-"HTI","Haiti","loggnip","7.4"
-"HTI","Haiti","gininoal","52.34"
-"HTI","Haiti","ginial",
-"GUY","Guyana","gini","38.36"
-"GUY","Guyana","loggnip","8.02"
-"GUY","Guyana","gininoal","38.36"
-"GUY","Guyana","ginial",
-"HND","Honduras","gini","43.14"
-"HND","Honduras","loggnip","8.36"
-"HND","Honduras","gininoal",
-"HND","Honduras","ginial","43.14"
-"BLZ","Belize","gini","45.86"
-"BLZ","Belize","loggnip","8.45"
-"BLZ","Belize","gininoal","45.86"
-"BLZ","Belize","ginial",
-"NIC","Nicaragua","gini","40.09"
-"NIC","Nicaragua","loggnip","8.5"
-"NIC","Nicaragua","gininoal",
-"NIC","Nicaragua","ginial",
-"LCA","St. Lucia","gini","36.66"
-"LCA","St. Lucia","loggnip","8.79"
-"LCA","St. Lucia","gininoal","36.66"
-"LCA","St. Lucia","ginial",
-"BOL","Bolivia","gini","39.42"
-"BOL","Bolivia","loggnip","8.81"
-"BOL","Bolivia","gininoal",
-"BOL","Bolivia","ginial","39.42"
-"JAM","Jamaica","gini","45.46"
-"JAM","Jamaica","loggnip","8.83"
-"JAM","Jamaica","gininoal","45.46"
-"JAM","Jamaica","ginial",
-"SUR","Suriname","gini","49.6"
-"SUR","Suriname","loggnip","8.88"
-"SUR","Suriname","gininoal","49.6"
-"SUR","Suriname","ginial",
-"GTM","Guatemala","gini","41.9"
-"GTM","Guatemala","loggnip","8.9"
-"GTM","Guatemala","gininoal",
-"GTM","Guatemala","ginial","41.9"
-"TTO","Trinidad and Tobago","gini","34.67"
-"TTO","Trinidad and Tobago","loggnip","8.92"
-"TTO","Trinidad and Tobago","gininoal","34.67"
-"TTO","Trinidad and Tobago","ginial",
-"PRY","Paraguay","gini","41.31"
-"PRY","Paraguay","loggnip","9.07"
-"PRY","Paraguay","gininoal",
-"PRY","Paraguay","ginial","41.31"
-"ECU","Ecuador","gini","40.07"
-"ECU","Ecuador","loggnip","9.33"
-"ECU","Ecuador","gininoal",
-"ECU","Ecuador","ginial","40.07"
-"PER","Peru","gini","38.13"
-"PER","Peru","loggnip","9.39"
-"PER","Peru","gininoal",
-"PER","Peru","ginial","38.13"
-"COL","Colombia","gini","43.97"
-"COL","Colombia","loggnip","9.51"
-"COL","Colombia","gininoal",
-"COL","Colombia","ginial","43.97"
-"DOM","Dominican Republic","gini","38.64"
-"DOM","Dominican Republic","loggnip","9.52"
-"DOM","Dominican Republic","gininoal",
-"DOM","Dominican Republic","ginial","38.64"
-"VEN","Venezuela","gini",
-"VEN","Venezuela","loggnip",
-"VEN","Venezuela","gininoal",
-"VEN","Venezuela","ginial",
-"CRI","Costa Rica","gini","41.47"
-"CRI","Costa Rica","loggnip","9.63"
-"CRI","Costa Rica","gininoal",
-"CRI","Costa Rica","ginial","41.47"
-"BRA","Brazil","gini","44.21"
-"BRA","Brazil","loggnip","9.63"
-"BRA","Brazil","gininoal",
-"BRA","Brazil","ginial","44.21"
-"MEX","Mexico","gini","42.31"
-"MEX","Mexico","loggnip","9.75"
-"MEX","Mexico","gininoal",
-"MEX","Mexico","ginial","42.31"
-"ARG","Argentina","gini","36.74"
-"ARG","Argentina","loggnip","9.87"
-"ARG","Argentina","gininoal",
-"ARG","Argentina","ginial","36.74"
-"PAN","Panama","gini","43.89"
-"PAN","Panama","loggnip","9.91"
-"PAN","Panama","gininoal",
-"PAN","Panama","ginial","43.89"
-"URY","Uruguay","gini","35.9"
-"URY","Uruguay","loggnip","9.93"
-"URY","Uruguay","gininoal",
-"URY","Uruguay","ginial","35.9"
-"CHL","Chile","gini","41.03"
-"CHL","Chile","loggnip","10.04"
-"CHL","Chile","gininoal",
-"CHL","Chile","ginial","41.03"
-"DJI","Djibouti","gini","44.13"
-"DJI","Djibouti","loggnip","8.04"
-"DJI","Djibouti","gininoal","44.13"
-"DJI","Djibouti","ginial",
-"YEM","Yemen","gini",
-"YEM","Yemen","loggnip",
-"YEM","Yemen","gininoal",
-"YEM","Yemen","ginial",
-"MAR","Morocco","gini","40.72"
-"MAR","Morocco","loggnip","8.56"
-"MAR","Morocco","gininoal","40.72"
-"MAR","Morocco","ginial",
-"JOR","Jordan","gini","33.66"
-"JOR","Jordan","loggnip","9.13"
-"JOR","Jordan","gininoal","33.66"
-"JOR","Jordan","ginial",
-"TUN","Tunisia","gini","35.81"
-"TUN","Tunisia","loggnip","9.19"
-"TUN","Tunisia","gininoal","35.81"
-"TUN","Tunisia","ginial",
-"EGY","Egypt","gini",
-"EGY","Egypt","loggnip",
-"EGY","Egypt","gininoal",
-"EGY","Egypt","ginial",
-"DZA","Algeria","gini","27.62"
-"DZA","Algeria","loggnip","9.46"
-"DZA","Algeria","gininoal","27.62"
-"DZA","Algeria","ginial",
-"IRQ","Iraq","gini","29.54"
-"IRQ","Iraq","loggnip","9.61"
-"IRQ","Iraq","gininoal","29.54"
-"IRQ","Iraq","ginial",
-"LBN","Lebanon","gini","31.83"
-"LBN","Lebanon","loggnip","9.66"
-"LBN","Lebanon","gininoal","31.83"
-"LBN","Lebanon","ginial",
-"IRN","Iran","gini",
-"IRN","Iran","loggnip",
-"IRN","Iran","gininoal",
-"IRN","Iran","ginial",
-"PSE","West Bank and Gaza","gini","34.44"
-"PSE","West Bank and Gaza","loggnip",
-"PSE","West Bank and Gaza","gininoal","34.44"
-"PSE","West Bank and Gaza","ginial",
-"SYR","Syrian Arab Republic","gini","35.78"
-"SYR","Syrian Arab Republic","loggnip",
-"SYR","Syrian Arab Republic","gininoal","35.78"
-"SYR","Syrian Arab Republic","ginial",
-"NPL","Nepal","gini","32.84"
-"NPL","Nepal","loggnip","7.58"
-"NPL","Nepal","gininoal","32.84"
-"NPL","Nepal","ginial",
-"BGD","Bangladesh","gini","32.13"
-"BGD","Bangladesh","loggnip","7.86"
-"BGD","Bangladesh","gininoal","32.13"
-"BGD","Bangladesh","ginial",
-"IND","India","gini","35.71"
-"IND","India","loggnip","8.43"
-"IND","India","gininoal","35.71"
-"IND","India","ginial",
-"PAK","Pakistan","gini","30.69"
-"PAK","Pakistan","loggnip","8.49"
-"PAK","Pakistan","gininoal","30.69"
-"PAK","Pakistan","ginial",
-"BTN","Bhutan","gini","38.81"
-"BTN","Bhutan","loggnip","8.79"
-"BTN","Bhutan","gininoal","38.81"
-"BTN","Bhutan","ginial",
-"MDV","Maldives","gini","38.37"
-"MDV","Maldives","loggnip","9.05"
-"MDV","Maldives","gininoal","38.37"
-"MDV","Maldives","ginial",
-"LKA","Sri Lanka","gini","39.16"
-"LKA","Sri Lanka","loggnip","9.21"
-"LKA","Sri Lanka","gininoal","39.16"
-"LKA","Sri Lanka","ginial",
-"COD","Congo","gini",
-"COD","Congo","loggnip",
-"COD","Congo","gininoal",
-"COD","Congo","ginial",
-"LBR","Liberia","gini","33.24"
-"LBR","Liberia","loggnip","6.57"
-"LBR","Liberia","gininoal","33.24"
-"LBR","Liberia","ginial",
-"MOZ","Mozambique","gini","45.58"
-"MOZ","Mozambique","loggnip","6.66"
-"MOZ","Mozambique","gininoal","45.58"
-"MOZ","Mozambique","ginial",
-"BDI","Burundi","gini","39.21"
-"BDI","Burundi","loggnip","6.71"
-"BDI","Burundi","gininoal","39.21"
-"BDI","Burundi","ginial",
-"CAF","Central African Republic","gini","56.24"
-"CAF","Central African Republic","loggnip","6.71"
-"CAF","Central African Republic","gininoal","56.24"
-"CAF","Central African Republic","ginial",
-"NER","Niger","gini","33.99"
-"NER","Niger","loggnip","6.84"
-"NER","Niger","gininoal","33.99"
-"NER","Niger","ginial",
-"MWI","Malawi","gini","46.12"
-"MWI","Malawi","loggnip","6.91"
-"MWI","Malawi","gininoal","46.12"
-"MWI","Malawi","ginial",
-"ETH","Ethiopia","gini","33.17"
-"ETH","Ethiopia","loggnip","6.96"
-"ETH","Ethiopia","gininoal","33.17"
-"ETH","Ethiopia","ginial",
-"GIN","Guinea","gini","33.73"
-"GIN","Guinea","loggnip","7.06"
-"GIN","Guinea","gininoal","33.73"
-"GIN","Guinea","ginial",
-"SLE","Sierra Leone","gini","33.99"
-"SLE","Sierra Leone","loggnip","7.11"
-"SLE","Sierra Leone","gininoal","33.99"
-"SLE","Sierra Leone","ginial",
-"GMB","Gambia","gini",
-"GMB","Gambia","loggnip",
-"GMB","Gambia","gininoal",
-"GMB","Gambia","ginial",
-"TGO","Togo","gini","43.05"
-"TGO","Togo","loggnip","7.18"
-"TGO","Togo","gininoal","43.05"
-"TGO","Togo","ginial",
-"MDG","Madagascar","gini","42.65"
-"MDG","Madagascar","loggnip","7.21"
-"MDG","Madagascar","gininoal","42.65"
-"MDG","Madagascar","ginial",
-"GNB","Guinea-Bissau","gini","50.66"
-"GNB","Guinea-Bissau","loggnip","7.22"
-"GNB","Guinea-Bissau","gininoal","50.66"
-"GNB","Guinea-Bissau","ginial",
-"COM","Comoros","gini","44.99"
-"COM","Comoros","loggnip","7.31"
-"COM","Comoros","gininoal","44.99"
-"COM","Comoros","ginial",
-"ZWE","Zimbabwe","gini","43.15"
-"ZWE","Zimbabwe","loggnip","7.34"
-"ZWE","Zimbabwe","gininoal","43.15"
-"ZWE","Zimbabwe","ginial",
-"RWA","Rwanda","gini","50.44"
-"RWA","Rwanda","loggnip","7.35"
-"RWA","Rwanda","gininoal","50.44"
-"RWA","Rwanda","ginial",
-"BFA","Burkina Faso","gini","35.3"
-"BFA","Burkina Faso","loggnip","7.36"
-"BFA","Burkina Faso","gininoal","35.3"
-"BFA","Burkina Faso","ginial",
-"UGA","Uganda","gini","41.01"
-"UGA","Uganda","loggnip","7.4"
-"UGA","Uganda","gininoal","41.01"
-"UGA","Uganda","ginial",
-"MLI","Mali","gini","33.04"
-"MLI","Mali","loggnip","7.46"
-"MLI","Mali","gininoal","33.04"
-"MLI","Mali","ginial",
-"TCD","Chad","gini","43.32"
-"TCD","Chad","loggnip","7.51"
-"TCD","Chad","gininoal","43.32"
-"TCD","Chad","ginial",
-"KEN","Kenya","gini","48.51"
-"KEN","Kenya","loggnip","7.59"
-"KEN","Kenya","gininoal","48.51"
-"KEN","Kenya","ginial",
-"BEN","Benin","gini","47.76"
-"BEN","Benin","loggnip","7.65"
-"BEN","Benin","gininoal","47.76"
-"BEN","Benin","ginial",
-"SEN","Senegal","gini","40.29"
-"SEN","Senegal","loggnip","7.65"
-"SEN","Senegal","gininoal","40.29"
-"SEN","Senegal","ginial",
-"TZA","Tanzania","gini","37.78"
-"TZA","Tanzania","loggnip","7.68"
-"TZA","Tanzania","gininoal","37.78"
-"TZA","Tanzania","ginial",
-"STP","Sao Tome and Principe","gini","30.82"
-"STP","Sao Tome and Principe","loggnip","7.86"
-"STP","Sao Tome and Principe","gininoal","30.82"
-"STP","Sao Tome and Principe","ginial",
-"SSD","South Sudan","gini","46.34"
-"SSD","South Sudan","loggnip","7.87"
-"SSD","South Sudan","gininoal","46.34"
-"SSD","South Sudan","ginial",
-"LSO","Lesotho","gini","54.18"
-"LSO","Lesotho","loggnip","7.99"
-"LSO","Lesotho","gininoal","54.18"
-"LSO","Lesotho","ginial",
-"SDN","Sudan","gini","35.39"
-"SDN","Sudan","loggnip","8"
-"SDN","Sudan","gininoal","35.39"
-"SDN","Sudan","ginial",
-"CMR","Cameroon","gini","46.54"
-"CMR","Cameroon","loggnip","8.02"
-"CMR","Cameroon","gininoal","46.54"
-"CMR","Cameroon","ginial",
-"CIV","Cote d'Ivoire","gini","41.73"
-"CIV","Cote d'Ivoire","loggnip","8.12"
-"CIV","Cote d'Ivoire","gininoal","41.73"
-"CIV","Cote d'Ivoire","ginial",
-"GHA","Ghana","gini","42.21"
-"GHA","Ghana","loggnip","8.16"
-"GHA","Ghana","gininoal","42.21"
-"GHA","Ghana","ginial",
-"MRT","Mauritania","gini","32.42"
-"MRT","Mauritania","loggnip","8.23"
-"MRT","Mauritania","gininoal","32.42"
-"MRT","Mauritania","ginial",
-"ZMB","Zambia","gini","57.14"
-"ZMB","Zambia","loggnip","8.24"
-"ZMB","Zambia","gininoal","57.14"
-"ZMB","Zambia","ginial",
-"COG","Congo","gini",
-"COG","Congo","loggnip",
-"COG","Congo","gininoal",
-"COG","Congo","ginial",
-"NGA","Nigeria","gini","42.97"
-"NGA","Nigeria","loggnip","8.38"
-"NGA","Nigeria","gininoal","42.97"
-"NGA","Nigeria","ginial",
-"AGO","Angola","gini","42.72"
-"AGO","Angola","loggnip","8.48"
-"AGO","Angola","gininoal","42.72"
-"AGO","Angola","ginial",
-"CPV","Cabo Verde","gini","47.19"
-"CPV","Cabo Verde","loggnip","8.56"
-"CPV","Cabo Verde","gininoal","47.19"
-"CPV","Cabo Verde","ginial",
-"SWZ","Swaziland","gini","51.45"
-"SWZ","Swaziland","loggnip","8.82"
-"SWZ","Swaziland","gininoal","51.45"
-"SWZ","Swaziland","ginial",
-"NAM","Namibia","gini","60.97"
-"NAM","Namibia","loggnip","8.95"
-"NAM","Namibia","gininoal","60.97"
-"NAM","Namibia","ginial",
-"BWA","Botswana","gini","60.46"
-"BWA","Botswana","loggnip","9.38"
-"BWA","Botswana","gininoal","60.46"
-"BWA","Botswana","ginial",
-"ZAF","South Africa","gini","63.38"
-"ZAF","South Africa","loggnip","9.39"
-"ZAF","South Africa","gininoal","63.38"
-"ZAF","South Africa","ginial",
-"GAB","Gabon","gini","42.18"
-"GAB","Gabon","loggnip","9.52"
-"GAB","Gabon","gininoal","42.18"
-"GAB","Gabon","ginial",
-"MUS","Mauritius","gini","35.84"
-"MUS","Mauritius","loggnip","9.77"
-"MUS","Mauritius","gininoal","35.84"
-"MUS","Mauritius","ginial",
-"SYC","Seychelles","gini","40.31"
-"SYC","Seychelles","loggnip","10.1"
-"SYC","Seychelles","gininoal","40.31"
-"SYC","Seychelles","ginial",
-"GRC","Greece","gini","33.95"
-"GRC","Greece","loggnip","10.18"
-"GRC","Greece","gininoal","33.95"
-"GRC","Greece","ginial",
-"PRT","Portugal","gini","33.72"
-"PRT","Portugal","loggnip","10.25"
-"PRT","Portugal","gininoal","33.72"
-"PRT","Portugal","ginial",
-"SVK","Slovak Republic","gini","24.76"
-"SVK","Slovak Republic","loggnip","10.26"
-"SVK","Slovak Republic","gininoal","24.76"
-"SVK","Slovak Republic","ginial",
-"CYP","Cyprus","gini","33.72"
-"CYP","Cyprus","loggnip","10.29"
-"CYP","Cyprus","gininoal","33.72"
-"CYP","Cyprus","ginial",
-"CZE","Czech Republic","gini","24.58"
-"CZE","Czech Republic","loggnip","10.31"
-"CZE","Czech Republic","gininoal","24.58"
-"CZE","Czech Republic","ginial",
-"ISR","Israel","gini","39.22"
-"ISR","Israel","loggnip","10.34"
-"ISR","Israel","gininoal","39.22"
-"ISR","Israel","ginial",
-"SVN","Slovenia","gini","24.33"
-"SVN","Slovenia","loggnip","10.34"
-"SVN","Slovenia","gininoal","24.33"
-"SVN","Slovenia","ginial",
-"KOR","Korea","gini",
-"KOR","Korea","loggnip",
-"KOR","Korea","gininoal",
-"KOR","Korea","ginial",
-"ESP","Spain","gini","34.18"
-"ESP","Spain","loggnip","10.42"
-"ESP","Spain","gininoal","34.18"
-"ESP","Spain","ginial",
-"JPN","Japan","gini","30.45"
-"JPN","Japan","loggnip","10.48"
-"JPN","Japan","gininoal","30.45"
-"JPN","Japan","ginial",
-"ITA","Italy","gini","32.86"
-"ITA","Italy","loggnip","10.5"
-"ITA","Italy","gininoal","32.86"
-"ITA","Italy","ginial",
-"AUS","Australia","gini","32.86"
-"AUS","Australia","loggnip","10.54"
-"AUS","Australia","gininoal","32.86"
-"AUS","Australia","ginial",
-"GBR","United Kingdom","gini","32.3"
-"GBR","United Kingdom","loggnip","10.6"
-"GBR","United Kingdom","gininoal","32.3"
-"GBR","United Kingdom","ginial",
-"FRA","France","gini","30.59"
-"FRA","France","loggnip","10.61"
-"FRA","France","gininoal","30.59"
-"FRA","France","ginial",
-"FIN","Finland","gini","25.39"
-"FIN","Finland","loggnip","10.64"
-"FIN","Finland","gininoal","25.39"
-"FIN","Finland","ginial",
-"CAN","Canada","gini","32.26"
-"CAN","Canada","loggnip","10.68"
-"CAN","Canada","gininoal","32.26"
-"CAN","Canada","ginial",
-"ISL","Iceland","gini","24.29"
-"ISL","Iceland","loggnip","10.68"
-"ISL","Iceland","gininoal","24.29"
-"ISL","Iceland","ginial",
-"IRL","Ireland","gini","30.22"
-"IRL","Ireland","loggnip","10.68"
-"IRL","Ireland","gininoal","30.22"
-"IRL","Ireland","ginial",
-"BEL","Belgium","gini","26.67"
-"BEL","Belgium","loggnip","10.72"
-"BEL","Belgium","gininoal","26.67"
-"BEL","Belgium","ginial",
-"DEU","Germany","gini","29.76"
-"DEU","Germany","loggnip","10.74"
-"DEU","Germany","gininoal","29.76"
-"DEU","Germany","ginial",
-"SWE","Sweden","gini","25.75"
-"SWE","Sweden","loggnip","10.77"
-"SWE","Sweden","gininoal","25.75"
-"SWE","Sweden","ginial",
-"AUT","Austria","gini","28.93"
-"AUT","Austria","loggnip","10.79"
-"AUT","Austria","gininoal","28.93"
-"AUT","Austria","ginial",
-"NLD","Netherlands","gini","27.15"
-"NLD","Netherlands","loggnip","10.8"
-"NLD","Netherlands","gininoal","27.15"
-"NLD","Netherlands","ginial",
-"DNK","Denmark","gini","27.06"
-"DNK","Denmark","loggnip","10.81"
-"DNK","Denmark","gininoal","27.06"
-"DNK","Denmark","ginial",
-"USA","United States","gini","38.91"
-"USA","United States","loggnip","10.9"
-"USA","United States","gininoal","38.91"
-"USA","United States","ginial",
-"CHE","Switzerland","gini","30.78"
-"CHE","Switzerland","loggnip","11.02"
-"CHE","Switzerland","gininoal","30.78"
-"CHE","Switzerland","ginial",
-"LUX","Luxembourg","gini","29.54"
-"LUX","Luxembourg","loggnip","11.12"
-"LUX","Luxembourg","gininoal","29.54"
-"LUX","Luxembourg","ginial",
-"NOR","Norway","gini","25.36"
-"NOR","Norway","loggnip","11.13"
-"NOR","Norway","gininoal","25.36"
-"NOR","Norway","ginial",
+geocodigoFundar,geonombreFundar,pais,variable,valor
+PNG,Papúa Nueva Guinea,Papua New Guinea,gini,41.85
+PNG,Papúa Nueva Guinea,Papua New Guinea,loggnip,7.53
+PNG,Papúa Nueva Guinea,Papua New Guinea,gininoal,41.85
+PNG,Papúa Nueva Guinea,Papua New Guinea,ginial,
+SLB,Islas Salomón,Solomon Islands,gini,37.05
+SLB,Islas Salomón,Solomon Islands,loggnip,7.64
+SLB,Islas Salomón,Solomon Islands,gininoal,37.05
+SLB,Islas Salomón,Solomon Islands,ginial,
+KIR,Kiribati,Kiribati,gini,36.97
+KIR,Kiribati,Kiribati,loggnip,7.85
+KIR,Kiribati,Kiribati,gininoal,36.97
+KIR,Kiribati,Kiribati,ginial,
+VUT,Vanuatu,Vanuatu,gini,37.35
+VUT,Vanuatu,Vanuatu,loggnip,7.93
+VUT,Vanuatu,Vanuatu,gininoal,37.35
+VUT,Vanuatu,Vanuatu,ginial,
+FSM,Micronesia,Micronesia,gini,40.06
+FSM,Micronesia,Micronesia,loggnip,8.22
+FSM,Micronesia,Micronesia,gininoal,40.06
+FSM,Micronesia,Micronesia,ginial,
+LAO,Laos,Lao PDR,gini,36.39
+LAO,Laos,Lao PDR,loggnip,8.37
+LAO,Laos,Lao PDR,gininoal,36.39
+LAO,Laos,Lao PDR,ginial,
+TLS,Timor-Leste,Timor-Leste,gini,30.3
+TLS,Timor-Leste,Timor-Leste,loggnip,8.39
+TLS,Timor-Leste,Timor-Leste,gininoal,30.3
+TLS,Timor-Leste,Timor-Leste,ginial,
+TUV,Tuvalu,Tuvalu,gini,39.14
+TUV,Tuvalu,Tuvalu,loggnip,8.46
+TUV,Tuvalu,Tuvalu,gininoal,39.14
+TUV,Tuvalu,Tuvalu,ginial,
+TON,Tonga,Tonga,gini,37.48
+TON,Tonga,Tonga,loggnip,8.46
+TON,Tonga,Tonga,gininoal,37.48
+TON,Tonga,Tonga,ginial,
+MMR,Myanmar,Myanmar,gini,38.07
+MMR,Myanmar,Myanmar,loggnip,8.53
+MMR,Myanmar,Myanmar,gininoal,38.07
+MMR,Myanmar,Myanmar,ginial,
+WSM,Samoa,Samoa,gini,42.05
+WSM,Samoa,Samoa,loggnip,8.54
+WSM,Samoa,Samoa,gininoal,42.05
+WSM,Samoa,Samoa,ginial,
+VNM,Vietnam,Vietnam,gini,34.76
+VNM,Vietnam,Vietnam,loggnip,8.59
+VNM,Vietnam,Vietnam,gininoal,34.76
+VNM,Vietnam,Vietnam,ginial,
+FJI,Fiji,Fiji,gini,36.4
+FJI,Fiji,Fiji,loggnip,9.0
+FJI,Fiji,Fiji,gininoal,36.4
+FJI,Fiji,Fiji,ginial,
+PHL,Filipinas,Philippines,gini,40.11
+PHL,Filipinas,Philippines,loggnip,9.09
+PHL,Filipinas,Philippines,gininoal,40.11
+PHL,Filipinas,Philippines,ginial,
+MNG,Mongolia,Mongolia,gini,32.04
+MNG,Mongolia,Mongolia,loggnip,9.3
+MNG,Mongolia,Mongolia,gininoal,32.04
+MNG,Mongolia,Mongolia,ginial,
+IDN,Indonesia,Indonesia,gini,38.57
+IDN,Indonesia,Indonesia,loggnip,9.33
+IDN,Indonesia,Indonesia,gininoal,38.57
+IDN,Indonesia,Indonesia,ginial,
+THA,Tailandia,Thailand,gini,37.85
+THA,Tailandia,Thailand,loggnip,9.57
+THA,Tailandia,Thailand,gininoal,37.85
+THA,Tailandia,Thailand,ginial,
+CHN,China,China,gini,38.59
+CHN,China,China,loggnip,9.57
+CHN,China,China,gininoal,38.59
+CHN,China,China,ginial,
+MYS,Malasia,Malaysia,gini,39.83
+MYS,Malasia,Malaysia,loggnip,9.86
+MYS,Malasia,Malaysia,gininoal,39.83
+MYS,Malasia,Malaysia,ginial,
+UZB,Uzbekistán,Uzbekistan,gini,35.27
+UZB,Uzbekistán,Uzbekistan,loggnip,7.72
+UZB,Uzbekistán,Uzbekistan,gininoal,35.27
+UZB,Uzbekistán,Uzbekistan,ginial,
+KGZ,Kirguistán,Kyrgyz Republic,gini,29.0
+KGZ,Kirguistán,Kyrgyz Republic,loggnip,8.1
+KGZ,Kirguistán,Kyrgyz Republic,gininoal,29.0
+KGZ,Kirguistán,Kyrgyz Republic,ginial,
+TJK,Tayikistán,Tajikistan,gini,34.0
+TJK,Tayikistán,Tajikistan,loggnip,8.12
+TJK,Tayikistán,Tajikistan,gininoal,34.0
+TJK,Tayikistán,Tajikistan,ginial,
+TKM,Turkmenistán,Turkmenistan,gini,40.77
+TKM,Turkmenistán,Turkmenistan,loggnip,8.14
+TKM,Turkmenistán,Turkmenistan,gininoal,40.77
+TKM,Turkmenistán,Turkmenistan,ginial,
+MDA,Moldavia,Moldova,gini,27.03
+MDA,Moldavia,Moldova,loggnip,8.6
+MDA,Moldavia,Moldova,gininoal,27.03
+MDA,Moldavia,Moldova,ginial,
+UKR,Ucrania,Ukraine,gini,25.46
+UKR,Ucrania,Ukraine,loggnip,8.97
+UKR,Ucrania,Ukraine,gininoal,25.46
+UKR,Ucrania,Ukraine,ginial,
+XKX,Kosovo,Kosovo,gini,26.71
+XKX,Kosovo,Kosovo,loggnip,9.11
+XKX,Kosovo,Kosovo,gininoal,26.71
+XKX,Kosovo,Kosovo,ginial,
+ARM,Armenia,Armenia,gini,32.36
+ARM,Armenia,Armenia,loggnip,9.11
+ARM,Armenia,Armenia,gininoal,32.36
+ARM,Armenia,Armenia,ginial,
+GEO,Georgia,Georgia,gini,38.54
+GEO,Georgia,Georgia,loggnip,9.14
+GEO,Georgia,Georgia,gininoal,38.54
+GEO,Georgia,Georgia,ginial,
+BIH,Bosnia y Herzegovina,Bosnia and Herzegovina,gini,33.83
+BIH,Bosnia y Herzegovina,Bosnia and Herzegovina,loggnip,9.21
+BIH,Bosnia y Herzegovina,Bosnia and Herzegovina,gininoal,33.83
+BIH,Bosnia y Herzegovina,Bosnia and Herzegovina,ginial,
+ALB,Albania,Albania,gini,28.96
+ALB,Albania,Albania,loggnip,9.25
+ALB,Albania,Albania,gininoal,28.96
+ALB,Albania,Albania,ginial,
+AZE,Azerbaiyán,Azerbaijan,gini,31.79
+AZE,Azerbaiyán,Azerbaijan,loggnip,9.42
+AZE,Azerbaiyán,Azerbaijan,gininoal,31.79
+AZE,Azerbaiyán,Azerbaijan,ginial,
+SRB,Serbia,Serbia,gini,29.06
+SRB,Serbia,Serbia,loggnip,9.49
+SRB,Serbia,Serbia,gininoal,29.06
+SRB,Serbia,Serbia,ginial,
+MKD,Macedonia del Norte,Macedonia,gini,
+MKD,Macedonia del Norte,Macedonia,loggnip,
+MKD,Macedonia del Norte,Macedonia,gininoal,
+MKD,Macedonia del Norte,Macedonia,ginial,
+MNE,Montenegro,Montenegro,gini,31.93
+MNE,Montenegro,Montenegro,loggnip,9.66
+MNE,Montenegro,Montenegro,gininoal,31.93
+MNE,Montenegro,Montenegro,ginial,
+BGR,Bulgaria,Bulgaria,gini,34.83
+BGR,Bulgaria,Bulgaria,loggnip,9.76
+BGR,Bulgaria,Bulgaria,gininoal,34.83
+BGR,Bulgaria,Bulgaria,ginial,
+BLR,Belarús,Belarus,gini,26.73
+BLR,Belarús,Belarus,loggnip,9.77
+BLR,Belarús,Belarus,gininoal,26.73
+BLR,Belarús,Belarus,ginial,
+ROU,Rumania,Romania,gini,36.38
+ROU,Rumania,Romania,loggnip,9.93
+ROU,Rumania,Romania,gininoal,36.38
+ROU,Rumania,Romania,ginial,
+HRV,Croacia,Croatia,gini,30.0
+HRV,Croacia,Croatia,loggnip,9.98
+HRV,Croacia,Croatia,gininoal,30.0
+HRV,Croacia,Croatia,ginial,
+TUR,Turquía,Turkey,gini,41.24
+TUR,Turquía,Turkey,loggnip,10.04
+TUR,Turquía,Turkey,gininoal,41.24
+TUR,Turquía,Turkey,ginial,
+RUS,Rusia,Russian Federation,gini,37.73
+RUS,Rusia,Russian Federation,loggnip,10.05
+RUS,Rusia,Russian Federation,gininoal,37.73
+RUS,Rusia,Russian Federation,ginial,
+KAZ,Kazajstán,Kazakhstan,gini,26.47
+KAZ,Kazajstán,Kazakhstan,loggnip,10.06
+KAZ,Kazajstán,Kazakhstan,gininoal,26.47
+KAZ,Kazajstán,Kazakhstan,ginial,
+LVA,Letonia,Latvia,gini,32.68
+LVA,Letonia,Latvia,loggnip,10.08
+LVA,Letonia,Latvia,gininoal,32.68
+LVA,Letonia,Latvia,ginial,
+HUN,Hungría,Hungary,gini,28.78
+HUN,Hungría,Hungary,loggnip,10.1
+HUN,Hungría,Hungary,gininoal,28.78
+HUN,Hungría,Hungary,ginial,
+POL,Polonia,Poland,gini,32.08
+POL,Polonia,Poland,loggnip,10.12
+POL,Polonia,Poland,gininoal,32.08
+POL,Polonia,Poland,ginial,
+EST,Estonia,Estonia,gini,32.19
+EST,Estonia,Estonia,loggnip,10.23
+EST,Estonia,Estonia,gininoal,32.19
+EST,Estonia,Estonia,ginial,
+LTU,Lituania,Lithuania,gini,35.07
+LTU,Lituania,Lithuania,loggnip,10.23
+LTU,Lituania,Lithuania,gininoal,35.07
+LTU,Lituania,Lithuania,ginial,
+HTI,Haití,Haiti,gini,52.34
+HTI,Haití,Haiti,loggnip,7.4
+HTI,Haití,Haiti,gininoal,52.34
+HTI,Haití,Haiti,ginial,
+GUY,Guyana,Guyana,gini,38.36
+GUY,Guyana,Guyana,loggnip,8.02
+GUY,Guyana,Guyana,gininoal,38.36
+GUY,Guyana,Guyana,ginial,
+HND,Honduras,Honduras,gini,43.14
+HND,Honduras,Honduras,loggnip,8.36
+HND,Honduras,Honduras,gininoal,
+HND,Honduras,Honduras,ginial,43.14
+BLZ,Belice,Belize,gini,45.86
+BLZ,Belice,Belize,loggnip,8.45
+BLZ,Belice,Belize,gininoal,45.86
+BLZ,Belice,Belize,ginial,
+NIC,Nicaragua,Nicaragua,gini,40.09
+NIC,Nicaragua,Nicaragua,loggnip,8.5
+NIC,Nicaragua,Nicaragua,gininoal,
+NIC,Nicaragua,Nicaragua,ginial,
+LCA,Santa Lucía,St. Lucia,gini,36.66
+LCA,Santa Lucía,St. Lucia,loggnip,8.79
+LCA,Santa Lucía,St. Lucia,gininoal,36.66
+LCA,Santa Lucía,St. Lucia,ginial,
+BOL,Bolivia,Bolivia,gini,39.42
+BOL,Bolivia,Bolivia,loggnip,8.81
+BOL,Bolivia,Bolivia,gininoal,
+BOL,Bolivia,Bolivia,ginial,39.42
+JAM,Jamaica,Jamaica,gini,45.46
+JAM,Jamaica,Jamaica,loggnip,8.83
+JAM,Jamaica,Jamaica,gininoal,45.46
+JAM,Jamaica,Jamaica,ginial,
+SUR,Suriname,Suriname,gini,49.6
+SUR,Suriname,Suriname,loggnip,8.88
+SUR,Suriname,Suriname,gininoal,49.6
+SUR,Suriname,Suriname,ginial,
+GTM,Guatemala,Guatemala,gini,41.9
+GTM,Guatemala,Guatemala,loggnip,8.9
+GTM,Guatemala,Guatemala,gininoal,
+GTM,Guatemala,Guatemala,ginial,41.9
+TTO,Trinidad y Tobago,Trinidad and Tobago,gini,34.67
+TTO,Trinidad y Tobago,Trinidad and Tobago,loggnip,8.92
+TTO,Trinidad y Tobago,Trinidad and Tobago,gininoal,34.67
+TTO,Trinidad y Tobago,Trinidad and Tobago,ginial,
+PRY,Paraguay,Paraguay,gini,41.31
+PRY,Paraguay,Paraguay,loggnip,9.07
+PRY,Paraguay,Paraguay,gininoal,
+PRY,Paraguay,Paraguay,ginial,41.31
+ECU,Ecuador,Ecuador,gini,40.07
+ECU,Ecuador,Ecuador,loggnip,9.33
+ECU,Ecuador,Ecuador,gininoal,
+ECU,Ecuador,Ecuador,ginial,40.07
+PER,Perú,Peru,gini,38.13
+PER,Perú,Peru,loggnip,9.39
+PER,Perú,Peru,gininoal,
+PER,Perú,Peru,ginial,38.13
+COL,Colombia,Colombia,gini,43.97
+COL,Colombia,Colombia,loggnip,9.51
+COL,Colombia,Colombia,gininoal,
+COL,Colombia,Colombia,ginial,43.97
+DOM,Rep. Dominicana,Dominican Republic,gini,38.64
+DOM,Rep. Dominicana,Dominican Republic,loggnip,9.52
+DOM,Rep. Dominicana,Dominican Republic,gininoal,
+DOM,Rep. Dominicana,Dominican Republic,ginial,38.64
+VEN,Venezuela,Venezuela,gini,
+VEN,Venezuela,Venezuela,loggnip,
+VEN,Venezuela,Venezuela,gininoal,
+VEN,Venezuela,Venezuela,ginial,
+CRI,Costa Rica,Costa Rica,gini,41.47
+CRI,Costa Rica,Costa Rica,loggnip,9.63
+CRI,Costa Rica,Costa Rica,gininoal,
+CRI,Costa Rica,Costa Rica,ginial,41.47
+BRA,Brasil,Brazil,gini,44.21
+BRA,Brasil,Brazil,loggnip,9.63
+BRA,Brasil,Brazil,gininoal,
+BRA,Brasil,Brazil,ginial,44.21
+MEX,México,Mexico,gini,42.31
+MEX,México,Mexico,loggnip,9.75
+MEX,México,Mexico,gininoal,
+MEX,México,Mexico,ginial,42.31
+ARG,Argentina,Argentina,gini,36.74
+ARG,Argentina,Argentina,loggnip,9.87
+ARG,Argentina,Argentina,gininoal,
+ARG,Argentina,Argentina,ginial,36.74
+PAN,Panamá,Panama,gini,43.89
+PAN,Panamá,Panama,loggnip,9.91
+PAN,Panamá,Panama,gininoal,
+PAN,Panamá,Panama,ginial,43.89
+URY,Uruguay,Uruguay,gini,35.9
+URY,Uruguay,Uruguay,loggnip,9.93
+URY,Uruguay,Uruguay,gininoal,
+URY,Uruguay,Uruguay,ginial,35.9
+CHL,Chile,Chile,gini,41.03
+CHL,Chile,Chile,loggnip,10.04
+CHL,Chile,Chile,gininoal,
+CHL,Chile,Chile,ginial,41.03
+DJI,Djibouti,Djibouti,gini,44.13
+DJI,Djibouti,Djibouti,loggnip,8.04
+DJI,Djibouti,Djibouti,gininoal,44.13
+DJI,Djibouti,Djibouti,ginial,
+YEM,Yemen,Yemen,gini,
+YEM,Yemen,Yemen,loggnip,
+YEM,Yemen,Yemen,gininoal,
+YEM,Yemen,Yemen,ginial,
+MAR,Marruecos,Morocco,gini,40.72
+MAR,Marruecos,Morocco,loggnip,8.56
+MAR,Marruecos,Morocco,gininoal,40.72
+MAR,Marruecos,Morocco,ginial,
+JOR,Jordania,Jordan,gini,33.66
+JOR,Jordania,Jordan,loggnip,9.13
+JOR,Jordania,Jordan,gininoal,33.66
+JOR,Jordania,Jordan,ginial,
+TUN,Túnez,Tunisia,gini,35.81
+TUN,Túnez,Tunisia,loggnip,9.19
+TUN,Túnez,Tunisia,gininoal,35.81
+TUN,Túnez,Tunisia,ginial,
+EGY,Egipto,Egypt,gini,
+EGY,Egipto,Egypt,loggnip,
+EGY,Egipto,Egypt,gininoal,
+EGY,Egipto,Egypt,ginial,
+DZA,Argelia,Algeria,gini,27.62
+DZA,Argelia,Algeria,loggnip,9.46
+DZA,Argelia,Algeria,gininoal,27.62
+DZA,Argelia,Algeria,ginial,
+IRQ,Iraq,Iraq,gini,29.54
+IRQ,Iraq,Iraq,loggnip,9.61
+IRQ,Iraq,Iraq,gininoal,29.54
+IRQ,Iraq,Iraq,ginial,
+LBN,Líbano,Lebanon,gini,31.83
+LBN,Líbano,Lebanon,loggnip,9.66
+LBN,Líbano,Lebanon,gininoal,31.83
+LBN,Líbano,Lebanon,ginial,
+IRN,Irán,Iran,gini,
+IRN,Irán,Iran,loggnip,
+IRN,Irán,Iran,gininoal,
+IRN,Irán,Iran,ginial,
+PSE,Palestina,West Bank and Gaza,gini,34.44
+PSE,Palestina,West Bank and Gaza,loggnip,
+PSE,Palestina,West Bank and Gaza,gininoal,34.44
+PSE,Palestina,West Bank and Gaza,ginial,
+SYR,Siria,Syrian Arab Republic,gini,35.78
+SYR,Siria,Syrian Arab Republic,loggnip,
+SYR,Siria,Syrian Arab Republic,gininoal,35.78
+SYR,Siria,Syrian Arab Republic,ginial,
+NPL,Nepal,Nepal,gini,32.84
+NPL,Nepal,Nepal,loggnip,7.58
+NPL,Nepal,Nepal,gininoal,32.84
+NPL,Nepal,Nepal,ginial,
+BGD,Bangladesh,Bangladesh,gini,32.13
+BGD,Bangladesh,Bangladesh,loggnip,7.86
+BGD,Bangladesh,Bangladesh,gininoal,32.13
+BGD,Bangladesh,Bangladesh,ginial,
+IND,India,India,gini,35.71
+IND,India,India,loggnip,8.43
+IND,India,India,gininoal,35.71
+IND,India,India,ginial,
+PAK,Pakistán,Pakistan,gini,30.69
+PAK,Pakistán,Pakistan,loggnip,8.49
+PAK,Pakistán,Pakistan,gininoal,30.69
+PAK,Pakistán,Pakistan,ginial,
+BTN,Bhután,Bhutan,gini,38.81
+BTN,Bhután,Bhutan,loggnip,8.79
+BTN,Bhután,Bhutan,gininoal,38.81
+BTN,Bhután,Bhutan,ginial,
+MDV,Maldivas,Maldives,gini,38.37
+MDV,Maldivas,Maldives,loggnip,9.05
+MDV,Maldivas,Maldives,gininoal,38.37
+MDV,Maldivas,Maldives,ginial,
+LKA,Sri Lanka,Sri Lanka,gini,39.16
+LKA,Sri Lanka,Sri Lanka,loggnip,9.21
+LKA,Sri Lanka,Sri Lanka,gininoal,39.16
+LKA,Sri Lanka,Sri Lanka,ginial,
+COD,Rep. Dem. Congo,Congo,gini,
+COD,Rep. Dem. Congo,Congo,loggnip,
+COD,Rep. Dem. Congo,Congo,gininoal,
+COD,Rep. Dem. Congo,Congo,ginial,
+LBR,Liberia,Liberia,gini,33.24
+LBR,Liberia,Liberia,loggnip,6.57
+LBR,Liberia,Liberia,gininoal,33.24
+LBR,Liberia,Liberia,ginial,
+MOZ,Mozambique,Mozambique,gini,45.58
+MOZ,Mozambique,Mozambique,loggnip,6.66
+MOZ,Mozambique,Mozambique,gininoal,45.58
+MOZ,Mozambique,Mozambique,ginial,
+BDI,Burundi,Burundi,gini,39.21
+BDI,Burundi,Burundi,loggnip,6.71
+BDI,Burundi,Burundi,gininoal,39.21
+BDI,Burundi,Burundi,ginial,
+CAF,Rep. Centroafricana,Central African Republic,gini,56.24
+CAF,Rep. Centroafricana,Central African Republic,loggnip,6.71
+CAF,Rep. Centroafricana,Central African Republic,gininoal,56.24
+CAF,Rep. Centroafricana,Central African Republic,ginial,
+NER,Níger,Niger,gini,33.99
+NER,Níger,Niger,loggnip,6.84
+NER,Níger,Niger,gininoal,33.99
+NER,Níger,Niger,ginial,
+MWI,Malawi,Malawi,gini,46.12
+MWI,Malawi,Malawi,loggnip,6.91
+MWI,Malawi,Malawi,gininoal,46.12
+MWI,Malawi,Malawi,ginial,
+ETH,Etiopía,Ethiopia,gini,33.17
+ETH,Etiopía,Ethiopia,loggnip,6.96
+ETH,Etiopía,Ethiopia,gininoal,33.17
+ETH,Etiopía,Ethiopia,ginial,
+GIN,Guinea,Guinea,gini,33.73
+GIN,Guinea,Guinea,loggnip,7.06
+GIN,Guinea,Guinea,gininoal,33.73
+GIN,Guinea,Guinea,ginial,
+SLE,Sierra Leona,Sierra Leone,gini,33.99
+SLE,Sierra Leona,Sierra Leone,loggnip,7.11
+SLE,Sierra Leona,Sierra Leone,gininoal,33.99
+SLE,Sierra Leona,Sierra Leone,ginial,
+GMB,Gambia,Gambia,gini,
+GMB,Gambia,Gambia,loggnip,
+GMB,Gambia,Gambia,gininoal,
+GMB,Gambia,Gambia,ginial,
+TGO,Togo,Togo,gini,43.05
+TGO,Togo,Togo,loggnip,7.18
+TGO,Togo,Togo,gininoal,43.05
+TGO,Togo,Togo,ginial,
+MDG,Madagascar,Madagascar,gini,42.65
+MDG,Madagascar,Madagascar,loggnip,7.21
+MDG,Madagascar,Madagascar,gininoal,42.65
+MDG,Madagascar,Madagascar,ginial,
+GNB,Guinea-Bissau,Guinea-Bissau,gini,50.66
+GNB,Guinea-Bissau,Guinea-Bissau,loggnip,7.22
+GNB,Guinea-Bissau,Guinea-Bissau,gininoal,50.66
+GNB,Guinea-Bissau,Guinea-Bissau,ginial,
+COM,Comoras,Comoros,gini,44.99
+COM,Comoras,Comoros,loggnip,7.31
+COM,Comoras,Comoros,gininoal,44.99
+COM,Comoras,Comoros,ginial,
+ZWE,Zimbabwe,Zimbabwe,gini,43.15
+ZWE,Zimbabwe,Zimbabwe,loggnip,7.34
+ZWE,Zimbabwe,Zimbabwe,gininoal,43.15
+ZWE,Zimbabwe,Zimbabwe,ginial,
+RWA,Ruanda,Rwanda,gini,50.44
+RWA,Ruanda,Rwanda,loggnip,7.35
+RWA,Ruanda,Rwanda,gininoal,50.44
+RWA,Ruanda,Rwanda,ginial,
+BFA,Burkina Faso,Burkina Faso,gini,35.3
+BFA,Burkina Faso,Burkina Faso,loggnip,7.36
+BFA,Burkina Faso,Burkina Faso,gininoal,35.3
+BFA,Burkina Faso,Burkina Faso,ginial,
+UGA,Uganda,Uganda,gini,41.01
+UGA,Uganda,Uganda,loggnip,7.4
+UGA,Uganda,Uganda,gininoal,41.01
+UGA,Uganda,Uganda,ginial,
+MLI,Malí,Mali,gini,33.04
+MLI,Malí,Mali,loggnip,7.46
+MLI,Malí,Mali,gininoal,33.04
+MLI,Malí,Mali,ginial,
+TCD,Chad,Chad,gini,43.32
+TCD,Chad,Chad,loggnip,7.51
+TCD,Chad,Chad,gininoal,43.32
+TCD,Chad,Chad,ginial,
+KEN,Kenia,Kenya,gini,48.51
+KEN,Kenia,Kenya,loggnip,7.59
+KEN,Kenia,Kenya,gininoal,48.51
+KEN,Kenia,Kenya,ginial,
+BEN,Benin,Benin,gini,47.76
+BEN,Benin,Benin,loggnip,7.65
+BEN,Benin,Benin,gininoal,47.76
+BEN,Benin,Benin,ginial,
+SEN,Senegal,Senegal,gini,40.29
+SEN,Senegal,Senegal,loggnip,7.65
+SEN,Senegal,Senegal,gininoal,40.29
+SEN,Senegal,Senegal,ginial,
+TZA,Tanzanía,Tanzania,gini,37.78
+TZA,Tanzanía,Tanzania,loggnip,7.68
+TZA,Tanzanía,Tanzania,gininoal,37.78
+TZA,Tanzanía,Tanzania,ginial,
+STP,Santo Tomé y Príncipe,Sao Tome and Principe,gini,30.82
+STP,Santo Tomé y Príncipe,Sao Tome and Principe,loggnip,7.86
+STP,Santo Tomé y Príncipe,Sao Tome and Principe,gininoal,30.82
+STP,Santo Tomé y Príncipe,Sao Tome and Principe,ginial,
+SSD,Sudán del Sur,South Sudan,gini,46.34
+SSD,Sudán del Sur,South Sudan,loggnip,7.87
+SSD,Sudán del Sur,South Sudan,gininoal,46.34
+SSD,Sudán del Sur,South Sudan,ginial,
+LSO,Lesotho,Lesotho,gini,54.18
+LSO,Lesotho,Lesotho,loggnip,7.99
+LSO,Lesotho,Lesotho,gininoal,54.18
+LSO,Lesotho,Lesotho,ginial,
+SDN,Sudán,Sudan,gini,35.39
+SDN,Sudán,Sudan,loggnip,8.0
+SDN,Sudán,Sudan,gininoal,35.39
+SDN,Sudán,Sudan,ginial,
+CMR,Camerún,Cameroon,gini,46.54
+CMR,Camerún,Cameroon,loggnip,8.02
+CMR,Camerún,Cameroon,gininoal,46.54
+CMR,Camerún,Cameroon,ginial,
+CIV,Costa de Marfil,Cote d'Ivoire,gini,41.73
+CIV,Costa de Marfil,Cote d'Ivoire,loggnip,8.12
+CIV,Costa de Marfil,Cote d'Ivoire,gininoal,41.73
+CIV,Costa de Marfil,Cote d'Ivoire,ginial,
+GHA,Ghana,Ghana,gini,42.21
+GHA,Ghana,Ghana,loggnip,8.16
+GHA,Ghana,Ghana,gininoal,42.21
+GHA,Ghana,Ghana,ginial,
+MRT,Mauritania,Mauritania,gini,32.42
+MRT,Mauritania,Mauritania,loggnip,8.23
+MRT,Mauritania,Mauritania,gininoal,32.42
+MRT,Mauritania,Mauritania,ginial,
+ZMB,Zambia,Zambia,gini,57.14
+ZMB,Zambia,Zambia,loggnip,8.24
+ZMB,Zambia,Zambia,gininoal,57.14
+ZMB,Zambia,Zambia,ginial,
+COG,Congo,Congo,gini,
+COG,Congo,Congo,loggnip,
+COG,Congo,Congo,gininoal,
+COG,Congo,Congo,ginial,
+NGA,Nigeria,Nigeria,gini,42.97
+NGA,Nigeria,Nigeria,loggnip,8.38
+NGA,Nigeria,Nigeria,gininoal,42.97
+NGA,Nigeria,Nigeria,ginial,
+AGO,Angola,Angola,gini,42.72
+AGO,Angola,Angola,loggnip,8.48
+AGO,Angola,Angola,gininoal,42.72
+AGO,Angola,Angola,ginial,
+CPV,Cabo Verde,Cabo Verde,gini,47.19
+CPV,Cabo Verde,Cabo Verde,loggnip,8.56
+CPV,Cabo Verde,Cabo Verde,gininoal,47.19
+CPV,Cabo Verde,Cabo Verde,ginial,
+SWZ,Eswatini,Swaziland,gini,51.45
+SWZ,Eswatini,Swaziland,loggnip,8.82
+SWZ,Eswatini,Swaziland,gininoal,51.45
+SWZ,Eswatini,Swaziland,ginial,
+NAM,Namibia,Namibia,gini,60.97
+NAM,Namibia,Namibia,loggnip,8.95
+NAM,Namibia,Namibia,gininoal,60.97
+NAM,Namibia,Namibia,ginial,
+BWA,Botswana,Botswana,gini,60.46
+BWA,Botswana,Botswana,loggnip,9.38
+BWA,Botswana,Botswana,gininoal,60.46
+BWA,Botswana,Botswana,ginial,
+ZAF,Sudáfrica,South Africa,gini,63.38
+ZAF,Sudáfrica,South Africa,loggnip,9.39
+ZAF,Sudáfrica,South Africa,gininoal,63.38
+ZAF,Sudáfrica,South Africa,ginial,
+GAB,Gabón,Gabon,gini,42.18
+GAB,Gabón,Gabon,loggnip,9.52
+GAB,Gabón,Gabon,gininoal,42.18
+GAB,Gabón,Gabon,ginial,
+MUS,Mauricio,Mauritius,gini,35.84
+MUS,Mauricio,Mauritius,loggnip,9.77
+MUS,Mauricio,Mauritius,gininoal,35.84
+MUS,Mauricio,Mauritius,ginial,
+SYC,Seychelles,Seychelles,gini,40.31
+SYC,Seychelles,Seychelles,loggnip,10.1
+SYC,Seychelles,Seychelles,gininoal,40.31
+SYC,Seychelles,Seychelles,ginial,
+GRC,Grecia,Greece,gini,33.95
+GRC,Grecia,Greece,loggnip,10.18
+GRC,Grecia,Greece,gininoal,33.95
+GRC,Grecia,Greece,ginial,
+PRT,Portugal,Portugal,gini,33.72
+PRT,Portugal,Portugal,loggnip,10.25
+PRT,Portugal,Portugal,gininoal,33.72
+PRT,Portugal,Portugal,ginial,
+SVK,Eslovaquia,Slovak Republic,gini,24.76
+SVK,Eslovaquia,Slovak Republic,loggnip,10.26
+SVK,Eslovaquia,Slovak Republic,gininoal,24.76
+SVK,Eslovaquia,Slovak Republic,ginial,
+CYP,Chipre,Cyprus,gini,33.72
+CYP,Chipre,Cyprus,loggnip,10.29
+CYP,Chipre,Cyprus,gininoal,33.72
+CYP,Chipre,Cyprus,ginial,
+CZE,Chequia,Czech Republic,gini,24.58
+CZE,Chequia,Czech Republic,loggnip,10.31
+CZE,Chequia,Czech Republic,gininoal,24.58
+CZE,Chequia,Czech Republic,ginial,
+ISR,Israel,Israel,gini,39.22
+ISR,Israel,Israel,loggnip,10.34
+ISR,Israel,Israel,gininoal,39.22
+ISR,Israel,Israel,ginial,
+SVN,Eslovenia,Slovenia,gini,24.33
+SVN,Eslovenia,Slovenia,loggnip,10.34
+SVN,Eslovenia,Slovenia,gininoal,24.33
+SVN,Eslovenia,Slovenia,ginial,
+KOR,Corea del Sur,Korea,gini,
+KOR,Corea del Sur,Korea,loggnip,
+KOR,Corea del Sur,Korea,gininoal,
+KOR,Corea del Sur,Korea,ginial,
+ESP,España,Spain,gini,34.18
+ESP,España,Spain,loggnip,10.42
+ESP,España,Spain,gininoal,34.18
+ESP,España,Spain,ginial,
+JPN,Japón,Japan,gini,30.45
+JPN,Japón,Japan,loggnip,10.48
+JPN,Japón,Japan,gininoal,30.45
+JPN,Japón,Japan,ginial,
+ITA,Italia,Italy,gini,32.86
+ITA,Italia,Italy,loggnip,10.5
+ITA,Italia,Italy,gininoal,32.86
+ITA,Italia,Italy,ginial,
+AUS,Australia,Australia,gini,32.86
+AUS,Australia,Australia,loggnip,10.54
+AUS,Australia,Australia,gininoal,32.86
+AUS,Australia,Australia,ginial,
+GBR,Reino Unido,United Kingdom,gini,32.3
+GBR,Reino Unido,United Kingdom,loggnip,10.6
+GBR,Reino Unido,United Kingdom,gininoal,32.3
+GBR,Reino Unido,United Kingdom,ginial,
+FRA,Francia,France,gini,30.59
+FRA,Francia,France,loggnip,10.61
+FRA,Francia,France,gininoal,30.59
+FRA,Francia,France,ginial,
+FIN,Finlandia,Finland,gini,25.39
+FIN,Finlandia,Finland,loggnip,10.64
+FIN,Finlandia,Finland,gininoal,25.39
+FIN,Finlandia,Finland,ginial,
+CAN,Canadá,Canada,gini,32.26
+CAN,Canadá,Canada,loggnip,10.68
+CAN,Canadá,Canada,gininoal,32.26
+CAN,Canadá,Canada,ginial,
+ISL,Islandia,Iceland,gini,24.29
+ISL,Islandia,Iceland,loggnip,10.68
+ISL,Islandia,Iceland,gininoal,24.29
+ISL,Islandia,Iceland,ginial,
+IRL,Irlanda,Ireland,gini,30.22
+IRL,Irlanda,Ireland,loggnip,10.68
+IRL,Irlanda,Ireland,gininoal,30.22
+IRL,Irlanda,Ireland,ginial,
+BEL,Bélgica,Belgium,gini,26.67
+BEL,Bélgica,Belgium,loggnip,10.72
+BEL,Bélgica,Belgium,gininoal,26.67
+BEL,Bélgica,Belgium,ginial,
+DEU,Alemania,Germany,gini,29.76
+DEU,Alemania,Germany,loggnip,10.74
+DEU,Alemania,Germany,gininoal,29.76
+DEU,Alemania,Germany,ginial,
+SWE,Suecia,Sweden,gini,25.75
+SWE,Suecia,Sweden,loggnip,10.77
+SWE,Suecia,Sweden,gininoal,25.75
+SWE,Suecia,Sweden,ginial,
+AUT,Austria,Austria,gini,28.93
+AUT,Austria,Austria,loggnip,10.79
+AUT,Austria,Austria,gininoal,28.93
+AUT,Austria,Austria,ginial,
+NLD,Países Bajos,Netherlands,gini,27.15
+NLD,Países Bajos,Netherlands,loggnip,10.8
+NLD,Países Bajos,Netherlands,gininoal,27.15
+NLD,Países Bajos,Netherlands,ginial,
+DNK,Dinamarca,Denmark,gini,27.06
+DNK,Dinamarca,Denmark,loggnip,10.81
+DNK,Dinamarca,Denmark,gininoal,27.06
+DNK,Dinamarca,Denmark,ginial,
+USA,Estados Unidos,United States,gini,38.91
+USA,Estados Unidos,United States,loggnip,10.9
+USA,Estados Unidos,United States,gininoal,38.91
+USA,Estados Unidos,United States,ginial,
+CHE,Suiza,Switzerland,gini,30.78
+CHE,Suiza,Switzerland,loggnip,11.02
+CHE,Suiza,Switzerland,gininoal,30.78
+CHE,Suiza,Switzerland,ginial,
+LUX,Luxemburgo,Luxembourg,gini,29.54
+LUX,Luxemburgo,Luxembourg,loggnip,11.12
+LUX,Luxemburgo,Luxembourg,gininoal,29.54
+LUX,Luxemburgo,Luxembourg,ginial,
+NOR,Noruega,Norway,gini,25.36
+NOR,Noruega,Norway,loggnip,11.13
+NOR,Noruega,Norway,gininoal,25.36
+NOR,Noruega,Norway,ginial,

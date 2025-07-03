@@ -1,85 +1,85 @@
-"anio","nivel_ed_cod","nivel_ed_desc","tasa_desocupacion"
-"2003","1","Hasta secundaria incompleta","0.119657486206277"
-"2003","2","Secundaria completa","0.101494807141736"
-"2003","3","Superior incompleta","0.0960767569289819"
-"2003","4","Superior completa","0.0459857541739257"
-"2004","1","Hasta secundaria incompleta","0.104747826512211"
-"2004","2","Secundaria completa","0.0992402218852298"
-"2004","3","Superior incompleta","0.0908099268380425"
-"2004","4","Superior completa","0.0416235747727899"
-"2005","1","Hasta secundaria incompleta","0.0908017533753779"
-"2005","2","Secundaria completa","0.0720528042906794"
-"2005","3","Superior incompleta","0.0716278209396966"
-"2005","4","Superior completa","0.0376251405520263"
-"2006","1","Hasta secundaria incompleta","0.0794764015124613"
-"2006","2","Secundaria completa","0.0738041578071111"
-"2006","3","Superior incompleta","0.0656821577489069"
-"2006","4","Superior completa","0.0257704429986509"
-"2007","1","Hasta secundaria incompleta","0.0678166742483768"
-"2007","2","Secundaria completa","0.057214434215045"
-"2007","3","Superior incompleta","0.0574486492520652"
-"2007","4","Superior completa","0.0260983680008053"
-"2008","1","Hasta secundaria incompleta","0.0652280963895221"
-"2008","2","Secundaria completa","0.0494126128216336"
-"2008","3","Superior incompleta","0.0514180288824955"
-"2008","4","Superior completa","0.0297657291688256"
-"2009","1","Hasta secundaria incompleta","0.0726137706926504"
-"2009","2","Secundaria completa","0.0540085204711335"
-"2009","3","Superior incompleta","0.0601950849658068"
-"2009","4","Superior completa","0.0330837956715762"
-"2010","1","Hasta secundaria incompleta","0.0626775060894416"
-"2010","2","Secundaria completa","0.0525423004052418"
-"2010","3","Superior incompleta","0.0604466552091293"
-"2010","4","Superior completa","0.0229080939438716"
-"2011","1","Hasta secundaria incompleta","0.0582339047286395"
-"2011","2","Secundaria completa","0.050067392267291"
-"2011","3","Superior incompleta","0.0527825906746523"
-"2011","4","Superior completa","0.023241034869185"
-"2012","1","Hasta secundaria incompleta","0.0597228948602374"
-"2012","2","Secundaria completa","0.0529267360776664"
-"2012","3","Superior incompleta","0.0529670993017474"
-"2012","4","Superior completa","0.0267917705752219"
-"2013","1","Hasta secundaria incompleta","0.0532924480128331"
-"2013","2","Secundaria completa","0.04717986989214"
-"2013","3","Superior incompleta","0.0498257022189448"
-"2013","4","Superior completa","0.0272288118628808"
-"2014","1","Hasta secundaria incompleta","0.0606429246109086"
-"2014","2","Secundaria completa","0.0482058688693751"
-"2014","3","Superior incompleta","0.0511822898014568"
-"2014","4","Superior completa","0.0275645802786664"
-"2015","1","Hasta secundaria incompleta","0.0524713673834218"
-"2015","2","Secundaria completa","0.0477072761950219"
-"2015","3","Superior incompleta","0.0493405607911434"
-"2015","4","Superior completa","0.0269320574473899"
-"2016","1","Hasta secundaria incompleta","0.0723650928579591"
-"2016","2","Secundaria completa","0.0532760019169947"
-"2016","3","Superior incompleta","0.0639732598543466"
-"2016","4","Superior completa","0.0225111445537339"
-"2017","1","Hasta secundaria incompleta","0.0811861078832474"
-"2017","2","Secundaria completa","0.0514239967385028"
-"2017","3","Superior incompleta","0.0507997559654865"
-"2017","4","Superior completa","0.0287860934733907"
-"2018","1","Hasta secundaria incompleta","0.0849867919969638"
-"2018","2","Secundaria completa","0.0673251792553184"
-"2018","3","Superior incompleta","0.0670412531554593"
-"2018","4","Superior completa","0.0310954713502137"
-"2019","1","Hasta secundaria incompleta","0.0985480058245388"
-"2019","2","Secundaria completa","0.0741045919603273"
-"2019","3","Superior incompleta","0.0651066766958128"
-"2019","4","Superior completa","0.0295519731033493"
-"2020","1","Hasta secundaria incompleta","0.114285400159626"
-"2020","2","Secundaria completa","0.0924739229469772"
-"2020","3","Superior incompleta","0.0671401606275123"
-"2020","4","Superior completa","0.0372444355643959"
-"2021","1","Hasta secundaria incompleta","0.0853391424148773"
-"2021","2","Secundaria completa","0.069220234549501"
-"2021","3","Superior incompleta","0.0610436554708799"
-"2021","4","Superior completa","0.0293519752698257"
-"2022","1","Hasta secundaria incompleta","0.0578055543167141"
-"2022","2","Secundaria completa","0.0569921121682973"
-"2022","3","Superior incompleta","0.044634558411457"
-"2022","4","Superior completa","0.024144253285911"
-"2023","1","Hasta secundaria incompleta","0.0547242638266007"
-"2023","2","Secundaria completa","0.0488356410766086"
-"2023","3","Superior incompleta","0.0424397636372443"
-"2023","4","Superior completa","0.0206249958003185"
+anio,nivel_ed_cod,nivel_ed_desc,tasa_desocupacion
+2003,1,Hasta secundaria incompleta,0.119657486206277
+2003,2,Secundaria completa,0.101494807141736
+2003,3,Superior incompleta,0.0960767569289819
+2003,4,Superior completa,0.0459857541739257
+2004,1,Hasta secundaria incompleta,0.104747826512211
+2004,2,Secundaria completa,0.0992402218852298
+2004,3,Superior incompleta,0.0908099268380425
+2004,4,Superior completa,0.0416235747727899
+2005,1,Hasta secundaria incompleta,0.0908017533753779
+2005,2,Secundaria completa,0.0720528042906794
+2005,3,Superior incompleta,0.0716278209396966
+2005,4,Superior completa,0.0376251405520263
+2006,1,Hasta secundaria incompleta,0.0794764015124613
+2006,2,Secundaria completa,0.0738041578071111
+2006,3,Superior incompleta,0.0656821577489069
+2006,4,Superior completa,0.0257704429986509
+2007,1,Hasta secundaria incompleta,0.0678166742483768
+2007,2,Secundaria completa,0.057214434215045
+2007,3,Superior incompleta,0.0574486492520652
+2007,4,Superior completa,0.0260983680008053
+2008,1,Hasta secundaria incompleta,0.0652280963895221
+2008,2,Secundaria completa,0.0494126128216336
+2008,3,Superior incompleta,0.0514180288824955
+2008,4,Superior completa,0.0297657291688256
+2009,1,Hasta secundaria incompleta,0.0726137706926504
+2009,2,Secundaria completa,0.0540085204711335
+2009,3,Superior incompleta,0.0601950849658068
+2009,4,Superior completa,0.0330837956715762
+2010,1,Hasta secundaria incompleta,0.0626775060894416
+2010,2,Secundaria completa,0.0525423004052418
+2010,3,Superior incompleta,0.0604466552091293
+2010,4,Superior completa,0.0229080939438716
+2011,1,Hasta secundaria incompleta,0.0582339047286395
+2011,2,Secundaria completa,0.050067392267291
+2011,3,Superior incompleta,0.0527825906746523
+2011,4,Superior completa,0.023241034869185
+2012,1,Hasta secundaria incompleta,0.0597228948602374
+2012,2,Secundaria completa,0.0529267360776664
+2012,3,Superior incompleta,0.0529670993017474
+2012,4,Superior completa,0.0267917705752219
+2013,1,Hasta secundaria incompleta,0.0532924480128331
+2013,2,Secundaria completa,0.04717986989214
+2013,3,Superior incompleta,0.0498257022189448
+2013,4,Superior completa,0.0272288118628808
+2014,1,Hasta secundaria incompleta,0.0606429246109086
+2014,2,Secundaria completa,0.0482058688693751
+2014,3,Superior incompleta,0.0511822898014568
+2014,4,Superior completa,0.0275645802786664
+2015,1,Hasta secundaria incompleta,0.0524713673834218
+2015,2,Secundaria completa,0.0477072761950219
+2015,3,Superior incompleta,0.0493405607911434
+2015,4,Superior completa,0.0269320574473899
+2016,1,Hasta secundaria incompleta,0.0723650928579591
+2016,2,Secundaria completa,0.0532760019169947
+2016,3,Superior incompleta,0.0639732598543466
+2016,4,Superior completa,0.0225111445537339
+2017,1,Hasta secundaria incompleta,0.0811861078832474
+2017,2,Secundaria completa,0.0514239967385028
+2017,3,Superior incompleta,0.0507997559654865
+2017,4,Superior completa,0.0287860934733907
+2018,1,Hasta secundaria incompleta,0.0849867919969638
+2018,2,Secundaria completa,0.0673251792553184
+2018,3,Superior incompleta,0.0670412531554593
+2018,4,Superior completa,0.0310954713502137
+2019,1,Hasta secundaria incompleta,0.0985480058245388
+2019,2,Secundaria completa,0.0741045919603273
+2019,3,Superior incompleta,0.0651066766958128
+2019,4,Superior completa,0.0295519731033493
+2020,1,Hasta secundaria incompleta,0.114285400159626
+2020,2,Secundaria completa,0.0924739229469772
+2020,3,Superior incompleta,0.0671401606275123
+2020,4,Superior completa,0.0372444355643959
+2021,1,Hasta secundaria incompleta,0.0853391424148773
+2021,2,Secundaria completa,0.069220234549501
+2021,3,Superior incompleta,0.0610436554708799
+2021,4,Superior completa,0.0293519752698257
+2022,1,Hasta secundaria incompleta,0.0578055543167141
+2022,2,Secundaria completa,0.0569921121682973
+2022,3,Superior incompleta,0.044634558411457
+2022,4,Superior completa,0.024144253285911
+2023,1,Hasta secundaria incompleta,0.0547242638266007
+2023,2,Secundaria completa,0.0488356410766086
+2023,3,Superior incompleta,0.0424397636372443
+2023,4,Superior completa,0.0206249958003185

@@ -1,9 +1,9 @@
-"region","sector","valor_en_porcent"
-"Mundo","Energía","73.2"
-"Mundo","Procesos industriales y uso de productos","5.2"
-"Mundo","Residuos","3.2"
-"Mundo","AGSyOUT","18.4"
-"Argentina","AGSyOUT","36.6"
-"Argentina","Energía","53.8"
-"Argentina","Procesos industriales y uso de productos","5.3"
-"Argentina","Residuos","4.4"
+geocodigoFundar,geonombreFundar,sector,valor_en_porcent
+WLD,Mundo,Energía,73.2
+WLD,Mundo,Procesos industriales y uso de productos,5.2
+WLD,Mundo,Residuos,3.2
+WLD,Mundo,AGSyOUT,18.4
+ARG,Argentina,AGSyOUT,36.6
+ARG,Argentina,Energía,53.8
+ARG,Argentina,Procesos industriales y uso de productos,5.3
+ARG,Argentina,Residuos,4.4

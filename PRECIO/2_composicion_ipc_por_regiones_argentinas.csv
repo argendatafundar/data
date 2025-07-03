@@ -1,85 +1,85 @@
-"region","sector","valor"
-"GBA","Alimentos y bebidas no alcoholicas","23.4"
-"Pampeana","Alimentos y bebidas no alcoholicas","28.6"
-"NEA","Alimentos y bebidas no alcoholicas","35.3"
-"NOA","Alimentos y bebidas no alcoholicas","34.7"
-"Cuyo","Alimentos y bebidas no alcoholicas","28.4"
-"Patagonia","Alimentos y bebidas no alcoholicas","27.4"
-"GBA","Bebidas alcoholicas y tabaco","3.3"
-"Pampeana","Bebidas alcoholicas y tabaco","3.8"
-"NEA","Bebidas alcoholicas y tabaco","3.6"
-"NOA","Bebidas alcoholicas y tabaco","3.1"
-"Cuyo","Bebidas alcoholicas y tabaco","3.6"
-"Patagonia","Bebidas alcoholicas y tabaco","3.5"
-"GBA","Prendas de vestir y calzado","8.5"
-"Pampeana","Prendas de vestir y calzado","10.4"
-"NEA","Prendas de vestir y calzado","11.6"
-"NOA","Prendas de vestir y calzado","12.4"
-"Cuyo","Prendas de vestir y calzado","11.4"
-"Patagonia","Prendas de vestir y calzado","12.8"
-"GBA","Vivienda agua electricidad gas y otros combustibles","10.5"
-"Pampeana","Vivienda agua electricidad gas y otros combustibles","8.7"
-"NEA","Vivienda agua electricidad gas y otros combustibles","8.1"
-"NOA","Vivienda agua electricidad gas y otros combustibles","7"
-"Cuyo","Vivienda agua electricidad gas y otros combustibles","8.9"
-"Patagonia","Vivienda agua electricidad gas y otros combustibles","10.1"
-"GBA","Equipamiento y mantenimiento del hogar","6.3"
-"Pampeana","Equipamiento y mantenimiento del hogar","6.3"
-"NEA","Equipamiento y mantenimiento del hogar","7.8"
-"NOA","Equipamiento y mantenimiento del hogar","6.1"
-"Cuyo","Equipamiento y mantenimiento del hogar","6.3"
-"Patagonia","Equipamiento y mantenimiento del hogar","6.5"
-"GBA","Salud","8.8"
-"Pampeana","Salud","8.2"
-"NEA","Salud","5.3"
-"NOA","Salud","6.3"
-"Cuyo","Salud","7.4"
-"Patagonia","Salud","5"
-"GBA","Transporte","11.6"
-"Pampeana","Transporte","10.4"
-"NEA","Transporte","9.6"
-"NOA","Transporte","8.4"
-"Cuyo","Transporte","12.1"
-"Patagonia","Transporte","13.4"
-"GBA","Comunicaciones","2.8"
-"Pampeana","Comunicaciones","2.9"
-"NEA","Comunicaciones","2.8"
-"NOA","Comunicaciones","2.6"
-"Cuyo","Comunicaciones","2.5"
-"Patagonia","Comunicaciones","3.2"
-"GBA","Recreacion y cultura","7.5"
-"Pampeana","Recreacion y cultura","7.4"
-"NEA","Recreacion y cultura","6.2"
-"NOA","Recreacion y cultura","5.9"
-"Cuyo","Recreacion y cultura","6.7"
-"Patagonia","Recreacion y cultura","7.8"
-"GBA","Educacion","3"
-"Pampeana","Educacion","1.6"
-"NEA","Educacion","1.4"
-"NOA","Educacion","2"
-"Cuyo","Educacion","2.2"
-"Patagonia","Educacion","2.1"
-"GBA","Restaurantes y hoteles","10.8"
-"Pampeana","Restaurantes y hoteles","8.1"
-"NEA","Restaurantes y hoteles","5"
-"NOA","Restaurantes y hoteles","8"
-"Cuyo","Restaurantes y hoteles","6.8"
-"Patagonia","Restaurantes y hoteles","5.1"
-"GBA","Bienes y servicios varios","3.6"
-"Pampeana","Bienes y servicios varios","3.6"
-"NEA","Bienes y servicios varios","3.3"
-"NOA","Bienes y servicios varios","3.4"
-"Cuyo","Bienes y servicios varios","3.6"
-"Patagonia","Bienes y servicios varios","3.1"
-"Nacional","Alimentos y bebidas no alcoholicas","26.93"
-"Nacional","Bebidas alcoholicas y tabaco","3.5"
-"Nacional","Bienes y servicios varios","3.55"
-"Nacional","Comunicaciones","2.82"
-"Nacional","Educacion","2.3"
-"Nacional","Equipamiento y mantenimiento del hogar","6.36"
-"Nacional","Prendas de vestir y calzado","9.9"
-"Nacional","Recreacion y cultura","7.27"
-"Nacional","Restaurantes y hoteles","8.95"
-"Nacional","Salud","8.02"
-"Nacional","Transporte","10.99"
-"Nacional","Vivienda agua electricidad gas y otros combustibles","9.43"
+region,sector,valor
+GBA,Alimentos y bebidas no alcoholicas,23.4
+Pampeana,Alimentos y bebidas no alcoholicas,28.6
+NEA,Alimentos y bebidas no alcoholicas,35.3
+NOA,Alimentos y bebidas no alcoholicas,34.7
+Cuyo,Alimentos y bebidas no alcoholicas,28.4
+Patagonia,Alimentos y bebidas no alcoholicas,27.4
+GBA,Bebidas alcoholicas y tabaco,3.3
+Pampeana,Bebidas alcoholicas y tabaco,3.8
+NEA,Bebidas alcoholicas y tabaco,3.6
+NOA,Bebidas alcoholicas y tabaco,3.1
+Cuyo,Bebidas alcoholicas y tabaco,3.6
+Patagonia,Bebidas alcoholicas y tabaco,3.5
+GBA,Prendas de vestir y calzado,8.5
+Pampeana,Prendas de vestir y calzado,10.4
+NEA,Prendas de vestir y calzado,11.6
+NOA,Prendas de vestir y calzado,12.4
+Cuyo,Prendas de vestir y calzado,11.4
+Patagonia,Prendas de vestir y calzado,12.8
+GBA,Vivienda agua electricidad gas y otros combustibles,10.5
+Pampeana,Vivienda agua electricidad gas y otros combustibles,8.7
+NEA,Vivienda agua electricidad gas y otros combustibles,8.1
+NOA,Vivienda agua electricidad gas y otros combustibles,7.0
+Cuyo,Vivienda agua electricidad gas y otros combustibles,8.9
+Patagonia,Vivienda agua electricidad gas y otros combustibles,10.1
+GBA,Equipamiento y mantenimiento del hogar,6.3
+Pampeana,Equipamiento y mantenimiento del hogar,6.3
+NEA,Equipamiento y mantenimiento del hogar,7.8
+NOA,Equipamiento y mantenimiento del hogar,6.1
+Cuyo,Equipamiento y mantenimiento del hogar,6.3
+Patagonia,Equipamiento y mantenimiento del hogar,6.5
+GBA,Salud,8.8
+Pampeana,Salud,8.2
+NEA,Salud,5.3
+NOA,Salud,6.3
+Cuyo,Salud,7.4
+Patagonia,Salud,5.0
+GBA,Transporte,11.6
+Pampeana,Transporte,10.4
+NEA,Transporte,9.6
+NOA,Transporte,8.4
+Cuyo,Transporte,12.1
+Patagonia,Transporte,13.4
+GBA,Comunicaciones,2.8
+Pampeana,Comunicaciones,2.9
+NEA,Comunicaciones,2.8
+NOA,Comunicaciones,2.6
+Cuyo,Comunicaciones,2.5
+Patagonia,Comunicaciones,3.2
+GBA,Recreacion y cultura,7.5
+Pampeana,Recreacion y cultura,7.4
+NEA,Recreacion y cultura,6.2
+NOA,Recreacion y cultura,5.9
+Cuyo,Recreacion y cultura,6.7
+Patagonia,Recreacion y cultura,7.8
+GBA,Educacion,3.0
+Pampeana,Educacion,1.6
+NEA,Educacion,1.4
+NOA,Educacion,2.0
+Cuyo,Educacion,2.2
+Patagonia,Educacion,2.1
+GBA,Restaurantes y hoteles,10.8
+Pampeana,Restaurantes y hoteles,8.1
+NEA,Restaurantes y hoteles,5.0
+NOA,Restaurantes y hoteles,8.0
+Cuyo,Restaurantes y hoteles,6.8
+Patagonia,Restaurantes y hoteles,5.1
+GBA,Bienes y servicios varios,3.6
+Pampeana,Bienes y servicios varios,3.6
+NEA,Bienes y servicios varios,3.3
+NOA,Bienes y servicios varios,3.4
+Cuyo,Bienes y servicios varios,3.6
+Patagonia,Bienes y servicios varios,3.1
+Nacional,Alimentos y bebidas no alcoholicas,26.93
+Nacional,Bebidas alcoholicas y tabaco,3.5
+Nacional,Bienes y servicios varios,3.55
+Nacional,Comunicaciones,2.82
+Nacional,Educacion,2.3
+Nacional,Equipamiento y mantenimiento del hogar,6.36
+Nacional,Prendas de vestir y calzado,9.9
+Nacional,Recreacion y cultura,7.27
+Nacional,Restaurantes y hoteles,8.95
+Nacional,Salud,8.02
+Nacional,Transporte,10.99
+Nacional,Vivienda agua electricidad gas y otros combustibles,9.43

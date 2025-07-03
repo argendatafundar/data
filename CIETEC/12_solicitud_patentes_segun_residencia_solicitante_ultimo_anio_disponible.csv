@@ -1,188 +1,188 @@
-"anio","iso3","pais","patentes_de_residentes"
-"2023","ALB","Albania","29"
-"2023","DZA","Argelia","1412"
-"2023","AND","Andorra","14"
-"2019","AGO","Angola","3"
-"2023","ATG","Antigua y Barbuda","62"
-"2023","ARG","Argentina","675"
-"2023","ARM","Armenia","79"
-"2023","AUS","Australia","10929"
-"2023","AUT","Austria","10707"
-"2023","AZE","Azerbaiyán","250"
-"2017","BHS","Bahamas","56"
-"2023","BHR","Bahrein","42"
-"2023","BGD","Bangladesh","89"
-"2021","BRB","Barbados","769"
-"2023","BLR","Belarús","429"
-"2023","BEL","Bélgica","10439"
-"2023","BLZ","Belice","13"
-"2023","BEN","Benin","27"
-"2023","BTN","Bhután","1"
-"2022","BOL","Bolivia","13"
-"2023","BIH","Bosnia y Herzegovina","76"
-"2023","BWA","Botswana","24"
-"2023","BRA","Brasil","7230"
-"2022","BRN","Brunei","1"
-"2023","BGR","Bulgaria","445"
-"2023","BFA","Burkina Faso","6"
-"2022","BDI","Burundi","1"
-"2023","CPV","Cabo Verde","2"
-"2023","KHM","Camboya","23"
-"2023","CMR","Camerún","49"
-"2023","CAN","Canadá","23936"
-"2023","CAF","Rep. Centroafricana","1"
-"2023","TCD","Chad","2"
-"2023","CHL","Chile","870"
-"2023","CHN","China","1652437"
-"2023","HKG","Hong Kong","1855"
-"2023","MAC","Macao","10"
-"2023","COL","Colombia","424"
-"2023","COM","Comoras","1"
-"2023","COG","Congo","4"
-"2023","CRI","Costa Rica","123"
-"2023","CIV","Costa de Marfil","19"
-"2023","HRV","Croacia","315"
-"2023","CUB","Cuba","244"
-"2023","CYP","Chipre","310"
-"2023","CZE","Chequia","1480"
-"1992","CSK","Checoslovaquia","2181"
-"2023","PRK","Corea del Norte","6916"
-"2020","COD","Rep. Dem. Congo","75"
-"2023","DNK","Dinamarca","10690"
-"2022","DJI","Djibouti","1"
-"2023","DMA","Dominica","1"
-"2023","DOM","Rep. Dominicana","27"
-"2023","ECU","Ecuador","60"
-"2023","EGY","Egipto","808"
-"2023","SLV","El Salvador","9"
-"2023","EST","Estonia","281"
-"2015","SWZ","Eswatini","12"
-"2023","ETH","Etiopía","61"
-"1980","FJI","Fiji","2"
-"2023","FIN","Finlandia","11473"
-"2023","FRA","Francia","51505"
-"2023","GAB","Gabón","11"
-"2016","GMB","Gambia","1"
-"2023","GEO","Georgia","112"
-"1990","DDR","Rep. Dem. Alemana","4558"
-"2023","DEU","Alemania","132017"
-"2023","GHA","Ghana","12"
-"2023","GRC","Grecia","1044"
-"2022","GRD","Granada","4"
-"2023","GTM","Guatemala","9"
-"2023","GIN","Guinea","2"
-"2020","GNB","Guinea-Bissau","1"
-"2021","GUY","Guyana","40"
-"2014","HTI","Haití","2"
-"2023","HND","Honduras","3"
-"2023","HUN","Hungría","1035"
-"2023","ISL","Islandia","220"
-"2023","IND","India","64487"
-"2023","IDN","Indonesia","1726"
-"2023","IRN","Irán","8678"
-"2023","IRQ","Iraq","746"
-"2023","IRL","Irlanda","5880"
-"2023","ISR","Israel","15426"
-"2023","ITA","Italia","26455"
-"2023","JAM","Jamaica","15"
-"2023","JPN","Japón","417709"
-"2023","JOR","Jordania","58"
-"2023","KAZ","Kazajstán","833"
-"2023","KEN","Kenia","390"
-"2018","KWT","Kuwait","90"
-"2023","KGZ","Kirguistán","85"
-"2023","LAO","Laos","4"
-"2023","LVA","Letonia","237"
-"2015","LBN","Líbano","148"
-"2019","LSO","Lesotho","1"
-"2023","LBR","Liberia","1"
-"1996","LBY","Libia","12"
-"2023","LIE","Liechtenstein","917"
-"2023","LTU","Lituania","447"
-"2023","LUX","Luxemburgo","2243"
-"2023","MDG","Madagascar","4"
-"2016","MWI","Malawi","3"
-"2023","MYS","Malasia","1630"
-"2023","MLI","Malí","17"
-"2023","MLT","Malta","284"
-"2023","MRT","Mauritania","11"
-"2023","MUS","Mauricio","215"
-"2023","MEX","México","1749"
-"2023","MCO","Mónaco","100"
-"2023","MNG","Mongolia","81"
-"2023","MNE","Montenegro","15"
-"2023","MAR","Marruecos","452"
-"2023","MOZ","Mozambique","20"
-"2022","NAM","Namibia","39"
-"2017","NPL","Nepal","20"
-"2023","NLD","Países Bajos","25361"
-"2023","NZL","Nueva Zelandia","2582"
-"2014","NIC","Nicaragua","2"
-"2023","NER","Níger","12"
-"2020","NGA","Nigeria","421"
-"2023","MKD","Macedonia del Norte","30"
-"2023","NOR","Noruega","4659"
-"2023","OMN","Omán","437"
-"2023","PAK","Pakistán","506"
-"2021","PAN","Panamá","70"
-"2022","PNG","Papúa Nueva Guinea","4"
-"2022","PRY","Paraguay","11"
-"2023","PER","Perú","229"
-"2023","PHL","Filipinas","928"
-"2023","POL","Polonia","5931"
-"2023","PRT","Portugal","1620"
-"2023","QAT","Qatar","180"
-"2023","KOR","Corea del Sur","289749"
-"2023","MDA","Moldavia","47"
-"2023","ROU","Rumania","1078"
-"2023","RUS","Rusia","23242"
-"2023","RWA","Ruanda","12"
-"2023","KNA","Saint Kitts y Nevis","7"
-"2018","LCA","Santa Lucía","3"
-"2023","VCT","San Vicente y las Granadinas","1"
-"2023","WSM","Samoa","56"
-"2023","SMR","San Marino","37"
-"2011","STP","Santo Tomé y Príncipe","3"
-"2023","SAU","Arabia Saudita","6496"
-"2023","SEN","Senegal","22"
-"2023","SRB","Serbia","244"
-"2023","SYC","Seychelles","24"
-"2019","SLE","Sierra Leona","2"
-"2023","SGP","Singapur","9255"
-"2023","SVK","Eslovaquia","520"
-"2023","SVN","Eslovenia","547"
-"1984","SOM","Somalia","1"
-"2023","ZAF","Sudáfrica","1152"
-"1991","SVU","Unión Soviética","21877"
-"2023","ESP","España","8047"
-"2023","LKA","Sri Lanka","294"
-"2020","SDN","Sudán","157"
-"2023","SWE","Suecia","21294"
-"2023","CHE","Suiza","41631"
-"2023","SYR","Siria","85"
-"2022","TJK","Tayikistán","5"
-"2023","THA","Tailandia","1298"
-"2023","TGO","Togo","19"
-"2016","TON","Tonga","2"
-"2023","TTO","Trinidad y Tobago","5"
-"2023","TUN","Túnez","197"
-"2023","TUR","Turquía","10081"
-"1999","TKM","Turkmenistán","44"
-"2023","UGA","Uganda","39"
-"2023","UKR","Ucrania","1246"
-"2023","ARE","Emiratos Árabes Unidos","992"
-"2023","GBR","Reino Unido","47240"
-"2015","TZA","Tanzanía","5"
-"2023","USA","Estados Unidos","516427"
-"2023","URY","Uruguay","73"
-"2023","UZB","Uzbekistán","541"
-"2023","VUT","Vanuatu","1"
-"2023","VEN","Venezuela","16"
-"2023","VNM","Vietnam","1126"
-"2023","YEM","Yemen","11"
-"2003","SER","Yugoslavia","404"
-"1984","WIPO_ZAI","Zaire","8"
-"2023","ZMB","Zambia","6"
-"2023","ZWE","Zimbabwe","33"
-"2023","EUU","Unión Europea","331685"
-"2023","LDC","Países menos desarrollados","390"
+geocodigoFundar,geonombreFundar,anio,patentes_de_residentes
+ALB,Albania,2023,29
+DZA,Argelia,2023,1412
+AND,Andorra,2023,14
+AGO,Angola,2019,3
+ATG,Antigua y Barbuda,2023,62
+ARG,Argentina,2023,675
+ARM,Armenia,2023,79
+AUS,Australia,2023,10929
+AUT,Austria,2023,10707
+AZE,Azerbaiyán,2023,250
+BHS,Bahamas,2017,56
+BHR,Bahrein,2023,42
+BGD,Bangladesh,2023,89
+BRB,Barbados,2021,769
+BLR,Belarús,2023,429
+BEL,Bélgica,2023,10439
+BLZ,Belice,2023,13
+BEN,Benin,2023,27
+BTN,Bhután,2023,1
+BOL,Bolivia,2022,13
+BIH,Bosnia y Herzegovina,2023,76
+BWA,Botswana,2023,24
+BRA,Brasil,2023,7230
+BRN,Brunei,2022,1
+BGR,Bulgaria,2023,445
+BFA,Burkina Faso,2023,6
+BDI,Burundi,2022,1
+CPV,Cabo Verde,2023,2
+KHM,Camboya,2023,23
+CMR,Camerún,2023,49
+CAN,Canadá,2023,23936
+CAF,Rep. Centroafricana,2023,1
+TCD,Chad,2023,2
+CHL,Chile,2023,870
+CHN,China,2023,1652437
+HKG,Hong Kong,2023,1855
+MAC,Macao,2023,10
+COL,Colombia,2023,424
+COM,Comoras,2023,1
+COG,Congo,2023,4
+CRI,Costa Rica,2023,123
+CIV,Costa de Marfil,2023,19
+HRV,Croacia,2023,315
+CUB,Cuba,2023,244
+CYP,Chipre,2023,310
+CZE,Chequia,2023,1480
+CSK,Checoslovaquia,1992,2181
+PRK,Corea del Norte,2023,6916
+COD,Rep. Dem. Congo,2020,75
+DNK,Dinamarca,2023,10690
+DJI,Djibouti,2022,1
+DMA,Dominica,2023,1
+DOM,Rep. Dominicana,2023,27
+ECU,Ecuador,2023,60
+EGY,Egipto,2023,808
+SLV,El Salvador,2023,9
+EST,Estonia,2023,281
+SWZ,Eswatini,2015,12
+ETH,Etiopía,2023,61
+FJI,Fiji,1980,2
+FIN,Finlandia,2023,11473
+FRA,Francia,2023,51505
+GAB,Gabón,2023,11
+GMB,Gambia,2016,1
+GEO,Georgia,2023,112
+DDR,Rep. Dem. Alemana,1990,4558
+DEU,Alemania,2023,132017
+GHA,Ghana,2023,12
+GRC,Grecia,2023,1044
+GRD,Granada,2022,4
+GTM,Guatemala,2023,9
+GIN,Guinea,2023,2
+GNB,Guinea-Bissau,2020,1
+GUY,Guyana,2021,40
+HTI,Haití,2014,2
+HND,Honduras,2023,3
+HUN,Hungría,2023,1035
+ISL,Islandia,2023,220
+IND,India,2023,64487
+IDN,Indonesia,2023,1726
+IRN,Irán,2023,8678
+IRQ,Iraq,2023,746
+IRL,Irlanda,2023,5880
+ISR,Israel,2023,15426
+ITA,Italia,2023,26455
+JAM,Jamaica,2023,15
+JPN,Japón,2023,417709
+JOR,Jordania,2023,58
+KAZ,Kazajstán,2023,833
+KEN,Kenia,2023,390
+KWT,Kuwait,2018,90
+KGZ,Kirguistán,2023,85
+LAO,Laos,2023,4
+LVA,Letonia,2023,237
+LBN,Líbano,2015,148
+LSO,Lesotho,2019,1
+LBR,Liberia,2023,1
+LBY,Libia,1996,12
+LIE,Liechtenstein,2023,917
+LTU,Lituania,2023,447
+LUX,Luxemburgo,2023,2243
+MDG,Madagascar,2023,4
+MWI,Malawi,2016,3
+MYS,Malasia,2023,1630
+MLI,Malí,2023,17
+MLT,Malta,2023,284
+MRT,Mauritania,2023,11
+MUS,Mauricio,2023,215
+MEX,México,2023,1749
+MCO,Mónaco,2023,100
+MNG,Mongolia,2023,81
+MNE,Montenegro,2023,15
+MAR,Marruecos,2023,452
+MOZ,Mozambique,2023,20
+NAM,Namibia,2022,39
+NPL,Nepal,2017,20
+NLD,Países Bajos,2023,25361
+NZL,Nueva Zelanda,2023,2582
+NIC,Nicaragua,2014,2
+NER,Níger,2023,12
+NGA,Nigeria,2020,421
+MKD,Macedonia del Norte,2023,30
+NOR,Noruega,2023,4659
+OMN,Omán,2023,437
+PAK,Pakistán,2023,506
+PAN,Panamá,2021,70
+PNG,Papúa Nueva Guinea,2022,4
+PRY,Paraguay,2022,11
+PER,Perú,2023,229
+PHL,Filipinas,2023,928
+POL,Polonia,2023,5931
+PRT,Portugal,2023,1620
+QAT,Qatar,2023,180
+KOR,Corea del Sur,2023,289749
+MDA,Moldavia,2023,47
+ROU,Rumania,2023,1078
+RUS,Rusia,2023,23242
+RWA,Ruanda,2023,12
+KNA,Saint Kitts y Nevis,2023,7
+LCA,Santa Lucía,2018,3
+VCT,San Vicente y las Granadinas,2023,1
+WSM,Samoa,2023,56
+SMR,San Marino,2023,37
+STP,Santo Tomé y Príncipe,2011,3
+SAU,Arabia Saudita,2023,6496
+SEN,Senegal,2023,22
+SRB,Serbia,2023,244
+SYC,Seychelles,2023,24
+SLE,Sierra Leona,2019,2
+SGP,Singapur,2023,9255
+SVK,Eslovaquia,2023,520
+SVN,Eslovenia,2023,547
+SOM,Somalia,1984,1
+ZAF,Sudáfrica,2023,1152
+SVU,Unión Soviética,1991,21877
+ESP,España,2023,8047
+LKA,Sri Lanka,2023,294
+SDN,Sudán,2020,157
+SWE,Suecia,2023,21294
+CHE,Suiza,2023,41631
+SYR,Siria,2023,85
+TJK,Tayikistán,2022,5
+THA,Tailandia,2023,1298
+TGO,Togo,2023,19
+TON,Tonga,2016,2
+TTO,Trinidad y Tobago,2023,5
+TUN,Túnez,2023,197
+TUR,Turquía,2023,10081
+TKM,Turkmenistán,1999,44
+UGA,Uganda,2023,39
+UKR,Ucrania,2023,1246
+ARE,Emiratos Árabes Unidos,2023,992
+GBR,Reino Unido,2023,47240
+TZA,Tanzanía,2015,5
+USA,Estados Unidos,2023,516427
+URY,Uruguay,2023,73
+UZB,Uzbekistán,2023,541
+VUT,Vanuatu,2023,1
+VEN,Venezuela,2023,16
+VNM,Vietnam,2023,1126
+YEM,Yemen,2023,11
+SER,Yugoslavia,2003,404
+COD,Rep. Dem. Congo,1984,8
+ZMB,Zambia,2023,6
+ZWE,Zimbabwe,2023,33
+EUU,Unión Europea,2023,331685
+LDC,Países menos desarrollados,2023,390

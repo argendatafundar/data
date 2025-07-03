@@ -1,10 +1,10 @@
-"sexo","tipo_trabajo","minutos"
-"Total","Doméstico","168"
-"Total","Cuidados a otros miembros del hogar","80.649"
-"Total","Apoyo a otros hogares, para la comunidad y voluntario","18.096"
-"Mujeres","Doméstico","221.4"
-"Mujeres","Cuidados a otros miembros del hogar","115.238"
-"Mujeres","Apoyo a otros hogares, para la comunidad y voluntario","22.134"
-"Varones","Doméstico","109.178"
-"Varones","Cuidados a otros miembros del hogar","42.63"
-"Varones","Apoyo a otros hogares, para la comunidad y voluntario","13.481"
+sexo,tipo_trabajo,minutos
+Total,Doméstico,168.0
+Total,Cuidados a otros miembros del hogar,80.649
+Total,"Apoyo a otros hogares, para la comunidad y voluntario",18.096
+Mujeres,Doméstico,221.4
+Mujeres,Cuidados a otros miembros del hogar,115.238
+Mujeres,"Apoyo a otros hogares, para la comunidad y voluntario",22.134
+Varones,Doméstico,109.178
+Varones,Cuidados a otros miembros del hogar,42.63
+Varones,"Apoyo a otros hogares, para la comunidad y voluntario",13.481

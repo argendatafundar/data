@@ -1,25 +1,25 @@
-"anio","categoria","participacion"
-"2016","Remuneración al trabajo asalariado","51.8371104876087"
-"2016","Ingreso mixto bruto","11.3864916505238"
-"2016","Excedente de explotación bruto","40.2064932512075"
-"2017","Remuneración al trabajo asalariado","51.7764565632951"
-"2017","Ingreso mixto bruto","11.463195260341"
-"2017","Excedente de explotación bruto","38.9630735593436"
-"2018","Remuneración al trabajo asalariado","47.4137840134982"
-"2018","Ingreso mixto bruto","12.3008027449923"
-"2018","Excedente de explotación bruto","41.9525172965211"
-"2019","Remuneración al trabajo asalariado","46.1769982257363"
-"2019","Ingreso mixto bruto","13.3693611082767"
-"2019","Excedente de explotación bruto","42.2002341991687"
-"2020","Remuneración al trabajo asalariado","47.9709026962324"
-"2020","Ingreso mixto bruto","13.5723854786756"
-"2020","Excedente de explotación bruto","43.35162109781"
-"2021","Remuneración al trabajo asalariado","43.2459941522634"
-"2021","Ingreso mixto bruto","13.5623955383652"
-"2021","Excedente de explotación bruto","46.869160255353"
-"2022","Remuneración al trabajo asalariado","43.9334198341751"
-"2022","Ingreso mixto bruto","13.8699795589495"
-"2022","Excedente de explotación bruto","45.1057138626607"
-"2023","Remuneración al trabajo asalariado","45.457972581195"
-"2023","Ingreso mixto bruto","13.9822053904942"
-"2023","Excedente de explotación bruto","43.1839348467471"
+anio,categoria,participacion
+2016,Remuneración al trabajo asalariado,51.8371104876087
+2016,Ingreso mixto bruto,11.3864916505238
+2016,Excedente de explotación bruto,40.2064932512075
+2017,Remuneración al trabajo asalariado,51.7764565632951
+2017,Ingreso mixto bruto,11.463195260341
+2017,Excedente de explotación bruto,38.9630735593436
+2018,Remuneración al trabajo asalariado,47.4137840134982
+2018,Ingreso mixto bruto,12.3008027449923
+2018,Excedente de explotación bruto,41.9525172965211
+2019,Remuneración al trabajo asalariado,46.1769982257363
+2019,Ingreso mixto bruto,13.3693611082767
+2019,Excedente de explotación bruto,42.2002341991687
+2020,Remuneración al trabajo asalariado,47.9709026962324
+2020,Ingreso mixto bruto,13.5723854786756
+2020,Excedente de explotación bruto,43.35162109781
+2021,Remuneración al trabajo asalariado,43.2459941522634
+2021,Ingreso mixto bruto,13.5623955383652
+2021,Excedente de explotación bruto,46.869160255353
+2022,Remuneración al trabajo asalariado,43.9334198341751
+2022,Ingreso mixto bruto,13.8699795589495
+2022,Excedente de explotación bruto,45.1057138626607
+2023,Remuneración al trabajo asalariado,45.457972581195
+2023,Ingreso mixto bruto,13.9822053904942
+2023,Excedente de explotación bruto,43.1839348467471
