@@ -1,4 +1,4 @@
-"iso3","pais_nombre","ultimo_anio_disponible","sector","valor","fuente"
+"geocodigoFundar","geonombreFundar","ultimo_anio_disponible","sector","valor","fuente"
 "BGR","Bulgaria","2023","Gobierno","28.7440945122995","OECD"
 "IRL","Irlanda","2023","Gobierno","2.21278991004426","OECD"
 "KOR","Corea del Sur","2023","Org. priv. sin fines de lucro","2.05331851091787","OECD"
