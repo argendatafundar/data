@@ -1,0 +1,109 @@
+anio,pais,ingreso,gini
+2015,Albania,mercado,0.3693
+2015,Albania,ingreso_final,0.317
+2017,Argentina,mercado,0.476993565586628
+2017,Argentina,ingreso_final,0.307777587831034
+2011,Armenia,mercado,0.294190555028262
+2011,Armenia,ingreso_final,0.25216965859647
+2016,Belarus,mercado,0.292
+2016,Belarus,ingreso_final,0.227
+2015,Bolivia,mercado,0.461598181658449
+2015,Bolivia,ingreso_final,0.394150088982596
+2010,Botswana,mercado,0.632281893205665
+2010,Botswana,ingreso_final,0.529827606674705
+2018,Brazil,mercado,0.569099493725729
+2018,Brazil,ingreso_final,0.469212925517876
+2014,Burkina Faso,mercado,0.3635
+2014,Burkina Faso,ingreso_final,0.3283
+2013,Chile,mercado,0.493523911478047
+2013,Chile,ingreso_final,0.418618053622561
+2014,Colombia,mercado,0.575261681452172
+2014,Colombia,ingreso_final,0.470968444539634
+2014,Comoros,mercado,0.451389364891066
+2014,Comoros,ingreso_final,0.435074853178779
+2010,Costa Rica,mercado,0.508
+2010,Costa Rica,ingreso_final,0.402
+2014,Croatia,mercado,0.383
+2014,Croatia,ingreso_final,0.291
+2013,Dominican Republic,mercado,0.516661100258812
+2013,Dominican Republic,ingreso_final,0.417074605362602
+2011,Ecuador,mercado,0.467671908538319
+2011,Ecuador,ingreso_final,0.383734683337853
+2015,Egypt,mercado,0.325
+2015,Egypt,ingreso_final,0.281
+2017,El Salvador,mercado,0.399674137597713
+2017,El Salvador,ingreso_final,0.331318591547874
+2017,eSwatini,mercado,0.499009101995135
+2017,eSwatini,ingreso_final,0.361839554331837
+2011,Ethiopia,mercado,0.32167086
+2011,Ethiopia,ingreso_final,0.29906484484672546
+2013,Ghana,mercado,0.436982893893895
+2013,Ghana,ingreso_final,0.401459143047493
+2014,Guatemala,mercado,0.476417420041295
+2014,Guatemala,ingreso_final,0.427447819230922
+2011,Honduras,mercado,0.577355813315744
+2011,Honduras,ingreso_final,0.50637024877936
+2012,India,mercado,0.36694732327044
+2012,India,ingreso_final,0.31072425656287
+2017,Indonesia,mercado,0.401553262068848
+2017,Indonesia,ingreso_final,0.369950369717304
+2011,Iran,mercado,0.431984609578578
+2011,Iran,ingreso_final,0.364979185511107
+2017,Iraq,mercado,0.334
+2017,Iraq,ingreso_final,0.266
+2015,Ivory Coast,mercado,0.404751074972369
+2015,Ivory Coast,ingreso_final,0.397910244172746
+2010,Jordan,mercado,0.3415142358288841
+2010,Jordan,ingreso_final,0.3185552843419519
+2015,Kenya,mercado,0.476159390223071
+2015,Kenya,ingreso_final,0.385859715228467
+2017,Lesotho,mercado,0.513707720576853
+2017,Lesotho,ingreso_final,0.397794856905119
+2014,Mexico,mercado,0.52801653015779
+2014,Mexico,ingreso_final,0.393278272169261
+2015,Namibia,mercado,0.628653255616659
+2015,Namibia,ingreso_final,0.500249938878253
+2009,Nicaragua,mercado,0.470288142495146
+2009,Nicaragua,ingreso_final,0.416328338106607
+2016,Panama,mercado,0.556559458702595
+2016,Panama,ingreso_final,0.43194975378106
+2014,Paraguay,mercado,0.5216039588603204
+2014,Paraguay,ingreso_final,0.4732776393478543
+2011,Peru,mercado,0.473185904776004
+2011,Peru,ingreso_final,0.403652454151742
+2014,Poland,mercado,0.412082691215419
+2014,Poland,ingreso_final,0.290663452615008
+2016,Romania,mercado,0.378091620994959
+2016,Romania,ingreso_final,0.307445587618325
+2010,Russia,mercado,0.378761029031502
+2010,Russia,ingreso_final,0.298860466435173
+2018,Sierra Leone,mercado,0.375
+2018,Sierra Leone,ingreso_final,0.351
+2014,South Africa,mercado,0.736967820094542
+2014,South Africa,ingreso_final,0.546007564849775
+2016,Spain,mercado,0.438510727246473
+2016,Spain,ingreso_final,0.266930500150801
+2010,Sri Lanka,mercado,0.343685492932916
+2010,Sri Lanka,ingreso_final,0.310082759720808
+2015,Tajikistan,mercado,0.342074912609339
+2015,Tajikistan,ingreso_final,0.330294717078219
+2012,Tanzania,mercado,0.385112884116415
+2012,Tanzania,ingreso_final,0.341455013218137
+2015,Togo,mercado,0.438211317998434
+2015,Togo,ingreso_final,0.38482858275759
+2010,Tunisia,mercado,0.444244811029082
+2010,Tunisia,ingreso_final,0.344658928408182
+2016,Turkey,mercado,0.444391102431921
+2016,Turkey,ingreso_final,0.377737777408209
+2016,Uganda,mercado,0.450869685472804
+2016,Uganda,ingreso_final,0.413442464047633
+2016,Ukraine,mercado,0.3111
+2016,Ukraine,ingreso_final,0.223
+2015,United States,mercado,0.476383417499657
+2015,United States,ingreso_final,0.328353307494109
+2009,Uruguay,mercado,0.505046815778883
+2009,Uruguay,ingreso_final,0.37749416475436
+2013,Venezuela,mercado,0.399899406871222
+2013,Venezuela,ingreso_final,0.285636890346905
+2015,Zambia,mercado,0.586428575994682
+2015,Zambia,ingreso_final,0.483082929010178

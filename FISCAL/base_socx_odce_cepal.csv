@@ -1,0 +1,465 @@
+"","iso3","pais_nombre","anio","valor"
+"1","ARG","Argentina",2010,18.39075
+"2","ARG","Argentina",2011,18.950751
+"3","ARG","Argentina",2012,20.310622
+"4","ARG","Argentina",2013,21.238413
+"5","ARG","Argentina",2014,21.067025
+"6","ARG","Argentina",2015,22.797141
+"7","ARG","Argentina",2016,22.717452
+"8","ARG","Argentina",2017,23.614015
+"9","ARG","Argentina",2018,22.341513
+"10","BRA","Brasil",2010,18.145887
+"11","BRA","Brasil",2011,18.008617
+"12","BRA","Brasil",2012,18.253629
+"13","BRA","Brasil",2013,18.619445
+"14","BRA","Brasil",2014,19.312251
+"15","BRA","Brasil",2015,20.254875
+"16","BRA","Brasil",2016,21.392805
+"17","BRA","Brasil",2017,22.35383
+"18","BRA","Brasil",2018,21.371711
+"19","COL","Colombia",2010,12.992165
+"20","COL","Colombia",2011,12.676735
+"21","COL","Colombia",2012,12.620337
+"22","COL","Colombia",2013,13.607735
+"23","COL","Colombia",2014,13.903186
+"24","COL","Colombia",2015,14.163523
+"25","COL","Colombia",2016,13.576149
+"26","COL","Colombia",2017,13.314528
+"27","COL","Colombia",2018,13.051648
+"28","CRI","Costa Rica",2011,11.983572
+"29","CRI","Costa Rica",2012,11.672883
+"30","CRI","Costa Rica",2013,12.075434
+"31","CRI","Costa Rica",2014,11.869302
+"32","CRI","Costa Rica",2015,12.161832
+"33","CRI","Costa Rica",2016,11.863261
+"34","CRI","Costa Rica",2017,11.538167
+"35","CRI","Costa Rica",2018,11.87973
+"36","SLV","El Salvador",2010,9.642862
+"37","SLV","El Salvador",2011,9.777744
+"38","SLV","El Salvador",2012,9.538272
+"39","SLV","El Salvador",2013,10.191413
+"40","SLV","El Salvador",2014,9.849372
+"41","SLV","El Salvador",2015,9.588725
+"42","SLV","El Salvador",2016,9.479505
+"43","SLV","El Salvador",2017,8.89573
+"44","SLV","El Salvador",2018,8.321098
+"45","GTM","Guatemala",2010,4.985656
+"46","GTM","Guatemala",2011,4.673461
+"47","GTM","Guatemala",2012,4.637921
+"48","GTM","Guatemala",2013,4.822173
+"49","GTM","Guatemala",2014,5.022361
+"50","GTM","Guatemala",2015,4.675971
+"51","GTM","Guatemala",2016,4.681706
+"52","GTM","Guatemala",2017,4.685093
+"53","GTM","Guatemala",2018,4.747716
+"54","PER","Perú",2012,6.789969
+"55","PER","Perú",2013,7.299195
+"56","PER","Perú",2014,7.888843
+"57","PER","Perú",2015,7.882709
+"58","PER","Perú",2016,7.473935
+"59","PER","Perú",2017,8.180834
+"60","PER","Perú",2018,7.714344
+"61","DOM","Rep. Dominicana",2010,4.251741
+"62","DOM","Rep. Dominicana",2011,4.32629
+"63","DOM","Rep. Dominicana",2012,4.634852
+"64","DOM","Rep. Dominicana",2013,4.601637
+"65","DOM","Rep. Dominicana",2014,4.535727
+"66","DOM","Rep. Dominicana",2015,4.485877
+"67","DOM","Rep. Dominicana",2016,4.43905
+"68","DOM","Rep. Dominicana",2017,4.548609
+"69","DOM","Rep. Dominicana",2018,4.365954
+"70","TTO","Trinidad y Tobago",2010,8.3615
+"71","TTO","Trinidad y Tobago",2011,8.3154
+"72","TTO","Trinidad y Tobago",2012,8.4494
+"73","TTO","Trinidad y Tobago",2013,9.1039
+"74","TTO","Trinidad y Tobago",2014,9.2835
+"75","TTO","Trinidad y Tobago",2015,11.4256
+"76","TTO","Trinidad y Tobago",2016,12.9389
+"77","TTO","Trinidad y Tobago",2017,12.7406
+"78","TTO","Trinidad y Tobago",2018,12.1501
+"79","URY","Uruguay",2011,16.363243
+"80","URY","Uruguay",2012,17.170903
+"81","URY","Uruguay",2013,17.517083
+"82","URY","Uruguay",2014,17.782361
+"83","URY","Uruguay",2015,18.464548
+"84","URY","Uruguay",2016,18.974397
+"85","URY","Uruguay",2017,19.92148
+"86","URY","Uruguay",2018,20.335065
+"87","SWE","Sweden",2010,26.81
+"88","SWE","Sweden",2011,26.38
+"89","SWE","Sweden",2012,27.438
+"90","SWE","Sweden",2013,28.142
+"91","SWE","Sweden",2014,27.857
+"92","SWE","Sweden",2015,27.417
+"93","SWE","Sweden",2016,27.669
+"94","SWE","Sweden",2017,27.234
+"95","SWE","Sweden",2018,26.997
+"96","LTU","Lithuania",2010,19.488
+"97","LTU","Lithuania",2011,17.335
+"98","LTU","Lithuania",2012,16.393
+"99","LTU","Lithuania",2013,15.406
+"100","LTU","Lithuania",2014,15.581
+"101","LTU","Lithuania",2015,15.766
+"102","LTU","Lithuania",2016,15.602
+"103","LTU","Lithuania",2017,15.334
+"104","LTU","Lithuania",2018,16.244
+"105","ISL","Iceland",2010,17.732
+"106","ISL","Iceland",2011,18.198
+"107","ISL","Iceland",2012,17.844
+"108","ISL","Iceland",2013,17.376
+"109","ISL","Iceland",2014,17.573
+"110","ISL","Iceland",2015,16.71
+"111","ISL","Iceland",2016,16.55
+"112","ISL","Iceland",2017,17.559
+"113","ISL","Iceland",2018,17.819
+"114","LUX","Luxembourg",2010,21.533
+"115","LUX","Luxembourg",2011,20.871
+"116","LUX","Luxembourg",2012,20.579
+"117","LUX","Luxembourg",2013,20.537
+"118","LUX","Luxembourg",2014,20.462
+"119","LUX","Luxembourg",2015,20.151
+"120","LUX","Luxembourg",2016,20.034
+"121","LUX","Luxembourg",2017,20.543
+"122","LUX","Luxembourg",2018,20.836
+"123","NZL","New Zealand",2010,22
+"124","NZL","New Zealand",2011,21.238
+"125","NZL","New Zealand",2012,21.36
+"126","NZL","New Zealand",2013,20.641
+"127","NZL","New Zealand",2014,20.68
+"128","NZL","New Zealand",2015,20.27
+"129","NZL","New Zealand",2016,20.032
+"130","NZL","New Zealand",2017,19.859
+"131","NZL","New Zealand",2018,19.834
+"132","CRI","Costa Rica",2010,NA
+"133","CRI","Costa Rica",2011,11.945
+"134","CRI","Costa Rica",2012,11.703
+"135","CRI","Costa Rica",2013,12.086
+"136","CRI","Costa Rica",2014,11.913
+"137","CRI","Costa Rica",2015,12.076
+"138","CRI","Costa Rica",2016,11.921
+"139","CRI","Costa Rica",2017,11.893
+"140","CRI","Costa Rica",2018,12.434
+"141","JPN","Japan",2010,20.981
+"142","JPN","Japan",2011,21.826
+"143","JPN","Japan",2012,21.773
+"144","JPN","Japan",2013,21.769
+"145","JPN","Japan",2014,21.539
+"146","JPN","Japan",2015,21.914
+"147","JPN","Japan",2016,21.965
+"148","JPN","Japan",2017,22.071
+"149","JPN","Japan",2018,22.191
+"150","SVK","Slovak Republic",2010,17.313
+"151","SVK","Slovak Republic",2011,17.089
+"152","SVK","Slovak Republic",2012,17.238
+"153","SVK","Slovak Republic",2013,17.559
+"154","SVK","Slovak Republic",2014,17.637
+"155","SVK","Slovak Republic",2015,17.145
+"156","SVK","Slovak Republic",2016,17.494
+"157","SVK","Slovak Republic",2017,17.411
+"158","SVK","Slovak Republic",2018,17.016
+"159","DNK","Denmark",2010,29.876
+"160","DNK","Denmark",2011,29.994
+"161","DNK","Denmark",2012,30.237
+"162","DNK","Denmark",2013,29.956
+"163","DNK","Denmark",2014,30.033
+"164","DNK","Denmark",2015,30.066
+"165","DNK","Denmark",2016,29.517
+"166","DNK","Denmark",2017,29.024
+"167","DNK","Denmark",2018,28.762
+"168","AUT","Austria",2010,28.226
+"169","AUT","Austria",2011,27.403
+"170","AUT","Austria",2012,27.791
+"171","AUT","Austria",2013,28.267
+"172","AUT","Austria",2014,28.514
+"173","AUT","Austria",2015,28.441
+"174","AUT","Austria",2016,28.351
+"175","AUT","Austria",2017,27.981
+"176","AUT","Austria",2018,27.72
+"177","FIN","Finland",2010,27.519
+"178","FIN","Finland",2011,27.223
+"179","FIN","Finland",2012,28.532
+"180","FIN","Finland",2013,29.672
+"181","FIN","Finland",2014,30.438
+"182","FIN","Finland",2015,30.812
+"183","FIN","Finland",2016,30.801
+"184","FIN","Finland",2017,29.884
+"185","FIN","Finland",2018,29.588
+"186","POL","Poland",2010,20.802
+"187","POL","Poland",2011,19.595
+"188","POL","Poland",2012,19.871
+"189","POL","Poland",2013,20.742
+"190","POL","Poland",2014,20.325
+"191","POL","Poland",2015,20.15
+"192","POL","Poland",2016,21.189
+"193","POL","Poland",2017,20.743
+"194","POL","Poland",2018,20.288
+"195","CAN","Canada",2010,18.425
+"196","CAN","Canada",2011,17.9
+"197","CAN","Canada",2012,18.065
+"198","CAN","Canada",2013,17.932
+"199","CAN","Canada",2014,17.848
+"200","CAN","Canada",2015,18.892
+"201","CAN","Canada",2016,19.188
+"202","CAN","Canada",2017,19.092
+"203","CAN","Canada",2018,19.118
+"204","USA","United States",2010,19.048
+"205","USA","United States",2011,18.749
+"206","USA","United States",2012,18.483
+"207","USA","United States",2013,18.421
+"208","USA","United States",2014,18.41
+"209","USA","United States",2015,18.483
+"210","USA","United States",2016,18.588
+"211","USA","United States",2017,18.386
+"212","USA","United States",2018,18.153
+"213","MEX","Mexico",2010,7.026
+"214","MEX","Mexico",2011,6.925
+"215","MEX","Mexico",2012,6.917
+"216","MEX","Mexico",2013,7.262
+"217","MEX","Mexico",2014,7.279
+"218","MEX","Mexico",2015,7.395
+"219","MEX","Mexico",2016,7.259
+"220","MEX","Mexico",2017,7.209
+"221","MEX","Mexico",2018,7.053
+"222","TUR","Türkiye",2010,12.273
+"223","TUR","Türkiye",2011,11.792
+"224","TUR","Türkiye",2012,11.947
+"225","TUR","Türkiye",2013,11.756
+"226","TUR","Türkiye",2014,11.66
+"227","TUR","Türkiye",2015,11.541
+"228","TUR","Türkiye",2016,12.534
+"229","TUR","Türkiye",2017,11.999
+"230","TUR","Türkiye",2018,11.76
+"231","CZE","Czechia",2010,20.013
+"232","CZE","Czechia",2011,19.976
+"233","CZE","Czechia",2012,20.32
+"234","CZE","Czechia",2013,20.427
+"235","CZE","Czechia",2014,20.037
+"236","CZE","Czechia",2015,19.432
+"237","CZE","Czechia",2016,19.127
+"238","CZE","Czechia",2017,18.671
+"239","CZE","Czechia",2018,18.868
+"240","LVA","Latvia",2010,19.533
+"241","LVA","Latvia",2011,17.514
+"242","LVA","Latvia",2012,15.918
+"243","LVA","Latvia",2013,16.1
+"244","LVA","Latvia",2014,15.941
+"245","LVA","Latvia",2015,16.26
+"246","LVA","Latvia",2016,16.542
+"247","LVA","Latvia",2017,16.4
+"248","LVA","Latvia",2018,16.716
+"249","AUS","Australia",2010,16.544
+"250","AUS","Australia",2011,17.008
+"251","AUS","Australia",2012,17.301
+"252","AUS","Australia",2013,17.264
+"253","AUS","Australia",2014,17.868
+"254","AUS","Australia",2015,18.199
+"255","AUS","Australia",2016,17.483
+"256","AUS","Australia",2017,17.072
+"257","AUS","Australia",2018,16.626
+"258","OECD","OECD",2010,20.509
+"259","OECD","OECD",2011,20.152
+"260","OECD","OECD",2012,20.268
+"261","OECD","OECD",2013,20.33
+"262","OECD","OECD",2014,20.287
+"263","OECD","OECD",2015,20.212
+"264","OECD","OECD",2016,20.204
+"265","OECD","OECD",2017,19.945
+"266","OECD","OECD",2018,19.834
+"267","ISR","Israel",2010,15.298
+"268","ISR","Israel",2011,15.062
+"269","ISR","Israel",2012,15.276
+"270","ISR","Israel",2013,15.413
+"271","ISR","Israel",2014,15.435
+"272","ISR","Israel",2015,15.405
+"273","ISR","Israel",2016,15.453
+"274","ISR","Israel",2017,16.022
+"275","ISR","Israel",2018,16.01
+"276","SVN","Slovenia",2010,23.558
+"277","SVN","Slovenia",2011,23.617
+"278","SVN","Slovenia",2012,23.682
+"279","SVN","Slovenia",2013,24.075
+"280","SVN","Slovenia",2014,23.312
+"281","SVN","Slovenia",2015,22.877
+"282","SVN","Slovenia",2016,22.5
+"283","SVN","Slovenia",2017,21.676
+"284","SVN","Slovenia",2018,21.517
+"285","HUN","Hungary",2010,22.862
+"286","HUN","Hungary",2011,22.208
+"287","HUN","Hungary",2012,22.546
+"288","HUN","Hungary",2013,22.183
+"289","HUN","Hungary",2014,21.315
+"290","HUN","Hungary",2015,20.343
+"291","HUN","Hungary",2016,20.116
+"292","HUN","Hungary",2017,19.411
+"293","HUN","Hungary",2018,18.55
+"294","NLD","Netherlands",2010,18.317
+"295","NLD","Netherlands",2011,18.419
+"296","NLD","Netherlands",2012,18.897
+"297","NLD","Netherlands",2013,19.141
+"298","NLD","Netherlands",2014,19.03
+"299","NLD","Netherlands",2015,18.602
+"300","NLD","Netherlands",2016,18.443
+"301","NLD","Netherlands",2017,17.939
+"302","NLD","Netherlands",2018,17.586
+"303","CHL","Chile",2010,10.543
+"304","CHL","Chile",2011,10.074
+"305","CHL","Chile",2012,10.133
+"306","CHL","Chile",2013,10.087
+"307","CHL","Chile",2014,10.371
+"308","CHL","Chile",2015,10.901
+"309","CHL","Chile",2016,11.129
+"310","CHL","Chile",2017,11.416
+"311","CHL","Chile",2018,11.386
+"312","ESP","Spain",2010,24.872
+"313","ESP","Spain",2011,25.496
+"314","ESP","Spain",2012,25.433
+"315","ESP","Spain",2013,25.574
+"316","ESP","Spain",2014,25.209
+"317","ESP","Spain",2015,24.493
+"318","ESP","Spain",2016,24.048
+"319","ESP","Spain",2017,23.578
+"320","ESP","Spain",2018,23.721
+"321","KOR","Korea",2010,7.373
+"322","KOR","Korea",2011,7.337
+"323","KOR","Korea",2012,7.825
+"324","KOR","Korea",2013,8.297
+"325","KOR","Korea",2014,8.633
+"326","KOR","Korea",2015,9.052
+"327","KOR","Korea",2016,9.247
+"328","KOR","Korea",2017,9.473
+"329","KOR","Korea",2018,10.172
+"330","CHE","Switzerland",2010,14.962
+"331","CHE","Switzerland",2011,14.925
+"332","CHE","Switzerland",2012,15.183
+"333","CHE","Switzerland",2013,15.462
+"334","CHE","Switzerland",2014,15.424
+"335","CHE","Switzerland",2015,15.893
+"336","CHE","Switzerland",2016,16.097
+"337","CHE","Switzerland",2017,16.271
+"338","CHE","Switzerland",2018,15.785
+"339","FRA","France",2010,30.97
+"340","FRA","France",2011,30.645
+"341","FRA","France",2012,31.185
+"342","FRA","France",2013,31.592
+"343","FRA","France",2014,31.892
+"344","FRA","France",2015,31.705
+"345","FRA","France",2016,31.842
+"346","FRA","France",2017,31.511
+"347","FRA","France",2018,31.052
+"348","EST","Estonia",2010,18.498
+"349","EST","Estonia",2011,16.451
+"350","EST","Estonia",2012,15.933
+"351","EST","Estonia",2013,15.75
+"352","EST","Estonia",2014,16.073
+"353","EST","Estonia",2015,17.326
+"354","EST","Estonia",2016,17.519
+"355","EST","Estonia",2017,17.014
+"356","EST","Estonia",2018,17.453
+"357","GRC","Greece",2010,25.077
+"358","GRC","Greece",2011,26.442
+"359","GRC","Greece",2012,27.792
+"360","GRC","Greece",2013,25.717
+"361","GRC","Greece",2014,25.68
+"362","GRC","Greece",2015,25.864
+"363","GRC","Greece",2016,26.053
+"364","GRC","Greece",2017,25.122
+"365","GRC","Greece",2018,24.881
+"366","PRT","Portugal",2010,24.302
+"367","PRT","Portugal",2011,24.198
+"368","PRT","Portugal",2012,24.297
+"369","PRT","Portugal",2013,25.386
+"370","PRT","Portugal",2014,24.959
+"371","PRT","Portugal",2015,23.967
+"372","PRT","Portugal",2016,23.477
+"373","PRT","Portugal",2017,22.783
+"374","PRT","Portugal",2018,22.478
+"375","ITA","Italy",2010,26.827
+"376","ITA","Italy",2011,26.43
+"377","ITA","Italy",2012,27.121
+"378","ITA","Italy",2013,27.733
+"379","ITA","Italy",2014,27.985
+"380","ITA","Italy",2015,28.188
+"381","ITA","Italy",2016,27.779
+"382","ITA","Italy",2017,27.528
+"383","ITA","Italy",2018,27.417
+"384","GBR","United Kingdom",2010,25.234
+"385","GBR","United Kingdom",2011,25.076
+"386","GBR","United Kingdom",2012,25.279
+"387","GBR","United Kingdom",2013,24.583
+"388","GBR","United Kingdom",2014,24.024
+"389","GBR","United Kingdom",2015,23.698
+"390","GBR","United Kingdom",2016,22.9
+"391","GBR","United Kingdom",2017,22.647
+"392","GBR","United Kingdom",2018,22.223
+"393","BEL","Belgium",2010,27.658
+"394","BEL","Belgium",2011,27.879
+"395","BEL","Belgium",2012,27.822
+"396","BEL","Belgium",2013,28.2
+"397","BEL","Belgium",2014,28.26
+"398","BEL","Belgium",2015,29.119
+"399","BEL","Belgium",2016,28.517
+"400","BEL","Belgium",2017,28.363
+"401","BEL","Belgium",2018,28.342
+"402","NOR","Norway",2010,22.001
+"403","NOR","Norway",2011,21.446
+"404","NOR","Norway",2012,21.332
+"405","NOR","Norway",2013,21.782
+"406","NOR","Norway",2014,22.687
+"407","NOR","Norway",2015,24.531
+"408","NOR","Norway",2016,25.819
+"409","NOR","Norway",2017,24.952
+"410","NOR","Norway",2018,24.082
+"411","IRL","Ireland",2010,24.118
+"412","IRL","Ireland",2011,23.025
+"413","IRL","Ireland",2012,22.842
+"414","IRL","Ireland",2013,21.33
+"415","IRL","Ireland",2014,19.5
+"416","IRL","Ireland",2015,14.659
+"417","IRL","Ireland",2016,14.8
+"418","IRL","Ireland",2017,13.643
+"419","IRL","Ireland",2018,13.163
+"420","COL","Colombia",2010,12.149
+"421","COL","Colombia",2011,12.681
+"422","COL","Colombia",2012,12.63
+"423","COL","Colombia",2013,13.424
+"424","COL","Colombia",2014,14.108
+"425","COL","Colombia",2015,14.611
+"426","COL","Colombia",2016,14.24
+"427","COL","Colombia",2017,14.253
+"428","COL","Colombia",2018,13.817
+"429","DEU","Germany",2010,26.685
+"430","DEU","Germany",2011,25.385
+"431","DEU","Germany",2012,25.285
+"432","DEU","Germany",2013,25.492
+"433","DEU","Germany",2014,25.43
+"434","DEU","Germany",2015,25.721
+"435","DEU","Germany",2016,25.922
+"436","DEU","Germany",2017,25.938
+"437","DEU","Germany",2018,26.041
+"438","ROU","Romania",2010,17.391
+"439","ROU","Romania",2011,15.4
+"440","ROU","Romania",2012,14.697
+"441","ROU","Romania",2013,15.408
+"442","ROU","Romania",2014,15.076
+"443","ROU","Romania",2015,14.865
+"444","ROU","Romania",2016,15.172
+"445","ROU","Romania",2017,15.241
+"446","ROU","Romania",2018,15.281
+"447","BGR","Bulgaria",2010,16.269
+"448","BGR","Bulgaria",2011,15.477
+"449","BGR","Bulgaria",2012,16.455
+"450","BGR","Bulgaria",2013,17.75
+"451","BGR","Bulgaria",2014,18.419
+"452","BGR","Bulgaria",2015,17.583
+"453","BGR","Bulgaria",2016,17.21
+"454","BGR","Bulgaria",2017,16.834
+"455","BGR","Bulgaria",2018,16.84
+"456","HRV","Croatia",2010,21.216
+"457","HRV","Croatia",2011,20.179
+"458","HRV","Croatia",2012,20.627
+"459","HRV","Croatia",2013,20.145
+"460","HRV","Croatia",2014,20.687
+"461","HRV","Croatia",2015,20.687
+"462","HRV","Croatia",2016,20.63
+"463","HRV","Croatia",2017,20.345
+"464","HRV","Croatia",2018,20.594
