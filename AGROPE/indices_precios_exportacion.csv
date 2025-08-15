@@ -1,186 +1,186 @@
-"anio","producto_exportacion","valor"
-"1986","cereales"," 77.90"
-"1987","cereales"," 65.20"
-"1988","cereales"," 78.00"
-"1989","cereales","109.30"
-"1990","cereales","106.40"
-"1991","cereales"," 78.40"
-"1992","cereales"," 90.50"
-"1993","cereales"," 94.00"
-"1994","cereales","100.90"
-"1995","cereales","105.80"
-"1996","cereales","143.70"
-"1997","cereales","112.20"
-"1998","cereales"," 95.40"
-"1999","cereales"," 86.20"
-"2000","cereales"," 81.00"
-"2001","cereales"," 84.00"
-"2002","cereales"," 87.00"
-"2003","cereales","100.30"
-"2004","cereales","100.00"
-"2005","cereales"," 86.40"
-"2006","cereales","107.30"
-"2007","cereales","139.90"
-"2008","cereales","202.90"
-"2009","cereales","149.60"
-"2010","cereales","159.00"
-"2011","cereales","229.00"
-"2012","cereales","208.80"
-"2013","cereales","234.20"
-"2014","cereales","190.50"
-"2015","cereales","167.10"
-"2016","cereales","145.30"
-"2017","cereales","140.00"
-"2018","cereales","156.90"
-"2019","cereales","152.40"
-"2020","cereales","147.70"
-"2021","cereales","199.70"
-"2022","cereales","232.00"
-"1986","semillas_frutos_oleaginosos"," 71.90"
-"1987","semillas_frutos_oleaginosos"," 70.00"
-"1988","semillas_frutos_oleaginosos"," 94.40"
-"1989","semillas_frutos_oleaginosos"," 93.80"
-"1990","semillas_frutos_oleaginosos"," 82.00"
-"1991","semillas_frutos_oleaginosos"," 77.30"
-"1992","semillas_frutos_oleaginosos"," 77.70"
-"1993","semillas_frutos_oleaginosos"," 84.40"
-"1994","semillas_frutos_oleaginosos"," 90.80"
-"1995","semillas_frutos_oleaginosos"," 81.60"
-"1996","semillas_frutos_oleaginosos","102.70"
-"1997","semillas_frutos_oleaginosos","100.30"
-"1998","semillas_frutos_oleaginosos"," 87.80"
-"1999","semillas_frutos_oleaginosos"," 66.80"
-"2000","semillas_frutos_oleaginosos"," 72.50"
-"2001","semillas_frutos_oleaginosos"," 65.10"
-"2002","semillas_frutos_oleaginosos"," 69.10"
-"2003","semillas_frutos_oleaginosos"," 79.80"
-"2004","semillas_frutos_oleaginosos","100.00"
-"2005","semillas_frutos_oleaginosos"," 86.30"
-"2006","semillas_frutos_oleaginosos"," 85.20"
-"2007","semillas_frutos_oleaginosos","109.20"
-"2008","semillas_frutos_oleaginosos","147.20"
-"2009","semillas_frutos_oleaginosos","143.20"
-"2010","semillas_frutos_oleaginosos","137.40"
-"2011","semillas_frutos_oleaginosos","189.00"
-"2012","semillas_frutos_oleaginosos","196.80"
-"2013","semillas_frutos_oleaginosos","194.50"
-"2014","semillas_frutos_oleaginosos","187.80"
-"2015","semillas_frutos_oleaginosos","138.40"
-"2016","semillas_frutos_oleaginosos","134.60"
-"2017","semillas_frutos_oleaginosos","140.90"
-"2018","semillas_frutos_oleaginosos","148.60"
-"2019","semillas_frutos_oleaginosos","129.30"
-"2020","semillas_frutos_oleaginosos","135.80"
-"2021","semillas_frutos_oleaginosos","186.60"
-"2022","semillas_frutos_oleaginosos","206.40"
-"1986","grasas_aceites"," 57.40"
-"1987","grasas_aceites"," 55.00"
-"1988","grasas_aceites"," 71.10"
-"1989","grasas_aceites"," 75.00"
-"1990","grasas_aceites"," 76.40"
-"1991","grasas_aceites"," 75.60"
-"1992","grasas_aceites"," 72.80"
-"1993","grasas_aceites"," 80.10"
-"1994","grasas_aceites","103.30"
-"1995","grasas_aceites","107.20"
-"1996","grasas_aceites"," 95.00"
-"1997","grasas_aceites"," 94.50"
-"1998","grasas_aceites","109.50"
-"1999","grasas_aceites"," 76.60"
-"2000","grasas_aceites"," 58.20"
-"2001","grasas_aceites"," 60.00"
-"2002","grasas_aceites"," 75.80"
-"2003","grasas_aceites"," 91.50"
-"2004","grasas_aceites","100.00"
-"2005","grasas_aceites"," 89.10"
-"2006","grasas_aceites"," 91.30"
-"2007","grasas_aceites","126.90"
-"2008","grasas_aceites","189.60"
-"2009","grasas_aceites","133.30"
-"2010","grasas_aceites","154.90"
-"2011","grasas_aceites","212.60"
-"2012","grasas_aceites","205.20"
-"2013","grasas_aceites","176.10"
-"2014","grasas_aceites","154.90"
-"2015","grasas_aceites","126.40"
-"2016","grasas_aceites","130.80"
-"2017","grasas_aceites","135.60"
-"2018","grasas_aceites","127.80"
-"2019","grasas_aceites","118.40"
-"2020","grasas_aceites","129.20"
-"2021","grasas_aceites","210.10"
-"2022","grasas_aceites","262.40"
-"1986","residuos_alimenticios"," 89.70"
-"1987","residuos_alimenticios"," 94.90"
-"1988","residuos_alimenticios","122.20"
-"1989","residuos_alimenticios","116.00"
-"1990","residuos_alimenticios"," 91.60"
-"1991","residuos_alimenticios"," 85.90"
-"1992","residuos_alimenticios"," 94.80"
-"1993","residuos_alimenticios"," 95.90"
-"1994","residuos_alimenticios"," 88.10"
-"1995","residuos_alimenticios"," 75.00"
-"1996","residuos_alimenticios","121.30"
-"1997","residuos_alimenticios","126.30"
-"1998","residuos_alimenticios"," 77.10"
-"1999","residuos_alimenticios"," 68.80"
-"2000","residuos_alimenticios"," 84.30"
-"2001","residuos_alimenticios"," 83.00"
-"2002","residuos_alimenticios"," 79.70"
-"2003","residuos_alimenticios"," 88.10"
-"2004","residuos_alimenticios","100.00"
-"2005","residuos_alimenticios"," 91.10"
-"2006","residuos_alimenticios"," 91.10"
-"2007","residuos_alimenticios","110.80"
-"2008","residuos_alimenticios","153.60"
-"2009","residuos_alimenticios","186.10"
-"2010","residuos_alimenticios","164.60"
-"2011","residuos_alimenticios","185.10"
-"2012","residuos_alimenticios","221.10"
-"2013","residuos_alimenticios","242.50"
-"2014","residuos_alimenticios","240.40"
-"2015","residuos_alimenticios","182.20"
-"2016","residuos_alimenticios","171.60"
-"2017","residuos_alimenticios","161.00"
-"2018","residuos_alimenticios","190.40"
-"2019","residuos_alimenticios","158.70"
-"2020","residuos_alimenticios","169.30"
-"2021","residuos_alimenticios","211.50"
-"2022","residuos_alimenticios","241.20"
-"1986","carnes_preparados"," 86.90"
-"1987","carnes_preparados","111.10"
-"1988","carnes_preparados"," 96.00"
-"1989","carnes_preparados","103.20"
-"1990","carnes_preparados","110.00"
-"1991","carnes_preparados","124.30"
-"1992","carnes_preparados","136.00"
-"1993","carnes_preparados","136.30"
-"1994","carnes_preparados","125.70"
-"1995","carnes_preparados","133.50"
-"1996","carnes_preparados","117.20"
-"1997","carnes_preparados","113.90"
-"1998","carnes_preparados","127.60"
-"1999","carnes_preparados","108.20"
-"2000","carnes_preparados","102.90"
-"2001","carnes_preparados","103.90"
-"2002","carnes_preparados"," 78.50"
-"2003","carnes_preparados"," 87.60"
-"2004","carnes_preparados","100.00"
-"2005","carnes_preparados","103.20"
-"2006","carnes_preparados","132.30"
-"2007","carnes_preparados","135.40"
-"2008","carnes_preparados","203.30"
-"2009","carnes_preparados","152.30"
-"2010","carnes_preparados","206.90"
-"2011","carnes_preparados","241.10"
-"2012","carnes_preparados","222.90"
-"2013","carnes_preparados","217.00"
-"2014","carnes_preparados","219.20"
-"2015","carnes_preparados","195.50"
-"2016","carnes_preparados","197.10"
-"2017","carnes_preparados","203.10"
-"2018","carnes_preparados","203.20"
-"2019","carnes_preparados","230.20"
-"2020","carnes_preparados","197.20"
-"2021","carnes_preparados","219.30"
-"2022","carnes_preparados","252.50"
+anio,producto_exportacion,valor
+1986,cereales,77.9
+1987,cereales,65.2
+1988,cereales,78.0
+1989,cereales,109.3
+1990,cereales,106.4
+1991,cereales,78.4
+1992,cereales,90.5
+1993,cereales,94.0
+1994,cereales,100.9
+1995,cereales,105.8
+1996,cereales,143.7
+1997,cereales,112.2
+1998,cereales,95.4
+1999,cereales,86.2
+2000,cereales,81.0
+2001,cereales,84.0
+2002,cereales,87.0
+2003,cereales,100.3
+2004,cereales,100.0
+2005,cereales,86.4
+2006,cereales,107.3
+2007,cereales,139.9
+2008,cereales,202.9
+2009,cereales,149.6
+2010,cereales,159.0
+2011,cereales,229.0
+2012,cereales,208.8
+2013,cereales,234.2
+2014,cereales,190.5
+2015,cereales,167.1
+2016,cereales,145.3
+2017,cereales,140.0
+2018,cereales,156.9
+2019,cereales,152.4
+2020,cereales,147.7
+2021,cereales,199.7
+2022,cereales,232.0
+1986,semillas_frutos_oleaginosos,71.9
+1987,semillas_frutos_oleaginosos,70.0
+1988,semillas_frutos_oleaginosos,94.4
+1989,semillas_frutos_oleaginosos,93.8
+1990,semillas_frutos_oleaginosos,82.0
+1991,semillas_frutos_oleaginosos,77.3
+1992,semillas_frutos_oleaginosos,77.7
+1993,semillas_frutos_oleaginosos,84.4
+1994,semillas_frutos_oleaginosos,90.8
+1995,semillas_frutos_oleaginosos,81.6
+1996,semillas_frutos_oleaginosos,102.7
+1997,semillas_frutos_oleaginosos,100.3
+1998,semillas_frutos_oleaginosos,87.8
+1999,semillas_frutos_oleaginosos,66.8
+2000,semillas_frutos_oleaginosos,72.5
+2001,semillas_frutos_oleaginosos,65.1
+2002,semillas_frutos_oleaginosos,69.1
+2003,semillas_frutos_oleaginosos,79.8
+2004,semillas_frutos_oleaginosos,100.0
+2005,semillas_frutos_oleaginosos,86.3
+2006,semillas_frutos_oleaginosos,85.2
+2007,semillas_frutos_oleaginosos,109.2
+2008,semillas_frutos_oleaginosos,147.2
+2009,semillas_frutos_oleaginosos,143.2
+2010,semillas_frutos_oleaginosos,137.4
+2011,semillas_frutos_oleaginosos,189.0
+2012,semillas_frutos_oleaginosos,196.8
+2013,semillas_frutos_oleaginosos,194.5
+2014,semillas_frutos_oleaginosos,187.8
+2015,semillas_frutos_oleaginosos,138.4
+2016,semillas_frutos_oleaginosos,134.6
+2017,semillas_frutos_oleaginosos,140.9
+2018,semillas_frutos_oleaginosos,148.6
+2019,semillas_frutos_oleaginosos,129.3
+2020,semillas_frutos_oleaginosos,135.8
+2021,semillas_frutos_oleaginosos,186.6
+2022,semillas_frutos_oleaginosos,206.4
+1986,grasas_aceites,57.4
+1987,grasas_aceites,55.0
+1988,grasas_aceites,71.1
+1989,grasas_aceites,75.0
+1990,grasas_aceites,76.4
+1991,grasas_aceites,75.6
+1992,grasas_aceites,72.8
+1993,grasas_aceites,80.1
+1994,grasas_aceites,103.3
+1995,grasas_aceites,107.2
+1996,grasas_aceites,95.0
+1997,grasas_aceites,94.5
+1998,grasas_aceites,109.5
+1999,grasas_aceites,76.6
+2000,grasas_aceites,58.2
+2001,grasas_aceites,60.0
+2002,grasas_aceites,75.8
+2003,grasas_aceites,91.5
+2004,grasas_aceites,100.0
+2005,grasas_aceites,89.1
+2006,grasas_aceites,91.3
+2007,grasas_aceites,126.9
+2008,grasas_aceites,189.6
+2009,grasas_aceites,133.3
+2010,grasas_aceites,154.9
+2011,grasas_aceites,212.6
+2012,grasas_aceites,205.2
+2013,grasas_aceites,176.1
+2014,grasas_aceites,154.9
+2015,grasas_aceites,126.4
+2016,grasas_aceites,130.8
+2017,grasas_aceites,135.6
+2018,grasas_aceites,127.8
+2019,grasas_aceites,118.4
+2020,grasas_aceites,129.2
+2021,grasas_aceites,210.1
+2022,grasas_aceites,262.4
+1986,residuos_alimenticios,89.7
+1987,residuos_alimenticios,94.9
+1988,residuos_alimenticios,122.2
+1989,residuos_alimenticios,116.0
+1990,residuos_alimenticios,91.6
+1991,residuos_alimenticios,85.9
+1992,residuos_alimenticios,94.8
+1993,residuos_alimenticios,95.9
+1994,residuos_alimenticios,88.1
+1995,residuos_alimenticios,75.0
+1996,residuos_alimenticios,121.3
+1997,residuos_alimenticios,126.3
+1998,residuos_alimenticios,77.1
+1999,residuos_alimenticios,68.8
+2000,residuos_alimenticios,84.3
+2001,residuos_alimenticios,83.0
+2002,residuos_alimenticios,79.7
+2003,residuos_alimenticios,88.1
+2004,residuos_alimenticios,100.0
+2005,residuos_alimenticios,91.1
+2006,residuos_alimenticios,91.1
+2007,residuos_alimenticios,110.8
+2008,residuos_alimenticios,153.6
+2009,residuos_alimenticios,186.1
+2010,residuos_alimenticios,164.6
+2011,residuos_alimenticios,185.1
+2012,residuos_alimenticios,221.1
+2013,residuos_alimenticios,242.5
+2014,residuos_alimenticios,240.4
+2015,residuos_alimenticios,182.2
+2016,residuos_alimenticios,171.6
+2017,residuos_alimenticios,161.0
+2018,residuos_alimenticios,190.4
+2019,residuos_alimenticios,158.7
+2020,residuos_alimenticios,169.3
+2021,residuos_alimenticios,211.5
+2022,residuos_alimenticios,241.2
+1986,carnes_preparados,86.9
+1987,carnes_preparados,111.1
+1988,carnes_preparados,96.0
+1989,carnes_preparados,103.2
+1990,carnes_preparados,110.0
+1991,carnes_preparados,124.3
+1992,carnes_preparados,136.0
+1993,carnes_preparados,136.3
+1994,carnes_preparados,125.7
+1995,carnes_preparados,133.5
+1996,carnes_preparados,117.2
+1997,carnes_preparados,113.9
+1998,carnes_preparados,127.6
+1999,carnes_preparados,108.2
+2000,carnes_preparados,102.9
+2001,carnes_preparados,103.9
+2002,carnes_preparados,78.5
+2003,carnes_preparados,87.6
+2004,carnes_preparados,100.0
+2005,carnes_preparados,103.2
+2006,carnes_preparados,132.3
+2007,carnes_preparados,135.4
+2008,carnes_preparados,203.3
+2009,carnes_preparados,152.3
+2010,carnes_preparados,206.9
+2011,carnes_preparados,241.1
+2012,carnes_preparados,222.9
+2013,carnes_preparados,217.0
+2014,carnes_preparados,219.2
+2015,carnes_preparados,195.5
+2016,carnes_preparados,197.1
+2017,carnes_preparados,203.1
+2018,carnes_preparados,203.2
+2019,carnes_preparados,230.2
+2020,carnes_preparados,197.2
+2021,carnes_preparados,219.3
+2022,carnes_preparados,252.5

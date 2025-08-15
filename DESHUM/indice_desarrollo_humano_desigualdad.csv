@@ -1,2107 +1,2107 @@
-iso3,pais_nombre,continente_fundar,es_agregacion,anio,idhd
-AFG,Afganistán,Asia,0,2010,.287
-AFG,Afganistán,Asia,0,2011,.293
-AFG,Afganistán,Asia,0,2012,.302
-AFG,Afganistán,Asia,0,2013,.309
-AFG,Afganistán,Asia,0,2014,.313
-AFG,Afganistán,Asia,0,2015,.312
-AFG,Afganistán,Asia,0,2016,.316
-AFG,Afganistán,Asia,0,2017,.316
-AFG,Afganistán,Asia,0,2018,.318
-AFG,Afganistán,Asia,0,2019,.323
-AFG,Afganistán,Asia,0,2020,.321
-AFG,Afganistán,Asia,0,2021,.311
-AFG,Afganistán,Asia,0,2022,.3
-AGO,Angola,África,0,2015,.365
-AGO,Angola,África,0,2016,.37
-AGO,Angola,África,0,2017,.373
-AGO,Angola,África,0,2018,.374
-AGO,Angola,África,0,2019,.346
-AGO,Angola,África,0,2020,.345
-AGO,Angola,África,0,2021,.344
-AGO,Angola,África,0,2022,.344
-ALB,Albania,Europa,0,2010,.663
-ALB,Albania,Europa,0,2011,.675
-ALB,Albania,Europa,0,2012,.687
-ALB,Albania,Europa,0,2013,.691
-ALB,Albania,Europa,0,2014,.68
-ALB,Albania,Europa,0,2015,.686
-ALB,Albania,Europa,0,2016,.681
-ALB,Albania,Europa,0,2017,.683
-ALB,Albania,Europa,0,2018,.687
-ALB,Albania,Europa,0,2019,.692
-ALB,Albania,Europa,0,2020,.682
-ALB,Albania,Europa,0,2021,.682
-ALB,Albania,Europa,0,2022,.687
-AND,Andorra,Europa,0,2016,.773
-AND,Andorra,Europa,0,2017,.775
-AND,Andorra,Europa,0,2018,.777
-AND,Andorra,Europa,0,2019,.779
-AND,Andorra,Europa,0,2020,.758
-AND,Andorra,Europa,0,2021,.77
-AND,Andorra,Europa,0,2022,.81
-ARE,Emiratos Árabes Unidos,Asia,0,2016,.745
-ARE,Emiratos Árabes Unidos,Asia,0,2017,.785
-ARE,Emiratos Árabes Unidos,Asia,0,2018,.808
-ARE,Emiratos Árabes Unidos,Asia,0,2019,.854
-ARE,Emiratos Árabes Unidos,Asia,0,2020,.853
-ARE,Emiratos Árabes Unidos,Asia,0,2021,.854
-ARE,Emiratos Árabes Unidos,Asia,0,2022,.859
-ARG,Argentina,América del Sur,0,2010,.716
-ARG,Argentina,América del Sur,0,2011,.725
-ARG,Argentina,América del Sur,0,2012,.734
-ARG,Argentina,América del Sur,0,2013,.737
-ARG,Argentina,América del Sur,0,2014,.739
-ARG,Argentina,América del Sur,0,2015,.741
-ARG,Argentina,América del Sur,0,2016,.74
-ARG,Argentina,América del Sur,0,2017,.745
-ARG,Argentina,América del Sur,0,2018,.744
-ARG,Argentina,América del Sur,0,2019,.744
-ARG,Argentina,América del Sur,0,2020,.734
-ARG,Argentina,América del Sur,0,2021,.741
-ARG,Argentina,América del Sur,0,2022,.747
-ARM,Armenia,Asia,0,2010,.661
-ARM,Armenia,Asia,0,2011,.668
-ARM,Armenia,Asia,0,2012,.675
-ARM,Armenia,Asia,0,2013,.679
-ARM,Armenia,Asia,0,2014,.684
-ARM,Armenia,Asia,0,2015,.69
-ARM,Armenia,Asia,0,2016,.694
-ARM,Armenia,Asia,0,2017,.696
-ARM,Armenia,Asia,0,2018,.699
-ARM,Armenia,Asia,0,2019,.716
-ARM,Armenia,Asia,0,2020,.708
-ARM,Armenia,Asia,0,2021,.708
-ARM,Armenia,Asia,0,2022,.721
-AUS,Australia,Oceanía,0,2010,.833
-AUS,Australia,Oceanía,0,2011,.836
-AUS,Australia,Oceanía,0,2012,.84
-AUS,Australia,Oceanía,0,2013,.839
-AUS,Australia,Oceanía,0,2014,.845
-AUS,Australia,Oceanía,0,2015,.847
-AUS,Australia,Oceanía,0,2016,.853
-AUS,Australia,Oceanía,0,2017,.854
-AUS,Australia,Oceanía,0,2018,.855
-AUS,Australia,Oceanía,0,2019,.854
-AUS,Australia,Oceanía,0,2020,.863
-AUS,Australia,Oceanía,0,2021,.865
-AUS,Australia,Oceanía,0,2022,.86
-AUT,Austria,Europa,0,2010,.827
-AUT,Austria,Europa,0,2011,.838
-AUT,Austria,Europa,0,2012,.839
-AUT,Austria,Europa,0,2013,.836
-AUT,Austria,Europa,0,2014,.843
-AUT,Austria,Europa,0,2015,.844
-AUT,Austria,Europa,0,2016,.845
-AUT,Austria,Europa,0,2017,.845
-AUT,Austria,Europa,0,2018,.852
-AUT,Austria,Europa,0,2019,.852
-AUT,Austria,Europa,0,2020,.851
-AUT,Austria,Europa,0,2021,.855
-AUT,Austria,Europa,0,2022,.859
-AZE,Azerbaiyán,Asia,0,2010,.643
-AZE,Azerbaiyán,Asia,0,2011,.647
-AZE,Azerbaiyán,Asia,0,2012,.652
-AZE,Azerbaiyán,Asia,0,2013,.66
-AZE,Azerbaiyán,Asia,0,2014,.665
-AZE,Azerbaiyán,Asia,0,2015,.694
-AZE,Azerbaiyán,Asia,0,2016,.697
-AZE,Azerbaiyán,Asia,0,2017,.701
-AZE,Azerbaiyán,Asia,0,2018,.701
-AZE,Azerbaiyán,Asia,0,2019,.707
-AZE,Azerbaiyán,Asia,0,2020,.669
-AZE,Azerbaiyán,Asia,0,2021,.687
-AZE,Azerbaiyán,Asia,0,2022,.707
-BDI,Burundi,África,0,2010,.256
-BDI,Burundi,África,0,2011,.26
-BDI,Burundi,África,0,2012,.27
-BDI,Burundi,África,0,2013,.274
-BDI,Burundi,África,0,2014,.269
-BDI,Burundi,África,0,2015,.271
-BDI,Burundi,África,0,2016,.27
-BDI,Burundi,África,0,2017,.27
-BDI,Burundi,África,0,2018,.27
-BDI,Burundi,África,0,2019,.272
-BDI,Burundi,África,0,2020,.271
-BDI,Burundi,África,0,2021,.272
-BDI,Burundi,África,0,2022,.273
-BEL,Bélgica,Europa,0,2010,.828
-BEL,Bélgica,Europa,0,2011,.836
-BEL,Bélgica,Europa,0,2012,.835
-BEL,Bélgica,Europa,0,2013,.842
-BEL,Bélgica,Europa,0,2014,.844
-BEL,Bélgica,Europa,0,2015,.851
-BEL,Bélgica,Europa,0,2016,.852
-BEL,Bélgica,Europa,0,2017,.857
-BEL,Bélgica,Europa,0,2018,.858
-BEL,Bélgica,Europa,0,2019,.867
-BEL,Bélgica,Europa,0,2020,.864
-BEL,Bélgica,Europa,0,2021,.876
-BEL,Bélgica,Europa,0,2022,.878
-BEN,Benin,África,0,2019,.308
-BEN,Benin,África,0,2020,.306
-BEN,Benin,África,0,2021,.308
-BEN,Benin,África,0,2022,.309
-BFA,Burkina Faso,África,0,2010,.225
-BFA,Burkina Faso,África,0,2011,.233
-BFA,Burkina Faso,África,0,2012,.24
-BFA,Burkina Faso,África,0,2013,.244
-BFA,Burkina Faso,África,0,2014,.255
-BFA,Burkina Faso,África,0,2015,.262
-BFA,Burkina Faso,África,0,2016,.269
-BFA,Burkina Faso,África,0,2017,.276
-BFA,Burkina Faso,África,0,2018,.284
-BFA,Burkina Faso,África,0,2019,.274
-BFA,Burkina Faso,África,0,2020,.275
-BFA,Burkina Faso,África,0,2021,.265
-BFA,Burkina Faso,África,0,2022,.261
-BGD,Bangladesh,Asia,0,2010,.383
-BGD,Bangladesh,Asia,0,2011,.391
-BGD,Bangladesh,Asia,0,2012,.397
-BGD,Bangladesh,Asia,0,2013,.399
-BGD,Bangladesh,Asia,0,2014,.412
-BGD,Bangladesh,Asia,0,2015,.426
-BGD,Bangladesh,Asia,0,2016,.423
-BGD,Bangladesh,Asia,0,2017,.435
-BGD,Bangladesh,Asia,0,2018,.445
-BGD,Bangladesh,Asia,0,2019,.449
-BGD,Bangladesh,Asia,0,2020,.458
-BGD,Bangladesh,Asia,0,2021,.462
-BGD,Bangladesh,Asia,0,2022,.47
-BGR,Bulgaria,Europa,0,2010,.701
-BGR,Bulgaria,Europa,0,2011,.7
-BGR,Bulgaria,Europa,0,2012,.707
-BGR,Bulgaria,Europa,0,2013,.71
-BGR,Bulgaria,Europa,0,2014,.709
-BGR,Bulgaria,Europa,0,2015,.711
-BGR,Bulgaria,Europa,0,2016,.705
-BGR,Bulgaria,Europa,0,2017,.702
-BGR,Bulgaria,Europa,0,2018,.707
-BGR,Bulgaria,Europa,0,2019,.707
-BGR,Bulgaria,Europa,0,2020,.701
-BGR,Bulgaria,Europa,0,2021,.697
-BGR,Bulgaria,Europa,0,2022,.703
-BHS,Bahamas,"América del Norte, Central y el Caribe",0,2013,.647
-BHS,Bahamas,"América del Norte, Central y el Caribe",0,2014,.65
-BHS,Bahamas,"América del Norte, Central y el Caribe",0,2015,.649
-BHS,Bahamas,"América del Norte, Central y el Caribe",0,2016,.653
-BHS,Bahamas,"América del Norte, Central y el Caribe",0,2017,.655
-BHS,Bahamas,"América del Norte, Central y el Caribe",0,2018,.657
-BHS,Bahamas,"América del Norte, Central y el Caribe",0,2019,.636
-BHS,Bahamas,"América del Norte, Central y el Caribe",0,2020,.646
-BHS,Bahamas,"América del Norte, Central y el Caribe",0,2021,.647
-BHS,Bahamas,"América del Norte, Central y el Caribe",0,2022,.663
-BIH,Bosnia y Herzegovina,Europa,0,2010,.589
-BIH,Bosnia y Herzegovina,Europa,0,2011,.594
-BIH,Bosnia y Herzegovina,Europa,0,2012,.604
-BIH,Bosnia y Herzegovina,Europa,0,2013,.612
-BIH,Bosnia y Herzegovina,Europa,0,2014,.617
-BIH,Bosnia y Herzegovina,Europa,0,2015,.619
-BIH,Bosnia y Herzegovina,Europa,0,2016,.641
-BIH,Bosnia y Herzegovina,Europa,0,2017,.644
-BIH,Bosnia y Herzegovina,Europa,0,2018,.652
-BIH,Bosnia y Herzegovina,Europa,0,2019,.658
-BIH,Bosnia y Herzegovina,Europa,0,2020,.665
-BIH,Bosnia y Herzegovina,Europa,0,2021,.665
-BIH,Bosnia y Herzegovina,Europa,0,2022,.667
-BLR,Belarús,Europa,0,2012,.743
-BLR,Belarús,Europa,0,2013,.744
-BLR,Belarús,Europa,0,2014,.747
-BLR,Belarús,Europa,0,2015,.75
-BLR,Belarús,Europa,0,2016,.751
-BLR,Belarús,Europa,0,2017,.754
-BLR,Belarús,Europa,0,2018,.755
-BLR,Belarús,Europa,0,2019,.755
-BLR,Belarús,Europa,0,2020,.749
-BLR,Belarús,Europa,0,2021,.75
-BLR,Belarús,Europa,0,2022,.75
-BOL,Bolivia,América del Sur,0,2010,.466
-BOL,Bolivia,América del Sur,0,2011,.491
-BOL,Bolivia,América del Sur,0,2012,.494
-BOL,Bolivia,América del Sur,0,2013,.504
-BOL,Bolivia,América del Sur,0,2014,.509
-BOL,Bolivia,América del Sur,0,2015,.521
-BOL,Bolivia,América del Sur,0,2016,.523
-BOL,Bolivia,América del Sur,0,2017,.533
-BOL,Bolivia,América del Sur,0,2018,.551
-BOL,Bolivia,América del Sur,0,2019,.562
-BOL,Bolivia,América del Sur,0,2020,.536
-BOL,Bolivia,América del Sur,0,2021,.551
-BOL,Bolivia,América del Sur,0,2022,.56
-BRA,Brasil,América del Sur,0,2010,.547
-BRA,Brasil,América del Sur,0,2011,.55
-BRA,Brasil,América del Sur,0,2012,.562
-BRA,Brasil,América del Sur,0,2013,.582
-BRA,Brasil,América del Sur,0,2014,.588
-BRA,Brasil,América del Sur,0,2015,.588
-BRA,Brasil,América del Sur,0,2016,.57
-BRA,Brasil,América del Sur,0,2017,.573
-BRA,Brasil,América del Sur,0,2018,.577
-BRA,Brasil,América del Sur,0,2019,.581
-BRA,Brasil,América del Sur,0,2020,.588
-BRA,Brasil,América del Sur,0,2021,.573
-BRA,Brasil,América del Sur,0,2022,.577
-BRB,Barbados,"América del Norte, Central y el Caribe",0,2012,.601
-BRB,Barbados,"América del Norte, Central y el Caribe",0,2013,.602
-BRB,Barbados,"América del Norte, Central y el Caribe",0,2014,.603
-BRB,Barbados,"América del Norte, Central y el Caribe",0,2015,.606
-BRB,Barbados,"América del Norte, Central y el Caribe",0,2016,.609
-BRB,Barbados,"América del Norte, Central y el Caribe",0,2017,.611
-BRB,Barbados,"América del Norte, Central y el Caribe",0,2018,.612
-BRB,Barbados,"América del Norte, Central y el Caribe",0,2019,.614
-BRB,Barbados,"América del Norte, Central y el Caribe",0,2020,.611
-BRB,Barbados,"América del Norte, Central y el Caribe",0,2021,.612
-BRB,Barbados,"América del Norte, Central y el Caribe",0,2022,.617
-BRN,Brunei Darussalam,Asia,0,2013,.743
-BRN,Brunei Darussalam,Asia,0,2014,.741
-BRN,Brunei Darussalam,Asia,0,2015,.739
-BRN,Brunei Darussalam,Asia,0,2016,.735
-BRN,Brunei Darussalam,Asia,0,2017,.734
-BRN,Brunei Darussalam,Asia,0,2018,.73
-BRN,Brunei Darussalam,Asia,0,2019,.731
-BRN,Brunei Darussalam,Asia,0,2020,.731
-BRN,Brunei Darussalam,Asia,0,2021,.729
-BRN,Brunei Darussalam,Asia,0,2022,.727
-BTN,Bhután,Asia,0,2010,.376
-BTN,Bhután,Asia,0,2011,.382
-BTN,Bhután,Asia,0,2012,.394
-BTN,Bhután,Asia,0,2013,.4
-BTN,Bhután,Asia,0,2014,.408
-BTN,Bhután,Asia,0,2015,.416
-BTN,Bhután,Asia,0,2016,.423
-BTN,Bhután,Asia,0,2017,.416
-BTN,Bhután,Asia,0,2018,.423
-BTN,Bhután,Asia,0,2019,.432
-BTN,Bhután,Asia,0,2020,.437
-BTN,Bhután,Asia,0,2021,.44
-BTN,Bhután,Asia,0,2022,.465
-BWA,Botswana,África,0,2015,.447
-BWA,Botswana,África,0,2016,.477
-BWA,Botswana,África,0,2017,.484
-BWA,Botswana,África,0,2018,.48
-BWA,Botswana,África,0,2019,.483
-BWA,Botswana,África,0,2020,.483
-BWA,Botswana,África,0,2021,.469
-BWA,Botswana,África,0,2022,.488
-CAF,República Centroafricana,África,0,2010,.184
-CAF,República Centroafricana,África,0,2011,.189
-CAF,República Centroafricana,África,0,2012,.194
-CAF,República Centroafricana,África,0,2013,.184
-CAF,República Centroafricana,África,0,2014,.185
-CAF,República Centroafricana,África,0,2015,.194
-CAF,República Centroafricana,África,0,2016,.198
-CAF,República Centroafricana,África,0,2017,.202
-CAF,República Centroafricana,África,0,2018,.206
-CAF,República Centroafricana,África,0,2019,.21
-CAF,República Centroafricana,África,0,2020,.21
-CAF,República Centroafricana,África,0,2021,.236
-CAF,República Centroafricana,África,0,2022,.237
-CAN,Canadá,"América del Norte, Central y el Caribe",0,2010,.832
-CAN,Canadá,"América del Norte, Central y el Caribe",0,2011,.838
-CAN,Canadá,"América del Norte, Central y el Caribe",0,2012,.841
-CAN,Canadá,"América del Norte, Central y el Caribe",0,2013,.842
-CAN,Canadá,"América del Norte, Central y el Caribe",0,2014,.848
-CAN,Canadá,"América del Norte, Central y el Caribe",0,2015,.846
-CAN,Canadá,"América del Norte, Central y el Caribe",0,2016,.851
-CAN,Canadá,"América del Norte, Central y el Caribe",0,2017,.851
-CAN,Canadá,"América del Norte, Central y el Caribe",0,2018,.855
-CAN,Canadá,"América del Norte, Central y el Caribe",0,2019,.86
-CAN,Canadá,"América del Norte, Central y el Caribe",0,2020,.857
-CAN,Canadá,"América del Norte, Central y el Caribe",0,2021,.862
-CAN,Canadá,"América del Norte, Central y el Caribe",0,2022,.864
-CHE,Suiza,Europa,0,2010,.867
-CHE,Suiza,Europa,0,2011,.867
-CHE,Suiza,Europa,0,2012,.874
-CHE,Suiza,Europa,0,2013,.879
-CHE,Suiza,Europa,0,2014,.879
-CHE,Suiza,Europa,0,2015,.879
-CHE,Suiza,Europa,0,2016,.883
-CHE,Suiza,Europa,0,2017,.881
-CHE,Suiza,Europa,0,2018,.884
-CHE,Suiza,Europa,0,2019,.886
-CHE,Suiza,Europa,0,2020,.879
-CHE,Suiza,Europa,0,2021,.889
-CHE,Suiza,Europa,0,2022,.891
-CHL,Chile,América del Sur,0,2010,.663
-CHL,Chile,América del Sur,0,2011,.673
-CHL,Chile,América del Sur,0,2012,.68
-CHL,Chile,América del Sur,0,2013,.696
-CHL,Chile,América del Sur,0,2014,.699
-CHL,Chile,América del Sur,0,2015,.71
-CHL,Chile,América del Sur,0,2016,.714
-CHL,Chile,América del Sur,0,2017,.714
-CHL,Chile,América del Sur,0,2018,.716
-CHL,Chile,América del Sur,0,2019,.718
-CHL,Chile,América del Sur,0,2020,.695
-CHL,Chile,América del Sur,0,2021,.701
-CHL,Chile,América del Sur,0,2022,.704
-CHN,China,Asia,0,2013,.594
-CHN,China,Asia,0,2014,.611
-CHN,China,Asia,0,2015,.614
-CHN,China,Asia,0,2016,.621
-CHN,China,Asia,0,2017,.627
-CHN,China,Asia,0,2018,.637
-CHN,China,Asia,0,2019,.648
-CHN,China,Asia,0,2020,.654
-CHN,China,Asia,0,2021,.659
-CHN,China,Asia,0,2022,.662
-CIV,Costa de Marfil,África,0,2010,.273
-CIV,Costa de Marfil,África,0,2011,.269
-CIV,Costa de Marfil,África,0,2012,.274
-CIV,Costa de Marfil,África,0,2013,.278
-CIV,Costa de Marfil,África,0,2014,.29
-CIV,Costa de Marfil,África,0,2015,.275
-CIV,Costa de Marfil,África,0,2016,.278
-CIV,Costa de Marfil,África,0,2017,.284
-CIV,Costa de Marfil,África,0,2018,.288
-CIV,Costa de Marfil,África,0,2019,.314
-CIV,Costa de Marfil,África,0,2020,.317
-CIV,Costa de Marfil,África,0,2021,.316
-CIV,Costa de Marfil,África,0,2022,.318
-CMR,Camerún,África,0,2011,.322
-CMR,Camerún,África,0,2012,.331
-CMR,Camerún,África,0,2013,.338
-CMR,Camerún,África,0,2014,.328
-CMR,Camerún,África,0,2015,.335
-CMR,Camerún,África,0,2016,.339
-CMR,Camerún,África,0,2017,.345
-CMR,Camerún,África,0,2018,.352
-CMR,Camerún,África,0,2019,.357
-CMR,Camerún,África,0,2020,.357
-CMR,Camerún,África,0,2021,.356
-CMR,Camerún,África,0,2022,.362
-COD,República Democrática del Congo,África,0,2010,.263
-COD,República Democrática del Congo,África,0,2011,.269
-COD,República Democrática del Congo,África,0,2012,.272
-COD,República Democrática del Congo,África,0,2013,.277
-COD,República Democrática del Congo,África,0,2014,.284
-COD,República Democrática del Congo,África,0,2015,.29
-COD,República Democrática del Congo,África,0,2016,.297
-COD,República Democrática del Congo,África,0,2017,.301
-COD,República Democrática del Congo,África,0,2018,.305
-COD,República Democrática del Congo,África,0,2019,.308
-COD,República Democrática del Congo,África,0,2020,.309
-COD,República Democrática del Congo,África,0,2021,.309
-COD,República Democrática del Congo,África,0,2022,.315
-COG,Congo,África,0,2010,.375
-COG,Congo,África,0,2011,.385
-COG,Congo,África,0,2012,.381
-COG,Congo,África,0,2013,.385
-COG,Congo,África,0,2014,.393
-COG,Congo,África,0,2015,.395
-COG,Congo,África,0,2016,.393
-COG,Congo,África,0,2017,.39
-COG,Congo,África,0,2018,.393
-COG,Congo,África,0,2019,.385
-COG,Congo,África,0,2020,.39
-COG,Congo,África,0,2021,.392
-COG,Congo,África,0,2022,.385
-COL,Colombia,América del Sur,0,2010,.537
-COL,Colombia,América del Sur,0,2011,.546
-COL,Colombia,América del Sur,0,2012,.552
-COL,Colombia,América del Sur,0,2013,.561
-COL,Colombia,América del Sur,0,2014,.567
-COL,Colombia,América del Sur,0,2015,.579
-COL,Colombia,América del Sur,0,2016,.585
-COL,Colombia,América del Sur,0,2017,.591
-COL,Colombia,América del Sur,0,2018,.592
-COL,Colombia,América del Sur,0,2019,.587
-COL,Colombia,América del Sur,0,2020,.567
-COL,Colombia,América del Sur,0,2021,.563
-COL,Colombia,América del Sur,0,2022,.568
-COM,Comoras,África,0,2014,.308
-COM,Comoras,África,0,2015,.312
-COM,Comoras,África,0,2016,.317
-COM,Comoras,África,0,2017,.322
-COM,Comoras,África,0,2018,.327
-COM,Comoras,África,0,2019,.331
-COM,Comoras,África,0,2020,.334
-COM,Comoras,África,0,2021,.333
-COM,Comoras,África,0,2022,.334
-CPV,Cabo Verde,África,0,2015,.463
-CPV,Cabo Verde,África,0,2016,.469
-CPV,Cabo Verde,África,0,2017,.473
-CPV,Cabo Verde,África,0,2018,.471
-CPV,Cabo Verde,África,0,2019,.474
-CPV,Cabo Verde,África,0,2020,.462
-CPV,Cabo Verde,África,0,2021,.463
-CPV,Cabo Verde,África,0,2022,.471
-CRI,Costa Rica,"América del Norte, Central y el Caribe",0,2010,.62
-CRI,Costa Rica,"América del Norte, Central y el Caribe",0,2011,.626
-CRI,Costa Rica,"América del Norte, Central y el Caribe",0,2012,.629
-CRI,Costa Rica,"América del Norte, Central y el Caribe",0,2013,.631
-CRI,Costa Rica,"América del Norte, Central y el Caribe",0,2014,.639
-CRI,Costa Rica,"América del Norte, Central y el Caribe",0,2015,.64
-CRI,Costa Rica,"América del Norte, Central y el Caribe",0,2016,.643
-CRI,Costa Rica,"América del Norte, Central y el Caribe",0,2017,.65
-CRI,Costa Rica,"América del Norte, Central y el Caribe",0,2018,.654
-CRI,Costa Rica,"América del Norte, Central y el Caribe",0,2019,.661
-CRI,Costa Rica,"América del Norte, Central y el Caribe",0,2020,.663
-CRI,Costa Rica,"América del Norte, Central y el Caribe",0,2021,.654
-CRI,Costa Rica,"América del Norte, Central y el Caribe",0,2022,.656
-CYP,Chipre,Europa,0,2010,.76
-CYP,Chipre,Europa,0,2011,.765
-CYP,Chipre,Europa,0,2012,.765
-CYP,Chipre,Europa,0,2013,.764
-CYP,Chipre,Europa,0,2014,.761
-CYP,Chipre,Europa,0,2015,.775
-CYP,Chipre,Europa,0,2016,.785
-CYP,Chipre,Europa,0,2017,.8
-CYP,Chipre,Europa,0,2018,.81
-CYP,Chipre,Europa,0,2019,.812
-CYP,Chipre,Europa,0,2020,.818
-CYP,Chipre,Europa,0,2021,.818
-CYP,Chipre,Europa,0,2022,.827
-CZE,Chequia,Europa,0,2010,.827
-CZE,Chequia,Europa,0,2011,.828
-CZE,Chequia,Europa,0,2012,.83
-CZE,Chequia,Europa,0,2013,.836
-CZE,Chequia,Europa,0,2014,.841
-CZE,Chequia,Europa,0,2015,.843
-CZE,Chequia,Europa,0,2016,.845
-CZE,Chequia,Europa,0,2017,.85
-CZE,Chequia,Europa,0,2018,.849
-CZE,Chequia,Europa,0,2019,.851
-CZE,Chequia,Europa,0,2020,.847
-CZE,Chequia,Europa,0,2021,.844
-CZE,Chequia,Europa,0,2022,.848
-DEU,Alemania,Europa,0,2010,.864
-DEU,Alemania,Europa,0,2011,.87
-DEU,Alemania,Europa,0,2012,.871
-DEU,Alemania,Europa,0,2013,.87
-DEU,Alemania,Europa,0,2014,.872
-DEU,Alemania,Europa,0,2015,.872
-DEU,Alemania,Europa,0,2016,.87
-DEU,Alemania,Europa,0,2017,.874
-DEU,Alemania,Europa,0,2018,.872
-DEU,Alemania,Europa,0,2019,.879
-DEU,Alemania,Europa,0,2020,.874
-DEU,Alemania,Europa,0,2021,.872
-DEU,Alemania,Europa,0,2022,.881
-DJI,Djibouti,África,0,2012,.278
-DJI,Djibouti,África,0,2013,.288
-DJI,Djibouti,África,0,2014,.295
-DJI,Djibouti,África,0,2015,.302
-DJI,Djibouti,África,0,2016,.308
-DJI,Djibouti,África,0,2017,.321
-DJI,Djibouti,África,0,2018,.327
-DJI,Djibouti,África,0,2019,.333
-DJI,Djibouti,África,0,2020,.337
-DJI,Djibouti,África,0,2021,.338
-DJI,Djibouti,África,0,2022,.341
-DNK,Dinamarca,Europa,0,2014,.876
-DNK,Dinamarca,Europa,0,2015,.881
-DNK,Dinamarca,Europa,0,2016,.887
-DNK,Dinamarca,Europa,0,2017,.887
-DNK,Dinamarca,Europa,0,2018,.885
-DNK,Dinamarca,Europa,0,2019,.891
-DNK,Dinamarca,Europa,0,2020,.891
-DNK,Dinamarca,Europa,0,2021,.895
-DNK,Dinamarca,Europa,0,2022,.898
-DOM,República Dominicana,"América del Norte, Central y el Caribe",0,2010,.537
-DOM,República Dominicana,"América del Norte, Central y el Caribe",0,2011,.541
-DOM,República Dominicana,"América del Norte, Central y el Caribe",0,2012,.552
-DOM,República Dominicana,"América del Norte, Central y el Caribe",0,2013,.55
-DOM,República Dominicana,"América del Norte, Central y el Caribe",0,2014,.564
-DOM,República Dominicana,"América del Norte, Central y el Caribe",0,2015,.573
-DOM,República Dominicana,"América del Norte, Central y el Caribe",0,2016,.601
-DOM,República Dominicana,"América del Norte, Central y el Caribe",0,2017,.605
-DOM,República Dominicana,"América del Norte, Central y el Caribe",0,2018,.605
-DOM,República Dominicana,"América del Norte, Central y el Caribe",0,2019,.611
-DOM,República Dominicana,"América del Norte, Central y el Caribe",0,2020,.616
-DOM,República Dominicana,"América del Norte, Central y el Caribe",0,2021,.616
-DOM,República Dominicana,"América del Norte, Central y el Caribe",0,2022,.627
-DZA,Argelia,África,0,2012,.565
-DZA,Argelia,África,0,2013,.567
-DZA,Argelia,África,0,2014,.571
-DZA,Argelia,África,0,2015,.574
-DZA,Argelia,África,0,2016,.576
-DZA,Argelia,África,0,2017,.577
-DZA,Argelia,África,0,2018,.579
-DZA,Argelia,África,0,2019,.582
-DZA,Argelia,África,0,2020,.573
-DZA,Argelia,África,0,2021,.582
-DZA,Argelia,África,0,2022,.588
-ECU,Ecuador,América del Sur,0,2010,.575
-ECU,Ecuador,América del Sur,0,2011,.595
-ECU,Ecuador,América del Sur,0,2012,.598
-ECU,Ecuador,América del Sur,0,2013,.606
-ECU,Ecuador,América del Sur,0,2014,.62
-ECU,Ecuador,América del Sur,0,2015,.622
-ECU,Ecuador,América del Sur,0,2016,.623
-ECU,Ecuador,América del Sur,0,2017,.626
-ECU,Ecuador,América del Sur,0,2018,.622
-ECU,Ecuador,América del Sur,0,2019,.621
-ECU,Ecuador,América del Sur,0,2020,.6
-ECU,Ecuador,América del Sur,0,2021,.614
-ECU,Ecuador,América del Sur,0,2022,.63
-EGY,Egipto,África,0,2010,.497
-EGY,Egipto,África,0,2011,.503
-EGY,Egipto,África,0,2012,.518
-EGY,Egipto,África,0,2013,.525
-EGY,Egipto,África,0,2014,.532
-EGY,Egipto,África,0,2015,.528
-EGY,Egipto,África,0,2016,.534
-EGY,Egipto,África,0,2017,.541
-EGY,Egipto,África,0,2018,.55
-EGY,Egipto,África,0,2019,.556
-EGY,Egipto,África,0,2020,.561
-EGY,Egipto,África,0,2021,.56
-EGY,Egipto,África,0,2022,.561
-ESP,España,Europa,0,2014,.748
-ESP,España,Europa,0,2015,.752
-ESP,España,Europa,0,2016,.758
-ESP,España,Europa,0,2017,.767
-ESP,España,Europa,0,2018,.776
-ESP,España,Europa,0,2019,.781
-ESP,España,Europa,0,2020,.776
-ESP,España,Europa,0,2021,.78
-ESP,España,Europa,0,2022,.796
-EST,Estonia,Europa,0,2010,.797
-EST,Estonia,Europa,0,2011,.802
-EST,Estonia,Europa,0,2012,.804
-EST,Estonia,Europa,0,2013,.811
-EST,Estonia,Europa,0,2014,.799
-EST,Estonia,Europa,0,2015,.802
-EST,Estonia,Europa,0,2016,.804
-EST,Estonia,Europa,0,2017,.821
-EST,Estonia,Europa,0,2018,.828
-EST,Estonia,Europa,0,2019,.833
-EST,Estonia,Europa,0,2020,.83
-EST,Estonia,Europa,0,2021,.829
-EST,Estonia,Europa,0,2022,.835
-ETH,Etiopía,África,0,2011,.264
-ETH,Etiopía,África,0,2012,.27
-ETH,Etiopía,África,0,2013,.277
-ETH,Etiopía,África,0,2014,.284
-ETH,Etiopía,África,0,2015,.292
-ETH,Etiopía,África,0,2016,.297
-ETH,Etiopía,África,0,2017,.303
-ETH,Etiopía,África,0,2018,.309
-ETH,Etiopía,África,0,2019,.316
-ETH,Etiopía,África,0,2020,.319
-ETH,Etiopía,África,0,2021,.32
-ETH,Etiopía,África,0,2022,.324
-FIN,Finlandia,Europa,0,2010,.856
-FIN,Finlandia,Europa,0,2011,.861
-FIN,Finlandia,Europa,0,2012,.861
-FIN,Finlandia,Europa,0,2013,.872
-FIN,Finlandia,Europa,0,2014,.874
-FIN,Finlandia,Europa,0,2015,.878
-FIN,Finlandia,Europa,0,2016,.879
-FIN,Finlandia,Europa,0,2017,.881
-FIN,Finlandia,Europa,0,2018,.882
-FIN,Finlandia,Europa,0,2019,.885
-FIN,Finlandia,Europa,0,2020,.884
-FIN,Finlandia,Europa,0,2021,.889
-FIN,Finlandia,Europa,0,2022,.886
-FJI,Fiji,Oceanía,0,2021,.614
-FJI,Fiji,Oceanía,0,2022,.632
-FRA,Francia,Europa,0,2010,.789
-FRA,Francia,Europa,0,2011,.795
-FRA,Francia,Europa,0,2012,.798
-FRA,Francia,Europa,0,2013,.806
-FRA,Francia,Europa,0,2014,.806
-FRA,Francia,Europa,0,2015,.808
-FRA,Francia,Europa,0,2016,.811
-FRA,Francia,Europa,0,2017,.809
-FRA,Francia,Europa,0,2018,.809
-FRA,Francia,Europa,0,2019,.81
-FRA,Francia,Europa,0,2020,.811
-FRA,Francia,Europa,0,2021,.82
-FRA,Francia,Europa,0,2022,.82
-GAB,Gabón,África,0,2012,.485
-GAB,Gabón,África,0,2013,.491
-GAB,Gabón,África,0,2014,.499
-GAB,Gabón,África,0,2015,.504
-GAB,Gabón,África,0,2016,.509
-GAB,Gabón,África,0,2017,.52
-GAB,Gabón,África,0,2018,.521
-GAB,Gabón,África,0,2019,.53
-GAB,Gabón,África,0,2020,.533
-GAB,Gabón,África,0,2021,.521
-GAB,Gabón,África,0,2022,.526
-GBR,Reino Unido,Europa,0,2010,.832
-GBR,Reino Unido,Europa,0,2011,.834
-GBR,Reino Unido,Europa,0,2012,.837
-GBR,Reino Unido,Europa,0,2013,.85
-GBR,Reino Unido,Europa,0,2014,.851
-GBR,Reino Unido,Europa,0,2015,.847
-GBR,Reino Unido,Europa,0,2016,.849
-GBR,Reino Unido,Europa,0,2017,.854
-GBR,Reino Unido,Europa,0,2018,.853
-GBR,Reino Unido,Europa,0,2019,.854
-GBR,Reino Unido,Europa,0,2020,.844
-GBR,Reino Unido,Europa,0,2021,.855
-GBR,Reino Unido,Europa,0,2022,.865
-GEO,Georgia,Asia,0,2010,.642
-GEO,Georgia,Asia,0,2011,.644
-GEO,Georgia,Asia,0,2012,.669
-GEO,Georgia,Asia,0,2013,.681
-GEO,Georgia,Asia,0,2014,.688
-GEO,Georgia,Asia,0,2015,.698
-GEO,Georgia,Asia,0,2016,.701
-GEO,Georgia,Asia,0,2017,.694
-GEO,Georgia,Asia,0,2018,.717
-GEO,Georgia,Asia,0,2019,.715
-GEO,Georgia,Asia,0,2020,.717
-GEO,Georgia,Asia,0,2021,.723
-GEO,Georgia,Asia,0,2022,.728
-GHA,Ghana,África,0,2010,.341
-GHA,Ghana,África,0,2011,.355
-GHA,Ghana,África,0,2012,.359
-GHA,Ghana,África,0,2013,.367
-GHA,Ghana,África,0,2014,.369
-GHA,Ghana,África,0,2015,.372
-GHA,Ghana,África,0,2016,.373
-GHA,Ghana,África,0,2017,.363
-GHA,Ghana,África,0,2018,.366
-GHA,Ghana,África,0,2019,.374
-GHA,Ghana,África,0,2020,.375
-GHA,Ghana,África,0,2021,.376
-GHA,Ghana,África,0,2022,.378
-GIN,Guinea,África,0,2010,.243
-GIN,Guinea,África,0,2011,.247
-GIN,Guinea,África,0,2012,.249
-GIN,Guinea,África,0,2013,.252
-GIN,Guinea,África,0,2014,.256
-GIN,Guinea,África,0,2015,.265
-GIN,Guinea,África,0,2016,.271
-GIN,Guinea,África,0,2017,.272
-GIN,Guinea,África,0,2018,.272
-GIN,Guinea,África,0,2019,.282
-GIN,Guinea,África,0,2020,.284
-GIN,Guinea,África,0,2021,.283
-GIN,Guinea,África,0,2022,.285
-GMB,Gambia,África,0,2011,.263
-GMB,Gambia,África,0,2012,.268
-GMB,Gambia,África,0,2013,.269
-GMB,Gambia,África,0,2014,.271
-GMB,Gambia,África,0,2015,.275
-GMB,Gambia,África,0,2016,.292
-GMB,Gambia,África,0,2017,.295
-GMB,Gambia,África,0,2018,.303
-GMB,Gambia,África,0,2019,.311
-GMB,Gambia,África,0,2020,.312
-GMB,Gambia,África,0,2021,.306
-GMB,Gambia,África,0,2022,.311
-GNB,Guinea-Bissau,África,0,2010,.243
-GNB,Guinea-Bissau,África,0,2011,.25
-GNB,Guinea-Bissau,África,0,2012,.253
-GNB,Guinea-Bissau,África,0,2013,.257
-GNB,Guinea-Bissau,África,0,2014,.259
-GNB,Guinea-Bissau,África,0,2015,.263
-GNB,Guinea-Bissau,África,0,2016,.267
-GNB,Guinea-Bissau,África,0,2017,.27
-GNB,Guinea-Bissau,África,0,2018,.271
-GNB,Guinea-Bissau,África,0,2019,.311
-GNB,Guinea-Bissau,África,0,2020,.309
-GNB,Guinea-Bissau,África,0,2021,.309
-GNB,Guinea-Bissau,África,0,2022,.31
-GRC,Grecia,Europa,0,2010,.764
-GRC,Grecia,Europa,0,2011,.761
-GRC,Grecia,Europa,0,2012,.762
-GRC,Grecia,Europa,0,2013,.765
-GRC,Grecia,Europa,0,2014,.765
-GRC,Grecia,Europa,0,2015,.768
-GRC,Grecia,Europa,0,2016,.766
-GRC,Grecia,Europa,0,2017,.773
-GRC,Grecia,Europa,0,2018,.788
-GRC,Grecia,Europa,0,2019,.795
-GRC,Grecia,Europa,0,2020,.79
-GRC,Grecia,Europa,0,2021,.787
-GRC,Grecia,Europa,0,2022,.801
-GTM,Guatemala,"América del Norte, Central y el Caribe",0,2011,.428
-GTM,Guatemala,"América del Norte, Central y el Caribe",0,2012,.431
-GTM,Guatemala,"América del Norte, Central y el Caribe",0,2013,.434
-GTM,Guatemala,"América del Norte, Central y el Caribe",0,2014,.46
-GTM,Guatemala,"América del Norte, Central y el Caribe",0,2015,.449
-GTM,Guatemala,"América del Norte, Central y el Caribe",0,2016,.453
-GTM,Guatemala,"América del Norte, Central y el Caribe",0,2017,.456
-GTM,Guatemala,"América del Norte, Central y el Caribe",0,2018,.459
-GTM,Guatemala,"América del Norte, Central y el Caribe",0,2019,.464
-GTM,Guatemala,"América del Norte, Central y el Caribe",0,2020,.46
-GTM,Guatemala,"América del Norte, Central y el Caribe",0,2021,.455
-GTM,Guatemala,"América del Norte, Central y el Caribe",0,2022,.453
-HKG,Hong Kong,Asia,0,2010,.793
-HKG,Hong Kong,Asia,0,2011,.8
-HKG,Hong Kong,Asia,0,2012,.803
-HKG,Hong Kong,Asia,0,2013,.806
-HKG,Hong Kong,Asia,0,2014,.814
-HKG,Hong Kong,Asia,0,2015,.818
-HKG,Hong Kong,Asia,0,2016,.821
-HKG,Hong Kong,Asia,0,2017,.829
-HKG,Hong Kong,Asia,0,2018,.832
-HKG,Hong Kong,Asia,0,2019,.836
-HKG,Hong Kong,Asia,0,2020,.838
-HKG,Hong Kong,Asia,0,2021,.841
-HKG,Hong Kong,Asia,0,2022,.84
-HND,Honduras,"América del Norte, Central y el Caribe",0,2010,.442
-HND,Honduras,"América del Norte, Central y el Caribe",0,2011,.433
-HND,Honduras,"América del Norte, Central y el Caribe",0,2012,.435
-HND,Honduras,"América del Norte, Central y el Caribe",0,2013,.451
-HND,Honduras,"América del Norte, Central y el Caribe",0,2014,.463
-HND,Honduras,"América del Norte, Central y el Caribe",0,2015,.473
-HND,Honduras,"América del Norte, Central y el Caribe",0,2016,.474
-HND,Honduras,"América del Norte, Central y el Caribe",0,2017,.473
-HND,Honduras,"América del Norte, Central y el Caribe",0,2018,.474
-HND,Honduras,"América del Norte, Central y el Caribe",0,2019,.483
-HND,Honduras,"América del Norte, Central y el Caribe",0,2020,.477
-HND,Honduras,"América del Norte, Central y el Caribe",0,2021,.476
-HND,Honduras,"América del Norte, Central y el Caribe",0,2022,.48
-HRV,Croacia,Europa,0,2010,.745
-HRV,Croacia,Europa,0,2011,.749
-HRV,Croacia,Europa,0,2012,.755
-HRV,Croacia,Europa,0,2013,.763
-HRV,Croacia,Europa,0,2014,.768
-HRV,Croacia,Europa,0,2015,.77
-HRV,Croacia,Europa,0,2016,.779
-HRV,Croacia,Europa,0,2017,.784
-HRV,Croacia,Europa,0,2018,.79
-HRV,Croacia,Europa,0,2019,.799
-HRV,Croacia,Europa,0,2020,.797
-HRV,Croacia,Europa,0,2021,.802
-HRV,Croacia,Europa,0,2022,.817
-HTI,Haití,"América del Norte, Central y el Caribe",0,2012,.315
-HTI,Haití,"América del Norte, Central y el Caribe",0,2013,.319
-HTI,Haití,"América del Norte, Central y el Caribe",0,2014,.323
-HTI,Haití,"América del Norte, Central y el Caribe",0,2015,.326
-HTI,Haití,"América del Norte, Central y el Caribe",0,2016,.33
-HTI,Haití,"América del Norte, Central y el Caribe",0,2017,.334
-HTI,Haití,"América del Norte, Central y el Caribe",0,2018,.336
-HTI,Haití,"América del Norte, Central y el Caribe",0,2019,.337
-HTI,Haití,"América del Norte, Central y el Caribe",0,2020,.336
-HTI,Haití,"América del Norte, Central y el Caribe",0,2021,.333
-HTI,Haití,"América del Norte, Central y el Caribe",0,2022,.335
-HUN,Hungría,Europa,0,2010,.766
-HUN,Hungría,Europa,0,2011,.77
-HUN,Hungría,Europa,0,2012,.766
-HUN,Hungría,Europa,0,2013,.774
-HUN,Hungría,Europa,0,2014,.773
-HUN,Hungría,Europa,0,2015,.783
-HUN,Hungría,Europa,0,2016,.786
-HUN,Hungría,Europa,0,2017,.788
-HUN,Hungría,Europa,0,2018,.794
-HUN,Hungría,Europa,0,2019,.8
-HUN,Hungría,Europa,0,2020,.796
-HUN,Hungría,Europa,0,2021,.794
-HUN,Hungría,Europa,0,2022,.8
-IDN,Indonesia,Asia,0,2011,.534
-IDN,Indonesia,Asia,0,2012,.541
-IDN,Indonesia,Asia,0,2013,.545
-IDN,Indonesia,Asia,0,2014,.552
-IDN,Indonesia,Asia,0,2015,.558
-IDN,Indonesia,Asia,0,2016,.568
-IDN,Indonesia,Asia,0,2017,.571
-IDN,Indonesia,Asia,0,2018,.578
-IDN,Indonesia,Asia,0,2019,.586
-IDN,Indonesia,Asia,0,2020,.586
-IDN,Indonesia,Asia,0,2021,.582
-IDN,Indonesia,Asia,0,2022,.588
-IND,India,Asia,0,2010,.369
-IND,India,Asia,0,2011,.38
-IND,India,Asia,0,2012,.384
-IND,India,Asia,0,2013,.39
-IND,India,Asia,0,2014,.398
-IND,India,Asia,0,2015,.414
-IND,India,Asia,0,2016,.425
-IND,India,Asia,0,2017,.43
-IND,India,Asia,0,2018,.428
-IND,India,Asia,0,2019,.436
-IND,India,Asia,0,2020,.435
-IND,India,Asia,0,2021,.433
-IND,India,Asia,0,2022,.444
-IRL,Irlanda,Europa,0,2010,.829
-IRL,Irlanda,Europa,0,2011,.826
-IRL,Irlanda,Europa,0,2012,.826
-IRL,Irlanda,Europa,0,2013,.833
-IRL,Irlanda,Europa,0,2014,.841
-IRL,Irlanda,Europa,0,2015,.853
-IRL,Irlanda,Europa,0,2016,.858
-IRL,Irlanda,Europa,0,2017,.861
-IRL,Irlanda,Europa,0,2018,.87
-IRL,Irlanda,Europa,0,2019,.877
-IRL,Irlanda,Europa,0,2020,.881
-IRL,Irlanda,Europa,0,2021,.887
-IRL,Irlanda,Europa,0,2022,.886
-IRN,Irán,Asia,0,2010,.54
-IRN,Irán,Asia,0,2011,.549
-IRN,Irán,Asia,0,2012,.563
-IRN,Irán,Asia,0,2013,.57
-IRN,Irán,Asia,0,2014,.587
-IRN,Irán,Asia,0,2015,.583
-IRN,Irán,Asia,0,2016,.588
-IRN,Irán,Asia,0,2017,.589
-IRN,Irán,Asia,0,2018,.588
-IRN,Irán,Asia,0,2019,.584
-IRN,Irán,Asia,0,2020,.58
-IRN,Irán,Asia,0,2021,.58
-IRN,Irán,Asia,0,2022,.584
-IRQ,Iraq,Asia,0,2011,.477
-IRQ,Iraq,Asia,0,2012,.484
-IRQ,Iraq,Asia,0,2013,.487
-IRQ,Iraq,Asia,0,2014,.491
-IRQ,Iraq,Asia,0,2015,.496
-IRQ,Iraq,Asia,0,2016,.499
-IRQ,Iraq,Asia,0,2017,.505
-IRQ,Iraq,Asia,0,2018,.514
-IRQ,Iraq,Asia,0,2019,.518
-IRQ,Iraq,Asia,0,2020,.506
-IRQ,Iraq,Asia,0,2021,.511
-IRQ,Iraq,Asia,0,2022,.519
-ISL,Islandia,Europa,0,2010,.866
-ISL,Islandia,Europa,0,2011,.882
-ISL,Islandia,Europa,0,2012,.884
-ISL,Islandia,Europa,0,2013,.887
-ISL,Islandia,Europa,0,2014,.896
-ISL,Islandia,Europa,0,2015,.892
-ISL,Islandia,Europa,0,2016,.899
-ISL,Islandia,Europa,0,2017,.9
-ISL,Islandia,Europa,0,2018,.909
-ISL,Islandia,Europa,0,2019,.909
-ISL,Islandia,Europa,0,2020,.907
-ISL,Islandia,Europa,0,2021,.908
-ISL,Islandia,Europa,0,2022,.91
-ISR,Israel,Asia,0,2010,.763
-ISR,Israel,Asia,0,2011,.769
-ISR,Israel,Asia,0,2012,.769
-ISR,Israel,Asia,0,2013,.784
-ISR,Israel,Asia,0,2014,.787
-ISR,Israel,Asia,0,2015,.788
-ISR,Israel,Asia,0,2016,.794
-ISR,Israel,Asia,0,2017,.799
-ISR,Israel,Asia,0,2018,.802
-ISR,Israel,Asia,0,2019,.803
-ISR,Israel,Asia,0,2020,.801
-ISR,Israel,Asia,0,2021,.805
-ISR,Israel,Asia,0,2022,.808
-ITA,Italia,Europa,0,2010,.77
-ITA,Italia,Europa,0,2011,.769
-ITA,Italia,Europa,0,2012,.771
-ITA,Italia,Europa,0,2013,.774
-ITA,Italia,Europa,0,2014,.765
-ITA,Italia,Europa,0,2015,.767
-ITA,Italia,Europa,0,2016,.766
-ITA,Italia,Europa,0,2017,.775
-ITA,Italia,Europa,0,2018,.779
-ITA,Italia,Europa,0,2019,.788
-ITA,Italia,Europa,0,2020,.786
-ITA,Italia,Europa,0,2021,.792
-ITA,Italia,Europa,0,2022,.802
-JAM,Jamaica,"América del Norte, Central y el Caribe",0,2011,.585
-JAM,Jamaica,"América del Norte, Central y el Caribe",0,2012,.588
-JAM,Jamaica,"América del Norte, Central y el Caribe",0,2013,.576
-JAM,Jamaica,"América del Norte, Central y el Caribe",0,2014,.591
-JAM,Jamaica,"América del Norte, Central y el Caribe",0,2015,.588
-JAM,Jamaica,"América del Norte, Central y el Caribe",0,2016,.588
-JAM,Jamaica,"América del Norte, Central y el Caribe",0,2017,.589
-JAM,Jamaica,"América del Norte, Central y el Caribe",0,2018,.588
-JAM,Jamaica,"América del Norte, Central y el Caribe",0,2019,.589
-JAM,Jamaica,"América del Norte, Central y el Caribe",0,2020,.585
-JAM,Jamaica,"América del Norte, Central y el Caribe",0,2021,.582
-JAM,Jamaica,"América del Norte, Central y el Caribe",0,2022,.584
-JOR,Jordania,Asia,0,2010,.582
-JOR,Jordania,Asia,0,2011,.581
-JOR,Jordania,Asia,0,2012,.601
-JOR,Jordania,Asia,0,2013,.603
-JOR,Jordania,Asia,0,2014,.608
-JOR,Jordania,Asia,0,2015,.609
-JOR,Jordania,Asia,0,2016,.611
-JOR,Jordania,Asia,0,2017,.619
-JOR,Jordania,Asia,0,2018,.618
-JOR,Jordania,Asia,0,2019,.621
-JOR,Jordania,Asia,0,2020,.617
-JOR,Jordania,Asia,0,2021,.614
-JOR,Jordania,Asia,0,2022,.615
-JPN,Japón,Asia,0,2010,.818
-JPN,Japón,Asia,0,2011,.83
-JPN,Japón,Asia,0,2012,.834
-JPN,Japón,Asia,0,2013,.837
-JPN,Japón,Asia,0,2014,.834
-JPN,Japón,Asia,0,2015,.836
-JPN,Japón,Asia,0,2016,.837
-JPN,Japón,Asia,0,2017,.839
-JPN,Japón,Asia,0,2018,.84
-JPN,Japón,Asia,0,2019,.841
-JPN,Japón,Asia,0,2020,.841
-JPN,Japón,Asia,0,2021,.843
-JPN,Japón,Asia,0,2022,.844
-KAZ,Kazajistán,Asia,0,2010,.679
-KAZ,Kazajistán,Asia,0,2011,.689
-KAZ,Kazajistán,Asia,0,2012,.698
-KAZ,Kazajistán,Asia,0,2013,.709
-KAZ,Kazajistán,Asia,0,2014,.715
-KAZ,Kazajistán,Asia,0,2015,.729
-KAZ,Kazajistán,Asia,0,2016,.728
-KAZ,Kazajistán,Asia,0,2017,.733
-KAZ,Kazajistán,Asia,0,2018,.735
-KAZ,Kazajistán,Asia,0,2019,.74
-KAZ,Kazajistán,Asia,0,2020,.737
-KAZ,Kazajistán,Asia,0,2021,.733
-KAZ,Kazajistán,Asia,0,2022,.734
-KEN,Kenia,África,0,2010,.35
-KEN,Kenia,África,0,2011,.356
-KEN,Kenia,África,0,2012,.359
-KEN,Kenia,África,0,2013,.363
-KEN,Kenia,África,0,2014,.374
-KEN,Kenia,África,0,2015,.379
-KEN,Kenia,África,0,2016,.408
-KEN,Kenia,África,0,2017,.413
-KEN,Kenia,África,0,2018,.418
-KEN,Kenia,África,0,2019,.423
-KEN,Kenia,África,0,2020,.433
-KEN,Kenia,África,0,2021,.427
-KEN,Kenia,África,0,2022,.438
-KGZ,Kirguistán,Asia,0,2010,.573
-KGZ,Kirguistán,Asia,0,2011,.581
-KGZ,Kirguistán,Asia,0,2012,.594
-KGZ,Kirguistán,Asia,0,2013,.6
-KGZ,Kirguistán,Asia,0,2014,.611
-KGZ,Kirguistán,Asia,0,2015,.611
-KGZ,Kirguistán,Asia,0,2016,.618
-KGZ,Kirguistán,Asia,0,2017,.621
-KGZ,Kirguistán,Asia,0,2018,.629
-KGZ,Kirguistán,Asia,0,2019,.627
-KGZ,Kirguistán,Asia,0,2020,.622
-KGZ,Kirguistán,Asia,0,2021,.627
-KGZ,Kirguistán,Asia,0,2022,.634
-KHM,Camboya,Asia,0,2010,.386
-KHM,Camboya,Asia,0,2011,.397
-KHM,Camboya,Asia,0,2012,.405
-KHM,Camboya,Asia,0,2013,.409
-KHM,Camboya,Asia,0,2014,.404
-KHM,Camboya,Asia,0,2015,.409
-KHM,Camboya,Asia,0,2016,.416
-KHM,Camboya,Asia,0,2017,.424
-KHM,Camboya,Asia,0,2018,.429
-KHM,Camboya,Asia,0,2019,.436
-KHM,Camboya,Asia,0,2020,.437
-KHM,Camboya,Asia,0,2021,.436
-KHM,Camboya,Asia,0,2022,.438
-KIR,Kiribati,Oceanía,0,2018,.509
-KIR,Kiribati,Oceanía,0,2019,.516
-KIR,Kiribati,Oceanía,0,2020,.527
-KIR,Kiribati,Oceanía,0,2021,.526
-KIR,Kiribati,Oceanía,0,2022,.528
-KOR,Corea del Sur,Asia,0,2010,.794
-KOR,Corea del Sur,Asia,0,2011,.799
-KOR,Corea del Sur,Asia,0,2012,.803
-KOR,Corea del Sur,Asia,0,2013,.807
-KOR,Corea del Sur,Asia,0,2014,.813
-KOR,Corea del Sur,Asia,0,2015,.821
-KOR,Corea del Sur,Asia,0,2016,.824
-KOR,Corea del Sur,Asia,0,2017,.828
-KOR,Corea del Sur,Asia,0,2018,.83
-KOR,Corea del Sur,Asia,0,2019,.834
-KOR,Corea del Sur,Asia,0,2020,.834
-KOR,Corea del Sur,Asia,0,2021,.838
-KOR,Corea del Sur,Asia,0,2022,.841
-LAO,Laos,Asia,0,2010,.407
-LAO,Laos,Asia,0,2011,.411
-LAO,Laos,Asia,0,2012,.419
-LAO,Laos,Asia,0,2013,.426
-LAO,Laos,Asia,0,2014,.436
-LAO,Laos,Asia,0,2015,.442
-LAO,Laos,Asia,0,2016,.448
-LAO,Laos,Asia,0,2017,.457
-LAO,Laos,Asia,0,2018,.459
-LAO,Laos,Asia,0,2019,.458
-LAO,Laos,Asia,0,2020,.459
-LAO,Laos,Asia,0,2021,.46
-LAO,Laos,Asia,0,2022,.466
-LBR,Liberia,África,0,2013,.29
-LBR,Liberia,África,0,2014,.295
-LBR,Liberia,África,0,2015,.296
-LBR,Liberia,África,0,2016,.298
-LBR,Liberia,África,0,2017,.301
-LBR,Liberia,África,0,2018,.304
-LBR,Liberia,África,0,2019,.306
-LBR,Liberia,África,0,2020,.306
-LBR,Liberia,África,0,2021,.308
-LBR,Liberia,África,0,2022,.31
-LCA,Santa Lucía,"América del Norte, Central y el Caribe",0,2016,.548
-LCA,Santa Lucía,"América del Norte, Central y el Caribe",0,2017,.548
-LCA,Santa Lucía,"América del Norte, Central y el Caribe",0,2018,.55
-LCA,Santa Lucía,"América del Norte, Central y el Caribe",0,2019,.546
-LCA,Santa Lucía,"América del Norte, Central y el Caribe",0,2020,.539
-LCA,Santa Lucía,"América del Norte, Central y el Caribe",0,2021,.534
-LCA,Santa Lucía,"América del Norte, Central y el Caribe",0,2022,.539
-LKA,Sri Lanka,Asia,0,2016,.61
-LKA,Sri Lanka,Asia,0,2017,.615
-LKA,Sri Lanka,Asia,0,2018,.619
-LKA,Sri Lanka,Asia,0,2019,.626
-LKA,Sri Lanka,Asia,0,2020,.628
-LKA,Sri Lanka,Asia,0,2021,.634
-LKA,Sri Lanka,Asia,0,2022,.63
-LSO,Lesotho,África,0,2010,.267
-LSO,Lesotho,África,0,2011,.272
-LSO,Lesotho,África,0,2012,.278
-LSO,Lesotho,África,0,2013,.281
-LSO,Lesotho,África,0,2014,.287
-LSO,Lesotho,África,0,2015,.291
-LSO,Lesotho,África,0,2016,.298
-LSO,Lesotho,África,0,2017,.3
-LSO,Lesotho,África,0,2018,.334
-LSO,Lesotho,África,0,2019,.336
-LSO,Lesotho,África,0,2020,.338
-LSO,Lesotho,África,0,2021,.334
-LSO,Lesotho,África,0,2022,.332
-LTU,Lituania,Europa,0,2010,.746
-LTU,Lituania,Europa,0,2011,.765
-LTU,Lituania,Europa,0,2012,.774
-LTU,Lituania,Europa,0,2013,.771
-LTU,Lituania,Europa,0,2014,.778
-LTU,Lituania,Europa,0,2015,.771
-LTU,Lituania,Europa,0,2016,.777
-LTU,Lituania,Europa,0,2017,.784
-LTU,Lituania,Europa,0,2018,.792
-LTU,Lituania,Europa,0,2019,.8
-LTU,Lituania,Europa,0,2020,.8
-LTU,Lituania,Europa,0,2021,.794
-LTU,Lituania,Europa,0,2022,.795
-LUX,Luxemburgo,Europa,0,2010,.831
-LUX,Luxemburgo,Europa,0,2011,.836
-LUX,Luxemburgo,Europa,0,2012,.84
-LUX,Luxemburgo,Europa,0,2013,.843
-LUX,Luxemburgo,Europa,0,2014,.84
-LUX,Luxemburgo,Europa,0,2015,.83
-LUX,Luxemburgo,Europa,0,2016,.831
-LUX,Luxemburgo,Europa,0,2017,.834
-LUX,Luxemburgo,Europa,0,2018,.833
-LUX,Luxemburgo,Europa,0,2019,.837
-LUX,Luxemburgo,Europa,0,2020,.838
-LUX,Luxemburgo,Europa,0,2021,.844
-LUX,Luxemburgo,Europa,0,2022,.839
-LVA,Letonia,Europa,0,2010,.739
-LVA,Letonia,Europa,0,2011,.746
-LVA,Letonia,Europa,0,2012,.751
-LVA,Letonia,Europa,0,2013,.762
-LVA,Letonia,Europa,0,2014,.766
-LVA,Letonia,Europa,0,2015,.771
-LVA,Letonia,Europa,0,2016,.779
-LVA,Letonia,Europa,0,2017,.784
-LVA,Letonia,Europa,0,2018,.786
-LVA,Letonia,Europa,0,2019,.793
-LVA,Letonia,Europa,0,2020,.796
-LVA,Letonia,Europa,0,2021,.786
-LVA,Letonia,Europa,0,2022,.802
-MAR,Marruecos,África,0,2010,.418
-MAR,Marruecos,África,0,2011,.427
-MAR,Marruecos,África,0,2012,.435
-MAR,Marruecos,África,0,2013,.444
-MAR,Marruecos,África,0,2014,.453
-MAR,Marruecos,África,0,2015,.461
-MAR,Marruecos,África,0,2016,.467
-MAR,Marruecos,África,0,2017,.474
-MAR,Marruecos,África,0,2018,.49
-MAR,Marruecos,África,0,2019,.496
-MAR,Marruecos,África,0,2020,.495
-MAR,Marruecos,África,0,2021,.5
-MAR,Marruecos,África,0,2022,.508
-MDA,Moldavia,Europa,0,2010,.637
-MDA,Moldavia,Europa,0,2011,.643
-MDA,Moldavia,Europa,0,2012,.649
-MDA,Moldavia,Europa,0,2013,.655
-MDA,Moldavia,Europa,0,2014,.68
-MDA,Moldavia,Europa,0,2015,.68
-MDA,Moldavia,Europa,0,2016,.688
-MDA,Moldavia,Europa,0,2017,.697
-MDA,Moldavia,Europa,0,2018,.702
-MDA,Moldavia,Europa,0,2019,.706
-MDA,Moldavia,Europa,0,2020,.699
-MDA,Moldavia,Europa,0,2021,.702
-MDA,Moldavia,Europa,0,2022,.698
-MDG,Madagascar,África,0,2010,.319
-MDG,Madagascar,África,0,2011,.321
-MDG,Madagascar,África,0,2012,.323
-MDG,Madagascar,África,0,2013,.323
-MDG,Madagascar,África,0,2014,.325
-MDG,Madagascar,África,0,2015,.327
-MDG,Madagascar,África,0,2016,.329
-MDG,Madagascar,África,0,2017,.331
-MDG,Madagascar,África,0,2018,.333
-MDG,Madagascar,África,0,2019,.331
-MDG,Madagascar,África,0,2020,.324
-MDG,Madagascar,África,0,2021,.324
-MDG,Madagascar,África,0,2022,.328
-MDV,Maldivas,Asia,0,2010,.477
-MDV,Maldivas,Asia,0,2011,.484
-MDV,Maldivas,Asia,0,2012,.49
-MDV,Maldivas,Asia,0,2013,.495
-MDV,Maldivas,Asia,0,2014,.501
-MDV,Maldivas,Asia,0,2015,.506
-MDV,Maldivas,Asia,0,2016,.566
-MDV,Maldivas,Asia,0,2017,.572
-MDV,Maldivas,Asia,0,2018,.577
-MDV,Maldivas,Asia,0,2019,.583
-MDV,Maldivas,Asia,0,2020,.578
-MDV,Maldivas,Asia,0,2021,.591
-MDV,Maldivas,Asia,0,2022,.597
-MEX,México,"América del Norte, Central y el Caribe",0,2010,.575
-MEX,México,"América del Norte, Central y el Caribe",0,2011,.58
-MEX,México,"América del Norte, Central y el Caribe",0,2012,.584
-MEX,México,"América del Norte, Central y el Caribe",0,2013,.586
-MEX,México,"América del Norte, Central y el Caribe",0,2014,.593
-MEX,México,"América del Norte, Central y el Caribe",0,2015,.597
-MEX,México,"América del Norte, Central y el Caribe",0,2016,.609
-MEX,México,"América del Norte, Central y el Caribe",0,2017,.611
-MEX,México,"América del Norte, Central y el Caribe",0,2018,.625
-MEX,México,"América del Norte, Central y el Caribe",0,2019,.627
-MEX,México,"América del Norte, Central y el Caribe",0,2020,.613
-MEX,México,"América del Norte, Central y el Caribe",0,2021,.613
-MEX,México,"América del Norte, Central y el Caribe",0,2022,.641
-MHL,Islas Marshall,Oceanía,0,2020,.615
-MHL,Islas Marshall,Oceanía,0,2021,.618
-MHL,Islas Marshall,Oceanía,0,2022,.62
-MKD,Macedonia del Norte,Europa,0,2010,.609
-MKD,Macedonia del Norte,Europa,0,2011,.63
-MKD,Macedonia del Norte,Europa,0,2012,.638
-MKD,Macedonia del Norte,Europa,0,2013,.652
-MKD,Macedonia del Norte,Europa,0,2014,.664
-MKD,Macedonia del Norte,Europa,0,2015,.674
-MKD,Macedonia del Norte,Europa,0,2016,.676
-MKD,Macedonia del Norte,Europa,0,2017,.688
-MKD,Macedonia del Norte,Europa,0,2018,.703
-MKD,Macedonia del Norte,Europa,0,2019,.7
-MKD,Macedonia del Norte,Europa,0,2020,.679
-MKD,Macedonia del Norte,Europa,0,2021,.677
-MKD,Macedonia del Norte,Europa,0,2022,.679
-MLI,Malí,África,0,2011,.233
-MLI,Malí,África,0,2012,.246
-MLI,Malí,África,0,2013,.25
-MLI,Malí,África,0,2014,.26
-MLI,Malí,África,0,2015,.271
-MLI,Malí,África,0,2016,.272
-MLI,Malí,África,0,2017,.274
-MLI,Malí,África,0,2018,.276
-MLI,Malí,África,0,2019,.282
-MLI,Malí,África,0,2020,.271
-MLI,Malí,África,0,2021,.275
-MLI,Malí,África,0,2022,.277
-MLT,Malta,Europa,0,2010,.785
-MLT,Malta,Europa,0,2011,.783
-MLT,Malta,Europa,0,2012,.791
-MLT,Malta,Europa,0,2013,.798
-MLT,Malta,Europa,0,2014,.81
-MLT,Malta,Europa,0,2015,.813
-MLT,Malta,Europa,0,2016,.808
-MLT,Malta,Europa,0,2017,.822
-MLT,Malta,Europa,0,2018,.83
-MLT,Malta,Europa,0,2019,.834
-MLT,Malta,Europa,0,2020,.829
-MLT,Malta,Europa,0,2021,.837
-MLT,Malta,Europa,0,2022,.837
-MMR,Myanmar,Asia,0,2015,.419
-MMR,Myanmar,Asia,0,2016,.428
-MMR,Myanmar,Asia,0,2017,.449
-MMR,Myanmar,Asia,0,2018,.462
-MMR,Myanmar,Asia,0,2019,.473
-MMR,Myanmar,Asia,0,2020,.479
-MMR,Myanmar,Asia,0,2021,.468
-MMR,Myanmar,Asia,0,2022,.475
-MNE,Montenegro,Europa,0,2010,.707
-MNE,Montenegro,Europa,0,2011,.707
-MNE,Montenegro,Europa,0,2012,.709
-MNE,Montenegro,Europa,0,2013,.715
-MNE,Montenegro,Europa,0,2014,.724
-MNE,Montenegro,Europa,0,2015,.732
-MNE,Montenegro,Europa,0,2016,.729
-MNE,Montenegro,Europa,0,2017,.733
-MNE,Montenegro,Europa,0,2018,.737
-MNE,Montenegro,Europa,0,2019,.745
-MNE,Montenegro,Europa,0,2020,.744
-MNE,Montenegro,Europa,0,2021,.753
-MNE,Montenegro,Europa,0,2022,.756
-MNG,Mongolia,Asia,0,2010,.592
-MNG,Mongolia,Asia,0,2011,.602
-MNG,Mongolia,Asia,0,2012,.612
-MNG,Mongolia,Asia,0,2013,.621
-MNG,Mongolia,Asia,0,2014,.629
-MNG,Mongolia,Asia,0,2015,.634
-MNG,Mongolia,Asia,0,2016,.637
-MNG,Mongolia,Asia,0,2017,.638
-MNG,Mongolia,Asia,0,2018,.649
-MNG,Mongolia,Asia,0,2019,.646
-MNG,Mongolia,Asia,0,2020,.638
-MNG,Mongolia,Asia,0,2021,.631
-MNG,Mongolia,Asia,0,2022,.645
-MOZ,Mozambique,África,0,2011,.246
-MOZ,Mozambique,África,0,2012,.252
-MOZ,Mozambique,África,0,2013,.261
-MOZ,Mozambique,África,0,2014,.266
-MOZ,Mozambique,África,0,2015,.254
-MOZ,Mozambique,África,0,2016,.257
-MOZ,Mozambique,África,0,2017,.258
-MOZ,Mozambique,África,0,2018,.264
-MOZ,Mozambique,África,0,2019,.269
-MOZ,Mozambique,África,0,2020,.273
-MOZ,Mozambique,África,0,2021,.269
-MOZ,Mozambique,África,0,2022,.27
-MRT,Mauritania,África,0,2010,.317
-MRT,Mauritania,África,0,2011,.324
-MRT,Mauritania,África,0,2012,.33
-MRT,Mauritania,África,0,2013,.336
-MRT,Mauritania,África,0,2014,.344
-MRT,Mauritania,África,0,2015,.345
-MRT,Mauritania,África,0,2016,.343
-MRT,Mauritania,África,0,2017,.346
-MRT,Mauritania,África,0,2018,.353
-MRT,Mauritania,África,0,2019,.355
-MRT,Mauritania,África,0,2020,.348
-MRT,Mauritania,África,0,2021,.348
-MRT,Mauritania,África,0,2022,.351
-MUS,Mauricio,África,0,2011,.604
-MUS,Mauricio,África,0,2012,.604
-MUS,Mauricio,África,0,2013,.608
-MUS,Mauricio,África,0,2014,.616
-MUS,Mauricio,África,0,2015,.618
-MUS,Mauricio,África,0,2016,.62
-MUS,Mauricio,África,0,2017,.627
-MUS,Mauricio,África,0,2018,.629
-MUS,Mauricio,África,0,2019,.633
-MUS,Mauricio,África,0,2020,.62
-MUS,Mauricio,África,0,2021,.618
-MUS,Mauricio,África,0,2022,.625
-MWI,Malawi,África,0,2010,.303
-MWI,Malawi,África,0,2011,.298
-MWI,Malawi,África,0,2012,.305
-MWI,Malawi,África,0,2013,.316
-MWI,Malawi,África,0,2014,.324
-MWI,Malawi,África,0,2015,.328
-MWI,Malawi,África,0,2016,.333
-MWI,Malawi,África,0,2017,.342
-MWI,Malawi,África,0,2018,.345
-MWI,Malawi,África,0,2019,.351
-MWI,Malawi,África,0,2020,.361
-MWI,Malawi,África,0,2021,.359
-MWI,Malawi,África,0,2022,.359
-MYS,Malasia,Asia,0,2010,.633
-MYS,Malasia,Asia,0,2011,.636
-MYS,Malasia,Asia,0,2012,.647
-MYS,Malasia,Asia,0,2013,.651
-MYS,Malasia,Asia,0,2014,.665
-MYS,Malasia,Asia,0,2015,.669
-MYS,Malasia,Asia,0,2016,.681
-MYS,Malasia,Asia,0,2017,.683
-MYS,Malasia,Asia,0,2018,.685
-MYS,Malasia,Asia,0,2019,.688
-MYS,Malasia,Asia,0,2020,.686
-MYS,Malasia,Asia,0,2021,.683
-MYS,Malasia,Asia,0,2022,.692
-NAM,Namibia,África,0,2010,.373
-NAM,Namibia,África,0,2011,.377
-NAM,Namibia,África,0,2012,.383
-NAM,Namibia,África,0,2013,.395
-NAM,Namibia,África,0,2014,.402
-NAM,Namibia,África,0,2015,.407
-NAM,Namibia,África,0,2016,.41
-NAM,Namibia,África,0,2017,.412
-NAM,Namibia,África,0,2018,.413
-NAM,Namibia,África,0,2019,.416
-NAM,Namibia,África,0,2020,.415
-NAM,Namibia,África,0,2021,.404
-NAM,Namibia,África,0,2022,.399
-NER,Níger,África,0,2012,.231
-NER,Níger,África,0,2013,.236
-NER,Níger,África,0,2014,.237
-NER,Níger,África,0,2015,.241
-NER,Níger,África,0,2016,.245
-NER,Níger,África,0,2017,.249
-NER,Níger,África,0,2018,.254
-NER,Níger,África,0,2019,.257
-NER,Níger,África,0,2020,.258
-NER,Níger,África,0,2021,.257
-NER,Níger,África,0,2022,.262
-NGA,Nigeria,África,0,2011,.311
-NGA,Nigeria,África,0,2012,.315
-NGA,Nigeria,África,0,2013,.322
-NGA,Nigeria,África,0,2014,.329
-NGA,Nigeria,África,0,2015,.334
-NGA,Nigeria,África,0,2016,.348
-NGA,Nigeria,África,0,2017,.35
-NGA,Nigeria,África,0,2018,.348
-NGA,Nigeria,África,0,2019,.354
-NGA,Nigeria,África,0,2020,.357
-NGA,Nigeria,África,0,2021,.365
-NGA,Nigeria,África,0,2022,.369
-NIC,Nicaragua,"América del Norte, Central y el Caribe",0,2010,.458
-NIC,Nicaragua,"América del Norte, Central y el Caribe",0,2011,.465
-NIC,Nicaragua,"América del Norte, Central y el Caribe",0,2012,.471
-NIC,Nicaragua,"América del Norte, Central y el Caribe",0,2013,.476
-NIC,Nicaragua,"América del Norte, Central y el Caribe",0,2014,.478
-NIC,Nicaragua,"América del Norte, Central y el Caribe",0,2015,.483
-NIC,Nicaragua,"América del Norte, Central y el Caribe",0,2016,.488
-NIC,Nicaragua,"América del Norte, Central y el Caribe",0,2017,.494
-NIC,Nicaragua,"América del Norte, Central y el Caribe",0,2018,.496
-NIC,Nicaragua,"América del Norte, Central y el Caribe",0,2019,.499
-NIC,Nicaragua,"América del Norte, Central y el Caribe",0,2020,.492
-NIC,Nicaragua,"América del Norte, Central y el Caribe",0,2021,.503
-NIC,Nicaragua,"América del Norte, Central y el Caribe",0,2022,.507
-NLD,Países Bajos,Europa,0,2010,.848
-NLD,Países Bajos,Europa,0,2011,.863
-NLD,Países Bajos,Europa,0,2012,.863
-NLD,Países Bajos,Europa,0,2013,.865
-NLD,Países Bajos,Europa,0,2014,.865
-NLD,Países Bajos,Europa,0,2015,.866
-NLD,Países Bajos,Europa,0,2016,.864
-NLD,Países Bajos,Europa,0,2017,.868
-NLD,Países Bajos,Europa,0,2018,.868
-NLD,Países Bajos,Europa,0,2019,.873
-NLD,Países Bajos,Europa,0,2020,.868
-NLD,Países Bajos,Europa,0,2021,.878
-NLD,Países Bajos,Europa,0,2022,.885
-NOR,Noruega,Europa,0,2010,.885
-NOR,Noruega,Europa,0,2011,.886
-NOR,Noruega,Europa,0,2012,.888
-NOR,Noruega,Europa,0,2013,.89
-NOR,Noruega,Europa,0,2014,.894
-NOR,Noruega,Europa,0,2015,.897
-NOR,Noruega,Europa,0,2016,.898
-NOR,Noruega,Europa,0,2017,.901
-NOR,Noruega,Europa,0,2018,.902
-NOR,Noruega,Europa,0,2019,.903
-NOR,Noruega,Europa,0,2020,.905
-NOR,Noruega,Europa,0,2021,.901
-NOR,Noruega,Europa,0,2022,.903
-NPL,Nepal,Asia,0,2011,.375
-NPL,Nepal,Asia,0,2012,.38
-NPL,Nepal,Asia,0,2013,.385
-NPL,Nepal,Asia,0,2014,.383
-NPL,Nepal,Asia,0,2015,.383
-NPL,Nepal,Asia,0,2016,.397
-NPL,Nepal,Asia,0,2017,.402
-NPL,Nepal,Asia,0,2018,.408
-NPL,Nepal,Asia,0,2019,.415
-NPL,Nepal,Asia,0,2020,.413
-NPL,Nepal,Asia,0,2021,.412
-NPL,Nepal,Asia,0,2022,.424
-NZL,Nueva Zelanda,Oceanía,0,2011,.846
-NZL,Nueva Zelanda,Oceanía,0,2012,.856
-NZL,Nueva Zelanda,Oceanía,0,2013,.855
-NZL,Nueva Zelanda,Oceanía,0,2014,.852
-NZL,Nueva Zelanda,Oceanía,0,2015,.852
-NZL,Nueva Zelanda,Oceanía,0,2016,.858
-NZL,Nueva Zelanda,Oceanía,0,2017,.857
-NZL,Nueva Zelanda,Oceanía,0,2018,.858
-NZL,Nueva Zelanda,Oceanía,0,2019,.859
-NZL,Nueva Zelanda,Oceanía,0,2020,.851
-NZL,Nueva Zelanda,Oceanía,0,2021,.851
-NZL,Nueva Zelanda,Oceanía,0,2022,.856
-OMN,Omán,Asia,0,2011,.641
-OMN,Omán,Asia,0,2012,.643
-OMN,Omán,Asia,0,2013,.644
-OMN,Omán,Asia,0,2014,.646
-OMN,Omán,Asia,0,2015,.672
-OMN,Omán,Asia,0,2016,.678
-OMN,Omán,Asia,0,2017,.679
-OMN,Omán,Asia,0,2018,.684
-OMN,Omán,Asia,0,2019,.686
-OMN,Omán,Asia,0,2020,.671
-OMN,Omán,Asia,0,2021,.66
-OMN,Omán,Asia,0,2022,.721
-PAK,Pakistán,Asia,0,2010,.318
-PAK,Pakistán,Asia,0,2011,.322
-PAK,Pakistán,Asia,0,2012,.326
-PAK,Pakistán,Asia,0,2013,.33
-PAK,Pakistán,Asia,0,2014,.337
-PAK,Pakistán,Asia,0,2015,.343
-PAK,Pakistán,Asia,0,2016,.346
-PAK,Pakistán,Asia,0,2017,.35
-PAK,Pakistán,Asia,0,2018,.351
-PAK,Pakistán,Asia,0,2019,.356
-PAK,Pakistán,Asia,0,2020,.356
-PAK,Pakistán,Asia,0,2021,.358
-PAK,Pakistán,Asia,0,2022,.36
-PAN,Panamá,"América del Norte, Central y el Caribe",0,2010,.599
-PAN,Panamá,"América del Norte, Central y el Caribe",0,2011,.603
-PAN,Panamá,"América del Norte, Central y el Caribe",0,2012,.609
-PAN,Panamá,"América del Norte, Central y el Caribe",0,2013,.617
-PAN,Panamá,"América del Norte, Central y el Caribe",0,2014,.622
-PAN,Panamá,"América del Norte, Central y el Caribe",0,2015,.626
-PAN,Panamá,"América del Norte, Central y el Caribe",0,2016,.636
-PAN,Panamá,"América del Norte, Central y el Caribe",0,2017,.636
-PAN,Panamá,"América del Norte, Central y el Caribe",0,2018,.641
-PAN,Panamá,"América del Norte, Central y el Caribe",0,2019,.643
-PAN,Panamá,"América del Norte, Central y el Caribe",0,2020,.634
-PAN,Panamá,"América del Norte, Central y el Caribe",0,2021,.64
-PAN,Panamá,"América del Norte, Central y el Caribe",0,2022,.647
-PER,Perú,América del Sur,0,2010,.538
-PER,Perú,América del Sur,0,2011,.544
-PER,Perú,América del Sur,0,2012,.554
-PER,Perú,América del Sur,0,2013,.57
-PER,Perú,América del Sur,0,2014,.574
-PER,Perú,América del Sur,0,2015,.581
-PER,Perú,América del Sur,0,2016,.591
-PER,Perú,América del Sur,0,2017,.596
-PER,Perú,América del Sur,0,2018,.605
-PER,Perú,América del Sur,0,2019,.614
-PER,Perú,América del Sur,0,2020,.585
-PER,Perú,América del Sur,0,2021,.601
-PER,Perú,América del Sur,0,2022,.607
-PHL,Filipinas,Asia,0,2010,.536
-PHL,Filipinas,Asia,0,2011,.539
-PHL,Filipinas,Asia,0,2012,.544
-PHL,Filipinas,Asia,0,2013,.552
-PHL,Filipinas,Asia,0,2014,.557
-PHL,Filipinas,Asia,0,2015,.565
-PHL,Filipinas,Asia,0,2016,.566
-PHL,Filipinas,Asia,0,2017,.572
-PHL,Filipinas,Asia,0,2018,.585
-PHL,Filipinas,Asia,0,2019,.592
-PHL,Filipinas,Asia,0,2020,.586
-PHL,Filipinas,Asia,0,2021,.58
-PHL,Filipinas,Asia,0,2022,.59
-PLW,Palau,Oceanía,0,2014,.611
-PLW,Palau,Oceanía,0,2015,.616
-PLW,Palau,Oceanía,0,2016,.618
-PLW,Palau,Oceanía,0,2017,.621
-PLW,Palau,Oceanía,0,2018,.623
-PLW,Palau,Oceanía,0,2019,.627
-PLW,Palau,Oceanía,0,2020,.63
-PLW,Palau,Oceanía,0,2021,.637
-PLW,Palau,Oceanía,0,2022,.633
-PNG,Papua Nueva Guinea,Oceanía,0,2016,.389
-PNG,Papua Nueva Guinea,Oceanía,0,2017,.394
-PNG,Papua Nueva Guinea,Oceanía,0,2018,.397
-PNG,Papua Nueva Guinea,Oceanía,0,2019,.402
-PNG,Papua Nueva Guinea,Oceanía,0,2020,.406
-PNG,Papua Nueva Guinea,Oceanía,0,2021,.405
-PNG,Papua Nueva Guinea,Oceanía,0,2022,.407
-POL,Polonia,Europa,0,2010,.759
-POL,Polonia,Europa,0,2011,.764
-POL,Polonia,Europa,0,2012,.767
-POL,Polonia,Europa,0,2013,.776
-POL,Polonia,Europa,0,2014,.783
-POL,Polonia,Europa,0,2015,.788
-POL,Polonia,Europa,0,2016,.796
-POL,Polonia,Europa,0,2017,.802
-POL,Polonia,Europa,0,2018,.802
-POL,Polonia,Europa,0,2019,.804
-POL,Polonia,Europa,0,2020,.791
-POL,Polonia,Europa,0,2021,.791
-POL,Polonia,Europa,0,2022,.797
-PRT,Portugal,Europa,0,2010,.717
-PRT,Portugal,Europa,0,2011,.716
-PRT,Portugal,Europa,0,2012,.712
-PRT,Portugal,Europa,0,2013,.719
-PRT,Portugal,Europa,0,2014,.724
-PRT,Portugal,Europa,0,2015,.731
-PRT,Portugal,Europa,0,2016,.737
-PRT,Portugal,Europa,0,2017,.745
-PRT,Portugal,Europa,0,2018,.752
-PRT,Portugal,Europa,0,2019,.76
-PRT,Portugal,Europa,0,2020,.765
-PRT,Portugal,Europa,0,2021,.763
-PRT,Portugal,Europa,0,2022,.774
-PRY,Paraguay,América del Sur,0,2010,.53
-PRY,Paraguay,América del Sur,0,2011,.535
-PRY,Paraguay,América del Sur,0,2012,.558
-PRY,Paraguay,América del Sur,0,2013,.567
-PRY,Paraguay,América del Sur,0,2014,.561
-PRY,Paraguay,América del Sur,0,2015,.578
-PRY,Paraguay,América del Sur,0,2016,.575
-PRY,Paraguay,América del Sur,0,2017,.579
-PRY,Paraguay,América del Sur,0,2018,.59
-PRY,Paraguay,América del Sur,0,2019,.594
-PRY,Paraguay,América del Sur,0,2020,.598
-PRY,Paraguay,América del Sur,0,2021,.592
-PRY,Paraguay,América del Sur,0,2022,.582
-PSE,Palestina,Asia,0,2010,.555
-PSE,Palestina,Asia,0,2011,.56
-PSE,Palestina,Asia,0,2012,.572
-PSE,Palestina,Asia,0,2013,.576
-PSE,Palestina,Asia,0,2014,.569
-PSE,Palestina,Asia,0,2015,.583
-PSE,Palestina,Asia,0,2016,.589
-PSE,Palestina,Asia,0,2017,.584
-PSE,Palestina,Asia,0,2018,.589
-PSE,Palestina,Asia,0,2019,.605
-PSE,Palestina,Asia,0,2020,.587
-PSE,Palestina,Asia,0,2021,.587
-PSE,Palestina,Asia,0,2022,.587
-ROU,Rumania,Europa,0,2010,.715
-ROU,Rumania,Europa,0,2011,.716
-ROU,Rumania,Europa,0,2012,.706
-ROU,Rumania,Europa,0,2013,.709
-ROU,Rumania,Europa,0,2014,.708
-ROU,Rumania,Europa,0,2015,.703
-ROU,Rumania,Europa,0,2016,.715
-ROU,Rumania,Europa,0,2017,.73
-ROU,Rumania,Europa,0,2018,.73
-ROU,Rumania,Europa,0,2019,.739
-ROU,Rumania,Europa,0,2020,.736
-ROU,Rumania,Europa,0,2021,.73
-ROU,Rumania,Europa,0,2022,.739
-RUS,Rusia,Europa,0,2010,.71
-RUS,Rusia,Europa,0,2011,.722
-RUS,Rusia,Europa,0,2012,.719
-RUS,Rusia,Europa,0,2013,.725
-RUS,Rusia,Europa,0,2014,.732
-RUS,Rusia,Europa,0,2015,.74
-RUS,Rusia,Europa,0,2016,.746
-RUS,Rusia,Europa,0,2017,.749
-RUS,Rusia,Europa,0,2018,.761
-RUS,Rusia,Europa,0,2019,.765
-RUS,Rusia,Europa,0,2020,.751
-RUS,Rusia,Europa,0,2021,.744
-RUS,Rusia,Europa,0,2022,.747
-RWA,Rwanda,África,0,2010,.299
-RWA,Rwanda,África,0,2011,.321
-RWA,Rwanda,África,0,2012,.327
-RWA,Rwanda,África,0,2013,.329
-RWA,Rwanda,África,0,2014,.339
-RWA,Rwanda,África,0,2015,.341
-RWA,Rwanda,África,0,2016,.347
-RWA,Rwanda,África,0,2017,.352
-RWA,Rwanda,África,0,2018,.354
-RWA,Rwanda,África,0,2019,.364
-RWA,Rwanda,África,0,2020,.367
-RWA,Rwanda,África,0,2021,.371
-RWA,Rwanda,África,0,2022,.377
-SDN,Sudán,África,0,2010,.298
-SDN,Sudán,África,0,2011,.299
-SDN,Sudán,África,0,2012,.305
-SDN,Sudán,África,0,2013,.308
-SDN,Sudán,África,0,2014,.321
-SDN,Sudán,África,0,2015,.324
-SDN,Sudán,África,0,2016,.326
-SDN,Sudán,África,0,2017,.329
-SDN,Sudán,África,0,2018,.33
-SDN,Sudán,África,0,2019,.331
-SDN,Sudán,África,0,2020,.331
-SDN,Sudán,África,0,2021,.33
-SDN,Sudán,África,0,2022,.331
-SEN,Senegal,África,0,2010,.29
-SEN,Senegal,África,0,2011,.3
-SEN,Senegal,África,0,2012,.304
-SEN,Senegal,África,0,2013,.308
-SEN,Senegal,África,0,2014,.311
-SEN,Senegal,África,0,2015,.312
-SEN,Senegal,África,0,2016,.316
-SEN,Senegal,África,0,2017,.318
-SEN,Senegal,África,0,2018,.321
-SEN,Senegal,África,0,2019,.328
-SEN,Senegal,África,0,2020,.329
-SEN,Senegal,África,0,2021,.328
-SEN,Senegal,África,0,2022,.334
-SGP,Singapur,Asia,0,2010,.797
-SGP,Singapur,Asia,0,2011,.795
-SGP,Singapur,Asia,0,2012,.796
-SGP,Singapur,Asia,0,2013,.8
-SGP,Singapur,Asia,0,2014,.802
-SGP,Singapur,Asia,0,2015,.807
-SGP,Singapur,Asia,0,2016,.808
-SGP,Singapur,Asia,0,2017,.809
-SGP,Singapur,Asia,0,2018,.816
-SGP,Singapur,Asia,0,2019,.82
-SGP,Singapur,Asia,0,2020,.818
-SGP,Singapur,Asia,0,2021,.819
-SGP,Singapur,Asia,0,2022,.825
-SLE,Sierra Leona,África,0,2011,.24
-SLE,Sierra Leona,África,0,2012,.244
-SLE,Sierra Leona,África,0,2013,.258
-SLE,Sierra Leona,África,0,2014,.26
-SLE,Sierra Leona,África,0,2015,.257
-SLE,Sierra Leona,África,0,2016,.264
-SLE,Sierra Leona,África,0,2017,.267
-SLE,Sierra Leona,África,0,2018,.27
-SLE,Sierra Leona,África,0,2019,.273
-SLE,Sierra Leona,África,0,2020,.272
-SLE,Sierra Leona,África,0,2021,.274
-SLE,Sierra Leona,África,0,2022,.277
-SLV,El Salvador,"América del Norte, Central y el Caribe",0,2010,.498
-SLV,El Salvador,"América del Norte, Central y el Caribe",0,2011,.501
-SLV,El Salvador,"América del Norte, Central y el Caribe",0,2012,.511
-SLV,El Salvador,"América del Norte, Central y el Caribe",0,2013,.512
-SLV,El Salvador,"América del Norte, Central y el Caribe",0,2014,.519
-SLV,El Salvador,"América del Norte, Central y el Caribe",0,2015,.522
-SLV,El Salvador,"América del Norte, Central y el Caribe",0,2016,.523
-SLV,El Salvador,"América del Norte, Central y el Caribe",0,2017,.532
-SLV,El Salvador,"América del Norte, Central y el Caribe",0,2018,.539
-SLV,El Salvador,"América del Norte, Central y el Caribe",0,2019,.544
-SLV,El Salvador,"América del Norte, Central y el Caribe",0,2020,.532
-SLV,El Salvador,"América del Norte, Central y el Caribe",0,2021,.543
-SLV,El Salvador,"América del Norte, Central y el Caribe",0,2022,.548
-SRB,Serbia,Europa,0,2013,.681
-SRB,Serbia,Europa,0,2014,.684
-SRB,Serbia,Europa,0,2015,.692
-SRB,Serbia,Europa,0,2016,.709
-SRB,Serbia,Europa,0,2017,.715
-SRB,Serbia,Europa,0,2018,.73
-SRB,Serbia,Europa,0,2019,.735
-SRB,Serbia,Europa,0,2020,.739
-SRB,Serbia,Europa,0,2021,.739
-SRB,Serbia,Europa,0,2022,.74
-SSD,Sudán del Sur,África,0,2010,.223
-SSD,Sudán del Sur,África,0,2011,.225
-SSD,Sudán del Sur,África,0,2012,.209
-SSD,Sudán del Sur,África,0,2013,.21
-SSD,Sudán del Sur,África,0,2014,.209
-SSD,Sudán del Sur,África,0,2015,.211
-SSD,Sudán del Sur,África,0,2016,.209
-SSD,Sudán del Sur,África,0,2017,.219
-SSD,Sudán del Sur,África,0,2018,.22
-SSD,Sudán del Sur,África,0,2019,.226
-SSD,Sudán del Sur,África,0,2020,.224
-SSD,Sudán del Sur,África,0,2021,.221
-SSD,Sudán del Sur,África,0,2022,.222
-STP,Santo Tomé y Príncipe,"América del Norte, Central y el Caribe",0,2010,.42
-STP,Santo Tomé y Príncipe,"América del Norte, Central y el Caribe",0,2011,.424
-STP,Santo Tomé y Príncipe,"América del Norte, Central y el Caribe",0,2012,.43
-STP,Santo Tomé y Príncipe,"América del Norte, Central y el Caribe",0,2013,.441
-STP,Santo Tomé y Príncipe,"América del Norte, Central y el Caribe",0,2014,.454
-STP,Santo Tomé y Príncipe,"América del Norte, Central y el Caribe",0,2015,.465
-STP,Santo Tomé y Príncipe,"América del Norte, Central y el Caribe",0,2016,.469
-STP,Santo Tomé y Príncipe,"América del Norte, Central y el Caribe",0,2017,.45
-STP,Santo Tomé y Príncipe,"América del Norte, Central y el Caribe",0,2018,.453
-STP,Santo Tomé y Príncipe,"América del Norte, Central y el Caribe",0,2019,.454
-STP,Santo Tomé y Príncipe,"América del Norte, Central y el Caribe",0,2020,.456
-STP,Santo Tomé y Príncipe,"América del Norte, Central y el Caribe",0,2021,.456
-STP,Santo Tomé y Príncipe,"América del Norte, Central y el Caribe",0,2022,.459
-SVK,Eslovaquia,Europa,0,2010,.791
-SVK,Eslovaquia,Europa,0,2011,.789
-SVK,Eslovaquia,Europa,0,2012,.789
-SVK,Eslovaquia,Europa,0,2013,.793
-SVK,Eslovaquia,Europa,0,2014,.79
-SVK,Eslovaquia,Europa,0,2015,.798
-SVK,Eslovaquia,Europa,0,2016,.8
-SVK,Eslovaquia,Europa,0,2017,.808
-SVK,Eslovaquia,Europa,0,2018,.813
-SVK,Eslovaquia,Europa,0,2019,.811
-SVK,Eslovaquia,Europa,0,2020,.814
-SVK,Eslovaquia,Europa,0,2021,.805
-SVK,Eslovaquia,Europa,0,2022,.808
-SVN,Eslovenia,Europa,0,2010,.844
-SVN,Eslovenia,Europa,0,2011,.839
-SVN,Eslovenia,Europa,0,2012,.838
-SVN,Eslovenia,Europa,0,2013,.846
-SVN,Eslovenia,Europa,0,2014,.851
-SVN,Eslovenia,Europa,0,2015,.854
-SVN,Eslovenia,Europa,0,2016,.861
-SVN,Eslovenia,Europa,0,2017,.865
-SVN,Eslovenia,Europa,0,2018,.871
-SVN,Eslovenia,Europa,0,2019,.872
-SVN,Eslovenia,Europa,0,2020,.865
-SVN,Eslovenia,Europa,0,2021,.871
-SVN,Eslovenia,Europa,0,2022,.882
-SWE,Suecia,Europa,0,2010,.849
-SWE,Suecia,Europa,0,2011,.851
-SWE,Suecia,Europa,0,2012,.851
-SWE,Suecia,Europa,0,2013,.865
-SWE,Suecia,Europa,0,2014,.87
-SWE,Suecia,Europa,0,2015,.868
-SWE,Suecia,Europa,0,2016,.869
-SWE,Suecia,Europa,0,2017,.873
-SWE,Suecia,Europa,0,2018,.873
-SWE,Suecia,Europa,0,2019,.877
-SWE,Suecia,Europa,0,2020,.878
-SWE,Suecia,Europa,0,2021,.88
-SWE,Suecia,Europa,0,2022,.878
-SWZ,Eswatini,África,0,2010,.295
-SWZ,Eswatini,África,0,2011,.308
-SWZ,Eswatini,África,0,2012,.32
-SWZ,Eswatini,África,0,2013,.331
-SWZ,Eswatini,África,0,2014,.343
-SWZ,Eswatini,África,0,2015,.356
-SWZ,Eswatini,África,0,2016,.365
-SWZ,Eswatini,África,0,2017,.363
-SWZ,Eswatini,África,0,2018,.373
-SWZ,Eswatini,África,0,2019,.381
-SWZ,Eswatini,África,0,2020,.381
-SWZ,Eswatini,África,0,2021,.374
-SWZ,Eswatini,África,0,2022,.372
-SYC,Seychelles,África,0,2019,.72
-SYC,Seychelles,África,0,2020,.711
-SYC,Seychelles,África,0,2021,.707
-SYC,Seychelles,África,0,2022,.715
-SYR,Siria,Asia,0,2010,.523
-SYR,Siria,Asia,0,2011,.542
-SYR,Siria,Asia,0,2012,.489
-SYR,Siria,Asia,0,2013,.422
-SYR,Siria,Asia,0,2014,.41
-SYR,Siria,Asia,0,2015,.42
-TCD,Chad,África,0,2011,.205
-TCD,Chad,África,0,2012,.21
-TCD,Chad,África,0,2013,.213
-TCD,Chad,África,0,2014,.216
-TCD,Chad,África,0,2015,.215
-TCD,Chad,África,0,2016,.216
-TCD,Chad,África,0,2017,.217
-TCD,Chad,África,0,2018,.22
-TCD,Chad,África,0,2019,.237
-TCD,Chad,África,0,2020,.237
-TCD,Chad,África,0,2021,.236
-TCD,Chad,África,0,2022,.238
-TGO,Togo,África,0,2010,.286
-TGO,Togo,África,0,2011,.286
-TGO,Togo,África,0,2012,.289
-TGO,Togo,África,0,2013,.295
-TGO,Togo,África,0,2014,.299
-TGO,Togo,África,0,2015,.309
-TGO,Togo,África,0,2016,.313
-TGO,Togo,África,0,2017,.32
-TGO,Togo,África,0,2018,.324
-TGO,Togo,África,0,2019,.337
-TGO,Togo,África,0,2020,.34
-TGO,Togo,África,0,2021,.344
-TGO,Togo,África,0,2022,.345
-THA,Tailandia,Asia,0,2012,.622
-THA,Tailandia,Asia,0,2013,.628
-THA,Tailandia,Asia,0,2014,.656
-THA,Tailandia,Asia,0,2015,.661
-THA,Tailandia,Asia,0,2016,.663
-THA,Tailandia,Asia,0,2017,.666
-THA,Tailandia,Asia,0,2018,.668
-THA,Tailandia,Asia,0,2019,.678
-THA,Tailandia,Asia,0,2020,.676
-THA,Tailandia,Asia,0,2021,.675
-THA,Tailandia,Asia,0,2022,.681
-TJK,Tayikistán,Asia,0,2012,.547
-TJK,Tayikistán,Asia,0,2013,.553
-TJK,Tayikistán,Asia,0,2014,.555
-TJK,Tayikistán,Asia,0,2015,.552
-TJK,Tayikistán,Asia,0,2016,.555
-TJK,Tayikistán,Asia,0,2017,.561
-TJK,Tayikistán,Asia,0,2018,.566
-TJK,Tayikistán,Asia,0,2019,.571
-TJK,Tayikistán,Asia,0,2020,.562
-TJK,Tayikistán,Asia,0,2021,.58
-TJK,Tayikistán,Asia,0,2022,.585
-TLS,Timor Oriental,Asia,0,2010,.44
-TLS,Timor Oriental,Asia,0,2011,.448
-TLS,Timor Oriental,Asia,0,2012,.446
-TLS,Timor Oriental,Asia,0,2013,.444
-TLS,Timor Oriental,Asia,0,2014,.438
-TLS,Timor Oriental,Asia,0,2015,.432
-TLS,Timor Oriental,Asia,0,2016,.433
-TLS,Timor Oriental,Asia,0,2017,.437
-TLS,Timor Oriental,Asia,0,2018,.439
-TLS,Timor Oriental,Asia,0,2019,.448
-TLS,Timor Oriental,Asia,0,2020,.454
-TLS,Timor Oriental,Asia,0,2021,.412
-TLS,Timor Oriental,Asia,0,2022,.407
-TON,Tonga,Oceanía,0,2019,.654
-TON,Tonga,Oceanía,0,2020,.656
-TON,Tonga,Oceanía,0,2021,.653
-TON,Tonga,Oceanía,0,2022,.654
-TUN,Túnez,África,0,2011,.541
-TUN,Túnez,África,0,2012,.542
-TUN,Túnez,África,0,2013,.544
-TUN,Túnez,África,0,2014,.546
-TUN,Túnez,África,0,2015,.548
-TUN,Túnez,África,0,2016,.559
-TUN,Túnez,África,0,2017,.562
-TUN,Túnez,África,0,2018,.576
-TUN,Túnez,África,0,2019,.579
-TUN,Túnez,África,0,2020,.574
-TUN,Túnez,África,0,2021,.571
-TUN,Túnez,África,0,2022,.574
-TUR,Turquía,Asia,0,2010,.601
-TUR,Turquía,Asia,0,2011,.619
-TUR,Turquía,Asia,0,2012,.631
-TUR,Turquía,Asia,0,2013,.66
-TUR,Turquía,Asia,0,2014,.673
-TUR,Turquía,Asia,0,2015,.679
-TUR,Turquía,Asia,0,2016,.684
-TUR,Turquía,Asia,0,2017,.691
-TUR,Turquía,Asia,0,2018,.696
-TUR,Turquía,Asia,0,2019,.706
-TUR,Turquía,Asia,0,2020,.696
-TUR,Turquía,Asia,0,2021,.705
-TUR,Turquía,Asia,0,2022,.717
-TUV,Tuvalu,Oceanía,0,2019,.544
-TUV,Tuvalu,Oceanía,0,2020,.546
-TUV,Tuvalu,Oceanía,0,2021,.545
-TUV,Tuvalu,Oceanía,0,2022,.545
-TZA,Tanzania,África,0,2010,.325
-TZA,Tanzania,África,0,2011,.331
-TZA,Tanzania,África,0,2012,.342
-TZA,Tanzania,África,0,2013,.345
-TZA,Tanzania,África,0,2014,.348
-TZA,Tanzania,África,0,2015,.352
-TZA,Tanzania,África,0,2016,.355
-TZA,Tanzania,África,0,2017,.361
-TZA,Tanzania,África,0,2018,.363
-TZA,Tanzania,África,0,2019,.369
-TZA,Tanzania,África,0,2020,.371
-TZA,Tanzania,África,0,2021,.368
-TZA,Tanzania,África,0,2022,.372
-UGA,Uganda,África,0,2010,.319
-UGA,Uganda,África,0,2011,.327
-UGA,Uganda,África,0,2012,.329
-UGA,Uganda,África,0,2013,.342
-UGA,Uganda,África,0,2014,.348
-UGA,Uganda,África,0,2015,.354
-UGA,Uganda,África,0,2016,.363
-UGA,Uganda,África,0,2017,.363
-UGA,Uganda,África,0,2018,.368
-UGA,Uganda,África,0,2019,.372
-UGA,Uganda,África,0,2020,.374
-UGA,Uganda,África,0,2021,.374
-UGA,Uganda,África,0,2022,.377
-UKR,Ucrania,Europa,0,2010,.698
-UKR,Ucrania,Europa,0,2011,.704
-UKR,Ucrania,Europa,0,2012,.713
-UKR,Ucrania,Europa,0,2013,.713
-UKR,Ucrania,Europa,0,2014,.715
-UKR,Ucrania,Europa,0,2015,.704
-UKR,Ucrania,Europa,0,2016,.708
-UKR,Ucrania,Europa,0,2017,.71
-UKR,Ucrania,Europa,0,2018,.711
-UKR,Ucrania,Europa,0,2019,.713
-UKR,Ucrania,Europa,0,2020,.704
-UKR,Ucrania,Europa,0,2021,.697
-UKR,Ucrania,Europa,0,2022,.676
-URY,Uruguay,América del Sur,0,2010,.658
-URY,Uruguay,América del Sur,0,2011,.673
-URY,Uruguay,América del Sur,0,2012,.683
-URY,Uruguay,América del Sur,0,2013,.688
-URY,Uruguay,América del Sur,0,2014,.693
-URY,Uruguay,América del Sur,0,2015,.695
-URY,Uruguay,América del Sur,0,2016,.702
-URY,Uruguay,América del Sur,0,2017,.708
-URY,Uruguay,América del Sur,0,2018,.709
-URY,Uruguay,América del Sur,0,2019,.712
-URY,Uruguay,América del Sur,0,2020,.717
-URY,Uruguay,América del Sur,0,2021,.711
-URY,Uruguay,América del Sur,0,2022,.72
-USA,Estados Unidos,"América del Norte, Central y el Caribe",0,2010,.805
-USA,Estados Unidos,"América del Norte, Central y el Caribe",0,2011,.808
-USA,Estados Unidos,"América del Norte, Central y el Caribe",0,2012,.807
-USA,Estados Unidos,"América del Norte, Central y el Caribe",0,2013,.809
-USA,Estados Unidos,"América del Norte, Central y el Caribe",0,2014,.812
-USA,Estados Unidos,"América del Norte, Central y el Caribe",0,2015,.809
-USA,Estados Unidos,"América del Norte, Central y el Caribe",0,2016,.812
-USA,Estados Unidos,"América del Norte, Central y el Caribe",0,2017,.814
-USA,Estados Unidos,"América del Norte, Central y el Caribe",0,2018,.815
-USA,Estados Unidos,"América del Norte, Central y el Caribe",0,2019,.818
-USA,Estados Unidos,"América del Norte, Central y el Caribe",0,2020,.808
-USA,Estados Unidos,"América del Norte, Central y el Caribe",0,2021,.815
-USA,Estados Unidos,"América del Norte, Central y el Caribe",0,2022,.823
-VEN,Venezuela,América del Sur,0,2011,.639
-VEN,Venezuela,América del Sur,0,2012,.638
-VEN,Venezuela,América del Sur,0,2013,.638
-VEN,Venezuela,América del Sur,0,2014,.639
-VEN,Venezuela,América del Sur,0,2015,.645
-VEN,Venezuela,América del Sur,0,2016,.652
-VEN,Venezuela,América del Sur,0,2017,.644
-VEN,Venezuela,América del Sur,0,2018,.634
-VEN,Venezuela,América del Sur,0,2019,.619
-VEN,Venezuela,América del Sur,0,2020,.592
-VEN,Venezuela,América del Sur,0,2021,.591
-VEN,Venezuela,América del Sur,0,2022,.6
-VNM,Vietnam,Asia,0,2010,.548
-VNM,Vietnam,Asia,0,2011,.553
-VNM,Vietnam,Asia,0,2012,.566
-VNM,Vietnam,Asia,0,2013,.568
-VNM,Vietnam,Asia,0,2014,.576
-VNM,Vietnam,Asia,0,2015,.58
-VNM,Vietnam,Asia,0,2016,.582
-VNM,Vietnam,Asia,0,2017,.586
-VNM,Vietnam,Asia,0,2018,.589
-VNM,Vietnam,Asia,0,2019,.594
-VNM,Vietnam,Asia,0,2020,.605
-VNM,Vietnam,Asia,0,2021,.599
-VNM,Vietnam,Asia,0,2022,.607
-VUT,Vanuatu,Oceanía,0,2010,.469
-VUT,Vanuatu,Oceanía,0,2011,.471
-VUT,Vanuatu,Oceanía,0,2012,.471
-VUT,Vanuatu,Oceanía,0,2013,.475
-VUT,Vanuatu,Oceanía,0,2014,.478
-VUT,Vanuatu,Oceanía,0,2015,.48
-WSM,Samoa,Oceanía,0,2019,.609
-WSM,Samoa,Oceanía,0,2020,.612
-WSM,Samoa,Oceanía,0,2021,.609
-WSM,Samoa,Oceanía,0,2022,.602
-YEM,Yemen,Asia,0,2010,.334
-YEM,Yemen,Asia,0,2011,.333
-YEM,Yemen,Asia,0,2012,.334
-YEM,Yemen,Asia,0,2013,.337
-YEM,Yemen,Asia,0,2014,.327
-YEM,Yemen,Asia,0,2015,.305
-YEM,Yemen,Asia,0,2016,.297
-YEM,Yemen,Asia,0,2017,.29
-YEM,Yemen,Asia,0,2018,.286
-YEM,Yemen,Asia,0,2019,.288
-YEM,Yemen,Asia,0,2020,.289
-YEM,Yemen,Asia,0,2021,.285
-YEM,Yemen,Asia,0,2022,.285
-ZAF,Sudáfrica,África,0,2012,.446
-ZAF,Sudáfrica,África,0,2013,.452
-ZAF,Sudáfrica,África,0,2014,.461
-ZAF,Sudáfrica,África,0,2015,.466
-ZAF,Sudáfrica,África,0,2016,.456
-ZAF,Sudáfrica,África,0,2017,.469
-ZAF,Sudáfrica,África,0,2018,.472
-ZAF,Sudáfrica,África,0,2019,.478
-ZAF,Sudáfrica,África,0,2020,.471
-ZAF,Sudáfrica,África,0,2021,.466
-ZAF,Sudáfrica,África,0,2022,.462
-ZMB,Zambia,África,0,2010,.32
-ZMB,Zambia,África,0,2011,.324
-ZMB,Zambia,África,0,2012,.334
-ZMB,Zambia,África,0,2013,.342
-ZMB,Zambia,África,0,2014,.345
-ZMB,Zambia,África,0,2015,.332
-ZMB,Zambia,África,0,2016,.334
-ZMB,Zambia,África,0,2017,.336
-ZMB,Zambia,África,0,2018,.34
-ZMB,Zambia,África,0,2019,.342
-ZMB,Zambia,África,0,2020,.341
-ZMB,Zambia,África,0,2021,.34
-ZMB,Zambia,África,0,2022,.344
-ZWE,Zimbabwe,África,0,2011,.34
-ZWE,Zimbabwe,África,0,2012,.357
-ZWE,Zimbabwe,África,0,2013,.367
-ZWE,Zimbabwe,África,0,2014,.374
-ZWE,Zimbabwe,África,0,2015,.379
-ZWE,Zimbabwe,África,0,2016,.383
-ZWE,Zimbabwe,África,0,2017,.385
-ZWE,Zimbabwe,África,0,2018,.394
-ZWE,Zimbabwe,África,0,2019,.376
-ZWE,Zimbabwe,África,0,2020,.373
-ZWE,Zimbabwe,África,0,2021,.37
-ZWE,Zimbabwe,África,0,2022,.37
-ZZA.VHHD,Desarrollo humano muy alto,,,2010,.77
-ZZA.VHHD,Desarrollo humano muy alto,,,2011,.777
-ZZA.VHHD,Desarrollo humano muy alto,,,2012,.778
-ZZA.VHHD,Desarrollo humano muy alto,,,2013,.782
-ZZA.VHHD,Desarrollo humano muy alto,,,2014,.786
-ZZA.VHHD,Desarrollo humano muy alto,,,2015,.788
-ZZA.VHHD,Desarrollo humano muy alto,,,2016,.792
-ZZA.VHHD,Desarrollo humano muy alto,,,2017,.795
-ZZA.VHHD,Desarrollo humano muy alto,,,2018,.798
-ZZA.VHHD,Desarrollo humano muy alto,,,2019,.803
-ZZA.VHHD,Desarrollo humano muy alto,,,2020,.797
-ZZA.VHHD,Desarrollo humano muy alto,,,2021,.801
-ZZA.VHHD,Desarrollo humano muy alto,,,2022,.807
-ZZB.HHD,Desarrollo humano alto,,,2010,.551
-ZZB.HHD,Desarrollo humano alto,,,2011,.557
-ZZB.HHD,Desarrollo humano alto,,,2012,.568
-ZZB.HHD,Desarrollo humano alto,,,2013,.584
-ZZB.HHD,Desarrollo humano alto,,,2014,.595
-ZZB.HHD,Desarrollo humano alto,,,2015,.598
-ZZB.HHD,Desarrollo humano alto,,,2016,.602
-ZZB.HHD,Desarrollo humano alto,,,2017,.607
-ZZB.HHD,Desarrollo humano alto,,,2018,.615
-ZZB.HHD,Desarrollo humano alto,,,2019,.622
-ZZB.HHD,Desarrollo humano alto,,,2020,.623
-ZZB.HHD,Desarrollo humano alto,,,2021,.624
-ZZB.HHD,Desarrollo humano alto,,,2022,.628
-ZZC.MHD,Desarrollo humano medio,,,2010,.377
-ZZC.MHD,Desarrollo humano medio,,,2011,.388
-ZZC.MHD,Desarrollo humano medio,,,2012,.392
-ZZC.MHD,Desarrollo humano medio,,,2013,.397
-ZZC.MHD,Desarrollo humano medio,,,2014,.405
-ZZC.MHD,Desarrollo humano medio,,,2015,.419
-ZZC.MHD,Desarrollo humano medio,,,2016,.427
-ZZC.MHD,Desarrollo humano medio,,,2017,.433
-ZZC.MHD,Desarrollo humano medio,,,2018,.434
-ZZC.MHD,Desarrollo humano medio,,,2019,.44
-ZZC.MHD,Desarrollo humano medio,,,2020,.439
-ZZC.MHD,Desarrollo humano medio,,,2021,.438
-ZZC.MHD,Desarrollo humano medio,,,2022,.447
-ZZD.LHD,Desarrollo humano bajo,,,2010,.294
-ZZD.LHD,Desarrollo humano bajo,,,2011,.302
-ZZD.LHD,Desarrollo humano bajo,,,2012,.307
-ZZD.LHD,Desarrollo humano bajo,,,2013,.313
-ZZD.LHD,Desarrollo humano bajo,,,2014,.319
-ZZD.LHD,Desarrollo humano bajo,,,2015,.322
-ZZD.LHD,Desarrollo humano bajo,,,2016,.327
-ZZD.LHD,Desarrollo humano bajo,,,2017,.33
-ZZD.LHD,Desarrollo humano bajo,,,2018,.332
-ZZD.LHD,Desarrollo humano bajo,,,2019,.337
-ZZD.LHD,Desarrollo humano bajo,,,2020,.338
-ZZD.LHD,Desarrollo humano bajo,,,2021,.339
-ZZD.LHD,Desarrollo humano bajo,,,2022,.341
-ZZE.AS,Estados Árabes,,,2010,.483
-ZZE.AS,Estados Árabes,,,2011,.493
-ZZE.AS,Estados Árabes,,,2012,.503
-ZZE.AS,Estados Árabes,,,2013,.509
-ZZE.AS,Estados Árabes,,,2014,.514
-ZZE.AS,Estados Árabes,,,2015,.516
-ZZE.AS,Estados Árabes,,,2016,.518
-ZZE.AS,Estados Árabes,,,2017,.523
-ZZE.AS,Estados Árabes,,,2018,.53
-ZZE.AS,Estados Árabes,,,2019,.534
-ZZE.AS,Estados Árabes,,,2020,.533
-ZZE.AS,Estados Árabes,,,2021,.533
-ZZE.AS,Estados Árabes,,,2022,.534
-ZZF.EAP,Este de Asia y Pacífico,,,2010,.564
-ZZF.EAP,Este de Asia y Pacífico,,,2011,.566
-ZZF.EAP,Este de Asia y Pacífico,,,2012,.575
-ZZF.EAP,Este de Asia y Pacífico,,,2013,.581
-ZZF.EAP,Este de Asia y Pacífico,,,2014,.595
-ZZF.EAP,Este de Asia y Pacífico,,,2015,.599
-ZZF.EAP,Este de Asia y Pacífico,,,2016,.605
-ZZF.EAP,Este de Asia y Pacífico,,,2017,.611
-ZZF.EAP,Este de Asia y Pacífico,,,2018,.62
-ZZF.EAP,Este de Asia y Pacífico,,,2019,.629
-ZZF.EAP,Este de Asia y Pacífico,,,2020,.633
-ZZF.EAP,Este de Asia y Pacífico,,,2021,.636
-ZZF.EAP,Este de Asia y Pacífico,,,2022,.64
-ZZG.ECA,Europa y Asia Central,,,2010,.639
-ZZG.ECA,Europa y Asia Central,,,2011,.65
-ZZG.ECA,Europa y Asia Central,,,2012,.66
-ZZG.ECA,Europa y Asia Central,,,2013,.672
-ZZG.ECA,Europa y Asia Central,,,2014,.68
-ZZG.ECA,Europa y Asia Central,,,2015,.684
-ZZG.ECA,Europa y Asia Central,,,2016,.69
-ZZG.ECA,Europa y Asia Central,,,2017,.696
-ZZG.ECA,Europa y Asia Central,,,2018,.701
-ZZG.ECA,Europa y Asia Central,,,2019,.707
-ZZG.ECA,Europa y Asia Central,,,2020,.699
-ZZG.ECA,Europa y Asia Central,,,2021,.705
-ZZG.ECA,Europa y Asia Central,,,2022,.708
-ZZH.LAC,América Latina y el Caribe,,,2010,.564
-ZZH.LAC,América Latina y el Caribe,,,2011,.571
-ZZH.LAC,América Latina y el Caribe,,,2012,.578
-ZZH.LAC,América Latina y el Caribe,,,2013,.587
-ZZH.LAC,América Latina y el Caribe,,,2014,.593
-ZZH.LAC,América Latina y el Caribe,,,2015,.597
-ZZH.LAC,América Latina y el Caribe,,,2016,.595
-ZZH.LAC,América Latina y el Caribe,,,2017,.598
-ZZH.LAC,América Latina y el Caribe,,,2018,.603
-ZZH.LAC,América Latina y el Caribe,,,2019,.605
-ZZH.LAC,América Latina y el Caribe,,,2020,.598
-ZZH.LAC,América Latina y el Caribe,,,2021,.595
-ZZH.LAC,América Latina y el Caribe,,,2022,.605
-ZZI.SA,Asia meridional,,,2010,.375
-ZZI.SA,Asia meridional,,,2011,.384
-ZZI.SA,Asia meridional,,,2012,.388
-ZZI.SA,Asia meridional,,,2013,.393
-ZZI.SA,Asia meridional,,,2014,.402
-ZZI.SA,Asia meridional,,,2015,.415
-ZZI.SA,Asia meridional,,,2016,.424
-ZZI.SA,Asia meridional,,,2017,.429
-ZZI.SA,Asia meridional,,,2018,.429
-ZZI.SA,Asia meridional,,,2019,.436
-ZZI.SA,Asia meridional,,,2020,.435
-ZZI.SA,Asia meridional,,,2021,.435
-ZZI.SA,Asia meridional,,,2022,.443
-ZZJ.SSA,África Subsahariana,,,2010,.305
-ZZJ.SSA,África Subsahariana,,,2011,.319
-ZZJ.SSA,África Subsahariana,,,2012,.327
-ZZJ.SSA,África Subsahariana,,,2013,.333
-ZZJ.SSA,África Subsahariana,,,2014,.339
-ZZJ.SSA,África Subsahariana,,,2015,.343
-ZZJ.SSA,África Subsahariana,,,2016,.349
-ZZJ.SSA,África Subsahariana,,,2017,.352
-ZZJ.SSA,África Subsahariana,,,2018,.355
-ZZJ.SSA,África Subsahariana,,,2019,.359
-ZZJ.SSA,África Subsahariana,,,2020,.36
-ZZJ.SSA,África Subsahariana,,,2021,.36
-ZZJ.SSA,África Subsahariana,,,2022,.363
-ZZK.WORLD,Mundo,,,2010,.522
-ZZK.WORLD,Mundo,,,2011,.529
-ZZK.WORLD,Mundo,,,2012,.534
-ZZK.WORLD,Mundo,,,2013,.546
-ZZK.WORLD,Mundo,,,2014,.552
-ZZK.WORLD,Mundo,,,2015,.557
-ZZK.WORLD,Mundo,,,2016,.562
-ZZK.WORLD,Mundo,,,2017,.566
-ZZK.WORLD,Mundo,,,2018,.568
-ZZK.WORLD,Mundo,,,2019,.574
-ZZK.WORLD,Mundo,,,2020,.572
-ZZK.WORLD,Mundo,,,2021,.572
-ZZK.WORLD,Mundo,,,2022,.576
+geocodigoFundar,geonombreFundar,continente_fundar,es_agregacion,anio,idhd
+AFG,Afganistán,Asia,0.0,2010,0.287
+AFG,Afganistán,Asia,0.0,2011,0.293
+AFG,Afganistán,Asia,0.0,2012,0.302
+AFG,Afganistán,Asia,0.0,2013,0.309
+AFG,Afganistán,Asia,0.0,2014,0.313
+AFG,Afganistán,Asia,0.0,2015,0.312
+AFG,Afganistán,Asia,0.0,2016,0.316
+AFG,Afganistán,Asia,0.0,2017,0.316
+AFG,Afganistán,Asia,0.0,2018,0.318
+AFG,Afganistán,Asia,0.0,2019,0.323
+AFG,Afganistán,Asia,0.0,2020,0.321
+AFG,Afganistán,Asia,0.0,2021,0.311
+AFG,Afganistán,Asia,0.0,2022,0.3
+AGO,Angola,África,0.0,2015,0.365
+AGO,Angola,África,0.0,2016,0.37
+AGO,Angola,África,0.0,2017,0.373
+AGO,Angola,África,0.0,2018,0.374
+AGO,Angola,África,0.0,2019,0.346
+AGO,Angola,África,0.0,2020,0.345
+AGO,Angola,África,0.0,2021,0.344
+AGO,Angola,África,0.0,2022,0.344
+ALB,Albania,Europa,0.0,2010,0.663
+ALB,Albania,Europa,0.0,2011,0.675
+ALB,Albania,Europa,0.0,2012,0.687
+ALB,Albania,Europa,0.0,2013,0.691
+ALB,Albania,Europa,0.0,2014,0.68
+ALB,Albania,Europa,0.0,2015,0.686
+ALB,Albania,Europa,0.0,2016,0.681
+ALB,Albania,Europa,0.0,2017,0.683
+ALB,Albania,Europa,0.0,2018,0.687
+ALB,Albania,Europa,0.0,2019,0.692
+ALB,Albania,Europa,0.0,2020,0.682
+ALB,Albania,Europa,0.0,2021,0.682
+ALB,Albania,Europa,0.0,2022,0.687
+AND,Andorra,Europa,0.0,2016,0.773
+AND,Andorra,Europa,0.0,2017,0.775
+AND,Andorra,Europa,0.0,2018,0.777
+AND,Andorra,Europa,0.0,2019,0.779
+AND,Andorra,Europa,0.0,2020,0.758
+AND,Andorra,Europa,0.0,2021,0.77
+AND,Andorra,Europa,0.0,2022,0.81
+ARE,Emiratos Árabes Unidos,Asia,0.0,2016,0.745
+ARE,Emiratos Árabes Unidos,Asia,0.0,2017,0.785
+ARE,Emiratos Árabes Unidos,Asia,0.0,2018,0.808
+ARE,Emiratos Árabes Unidos,Asia,0.0,2019,0.854
+ARE,Emiratos Árabes Unidos,Asia,0.0,2020,0.853
+ARE,Emiratos Árabes Unidos,Asia,0.0,2021,0.854
+ARE,Emiratos Árabes Unidos,Asia,0.0,2022,0.859
+ARG,Argentina,América del Sur,0.0,2010,0.716
+ARG,Argentina,América del Sur,0.0,2011,0.725
+ARG,Argentina,América del Sur,0.0,2012,0.734
+ARG,Argentina,América del Sur,0.0,2013,0.737
+ARG,Argentina,América del Sur,0.0,2014,0.739
+ARG,Argentina,América del Sur,0.0,2015,0.741
+ARG,Argentina,América del Sur,0.0,2016,0.74
+ARG,Argentina,América del Sur,0.0,2017,0.745
+ARG,Argentina,América del Sur,0.0,2018,0.744
+ARG,Argentina,América del Sur,0.0,2019,0.744
+ARG,Argentina,América del Sur,0.0,2020,0.734
+ARG,Argentina,América del Sur,0.0,2021,0.741
+ARG,Argentina,América del Sur,0.0,2022,0.747
+ARM,Armenia,Asia,0.0,2010,0.661
+ARM,Armenia,Asia,0.0,2011,0.668
+ARM,Armenia,Asia,0.0,2012,0.675
+ARM,Armenia,Asia,0.0,2013,0.679
+ARM,Armenia,Asia,0.0,2014,0.684
+ARM,Armenia,Asia,0.0,2015,0.69
+ARM,Armenia,Asia,0.0,2016,0.694
+ARM,Armenia,Asia,0.0,2017,0.696
+ARM,Armenia,Asia,0.0,2018,0.699
+ARM,Armenia,Asia,0.0,2019,0.716
+ARM,Armenia,Asia,0.0,2020,0.708
+ARM,Armenia,Asia,0.0,2021,0.708
+ARM,Armenia,Asia,0.0,2022,0.721
+AUS,Australia,Oceanía,0.0,2010,0.833
+AUS,Australia,Oceanía,0.0,2011,0.836
+AUS,Australia,Oceanía,0.0,2012,0.84
+AUS,Australia,Oceanía,0.0,2013,0.839
+AUS,Australia,Oceanía,0.0,2014,0.845
+AUS,Australia,Oceanía,0.0,2015,0.847
+AUS,Australia,Oceanía,0.0,2016,0.853
+AUS,Australia,Oceanía,0.0,2017,0.854
+AUS,Australia,Oceanía,0.0,2018,0.855
+AUS,Australia,Oceanía,0.0,2019,0.854
+AUS,Australia,Oceanía,0.0,2020,0.863
+AUS,Australia,Oceanía,0.0,2021,0.865
+AUS,Australia,Oceanía,0.0,2022,0.86
+AUT,Austria,Europa,0.0,2010,0.827
+AUT,Austria,Europa,0.0,2011,0.838
+AUT,Austria,Europa,0.0,2012,0.839
+AUT,Austria,Europa,0.0,2013,0.836
+AUT,Austria,Europa,0.0,2014,0.843
+AUT,Austria,Europa,0.0,2015,0.844
+AUT,Austria,Europa,0.0,2016,0.845
+AUT,Austria,Europa,0.0,2017,0.845
+AUT,Austria,Europa,0.0,2018,0.852
+AUT,Austria,Europa,0.0,2019,0.852
+AUT,Austria,Europa,0.0,2020,0.851
+AUT,Austria,Europa,0.0,2021,0.855
+AUT,Austria,Europa,0.0,2022,0.859
+AZE,Azerbaiyán,Asia,0.0,2010,0.643
+AZE,Azerbaiyán,Asia,0.0,2011,0.647
+AZE,Azerbaiyán,Asia,0.0,2012,0.652
+AZE,Azerbaiyán,Asia,0.0,2013,0.66
+AZE,Azerbaiyán,Asia,0.0,2014,0.665
+AZE,Azerbaiyán,Asia,0.0,2015,0.694
+AZE,Azerbaiyán,Asia,0.0,2016,0.697
+AZE,Azerbaiyán,Asia,0.0,2017,0.701
+AZE,Azerbaiyán,Asia,0.0,2018,0.701
+AZE,Azerbaiyán,Asia,0.0,2019,0.707
+AZE,Azerbaiyán,Asia,0.0,2020,0.669
+AZE,Azerbaiyán,Asia,0.0,2021,0.687
+AZE,Azerbaiyán,Asia,0.0,2022,0.707
+BDI,Burundi,África,0.0,2010,0.256
+BDI,Burundi,África,0.0,2011,0.26
+BDI,Burundi,África,0.0,2012,0.27
+BDI,Burundi,África,0.0,2013,0.274
+BDI,Burundi,África,0.0,2014,0.269
+BDI,Burundi,África,0.0,2015,0.271
+BDI,Burundi,África,0.0,2016,0.27
+BDI,Burundi,África,0.0,2017,0.27
+BDI,Burundi,África,0.0,2018,0.27
+BDI,Burundi,África,0.0,2019,0.272
+BDI,Burundi,África,0.0,2020,0.271
+BDI,Burundi,África,0.0,2021,0.272
+BDI,Burundi,África,0.0,2022,0.273
+BEL,Bélgica,Europa,0.0,2010,0.828
+BEL,Bélgica,Europa,0.0,2011,0.836
+BEL,Bélgica,Europa,0.0,2012,0.835
+BEL,Bélgica,Europa,0.0,2013,0.842
+BEL,Bélgica,Europa,0.0,2014,0.844
+BEL,Bélgica,Europa,0.0,2015,0.851
+BEL,Bélgica,Europa,0.0,2016,0.852
+BEL,Bélgica,Europa,0.0,2017,0.857
+BEL,Bélgica,Europa,0.0,2018,0.858
+BEL,Bélgica,Europa,0.0,2019,0.867
+BEL,Bélgica,Europa,0.0,2020,0.864
+BEL,Bélgica,Europa,0.0,2021,0.876
+BEL,Bélgica,Europa,0.0,2022,0.878
+BEN,Benin,África,0.0,2019,0.308
+BEN,Benin,África,0.0,2020,0.306
+BEN,Benin,África,0.0,2021,0.308
+BEN,Benin,África,0.0,2022,0.309
+BFA,Burkina Faso,África,0.0,2010,0.225
+BFA,Burkina Faso,África,0.0,2011,0.233
+BFA,Burkina Faso,África,0.0,2012,0.24
+BFA,Burkina Faso,África,0.0,2013,0.244
+BFA,Burkina Faso,África,0.0,2014,0.255
+BFA,Burkina Faso,África,0.0,2015,0.262
+BFA,Burkina Faso,África,0.0,2016,0.269
+BFA,Burkina Faso,África,0.0,2017,0.276
+BFA,Burkina Faso,África,0.0,2018,0.284
+BFA,Burkina Faso,África,0.0,2019,0.274
+BFA,Burkina Faso,África,0.0,2020,0.275
+BFA,Burkina Faso,África,0.0,2021,0.265
+BFA,Burkina Faso,África,0.0,2022,0.261
+BGD,Bangladesh,Asia,0.0,2010,0.383
+BGD,Bangladesh,Asia,0.0,2011,0.391
+BGD,Bangladesh,Asia,0.0,2012,0.397
+BGD,Bangladesh,Asia,0.0,2013,0.399
+BGD,Bangladesh,Asia,0.0,2014,0.412
+BGD,Bangladesh,Asia,0.0,2015,0.426
+BGD,Bangladesh,Asia,0.0,2016,0.423
+BGD,Bangladesh,Asia,0.0,2017,0.435
+BGD,Bangladesh,Asia,0.0,2018,0.445
+BGD,Bangladesh,Asia,0.0,2019,0.449
+BGD,Bangladesh,Asia,0.0,2020,0.458
+BGD,Bangladesh,Asia,0.0,2021,0.462
+BGD,Bangladesh,Asia,0.0,2022,0.47
+BGR,Bulgaria,Europa,0.0,2010,0.701
+BGR,Bulgaria,Europa,0.0,2011,0.7
+BGR,Bulgaria,Europa,0.0,2012,0.707
+BGR,Bulgaria,Europa,0.0,2013,0.71
+BGR,Bulgaria,Europa,0.0,2014,0.709
+BGR,Bulgaria,Europa,0.0,2015,0.711
+BGR,Bulgaria,Europa,0.0,2016,0.705
+BGR,Bulgaria,Europa,0.0,2017,0.702
+BGR,Bulgaria,Europa,0.0,2018,0.707
+BGR,Bulgaria,Europa,0.0,2019,0.707
+BGR,Bulgaria,Europa,0.0,2020,0.701
+BGR,Bulgaria,Europa,0.0,2021,0.697
+BGR,Bulgaria,Europa,0.0,2022,0.703
+BHS,Bahamas,"América del Norte, Central y el Caribe",0.0,2013,0.647
+BHS,Bahamas,"América del Norte, Central y el Caribe",0.0,2014,0.65
+BHS,Bahamas,"América del Norte, Central y el Caribe",0.0,2015,0.649
+BHS,Bahamas,"América del Norte, Central y el Caribe",0.0,2016,0.653
+BHS,Bahamas,"América del Norte, Central y el Caribe",0.0,2017,0.655
+BHS,Bahamas,"América del Norte, Central y el Caribe",0.0,2018,0.657
+BHS,Bahamas,"América del Norte, Central y el Caribe",0.0,2019,0.636
+BHS,Bahamas,"América del Norte, Central y el Caribe",0.0,2020,0.646
+BHS,Bahamas,"América del Norte, Central y el Caribe",0.0,2021,0.647
+BHS,Bahamas,"América del Norte, Central y el Caribe",0.0,2022,0.663
+BIH,Bosnia y Herzegovina,Europa,0.0,2010,0.589
+BIH,Bosnia y Herzegovina,Europa,0.0,2011,0.594
+BIH,Bosnia y Herzegovina,Europa,0.0,2012,0.604
+BIH,Bosnia y Herzegovina,Europa,0.0,2013,0.612
+BIH,Bosnia y Herzegovina,Europa,0.0,2014,0.617
+BIH,Bosnia y Herzegovina,Europa,0.0,2015,0.619
+BIH,Bosnia y Herzegovina,Europa,0.0,2016,0.641
+BIH,Bosnia y Herzegovina,Europa,0.0,2017,0.644
+BIH,Bosnia y Herzegovina,Europa,0.0,2018,0.652
+BIH,Bosnia y Herzegovina,Europa,0.0,2019,0.658
+BIH,Bosnia y Herzegovina,Europa,0.0,2020,0.665
+BIH,Bosnia y Herzegovina,Europa,0.0,2021,0.665
+BIH,Bosnia y Herzegovina,Europa,0.0,2022,0.667
+BLR,Belarús,Europa,0.0,2012,0.743
+BLR,Belarús,Europa,0.0,2013,0.744
+BLR,Belarús,Europa,0.0,2014,0.747
+BLR,Belarús,Europa,0.0,2015,0.75
+BLR,Belarús,Europa,0.0,2016,0.751
+BLR,Belarús,Europa,0.0,2017,0.754
+BLR,Belarús,Europa,0.0,2018,0.755
+BLR,Belarús,Europa,0.0,2019,0.755
+BLR,Belarús,Europa,0.0,2020,0.749
+BLR,Belarús,Europa,0.0,2021,0.75
+BLR,Belarús,Europa,0.0,2022,0.75
+BOL,Bolivia,América del Sur,0.0,2010,0.466
+BOL,Bolivia,América del Sur,0.0,2011,0.491
+BOL,Bolivia,América del Sur,0.0,2012,0.494
+BOL,Bolivia,América del Sur,0.0,2013,0.504
+BOL,Bolivia,América del Sur,0.0,2014,0.509
+BOL,Bolivia,América del Sur,0.0,2015,0.521
+BOL,Bolivia,América del Sur,0.0,2016,0.523
+BOL,Bolivia,América del Sur,0.0,2017,0.533
+BOL,Bolivia,América del Sur,0.0,2018,0.551
+BOL,Bolivia,América del Sur,0.0,2019,0.562
+BOL,Bolivia,América del Sur,0.0,2020,0.536
+BOL,Bolivia,América del Sur,0.0,2021,0.551
+BOL,Bolivia,América del Sur,0.0,2022,0.56
+BRA,Brasil,América del Sur,0.0,2010,0.547
+BRA,Brasil,América del Sur,0.0,2011,0.55
+BRA,Brasil,América del Sur,0.0,2012,0.562
+BRA,Brasil,América del Sur,0.0,2013,0.582
+BRA,Brasil,América del Sur,0.0,2014,0.588
+BRA,Brasil,América del Sur,0.0,2015,0.588
+BRA,Brasil,América del Sur,0.0,2016,0.57
+BRA,Brasil,América del Sur,0.0,2017,0.573
+BRA,Brasil,América del Sur,0.0,2018,0.577
+BRA,Brasil,América del Sur,0.0,2019,0.581
+BRA,Brasil,América del Sur,0.0,2020,0.588
+BRA,Brasil,América del Sur,0.0,2021,0.573
+BRA,Brasil,América del Sur,0.0,2022,0.577
+BRB,Barbados,"América del Norte, Central y el Caribe",0.0,2012,0.601
+BRB,Barbados,"América del Norte, Central y el Caribe",0.0,2013,0.602
+BRB,Barbados,"América del Norte, Central y el Caribe",0.0,2014,0.603
+BRB,Barbados,"América del Norte, Central y el Caribe",0.0,2015,0.606
+BRB,Barbados,"América del Norte, Central y el Caribe",0.0,2016,0.609
+BRB,Barbados,"América del Norte, Central y el Caribe",0.0,2017,0.611
+BRB,Barbados,"América del Norte, Central y el Caribe",0.0,2018,0.612
+BRB,Barbados,"América del Norte, Central y el Caribe",0.0,2019,0.614
+BRB,Barbados,"América del Norte, Central y el Caribe",0.0,2020,0.611
+BRB,Barbados,"América del Norte, Central y el Caribe",0.0,2021,0.612
+BRB,Barbados,"América del Norte, Central y el Caribe",0.0,2022,0.617
+BRN,Brunei,Asia,0.0,2013,0.743
+BRN,Brunei,Asia,0.0,2014,0.741
+BRN,Brunei,Asia,0.0,2015,0.739
+BRN,Brunei,Asia,0.0,2016,0.735
+BRN,Brunei,Asia,0.0,2017,0.734
+BRN,Brunei,Asia,0.0,2018,0.73
+BRN,Brunei,Asia,0.0,2019,0.731
+BRN,Brunei,Asia,0.0,2020,0.731
+BRN,Brunei,Asia,0.0,2021,0.729
+BRN,Brunei,Asia,0.0,2022,0.727
+BTN,Bhután,Asia,0.0,2010,0.376
+BTN,Bhután,Asia,0.0,2011,0.382
+BTN,Bhután,Asia,0.0,2012,0.394
+BTN,Bhután,Asia,0.0,2013,0.4
+BTN,Bhután,Asia,0.0,2014,0.408
+BTN,Bhután,Asia,0.0,2015,0.416
+BTN,Bhután,Asia,0.0,2016,0.423
+BTN,Bhután,Asia,0.0,2017,0.416
+BTN,Bhután,Asia,0.0,2018,0.423
+BTN,Bhután,Asia,0.0,2019,0.432
+BTN,Bhután,Asia,0.0,2020,0.437
+BTN,Bhután,Asia,0.0,2021,0.44
+BTN,Bhután,Asia,0.0,2022,0.465
+BWA,Botswana,África,0.0,2015,0.447
+BWA,Botswana,África,0.0,2016,0.477
+BWA,Botswana,África,0.0,2017,0.484
+BWA,Botswana,África,0.0,2018,0.48
+BWA,Botswana,África,0.0,2019,0.483
+BWA,Botswana,África,0.0,2020,0.483
+BWA,Botswana,África,0.0,2021,0.469
+BWA,Botswana,África,0.0,2022,0.488
+CAF,Rep. Centroafricana,África,0.0,2010,0.184
+CAF,Rep. Centroafricana,África,0.0,2011,0.189
+CAF,Rep. Centroafricana,África,0.0,2012,0.194
+CAF,Rep. Centroafricana,África,0.0,2013,0.184
+CAF,Rep. Centroafricana,África,0.0,2014,0.185
+CAF,Rep. Centroafricana,África,0.0,2015,0.194
+CAF,Rep. Centroafricana,África,0.0,2016,0.198
+CAF,Rep. Centroafricana,África,0.0,2017,0.202
+CAF,Rep. Centroafricana,África,0.0,2018,0.206
+CAF,Rep. Centroafricana,África,0.0,2019,0.21
+CAF,Rep. Centroafricana,África,0.0,2020,0.21
+CAF,Rep. Centroafricana,África,0.0,2021,0.236
+CAF,Rep. Centroafricana,África,0.0,2022,0.237
+CAN,Canadá,"América del Norte, Central y el Caribe",0.0,2010,0.832
+CAN,Canadá,"América del Norte, Central y el Caribe",0.0,2011,0.838
+CAN,Canadá,"América del Norte, Central y el Caribe",0.0,2012,0.841
+CAN,Canadá,"América del Norte, Central y el Caribe",0.0,2013,0.842
+CAN,Canadá,"América del Norte, Central y el Caribe",0.0,2014,0.848
+CAN,Canadá,"América del Norte, Central y el Caribe",0.0,2015,0.846
+CAN,Canadá,"América del Norte, Central y el Caribe",0.0,2016,0.851
+CAN,Canadá,"América del Norte, Central y el Caribe",0.0,2017,0.851
+CAN,Canadá,"América del Norte, Central y el Caribe",0.0,2018,0.855
+CAN,Canadá,"América del Norte, Central y el Caribe",0.0,2019,0.86
+CAN,Canadá,"América del Norte, Central y el Caribe",0.0,2020,0.857
+CAN,Canadá,"América del Norte, Central y el Caribe",0.0,2021,0.862
+CAN,Canadá,"América del Norte, Central y el Caribe",0.0,2022,0.864
+CHE,Suiza,Europa,0.0,2010,0.867
+CHE,Suiza,Europa,0.0,2011,0.867
+CHE,Suiza,Europa,0.0,2012,0.874
+CHE,Suiza,Europa,0.0,2013,0.879
+CHE,Suiza,Europa,0.0,2014,0.879
+CHE,Suiza,Europa,0.0,2015,0.879
+CHE,Suiza,Europa,0.0,2016,0.883
+CHE,Suiza,Europa,0.0,2017,0.881
+CHE,Suiza,Europa,0.0,2018,0.884
+CHE,Suiza,Europa,0.0,2019,0.886
+CHE,Suiza,Europa,0.0,2020,0.879
+CHE,Suiza,Europa,0.0,2021,0.889
+CHE,Suiza,Europa,0.0,2022,0.891
+CHL,Chile,América del Sur,0.0,2010,0.663
+CHL,Chile,América del Sur,0.0,2011,0.673
+CHL,Chile,América del Sur,0.0,2012,0.68
+CHL,Chile,América del Sur,0.0,2013,0.696
+CHL,Chile,América del Sur,0.0,2014,0.699
+CHL,Chile,América del Sur,0.0,2015,0.71
+CHL,Chile,América del Sur,0.0,2016,0.714
+CHL,Chile,América del Sur,0.0,2017,0.714
+CHL,Chile,América del Sur,0.0,2018,0.716
+CHL,Chile,América del Sur,0.0,2019,0.718
+CHL,Chile,América del Sur,0.0,2020,0.695
+CHL,Chile,América del Sur,0.0,2021,0.701
+CHL,Chile,América del Sur,0.0,2022,0.704
+CHN,China,Asia,0.0,2013,0.594
+CHN,China,Asia,0.0,2014,0.611
+CHN,China,Asia,0.0,2015,0.614
+CHN,China,Asia,0.0,2016,0.621
+CHN,China,Asia,0.0,2017,0.627
+CHN,China,Asia,0.0,2018,0.637
+CHN,China,Asia,0.0,2019,0.648
+CHN,China,Asia,0.0,2020,0.654
+CHN,China,Asia,0.0,2021,0.659
+CHN,China,Asia,0.0,2022,0.662
+CIV,Costa de Marfil,África,0.0,2010,0.273
+CIV,Costa de Marfil,África,0.0,2011,0.269
+CIV,Costa de Marfil,África,0.0,2012,0.274
+CIV,Costa de Marfil,África,0.0,2013,0.278
+CIV,Costa de Marfil,África,0.0,2014,0.29
+CIV,Costa de Marfil,África,0.0,2015,0.275
+CIV,Costa de Marfil,África,0.0,2016,0.278
+CIV,Costa de Marfil,África,0.0,2017,0.284
+CIV,Costa de Marfil,África,0.0,2018,0.288
+CIV,Costa de Marfil,África,0.0,2019,0.314
+CIV,Costa de Marfil,África,0.0,2020,0.317
+CIV,Costa de Marfil,África,0.0,2021,0.316
+CIV,Costa de Marfil,África,0.0,2022,0.318
+CMR,Camerún,África,0.0,2011,0.322
+CMR,Camerún,África,0.0,2012,0.331
+CMR,Camerún,África,0.0,2013,0.338
+CMR,Camerún,África,0.0,2014,0.328
+CMR,Camerún,África,0.0,2015,0.335
+CMR,Camerún,África,0.0,2016,0.339
+CMR,Camerún,África,0.0,2017,0.345
+CMR,Camerún,África,0.0,2018,0.352
+CMR,Camerún,África,0.0,2019,0.357
+CMR,Camerún,África,0.0,2020,0.357
+CMR,Camerún,África,0.0,2021,0.356
+CMR,Camerún,África,0.0,2022,0.362
+COD,Rep. Dem. Congo,África,0.0,2010,0.263
+COD,Rep. Dem. Congo,África,0.0,2011,0.269
+COD,Rep. Dem. Congo,África,0.0,2012,0.272
+COD,Rep. Dem. Congo,África,0.0,2013,0.277
+COD,Rep. Dem. Congo,África,0.0,2014,0.284
+COD,Rep. Dem. Congo,África,0.0,2015,0.29
+COD,Rep. Dem. Congo,África,0.0,2016,0.297
+COD,Rep. Dem. Congo,África,0.0,2017,0.301
+COD,Rep. Dem. Congo,África,0.0,2018,0.305
+COD,Rep. Dem. Congo,África,0.0,2019,0.308
+COD,Rep. Dem. Congo,África,0.0,2020,0.309
+COD,Rep. Dem. Congo,África,0.0,2021,0.309
+COD,Rep. Dem. Congo,África,0.0,2022,0.315
+COG,Congo,África,0.0,2010,0.375
+COG,Congo,África,0.0,2011,0.385
+COG,Congo,África,0.0,2012,0.381
+COG,Congo,África,0.0,2013,0.385
+COG,Congo,África,0.0,2014,0.393
+COG,Congo,África,0.0,2015,0.395
+COG,Congo,África,0.0,2016,0.393
+COG,Congo,África,0.0,2017,0.39
+COG,Congo,África,0.0,2018,0.393
+COG,Congo,África,0.0,2019,0.385
+COG,Congo,África,0.0,2020,0.39
+COG,Congo,África,0.0,2021,0.392
+COG,Congo,África,0.0,2022,0.385
+COL,Colombia,América del Sur,0.0,2010,0.537
+COL,Colombia,América del Sur,0.0,2011,0.546
+COL,Colombia,América del Sur,0.0,2012,0.552
+COL,Colombia,América del Sur,0.0,2013,0.561
+COL,Colombia,América del Sur,0.0,2014,0.567
+COL,Colombia,América del Sur,0.0,2015,0.579
+COL,Colombia,América del Sur,0.0,2016,0.585
+COL,Colombia,América del Sur,0.0,2017,0.591
+COL,Colombia,América del Sur,0.0,2018,0.592
+COL,Colombia,América del Sur,0.0,2019,0.587
+COL,Colombia,América del Sur,0.0,2020,0.567
+COL,Colombia,América del Sur,0.0,2021,0.563
+COL,Colombia,América del Sur,0.0,2022,0.568
+COM,Comoras,África,0.0,2014,0.308
+COM,Comoras,África,0.0,2015,0.312
+COM,Comoras,África,0.0,2016,0.317
+COM,Comoras,África,0.0,2017,0.322
+COM,Comoras,África,0.0,2018,0.327
+COM,Comoras,África,0.0,2019,0.331
+COM,Comoras,África,0.0,2020,0.334
+COM,Comoras,África,0.0,2021,0.333
+COM,Comoras,África,0.0,2022,0.334
+CPV,Cabo Verde,África,0.0,2015,0.463
+CPV,Cabo Verde,África,0.0,2016,0.469
+CPV,Cabo Verde,África,0.0,2017,0.473
+CPV,Cabo Verde,África,0.0,2018,0.471
+CPV,Cabo Verde,África,0.0,2019,0.474
+CPV,Cabo Verde,África,0.0,2020,0.462
+CPV,Cabo Verde,África,0.0,2021,0.463
+CPV,Cabo Verde,África,0.0,2022,0.471
+CRI,Costa Rica,"América del Norte, Central y el Caribe",0.0,2010,0.62
+CRI,Costa Rica,"América del Norte, Central y el Caribe",0.0,2011,0.626
+CRI,Costa Rica,"América del Norte, Central y el Caribe",0.0,2012,0.629
+CRI,Costa Rica,"América del Norte, Central y el Caribe",0.0,2013,0.631
+CRI,Costa Rica,"América del Norte, Central y el Caribe",0.0,2014,0.639
+CRI,Costa Rica,"América del Norte, Central y el Caribe",0.0,2015,0.64
+CRI,Costa Rica,"América del Norte, Central y el Caribe",0.0,2016,0.643
+CRI,Costa Rica,"América del Norte, Central y el Caribe",0.0,2017,0.65
+CRI,Costa Rica,"América del Norte, Central y el Caribe",0.0,2018,0.654
+CRI,Costa Rica,"América del Norte, Central y el Caribe",0.0,2019,0.661
+CRI,Costa Rica,"América del Norte, Central y el Caribe",0.0,2020,0.663
+CRI,Costa Rica,"América del Norte, Central y el Caribe",0.0,2021,0.654
+CRI,Costa Rica,"América del Norte, Central y el Caribe",0.0,2022,0.656
+CYP,Chipre,Europa,0.0,2010,0.76
+CYP,Chipre,Europa,0.0,2011,0.765
+CYP,Chipre,Europa,0.0,2012,0.765
+CYP,Chipre,Europa,0.0,2013,0.764
+CYP,Chipre,Europa,0.0,2014,0.761
+CYP,Chipre,Europa,0.0,2015,0.775
+CYP,Chipre,Europa,0.0,2016,0.785
+CYP,Chipre,Europa,0.0,2017,0.8
+CYP,Chipre,Europa,0.0,2018,0.81
+CYP,Chipre,Europa,0.0,2019,0.812
+CYP,Chipre,Europa,0.0,2020,0.818
+CYP,Chipre,Europa,0.0,2021,0.818
+CYP,Chipre,Europa,0.0,2022,0.827
+CZE,Chequia,Europa,0.0,2010,0.827
+CZE,Chequia,Europa,0.0,2011,0.828
+CZE,Chequia,Europa,0.0,2012,0.83
+CZE,Chequia,Europa,0.0,2013,0.836
+CZE,Chequia,Europa,0.0,2014,0.841
+CZE,Chequia,Europa,0.0,2015,0.843
+CZE,Chequia,Europa,0.0,2016,0.845
+CZE,Chequia,Europa,0.0,2017,0.85
+CZE,Chequia,Europa,0.0,2018,0.849
+CZE,Chequia,Europa,0.0,2019,0.851
+CZE,Chequia,Europa,0.0,2020,0.847
+CZE,Chequia,Europa,0.0,2021,0.844
+CZE,Chequia,Europa,0.0,2022,0.848
+DEU,Alemania,Europa,0.0,2010,0.864
+DEU,Alemania,Europa,0.0,2011,0.87
+DEU,Alemania,Europa,0.0,2012,0.871
+DEU,Alemania,Europa,0.0,2013,0.87
+DEU,Alemania,Europa,0.0,2014,0.872
+DEU,Alemania,Europa,0.0,2015,0.872
+DEU,Alemania,Europa,0.0,2016,0.87
+DEU,Alemania,Europa,0.0,2017,0.874
+DEU,Alemania,Europa,0.0,2018,0.872
+DEU,Alemania,Europa,0.0,2019,0.879
+DEU,Alemania,Europa,0.0,2020,0.874
+DEU,Alemania,Europa,0.0,2021,0.872
+DEU,Alemania,Europa,0.0,2022,0.881
+DJI,Djibouti,África,0.0,2012,0.278
+DJI,Djibouti,África,0.0,2013,0.288
+DJI,Djibouti,África,0.0,2014,0.295
+DJI,Djibouti,África,0.0,2015,0.302
+DJI,Djibouti,África,0.0,2016,0.308
+DJI,Djibouti,África,0.0,2017,0.321
+DJI,Djibouti,África,0.0,2018,0.327
+DJI,Djibouti,África,0.0,2019,0.333
+DJI,Djibouti,África,0.0,2020,0.337
+DJI,Djibouti,África,0.0,2021,0.338
+DJI,Djibouti,África,0.0,2022,0.341
+DNK,Dinamarca,Europa,0.0,2014,0.876
+DNK,Dinamarca,Europa,0.0,2015,0.881
+DNK,Dinamarca,Europa,0.0,2016,0.887
+DNK,Dinamarca,Europa,0.0,2017,0.887
+DNK,Dinamarca,Europa,0.0,2018,0.885
+DNK,Dinamarca,Europa,0.0,2019,0.891
+DNK,Dinamarca,Europa,0.0,2020,0.891
+DNK,Dinamarca,Europa,0.0,2021,0.895
+DNK,Dinamarca,Europa,0.0,2022,0.898
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",0.0,2010,0.537
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",0.0,2011,0.541
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",0.0,2012,0.552
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",0.0,2013,0.55
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",0.0,2014,0.564
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",0.0,2015,0.573
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",0.0,2016,0.601
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",0.0,2017,0.605
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",0.0,2018,0.605
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",0.0,2019,0.611
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",0.0,2020,0.616
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",0.0,2021,0.616
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",0.0,2022,0.627
+DZA,Argelia,África,0.0,2012,0.565
+DZA,Argelia,África,0.0,2013,0.567
+DZA,Argelia,África,0.0,2014,0.571
+DZA,Argelia,África,0.0,2015,0.574
+DZA,Argelia,África,0.0,2016,0.576
+DZA,Argelia,África,0.0,2017,0.577
+DZA,Argelia,África,0.0,2018,0.579
+DZA,Argelia,África,0.0,2019,0.582
+DZA,Argelia,África,0.0,2020,0.573
+DZA,Argelia,África,0.0,2021,0.582
+DZA,Argelia,África,0.0,2022,0.588
+ECU,Ecuador,América del Sur,0.0,2010,0.575
+ECU,Ecuador,América del Sur,0.0,2011,0.595
+ECU,Ecuador,América del Sur,0.0,2012,0.598
+ECU,Ecuador,América del Sur,0.0,2013,0.606
+ECU,Ecuador,América del Sur,0.0,2014,0.62
+ECU,Ecuador,América del Sur,0.0,2015,0.622
+ECU,Ecuador,América del Sur,0.0,2016,0.623
+ECU,Ecuador,América del Sur,0.0,2017,0.626
+ECU,Ecuador,América del Sur,0.0,2018,0.622
+ECU,Ecuador,América del Sur,0.0,2019,0.621
+ECU,Ecuador,América del Sur,0.0,2020,0.6
+ECU,Ecuador,América del Sur,0.0,2021,0.614
+ECU,Ecuador,América del Sur,0.0,2022,0.63
+EGY,Egipto,África,0.0,2010,0.497
+EGY,Egipto,África,0.0,2011,0.503
+EGY,Egipto,África,0.0,2012,0.518
+EGY,Egipto,África,0.0,2013,0.525
+EGY,Egipto,África,0.0,2014,0.532
+EGY,Egipto,África,0.0,2015,0.528
+EGY,Egipto,África,0.0,2016,0.534
+EGY,Egipto,África,0.0,2017,0.541
+EGY,Egipto,África,0.0,2018,0.55
+EGY,Egipto,África,0.0,2019,0.556
+EGY,Egipto,África,0.0,2020,0.561
+EGY,Egipto,África,0.0,2021,0.56
+EGY,Egipto,África,0.0,2022,0.561
+ESP,España,Europa,0.0,2014,0.748
+ESP,España,Europa,0.0,2015,0.752
+ESP,España,Europa,0.0,2016,0.758
+ESP,España,Europa,0.0,2017,0.767
+ESP,España,Europa,0.0,2018,0.776
+ESP,España,Europa,0.0,2019,0.781
+ESP,España,Europa,0.0,2020,0.776
+ESP,España,Europa,0.0,2021,0.78
+ESP,España,Europa,0.0,2022,0.796
+EST,Estonia,Europa,0.0,2010,0.797
+EST,Estonia,Europa,0.0,2011,0.802
+EST,Estonia,Europa,0.0,2012,0.804
+EST,Estonia,Europa,0.0,2013,0.811
+EST,Estonia,Europa,0.0,2014,0.799
+EST,Estonia,Europa,0.0,2015,0.802
+EST,Estonia,Europa,0.0,2016,0.804
+EST,Estonia,Europa,0.0,2017,0.821
+EST,Estonia,Europa,0.0,2018,0.828
+EST,Estonia,Europa,0.0,2019,0.833
+EST,Estonia,Europa,0.0,2020,0.83
+EST,Estonia,Europa,0.0,2021,0.829
+EST,Estonia,Europa,0.0,2022,0.835
+ETH,Etiopía,África,0.0,2011,0.264
+ETH,Etiopía,África,0.0,2012,0.27
+ETH,Etiopía,África,0.0,2013,0.277
+ETH,Etiopía,África,0.0,2014,0.284
+ETH,Etiopía,África,0.0,2015,0.292
+ETH,Etiopía,África,0.0,2016,0.297
+ETH,Etiopía,África,0.0,2017,0.303
+ETH,Etiopía,África,0.0,2018,0.309
+ETH,Etiopía,África,0.0,2019,0.316
+ETH,Etiopía,África,0.0,2020,0.319
+ETH,Etiopía,África,0.0,2021,0.32
+ETH,Etiopía,África,0.0,2022,0.324
+FIN,Finlandia,Europa,0.0,2010,0.856
+FIN,Finlandia,Europa,0.0,2011,0.861
+FIN,Finlandia,Europa,0.0,2012,0.861
+FIN,Finlandia,Europa,0.0,2013,0.872
+FIN,Finlandia,Europa,0.0,2014,0.874
+FIN,Finlandia,Europa,0.0,2015,0.878
+FIN,Finlandia,Europa,0.0,2016,0.879
+FIN,Finlandia,Europa,0.0,2017,0.881
+FIN,Finlandia,Europa,0.0,2018,0.882
+FIN,Finlandia,Europa,0.0,2019,0.885
+FIN,Finlandia,Europa,0.0,2020,0.884
+FIN,Finlandia,Europa,0.0,2021,0.889
+FIN,Finlandia,Europa,0.0,2022,0.886
+FJI,Fiji,Oceanía,0.0,2021,0.614
+FJI,Fiji,Oceanía,0.0,2022,0.632
+FRA,Francia,Europa,0.0,2010,0.789
+FRA,Francia,Europa,0.0,2011,0.795
+FRA,Francia,Europa,0.0,2012,0.798
+FRA,Francia,Europa,0.0,2013,0.806
+FRA,Francia,Europa,0.0,2014,0.806
+FRA,Francia,Europa,0.0,2015,0.808
+FRA,Francia,Europa,0.0,2016,0.811
+FRA,Francia,Europa,0.0,2017,0.809
+FRA,Francia,Europa,0.0,2018,0.809
+FRA,Francia,Europa,0.0,2019,0.81
+FRA,Francia,Europa,0.0,2020,0.811
+FRA,Francia,Europa,0.0,2021,0.82
+FRA,Francia,Europa,0.0,2022,0.82
+GAB,Gabón,África,0.0,2012,0.485
+GAB,Gabón,África,0.0,2013,0.491
+GAB,Gabón,África,0.0,2014,0.499
+GAB,Gabón,África,0.0,2015,0.504
+GAB,Gabón,África,0.0,2016,0.509
+GAB,Gabón,África,0.0,2017,0.52
+GAB,Gabón,África,0.0,2018,0.521
+GAB,Gabón,África,0.0,2019,0.53
+GAB,Gabón,África,0.0,2020,0.533
+GAB,Gabón,África,0.0,2021,0.521
+GAB,Gabón,África,0.0,2022,0.526
+GBR,Reino Unido,Europa,0.0,2010,0.832
+GBR,Reino Unido,Europa,0.0,2011,0.834
+GBR,Reino Unido,Europa,0.0,2012,0.837
+GBR,Reino Unido,Europa,0.0,2013,0.85
+GBR,Reino Unido,Europa,0.0,2014,0.851
+GBR,Reino Unido,Europa,0.0,2015,0.847
+GBR,Reino Unido,Europa,0.0,2016,0.849
+GBR,Reino Unido,Europa,0.0,2017,0.854
+GBR,Reino Unido,Europa,0.0,2018,0.853
+GBR,Reino Unido,Europa,0.0,2019,0.854
+GBR,Reino Unido,Europa,0.0,2020,0.844
+GBR,Reino Unido,Europa,0.0,2021,0.855
+GBR,Reino Unido,Europa,0.0,2022,0.865
+GEO,Georgia,Asia,0.0,2010,0.642
+GEO,Georgia,Asia,0.0,2011,0.644
+GEO,Georgia,Asia,0.0,2012,0.669
+GEO,Georgia,Asia,0.0,2013,0.681
+GEO,Georgia,Asia,0.0,2014,0.688
+GEO,Georgia,Asia,0.0,2015,0.698
+GEO,Georgia,Asia,0.0,2016,0.701
+GEO,Georgia,Asia,0.0,2017,0.694
+GEO,Georgia,Asia,0.0,2018,0.717
+GEO,Georgia,Asia,0.0,2019,0.715
+GEO,Georgia,Asia,0.0,2020,0.717
+GEO,Georgia,Asia,0.0,2021,0.723
+GEO,Georgia,Asia,0.0,2022,0.728
+GHA,Ghana,África,0.0,2010,0.341
+GHA,Ghana,África,0.0,2011,0.355
+GHA,Ghana,África,0.0,2012,0.359
+GHA,Ghana,África,0.0,2013,0.367
+GHA,Ghana,África,0.0,2014,0.369
+GHA,Ghana,África,0.0,2015,0.372
+GHA,Ghana,África,0.0,2016,0.373
+GHA,Ghana,África,0.0,2017,0.363
+GHA,Ghana,África,0.0,2018,0.366
+GHA,Ghana,África,0.0,2019,0.374
+GHA,Ghana,África,0.0,2020,0.375
+GHA,Ghana,África,0.0,2021,0.376
+GHA,Ghana,África,0.0,2022,0.378
+GIN,Guinea,África,0.0,2010,0.243
+GIN,Guinea,África,0.0,2011,0.247
+GIN,Guinea,África,0.0,2012,0.249
+GIN,Guinea,África,0.0,2013,0.252
+GIN,Guinea,África,0.0,2014,0.256
+GIN,Guinea,África,0.0,2015,0.265
+GIN,Guinea,África,0.0,2016,0.271
+GIN,Guinea,África,0.0,2017,0.272
+GIN,Guinea,África,0.0,2018,0.272
+GIN,Guinea,África,0.0,2019,0.282
+GIN,Guinea,África,0.0,2020,0.284
+GIN,Guinea,África,0.0,2021,0.283
+GIN,Guinea,África,0.0,2022,0.285
+GMB,Gambia,África,0.0,2011,0.263
+GMB,Gambia,África,0.0,2012,0.268
+GMB,Gambia,África,0.0,2013,0.269
+GMB,Gambia,África,0.0,2014,0.271
+GMB,Gambia,África,0.0,2015,0.275
+GMB,Gambia,África,0.0,2016,0.292
+GMB,Gambia,África,0.0,2017,0.295
+GMB,Gambia,África,0.0,2018,0.303
+GMB,Gambia,África,0.0,2019,0.311
+GMB,Gambia,África,0.0,2020,0.312
+GMB,Gambia,África,0.0,2021,0.306
+GMB,Gambia,África,0.0,2022,0.311
+GNB,Guinea-Bissau,África,0.0,2010,0.243
+GNB,Guinea-Bissau,África,0.0,2011,0.25
+GNB,Guinea-Bissau,África,0.0,2012,0.253
+GNB,Guinea-Bissau,África,0.0,2013,0.257
+GNB,Guinea-Bissau,África,0.0,2014,0.259
+GNB,Guinea-Bissau,África,0.0,2015,0.263
+GNB,Guinea-Bissau,África,0.0,2016,0.267
+GNB,Guinea-Bissau,África,0.0,2017,0.27
+GNB,Guinea-Bissau,África,0.0,2018,0.271
+GNB,Guinea-Bissau,África,0.0,2019,0.311
+GNB,Guinea-Bissau,África,0.0,2020,0.309
+GNB,Guinea-Bissau,África,0.0,2021,0.309
+GNB,Guinea-Bissau,África,0.0,2022,0.31
+GRC,Grecia,Europa,0.0,2010,0.764
+GRC,Grecia,Europa,0.0,2011,0.761
+GRC,Grecia,Europa,0.0,2012,0.762
+GRC,Grecia,Europa,0.0,2013,0.765
+GRC,Grecia,Europa,0.0,2014,0.765
+GRC,Grecia,Europa,0.0,2015,0.768
+GRC,Grecia,Europa,0.0,2016,0.766
+GRC,Grecia,Europa,0.0,2017,0.773
+GRC,Grecia,Europa,0.0,2018,0.788
+GRC,Grecia,Europa,0.0,2019,0.795
+GRC,Grecia,Europa,0.0,2020,0.79
+GRC,Grecia,Europa,0.0,2021,0.787
+GRC,Grecia,Europa,0.0,2022,0.801
+GTM,Guatemala,"América del Norte, Central y el Caribe",0.0,2011,0.428
+GTM,Guatemala,"América del Norte, Central y el Caribe",0.0,2012,0.431
+GTM,Guatemala,"América del Norte, Central y el Caribe",0.0,2013,0.434
+GTM,Guatemala,"América del Norte, Central y el Caribe",0.0,2014,0.46
+GTM,Guatemala,"América del Norte, Central y el Caribe",0.0,2015,0.449
+GTM,Guatemala,"América del Norte, Central y el Caribe",0.0,2016,0.453
+GTM,Guatemala,"América del Norte, Central y el Caribe",0.0,2017,0.456
+GTM,Guatemala,"América del Norte, Central y el Caribe",0.0,2018,0.459
+GTM,Guatemala,"América del Norte, Central y el Caribe",0.0,2019,0.464
+GTM,Guatemala,"América del Norte, Central y el Caribe",0.0,2020,0.46
+GTM,Guatemala,"América del Norte, Central y el Caribe",0.0,2021,0.455
+GTM,Guatemala,"América del Norte, Central y el Caribe",0.0,2022,0.453
+HKG,Hong Kong,Asia,0.0,2010,0.793
+HKG,Hong Kong,Asia,0.0,2011,0.8
+HKG,Hong Kong,Asia,0.0,2012,0.803
+HKG,Hong Kong,Asia,0.0,2013,0.806
+HKG,Hong Kong,Asia,0.0,2014,0.814
+HKG,Hong Kong,Asia,0.0,2015,0.818
+HKG,Hong Kong,Asia,0.0,2016,0.821
+HKG,Hong Kong,Asia,0.0,2017,0.829
+HKG,Hong Kong,Asia,0.0,2018,0.832
+HKG,Hong Kong,Asia,0.0,2019,0.836
+HKG,Hong Kong,Asia,0.0,2020,0.838
+HKG,Hong Kong,Asia,0.0,2021,0.841
+HKG,Hong Kong,Asia,0.0,2022,0.84
+HND,Honduras,"América del Norte, Central y el Caribe",0.0,2010,0.442
+HND,Honduras,"América del Norte, Central y el Caribe",0.0,2011,0.433
+HND,Honduras,"América del Norte, Central y el Caribe",0.0,2012,0.435
+HND,Honduras,"América del Norte, Central y el Caribe",0.0,2013,0.451
+HND,Honduras,"América del Norte, Central y el Caribe",0.0,2014,0.463
+HND,Honduras,"América del Norte, Central y el Caribe",0.0,2015,0.473
+HND,Honduras,"América del Norte, Central y el Caribe",0.0,2016,0.474
+HND,Honduras,"América del Norte, Central y el Caribe",0.0,2017,0.473
+HND,Honduras,"América del Norte, Central y el Caribe",0.0,2018,0.474
+HND,Honduras,"América del Norte, Central y el Caribe",0.0,2019,0.483
+HND,Honduras,"América del Norte, Central y el Caribe",0.0,2020,0.477
+HND,Honduras,"América del Norte, Central y el Caribe",0.0,2021,0.476
+HND,Honduras,"América del Norte, Central y el Caribe",0.0,2022,0.48
+HRV,Croacia,Europa,0.0,2010,0.745
+HRV,Croacia,Europa,0.0,2011,0.749
+HRV,Croacia,Europa,0.0,2012,0.755
+HRV,Croacia,Europa,0.0,2013,0.763
+HRV,Croacia,Europa,0.0,2014,0.768
+HRV,Croacia,Europa,0.0,2015,0.77
+HRV,Croacia,Europa,0.0,2016,0.779
+HRV,Croacia,Europa,0.0,2017,0.784
+HRV,Croacia,Europa,0.0,2018,0.79
+HRV,Croacia,Europa,0.0,2019,0.799
+HRV,Croacia,Europa,0.0,2020,0.797
+HRV,Croacia,Europa,0.0,2021,0.802
+HRV,Croacia,Europa,0.0,2022,0.817
+HTI,Haití,"América del Norte, Central y el Caribe",0.0,2012,0.315
+HTI,Haití,"América del Norte, Central y el Caribe",0.0,2013,0.319
+HTI,Haití,"América del Norte, Central y el Caribe",0.0,2014,0.323
+HTI,Haití,"América del Norte, Central y el Caribe",0.0,2015,0.326
+HTI,Haití,"América del Norte, Central y el Caribe",0.0,2016,0.33
+HTI,Haití,"América del Norte, Central y el Caribe",0.0,2017,0.334
+HTI,Haití,"América del Norte, Central y el Caribe",0.0,2018,0.336
+HTI,Haití,"América del Norte, Central y el Caribe",0.0,2019,0.337
+HTI,Haití,"América del Norte, Central y el Caribe",0.0,2020,0.336
+HTI,Haití,"América del Norte, Central y el Caribe",0.0,2021,0.333
+HTI,Haití,"América del Norte, Central y el Caribe",0.0,2022,0.335
+HUN,Hungría,Europa,0.0,2010,0.766
+HUN,Hungría,Europa,0.0,2011,0.77
+HUN,Hungría,Europa,0.0,2012,0.766
+HUN,Hungría,Europa,0.0,2013,0.774
+HUN,Hungría,Europa,0.0,2014,0.773
+HUN,Hungría,Europa,0.0,2015,0.783
+HUN,Hungría,Europa,0.0,2016,0.786
+HUN,Hungría,Europa,0.0,2017,0.788
+HUN,Hungría,Europa,0.0,2018,0.794
+HUN,Hungría,Europa,0.0,2019,0.8
+HUN,Hungría,Europa,0.0,2020,0.796
+HUN,Hungría,Europa,0.0,2021,0.794
+HUN,Hungría,Europa,0.0,2022,0.8
+IDN,Indonesia,Asia,0.0,2011,0.534
+IDN,Indonesia,Asia,0.0,2012,0.541
+IDN,Indonesia,Asia,0.0,2013,0.545
+IDN,Indonesia,Asia,0.0,2014,0.552
+IDN,Indonesia,Asia,0.0,2015,0.558
+IDN,Indonesia,Asia,0.0,2016,0.568
+IDN,Indonesia,Asia,0.0,2017,0.571
+IDN,Indonesia,Asia,0.0,2018,0.578
+IDN,Indonesia,Asia,0.0,2019,0.586
+IDN,Indonesia,Asia,0.0,2020,0.586
+IDN,Indonesia,Asia,0.0,2021,0.582
+IDN,Indonesia,Asia,0.0,2022,0.588
+IND,India,Asia,0.0,2010,0.369
+IND,India,Asia,0.0,2011,0.38
+IND,India,Asia,0.0,2012,0.384
+IND,India,Asia,0.0,2013,0.39
+IND,India,Asia,0.0,2014,0.398
+IND,India,Asia,0.0,2015,0.414
+IND,India,Asia,0.0,2016,0.425
+IND,India,Asia,0.0,2017,0.43
+IND,India,Asia,0.0,2018,0.428
+IND,India,Asia,0.0,2019,0.436
+IND,India,Asia,0.0,2020,0.435
+IND,India,Asia,0.0,2021,0.433
+IND,India,Asia,0.0,2022,0.444
+IRL,Irlanda,Europa,0.0,2010,0.829
+IRL,Irlanda,Europa,0.0,2011,0.826
+IRL,Irlanda,Europa,0.0,2012,0.826
+IRL,Irlanda,Europa,0.0,2013,0.833
+IRL,Irlanda,Europa,0.0,2014,0.841
+IRL,Irlanda,Europa,0.0,2015,0.853
+IRL,Irlanda,Europa,0.0,2016,0.858
+IRL,Irlanda,Europa,0.0,2017,0.861
+IRL,Irlanda,Europa,0.0,2018,0.87
+IRL,Irlanda,Europa,0.0,2019,0.877
+IRL,Irlanda,Europa,0.0,2020,0.881
+IRL,Irlanda,Europa,0.0,2021,0.887
+IRL,Irlanda,Europa,0.0,2022,0.886
+IRN,Irán,Asia,0.0,2010,0.54
+IRN,Irán,Asia,0.0,2011,0.549
+IRN,Irán,Asia,0.0,2012,0.563
+IRN,Irán,Asia,0.0,2013,0.57
+IRN,Irán,Asia,0.0,2014,0.587
+IRN,Irán,Asia,0.0,2015,0.583
+IRN,Irán,Asia,0.0,2016,0.588
+IRN,Irán,Asia,0.0,2017,0.589
+IRN,Irán,Asia,0.0,2018,0.588
+IRN,Irán,Asia,0.0,2019,0.584
+IRN,Irán,Asia,0.0,2020,0.58
+IRN,Irán,Asia,0.0,2021,0.58
+IRN,Irán,Asia,0.0,2022,0.584
+IRQ,Iraq,Asia,0.0,2011,0.477
+IRQ,Iraq,Asia,0.0,2012,0.484
+IRQ,Iraq,Asia,0.0,2013,0.487
+IRQ,Iraq,Asia,0.0,2014,0.491
+IRQ,Iraq,Asia,0.0,2015,0.496
+IRQ,Iraq,Asia,0.0,2016,0.499
+IRQ,Iraq,Asia,0.0,2017,0.505
+IRQ,Iraq,Asia,0.0,2018,0.514
+IRQ,Iraq,Asia,0.0,2019,0.518
+IRQ,Iraq,Asia,0.0,2020,0.506
+IRQ,Iraq,Asia,0.0,2021,0.511
+IRQ,Iraq,Asia,0.0,2022,0.519
+ISL,Islandia,Europa,0.0,2010,0.866
+ISL,Islandia,Europa,0.0,2011,0.882
+ISL,Islandia,Europa,0.0,2012,0.884
+ISL,Islandia,Europa,0.0,2013,0.887
+ISL,Islandia,Europa,0.0,2014,0.896
+ISL,Islandia,Europa,0.0,2015,0.892
+ISL,Islandia,Europa,0.0,2016,0.899
+ISL,Islandia,Europa,0.0,2017,0.9
+ISL,Islandia,Europa,0.0,2018,0.909
+ISL,Islandia,Europa,0.0,2019,0.909
+ISL,Islandia,Europa,0.0,2020,0.907
+ISL,Islandia,Europa,0.0,2021,0.908
+ISL,Islandia,Europa,0.0,2022,0.91
+ISR,Israel,Asia,0.0,2010,0.763
+ISR,Israel,Asia,0.0,2011,0.769
+ISR,Israel,Asia,0.0,2012,0.769
+ISR,Israel,Asia,0.0,2013,0.784
+ISR,Israel,Asia,0.0,2014,0.787
+ISR,Israel,Asia,0.0,2015,0.788
+ISR,Israel,Asia,0.0,2016,0.794
+ISR,Israel,Asia,0.0,2017,0.799
+ISR,Israel,Asia,0.0,2018,0.802
+ISR,Israel,Asia,0.0,2019,0.803
+ISR,Israel,Asia,0.0,2020,0.801
+ISR,Israel,Asia,0.0,2021,0.805
+ISR,Israel,Asia,0.0,2022,0.808
+ITA,Italia,Europa,0.0,2010,0.77
+ITA,Italia,Europa,0.0,2011,0.769
+ITA,Italia,Europa,0.0,2012,0.771
+ITA,Italia,Europa,0.0,2013,0.774
+ITA,Italia,Europa,0.0,2014,0.765
+ITA,Italia,Europa,0.0,2015,0.767
+ITA,Italia,Europa,0.0,2016,0.766
+ITA,Italia,Europa,0.0,2017,0.775
+ITA,Italia,Europa,0.0,2018,0.779
+ITA,Italia,Europa,0.0,2019,0.788
+ITA,Italia,Europa,0.0,2020,0.786
+ITA,Italia,Europa,0.0,2021,0.792
+ITA,Italia,Europa,0.0,2022,0.802
+JAM,Jamaica,"América del Norte, Central y el Caribe",0.0,2011,0.585
+JAM,Jamaica,"América del Norte, Central y el Caribe",0.0,2012,0.588
+JAM,Jamaica,"América del Norte, Central y el Caribe",0.0,2013,0.576
+JAM,Jamaica,"América del Norte, Central y el Caribe",0.0,2014,0.591
+JAM,Jamaica,"América del Norte, Central y el Caribe",0.0,2015,0.588
+JAM,Jamaica,"América del Norte, Central y el Caribe",0.0,2016,0.588
+JAM,Jamaica,"América del Norte, Central y el Caribe",0.0,2017,0.589
+JAM,Jamaica,"América del Norte, Central y el Caribe",0.0,2018,0.588
+JAM,Jamaica,"América del Norte, Central y el Caribe",0.0,2019,0.589
+JAM,Jamaica,"América del Norte, Central y el Caribe",0.0,2020,0.585
+JAM,Jamaica,"América del Norte, Central y el Caribe",0.0,2021,0.582
+JAM,Jamaica,"América del Norte, Central y el Caribe",0.0,2022,0.584
+JOR,Jordania,Asia,0.0,2010,0.582
+JOR,Jordania,Asia,0.0,2011,0.581
+JOR,Jordania,Asia,0.0,2012,0.601
+JOR,Jordania,Asia,0.0,2013,0.603
+JOR,Jordania,Asia,0.0,2014,0.608
+JOR,Jordania,Asia,0.0,2015,0.609
+JOR,Jordania,Asia,0.0,2016,0.611
+JOR,Jordania,Asia,0.0,2017,0.619
+JOR,Jordania,Asia,0.0,2018,0.618
+JOR,Jordania,Asia,0.0,2019,0.621
+JOR,Jordania,Asia,0.0,2020,0.617
+JOR,Jordania,Asia,0.0,2021,0.614
+JOR,Jordania,Asia,0.0,2022,0.615
+JPN,Japón,Asia,0.0,2010,0.818
+JPN,Japón,Asia,0.0,2011,0.83
+JPN,Japón,Asia,0.0,2012,0.834
+JPN,Japón,Asia,0.0,2013,0.837
+JPN,Japón,Asia,0.0,2014,0.834
+JPN,Japón,Asia,0.0,2015,0.836
+JPN,Japón,Asia,0.0,2016,0.837
+JPN,Japón,Asia,0.0,2017,0.839
+JPN,Japón,Asia,0.0,2018,0.84
+JPN,Japón,Asia,0.0,2019,0.841
+JPN,Japón,Asia,0.0,2020,0.841
+JPN,Japón,Asia,0.0,2021,0.843
+JPN,Japón,Asia,0.0,2022,0.844
+KAZ,Kazajstán,Asia,0.0,2010,0.679
+KAZ,Kazajstán,Asia,0.0,2011,0.689
+KAZ,Kazajstán,Asia,0.0,2012,0.698
+KAZ,Kazajstán,Asia,0.0,2013,0.709
+KAZ,Kazajstán,Asia,0.0,2014,0.715
+KAZ,Kazajstán,Asia,0.0,2015,0.729
+KAZ,Kazajstán,Asia,0.0,2016,0.728
+KAZ,Kazajstán,Asia,0.0,2017,0.733
+KAZ,Kazajstán,Asia,0.0,2018,0.735
+KAZ,Kazajstán,Asia,0.0,2019,0.74
+KAZ,Kazajstán,Asia,0.0,2020,0.737
+KAZ,Kazajstán,Asia,0.0,2021,0.733
+KAZ,Kazajstán,Asia,0.0,2022,0.734
+KEN,Kenia,África,0.0,2010,0.35
+KEN,Kenia,África,0.0,2011,0.356
+KEN,Kenia,África,0.0,2012,0.359
+KEN,Kenia,África,0.0,2013,0.363
+KEN,Kenia,África,0.0,2014,0.374
+KEN,Kenia,África,0.0,2015,0.379
+KEN,Kenia,África,0.0,2016,0.408
+KEN,Kenia,África,0.0,2017,0.413
+KEN,Kenia,África,0.0,2018,0.418
+KEN,Kenia,África,0.0,2019,0.423
+KEN,Kenia,África,0.0,2020,0.433
+KEN,Kenia,África,0.0,2021,0.427
+KEN,Kenia,África,0.0,2022,0.438
+KGZ,Kirguistán,Asia,0.0,2010,0.573
+KGZ,Kirguistán,Asia,0.0,2011,0.581
+KGZ,Kirguistán,Asia,0.0,2012,0.594
+KGZ,Kirguistán,Asia,0.0,2013,0.6
+KGZ,Kirguistán,Asia,0.0,2014,0.611
+KGZ,Kirguistán,Asia,0.0,2015,0.611
+KGZ,Kirguistán,Asia,0.0,2016,0.618
+KGZ,Kirguistán,Asia,0.0,2017,0.621
+KGZ,Kirguistán,Asia,0.0,2018,0.629
+KGZ,Kirguistán,Asia,0.0,2019,0.627
+KGZ,Kirguistán,Asia,0.0,2020,0.622
+KGZ,Kirguistán,Asia,0.0,2021,0.627
+KGZ,Kirguistán,Asia,0.0,2022,0.634
+KHM,Camboya,Asia,0.0,2010,0.386
+KHM,Camboya,Asia,0.0,2011,0.397
+KHM,Camboya,Asia,0.0,2012,0.405
+KHM,Camboya,Asia,0.0,2013,0.409
+KHM,Camboya,Asia,0.0,2014,0.404
+KHM,Camboya,Asia,0.0,2015,0.409
+KHM,Camboya,Asia,0.0,2016,0.416
+KHM,Camboya,Asia,0.0,2017,0.424
+KHM,Camboya,Asia,0.0,2018,0.429
+KHM,Camboya,Asia,0.0,2019,0.436
+KHM,Camboya,Asia,0.0,2020,0.437
+KHM,Camboya,Asia,0.0,2021,0.436
+KHM,Camboya,Asia,0.0,2022,0.438
+KIR,Kiribati,Oceanía,0.0,2018,0.509
+KIR,Kiribati,Oceanía,0.0,2019,0.516
+KIR,Kiribati,Oceanía,0.0,2020,0.527
+KIR,Kiribati,Oceanía,0.0,2021,0.526
+KIR,Kiribati,Oceanía,0.0,2022,0.528
+KOR,Corea del Sur,Asia,0.0,2010,0.794
+KOR,Corea del Sur,Asia,0.0,2011,0.799
+KOR,Corea del Sur,Asia,0.0,2012,0.803
+KOR,Corea del Sur,Asia,0.0,2013,0.807
+KOR,Corea del Sur,Asia,0.0,2014,0.813
+KOR,Corea del Sur,Asia,0.0,2015,0.821
+KOR,Corea del Sur,Asia,0.0,2016,0.824
+KOR,Corea del Sur,Asia,0.0,2017,0.828
+KOR,Corea del Sur,Asia,0.0,2018,0.83
+KOR,Corea del Sur,Asia,0.0,2019,0.834
+KOR,Corea del Sur,Asia,0.0,2020,0.834
+KOR,Corea del Sur,Asia,0.0,2021,0.838
+KOR,Corea del Sur,Asia,0.0,2022,0.841
+LAO,Laos,Asia,0.0,2010,0.407
+LAO,Laos,Asia,0.0,2011,0.411
+LAO,Laos,Asia,0.0,2012,0.419
+LAO,Laos,Asia,0.0,2013,0.426
+LAO,Laos,Asia,0.0,2014,0.436
+LAO,Laos,Asia,0.0,2015,0.442
+LAO,Laos,Asia,0.0,2016,0.448
+LAO,Laos,Asia,0.0,2017,0.457
+LAO,Laos,Asia,0.0,2018,0.459
+LAO,Laos,Asia,0.0,2019,0.458
+LAO,Laos,Asia,0.0,2020,0.459
+LAO,Laos,Asia,0.0,2021,0.46
+LAO,Laos,Asia,0.0,2022,0.466
+LBR,Liberia,África,0.0,2013,0.29
+LBR,Liberia,África,0.0,2014,0.295
+LBR,Liberia,África,0.0,2015,0.296
+LBR,Liberia,África,0.0,2016,0.298
+LBR,Liberia,África,0.0,2017,0.301
+LBR,Liberia,África,0.0,2018,0.304
+LBR,Liberia,África,0.0,2019,0.306
+LBR,Liberia,África,0.0,2020,0.306
+LBR,Liberia,África,0.0,2021,0.308
+LBR,Liberia,África,0.0,2022,0.31
+LCA,Santa Lucía,"América del Norte, Central y el Caribe",0.0,2016,0.548
+LCA,Santa Lucía,"América del Norte, Central y el Caribe",0.0,2017,0.548
+LCA,Santa Lucía,"América del Norte, Central y el Caribe",0.0,2018,0.55
+LCA,Santa Lucía,"América del Norte, Central y el Caribe",0.0,2019,0.546
+LCA,Santa Lucía,"América del Norte, Central y el Caribe",0.0,2020,0.539
+LCA,Santa Lucía,"América del Norte, Central y el Caribe",0.0,2021,0.534
+LCA,Santa Lucía,"América del Norte, Central y el Caribe",0.0,2022,0.539
+LKA,Sri Lanka,Asia,0.0,2016,0.61
+LKA,Sri Lanka,Asia,0.0,2017,0.615
+LKA,Sri Lanka,Asia,0.0,2018,0.619
+LKA,Sri Lanka,Asia,0.0,2019,0.626
+LKA,Sri Lanka,Asia,0.0,2020,0.628
+LKA,Sri Lanka,Asia,0.0,2021,0.634
+LKA,Sri Lanka,Asia,0.0,2022,0.63
+LSO,Lesotho,África,0.0,2010,0.267
+LSO,Lesotho,África,0.0,2011,0.272
+LSO,Lesotho,África,0.0,2012,0.278
+LSO,Lesotho,África,0.0,2013,0.281
+LSO,Lesotho,África,0.0,2014,0.287
+LSO,Lesotho,África,0.0,2015,0.291
+LSO,Lesotho,África,0.0,2016,0.298
+LSO,Lesotho,África,0.0,2017,0.3
+LSO,Lesotho,África,0.0,2018,0.334
+LSO,Lesotho,África,0.0,2019,0.336
+LSO,Lesotho,África,0.0,2020,0.338
+LSO,Lesotho,África,0.0,2021,0.334
+LSO,Lesotho,África,0.0,2022,0.332
+LTU,Lituania,Europa,0.0,2010,0.746
+LTU,Lituania,Europa,0.0,2011,0.765
+LTU,Lituania,Europa,0.0,2012,0.774
+LTU,Lituania,Europa,0.0,2013,0.771
+LTU,Lituania,Europa,0.0,2014,0.778
+LTU,Lituania,Europa,0.0,2015,0.771
+LTU,Lituania,Europa,0.0,2016,0.777
+LTU,Lituania,Europa,0.0,2017,0.784
+LTU,Lituania,Europa,0.0,2018,0.792
+LTU,Lituania,Europa,0.0,2019,0.8
+LTU,Lituania,Europa,0.0,2020,0.8
+LTU,Lituania,Europa,0.0,2021,0.794
+LTU,Lituania,Europa,0.0,2022,0.795
+LUX,Luxemburgo,Europa,0.0,2010,0.831
+LUX,Luxemburgo,Europa,0.0,2011,0.836
+LUX,Luxemburgo,Europa,0.0,2012,0.84
+LUX,Luxemburgo,Europa,0.0,2013,0.843
+LUX,Luxemburgo,Europa,0.0,2014,0.84
+LUX,Luxemburgo,Europa,0.0,2015,0.83
+LUX,Luxemburgo,Europa,0.0,2016,0.831
+LUX,Luxemburgo,Europa,0.0,2017,0.834
+LUX,Luxemburgo,Europa,0.0,2018,0.833
+LUX,Luxemburgo,Europa,0.0,2019,0.837
+LUX,Luxemburgo,Europa,0.0,2020,0.838
+LUX,Luxemburgo,Europa,0.0,2021,0.844
+LUX,Luxemburgo,Europa,0.0,2022,0.839
+LVA,Letonia,Europa,0.0,2010,0.739
+LVA,Letonia,Europa,0.0,2011,0.746
+LVA,Letonia,Europa,0.0,2012,0.751
+LVA,Letonia,Europa,0.0,2013,0.762
+LVA,Letonia,Europa,0.0,2014,0.766
+LVA,Letonia,Europa,0.0,2015,0.771
+LVA,Letonia,Europa,0.0,2016,0.779
+LVA,Letonia,Europa,0.0,2017,0.784
+LVA,Letonia,Europa,0.0,2018,0.786
+LVA,Letonia,Europa,0.0,2019,0.793
+LVA,Letonia,Europa,0.0,2020,0.796
+LVA,Letonia,Europa,0.0,2021,0.786
+LVA,Letonia,Europa,0.0,2022,0.802
+MAR,Marruecos,África,0.0,2010,0.418
+MAR,Marruecos,África,0.0,2011,0.427
+MAR,Marruecos,África,0.0,2012,0.435
+MAR,Marruecos,África,0.0,2013,0.444
+MAR,Marruecos,África,0.0,2014,0.453
+MAR,Marruecos,África,0.0,2015,0.461
+MAR,Marruecos,África,0.0,2016,0.467
+MAR,Marruecos,África,0.0,2017,0.474
+MAR,Marruecos,África,0.0,2018,0.49
+MAR,Marruecos,África,0.0,2019,0.496
+MAR,Marruecos,África,0.0,2020,0.495
+MAR,Marruecos,África,0.0,2021,0.5
+MAR,Marruecos,África,0.0,2022,0.508
+MDA,Moldavia,Europa,0.0,2010,0.637
+MDA,Moldavia,Europa,0.0,2011,0.643
+MDA,Moldavia,Europa,0.0,2012,0.649
+MDA,Moldavia,Europa,0.0,2013,0.655
+MDA,Moldavia,Europa,0.0,2014,0.68
+MDA,Moldavia,Europa,0.0,2015,0.68
+MDA,Moldavia,Europa,0.0,2016,0.688
+MDA,Moldavia,Europa,0.0,2017,0.697
+MDA,Moldavia,Europa,0.0,2018,0.702
+MDA,Moldavia,Europa,0.0,2019,0.706
+MDA,Moldavia,Europa,0.0,2020,0.699
+MDA,Moldavia,Europa,0.0,2021,0.702
+MDA,Moldavia,Europa,0.0,2022,0.698
+MDG,Madagascar,África,0.0,2010,0.319
+MDG,Madagascar,África,0.0,2011,0.321
+MDG,Madagascar,África,0.0,2012,0.323
+MDG,Madagascar,África,0.0,2013,0.323
+MDG,Madagascar,África,0.0,2014,0.325
+MDG,Madagascar,África,0.0,2015,0.327
+MDG,Madagascar,África,0.0,2016,0.329
+MDG,Madagascar,África,0.0,2017,0.331
+MDG,Madagascar,África,0.0,2018,0.333
+MDG,Madagascar,África,0.0,2019,0.331
+MDG,Madagascar,África,0.0,2020,0.324
+MDG,Madagascar,África,0.0,2021,0.324
+MDG,Madagascar,África,0.0,2022,0.328
+MDV,Maldivas,Asia,0.0,2010,0.477
+MDV,Maldivas,Asia,0.0,2011,0.484
+MDV,Maldivas,Asia,0.0,2012,0.49
+MDV,Maldivas,Asia,0.0,2013,0.495
+MDV,Maldivas,Asia,0.0,2014,0.501
+MDV,Maldivas,Asia,0.0,2015,0.506
+MDV,Maldivas,Asia,0.0,2016,0.566
+MDV,Maldivas,Asia,0.0,2017,0.572
+MDV,Maldivas,Asia,0.0,2018,0.577
+MDV,Maldivas,Asia,0.0,2019,0.583
+MDV,Maldivas,Asia,0.0,2020,0.578
+MDV,Maldivas,Asia,0.0,2021,0.591
+MDV,Maldivas,Asia,0.0,2022,0.597
+MEX,México,"América del Norte, Central y el Caribe",0.0,2010,0.575
+MEX,México,"América del Norte, Central y el Caribe",0.0,2011,0.58
+MEX,México,"América del Norte, Central y el Caribe",0.0,2012,0.584
+MEX,México,"América del Norte, Central y el Caribe",0.0,2013,0.586
+MEX,México,"América del Norte, Central y el Caribe",0.0,2014,0.593
+MEX,México,"América del Norte, Central y el Caribe",0.0,2015,0.597
+MEX,México,"América del Norte, Central y el Caribe",0.0,2016,0.609
+MEX,México,"América del Norte, Central y el Caribe",0.0,2017,0.611
+MEX,México,"América del Norte, Central y el Caribe",0.0,2018,0.625
+MEX,México,"América del Norte, Central y el Caribe",0.0,2019,0.627
+MEX,México,"América del Norte, Central y el Caribe",0.0,2020,0.613
+MEX,México,"América del Norte, Central y el Caribe",0.0,2021,0.613
+MEX,México,"América del Norte, Central y el Caribe",0.0,2022,0.641
+MHL,Islas Marshall,Oceanía,0.0,2020,0.615
+MHL,Islas Marshall,Oceanía,0.0,2021,0.618
+MHL,Islas Marshall,Oceanía,0.0,2022,0.62
+MKD,Macedonia del Norte,Europa,0.0,2010,0.609
+MKD,Macedonia del Norte,Europa,0.0,2011,0.63
+MKD,Macedonia del Norte,Europa,0.0,2012,0.638
+MKD,Macedonia del Norte,Europa,0.0,2013,0.652
+MKD,Macedonia del Norte,Europa,0.0,2014,0.664
+MKD,Macedonia del Norte,Europa,0.0,2015,0.674
+MKD,Macedonia del Norte,Europa,0.0,2016,0.676
+MKD,Macedonia del Norte,Europa,0.0,2017,0.688
+MKD,Macedonia del Norte,Europa,0.0,2018,0.703
+MKD,Macedonia del Norte,Europa,0.0,2019,0.7
+MKD,Macedonia del Norte,Europa,0.0,2020,0.679
+MKD,Macedonia del Norte,Europa,0.0,2021,0.677
+MKD,Macedonia del Norte,Europa,0.0,2022,0.679
+MLI,Malí,África,0.0,2011,0.233
+MLI,Malí,África,0.0,2012,0.246
+MLI,Malí,África,0.0,2013,0.25
+MLI,Malí,África,0.0,2014,0.26
+MLI,Malí,África,0.0,2015,0.271
+MLI,Malí,África,0.0,2016,0.272
+MLI,Malí,África,0.0,2017,0.274
+MLI,Malí,África,0.0,2018,0.276
+MLI,Malí,África,0.0,2019,0.282
+MLI,Malí,África,0.0,2020,0.271
+MLI,Malí,África,0.0,2021,0.275
+MLI,Malí,África,0.0,2022,0.277
+MLT,Malta,Europa,0.0,2010,0.785
+MLT,Malta,Europa,0.0,2011,0.783
+MLT,Malta,Europa,0.0,2012,0.791
+MLT,Malta,Europa,0.0,2013,0.798
+MLT,Malta,Europa,0.0,2014,0.81
+MLT,Malta,Europa,0.0,2015,0.813
+MLT,Malta,Europa,0.0,2016,0.808
+MLT,Malta,Europa,0.0,2017,0.822
+MLT,Malta,Europa,0.0,2018,0.83
+MLT,Malta,Europa,0.0,2019,0.834
+MLT,Malta,Europa,0.0,2020,0.829
+MLT,Malta,Europa,0.0,2021,0.837
+MLT,Malta,Europa,0.0,2022,0.837
+MMR,Myanmar,Asia,0.0,2015,0.419
+MMR,Myanmar,Asia,0.0,2016,0.428
+MMR,Myanmar,Asia,0.0,2017,0.449
+MMR,Myanmar,Asia,0.0,2018,0.462
+MMR,Myanmar,Asia,0.0,2019,0.473
+MMR,Myanmar,Asia,0.0,2020,0.479
+MMR,Myanmar,Asia,0.0,2021,0.468
+MMR,Myanmar,Asia,0.0,2022,0.475
+MNE,Montenegro,Europa,0.0,2010,0.707
+MNE,Montenegro,Europa,0.0,2011,0.707
+MNE,Montenegro,Europa,0.0,2012,0.709
+MNE,Montenegro,Europa,0.0,2013,0.715
+MNE,Montenegro,Europa,0.0,2014,0.724
+MNE,Montenegro,Europa,0.0,2015,0.732
+MNE,Montenegro,Europa,0.0,2016,0.729
+MNE,Montenegro,Europa,0.0,2017,0.733
+MNE,Montenegro,Europa,0.0,2018,0.737
+MNE,Montenegro,Europa,0.0,2019,0.745
+MNE,Montenegro,Europa,0.0,2020,0.744
+MNE,Montenegro,Europa,0.0,2021,0.753
+MNE,Montenegro,Europa,0.0,2022,0.756
+MNG,Mongolia,Asia,0.0,2010,0.592
+MNG,Mongolia,Asia,0.0,2011,0.602
+MNG,Mongolia,Asia,0.0,2012,0.612
+MNG,Mongolia,Asia,0.0,2013,0.621
+MNG,Mongolia,Asia,0.0,2014,0.629
+MNG,Mongolia,Asia,0.0,2015,0.634
+MNG,Mongolia,Asia,0.0,2016,0.637
+MNG,Mongolia,Asia,0.0,2017,0.638
+MNG,Mongolia,Asia,0.0,2018,0.649
+MNG,Mongolia,Asia,0.0,2019,0.646
+MNG,Mongolia,Asia,0.0,2020,0.638
+MNG,Mongolia,Asia,0.0,2021,0.631
+MNG,Mongolia,Asia,0.0,2022,0.645
+MOZ,Mozambique,África,0.0,2011,0.246
+MOZ,Mozambique,África,0.0,2012,0.252
+MOZ,Mozambique,África,0.0,2013,0.261
+MOZ,Mozambique,África,0.0,2014,0.266
+MOZ,Mozambique,África,0.0,2015,0.254
+MOZ,Mozambique,África,0.0,2016,0.257
+MOZ,Mozambique,África,0.0,2017,0.258
+MOZ,Mozambique,África,0.0,2018,0.264
+MOZ,Mozambique,África,0.0,2019,0.269
+MOZ,Mozambique,África,0.0,2020,0.273
+MOZ,Mozambique,África,0.0,2021,0.269
+MOZ,Mozambique,África,0.0,2022,0.27
+MRT,Mauritania,África,0.0,2010,0.317
+MRT,Mauritania,África,0.0,2011,0.324
+MRT,Mauritania,África,0.0,2012,0.33
+MRT,Mauritania,África,0.0,2013,0.336
+MRT,Mauritania,África,0.0,2014,0.344
+MRT,Mauritania,África,0.0,2015,0.345
+MRT,Mauritania,África,0.0,2016,0.343
+MRT,Mauritania,África,0.0,2017,0.346
+MRT,Mauritania,África,0.0,2018,0.353
+MRT,Mauritania,África,0.0,2019,0.355
+MRT,Mauritania,África,0.0,2020,0.348
+MRT,Mauritania,África,0.0,2021,0.348
+MRT,Mauritania,África,0.0,2022,0.351
+MUS,Mauricio,África,0.0,2011,0.604
+MUS,Mauricio,África,0.0,2012,0.604
+MUS,Mauricio,África,0.0,2013,0.608
+MUS,Mauricio,África,0.0,2014,0.616
+MUS,Mauricio,África,0.0,2015,0.618
+MUS,Mauricio,África,0.0,2016,0.62
+MUS,Mauricio,África,0.0,2017,0.627
+MUS,Mauricio,África,0.0,2018,0.629
+MUS,Mauricio,África,0.0,2019,0.633
+MUS,Mauricio,África,0.0,2020,0.62
+MUS,Mauricio,África,0.0,2021,0.618
+MUS,Mauricio,África,0.0,2022,0.625
+MWI,Malawi,África,0.0,2010,0.303
+MWI,Malawi,África,0.0,2011,0.298
+MWI,Malawi,África,0.0,2012,0.305
+MWI,Malawi,África,0.0,2013,0.316
+MWI,Malawi,África,0.0,2014,0.324
+MWI,Malawi,África,0.0,2015,0.328
+MWI,Malawi,África,0.0,2016,0.333
+MWI,Malawi,África,0.0,2017,0.342
+MWI,Malawi,África,0.0,2018,0.345
+MWI,Malawi,África,0.0,2019,0.351
+MWI,Malawi,África,0.0,2020,0.361
+MWI,Malawi,África,0.0,2021,0.359
+MWI,Malawi,África,0.0,2022,0.359
+MYS,Malasia,Asia,0.0,2010,0.633
+MYS,Malasia,Asia,0.0,2011,0.636
+MYS,Malasia,Asia,0.0,2012,0.647
+MYS,Malasia,Asia,0.0,2013,0.651
+MYS,Malasia,Asia,0.0,2014,0.665
+MYS,Malasia,Asia,0.0,2015,0.669
+MYS,Malasia,Asia,0.0,2016,0.681
+MYS,Malasia,Asia,0.0,2017,0.683
+MYS,Malasia,Asia,0.0,2018,0.685
+MYS,Malasia,Asia,0.0,2019,0.688
+MYS,Malasia,Asia,0.0,2020,0.686
+MYS,Malasia,Asia,0.0,2021,0.683
+MYS,Malasia,Asia,0.0,2022,0.692
+NAM,Namibia,África,0.0,2010,0.373
+NAM,Namibia,África,0.0,2011,0.377
+NAM,Namibia,África,0.0,2012,0.383
+NAM,Namibia,África,0.0,2013,0.395
+NAM,Namibia,África,0.0,2014,0.402
+NAM,Namibia,África,0.0,2015,0.407
+NAM,Namibia,África,0.0,2016,0.41
+NAM,Namibia,África,0.0,2017,0.412
+NAM,Namibia,África,0.0,2018,0.413
+NAM,Namibia,África,0.0,2019,0.416
+NAM,Namibia,África,0.0,2020,0.415
+NAM,Namibia,África,0.0,2021,0.404
+NAM,Namibia,África,0.0,2022,0.399
+NER,Níger,África,0.0,2012,0.231
+NER,Níger,África,0.0,2013,0.236
+NER,Níger,África,0.0,2014,0.237
+NER,Níger,África,0.0,2015,0.241
+NER,Níger,África,0.0,2016,0.245
+NER,Níger,África,0.0,2017,0.249
+NER,Níger,África,0.0,2018,0.254
+NER,Níger,África,0.0,2019,0.257
+NER,Níger,África,0.0,2020,0.258
+NER,Níger,África,0.0,2021,0.257
+NER,Níger,África,0.0,2022,0.262
+NGA,Nigeria,África,0.0,2011,0.311
+NGA,Nigeria,África,0.0,2012,0.315
+NGA,Nigeria,África,0.0,2013,0.322
+NGA,Nigeria,África,0.0,2014,0.329
+NGA,Nigeria,África,0.0,2015,0.334
+NGA,Nigeria,África,0.0,2016,0.348
+NGA,Nigeria,África,0.0,2017,0.35
+NGA,Nigeria,África,0.0,2018,0.348
+NGA,Nigeria,África,0.0,2019,0.354
+NGA,Nigeria,África,0.0,2020,0.357
+NGA,Nigeria,África,0.0,2021,0.365
+NGA,Nigeria,África,0.0,2022,0.369
+NIC,Nicaragua,"América del Norte, Central y el Caribe",0.0,2010,0.458
+NIC,Nicaragua,"América del Norte, Central y el Caribe",0.0,2011,0.465
+NIC,Nicaragua,"América del Norte, Central y el Caribe",0.0,2012,0.471
+NIC,Nicaragua,"América del Norte, Central y el Caribe",0.0,2013,0.476
+NIC,Nicaragua,"América del Norte, Central y el Caribe",0.0,2014,0.478
+NIC,Nicaragua,"América del Norte, Central y el Caribe",0.0,2015,0.483
+NIC,Nicaragua,"América del Norte, Central y el Caribe",0.0,2016,0.488
+NIC,Nicaragua,"América del Norte, Central y el Caribe",0.0,2017,0.494
+NIC,Nicaragua,"América del Norte, Central y el Caribe",0.0,2018,0.496
+NIC,Nicaragua,"América del Norte, Central y el Caribe",0.0,2019,0.499
+NIC,Nicaragua,"América del Norte, Central y el Caribe",0.0,2020,0.492
+NIC,Nicaragua,"América del Norte, Central y el Caribe",0.0,2021,0.503
+NIC,Nicaragua,"América del Norte, Central y el Caribe",0.0,2022,0.507
+NLD,Países Bajos,Europa,0.0,2010,0.848
+NLD,Países Bajos,Europa,0.0,2011,0.863
+NLD,Países Bajos,Europa,0.0,2012,0.863
+NLD,Países Bajos,Europa,0.0,2013,0.865
+NLD,Países Bajos,Europa,0.0,2014,0.865
+NLD,Países Bajos,Europa,0.0,2015,0.866
+NLD,Países Bajos,Europa,0.0,2016,0.864
+NLD,Países Bajos,Europa,0.0,2017,0.868
+NLD,Países Bajos,Europa,0.0,2018,0.868
+NLD,Países Bajos,Europa,0.0,2019,0.873
+NLD,Países Bajos,Europa,0.0,2020,0.868
+NLD,Países Bajos,Europa,0.0,2021,0.878
+NLD,Países Bajos,Europa,0.0,2022,0.885
+NOR,Noruega,Europa,0.0,2010,0.885
+NOR,Noruega,Europa,0.0,2011,0.886
+NOR,Noruega,Europa,0.0,2012,0.888
+NOR,Noruega,Europa,0.0,2013,0.89
+NOR,Noruega,Europa,0.0,2014,0.894
+NOR,Noruega,Europa,0.0,2015,0.897
+NOR,Noruega,Europa,0.0,2016,0.898
+NOR,Noruega,Europa,0.0,2017,0.901
+NOR,Noruega,Europa,0.0,2018,0.902
+NOR,Noruega,Europa,0.0,2019,0.903
+NOR,Noruega,Europa,0.0,2020,0.905
+NOR,Noruega,Europa,0.0,2021,0.901
+NOR,Noruega,Europa,0.0,2022,0.903
+NPL,Nepal,Asia,0.0,2011,0.375
+NPL,Nepal,Asia,0.0,2012,0.38
+NPL,Nepal,Asia,0.0,2013,0.385
+NPL,Nepal,Asia,0.0,2014,0.383
+NPL,Nepal,Asia,0.0,2015,0.383
+NPL,Nepal,Asia,0.0,2016,0.397
+NPL,Nepal,Asia,0.0,2017,0.402
+NPL,Nepal,Asia,0.0,2018,0.408
+NPL,Nepal,Asia,0.0,2019,0.415
+NPL,Nepal,Asia,0.0,2020,0.413
+NPL,Nepal,Asia,0.0,2021,0.412
+NPL,Nepal,Asia,0.0,2022,0.424
+NZL,Nueva Zelanda,Oceanía,0.0,2011,0.846
+NZL,Nueva Zelanda,Oceanía,0.0,2012,0.856
+NZL,Nueva Zelanda,Oceanía,0.0,2013,0.855
+NZL,Nueva Zelanda,Oceanía,0.0,2014,0.852
+NZL,Nueva Zelanda,Oceanía,0.0,2015,0.852
+NZL,Nueva Zelanda,Oceanía,0.0,2016,0.858
+NZL,Nueva Zelanda,Oceanía,0.0,2017,0.857
+NZL,Nueva Zelanda,Oceanía,0.0,2018,0.858
+NZL,Nueva Zelanda,Oceanía,0.0,2019,0.859
+NZL,Nueva Zelanda,Oceanía,0.0,2020,0.851
+NZL,Nueva Zelanda,Oceanía,0.0,2021,0.851
+NZL,Nueva Zelanda,Oceanía,0.0,2022,0.856
+OMN,Omán,Asia,0.0,2011,0.641
+OMN,Omán,Asia,0.0,2012,0.643
+OMN,Omán,Asia,0.0,2013,0.644
+OMN,Omán,Asia,0.0,2014,0.646
+OMN,Omán,Asia,0.0,2015,0.672
+OMN,Omán,Asia,0.0,2016,0.678
+OMN,Omán,Asia,0.0,2017,0.679
+OMN,Omán,Asia,0.0,2018,0.684
+OMN,Omán,Asia,0.0,2019,0.686
+OMN,Omán,Asia,0.0,2020,0.671
+OMN,Omán,Asia,0.0,2021,0.66
+OMN,Omán,Asia,0.0,2022,0.721
+PAK,Pakistán,Asia,0.0,2010,0.318
+PAK,Pakistán,Asia,0.0,2011,0.322
+PAK,Pakistán,Asia,0.0,2012,0.326
+PAK,Pakistán,Asia,0.0,2013,0.33
+PAK,Pakistán,Asia,0.0,2014,0.337
+PAK,Pakistán,Asia,0.0,2015,0.343
+PAK,Pakistán,Asia,0.0,2016,0.346
+PAK,Pakistán,Asia,0.0,2017,0.35
+PAK,Pakistán,Asia,0.0,2018,0.351
+PAK,Pakistán,Asia,0.0,2019,0.356
+PAK,Pakistán,Asia,0.0,2020,0.356
+PAK,Pakistán,Asia,0.0,2021,0.358
+PAK,Pakistán,Asia,0.0,2022,0.36
+PAN,Panamá,"América del Norte, Central y el Caribe",0.0,2010,0.599
+PAN,Panamá,"América del Norte, Central y el Caribe",0.0,2011,0.603
+PAN,Panamá,"América del Norte, Central y el Caribe",0.0,2012,0.609
+PAN,Panamá,"América del Norte, Central y el Caribe",0.0,2013,0.617
+PAN,Panamá,"América del Norte, Central y el Caribe",0.0,2014,0.622
+PAN,Panamá,"América del Norte, Central y el Caribe",0.0,2015,0.626
+PAN,Panamá,"América del Norte, Central y el Caribe",0.0,2016,0.636
+PAN,Panamá,"América del Norte, Central y el Caribe",0.0,2017,0.636
+PAN,Panamá,"América del Norte, Central y el Caribe",0.0,2018,0.641
+PAN,Panamá,"América del Norte, Central y el Caribe",0.0,2019,0.643
+PAN,Panamá,"América del Norte, Central y el Caribe",0.0,2020,0.634
+PAN,Panamá,"América del Norte, Central y el Caribe",0.0,2021,0.64
+PAN,Panamá,"América del Norte, Central y el Caribe",0.0,2022,0.647
+PER,Perú,América del Sur,0.0,2010,0.538
+PER,Perú,América del Sur,0.0,2011,0.544
+PER,Perú,América del Sur,0.0,2012,0.554
+PER,Perú,América del Sur,0.0,2013,0.57
+PER,Perú,América del Sur,0.0,2014,0.574
+PER,Perú,América del Sur,0.0,2015,0.581
+PER,Perú,América del Sur,0.0,2016,0.591
+PER,Perú,América del Sur,0.0,2017,0.596
+PER,Perú,América del Sur,0.0,2018,0.605
+PER,Perú,América del Sur,0.0,2019,0.614
+PER,Perú,América del Sur,0.0,2020,0.585
+PER,Perú,América del Sur,0.0,2021,0.601
+PER,Perú,América del Sur,0.0,2022,0.607
+PHL,Filipinas,Asia,0.0,2010,0.536
+PHL,Filipinas,Asia,0.0,2011,0.539
+PHL,Filipinas,Asia,0.0,2012,0.544
+PHL,Filipinas,Asia,0.0,2013,0.552
+PHL,Filipinas,Asia,0.0,2014,0.557
+PHL,Filipinas,Asia,0.0,2015,0.565
+PHL,Filipinas,Asia,0.0,2016,0.566
+PHL,Filipinas,Asia,0.0,2017,0.572
+PHL,Filipinas,Asia,0.0,2018,0.585
+PHL,Filipinas,Asia,0.0,2019,0.592
+PHL,Filipinas,Asia,0.0,2020,0.586
+PHL,Filipinas,Asia,0.0,2021,0.58
+PHL,Filipinas,Asia,0.0,2022,0.59
+PLW,Palau,Oceanía,0.0,2014,0.611
+PLW,Palau,Oceanía,0.0,2015,0.616
+PLW,Palau,Oceanía,0.0,2016,0.618
+PLW,Palau,Oceanía,0.0,2017,0.621
+PLW,Palau,Oceanía,0.0,2018,0.623
+PLW,Palau,Oceanía,0.0,2019,0.627
+PLW,Palau,Oceanía,0.0,2020,0.63
+PLW,Palau,Oceanía,0.0,2021,0.637
+PLW,Palau,Oceanía,0.0,2022,0.633
+PNG,Papúa Nueva Guinea,Oceanía,0.0,2016,0.389
+PNG,Papúa Nueva Guinea,Oceanía,0.0,2017,0.394
+PNG,Papúa Nueva Guinea,Oceanía,0.0,2018,0.397
+PNG,Papúa Nueva Guinea,Oceanía,0.0,2019,0.402
+PNG,Papúa Nueva Guinea,Oceanía,0.0,2020,0.406
+PNG,Papúa Nueva Guinea,Oceanía,0.0,2021,0.405
+PNG,Papúa Nueva Guinea,Oceanía,0.0,2022,0.407
+POL,Polonia,Europa,0.0,2010,0.759
+POL,Polonia,Europa,0.0,2011,0.764
+POL,Polonia,Europa,0.0,2012,0.767
+POL,Polonia,Europa,0.0,2013,0.776
+POL,Polonia,Europa,0.0,2014,0.783
+POL,Polonia,Europa,0.0,2015,0.788
+POL,Polonia,Europa,0.0,2016,0.796
+POL,Polonia,Europa,0.0,2017,0.802
+POL,Polonia,Europa,0.0,2018,0.802
+POL,Polonia,Europa,0.0,2019,0.804
+POL,Polonia,Europa,0.0,2020,0.791
+POL,Polonia,Europa,0.0,2021,0.791
+POL,Polonia,Europa,0.0,2022,0.797
+PRT,Portugal,Europa,0.0,2010,0.717
+PRT,Portugal,Europa,0.0,2011,0.716
+PRT,Portugal,Europa,0.0,2012,0.712
+PRT,Portugal,Europa,0.0,2013,0.719
+PRT,Portugal,Europa,0.0,2014,0.724
+PRT,Portugal,Europa,0.0,2015,0.731
+PRT,Portugal,Europa,0.0,2016,0.737
+PRT,Portugal,Europa,0.0,2017,0.745
+PRT,Portugal,Europa,0.0,2018,0.752
+PRT,Portugal,Europa,0.0,2019,0.76
+PRT,Portugal,Europa,0.0,2020,0.765
+PRT,Portugal,Europa,0.0,2021,0.763
+PRT,Portugal,Europa,0.0,2022,0.774
+PRY,Paraguay,América del Sur,0.0,2010,0.53
+PRY,Paraguay,América del Sur,0.0,2011,0.535
+PRY,Paraguay,América del Sur,0.0,2012,0.558
+PRY,Paraguay,América del Sur,0.0,2013,0.567
+PRY,Paraguay,América del Sur,0.0,2014,0.561
+PRY,Paraguay,América del Sur,0.0,2015,0.578
+PRY,Paraguay,América del Sur,0.0,2016,0.575
+PRY,Paraguay,América del Sur,0.0,2017,0.579
+PRY,Paraguay,América del Sur,0.0,2018,0.59
+PRY,Paraguay,América del Sur,0.0,2019,0.594
+PRY,Paraguay,América del Sur,0.0,2020,0.598
+PRY,Paraguay,América del Sur,0.0,2021,0.592
+PRY,Paraguay,América del Sur,0.0,2022,0.582
+PSE,Palestina,Asia,0.0,2010,0.555
+PSE,Palestina,Asia,0.0,2011,0.56
+PSE,Palestina,Asia,0.0,2012,0.572
+PSE,Palestina,Asia,0.0,2013,0.576
+PSE,Palestina,Asia,0.0,2014,0.569
+PSE,Palestina,Asia,0.0,2015,0.583
+PSE,Palestina,Asia,0.0,2016,0.589
+PSE,Palestina,Asia,0.0,2017,0.584
+PSE,Palestina,Asia,0.0,2018,0.589
+PSE,Palestina,Asia,0.0,2019,0.605
+PSE,Palestina,Asia,0.0,2020,0.587
+PSE,Palestina,Asia,0.0,2021,0.587
+PSE,Palestina,Asia,0.0,2022,0.587
+ROU,Rumania,Europa,0.0,2010,0.715
+ROU,Rumania,Europa,0.0,2011,0.716
+ROU,Rumania,Europa,0.0,2012,0.706
+ROU,Rumania,Europa,0.0,2013,0.709
+ROU,Rumania,Europa,0.0,2014,0.708
+ROU,Rumania,Europa,0.0,2015,0.703
+ROU,Rumania,Europa,0.0,2016,0.715
+ROU,Rumania,Europa,0.0,2017,0.73
+ROU,Rumania,Europa,0.0,2018,0.73
+ROU,Rumania,Europa,0.0,2019,0.739
+ROU,Rumania,Europa,0.0,2020,0.736
+ROU,Rumania,Europa,0.0,2021,0.73
+ROU,Rumania,Europa,0.0,2022,0.739
+RUS,Rusia,Europa,0.0,2010,0.71
+RUS,Rusia,Europa,0.0,2011,0.722
+RUS,Rusia,Europa,0.0,2012,0.719
+RUS,Rusia,Europa,0.0,2013,0.725
+RUS,Rusia,Europa,0.0,2014,0.732
+RUS,Rusia,Europa,0.0,2015,0.74
+RUS,Rusia,Europa,0.0,2016,0.746
+RUS,Rusia,Europa,0.0,2017,0.749
+RUS,Rusia,Europa,0.0,2018,0.761
+RUS,Rusia,Europa,0.0,2019,0.765
+RUS,Rusia,Europa,0.0,2020,0.751
+RUS,Rusia,Europa,0.0,2021,0.744
+RUS,Rusia,Europa,0.0,2022,0.747
+RWA,Ruanda,África,0.0,2010,0.299
+RWA,Ruanda,África,0.0,2011,0.321
+RWA,Ruanda,África,0.0,2012,0.327
+RWA,Ruanda,África,0.0,2013,0.329
+RWA,Ruanda,África,0.0,2014,0.339
+RWA,Ruanda,África,0.0,2015,0.341
+RWA,Ruanda,África,0.0,2016,0.347
+RWA,Ruanda,África,0.0,2017,0.352
+RWA,Ruanda,África,0.0,2018,0.354
+RWA,Ruanda,África,0.0,2019,0.364
+RWA,Ruanda,África,0.0,2020,0.367
+RWA,Ruanda,África,0.0,2021,0.371
+RWA,Ruanda,África,0.0,2022,0.377
+SDN,Sudán,África,0.0,2010,0.298
+SDN,Sudán,África,0.0,2011,0.299
+SDN,Sudán,África,0.0,2012,0.305
+SDN,Sudán,África,0.0,2013,0.308
+SDN,Sudán,África,0.0,2014,0.321
+SDN,Sudán,África,0.0,2015,0.324
+SDN,Sudán,África,0.0,2016,0.326
+SDN,Sudán,África,0.0,2017,0.329
+SDN,Sudán,África,0.0,2018,0.33
+SDN,Sudán,África,0.0,2019,0.331
+SDN,Sudán,África,0.0,2020,0.331
+SDN,Sudán,África,0.0,2021,0.33
+SDN,Sudán,África,0.0,2022,0.331
+SEN,Senegal,África,0.0,2010,0.29
+SEN,Senegal,África,0.0,2011,0.3
+SEN,Senegal,África,0.0,2012,0.304
+SEN,Senegal,África,0.0,2013,0.308
+SEN,Senegal,África,0.0,2014,0.311
+SEN,Senegal,África,0.0,2015,0.312
+SEN,Senegal,África,0.0,2016,0.316
+SEN,Senegal,África,0.0,2017,0.318
+SEN,Senegal,África,0.0,2018,0.321
+SEN,Senegal,África,0.0,2019,0.328
+SEN,Senegal,África,0.0,2020,0.329
+SEN,Senegal,África,0.0,2021,0.328
+SEN,Senegal,África,0.0,2022,0.334
+SGP,Singapur,Asia,0.0,2010,0.797
+SGP,Singapur,Asia,0.0,2011,0.795
+SGP,Singapur,Asia,0.0,2012,0.796
+SGP,Singapur,Asia,0.0,2013,0.8
+SGP,Singapur,Asia,0.0,2014,0.802
+SGP,Singapur,Asia,0.0,2015,0.807
+SGP,Singapur,Asia,0.0,2016,0.808
+SGP,Singapur,Asia,0.0,2017,0.809
+SGP,Singapur,Asia,0.0,2018,0.816
+SGP,Singapur,Asia,0.0,2019,0.82
+SGP,Singapur,Asia,0.0,2020,0.818
+SGP,Singapur,Asia,0.0,2021,0.819
+SGP,Singapur,Asia,0.0,2022,0.825
+SLE,Sierra Leona,África,0.0,2011,0.24
+SLE,Sierra Leona,África,0.0,2012,0.244
+SLE,Sierra Leona,África,0.0,2013,0.258
+SLE,Sierra Leona,África,0.0,2014,0.26
+SLE,Sierra Leona,África,0.0,2015,0.257
+SLE,Sierra Leona,África,0.0,2016,0.264
+SLE,Sierra Leona,África,0.0,2017,0.267
+SLE,Sierra Leona,África,0.0,2018,0.27
+SLE,Sierra Leona,África,0.0,2019,0.273
+SLE,Sierra Leona,África,0.0,2020,0.272
+SLE,Sierra Leona,África,0.0,2021,0.274
+SLE,Sierra Leona,África,0.0,2022,0.277
+SLV,El Salvador,"América del Norte, Central y el Caribe",0.0,2010,0.498
+SLV,El Salvador,"América del Norte, Central y el Caribe",0.0,2011,0.501
+SLV,El Salvador,"América del Norte, Central y el Caribe",0.0,2012,0.511
+SLV,El Salvador,"América del Norte, Central y el Caribe",0.0,2013,0.512
+SLV,El Salvador,"América del Norte, Central y el Caribe",0.0,2014,0.519
+SLV,El Salvador,"América del Norte, Central y el Caribe",0.0,2015,0.522
+SLV,El Salvador,"América del Norte, Central y el Caribe",0.0,2016,0.523
+SLV,El Salvador,"América del Norte, Central y el Caribe",0.0,2017,0.532
+SLV,El Salvador,"América del Norte, Central y el Caribe",0.0,2018,0.539
+SLV,El Salvador,"América del Norte, Central y el Caribe",0.0,2019,0.544
+SLV,El Salvador,"América del Norte, Central y el Caribe",0.0,2020,0.532
+SLV,El Salvador,"América del Norte, Central y el Caribe",0.0,2021,0.543
+SLV,El Salvador,"América del Norte, Central y el Caribe",0.0,2022,0.548
+SRB,Serbia,Europa,0.0,2013,0.681
+SRB,Serbia,Europa,0.0,2014,0.684
+SRB,Serbia,Europa,0.0,2015,0.692
+SRB,Serbia,Europa,0.0,2016,0.709
+SRB,Serbia,Europa,0.0,2017,0.715
+SRB,Serbia,Europa,0.0,2018,0.73
+SRB,Serbia,Europa,0.0,2019,0.735
+SRB,Serbia,Europa,0.0,2020,0.739
+SRB,Serbia,Europa,0.0,2021,0.739
+SRB,Serbia,Europa,0.0,2022,0.74
+SSD,Sudán del Sur,África,0.0,2010,0.223
+SSD,Sudán del Sur,África,0.0,2011,0.225
+SSD,Sudán del Sur,África,0.0,2012,0.209
+SSD,Sudán del Sur,África,0.0,2013,0.21
+SSD,Sudán del Sur,África,0.0,2014,0.209
+SSD,Sudán del Sur,África,0.0,2015,0.211
+SSD,Sudán del Sur,África,0.0,2016,0.209
+SSD,Sudán del Sur,África,0.0,2017,0.219
+SSD,Sudán del Sur,África,0.0,2018,0.22
+SSD,Sudán del Sur,África,0.0,2019,0.226
+SSD,Sudán del Sur,África,0.0,2020,0.224
+SSD,Sudán del Sur,África,0.0,2021,0.221
+SSD,Sudán del Sur,África,0.0,2022,0.222
+STP,Santo Tomé y Príncipe,"América del Norte, Central y el Caribe",0.0,2010,0.42
+STP,Santo Tomé y Príncipe,"América del Norte, Central y el Caribe",0.0,2011,0.424
+STP,Santo Tomé y Príncipe,"América del Norte, Central y el Caribe",0.0,2012,0.43
+STP,Santo Tomé y Príncipe,"América del Norte, Central y el Caribe",0.0,2013,0.441
+STP,Santo Tomé y Príncipe,"América del Norte, Central y el Caribe",0.0,2014,0.454
+STP,Santo Tomé y Príncipe,"América del Norte, Central y el Caribe",0.0,2015,0.465
+STP,Santo Tomé y Príncipe,"América del Norte, Central y el Caribe",0.0,2016,0.469
+STP,Santo Tomé y Príncipe,"América del Norte, Central y el Caribe",0.0,2017,0.45
+STP,Santo Tomé y Príncipe,"América del Norte, Central y el Caribe",0.0,2018,0.453
+STP,Santo Tomé y Príncipe,"América del Norte, Central y el Caribe",0.0,2019,0.454
+STP,Santo Tomé y Príncipe,"América del Norte, Central y el Caribe",0.0,2020,0.456
+STP,Santo Tomé y Príncipe,"América del Norte, Central y el Caribe",0.0,2021,0.456
+STP,Santo Tomé y Príncipe,"América del Norte, Central y el Caribe",0.0,2022,0.459
+SVK,Eslovaquia,Europa,0.0,2010,0.791
+SVK,Eslovaquia,Europa,0.0,2011,0.789
+SVK,Eslovaquia,Europa,0.0,2012,0.789
+SVK,Eslovaquia,Europa,0.0,2013,0.793
+SVK,Eslovaquia,Europa,0.0,2014,0.79
+SVK,Eslovaquia,Europa,0.0,2015,0.798
+SVK,Eslovaquia,Europa,0.0,2016,0.8
+SVK,Eslovaquia,Europa,0.0,2017,0.808
+SVK,Eslovaquia,Europa,0.0,2018,0.813
+SVK,Eslovaquia,Europa,0.0,2019,0.811
+SVK,Eslovaquia,Europa,0.0,2020,0.814
+SVK,Eslovaquia,Europa,0.0,2021,0.805
+SVK,Eslovaquia,Europa,0.0,2022,0.808
+SVN,Eslovenia,Europa,0.0,2010,0.844
+SVN,Eslovenia,Europa,0.0,2011,0.839
+SVN,Eslovenia,Europa,0.0,2012,0.838
+SVN,Eslovenia,Europa,0.0,2013,0.846
+SVN,Eslovenia,Europa,0.0,2014,0.851
+SVN,Eslovenia,Europa,0.0,2015,0.854
+SVN,Eslovenia,Europa,0.0,2016,0.861
+SVN,Eslovenia,Europa,0.0,2017,0.865
+SVN,Eslovenia,Europa,0.0,2018,0.871
+SVN,Eslovenia,Europa,0.0,2019,0.872
+SVN,Eslovenia,Europa,0.0,2020,0.865
+SVN,Eslovenia,Europa,0.0,2021,0.871
+SVN,Eslovenia,Europa,0.0,2022,0.882
+SWE,Suecia,Europa,0.0,2010,0.849
+SWE,Suecia,Europa,0.0,2011,0.851
+SWE,Suecia,Europa,0.0,2012,0.851
+SWE,Suecia,Europa,0.0,2013,0.865
+SWE,Suecia,Europa,0.0,2014,0.87
+SWE,Suecia,Europa,0.0,2015,0.868
+SWE,Suecia,Europa,0.0,2016,0.869
+SWE,Suecia,Europa,0.0,2017,0.873
+SWE,Suecia,Europa,0.0,2018,0.873
+SWE,Suecia,Europa,0.0,2019,0.877
+SWE,Suecia,Europa,0.0,2020,0.878
+SWE,Suecia,Europa,0.0,2021,0.88
+SWE,Suecia,Europa,0.0,2022,0.878
+SWZ,Eswatini,África,0.0,2010,0.295
+SWZ,Eswatini,África,0.0,2011,0.308
+SWZ,Eswatini,África,0.0,2012,0.32
+SWZ,Eswatini,África,0.0,2013,0.331
+SWZ,Eswatini,África,0.0,2014,0.343
+SWZ,Eswatini,África,0.0,2015,0.356
+SWZ,Eswatini,África,0.0,2016,0.365
+SWZ,Eswatini,África,0.0,2017,0.363
+SWZ,Eswatini,África,0.0,2018,0.373
+SWZ,Eswatini,África,0.0,2019,0.381
+SWZ,Eswatini,África,0.0,2020,0.381
+SWZ,Eswatini,África,0.0,2021,0.374
+SWZ,Eswatini,África,0.0,2022,0.372
+SYC,Seychelles,África,0.0,2019,0.72
+SYC,Seychelles,África,0.0,2020,0.711
+SYC,Seychelles,África,0.0,2021,0.707
+SYC,Seychelles,África,0.0,2022,0.715
+SYR,Siria,Asia,0.0,2010,0.523
+SYR,Siria,Asia,0.0,2011,0.542
+SYR,Siria,Asia,0.0,2012,0.489
+SYR,Siria,Asia,0.0,2013,0.422
+SYR,Siria,Asia,0.0,2014,0.41
+SYR,Siria,Asia,0.0,2015,0.42
+TCD,Chad,África,0.0,2011,0.205
+TCD,Chad,África,0.0,2012,0.21
+TCD,Chad,África,0.0,2013,0.213
+TCD,Chad,África,0.0,2014,0.216
+TCD,Chad,África,0.0,2015,0.215
+TCD,Chad,África,0.0,2016,0.216
+TCD,Chad,África,0.0,2017,0.217
+TCD,Chad,África,0.0,2018,0.22
+TCD,Chad,África,0.0,2019,0.237
+TCD,Chad,África,0.0,2020,0.237
+TCD,Chad,África,0.0,2021,0.236
+TCD,Chad,África,0.0,2022,0.238
+TGO,Togo,África,0.0,2010,0.286
+TGO,Togo,África,0.0,2011,0.286
+TGO,Togo,África,0.0,2012,0.289
+TGO,Togo,África,0.0,2013,0.295
+TGO,Togo,África,0.0,2014,0.299
+TGO,Togo,África,0.0,2015,0.309
+TGO,Togo,África,0.0,2016,0.313
+TGO,Togo,África,0.0,2017,0.32
+TGO,Togo,África,0.0,2018,0.324
+TGO,Togo,África,0.0,2019,0.337
+TGO,Togo,África,0.0,2020,0.34
+TGO,Togo,África,0.0,2021,0.344
+TGO,Togo,África,0.0,2022,0.345
+THA,Tailandia,Asia,0.0,2012,0.622
+THA,Tailandia,Asia,0.0,2013,0.628
+THA,Tailandia,Asia,0.0,2014,0.656
+THA,Tailandia,Asia,0.0,2015,0.661
+THA,Tailandia,Asia,0.0,2016,0.663
+THA,Tailandia,Asia,0.0,2017,0.666
+THA,Tailandia,Asia,0.0,2018,0.668
+THA,Tailandia,Asia,0.0,2019,0.678
+THA,Tailandia,Asia,0.0,2020,0.676
+THA,Tailandia,Asia,0.0,2021,0.675
+THA,Tailandia,Asia,0.0,2022,0.681
+TJK,Tayikistán,Asia,0.0,2012,0.547
+TJK,Tayikistán,Asia,0.0,2013,0.553
+TJK,Tayikistán,Asia,0.0,2014,0.555
+TJK,Tayikistán,Asia,0.0,2015,0.552
+TJK,Tayikistán,Asia,0.0,2016,0.555
+TJK,Tayikistán,Asia,0.0,2017,0.561
+TJK,Tayikistán,Asia,0.0,2018,0.566
+TJK,Tayikistán,Asia,0.0,2019,0.571
+TJK,Tayikistán,Asia,0.0,2020,0.562
+TJK,Tayikistán,Asia,0.0,2021,0.58
+TJK,Tayikistán,Asia,0.0,2022,0.585
+TLS,Timor-Leste,Asia,0.0,2010,0.44
+TLS,Timor-Leste,Asia,0.0,2011,0.448
+TLS,Timor-Leste,Asia,0.0,2012,0.446
+TLS,Timor-Leste,Asia,0.0,2013,0.444
+TLS,Timor-Leste,Asia,0.0,2014,0.438
+TLS,Timor-Leste,Asia,0.0,2015,0.432
+TLS,Timor-Leste,Asia,0.0,2016,0.433
+TLS,Timor-Leste,Asia,0.0,2017,0.437
+TLS,Timor-Leste,Asia,0.0,2018,0.439
+TLS,Timor-Leste,Asia,0.0,2019,0.448
+TLS,Timor-Leste,Asia,0.0,2020,0.454
+TLS,Timor-Leste,Asia,0.0,2021,0.412
+TLS,Timor-Leste,Asia,0.0,2022,0.407
+TON,Tonga,Oceanía,0.0,2019,0.654
+TON,Tonga,Oceanía,0.0,2020,0.656
+TON,Tonga,Oceanía,0.0,2021,0.653
+TON,Tonga,Oceanía,0.0,2022,0.654
+TUN,Túnez,África,0.0,2011,0.541
+TUN,Túnez,África,0.0,2012,0.542
+TUN,Túnez,África,0.0,2013,0.544
+TUN,Túnez,África,0.0,2014,0.546
+TUN,Túnez,África,0.0,2015,0.548
+TUN,Túnez,África,0.0,2016,0.559
+TUN,Túnez,África,0.0,2017,0.562
+TUN,Túnez,África,0.0,2018,0.576
+TUN,Túnez,África,0.0,2019,0.579
+TUN,Túnez,África,0.0,2020,0.574
+TUN,Túnez,África,0.0,2021,0.571
+TUN,Túnez,África,0.0,2022,0.574
+TUR,Turquía,Asia,0.0,2010,0.601
+TUR,Turquía,Asia,0.0,2011,0.619
+TUR,Turquía,Asia,0.0,2012,0.631
+TUR,Turquía,Asia,0.0,2013,0.66
+TUR,Turquía,Asia,0.0,2014,0.673
+TUR,Turquía,Asia,0.0,2015,0.679
+TUR,Turquía,Asia,0.0,2016,0.684
+TUR,Turquía,Asia,0.0,2017,0.691
+TUR,Turquía,Asia,0.0,2018,0.696
+TUR,Turquía,Asia,0.0,2019,0.706
+TUR,Turquía,Asia,0.0,2020,0.696
+TUR,Turquía,Asia,0.0,2021,0.705
+TUR,Turquía,Asia,0.0,2022,0.717
+TUV,Tuvalu,Oceanía,0.0,2019,0.544
+TUV,Tuvalu,Oceanía,0.0,2020,0.546
+TUV,Tuvalu,Oceanía,0.0,2021,0.545
+TUV,Tuvalu,Oceanía,0.0,2022,0.545
+TZA,Tanzanía,África,0.0,2010,0.325
+TZA,Tanzanía,África,0.0,2011,0.331
+TZA,Tanzanía,África,0.0,2012,0.342
+TZA,Tanzanía,África,0.0,2013,0.345
+TZA,Tanzanía,África,0.0,2014,0.348
+TZA,Tanzanía,África,0.0,2015,0.352
+TZA,Tanzanía,África,0.0,2016,0.355
+TZA,Tanzanía,África,0.0,2017,0.361
+TZA,Tanzanía,África,0.0,2018,0.363
+TZA,Tanzanía,África,0.0,2019,0.369
+TZA,Tanzanía,África,0.0,2020,0.371
+TZA,Tanzanía,África,0.0,2021,0.368
+TZA,Tanzanía,África,0.0,2022,0.372
+UGA,Uganda,África,0.0,2010,0.319
+UGA,Uganda,África,0.0,2011,0.327
+UGA,Uganda,África,0.0,2012,0.329
+UGA,Uganda,África,0.0,2013,0.342
+UGA,Uganda,África,0.0,2014,0.348
+UGA,Uganda,África,0.0,2015,0.354
+UGA,Uganda,África,0.0,2016,0.363
+UGA,Uganda,África,0.0,2017,0.363
+UGA,Uganda,África,0.0,2018,0.368
+UGA,Uganda,África,0.0,2019,0.372
+UGA,Uganda,África,0.0,2020,0.374
+UGA,Uganda,África,0.0,2021,0.374
+UGA,Uganda,África,0.0,2022,0.377
+UKR,Ucrania,Europa,0.0,2010,0.698
+UKR,Ucrania,Europa,0.0,2011,0.704
+UKR,Ucrania,Europa,0.0,2012,0.713
+UKR,Ucrania,Europa,0.0,2013,0.713
+UKR,Ucrania,Europa,0.0,2014,0.715
+UKR,Ucrania,Europa,0.0,2015,0.704
+UKR,Ucrania,Europa,0.0,2016,0.708
+UKR,Ucrania,Europa,0.0,2017,0.71
+UKR,Ucrania,Europa,0.0,2018,0.711
+UKR,Ucrania,Europa,0.0,2019,0.713
+UKR,Ucrania,Europa,0.0,2020,0.704
+UKR,Ucrania,Europa,0.0,2021,0.697
+UKR,Ucrania,Europa,0.0,2022,0.676
+URY,Uruguay,América del Sur,0.0,2010,0.658
+URY,Uruguay,América del Sur,0.0,2011,0.673
+URY,Uruguay,América del Sur,0.0,2012,0.683
+URY,Uruguay,América del Sur,0.0,2013,0.688
+URY,Uruguay,América del Sur,0.0,2014,0.693
+URY,Uruguay,América del Sur,0.0,2015,0.695
+URY,Uruguay,América del Sur,0.0,2016,0.702
+URY,Uruguay,América del Sur,0.0,2017,0.708
+URY,Uruguay,América del Sur,0.0,2018,0.709
+URY,Uruguay,América del Sur,0.0,2019,0.712
+URY,Uruguay,América del Sur,0.0,2020,0.717
+URY,Uruguay,América del Sur,0.0,2021,0.711
+URY,Uruguay,América del Sur,0.0,2022,0.72
+USA,Estados Unidos,"América del Norte, Central y el Caribe",0.0,2010,0.805
+USA,Estados Unidos,"América del Norte, Central y el Caribe",0.0,2011,0.808
+USA,Estados Unidos,"América del Norte, Central y el Caribe",0.0,2012,0.807
+USA,Estados Unidos,"América del Norte, Central y el Caribe",0.0,2013,0.809
+USA,Estados Unidos,"América del Norte, Central y el Caribe",0.0,2014,0.812
+USA,Estados Unidos,"América del Norte, Central y el Caribe",0.0,2015,0.809
+USA,Estados Unidos,"América del Norte, Central y el Caribe",0.0,2016,0.812
+USA,Estados Unidos,"América del Norte, Central y el Caribe",0.0,2017,0.814
+USA,Estados Unidos,"América del Norte, Central y el Caribe",0.0,2018,0.815
+USA,Estados Unidos,"América del Norte, Central y el Caribe",0.0,2019,0.818
+USA,Estados Unidos,"América del Norte, Central y el Caribe",0.0,2020,0.808
+USA,Estados Unidos,"América del Norte, Central y el Caribe",0.0,2021,0.815
+USA,Estados Unidos,"América del Norte, Central y el Caribe",0.0,2022,0.823
+VEN,Venezuela,América del Sur,0.0,2011,0.639
+VEN,Venezuela,América del Sur,0.0,2012,0.638
+VEN,Venezuela,América del Sur,0.0,2013,0.638
+VEN,Venezuela,América del Sur,0.0,2014,0.639
+VEN,Venezuela,América del Sur,0.0,2015,0.645
+VEN,Venezuela,América del Sur,0.0,2016,0.652
+VEN,Venezuela,América del Sur,0.0,2017,0.644
+VEN,Venezuela,América del Sur,0.0,2018,0.634
+VEN,Venezuela,América del Sur,0.0,2019,0.619
+VEN,Venezuela,América del Sur,0.0,2020,0.592
+VEN,Venezuela,América del Sur,0.0,2021,0.591
+VEN,Venezuela,América del Sur,0.0,2022,0.6
+VNM,Vietnam,Asia,0.0,2010,0.548
+VNM,Vietnam,Asia,0.0,2011,0.553
+VNM,Vietnam,Asia,0.0,2012,0.566
+VNM,Vietnam,Asia,0.0,2013,0.568
+VNM,Vietnam,Asia,0.0,2014,0.576
+VNM,Vietnam,Asia,0.0,2015,0.58
+VNM,Vietnam,Asia,0.0,2016,0.582
+VNM,Vietnam,Asia,0.0,2017,0.586
+VNM,Vietnam,Asia,0.0,2018,0.589
+VNM,Vietnam,Asia,0.0,2019,0.594
+VNM,Vietnam,Asia,0.0,2020,0.605
+VNM,Vietnam,Asia,0.0,2021,0.599
+VNM,Vietnam,Asia,0.0,2022,0.607
+VUT,Vanuatu,Oceanía,0.0,2010,0.469
+VUT,Vanuatu,Oceanía,0.0,2011,0.471
+VUT,Vanuatu,Oceanía,0.0,2012,0.471
+VUT,Vanuatu,Oceanía,0.0,2013,0.475
+VUT,Vanuatu,Oceanía,0.0,2014,0.478
+VUT,Vanuatu,Oceanía,0.0,2015,0.48
+WSM,Samoa,Oceanía,0.0,2019,0.609
+WSM,Samoa,Oceanía,0.0,2020,0.612
+WSM,Samoa,Oceanía,0.0,2021,0.609
+WSM,Samoa,Oceanía,0.0,2022,0.602
+YEM,Yemen,Asia,0.0,2010,0.334
+YEM,Yemen,Asia,0.0,2011,0.333
+YEM,Yemen,Asia,0.0,2012,0.334
+YEM,Yemen,Asia,0.0,2013,0.337
+YEM,Yemen,Asia,0.0,2014,0.327
+YEM,Yemen,Asia,0.0,2015,0.305
+YEM,Yemen,Asia,0.0,2016,0.297
+YEM,Yemen,Asia,0.0,2017,0.29
+YEM,Yemen,Asia,0.0,2018,0.286
+YEM,Yemen,Asia,0.0,2019,0.288
+YEM,Yemen,Asia,0.0,2020,0.289
+YEM,Yemen,Asia,0.0,2021,0.285
+YEM,Yemen,Asia,0.0,2022,0.285
+ZAF,Sudáfrica,África,0.0,2012,0.446
+ZAF,Sudáfrica,África,0.0,2013,0.452
+ZAF,Sudáfrica,África,0.0,2014,0.461
+ZAF,Sudáfrica,África,0.0,2015,0.466
+ZAF,Sudáfrica,África,0.0,2016,0.456
+ZAF,Sudáfrica,África,0.0,2017,0.469
+ZAF,Sudáfrica,África,0.0,2018,0.472
+ZAF,Sudáfrica,África,0.0,2019,0.478
+ZAF,Sudáfrica,África,0.0,2020,0.471
+ZAF,Sudáfrica,África,0.0,2021,0.466
+ZAF,Sudáfrica,África,0.0,2022,0.462
+ZMB,Zambia,África,0.0,2010,0.32
+ZMB,Zambia,África,0.0,2011,0.324
+ZMB,Zambia,África,0.0,2012,0.334
+ZMB,Zambia,África,0.0,2013,0.342
+ZMB,Zambia,África,0.0,2014,0.345
+ZMB,Zambia,África,0.0,2015,0.332
+ZMB,Zambia,África,0.0,2016,0.334
+ZMB,Zambia,África,0.0,2017,0.336
+ZMB,Zambia,África,0.0,2018,0.34
+ZMB,Zambia,África,0.0,2019,0.342
+ZMB,Zambia,África,0.0,2020,0.341
+ZMB,Zambia,África,0.0,2021,0.34
+ZMB,Zambia,África,0.0,2022,0.344
+ZWE,Zimbabwe,África,0.0,2011,0.34
+ZWE,Zimbabwe,África,0.0,2012,0.357
+ZWE,Zimbabwe,África,0.0,2013,0.367
+ZWE,Zimbabwe,África,0.0,2014,0.374
+ZWE,Zimbabwe,África,0.0,2015,0.379
+ZWE,Zimbabwe,África,0.0,2016,0.383
+ZWE,Zimbabwe,África,0.0,2017,0.385
+ZWE,Zimbabwe,África,0.0,2018,0.394
+ZWE,Zimbabwe,África,0.0,2019,0.376
+ZWE,Zimbabwe,África,0.0,2020,0.373
+ZWE,Zimbabwe,África,0.0,2021,0.37
+ZWE,Zimbabwe,África,0.0,2022,0.37
+DESHUM_ZZA.VHHD,Países de desarrollo humano muy alto,,,2010,0.77
+DESHUM_ZZA.VHHD,Países de desarrollo humano muy alto,,,2011,0.777
+DESHUM_ZZA.VHHD,Países de desarrollo humano muy alto,,,2012,0.778
+DESHUM_ZZA.VHHD,Países de desarrollo humano muy alto,,,2013,0.782
+DESHUM_ZZA.VHHD,Países de desarrollo humano muy alto,,,2014,0.786
+DESHUM_ZZA.VHHD,Países de desarrollo humano muy alto,,,2015,0.788
+DESHUM_ZZA.VHHD,Países de desarrollo humano muy alto,,,2016,0.792
+DESHUM_ZZA.VHHD,Países de desarrollo humano muy alto,,,2017,0.795
+DESHUM_ZZA.VHHD,Países de desarrollo humano muy alto,,,2018,0.798
+DESHUM_ZZA.VHHD,Países de desarrollo humano muy alto,,,2019,0.803
+DESHUM_ZZA.VHHD,Países de desarrollo humano muy alto,,,2020,0.797
+DESHUM_ZZA.VHHD,Países de desarrollo humano muy alto,,,2021,0.801
+DESHUM_ZZA.VHHD,Países de desarrollo humano muy alto,,,2022,0.807
+DESHUM_ZZB.HHD,Países de desarrollo humano alto,,,2010,0.551
+DESHUM_ZZB.HHD,Países de desarrollo humano alto,,,2011,0.557
+DESHUM_ZZB.HHD,Países de desarrollo humano alto,,,2012,0.568
+DESHUM_ZZB.HHD,Países de desarrollo humano alto,,,2013,0.584
+DESHUM_ZZB.HHD,Países de desarrollo humano alto,,,2014,0.595
+DESHUM_ZZB.HHD,Países de desarrollo humano alto,,,2015,0.598
+DESHUM_ZZB.HHD,Países de desarrollo humano alto,,,2016,0.602
+DESHUM_ZZB.HHD,Países de desarrollo humano alto,,,2017,0.607
+DESHUM_ZZB.HHD,Países de desarrollo humano alto,,,2018,0.615
+DESHUM_ZZB.HHD,Países de desarrollo humano alto,,,2019,0.622
+DESHUM_ZZB.HHD,Países de desarrollo humano alto,,,2020,0.623
+DESHUM_ZZB.HHD,Países de desarrollo humano alto,,,2021,0.624
+DESHUM_ZZB.HHD,Países de desarrollo humano alto,,,2022,0.628
+DESHUM_ZZC.MHD,Países de desarrollo humano medio,,,2010,0.377
+DESHUM_ZZC.MHD,Países de desarrollo humano medio,,,2011,0.388
+DESHUM_ZZC.MHD,Países de desarrollo humano medio,,,2012,0.392
+DESHUM_ZZC.MHD,Países de desarrollo humano medio,,,2013,0.397
+DESHUM_ZZC.MHD,Países de desarrollo humano medio,,,2014,0.405
+DESHUM_ZZC.MHD,Países de desarrollo humano medio,,,2015,0.419
+DESHUM_ZZC.MHD,Países de desarrollo humano medio,,,2016,0.427
+DESHUM_ZZC.MHD,Países de desarrollo humano medio,,,2017,0.433
+DESHUM_ZZC.MHD,Países de desarrollo humano medio,,,2018,0.434
+DESHUM_ZZC.MHD,Países de desarrollo humano medio,,,2019,0.44
+DESHUM_ZZC.MHD,Países de desarrollo humano medio,,,2020,0.439
+DESHUM_ZZC.MHD,Países de desarrollo humano medio,,,2021,0.438
+DESHUM_ZZC.MHD,Países de desarrollo humano medio,,,2022,0.447
+DESHUM_ZZD.LHD,Países de desarrollo humano bajo,,,2010,0.294
+DESHUM_ZZD.LHD,Países de desarrollo humano bajo,,,2011,0.302
+DESHUM_ZZD.LHD,Países de desarrollo humano bajo,,,2012,0.307
+DESHUM_ZZD.LHD,Países de desarrollo humano bajo,,,2013,0.313
+DESHUM_ZZD.LHD,Países de desarrollo humano bajo,,,2014,0.319
+DESHUM_ZZD.LHD,Países de desarrollo humano bajo,,,2015,0.322
+DESHUM_ZZD.LHD,Países de desarrollo humano bajo,,,2016,0.327
+DESHUM_ZZD.LHD,Países de desarrollo humano bajo,,,2017,0.33
+DESHUM_ZZD.LHD,Países de desarrollo humano bajo,,,2018,0.332
+DESHUM_ZZD.LHD,Países de desarrollo humano bajo,,,2019,0.337
+DESHUM_ZZD.LHD,Países de desarrollo humano bajo,,,2020,0.338
+DESHUM_ZZD.LHD,Países de desarrollo humano bajo,,,2021,0.339
+DESHUM_ZZD.LHD,Países de desarrollo humano bajo,,,2022,0.341
+DESHUM_ZZE.AS,Estados árabes,,,2010,0.483
+DESHUM_ZZE.AS,Estados árabes,,,2011,0.493
+DESHUM_ZZE.AS,Estados árabes,,,2012,0.503
+DESHUM_ZZE.AS,Estados árabes,,,2013,0.509
+DESHUM_ZZE.AS,Estados árabes,,,2014,0.514
+DESHUM_ZZE.AS,Estados árabes,,,2015,0.516
+DESHUM_ZZE.AS,Estados árabes,,,2016,0.518
+DESHUM_ZZE.AS,Estados árabes,,,2017,0.523
+DESHUM_ZZE.AS,Estados árabes,,,2018,0.53
+DESHUM_ZZE.AS,Estados árabes,,,2019,0.534
+DESHUM_ZZE.AS,Estados árabes,,,2020,0.533
+DESHUM_ZZE.AS,Estados árabes,,,2021,0.533
+DESHUM_ZZE.AS,Estados árabes,,,2022,0.534
+EAS,Este de Asia y Pacífico,,,2010,0.564
+EAS,Este de Asia y Pacífico,,,2011,0.566
+EAS,Este de Asia y Pacífico,,,2012,0.575
+EAS,Este de Asia y Pacífico,,,2013,0.581
+EAS,Este de Asia y Pacífico,,,2014,0.595
+EAS,Este de Asia y Pacífico,,,2015,0.599
+EAS,Este de Asia y Pacífico,,,2016,0.605
+EAS,Este de Asia y Pacífico,,,2017,0.611
+EAS,Este de Asia y Pacífico,,,2018,0.62
+EAS,Este de Asia y Pacífico,,,2019,0.629
+EAS,Este de Asia y Pacífico,,,2020,0.633
+EAS,Este de Asia y Pacífico,,,2021,0.636
+EAS,Este de Asia y Pacífico,,,2022,0.64
+ECS,Europa y Asia Central,,,2010,0.639
+ECS,Europa y Asia Central,,,2011,0.65
+ECS,Europa y Asia Central,,,2012,0.66
+ECS,Europa y Asia Central,,,2013,0.672
+ECS,Europa y Asia Central,,,2014,0.68
+ECS,Europa y Asia Central,,,2015,0.684
+ECS,Europa y Asia Central,,,2016,0.69
+ECS,Europa y Asia Central,,,2017,0.696
+ECS,Europa y Asia Central,,,2018,0.701
+ECS,Europa y Asia Central,,,2019,0.707
+ECS,Europa y Asia Central,,,2020,0.699
+ECS,Europa y Asia Central,,,2021,0.705
+ECS,Europa y Asia Central,,,2022,0.708
+LCN,América Latina y el Caribe,,,2010,0.564
+LCN,América Latina y el Caribe,,,2011,0.571
+LCN,América Latina y el Caribe,,,2012,0.578
+LCN,América Latina y el Caribe,,,2013,0.587
+LCN,América Latina y el Caribe,,,2014,0.593
+LCN,América Latina y el Caribe,,,2015,0.597
+LCN,América Latina y el Caribe,,,2016,0.595
+LCN,América Latina y el Caribe,,,2017,0.598
+LCN,América Latina y el Caribe,,,2018,0.603
+LCN,América Latina y el Caribe,,,2019,0.605
+LCN,América Latina y el Caribe,,,2020,0.598
+LCN,América Latina y el Caribe,,,2021,0.595
+LCN,América Latina y el Caribe,,,2022,0.605
+DESHUM_ZZI.SA,Asia meridional,,,2010,0.375
+DESHUM_ZZI.SA,Asia meridional,,,2011,0.384
+DESHUM_ZZI.SA,Asia meridional,,,2012,0.388
+DESHUM_ZZI.SA,Asia meridional,,,2013,0.393
+DESHUM_ZZI.SA,Asia meridional,,,2014,0.402
+DESHUM_ZZI.SA,Asia meridional,,,2015,0.415
+DESHUM_ZZI.SA,Asia meridional,,,2016,0.424
+DESHUM_ZZI.SA,Asia meridional,,,2017,0.429
+DESHUM_ZZI.SA,Asia meridional,,,2018,0.429
+DESHUM_ZZI.SA,Asia meridional,,,2019,0.436
+DESHUM_ZZI.SA,Asia meridional,,,2020,0.435
+DESHUM_ZZI.SA,Asia meridional,,,2021,0.435
+DESHUM_ZZI.SA,Asia meridional,,,2022,0.443
+DESHUM_ZZJ.SSA,África Subsahariana,,,2010,0.305
+DESHUM_ZZJ.SSA,África Subsahariana,,,2011,0.319
+DESHUM_ZZJ.SSA,África Subsahariana,,,2012,0.327
+DESHUM_ZZJ.SSA,África Subsahariana,,,2013,0.333
+DESHUM_ZZJ.SSA,África Subsahariana,,,2014,0.339
+DESHUM_ZZJ.SSA,África Subsahariana,,,2015,0.343
+DESHUM_ZZJ.SSA,África Subsahariana,,,2016,0.349
+DESHUM_ZZJ.SSA,África Subsahariana,,,2017,0.352
+DESHUM_ZZJ.SSA,África Subsahariana,,,2018,0.355
+DESHUM_ZZJ.SSA,África Subsahariana,,,2019,0.359
+DESHUM_ZZJ.SSA,África Subsahariana,,,2020,0.36
+DESHUM_ZZJ.SSA,África Subsahariana,,,2021,0.36
+DESHUM_ZZJ.SSA,África Subsahariana,,,2022,0.363
+WLD,Mundo,,,2010,0.522
+WLD,Mundo,,,2011,0.529
+WLD,Mundo,,,2012,0.534
+WLD,Mundo,,,2013,0.546
+WLD,Mundo,,,2014,0.552
+WLD,Mundo,,,2015,0.557
+WLD,Mundo,,,2016,0.562
+WLD,Mundo,,,2017,0.566
+WLD,Mundo,,,2018,0.568
+WLD,Mundo,,,2019,0.574
+WLD,Mundo,,,2020,0.572
+WLD,Mundo,,,2021,0.572
+WLD,Mundo,,,2022,0.576

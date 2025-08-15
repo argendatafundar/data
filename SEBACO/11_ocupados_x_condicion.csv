@@ -1,16 +1,16 @@
-"sector","estado_ocupacional","prop_ocupados"
-"a. Actividades profesionales, cientificas y técnicas","Asalariado no registrado",0.146243264884476
-"a. Actividades profesionales, cientificas y técnicas","Asalariado registrado",0.324779753554099
-"a. Actividades profesionales, cientificas y técnicas","No asalariado",0.528976981561424
-"b. SSI","Asalariado no registrado",0.105756860042885
-"b. SSI","Asalariado registrado",0.676609441087271
-"b. SSI","No asalariado",0.217633698869844
-"c. SBC","Asalariado no registrado",0.138579054385852
-"c. SBC","Asalariado registrado",0.418213524119791
-"c. SBC","No asalariado",0.443207421494357
-"d. Total economía","Asalariado no registrado",0.25261693645542
-"d. Total economía","Asalariado registrado",0.475662614260536
-"d. Total economía","No asalariado",0.271720449284044
-"e. Sector privado","Asalariado no registrado",0.28047259948905
-"e. Sector privado","Asalariado registrado",0.380370104879548
-"e. Sector privado","No asalariado",0.339157295631402
+sector,estado_ocupacional,prop_ocupados
+"a. Actividades profesionales, cientificas y técnicas",Asalariado no registrado,0.146243264884476
+"a. Actividades profesionales, cientificas y técnicas",Asalariado registrado,0.324779753554099
+"a. Actividades profesionales, cientificas y técnicas",No asalariado,0.528976981561424
+b. SSI,Asalariado no registrado,0.105756860042885
+b. SSI,Asalariado registrado,0.676609441087271
+b. SSI,No asalariado,0.217633698869844
+c. SBC,Asalariado no registrado,0.138579054385852
+c. SBC,Asalariado registrado,0.418213524119791
+c. SBC,No asalariado,0.443207421494357
+d. Total economía,Asalariado no registrado,0.25261693645542
+d. Total economía,Asalariado registrado,0.475662614260536
+d. Total economía,No asalariado,0.271720449284044
+e. Sector privado,Asalariado no registrado,0.28047259948905
+e. Sector privado,Asalariado registrado,0.380370104879548
+e. Sector privado,No asalariado,0.339157295631402

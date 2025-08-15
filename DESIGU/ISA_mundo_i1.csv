@@ -1,163 +1,163 @@
-"code","pais","gini"
-"ISL","Iceland","24.3"
-"SVN","Slovenia","24.3"
-"CZE","Czech Republic","24.6"
-"SVK","Slovak Republic","24.8"
-"NOR","Norway","25.4"
-"FIN","Finland","25.4"
-"UKR","Ukraine","25.5"
-"SWE","Sweden","25.8"
-"KAZ","Kazakhstan","26.5"
-"BEL","Belgium","26.7"
-"XKX","Kosovo","26.7"
-"BLR","Belarus","26.7"
-"MDA","Moldova","27"
-"DNK","Denmark","27.1"
-"NLD","Netherlands","27.1"
-"DZA","Algeria","27.6"
-"HUN","Hungary","28.8"
-"AUT","Austria","28.9"
-"ALB","Albania","29"
-"KGZ","Kyrgyz Republic","29"
-"SRB","Serbia","29.1"
-"IRQ","Iraq","29.5"
-"LUX","Luxembourg","29.5"
-"DEU","Germany","29.8"
-"KOR","Korea",
-"HRV","Croatia","30"
-"IRL","Ireland","30.2"
-"TLS","Timor-Leste","30.3"
-"JPN","Japan","30.4"
-"FRA","France","30.6"
-"PAK","Pakistan","30.7"
-"CHE","Switzerland","30.8"
-"STP","Sao Tome and Principe","30.8"
-"AZE","Azerbaijan","31.8"
-"EGY","Egypt",
-"LBN","Lebanon","31.8"
-"MNE","Montenegro","31.9"
-"MNG","Mongolia","32"
-"POL","Poland","32.1"
-"BGD","Bangladesh","32.1"
-"EST","Estonia","32.2"
-"CAN","Canada","32.3"
-"GBR","United Kingdom","32.3"
-"ARM","Armenia","32.4"
-"MRT","Mauritania","32.4"
-"LVA","Latvia","32.7"
-"NPL","Nepal","32.8"
-"ITA","Italy","32.9"
-"AUS","Australia","32.9"
-"MLI","Mali","33"
-"MKD","Macedonia",
-"ETH","Ethiopia","33.2"
-"LBR","Liberia","33.2"
-"JOR","Jordan","33.7"
-"PRT","Portugal","33.7"
-"CYP","Cyprus","33.7"
-"GIN","Guinea","33.7"
-"BIH","Bosnia and Herzegovina","33.8"
-"GRC","Greece","34"
-"NER","Niger","34"
-"SLE","Sierra Leone","34"
-"TJK","Tajikistan","34"
-"ESP","Spain","34.2"
-"PSE","West Bank and Gaza","34.4"
-"TTO","Trinidad and Tobago","34.7"
-"VNM","Vietnam","34.8"
-"BGR","Bulgaria","34.8"
-"LTU","Lithuania","35.1"
-"UZB","Uzbekistan","35.3"
-"BFA","Burkina Faso","35.3"
-"SDN","Sudan","35.4"
-"IND","India","35.7"
-"SYR","Syrian Arab Republic","35.8"
-"TUN","Tunisia","35.8"
-"MUS","Mauritius","35.8"
-"URY","Uruguay","35.9"
-"ROU","Romania","36.4"
-"LAO","Lao PDR","36.4"
-"FJI","Fiji","36.4"
-"LCA","St. Lucia","36.7"
-"YEM","Yemen",
-"ARG","Argentina","36.7"
-"KIR","Kiribati","37"
-"SLB","Solomon Islands","37"
-"VUT","Vanuatu","37.3"
-"TON","Tonga","37.5"
-"RUS","Russian Federation","37.7"
-"TZA","Tanzania","37.8"
-"THA","Thailand","37.8"
-"MMR","Myanmar","38.1"
-"PER","Peru","38.1"
-"GUY","Guyana","38.4"
-"MDV","Maldives","38.4"
-"GEO","Georgia","38.5"
-"IDN","Indonesia","38.6"
-"CHN","China","38.6"
-"DOM","Dominican Republic","38.6"
-"IRN","Iran",
-"BTN","Bhutan","38.8"
-"USA","United States","38.9"
-"TUV","Tuvalu","39.1"
-"LKA","Sri Lanka","39.2"
-"BDI","Burundi","39.2"
-"ISR","Israel","39.2"
-"BOL","Bolivia","39.4"
-"MYS","Malaysia","39.8"
-"FSM","Micronesia","40.1"
-"ECU","Ecuador","40.1"
-"NIC","Nicaragua","40.1"
-"PHL","Philippines","40.1"
-"SEN","Senegal","40.3"
-"SYC","Seychelles","40.3"
-"VEN","Venezuela",
-"MAR","Morocco","40.7"
-"TKM","Turkmenistan","40.8"
-"UGA","Uganda","41"
-"CHL","Chile","41"
-"TUR","Turkey","41.2"
-"PRY","Paraguay","41.3"
-"CRI","Costa Rica","41.5"
-"CIV","Cote d'Ivoire","41.7"
-"PNG","Papua New Guinea","41.8"
-"GTM","Guatemala","41.9"
-"WSM","Samoa","42"
-"COD","Congo",
-"GAB","Gabon","42.2"
-"GHA","Ghana","42.2"
-"MEX","Mexico","42.3"
-"MDG","Madagascar","42.7"
-"AGO","Angola","42.7"
-"NGA","Nigeria","43"
-"TGO","Togo","43"
-"HND","Honduras","43.1"
-"ZWE","Zimbabwe","43.2"
-"TCD","Chad","43.3"
-"PAN","Panama","43.9"
-"COL","Colombia","44"
-"DJI","Djibouti","44.1"
-"BRA","Brazil","44.2"
-"COM","Comoros","45"
-"JAM","Jamaica","45.5"
-"MOZ","Mozambique","45.6"
-"BLZ","Belize","45.9"
-"MWI","Malawi","46.1"
-"SSD","South Sudan","46.3"
-"CMR","Cameroon","46.5"
-"CPV","Cabo Verde","47.2"
-"GMB","Gambia",
-"BEN","Benin","47.8"
-"KEN","Kenya","48.5"
-"COG","Congo",
-"SUR","Suriname","49.6"
-"RWA","Rwanda","50.4"
-"GNB","Guinea-Bissau","50.7"
-"SWZ","Swaziland","51.5"
-"HTI","Haiti","52.3"
-"LSO","Lesotho","54.2"
-"CAF","Central African Republic","56.2"
-"ZMB","Zambia","57.1"
-"BWA","Botswana","60.5"
-"NAM","Namibia","61"
-"ZAF","South Africa","63.4"
+geocodigoFundar,geonombreFundar,pais,gini
+ISL,Islandia,Iceland,24.3
+SVN,Eslovenia,Slovenia,24.3
+CZE,Chequia,Czech Republic,24.6
+SVK,Eslovaquia,Slovak Republic,24.8
+NOR,Noruega,Norway,25.4
+FIN,Finlandia,Finland,25.4
+UKR,Ucrania,Ukraine,25.5
+SWE,Suecia,Sweden,25.8
+KAZ,Kazajstán,Kazakhstan,26.5
+BEL,Bélgica,Belgium,26.7
+XKX,Kosovo,Kosovo,26.7
+BLR,Belarús,Belarus,26.7
+MDA,Moldavia,Moldova,27.0
+DNK,Dinamarca,Denmark,27.1
+NLD,Países Bajos,Netherlands,27.1
+DZA,Argelia,Algeria,27.6
+HUN,Hungría,Hungary,28.8
+AUT,Austria,Austria,28.9
+ALB,Albania,Albania,29.0
+KGZ,Kirguistán,Kyrgyz Republic,29.0
+SRB,Serbia,Serbia,29.1
+IRQ,Iraq,Iraq,29.5
+LUX,Luxemburgo,Luxembourg,29.5
+DEU,Alemania,Germany,29.8
+KOR,Corea del Sur,Korea,
+HRV,Croacia,Croatia,30.0
+IRL,Irlanda,Ireland,30.2
+TLS,Timor-Leste,Timor-Leste,30.3
+JPN,Japón,Japan,30.4
+FRA,Francia,France,30.6
+PAK,Pakistán,Pakistan,30.7
+CHE,Suiza,Switzerland,30.8
+STP,Santo Tomé y Príncipe,Sao Tome and Principe,30.8
+AZE,Azerbaiyán,Azerbaijan,31.8
+EGY,Egipto,Egypt,
+LBN,Líbano,Lebanon,31.8
+MNE,Montenegro,Montenegro,31.9
+MNG,Mongolia,Mongolia,32.0
+POL,Polonia,Poland,32.1
+BGD,Bangladesh,Bangladesh,32.1
+EST,Estonia,Estonia,32.2
+CAN,Canadá,Canada,32.3
+GBR,Reino Unido,United Kingdom,32.3
+ARM,Armenia,Armenia,32.4
+MRT,Mauritania,Mauritania,32.4
+LVA,Letonia,Latvia,32.7
+NPL,Nepal,Nepal,32.8
+ITA,Italia,Italy,32.9
+AUS,Australia,Australia,32.9
+MLI,Malí,Mali,33.0
+MKD,Macedonia del Norte,Macedonia,
+ETH,Etiopía,Ethiopia,33.2
+LBR,Liberia,Liberia,33.2
+JOR,Jordania,Jordan,33.7
+PRT,Portugal,Portugal,33.7
+CYP,Chipre,Cyprus,33.7
+GIN,Guinea,Guinea,33.7
+BIH,Bosnia y Herzegovina,Bosnia and Herzegovina,33.8
+GRC,Grecia,Greece,34.0
+NER,Níger,Niger,34.0
+SLE,Sierra Leona,Sierra Leone,34.0
+TJK,Tayikistán,Tajikistan,34.0
+ESP,España,Spain,34.2
+PSE,Palestina,West Bank and Gaza,34.4
+TTO,Trinidad y Tobago,Trinidad and Tobago,34.7
+VNM,Vietnam,Vietnam,34.8
+BGR,Bulgaria,Bulgaria,34.8
+LTU,Lituania,Lithuania,35.1
+UZB,Uzbekistán,Uzbekistan,35.3
+BFA,Burkina Faso,Burkina Faso,35.3
+SDN,Sudán,Sudan,35.4
+IND,India,India,35.7
+SYR,Siria,Syrian Arab Republic,35.8
+TUN,Túnez,Tunisia,35.8
+MUS,Mauricio,Mauritius,35.8
+URY,Uruguay,Uruguay,35.9
+ROU,Rumania,Romania,36.4
+LAO,Laos,Lao PDR,36.4
+FJI,Fiji,Fiji,36.4
+LCA,Santa Lucía,St. Lucia,36.7
+YEM,Yemen,Yemen,
+ARG,Argentina,Argentina,36.7
+KIR,Kiribati,Kiribati,37.0
+SLB,Islas Salomón,Solomon Islands,37.0
+VUT,Vanuatu,Vanuatu,37.3
+TON,Tonga,Tonga,37.5
+RUS,Rusia,Russian Federation,37.7
+TZA,Tanzanía,Tanzania,37.8
+THA,Tailandia,Thailand,37.8
+MMR,Myanmar,Myanmar,38.1
+PER,Perú,Peru,38.1
+GUY,Guyana,Guyana,38.4
+MDV,Maldivas,Maldives,38.4
+GEO,Georgia,Georgia,38.5
+IDN,Indonesia,Indonesia,38.6
+CHN,China,China,38.6
+DOM,Rep. Dominicana,Dominican Republic,38.6
+IRN,Irán,Iran,
+BTN,Bhután,Bhutan,38.8
+USA,Estados Unidos,United States,38.9
+TUV,Tuvalu,Tuvalu,39.1
+LKA,Sri Lanka,Sri Lanka,39.2
+BDI,Burundi,Burundi,39.2
+ISR,Israel,Israel,39.2
+BOL,Bolivia,Bolivia,39.4
+MYS,Malasia,Malaysia,39.8
+FSM,Micronesia,Micronesia,40.1
+ECU,Ecuador,Ecuador,40.1
+NIC,Nicaragua,Nicaragua,40.1
+PHL,Filipinas,Philippines,40.1
+SEN,Senegal,Senegal,40.3
+SYC,Seychelles,Seychelles,40.3
+VEN,Venezuela,Venezuela,
+MAR,Marruecos,Morocco,40.7
+TKM,Turkmenistán,Turkmenistan,40.8
+UGA,Uganda,Uganda,41.0
+CHL,Chile,Chile,41.0
+TUR,Turquía,Turkey,41.2
+PRY,Paraguay,Paraguay,41.3
+CRI,Costa Rica,Costa Rica,41.5
+CIV,Costa de Marfil,Cote d'Ivoire,41.7
+PNG,Papúa Nueva Guinea,Papua New Guinea,41.8
+GTM,Guatemala,Guatemala,41.9
+WSM,Samoa,Samoa,42.0
+COD,Rep. Dem. Congo,Congo,
+GAB,Gabón,Gabon,42.2
+GHA,Ghana,Ghana,42.2
+MEX,México,Mexico,42.3
+MDG,Madagascar,Madagascar,42.7
+AGO,Angola,Angola,42.7
+NGA,Nigeria,Nigeria,43.0
+TGO,Togo,Togo,43.0
+HND,Honduras,Honduras,43.1
+ZWE,Zimbabwe,Zimbabwe,43.2
+TCD,Chad,Chad,43.3
+PAN,Panamá,Panama,43.9
+COL,Colombia,Colombia,44.0
+DJI,Djibouti,Djibouti,44.1
+BRA,Brasil,Brazil,44.2
+COM,Comoras,Comoros,45.0
+JAM,Jamaica,Jamaica,45.5
+MOZ,Mozambique,Mozambique,45.6
+BLZ,Belice,Belize,45.9
+MWI,Malawi,Malawi,46.1
+SSD,Sudán del Sur,South Sudan,46.3
+CMR,Camerún,Cameroon,46.5
+CPV,Cabo Verde,Cabo Verde,47.2
+GMB,Gambia,Gambia,
+BEN,Benin,Benin,47.8
+KEN,Kenia,Kenya,48.5
+COG,Congo,Congo,
+SUR,Suriname,Suriname,49.6
+RWA,Ruanda,Rwanda,50.4
+GNB,Guinea-Bissau,Guinea-Bissau,50.7
+SWZ,Eswatini,Swaziland,51.5
+HTI,Haití,Haiti,52.3
+LSO,Lesotho,Lesotho,54.2
+CAF,Rep. Centroafricana,Central African Republic,56.2
+ZMB,Zambia,Zambia,57.1
+BWA,Botswana,Botswana,60.5
+NAM,Namibia,Namibia,61.0
+ZAF,Sudáfrica,South Africa,63.4

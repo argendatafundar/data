@@ -1,16 +1,16 @@
-"rama_vendedora","porcentaje_compra_sector_minero"
-"Industria",24
-"Construcción",17.6
-"Comercio",15.3
-"Servicios profesionales y empresariales",11
-"Petróleo y gas",8.7
-"Transporte y logística",8.1
-"Servicios para la minería",4.4
-"Minería",3.6
-"Hoteles y restaurantes",3.5
-"Información y comunicación",1
-"Electricidad y gas",0.8
-"Otros servicios",0.7
-"Finanzas y seguros",0.5
-"Agro",0.5
-"Agua y saneamiento",0.2
+rama_vendedora,porcentaje_compra_sector_minero
+Industria,24.0
+Construcción,17.6
+Comercio,15.3
+Servicios profesionales y empresariales,11.0
+Petróleo y gas,8.7
+Transporte y logística,8.1
+Servicios para la minería,4.4
+Minería,3.6
+Hoteles y restaurantes,3.5
+Información y comunicación,1.0
+Electricidad y gas,0.8
+Otros servicios,0.7
+Finanzas y seguros,0.5
+Agro,0.5
+Agua y saneamiento,0.2

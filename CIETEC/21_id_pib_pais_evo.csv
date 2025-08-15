@@ -1,0 +1,2528 @@
+geocodigoFundar,geonombreFundar,anio,gerd_gdp,nivel_agregacion
+AGO,Angola,2016,0.03229,pais
+ALB,Albania,2007,0.08757,pais
+ALB,Albania,2008,0.15412,pais
+ARE,Emiratos Árabes Unidos,2011,0.47252,pais
+ARE,Emiratos Árabes Unidos,2014,0.67523,pais
+ARE,Emiratos Árabes Unidos,2015,0.8657,pais
+ARE,Emiratos Árabes Unidos,2016,0.9318,pais
+ARE,Emiratos Árabes Unidos,2018,1.26389,pais
+ARE,Emiratos Árabes Unidos,2019,1.31065,pais
+ARE,Emiratos Árabes Unidos,2020,1.48831,pais
+ARE,Emiratos Árabes Unidos,2021,1.49469,pais
+ARG,Argentina,1996,0.41749,pais
+ARG,Argentina,1997,0.41959,pais
+ARG,Argentina,1998,0.41131,pais
+ARG,Argentina,1999,0.45337,pais
+ARG,Argentina,2000,0.43884,pais
+ARG,Argentina,2001,0.42461,pais
+ARG,Argentina,2002,0.38886,pais
+ARG,Argentina,2003,0.41013,pais
+ARG,Argentina,2004,0.40376,pais
+ARG,Argentina,2005,0.42074,pais
+ARG,Argentina,2006,0.45216,pais
+ARG,Argentina,2007,0.46007,pais
+ARG,Argentina,2008,0.47055,pais
+ARG,Argentina,2009,0.58398,pais
+ARG,Argentina,2010,0.56104,pais
+ARG,Argentina,2011,0.56597,pais
+ARG,Argentina,2012,0.63491,pais
+ARG,Argentina,2013,0.61849,pais
+ARG,Argentina,2014,0.59396,pais
+ARG,Argentina,2015,0.62262,pais
+ARG,Argentina,2016,0.55815,pais
+ARG,Argentina,2017,0.55631,pais
+ARG,Argentina,2018,0.4883,pais
+ARG,Argentina,2019,0.47813,pais
+ARG,Argentina,2020,0.54126,pais
+ARG,Argentina,2021,0.52216,pais
+ARG,Argentina,2022,0.54947,pais
+ARM,Armenia,1997,0.18692,pais
+ARM,Armenia,1998,0.22601,pais
+ARM,Armenia,1999,0.214,pais
+ARM,Armenia,2000,0.19106,pais
+ARM,Armenia,2001,0.27987,pais
+ARM,Armenia,2002,0.25255,pais
+ARM,Armenia,2003,0.32109,pais
+ARM,Armenia,2004,0.25659,pais
+ARM,Armenia,2005,0.25761,pais
+ARM,Armenia,2006,0.24057,pais
+ARM,Armenia,2007,0.21107,pais
+ARM,Armenia,2008,0.22438,pais
+ARM,Armenia,2009,0.29093,pais
+ARM,Armenia,2010,0.24139,pais
+ARM,Armenia,2011,0.27014,pais
+ARM,Armenia,2012,0.23853,pais
+ARM,Armenia,2013,0.22216,pais
+ARM,Armenia,2014,0.24151,pais
+ARM,Armenia,2015,0.25002,pais
+ARM,Armenia,2016,0.23305,pais
+ARM,Armenia,2017,0.22788,pais
+ARM,Armenia,2018,0.18876,pais
+ARM,Armenia,2019,0.17854,pais
+ARM,Armenia,2020,0.2092,pais
+ARM,Armenia,2021,0.20557,pais
+ARM,Armenia,2022,0.20955,pais
+ARM,Armenia,2023,0.18115,pais
+ASM,Samoa Americana,2003,0.18787,pais
+ASM,Samoa Americana,2004,0.32528,pais
+ASM,Samoa Americana,2005,0.36692,pais
+ASM,Samoa Americana,2006,0.39552,pais
+AUS,Australia,1996,1.66218,pais
+AUS,Australia,1998,1.51351,pais
+AUS,Australia,2000,1.57198,pais
+AUS,Australia,2002,1.74654,pais
+AUS,Australia,2004,1.84802,pais
+AUS,Australia,2006,2.17862,pais
+AUS,Australia,2008,2.39898,pais
+AUS,Australia,2010,2.37009,pais
+AUS,Australia,2011,2.23445,pais
+AUS,Australia,2013,2.17709,pais
+AUS,Australia,2015,1.91902,pais
+AUS,Australia,2017,1.87919,pais
+AUS,Australia,2019,1.8257,pais
+AUS,Australia,2021,1.85509,pais
+AUT,Austria,1996,1.58077,pais
+AUT,Austria,1997,1.65491,pais
+AUT,Austria,1998,1.73155,pais
+AUT,Austria,1999,1.84537,pais
+AUT,Austria,2000,1.88602,pais
+AUT,Austria,2001,1.9921,pais
+AUT,Austria,2002,2.06598,pais
+AUT,Austria,2003,2.17456,pais
+AUT,Austria,2004,2.16612,pais
+AUT,Austria,2005,2.37324,pais
+AUT,Austria,2006,2.35923,pais
+AUT,Austria,2007,2.41843,pais
+AUT,Austria,2008,2.56945,pais
+AUT,Austria,2009,2.59674,pais
+AUT,Austria,2010,2.7261,pais
+AUT,Austria,2011,2.66868,pais
+AUT,Austria,2012,2.91472,pais
+AUT,Austria,2013,2.95492,pais
+AUT,Austria,2014,3.08429,pais
+AUT,Austria,2015,3.04969,pais
+AUT,Austria,2016,3.11655,pais
+AUT,Austria,2017,3.05656,pais
+AUT,Austria,2018,3.09182,pais
+AUT,Austria,2019,3.13265,pais
+AUT,Austria,2020,3.20278,pais
+AUT,Austria,2021,3.26361,pais
+AUT,Austria,2022,3.20048,pais
+AZE,Azerbaiyán,1996,0.23533,pais
+AZE,Azerbaiyán,1997,0.3695,pais
+AZE,Azerbaiyán,1998,0.42125,pais
+AZE,Azerbaiyán,1999,0.39289,pais
+AZE,Azerbaiyán,2000,0.336,pais
+AZE,Azerbaiyán,2001,0.34001,pais
+AZE,Azerbaiyán,2002,0.30155,pais
+AZE,Azerbaiyán,2003,0.32496,pais
+AZE,Azerbaiyán,2004,0.29831,pais
+AZE,Azerbaiyán,2005,0.21994,pais
+AZE,Azerbaiyán,2006,0.17165,pais
+AZE,Azerbaiyán,2007,0.17006,pais
+AZE,Azerbaiyán,2008,0.16554,pais
+AZE,Azerbaiyán,2009,0.24976,pais
+AZE,Azerbaiyán,2010,0.21848,pais
+AZE,Azerbaiyán,2011,0.21084,pais
+AZE,Azerbaiyán,2012,0.21427,pais
+AZE,Azerbaiyán,2013,0.20969,pais
+AZE,Azerbaiyán,2014,0.20978,pais
+AZE,Azerbaiyán,2015,0.22232,pais
+AZE,Azerbaiyán,2016,0.20637,pais
+AZE,Azerbaiyán,2017,0.18468,pais
+AZE,Azerbaiyán,2018,0.18416,pais
+AZE,Azerbaiyán,2019,0.20013,pais
+AZE,Azerbaiyán,2020,0.2239,pais
+AZE,Azerbaiyán,2021,0.20836,pais
+AZE,Azerbaiyán,2022,0.1513,pais
+AZE,Azerbaiyán,2023,0.18178,pais
+BDI,Burundi,2007,0.20068,pais
+BDI,Burundi,2008,0.15417,pais
+BDI,Burundi,2009,0.14096,pais
+BDI,Burundi,2010,0.13719,pais
+BDI,Burundi,2012,0.10702,pais
+BDI,Burundi,2018,0.21312,pais
+BEL,Bélgica,1996,1.74299,pais
+BEL,Bélgica,1997,1.80971,pais
+BEL,Bélgica,1998,1.83825,pais
+BEL,Bélgica,1999,1.90565,pais
+BEL,Bélgica,2000,1.9362,pais
+BEL,Bélgica,2001,2.03279,pais
+BEL,Bélgica,2002,1.90325,pais
+BEL,Bélgica,2003,1.84119,pais
+BEL,Bélgica,2004,1.8205,pais
+BEL,Bélgica,2005,1.79061,pais
+BEL,Bélgica,2006,1.82269,pais
+BEL,Bélgica,2007,1.84999,pais
+BEL,Bélgica,2008,1.93684,pais
+BEL,Bélgica,2009,1.9986,pais
+BEL,Bélgica,2010,2.06188,pais
+BEL,Bélgica,2011,2.17332,pais
+BEL,Bélgica,2012,2.28114,pais
+BEL,Bélgica,2013,2.33073,pais
+BEL,Bélgica,2014,2.37002,pais
+BEL,Bélgica,2015,2.42817,pais
+BEL,Bélgica,2016,2.52338,pais
+BEL,Bélgica,2017,2.66666,pais
+BEL,Bélgica,2018,2.86018,pais
+BEL,Bélgica,2019,3.1566,pais
+BEL,Bélgica,2020,3.39175,pais
+BEL,Bélgica,2021,3.39239,pais
+BEL,Bélgica,2022,3.40544,pais
+BFA,Burkina Faso,1996,0.15834,pais
+BFA,Burkina Faso,1997,0.18104,pais
+BFA,Burkina Faso,2001,0.16816,pais
+BFA,Burkina Faso,2002,0.30111,pais
+BFA,Burkina Faso,2003,0.24112,pais
+BFA,Burkina Faso,2004,0.21514,pais
+BFA,Burkina Faso,2005,0.15166,pais
+BFA,Burkina Faso,2007,0.09836,pais
+BFA,Burkina Faso,2008,0.16568,pais
+BFA,Burkina Faso,2009,0.17787,pais
+BFA,Burkina Faso,2014,0.19719,pais
+BFA,Burkina Faso,2017,0.61361,pais
+BFA,Burkina Faso,2019,0.17435,pais
+BFA,Burkina Faso,2020,0.25116,pais
+BFA,Burkina Faso,2021,0.25126,pais
+BGR,Bulgaria,1996,0.41826,pais
+BGR,Bulgaria,1997,0.46548,pais
+BGR,Bulgaria,1998,0.48223,pais
+BGR,Bulgaria,1999,0.53688,pais
+BGR,Bulgaria,2000,0.49517,pais
+BGR,Bulgaria,2001,0.44709,pais
+BGR,Bulgaria,2002,0.46473,pais
+BGR,Bulgaria,2003,0.47222,pais
+BGR,Bulgaria,2004,0.47086,pais
+BGR,Bulgaria,2005,0.44269,pais
+BGR,Bulgaria,2006,0.44216,pais
+BGR,Bulgaria,2007,0.43003,pais
+BGR,Bulgaria,2008,0.44731,pais
+BGR,Bulgaria,2009,0.49338,pais
+BGR,Bulgaria,2010,0.56299,pais
+BGR,Bulgaria,2011,0.5295,pais
+BGR,Bulgaria,2012,0.60039,pais
+BGR,Bulgaria,2013,0.63424,pais
+BGR,Bulgaria,2014,0.79007,pais
+BGR,Bulgaria,2015,0.94947,pais
+BGR,Bulgaria,2016,0.77009,pais
+BGR,Bulgaria,2017,0.74037,pais
+BGR,Bulgaria,2018,0.75413,pais
+BGR,Bulgaria,2019,0.83274,pais
+BGR,Bulgaria,2020,0.84967,pais
+BGR,Bulgaria,2021,0.77278,pais
+BGR,Bulgaria,2022,0.75421,pais
+BHR,Bahrein,2014,0.10116,pais
+BIH,Bosnia y Herzegovina,2003,0.01826,pais
+BIH,Bosnia y Herzegovina,2004,0.0159,pais
+BIH,Bosnia y Herzegovina,2005,0.02697,pais
+BIH,Bosnia y Herzegovina,2006,0.01969,pais
+BIH,Bosnia y Herzegovina,2007,0.02521,pais
+BIH,Bosnia y Herzegovina,2008,0.01842,pais
+BIH,Bosnia y Herzegovina,2009,0.02106,pais
+BIH,Bosnia y Herzegovina,2012,0.26533,pais
+BIH,Bosnia y Herzegovina,2013,0.32132,pais
+BIH,Bosnia y Herzegovina,2014,0.25725,pais
+BIH,Bosnia y Herzegovina,2015,0.21603,pais
+BIH,Bosnia y Herzegovina,2016,0.21337,pais
+BIH,Bosnia y Herzegovina,2017,0.1978,pais
+BIH,Bosnia y Herzegovina,2018,0.19199,pais
+BIH,Bosnia y Herzegovina,2019,0.19001,pais
+BIH,Bosnia y Herzegovina,2020,0.20325,pais
+BIH,Bosnia y Herzegovina,2021,0.19035,pais
+BIH,Bosnia y Herzegovina,2022,0.18743,pais
+BIH,Bosnia y Herzegovina,2023,0.19228,pais
+BLR,Belarús,1996,0.99852,pais
+BLR,Belarús,1997,0.73,pais
+BLR,Belarús,1998,0.70578,pais
+BLR,Belarús,1999,0.84523,pais
+BLR,Belarús,2000,0.7221,pais
+BLR,Belarús,2001,0.70876,pais
+BLR,Belarús,2002,0.6209,pais
+BLR,Belarús,2003,0.61147,pais
+BLR,Belarús,2004,0.62759,pais
+BLR,Belarús,2005,0.67852,pais
+BLR,Belarús,2006,0.66065,pais
+BLR,Belarús,2007,0.96203,pais
+BLR,Belarús,2008,0.74147,pais
+BLR,Belarús,2009,0.62167,pais
+BLR,Belarús,2010,0.66913,pais
+BLR,Belarús,2011,0.6776,pais
+BLR,Belarús,2012,0.64603,pais
+BLR,Belarús,2013,0.65191,pais
+BLR,Belarús,2014,0.50548,pais
+BLR,Belarús,2015,0.49999,pais
+BLR,Belarús,2016,0.50063,pais
+BLR,Belarús,2017,0.58411,pais
+BLR,Belarús,2018,0.60443,pais
+BLR,Belarús,2019,0.57733,pais
+BLR,Belarús,2020,0.53901,pais
+BLR,Belarús,2021,0.45981,pais
+BLR,Belarús,2022,0.47477,pais
+BLR,Belarús,2023,0.57843,pais
+BMU,Bermuda,1997,0.05885,pais
+BMU,Bermuda,2007,0.16026,pais
+BMU,Bermuda,2008,0.16848,pais
+BMU,Bermuda,2009,0.18235,pais
+BMU,Bermuda,2010,0.1805,pais
+BMU,Bermuda,2011,0.26195,pais
+BMU,Bermuda,2012,0.23355,pais
+BMU,Bermuda,2013,0.1963,pais
+BMU,Bermuda,2014,0.19083,pais
+BMU,Bermuda,2015,0.19507,pais
+BMU,Bermuda,2018,0.22851,pais
+BMU,Bermuda,2019,0.26451,pais
+BMU,Bermuda,2020,0.22546,pais
+BOL,Bolivia,1996,0.32544,pais
+BOL,Bolivia,1997,0.31577,pais
+BOL,Bolivia,1998,0.29495,pais
+BOL,Bolivia,1999,0.29836,pais
+BOL,Bolivia,2000,0.28744,pais
+BOL,Bolivia,2001,0.29358,pais
+BOL,Bolivia,2002,0.27663,pais
+BOL,Bolivia,2009,0.157,pais
+BRA,Brasil,2000,1.04751,pais
+BRA,Brasil,2001,1.06198,pais
+BRA,Brasil,2002,1.00968,pais
+BRA,Brasil,2003,0.99939,pais
+BRA,Brasil,2004,0.96343,pais
+BRA,Brasil,2005,1.00246,pais
+BRA,Brasil,2006,0.98807,pais
+BRA,Brasil,2007,1.08138,pais
+BRA,Brasil,2008,1.12904,pais
+BRA,Brasil,2009,1.11866,pais
+BRA,Brasil,2010,1.15992,pais
+BRA,Brasil,2011,1.13966,pais
+BRA,Brasil,2012,1.12684,pais
+BRA,Brasil,2013,1.19567,pais
+BRA,Brasil,2014,1.26971,pais
+BRA,Brasil,2015,1.37093,pais
+BRA,Brasil,2016,1.28637,pais
+BRA,Brasil,2017,1.1175,pais
+BRA,Brasil,2018,1.16769,pais
+BRA,Brasil,2019,1.21096,pais
+BRA,Brasil,2020,1.14526,pais
+BRN,Brunei,2002,0.01592,pais
+BRN,Brunei,2003,0.01842,pais
+BRN,Brunei,2004,0.03701,pais
+BRN,Brunei,2018,0.27764,pais
+BWA,Botswana,2005,0.53286,pais
+BWA,Botswana,2012,0.26759,pais
+BWA,Botswana,2013,0.561,pais
+CAN,Canadá,1996,1.60682,pais
+CAN,Canadá,1997,1.61386,pais
+CAN,Canadá,1998,1.71051,pais
+CAN,Canadá,1999,1.74985,pais
+CAN,Canadá,2000,1.85848,pais
+CAN,Canadá,2001,2.02117,pais
+CAN,Canadá,2002,1.97171,pais
+CAN,Canadá,2003,1.96781,pais
+CAN,Canadá,2004,1.99734,pais
+CAN,Canadá,2005,1.97127,pais
+CAN,Canadá,2006,1.94304,pais
+CAN,Canadá,2007,1.90358,pais
+CAN,Canadá,2008,1.85578,pais
+CAN,Canadá,2009,1.91742,pais
+CAN,Canadá,2010,1.82504,pais
+CAN,Canadá,2011,1.78714,pais
+CAN,Canadá,2012,1.77304,pais
+CAN,Canadá,2013,1.70624,pais
+CAN,Canadá,2014,1.71483,pais
+CAN,Canadá,2015,1.69359,pais
+CAN,Canadá,2016,1.72903,pais
+CAN,Canadá,2017,1.68702,pais
+CAN,Canadá,2018,1.7372,pais
+CAN,Canadá,2019,1.75578,pais
+CAN,Canadá,2020,1.93414,pais
+CAN,Canadá,2021,1.86431,pais
+CAN,Canadá,2022,1.71166,pais
+CAN,Canadá,2023,1.70133,pais
+CHE,Suiza,1996,2.37649,pais
+CHE,Suiza,2000,2.26386,pais
+CHE,Suiza,2004,2.60818,pais
+CHE,Suiza,2008,2.65296,pais
+CHE,Suiza,2012,2.87457,pais
+CHE,Suiza,2015,3.07832,pais
+CHE,Suiza,2017,3.07698,pais
+CHE,Suiza,2019,3.1968,pais
+CHE,Suiza,2021,3.30645,pais
+CHL,Chile,2007,0.31143,pais
+CHL,Chile,2008,0.37492,pais
+CHL,Chile,2009,0.35403,pais
+CHL,Chile,2010,0.33165,pais
+CHL,Chile,2011,0.35288,pais
+CHL,Chile,2012,0.36213,pais
+CHL,Chile,2013,0.3903,pais
+CHL,Chile,2014,0.37668,pais
+CHL,Chile,2015,0.38296,pais
+CHL,Chile,2016,0.37103,pais
+CHL,Chile,2017,0.35679,pais
+CHL,Chile,2018,0.36916,pais
+CHL,Chile,2019,0.34243,pais
+CHL,Chile,2020,0.33525,pais
+CHL,Chile,2021,0.36041,pais
+CHN,China,1996,0.56324,pais
+CHN,China,1997,0.63873,pais
+CHN,China,1998,0.64689,pais
+CHN,China,1999,0.74963,pais
+CHN,China,2000,0.89316,pais
+CHN,China,2001,0.94033,pais
+CHN,China,2002,1.05786,pais
+CHN,China,2003,1.12037,pais
+CHN,China,2004,1.21498,pais
+CHN,China,2005,1.30792,pais
+CHN,China,2006,1.36854,pais
+CHN,China,2007,1.37369,pais
+CHN,China,2008,1.44592,pais
+CHN,China,2009,1.6648,pais
+CHN,China,2010,1.71372,pais
+CHN,China,2011,1.78034,pais
+CHN,China,2012,1.91214,pais
+CHN,China,2013,1.99786,pais
+CHN,China,2014,2.02243,pais
+CHN,China,2015,2.05701,pais
+CHN,China,2016,2.10033,pais
+CHN,China,2017,2.11603,pais
+CHN,China,2018,2.14058,pais
+CHN,China,2019,2.24463,pais
+CHN,China,2020,2.40666,pais
+CHN,China,2021,2.4326,pais
+CHN,China,2022,2.55518,pais
+CIV,Costa de Marfil,2016,0.06975,pais
+COD,Rep. Dem. Congo,2004,0.26777,pais
+COD,Rep. Dem. Congo,2005,0.05799,pais
+COD,Rep. Dem. Congo,2006,0.06044,pais
+COD,Rep. Dem. Congo,2007,0.13609,pais
+COD,Rep. Dem. Congo,2008,0.08253,pais
+COD,Rep. Dem. Congo,2009,0.07822,pais
+COD,Rep. Dem. Congo,2015,0.40638,pais
+COG,Congo,2022,0.38339,pais
+COL,Colombia,2000,0.13106,pais
+COL,Colombia,2001,0.1329,pais
+COL,Colombia,2002,0.15559,pais
+COL,Colombia,2003,0.17398,pais
+COL,Colombia,2004,0.16964,pais
+COL,Colombia,2005,0.16557,pais
+COL,Colombia,2006,0.16427,pais
+COL,Colombia,2007,0.18307,pais
+COL,Colombia,2008,0.19541,pais
+COL,Colombia,2009,0.19351,pais
+COL,Colombia,2010,0.19358,pais
+COL,Colombia,2011,0.19842,pais
+COL,Colombia,2012,0.22116,pais
+COL,Colombia,2013,0.25761,pais
+COL,Colombia,2014,0.30317,pais
+COL,Colombia,2015,0.36542,pais
+COL,Colombia,2016,0.27051,pais
+COL,Colombia,2017,0.26109,pais
+COL,Colombia,2018,0.31233,pais
+COL,Colombia,2019,0.32201,pais
+COL,Colombia,2020,0.2894,pais
+CPV,Cabo Verde,2011,0.06622,pais
+CRI,Costa Rica,1996,0.30221,pais
+CRI,Costa Rica,1997,0.29569,pais
+CRI,Costa Rica,1998,0.26526,pais
+CRI,Costa Rica,1999,0.36759,pais
+CRI,Costa Rica,2000,0.41135,pais
+CRI,Costa Rica,2003,0.3619,pais
+CRI,Costa Rica,2004,0.37288,pais
+CRI,Costa Rica,2006,0.42693,pais
+CRI,Costa Rica,2007,0.35655,pais
+CRI,Costa Rica,2008,0.38593,pais
+CRI,Costa Rica,2009,0.51718,pais
+CRI,Costa Rica,2010,0.4799,pais
+CRI,Costa Rica,2011,0.46235,pais
+CRI,Costa Rica,2012,0.54713,pais
+CRI,Costa Rica,2013,0.54253,pais
+CRI,Costa Rica,2014,0.55627,pais
+CRI,Costa Rica,2015,0.43665,pais
+CRI,Costa Rica,2016,0.44335,pais
+CRI,Costa Rica,2017,0.42587,pais
+CRI,Costa Rica,2018,0.37144,pais
+CRI,Costa Rica,2020,0.33002,pais
+CRI,Costa Rica,2021,0.27385,pais
+CRI,Costa Rica,2022,0.33789,pais
+CUB,Cuba,1996,0.34736,pais
+CUB,Cuba,1997,0.40172,pais
+CUB,Cuba,1998,0.50124,pais
+CUB,Cuba,1999,0.45832,pais
+CUB,Cuba,2000,0.47865,pais
+CUB,Cuba,2001,0.5653,pais
+CUB,Cuba,2002,0.56445,pais
+CUB,Cuba,2003,0.58243,pais
+CUB,Cuba,2004,0.60231,pais
+CUB,Cuba,2005,0.5492,pais
+CUB,Cuba,2006,0.44139,pais
+CUB,Cuba,2007,0.43615,pais
+CUB,Cuba,2008,0.50061,pais
+CUB,Cuba,2009,0.61485,pais
+CUB,Cuba,2010,0.60767,pais
+CUB,Cuba,2011,0.27192,pais
+CUB,Cuba,2012,0.40716,pais
+CUB,Cuba,2013,0.47467,pais
+CUB,Cuba,2014,0.41596,pais
+CUB,Cuba,2015,0.42854,pais
+CUB,Cuba,2016,0.34223,pais
+CUB,Cuba,2017,0.43066,pais
+CUB,Cuba,2018,0.53691,pais
+CUB,Cuba,2019,0.55308,pais
+CUB,Cuba,2020,0.51838,pais
+CUB,Cuba,2021,0.32282,pais
+CUB,Cuba,2022,0.36012,pais
+CYP,Chipre,1998,0.20331,pais
+CYP,Chipre,1999,0.21806,pais
+CYP,Chipre,2000,0.2269,pais
+CYP,Chipre,2001,0.23694,pais
+CYP,Chipre,2002,0.27967,pais
+CYP,Chipre,2003,0.31834,pais
+CYP,Chipre,2004,0.33564,pais
+CYP,Chipre,2005,0.36727,pais
+CYP,Chipre,2006,0.38346,pais
+CYP,Chipre,2007,0.40007,pais
+CYP,Chipre,2008,0.38594,pais
+CYP,Chipre,2009,0.44437,pais
+CYP,Chipre,2010,0.44292,pais
+CYP,Chipre,2011,0.45263,pais
+CYP,Chipre,2012,0.43765,pais
+CYP,Chipre,2013,0.48485,pais
+CYP,Chipre,2014,0.51205,pais
+CYP,Chipre,2015,0.47529,pais
+CYP,Chipre,2016,0.5197,pais
+CYP,Chipre,2017,0.54259,pais
+CYP,Chipre,2018,0.61405,pais
+CYP,Chipre,2019,0.70945,pais
+CYP,Chipre,2020,0.83654,pais
+CYP,Chipre,2021,0.8003,pais
+CYP,Chipre,2022,0.74527,pais
+CZE,Chequia,1996,0.88912,pais
+CZE,Chequia,1997,0.98819,pais
+CZE,Chequia,1998,1.06022,pais
+CZE,Chequia,1999,1.04957,pais
+CZE,Chequia,2000,1.10997,pais
+CZE,Chequia,2001,1.09871,pais
+CZE,Chequia,2002,1.09819,pais
+CZE,Chequia,2003,1.1421,pais
+CZE,Chequia,2004,1.13935,pais
+CZE,Chequia,2005,1.161,pais
+CZE,Chequia,2006,1.22542,pais
+CZE,Chequia,2007,1.29572,pais
+CZE,Chequia,2008,1.23358,pais
+CZE,Chequia,2009,1.28656,pais
+CZE,Chequia,2010,1.3267,pais
+CZE,Chequia,2011,1.54477,pais
+CZE,Chequia,2012,1.76967,pais
+CZE,Chequia,2013,1.87924,pais
+CZE,Chequia,2014,1.95833,pais
+CZE,Chequia,2015,1.91689,pais
+CZE,Chequia,2016,1.67003,pais
+CZE,Chequia,2017,1.76855,pais
+CZE,Chequia,2018,1.89906,pais
+CZE,Chequia,2019,1.92734,pais
+CZE,Chequia,2020,1.98599,pais
+CZE,Chequia,2021,1.99601,pais
+CZE,Chequia,2022,1.9642,pais
+DEU,Alemania,1996,2.14461,pais
+DEU,Alemania,1997,2.18832,pais
+DEU,Alemania,1998,2.21613,pais
+DEU,Alemania,1999,2.34779,pais
+DEU,Alemania,2000,2.40982,pais
+DEU,Alemania,2001,2.40437,pais
+DEU,Alemania,2002,2.43622,pais
+DEU,Alemania,2003,2.47461,pais
+DEU,Alemania,2004,2.43519,pais
+DEU,Alemania,2005,2.44193,pais
+DEU,Alemania,2006,2.47232,pais
+DEU,Alemania,2007,2.46048,pais
+DEU,Alemania,2008,2.61513,pais
+DEU,Alemania,2009,2.74266,pais
+DEU,Alemania,2010,2.73024,pais
+DEU,Alemania,2011,2.80555,pais
+DEU,Alemania,2012,2.88166,pais
+DEU,Alemania,2013,2.83599,pais
+DEU,Alemania,2014,2.87784,pais
+DEU,Alemania,2015,2.93379,pais
+DEU,Alemania,2016,2.94039,pais
+DEU,Alemania,2017,3.0471,pais
+DEU,Alemania,2018,3.11011,pais
+DEU,Alemania,2019,3.16701,pais
+DEU,Alemania,2020,3.13136,pais
+DEU,Alemania,2021,3.12882,pais
+DEU,Alemania,2022,3.13236,pais
+DNK,Dinamarca,1996,1.80667,pais
+DNK,Dinamarca,1997,1.88914,pais
+DNK,Dinamarca,1998,2.00619,pais
+DNK,Dinamarca,1999,2.12764,pais
+DNK,Dinamarca,2000,2.1862,pais
+DNK,Dinamarca,2001,2.32466,pais
+DNK,Dinamarca,2002,2.44145,pais
+DNK,Dinamarca,2003,2.51085,pais
+DNK,Dinamarca,2004,2.41916,pais
+DNK,Dinamarca,2005,2.39337,pais
+DNK,Dinamarca,2006,2.403,pais
+DNK,Dinamarca,2007,2.51541,pais
+DNK,Dinamarca,2008,2.77346,pais
+DNK,Dinamarca,2009,3.05514,pais
+DNK,Dinamarca,2010,2.91707,pais
+DNK,Dinamarca,2011,2.94465,pais
+DNK,Dinamarca,2012,2.98125,pais
+DNK,Dinamarca,2013,2.97048,pais
+DNK,Dinamarca,2014,2.91409,pais
+DNK,Dinamarca,2015,3.05497,pais
+DNK,Dinamarca,2016,3.09283,pais
+DNK,Dinamarca,2017,2.93124,pais
+DNK,Dinamarca,2018,2.96603,pais
+DNK,Dinamarca,2019,2.89685,pais
+DNK,Dinamarca,2020,2.97258,pais
+DNK,Dinamarca,2021,2.76142,pais
+DNK,Dinamarca,2022,2.89051,pais
+DZA,Argelia,2001,0.21219,pais
+DZA,Argelia,2002,0.33807,pais
+DZA,Argelia,2003,0.18122,pais
+DZA,Argelia,2004,0.15186,pais
+DZA,Argelia,2005,0.06367,pais
+DZA,Argelia,2017,0.47865,pais
+ECU,Ecuador,1996,0.07406,pais
+ECU,Ecuador,1997,0.06263,pais
+ECU,Ecuador,1998,0.06517,pais
+ECU,Ecuador,2001,0.05448,pais
+ECU,Ecuador,2002,0.0584,pais
+ECU,Ecuador,2003,0.06007,pais
+ECU,Ecuador,2006,0.13176,pais
+ECU,Ecuador,2007,0.13501,pais
+ECU,Ecuador,2008,0.23011,pais
+ECU,Ecuador,2009,0.41055,pais
+ECU,Ecuador,2010,0.41127,pais
+ECU,Ecuador,2011,0.34115,pais
+ECU,Ecuador,2012,0.33308,pais
+ECU,Ecuador,2013,0.37423,pais
+ECU,Ecuador,2014,0.43839,pais
+EGY,Egipto,1996,0.2126,pais
+EGY,Egipto,1997,0.19756,pais
+EGY,Egipto,1998,0.1991,pais
+EGY,Egipto,1999,0.18651,pais
+EGY,Egipto,2000,0.19247,pais
+EGY,Egipto,2004,0.26994,pais
+EGY,Egipto,2005,0.24141,pais
+EGY,Egipto,2006,0.25903,pais
+EGY,Egipto,2007,0.2551,pais
+EGY,Egipto,2008,0.27024,pais
+EGY,Egipto,2009,0.43312,pais
+EGY,Egipto,2010,0.43345,pais
+EGY,Egipto,2011,0.53154,pais
+EGY,Egipto,2012,0.50899,pais
+EGY,Egipto,2013,0.63895,pais
+EGY,Egipto,2014,0.63649,pais
+EGY,Egipto,2015,0.71858,pais
+EGY,Egipto,2016,0.70848,pais
+EGY,Egipto,2017,0.64486,pais
+EGY,Egipto,2018,0.68839,pais
+EGY,Egipto,2019,0.79617,pais
+EGY,Egipto,2020,0.91564,pais
+EGY,Egipto,2021,0.91175,pais
+EGY,Egipto,2022,1.01968,pais
+EGY,Egipto,2023,1.03356,pais
+ESP,España,1996,0.78753,pais
+ESP,España,1997,0.77781,pais
+ESP,España,1998,0.84804,pais
+ESP,España,1999,0.83854,pais
+ESP,España,2000,0.88276,pais
+ESP,España,2001,0.88833,pais
+ESP,España,2002,0.95971,pais
+ESP,España,2003,1.02373,pais
+ESP,España,2004,1.04089,pais
+ESP,España,2005,1.09956,pais
+ESP,España,2006,1.17702,pais
+ESP,España,2007,1.24053,pais
+ESP,España,2008,1.325,pais
+ESP,España,2009,1.36364,pais
+ESP,España,2010,1.35996,pais
+ESP,España,2011,1.33341,pais
+ESP,España,2012,1.29876,pais
+ESP,España,2013,1.27482,pais
+ESP,España,2014,1.24159,pais
+ESP,España,2015,1.22179,pais
+ESP,España,2016,1.18986,pais
+ESP,España,2017,1.20977,pais
+ESP,España,2018,1.24151,pais
+ESP,España,2019,1.25025,pais
+ESP,España,2020,1.4091,pais
+ESP,España,2021,1.41122,pais
+ESP,España,2022,1.43532,pais
+EST,Estonia,1998,0.56501,pais
+EST,Estonia,1999,0.67708,pais
+EST,Estonia,2000,0.6,pais
+EST,Estonia,2001,0.69839,pais
+EST,Estonia,2002,0.71203,pais
+EST,Estonia,2003,0.76465,pais
+EST,Estonia,2004,0.84584,pais
+EST,Estonia,2005,0.91705,pais
+EST,Estonia,2006,1.11277,pais
+EST,Estonia,2007,1.05874,pais
+EST,Estonia,2008,1.25188,pais
+EST,Estonia,2009,1.39679,pais
+EST,Estonia,2010,1.57899,pais
+EST,Estonia,2011,2.30522,pais
+EST,Estonia,2012,2.12481,pais
+EST,Estonia,2013,1.72412,pais
+EST,Estonia,2014,1.43023,pais
+EST,Estonia,2015,1.46777,pais
+EST,Estonia,2016,1.24306,pais
+EST,Estonia,2017,1.27685,pais
+EST,Estonia,2018,1.40999,pais
+EST,Estonia,2019,1.62058,pais
+EST,Estonia,2020,1.75315,pais
+EST,Estonia,2021,1.76766,pais
+EST,Estonia,2022,1.78205,pais
+ETH,Etiopía,2005,0.17917,pais
+ETH,Etiopía,2007,0.17089,pais
+ETH,Etiopía,2010,0.24137,pais
+ETH,Etiopía,2013,0.60474,pais
+ETH,Etiopía,2017,0.27437,pais
+FIN,Finlandia,1996,2.45256,pais
+FIN,Finlandia,1997,2.62158,pais
+FIN,Finlandia,1998,2.78443,pais
+FIN,Finlandia,1999,3.05619,pais
+FIN,Finlandia,2000,3.24138,pais
+FIN,Finlandia,2001,3.19372,pais
+FIN,Finlandia,2002,3.25308,pais
+FIN,Finlandia,2003,3.29822,pais
+FIN,Finlandia,2004,3.30907,pais
+FIN,Finlandia,2005,3.3237,pais
+FIN,Finlandia,2006,3.33216,pais
+FIN,Finlandia,2007,3.33704,pais
+FIN,Finlandia,2008,3.53697,pais
+FIN,Finlandia,2009,3.73402,pais
+FIN,Finlandia,2010,3.70532,pais
+FIN,Finlandia,2011,3.61806,pais
+FIN,Finlandia,2012,3.39832,pais
+FIN,Finlandia,2013,3.27137,pais
+FIN,Finlandia,2014,3.14751,pais
+FIN,Finlandia,2015,2.87196,pais
+FIN,Finlandia,2016,2.72442,pais
+FIN,Finlandia,2017,2.72787,pais
+FIN,Finlandia,2018,2.75749,pais
+FIN,Finlandia,2019,2.79961,pais
+FIN,Finlandia,2020,2.91243,pais
+FIN,Finlandia,2021,2.9885,pais
+FIN,Finlandia,2022,2.96469,pais
+FRA,Francia,1996,2.2228,pais
+FRA,Francia,1997,2.14699,pais
+FRA,Francia,1998,2.09476,pais
+FRA,Francia,1999,2.10767,pais
+FRA,Francia,2000,2.09346,pais
+FRA,Francia,2001,2.13804,pais
+FRA,Francia,2002,2.17449,pais
+FRA,Francia,2003,2.11994,pais
+FRA,Francia,2004,2.09461,pais
+FRA,Francia,2005,2.05151,pais
+FRA,Francia,2006,2.05094,pais
+FRA,Francia,2007,2.02451,pais
+FRA,Francia,2008,2.06117,pais
+FRA,Francia,2009,2.21207,pais
+FRA,Francia,2010,2.17857,pais
+FRA,Francia,2011,2.19161,pais
+FRA,Francia,2012,2.22707,pais
+FRA,Francia,2013,2.23703,pais
+FRA,Francia,2014,2.27592,pais
+FRA,Francia,2015,2.22702,pais
+FRA,Francia,2016,2.22238,pais
+FRA,Francia,2017,2.19888,pais
+FRA,Francia,2018,2.19666,pais
+FRA,Francia,2019,2.19179,pais
+FRA,Francia,2020,2.27464,pais
+FRA,Francia,2021,2.21808,pais
+FRA,Francia,2022,2.23312,pais
+FRO,Islas Feroe,2003,0.85253,pais
+GAB,Gabón,2007,0.41633,pais
+GAB,Gabón,2008,0.5109,pais
+GAB,Gabón,2009,0.57924,pais
+GBR,Reino Unido,1996,1.5754,pais
+GBR,Reino Unido,1997,1.53729,pais
+GBR,Reino Unido,1998,1.54777,pais
+GBR,Reino Unido,1999,1.62269,pais
+GBR,Reino Unido,2000,1.60963,pais
+GBR,Reino Unido,2001,1.59545,pais
+GBR,Reino Unido,2002,1.61383,pais
+GBR,Reino Unido,2003,1.58131,pais
+GBR,Reino Unido,2004,1.53089,pais
+GBR,Reino Unido,2005,1.55004,pais
+GBR,Reino Unido,2006,1.57626,pais
+GBR,Reino Unido,2007,1.6183,pais
+GBR,Reino Unido,2008,1.60901,pais
+GBR,Reino Unido,2009,1.66991,pais
+GBR,Reino Unido,2010,1.63886,pais
+GBR,Reino Unido,2011,1.64681,pais
+GBR,Reino Unido,2012,1.57587,pais
+GBR,Reino Unido,2013,1.62096,pais
+GBR,Reino Unido,2014,2.26488,pais
+GBR,Reino Unido,2015,2.27566,pais
+GBR,Reino Unido,2016,2.32052,pais
+GBR,Reino Unido,2017,2.32602,pais
+GBR,Reino Unido,2018,2.71124,pais
+GBR,Reino Unido,2019,2.6708,pais
+GBR,Reino Unido,2020,2.93883,pais
+GBR,Reino Unido,2021,2.89711,pais
+GEO,Georgia,1996,0.33088,pais
+GEO,Georgia,1997,0.3424,pais
+GEO,Georgia,1998,0.35384,pais
+GEO,Georgia,1999,0.28769,pais
+GEO,Georgia,2000,0.2153,pais
+GEO,Georgia,2001,0.23848,pais
+GEO,Georgia,2002,0.18574,pais
+GEO,Georgia,2003,0.2176,pais
+GEO,Georgia,2004,0.2442,pais
+GEO,Georgia,2005,0.17658,pais
+GEO,Georgia,2013,0.0771,pais
+GEO,Georgia,2014,0.16991,pais
+GEO,Georgia,2015,0.29397,pais
+GEO,Georgia,2016,0.28025,pais
+GEO,Georgia,2017,0.26645,pais
+GEO,Georgia,2018,0.27573,pais
+GEO,Georgia,2019,0.28197,pais
+GEO,Georgia,2020,0.29765,pais
+GEO,Georgia,2021,0.24875,pais
+GEO,Georgia,2022,0.2347,pais
+GEO,Georgia,2023,0.25283,pais
+GHA,Ghana,2007,0.23157,pais
+GHA,Ghana,2010,0.37655,pais
+GMB,Gambia,2008,0.01261,pais
+GMB,Gambia,2009,0.01086,pais
+GMB,Gambia,2011,0.0848,pais
+GMB,Gambia,2018,0.06933,pais
+GRC,Grecia,1997,0.4291,pais
+GRC,Grecia,1999,0.56823,pais
+GRC,Grecia,2001,0.55948,pais
+GRC,Grecia,2003,0.54654,pais
+GRC,Grecia,2004,0.5273,pais
+GRC,Grecia,2005,0.57896,pais
+GRC,Grecia,2006,0.56118,pais
+GRC,Grecia,2007,0.57655,pais
+GRC,Grecia,2008,0.66183,pais
+GRC,Grecia,2009,0.62557,pais
+GRC,Grecia,2010,0.60347,pais
+GRC,Grecia,2011,0.68426,pais
+GRC,Grecia,2012,0.71005,pais
+GRC,Grecia,2013,0.81478,pais
+GRC,Grecia,2014,0.83998,pais
+GRC,Grecia,2015,0.96605,pais
+GRC,Grecia,2016,1.00529,pais
+GRC,Grecia,2017,1.15228,pais
+GRC,Grecia,2018,1.21371,pais
+GRC,Grecia,2019,1.27499,pais
+GRC,Grecia,2020,1.51149,pais
+GRC,Grecia,2021,1.45782,pais
+GRC,Grecia,2022,1.48596,pais
+GRL,Groenlandia,2001,0.52741,pais
+GRL,Groenlandia,2002,0.55628,pais
+GRL,Groenlandia,2003,0.50804,pais
+GRL,Groenlandia,2004,0.64608,pais
+GTM,Guatemala,2005,0.03556,pais
+GTM,Guatemala,2006,0.0501,pais
+GTM,Guatemala,2007,0.06782,pais
+GTM,Guatemala,2008,0.0629,pais
+GTM,Guatemala,2009,0.0562,pais
+GTM,Guatemala,2010,0.04421,pais
+GTM,Guatemala,2011,0.04894,pais
+GTM,Guatemala,2012,0.04543,pais
+GTM,Guatemala,2013,0.03916,pais
+GTM,Guatemala,2014,0.02949,pais
+GTM,Guatemala,2015,0.03064,pais
+GTM,Guatemala,2016,0.02311,pais
+GTM,Guatemala,2017,0.02955,pais
+GTM,Guatemala,2018,0.02938,pais
+GTM,Guatemala,2019,0.02642,pais
+GTM,Guatemala,2020,0.04888,pais
+GTM,Guatemala,2021,0.05863,pais
+GUM,Guam,2003,0.2657,pais
+GUM,Guam,2004,0.25518,pais
+GUM,Guam,2005,0.2561,pais
+HKG,Hong Kong,1998,0.4283,pais
+HKG,Hong Kong,1999,0.45767,pais
+HKG,Hong Kong,2000,0.46493,pais
+HKG,Hong Kong,2001,0.53645,pais
+HKG,Hong Kong,2002,0.58147,pais
+HKG,Hong Kong,2003,0.68027,pais
+HKG,Hong Kong,2004,0.72176,pais
+HKG,Hong Kong,2005,0.77343,pais
+HKG,Hong Kong,2006,0.79468,pais
+HKG,Hong Kong,2007,0.75161,pais
+HKG,Hong Kong,2008,0.71996,pais
+HKG,Hong Kong,2009,0.77342,pais
+HKG,Hong Kong,2010,0.74946,pais
+HKG,Hong Kong,2011,0.72086,pais
+HKG,Hong Kong,2012,0.72733,pais
+HKG,Hong Kong,2013,0.73017,pais
+HKG,Hong Kong,2014,0.74014,pais
+HKG,Hong Kong,2015,0.76183,pais
+HKG,Hong Kong,2016,0.7915,pais
+HKG,Hong Kong,2017,0.83519,pais
+HKG,Hong Kong,2018,0.8633,pais
+HKG,Hong Kong,2019,0.92557,pais
+HKG,Hong Kong,2020,0.99236,pais
+HKG,Hong Kong,2021,0.97026,pais
+HKG,Hong Kong,2022,1.07288,pais
+HKG,Hong Kong,2023,1.10339,pais
+HND,Honduras,2000,0.04453,pais
+HND,Honduras,2001,0.03834,pais
+HND,Honduras,2002,0.04181,pais
+HND,Honduras,2003,0.04215,pais
+HND,Honduras,2004,0.04155,pais
+HND,Honduras,2015,0.01497,pais
+HND,Honduras,2017,0.03994,pais
+HND,Honduras,2018,0.06394,pais
+HND,Honduras,2019,0.05997,pais
+HRV,Croacia,1999,0.83179,pais
+HRV,Croacia,2000,1.0425,pais
+HRV,Croacia,2001,0.91762,pais
+HRV,Croacia,2002,0.94087,pais
+HRV,Croacia,2003,0.94069,pais
+HRV,Croacia,2004,1.02002,pais
+HRV,Croacia,2005,0.84776,pais
+HRV,Croacia,2006,0.73211,pais
+HRV,Croacia,2007,0.78299,pais
+HRV,Croacia,2008,0.87568,pais
+HRV,Croacia,2009,0.83304,pais
+HRV,Croacia,2010,0.73055,pais
+HRV,Croacia,2011,0.73646,pais
+HRV,Croacia,2012,0.73725,pais
+HRV,Croacia,2013,0.79513,pais
+HRV,Croacia,2014,0.76902,pais
+HRV,Croacia,2015,0.82378,pais
+HRV,Croacia,2016,0.84433,pais
+HRV,Croacia,2017,0.8415,pais
+HRV,Croacia,2018,0.94312,pais
+HRV,Croacia,2019,1.07027,pais
+HRV,Croacia,2020,1.22989,pais
+HRV,Croacia,2021,1.23124,pais
+HRV,Croacia,2022,1.40323,pais
+HUN,Hungría,1996,0.63027,pais
+HUN,Hungría,1997,0.69895,pais
+HUN,Hungría,1998,0.65711,pais
+HUN,Hungría,1999,0.67186,pais
+HUN,Hungría,2000,0.79096,pais
+HUN,Hungría,2001,0.9131,pais
+HUN,Hungría,2002,0.98355,pais
+HUN,Hungría,2003,0.91883,pais
+HUN,Hungría,2004,0.8599,pais
+HUN,Hungría,2005,0.91951,pais
+HUN,Hungría,2006,0.9774,pais
+HUN,Hungría,2007,0.95445,pais
+HUN,Hungría,2008,0.97757,pais
+HUN,Hungría,2009,1.12802,pais
+HUN,Hungría,2010,1.12865,pais
+HUN,Hungría,2011,1.17925,pais
+HUN,Hungría,2012,1.25423,pais
+HUN,Hungría,2013,1.3841,pais
+HUN,Hungría,2014,1.3446,pais
+HUN,Hungría,2015,1.33959,pais
+HUN,Hungría,2016,1.17987,pais
+HUN,Hungría,2017,1.31702,pais
+HUN,Hungría,2018,1.50775,pais
+HUN,Hungría,2019,1.47291,pais
+HUN,Hungría,2020,1.59252,pais
+HUN,Hungría,2021,1.64379,pais
+HUN,Hungría,2022,1.39473,pais
+IDN,Indonesia,2000,0.06769,pais
+IDN,Indonesia,2001,0.04756,pais
+IDN,Indonesia,2009,0.08332,pais
+IDN,Indonesia,2013,0.0847,pais
+IDN,Indonesia,2016,0.24535,pais
+IDN,Indonesia,2017,0.23805,pais
+IDN,Indonesia,2018,0.22632,pais
+IDN,Indonesia,2019,0.27129,pais
+IDN,Indonesia,2020,0.28068,pais
+IND,India,1996,0.63905,pais
+IND,India,1997,0.68669,pais
+IND,India,1998,0.70379,pais
+IND,India,1999,0.72413,pais
+IND,India,2000,0.75699,pais
+IND,India,2001,0.73591,pais
+IND,India,2002,0.72567,pais
+IND,India,2003,0.71929,pais
+IND,India,2004,0.7569,pais
+IND,India,2005,0.82411,pais
+IND,India,2006,0.80473,pais
+IND,India,2007,0.80507,pais
+IND,India,2008,0.85876,pais
+IND,India,2009,0.83314,pais
+IND,India,2010,0.78849,pais
+IND,India,2011,0.75502,pais
+IND,India,2012,0.74399,pais
+IND,India,2013,0.70642,pais
+IND,India,2014,0.70159,pais
+IND,India,2015,0.6931,pais
+IND,India,2016,0.66984,pais
+IND,India,2017,0.66603,pais
+IND,India,2018,0.66001,pais
+IND,India,2019,0.65942,pais
+IND,India,2020,0.64558,pais
+IRL,Irlanda,1996,1.27156,pais
+IRL,Irlanda,1997,1.24271,pais
+IRL,Irlanda,1998,1.20801,pais
+IRL,Irlanda,1999,1.15141,pais
+IRL,Irlanda,2000,1.08383,pais
+IRL,Irlanda,2001,1.05194,pais
+IRL,Irlanda,2002,1.05575,pais
+IRL,Irlanda,2003,1.12435,pais
+IRL,Irlanda,2004,1.17778,pais
+IRL,Irlanda,2005,1.19197,pais
+IRL,Irlanda,2006,1.19887,pais
+IRL,Irlanda,2007,1.23408,pais
+IRL,Irlanda,2008,1.39126,pais
+IRL,Irlanda,2009,1.61371,pais
+IRL,Irlanda,2010,1.59477,pais
+IRL,Irlanda,2011,1.55153,pais
+IRL,Irlanda,2012,1.56028,pais
+IRL,Irlanda,2013,1.56908,pais
+IRL,Irlanda,2014,1.51798,pais
+IRL,Irlanda,2015,1.17974,pais
+IRL,Irlanda,2016,1.17716,pais
+IRL,Irlanda,2017,1.24866,pais
+IRL,Irlanda,2018,1.10698,pais
+IRL,Irlanda,2019,1.16068,pais
+IRL,Irlanda,2020,1.14551,pais
+IRL,Irlanda,2021,1.11065,pais
+IRL,Irlanda,2022,0.96264,pais
+IRN,Irán,2001,0.50218,pais
+IRN,Irán,2002,0.49558,pais
+IRN,Irán,2003,0.59484,pais
+IRN,Irán,2004,0.50453,pais
+IRN,Irán,2005,0.62284,pais
+IRN,Irán,2006,0.55921,pais
+IRN,Irán,2008,0.64647,pais
+IRN,Irán,2009,0.27258,pais
+IRN,Irán,2010,0.26442,pais
+IRN,Irán,2012,0.29435,pais
+IRN,Irán,2013,0.23601,pais
+IRN,Irán,2015,0.39383,pais
+IRN,Irán,2017,0.75983,pais
+IRN,Irán,2019,0.78829,pais
+IRN,Irán,2021,0.72665,pais
+IRQ,Iraq,2007,0.04554,pais
+IRQ,Iraq,2008,0.03435,pais
+IRQ,Iraq,2009,0.04562,pais
+IRQ,Iraq,2010,0.03684,pais
+IRQ,Iraq,2011,0.03476,pais
+IRQ,Iraq,2014,0.03835,pais
+IRQ,Iraq,2015,0.04017,pais
+IRQ,Iraq,2016,0.03737,pais
+IRQ,Iraq,2017,0.04596,pais
+IRQ,Iraq,2018,0.04279,pais
+IRQ,Iraq,2019,0.03266,pais
+IRQ,Iraq,2020,0.04053,pais
+IRQ,Iraq,2021,0.0407,pais
+ISL,Islandia,1997,1.79808,pais
+ISL,Islandia,1998,1.95099,pais
+ISL,Islandia,1999,2.23506,pais
+ISL,Islandia,2000,2.57201,pais
+ISL,Islandia,2001,2.83989,pais
+ISL,Islandia,2002,2.8212,pais
+ISL,Islandia,2003,2.7055,pais
+ISL,Islandia,2005,2.67969,pais
+ISL,Islandia,2006,2.85266,pais
+ISL,Islandia,2007,2.53294,pais
+ISL,Islandia,2008,2.46414,pais
+ISL,Islandia,2009,2.59713,pais
+ISL,Islandia,2011,2.40367,pais
+ISL,Islandia,2013,1.69238,pais
+ISL,Islandia,2014,1.93616,pais
+ISL,Islandia,2015,2.18138,pais
+ISL,Islandia,2016,2.11011,pais
+ISL,Islandia,2017,2.08365,pais
+ISL,Islandia,2018,2.00081,pais
+ISL,Islandia,2019,2.34018,pais
+ISL,Islandia,2020,2.4864,pais
+ISL,Islandia,2021,2.77875,pais
+ISL,Islandia,2022,2.6004,pais
+ISR,Israel,1996,2.48851,pais
+ISR,Israel,1997,2.70895,pais
+ISR,Israel,1998,2.8187,pais
+ISR,Israel,1999,3.22512,pais
+ISR,Israel,2000,3.82652,pais
+ISR,Israel,2001,4.0644,pais
+ISR,Israel,2002,4.00064,pais
+ISR,Israel,2003,3.76454,pais
+ISR,Israel,2004,3.74903,pais
+ISR,Israel,2005,3.92282,pais
+ISR,Israel,2006,4.01998,pais
+ISR,Israel,2007,4.29998,pais
+ISR,Israel,2008,4.25512,pais
+ISR,Israel,2009,4.04516,pais
+ISR,Israel,2010,3.86329,pais
+ISR,Israel,2011,3.93521,pais
+ISR,Israel,2012,4.08052,pais
+ISR,Israel,2013,4.11678,pais
+ISR,Israel,2014,4.20531,pais
+ISR,Israel,2015,4.29841,pais
+ISR,Israel,2016,4.58822,pais
+ISR,Israel,2017,4.74306,pais
+ISR,Israel,2018,4.91451,pais
+ISR,Israel,2019,5.33099,pais
+ISR,Israel,2020,5.79681,pais
+ISR,Israel,2021,5.78276,pais
+ISR,Israel,2022,6.01924,pais
+ITA,Italia,1996,0.9459,pais
+ITA,Italia,1997,0.98769,pais
+ITA,Italia,1998,1.00487,pais
+ITA,Italia,1999,0.98065,pais
+ITA,Italia,2000,1.00364,pais
+ITA,Italia,2001,1.0407,pais
+ITA,Italia,2002,1.08124,pais
+ITA,Italia,2003,1.05894,pais
+ITA,Italia,2004,1.05025,pais
+ITA,Italia,2005,1.04435,pais
+ITA,Italia,2006,1.08401,pais
+ITA,Italia,2007,1.12899,pais
+ITA,Italia,2008,1.15972,pais
+ITA,Italia,2009,1.21787,pais
+ITA,Italia,2010,1.21797,pais
+ITA,Italia,2011,1.20155,pais
+ITA,Italia,2012,1.26219,pais
+ITA,Italia,2013,1.30107,pais
+ITA,Italia,2014,1.3384,pais
+ITA,Italia,2015,1.3385,pais
+ITA,Italia,2016,1.36642,pais
+ITA,Italia,2017,1.37013,pais
+ITA,Italia,2018,1.42443,pais
+ITA,Italia,2019,1.46159,pais
+ITA,Italia,2020,1.5066,pais
+ITA,Italia,2021,1.42658,pais
+ITA,Italia,2022,1.39014,pais
+JAM,Jamaica,2001,0.0491,pais
+JAM,Jamaica,2002,0.06096,pais
+JOR,Jordania,2002,0.33689,pais
+JOR,Jordania,2008,0.42154,pais
+JOR,Jordania,2016,0.69547,pais
+JPN,Japón,1996,2.64303,pais
+JPN,Japón,1997,2.72177,pais
+JPN,Japón,1998,2.82745,pais
+JPN,Japón,1999,2.84672,pais
+JPN,Japón,2000,2.85841,pais
+JPN,Japón,2001,2.92348,pais
+JPN,Japón,2002,2.96514,pais
+JPN,Japón,2003,2.9932,pais
+JPN,Japón,2004,2.98125,pais
+JPN,Japón,2005,3.13092,pais
+JPN,Japón,2006,3.22766,pais
+JPN,Japón,2007,3.29257,pais
+JPN,Japón,2008,3.29224,pais
+JPN,Japón,2009,3.1959,pais
+JPN,Japón,2010,3.10495,pais
+JPN,Japón,2011,3.20537,pais
+JPN,Japón,2012,3.17371,pais
+JPN,Japón,2013,3.27896,pais
+JPN,Japón,2014,3.36788,pais
+JPN,Japón,2015,3.24071,pais
+JPN,Japón,2016,3.10666,pais
+JPN,Japón,2017,3.16636,pais
+JPN,Japón,2018,3.2192,pais
+JPN,Japón,2019,3.21824,pais
+JPN,Japón,2020,3.26458,pais
+JPN,Japón,2021,3.27677,pais
+JPN,Japón,2022,3.40537,pais
+KAZ,Kazajstán,1997,0.29337,pais
+KAZ,Kazajstán,1998,0.22039,pais
+KAZ,Kazajstán,1999,0.18383,pais
+KAZ,Kazajstán,2000,0.18104,pais
+KAZ,Kazajstán,2001,0.22009,pais
+KAZ,Kazajstán,2002,0.25509,pais
+KAZ,Kazajstán,2003,0.25246,pais
+KAZ,Kazajstán,2004,0.24837,pais
+KAZ,Kazajstán,2005,0.28361,pais
+KAZ,Kazajstán,2006,0.24281,pais
+KAZ,Kazajstán,2007,0.20884,pais
+KAZ,Kazajstán,2008,0.21654,pais
+KAZ,Kazajstán,2009,0.22924,pais
+KAZ,Kazajstán,2010,0.15341,pais
+KAZ,Kazajstán,2011,0.15349,pais
+KAZ,Kazajstán,2012,0.16525,pais
+KAZ,Kazajstán,2013,0.17132,pais
+KAZ,Kazajstán,2014,0.16722,pais
+KAZ,Kazajstán,2015,0.16951,pais
+KAZ,Kazajstán,2016,0.14179,pais
+KAZ,Kazajstán,2017,0.12667,pais
+KAZ,Kazajstán,2018,0.11683,pais
+KAZ,Kazajstán,2019,0.11841,pais
+KAZ,Kazajstán,2020,0.12602,pais
+KAZ,Kazajstán,2021,0.13023,pais
+KAZ,Kazajstán,2022,0.11715,pais
+KAZ,Kazajstán,2023,0.14472,pais
+KEN,Kenia,2007,0.35521,pais
+KEN,Kenia,2010,0.69222,pais
+KEN,Kenia,2022,0.41019,pais
+KEN,Kenia,2023,0.80874,pais
+KGZ,Kirguistán,1997,0.1939,pais
+KGZ,Kirguistán,1998,0.21064,pais
+KGZ,Kirguistán,1999,0.17992,pais
+KGZ,Kirguistán,2000,0.15637,pais
+KGZ,Kirguistán,2001,0.17189,pais
+KGZ,Kirguistán,2002,0.1981,pais
+KGZ,Kirguistán,2003,0.22272,pais
+KGZ,Kirguistán,2004,0.19926,pais
+KGZ,Kirguistán,2005,0.19861,pais
+KGZ,Kirguistán,2006,0.23014,pais
+KGZ,Kirguistán,2007,0.23425,pais
+KGZ,Kirguistán,2008,0.19017,pais
+KGZ,Kirguistán,2009,0.15997,pais
+KGZ,Kirguistán,2010,0.15547,pais
+KGZ,Kirguistán,2011,0.15633,pais
+KGZ,Kirguistán,2012,0.1661,pais
+KGZ,Kirguistán,2013,0.14914,pais
+KGZ,Kirguistán,2014,0.12536,pais
+KGZ,Kirguistán,2015,0.11903,pais
+KGZ,Kirguistán,2016,0.11121,pais
+KGZ,Kirguistán,2017,0.10707,pais
+KGZ,Kirguistán,2018,0.10107,pais
+KGZ,Kirguistán,2019,0.08535,pais
+KGZ,Kirguistán,2020,0.08356,pais
+KGZ,Kirguistán,2021,0.07102,pais
+KGZ,Kirguistán,2022,0.06922,pais
+KGZ,Kirguistán,2023,0.05876,pais
+KHM,Camboya,2002,0.0498,pais
+KHM,Camboya,2015,0.11823,pais
+KOR,Corea del Sur,1996,2.21616,pais
+KOR,Corea del Sur,1997,2.2483,pais
+KOR,Corea del Sur,1998,2.11026,pais
+KOR,Corea del Sur,1999,2.01567,pais
+KOR,Corea del Sur,2000,2.12519,pais
+KOR,Corea del Sur,2001,2.27865,pais
+KOR,Corea del Sur,2002,2.20774,pais
+KOR,Corea del Sur,2003,2.27722,pais
+KOR,Corea del Sur,2004,2.44214,pais
+KOR,Corea del Sur,2005,2.5229,pais
+KOR,Corea del Sur,2006,2.71934,pais
+KOR,Corea del Sur,2007,2.87258,pais
+KOR,Corea del Sur,2008,2.98887,pais
+KOR,Corea del Sur,2009,3.14669,pais
+KOR,Corea del Sur,2010,3.31578,pais
+KOR,Corea del Sur,2011,3.59199,pais
+KOR,Corea del Sur,2012,3.8504,pais
+KOR,Corea del Sur,2013,3.95124,pais
+KOR,Corea del Sur,2014,4.07786,pais
+KOR,Corea del Sur,2015,3.9782,pais
+KOR,Corea del Sur,2016,3.98704,pais
+KOR,Corea del Sur,2017,4.29206,pais
+KOR,Corea del Sur,2018,4.51633,pais
+KOR,Corea del Sur,2019,4.62703,pais
+KOR,Corea del Sur,2020,4.79571,pais
+KOR,Corea del Sur,2021,4.90988,pais
+KOR,Corea del Sur,2022,5.21081,pais
+KWT,Kuwait,1997,0.20538,pais
+KWT,Kuwait,1998,0.25796,pais
+KWT,Kuwait,1999,0.19763,pais
+KWT,Kuwait,2000,0.12542,pais
+KWT,Kuwait,2001,0.17884,pais
+KWT,Kuwait,2002,0.18001,pais
+KWT,Kuwait,2003,0.14347,pais
+KWT,Kuwait,2004,0.1301,pais
+KWT,Kuwait,2005,0.10083,pais
+KWT,Kuwait,2006,0.08479,pais
+KWT,Kuwait,2007,0.08585,pais
+KWT,Kuwait,2008,0.08551,pais
+KWT,Kuwait,2009,0.11213,pais
+KWT,Kuwait,2010,0.1014,pais
+KWT,Kuwait,2011,0.09898,pais
+KWT,Kuwait,2012,0.09721,pais
+KWT,Kuwait,2013,0.30153,pais
+KWT,Kuwait,2014,0.42705,pais
+KWT,Kuwait,2015,0.0966,pais
+KWT,Kuwait,2016,0.07985,pais
+KWT,Kuwait,2017,0.0804,pais
+KWT,Kuwait,2018,0.06349,pais
+KWT,Kuwait,2019,0.18801,pais
+KWT,Kuwait,2020,0.1839,pais
+KWT,Kuwait,2022,0.08041,pais
+KWT,Kuwait,2023,0.0976,pais
+LAO,Laos,2002,0.0371,pais
+LCA,Santa Lucía,1998,0.57395,pais
+LCA,Santa Lucía,1999,0.27374,pais
+LIE,Liechtenstein,2019,5.86833,pais
+LKA,Sri Lanka,1996,0.18356,pais
+LKA,Sri Lanka,2000,0.14392,pais
+LKA,Sri Lanka,2004,0.1821,pais
+LKA,Sri Lanka,2006,0.1742,pais
+LKA,Sri Lanka,2008,0.11444,pais
+LKA,Sri Lanka,2010,0.13241,pais
+LKA,Sri Lanka,2013,0.0973,pais
+LKA,Sri Lanka,2014,0.09605,pais
+LKA,Sri Lanka,2015,0.10291,pais
+LKA,Sri Lanka,2016,0.12034,pais
+LKA,Sri Lanka,2017,0.11818,pais
+LKA,Sri Lanka,2018,0.11949,pais
+LKA,Sri Lanka,2020,0.11616,pais
+LKA,Sri Lanka,2022,0.10506,pais
+LSO,Lesotho,2002,0.04185,pais
+LSO,Lesotho,2003,0.04295,pais
+LSO,Lesotho,2004,0.05532,pais
+LSO,Lesotho,2009,0.0291,pais
+LSO,Lesotho,2011,0.01255,pais
+LSO,Lesotho,2015,0.05101,pais
+LTU,Lituania,1996,0.4917,pais
+LTU,Lituania,1997,0.53667,pais
+LTU,Lituania,1998,0.54381,pais
+LTU,Lituania,1999,0.50206,pais
+LTU,Lituania,2000,0.58553,pais
+LTU,Lituania,2001,0.66762,pais
+LTU,Lituania,2002,0.65755,pais
+LTU,Lituania,2003,0.66413,pais
+LTU,Lituania,2004,0.7514,pais
+LTU,Lituania,2005,0.74821,pais
+LTU,Lituania,2006,0.79204,pais
+LTU,Lituania,2007,0.80174,pais
+LTU,Lituania,2008,0.78932,pais
+LTU,Lituania,2009,0.83084,pais
+LTU,Lituania,2010,0.7833,pais
+LTU,Lituania,2011,0.90269,pais
+LTU,Lituania,2012,0.89304,pais
+LTU,Lituania,2013,0.94872,pais
+LTU,Lituania,2014,1.03011,pais
+LTU,Lituania,2015,1.04341,pais
+LTU,Lituania,2016,0.84241,pais
+LTU,Lituania,2017,0.89626,pais
+LTU,Lituania,2018,0.93662,pais
+LTU,Lituania,2019,0.99266,pais
+LTU,Lituania,2020,1.13261,pais
+LTU,Lituania,2021,1.10436,pais
+LTU,Lituania,2022,1.05319,pais
+LUX,Luxemburgo,2000,1.58314,pais
+LUX,Luxemburgo,2003,1.6235,pais
+LUX,Luxemburgo,2004,1.58819,pais
+LUX,Luxemburgo,2005,1.55873,pais
+LUX,Luxemburgo,2006,1.64886,pais
+LUX,Luxemburgo,2007,1.57165,pais
+LUX,Luxemburgo,2008,1.54663,pais
+LUX,Luxemburgo,2009,1.58839,pais
+LUX,Luxemburgo,2010,1.42373,pais
+LUX,Luxemburgo,2011,1.42453,pais
+LUX,Luxemburgo,2012,1.20664,pais
+LUX,Luxemburgo,2013,1.23381,pais
+LUX,Luxemburgo,2014,1.217,pais
+LUX,Luxemburgo,2015,1.25226,pais
+LUX,Luxemburgo,2016,1.2669,pais
+LUX,Luxemburgo,2017,1.23898,pais
+LUX,Luxemburgo,2018,1.1718,pais
+LUX,Luxemburgo,2019,1.18177,pais
+LUX,Luxemburgo,2020,1.09584,pais
+LUX,Luxemburgo,2021,1.0412,pais
+LUX,Luxemburgo,2022,0.97653,pais
+LVA,Letonia,1996,0.39689,pais
+LVA,Letonia,1997,0.36627,pais
+LVA,Letonia,1998,0.37922,pais
+LVA,Letonia,1999,0.35183,pais
+LVA,Letonia,2000,0.43483,pais
+LVA,Letonia,2001,0.40263,pais
+LVA,Letonia,2002,0.40843,pais
+LVA,Letonia,2003,0.3593,pais
+LVA,Letonia,2004,0.3984,pais
+LVA,Letonia,2005,0.52707,pais
+LVA,Letonia,2006,0.64691,pais
+LVA,Letonia,2007,0.55107,pais
+LVA,Letonia,2008,0.5772,pais
+LVA,Letonia,2009,0.44858,pais
+LVA,Letonia,2010,0.60571,pais
+LVA,Letonia,2011,0.71562,pais
+LVA,Letonia,2012,0.66307,pais
+LVA,Letonia,2013,0.61321,pais
+LVA,Letonia,2014,0.68908,pais
+LVA,Letonia,2015,0.6194,pais
+LVA,Letonia,2016,0.43514,pais
+LVA,Letonia,2017,0.51104,pais
+LVA,Letonia,2018,0.63869,pais
+LVA,Letonia,2019,0.63847,pais
+LVA,Letonia,2020,0.73439,pais
+LVA,Letonia,2021,0.74622,pais
+LVA,Letonia,2022,0.76382,pais
+MAC,Macao,2001,0.06224,pais
+MAC,Macao,2002,0.06957,pais
+MAC,Macao,2003,0.06244,pais
+MAC,Macao,2004,0.05344,pais
+MAC,Macao,2005,0.0876,pais
+MAC,Macao,2006,0.0829,pais
+MAC,Macao,2007,0.05684,pais
+MAC,Macao,2008,0.10106,pais
+MAC,Macao,2009,0.05407,pais
+MAC,Macao,2010,0.05012,pais
+MAC,Macao,2011,0.04427,pais
+MAC,Macao,2012,0.04789,pais
+MAC,Macao,2013,0.05117,pais
+MAC,Macao,2014,0.08776,pais
+MAC,Macao,2015,0.13649,pais
+MAC,Macao,2016,0.23492,pais
+MAC,Macao,2017,0.1721,pais
+MAC,Macao,2018,0.20113,pais
+MAC,Macao,2019,0.24721,pais
+MAC,Macao,2020,0.45327,pais
+MAC,Macao,2021,0.37318,pais
+MAC,Macao,2022,0.43688,pais
+MAC,Macao,2023,0.26378,pais
+MAR,Marruecos,1998,0.24582,pais
+MAR,Marruecos,2001,0.5463,pais
+MAR,Marruecos,2002,0.47179,pais
+MAR,Marruecos,2003,0.56588,pais
+MAR,Marruecos,2006,0.54987,pais
+MAR,Marruecos,2010,0.66036,pais
+MCO,Mónaco,2004,0.03787,pais
+MCO,Mónaco,2005,0.03821,pais
+MDA,Moldavia,1996,0.87296,pais
+MDA,Moldavia,1997,0.80679,pais
+MDA,Moldavia,2003,0.32405,pais
+MDA,Moldavia,2004,0.34903,pais
+MDA,Moldavia,2005,0.39865,pais
+MDA,Moldavia,2006,0.40622,pais
+MDA,Moldavia,2007,0.54557,pais
+MDA,Moldavia,2008,0.53463,pais
+MDA,Moldavia,2009,0.52557,pais
+MDA,Moldavia,2010,0.3665,pais
+MDA,Moldavia,2011,0.33764,pais
+MDA,Moldavia,2012,0.34907,pais
+MDA,Moldavia,2013,0.29783,pais
+MDA,Moldavia,2014,0.31463,pais
+MDA,Moldavia,2015,0.30735,pais
+MDA,Moldavia,2016,0.28004,pais
+MDA,Moldavia,2017,0.25789,pais
+MDA,Moldavia,2018,0.25626,pais
+MDA,Moldavia,2019,0.24145,pais
+MDA,Moldavia,2020,0.23511,pais
+MDA,Moldavia,2021,0.23154,pais
+MDA,Moldavia,2022,0.22983,pais
+MDA,Moldavia,2023,0.22342,pais
+MDG,Madagascar,1997,0.18325,pais
+MDG,Madagascar,1998,0.0938,pais
+MDG,Madagascar,1999,0.08342,pais
+MDG,Madagascar,2000,0.10032,pais
+MDG,Madagascar,2001,0.18175,pais
+MDG,Madagascar,2002,0.20173,pais
+MDG,Madagascar,2003,0.2907,pais
+MDG,Madagascar,2004,0.1926,pais
+MDG,Madagascar,2005,0.15096,pais
+MDG,Madagascar,2006,0.14119,pais
+MDG,Madagascar,2007,0.12091,pais
+MDG,Madagascar,2008,0.11764,pais
+MDG,Madagascar,2009,0.13054,pais
+MDG,Madagascar,2010,0.09903,pais
+MDG,Madagascar,2011,0.09067,pais
+MDG,Madagascar,2014,0.01321,pais
+MDG,Madagascar,2016,0.01264,pais
+MDG,Madagascar,2017,0.01275,pais
+MEX,México,1996,0.23838,pais
+MEX,México,1997,0.26404,pais
+MEX,México,1998,0.28519,pais
+MEX,México,1999,0.32719,pais
+MEX,México,2000,0.29205,pais
+MEX,México,2001,0.30815,pais
+MEX,México,2002,0.33745,pais
+MEX,México,2003,0.37454,pais
+MEX,México,2004,0.37053,pais
+MEX,México,2005,0.38103,pais
+MEX,México,2006,0.35298,pais
+MEX,México,2007,0.38039,pais
+MEX,México,2008,0.42416,pais
+MEX,México,2009,0.45748,pais
+MEX,México,2010,0.47353,pais
+MEX,México,2011,0.45268,pais
+MEX,México,2012,0.40284,pais
+MEX,México,2013,0.40806,pais
+MEX,México,2014,0.41962,pais
+MEX,México,2015,0.41477,pais
+MEX,México,2016,0.37601,pais
+MEX,México,2017,0.31955,pais
+MEX,México,2018,0.29816,pais
+MEX,México,2019,0.27606,pais
+MEX,México,2020,0.29191,pais
+MEX,México,2021,0.27378,pais
+MEX,México,2022,0.25782,pais
+MEX,México,2023,0.26819,pais
+MKD,Macedonia del Norte,1997,0.35911,pais
+MKD,Macedonia del Norte,1998,0.40842,pais
+MKD,Macedonia del Norte,1999,0.32809,pais
+MKD,Macedonia del Norte,2000,0.41888,pais
+MKD,Macedonia del Norte,2001,0.2931,pais
+MKD,Macedonia del Norte,2002,0.24461,pais
+MKD,Macedonia del Norte,2003,0.21064,pais
+MKD,Macedonia del Norte,2004,0.23237,pais
+MKD,Macedonia del Norte,2005,0.22825,pais
+MKD,Macedonia del Norte,2006,0.19373,pais
+MKD,Macedonia del Norte,2007,0.17093,pais
+MKD,Macedonia del Norte,2008,0.22358,pais
+MKD,Macedonia del Norte,2009,0.19679,pais
+MKD,Macedonia del Norte,2010,0.21634,pais
+MKD,Macedonia del Norte,2011,0.22276,pais
+MKD,Macedonia del Norte,2012,0.32676,pais
+MKD,Macedonia del Norte,2013,0.43894,pais
+MKD,Macedonia del Norte,2014,0.51646,pais
+MKD,Macedonia del Norte,2015,0.44412,pais
+MKD,Macedonia del Norte,2016,0.43585,pais
+MKD,Macedonia del Norte,2017,0.35439,pais
+MKD,Macedonia del Norte,2018,0.36367,pais
+MKD,Macedonia del Norte,2019,0.36783,pais
+MKD,Macedonia del Norte,2020,0.37264,pais
+MKD,Macedonia del Norte,2021,0.37252,pais
+MKD,Macedonia del Norte,2022,0.37975,pais
+MKD,Macedonia del Norte,2023,0.39502,pais
+MLI,Malí,2007,0.21855,pais
+MLI,Malí,2010,0.5836,pais
+MLI,Malí,2015,0.31462,pais
+MLI,Malí,2017,0.29198,pais
+MLI,Malí,2019,0.15768,pais
+MLI,Malí,2021,0.17385,pais
+MLT,Malta,2002,0.2502,pais
+MLT,Malta,2003,0.23743,pais
+MLT,Malta,2004,0.48971,pais
+MLT,Malta,2005,0.5282,pais
+MLT,Malta,2006,0.57844,pais
+MLT,Malta,2007,0.5454,pais
+MLT,Malta,2008,0.52667,pais
+MLT,Malta,2009,0.50739,pais
+MLT,Malta,2010,0.58741,pais
+MLT,Malta,2011,0.66506,pais
+MLT,Malta,2012,0.80432,pais
+MLT,Malta,2013,0.74336,pais
+MLT,Malta,2014,0.69179,pais
+MLT,Malta,2015,0.71515,pais
+MLT,Malta,2016,0.55689,pais
+MLT,Malta,2017,0.55232,pais
+MLT,Malta,2018,0.57211,pais
+MLT,Malta,2019,0.55993,pais
+MLT,Malta,2020,0.64566,pais
+MLT,Malta,2021,0.65205,pais
+MLT,Malta,2022,0.60433,pais
+MMR,Myanmar,1997,0.05985,pais
+MMR,Myanmar,1998,0.03417,pais
+MMR,Myanmar,1999,0.04406,pais
+MMR,Myanmar,2000,0.11306,pais
+MMR,Myanmar,2001,0.07144,pais
+MMR,Myanmar,2002,0.16216,pais
+MMR,Myanmar,2017,0.03218,pais
+MMR,Myanmar,2018,0.05881,pais
+MMR,Myanmar,2019,0.08341,pais
+MMR,Myanmar,2020,0.15567,pais
+MMR,Myanmar,2021,0.12402,pais
+MMR,Myanmar,2022,0.03519,pais
+MMR,Myanmar,2023,0.02376,pais
+MNE,Montenegro,2003,0.79772,pais
+MNE,Montenegro,2004,1.01874,pais
+MNE,Montenegro,2005,0.92443,pais
+MNE,Montenegro,2006,1.22991,pais
+MNE,Montenegro,2007,1.14521,pais
+MNE,Montenegro,2011,0.31485,pais
+MNE,Montenegro,2013,0.37431,pais
+MNE,Montenegro,2014,0.3632,pais
+MNE,Montenegro,2015,0.374,pais
+MNE,Montenegro,2016,0.32454,pais
+MNE,Montenegro,2017,0.34898,pais
+MNE,Montenegro,2018,0.50374,pais
+MNE,Montenegro,2019,0.36328,pais
+MNG,Mongolia,1997,0.16786,pais
+MNG,Mongolia,1998,0.16643,pais
+MNG,Mongolia,1999,0.15016,pais
+MNG,Mongolia,2000,0.18757,pais
+MNG,Mongolia,2001,0.26749,pais
+MNG,Mongolia,2002,0.25173,pais
+MNG,Mongolia,2003,0.2518,pais
+MNG,Mongolia,2004,0.26777,pais
+MNG,Mongolia,2005,0.23776,pais
+MNG,Mongolia,2006,0.19121,pais
+MNG,Mongolia,2007,0.23827,pais
+MNG,Mongolia,2008,0.33667,pais
+MNG,Mongolia,2009,0.30478,pais
+MNG,Mongolia,2010,0.24438,pais
+MNG,Mongolia,2011,0.23054,pais
+MNG,Mongolia,2012,0.23913,pais
+MNG,Mongolia,2013,0.23246,pais
+MNG,Mongolia,2014,0.2234,pais
+MNG,Mongolia,2015,0.1564,pais
+MNG,Mongolia,2016,0.18345,pais
+MNG,Mongolia,2017,0.1342,pais
+MNG,Mongolia,2018,0.10161,pais
+MNG,Mongolia,2019,0.0927,pais
+MNG,Mongolia,2020,0.13301,pais
+MNG,Mongolia,2021,0.10008,pais
+MNG,Mongolia,2022,0.08365,pais
+MOZ,Mozambique,2002,0.35598,pais
+MOZ,Mozambique,2006,0.3977,pais
+MOZ,Mozambique,2008,0.13607,pais
+MOZ,Mozambique,2010,0.37595,pais
+MOZ,Mozambique,2015,0.30814,pais
+MRT,Mauritania,2018,0.01019,pais
+MUS,Mauricio,1997,0.27529,pais
+MUS,Mauricio,1998,0.25831,pais
+MUS,Mauricio,1999,0.30596,pais
+MUS,Mauricio,2000,0.28025,pais
+MUS,Mauricio,2001,0.35775,pais
+MUS,Mauricio,2002,0.36317,pais
+MUS,Mauricio,2003,0.32171,pais
+MUS,Mauricio,2004,0.36329,pais
+MUS,Mauricio,2005,0.35574,pais
+MUS,Mauricio,2012,0.17773,pais
+MUS,Mauricio,2017,0.35423,pais
+MUS,Mauricio,2018,0.33387,pais
+MUS,Mauricio,2019,0.35699,pais
+MUS,Mauricio,2020,0.40299,pais
+MUS,Mauricio,2021,0.36784,pais
+MUS,Mauricio,2022,0.3083,pais
+MUS,Mauricio,2023,0.23401,pais
+MYS,Malasia,1996,0.21645,pais
+MYS,Malasia,1998,0.39789,pais
+MYS,Malasia,2000,0.46899,pais
+MYS,Malasia,2002,0.65254,pais
+MYS,Malasia,2004,0.5999,pais
+MYS,Malasia,2006,0.61106,pais
+MYS,Malasia,2008,0.78847,pais
+MYS,Malasia,2009,1.01001,pais
+MYS,Malasia,2010,1.03608,pais
+MYS,Malasia,2011,1.03342,pais
+MYS,Malasia,2012,1.09269,pais
+MYS,Malasia,2014,1.26275,pais
+MYS,Malasia,2015,1.27945,pais
+MYS,Malasia,2016,1.41517,pais
+MYS,Malasia,2018,1.04026,pais
+MYS,Malasia,2020,0.95055,pais
+NAM,Namibia,2010,0.13963,pais
+NAM,Namibia,2014,0.34986,pais
+NAM,Namibia,2022,0.64647,pais
+NGA,Nigeria,2007,0.13223,pais
+NGA,Nigeria,2019,0.28444,pais
+NIC,Nicaragua,1997,0.0651,pais
+NIC,Nicaragua,2002,0.03493,pais
+NIC,Nicaragua,2011,0.08344,pais
+NIC,Nicaragua,2012,0.10449,pais
+NIC,Nicaragua,2013,0.10284,pais
+NIC,Nicaragua,2014,0.08935,pais
+NIC,Nicaragua,2015,0.10742,pais
+NLD,Países Bajos,1996,1.84093,pais
+NLD,Países Bajos,1997,1.84477,pais
+NLD,Países Bajos,1998,1.74206,pais
+NLD,Países Bajos,1999,1.82282,pais
+NLD,Países Bajos,2000,1.7898,pais
+NLD,Países Bajos,2001,1.79609,pais
+NLD,Países Bajos,2002,1.74543,pais
+NLD,Países Bajos,2003,1.7839,pais
+NLD,Países Bajos,2004,1.78901,pais
+NLD,Países Bajos,2005,1.77388,pais
+NLD,Países Bajos,2006,1.74067,pais
+NLD,Países Bajos,2007,1.6703,pais
+NLD,Países Bajos,2008,1.62269,pais
+NLD,Países Bajos,2009,1.6657,pais
+NLD,Países Bajos,2010,1.70404,pais
+NLD,Países Bajos,2011,1.88131,pais
+NLD,Países Bajos,2012,1.91627,pais
+NLD,Países Bajos,2013,2.15606,pais
+NLD,Países Bajos,2014,2.1733,pais
+NLD,Países Bajos,2015,2.14606,pais
+NLD,Países Bajos,2016,2.15081,pais
+NLD,Países Bajos,2017,2.17857,pais
+NLD,Países Bajos,2018,2.1388,pais
+NLD,Países Bajos,2019,2.18435,pais
+NLD,Países Bajos,2020,2.32182,pais
+NLD,Países Bajos,2021,2.26877,pais
+NLD,Países Bajos,2022,2.25533,pais
+NOR,Noruega,1997,1.5935,pais
+NOR,Noruega,1999,1.60437,pais
+NOR,Noruega,2001,1.5602,pais
+NOR,Noruega,2002,1.62645,pais
+NOR,Noruega,2003,1.67572,pais
+NOR,Noruega,2004,1.53975,pais
+NOR,Noruega,2005,1.47715,pais
+NOR,Noruega,2006,1.44972,pais
+NOR,Noruega,2007,1.55794,pais
+NOR,Noruega,2008,1.54556,pais
+NOR,Noruega,2009,1.71678,pais
+NOR,Noruega,2010,1.6412,pais
+NOR,Noruega,2011,1.61714,pais
+NOR,Noruega,2012,1.61053,pais
+NOR,Noruega,2013,1.64216,pais
+NOR,Noruega,2014,1.70369,pais
+NOR,Noruega,2015,1.9235,pais
+NOR,Noruega,2016,2.03287,pais
+NOR,Noruega,2017,2.08167,pais
+NOR,Noruega,2018,2.03482,pais
+NOR,Noruega,2019,2.136,pais
+NOR,Noruega,2020,2.24436,pais
+NOR,Noruega,2021,1.88764,pais
+NOR,Noruega,2022,1.55752,pais
+NPL,Nepal,2008,0.05439,pais
+NPL,Nepal,2009,0.25924,pais
+NPL,Nepal,2010,0.3022,pais
+NZL,Nueva Zelanda,1997,1.05649,pais
+NZL,Nueva Zelanda,1999,0.96387,pais
+NZL,Nueva Zelanda,2001,1.10029,pais
+NZL,Nueva Zelanda,2003,1.14891,pais
+NZL,Nueva Zelanda,2005,1.12043,pais
+NZL,Nueva Zelanda,2007,1.15764,pais
+NZL,Nueva Zelanda,2009,1.25214,pais
+NZL,Nueva Zelanda,2011,1.23222,pais
+NZL,Nueva Zelanda,2013,1.15337,pais
+NZL,Nueva Zelanda,2015,1.22789,pais
+NZL,Nueva Zelanda,2017,1.34905,pais
+NZL,Nueva Zelanda,2019,1.40803,pais
+NZL,Nueva Zelanda,2021,1.46569,pais
+OMN,Omán,2011,0.11962,pais
+OMN,Omán,2012,0.18281,pais
+OMN,Omán,2013,0.14854,pais
+OMN,Omán,2014,0.18588,pais
+OMN,Omán,2015,0.21866,pais
+OMN,Omán,2016,0.22691,pais
+OMN,Omán,2017,0.19925,pais
+OMN,Omán,2018,0.19031,pais
+OMN,Omán,2019,0.27255,pais
+OMN,Omán,2020,0.31599,pais
+OMN,Omán,2021,0.28978,pais
+OMN,Omán,2022,0.27506,pais
+OMN,Omán,2023,0.36729,pais
+PAK,Pakistán,1997,0.15565,pais
+PAK,Pakistán,1998,0.10919,pais
+PAK,Pakistán,1999,0.1159,pais
+PAK,Pakistán,2000,0.09536,pais
+PAK,Pakistán,2001,0.12408,pais
+PAK,Pakistán,2002,0.16228,pais
+PAK,Pakistán,2005,0.32946,pais
+PAK,Pakistán,2007,0.52343,pais
+PAK,Pakistán,2009,0.40218,pais
+PAK,Pakistán,2011,0.30491,pais
+PAK,Pakistán,2013,0.26179,pais
+PAK,Pakistán,2015,0.22193,pais
+PAK,Pakistán,2017,0.21214,pais
+PAK,Pakistán,2019,0.17475,pais
+PAK,Pakistán,2021,0.16431,pais
+PAK,Pakistán,2023,0.16375,pais
+PAN,Panamá,1996,0.3101,pais
+PAN,Panamá,1997,0.29911,pais
+PAN,Panamá,1998,0.26922,pais
+PAN,Panamá,1999,0.27205,pais
+PAN,Panamá,2000,0.36264,pais
+PAN,Panamá,2001,0.36074,pais
+PAN,Panamá,2002,0.3422,pais
+PAN,Panamá,2003,0.32109,pais
+PAN,Panamá,2004,0.22646,pais
+PAN,Panamá,2005,0.23183,pais
+PAN,Panamá,2006,0.23537,pais
+PAN,Panamá,2007,0.18172,pais
+PAN,Panamá,2008,0.19065,pais
+PAN,Panamá,2009,0.1321,pais
+PAN,Panamá,2010,0.14453,pais
+PAN,Panamá,2011,0.17304,pais
+PAN,Panamá,2012,0.07534,pais
+PAN,Panamá,2013,0.06206,pais
+PAN,Panamá,2014,0.12295,pais
+PAN,Panamá,2015,0.10745,pais
+PAN,Panamá,2016,0.1324,pais
+PAN,Panamá,2017,0.1353,pais
+PAN,Panamá,2018,0.13359,pais
+PAN,Panamá,2019,0.13624,pais
+PAN,Panamá,2020,0.23235,pais
+PAN,Panamá,2021,0.17688,pais
+PAN,Panamá,2022,0.18243,pais
+PAN,Panamá,2023,0.15791,pais
+PER,Perú,1997,0.0836,pais
+PER,Perú,1998,0.10072,pais
+PER,Perú,1999,0.09849,pais
+PER,Perú,2000,0.11266,pais
+PER,Perú,2001,0.11096,pais
+PER,Perú,2002,0.10614,pais
+PER,Perú,2003,0.10813,pais
+PER,Perú,2004,0.15578,pais
+PER,Perú,2011,0.08282,pais
+PER,Perú,2012,0.0553,pais
+PER,Perú,2013,0.08174,pais
+PER,Perú,2014,0.10805,pais
+PER,Perú,2015,0.11702,pais
+PER,Perú,2016,0.12008,pais
+PER,Perú,2017,0.12085,pais
+PER,Perú,2018,0.12683,pais
+PER,Perú,2019,0.15696,pais
+PER,Perú,2020,0.17229,pais
+PER,Perú,2021,0.13752,pais
+PER,Perú,2022,0.16178,pais
+PHL,Filipinas,2002,0.13263,pais
+PHL,Filipinas,2003,0.12527,pais
+PHL,Filipinas,2005,0.10692,pais
+PHL,Filipinas,2007,0.10498,pais
+PHL,Filipinas,2009,0.10901,pais
+PHL,Filipinas,2011,0.11222,pais
+PHL,Filipinas,2013,0.13207,pais
+PHL,Filipinas,2015,0.15683,pais
+PHL,Filipinas,2018,0.32222,pais
+PNG,Papúa Nueva Guinea,2016,0.03158,pais
+POL,Polonia,1996,0.63937,pais
+POL,Polonia,1997,0.64315,pais
+POL,Polonia,1998,0.65971,pais
+POL,Polonia,1999,0.68055,pais
+POL,Polonia,2000,0.64078,pais
+POL,Polonia,2001,0.62159,pais
+POL,Polonia,2002,0.55675,pais
+POL,Polonia,2003,0.53806,pais
+POL,Polonia,2004,0.5525,pais
+POL,Polonia,2005,0.56278,pais
+POL,Polonia,2006,0.55102,pais
+POL,Polonia,2007,0.56193,pais
+POL,Polonia,2008,0.59944,pais
+POL,Polonia,2009,0.66106,pais
+POL,Polonia,2010,0.72619,pais
+POL,Polonia,2011,0.75221,pais
+POL,Polonia,2012,0.88997,pais
+POL,Polonia,2013,0.88483,pais
+POL,Polonia,2014,0.95076,pais
+POL,Polonia,2015,1.00423,pais
+POL,Polonia,2016,0.96821,pais
+POL,Polonia,2017,1.03785,pais
+POL,Polonia,2018,1.2061,pais
+POL,Polonia,2019,1.32335,pais
+POL,Polonia,2020,1.38608,pais
+POL,Polonia,2021,1.43183,pais
+POL,Polonia,2022,1.45383,pais
+PRI,Puerto Rico,2009,0.45131,pais
+PRI,Puerto Rico,2013,0.43859,pais
+PRI,Puerto Rico,2015,0.42883,pais
+PRT,Portugal,1996,0.5495,pais
+PRT,Portugal,1997,0.56374,pais
+PRT,Portugal,1998,0.62486,pais
+PRT,Portugal,1999,0.68121,pais
+PRT,Portugal,2000,0.72156,pais
+PRT,Portugal,2001,0.76482,pais
+PRT,Portugal,2002,0.72183,pais
+PRT,Portugal,2003,0.69802,pais
+PRT,Portugal,2004,0.7293,pais
+PRT,Portugal,2005,0.75755,pais
+PRT,Portugal,2006,0.95448,pais
+PRT,Portugal,2007,1.12417,pais
+PRT,Portugal,2008,1.44335,pais
+PRT,Portugal,2009,1.58001,pais
+PRT,Portugal,2010,1.53529,pais
+PRT,Portugal,2011,1.45741,pais
+PRT,Portugal,2012,1.37861,pais
+PRT,Portugal,2013,1.32468,pais
+PRT,Portugal,2014,1.28992,pais
+PRT,Portugal,2015,1.2433,pais
+PRT,Portugal,2016,1.28075,pais
+PRT,Portugal,2017,1.31928,pais
+PRT,Portugal,2018,1.34955,pais
+PRT,Portugal,2019,1.39562,pais
+PRT,Portugal,2020,1.61392,pais
+PRT,Portugal,2021,1.67051,pais
+PRT,Portugal,2022,1.70179,pais
+PRY,Paraguay,2001,0.06699,pais
+PRY,Paraguay,2002,0.07493,pais
+PRY,Paraguay,2003,0.06135,pais
+PRY,Paraguay,2004,0.06066,pais
+PRY,Paraguay,2005,0.06091,pais
+PRY,Paraguay,2008,0.04113,pais
+PRY,Paraguay,2011,0.04216,pais
+PRY,Paraguay,2012,0.06517,pais
+PRY,Paraguay,2013,0.07163,pais
+PRY,Paraguay,2014,0.07901,pais
+PRY,Paraguay,2015,0.09674,pais
+PRY,Paraguay,2016,0.11676,pais
+PRY,Paraguay,2017,0.14888,pais
+PRY,Paraguay,2018,0.14684,pais
+PRY,Paraguay,2019,0.13751,pais
+PRY,Paraguay,2020,0.15697,pais
+PRY,Paraguay,2021,0.14398,pais
+PRY,Paraguay,2022,0.11944,pais
+PSE,Palestina,2007,0.19723,pais
+PSE,Palestina,2008,0.14914,pais
+PSE,Palestina,2009,0.35646,pais
+PSE,Palestina,2010,0.36156,pais
+PSE,Palestina,2013,0.45434,pais
+QAT,Qatar,2012,0.4786,pais
+QAT,Qatar,2015,0.51883,pais
+QAT,Qatar,2018,0.53129,pais
+QAT,Qatar,2021,0.68058,pais
+ROU,Rumania,1996,0.67472,pais
+ROU,Rumania,1997,0.57451,pais
+ROU,Rumania,1998,0.49541,pais
+ROU,Rumania,1999,0.39832,pais
+ROU,Rumania,2000,0.36626,pais
+ROU,Rumania,2001,0.39129,pais
+ROU,Rumania,2002,0.37721,pais
+ROU,Rumania,2003,0.39708,pais
+ROU,Rumania,2004,0.38942,pais
+ROU,Rumania,2005,0.41262,pais
+ROU,Rumania,2006,0.45682,pais
+ROU,Rumania,2007,0.51148,pais
+ROU,Rumania,2008,0.55215,pais
+ROU,Rumania,2009,0.44395,pais
+ROU,Rumania,2010,0.44666,pais
+ROU,Rumania,2011,0.47459,pais
+ROU,Rumania,2012,0.4624,pais
+ROU,Rumania,2013,0.39024,pais
+ROU,Rumania,2014,0.38208,pais
+ROU,Rumania,2015,0.48796,pais
+ROU,Rumania,2016,0.48864,pais
+ROU,Rumania,2017,0.50693,pais
+ROU,Rumania,2018,0.49729,pais
+ROU,Rumania,2019,0.47616,pais
+ROU,Rumania,2020,0.46538,pais
+ROU,Rumania,2021,0.47234,pais
+ROU,Rumania,2022,0.45881,pais
+RUS,Rusia,1996,0.96592,pais
+RUS,Rusia,1997,1.04374,pais
+RUS,Rusia,1998,0.95383,pais
+RUS,Rusia,1999,0.99623,pais
+RUS,Rusia,2000,1.04983,pais
+RUS,Rusia,2001,1.17694,pais
+RUS,Rusia,2002,1.24652,pais
+RUS,Rusia,2003,1.28603,pais
+RUS,Rusia,2004,1.15133,pais
+RUS,Rusia,2005,1.06797,pais
+RUS,Rusia,2006,1.07294,pais
+RUS,Rusia,2007,1.11611,pais
+RUS,Rusia,2008,1.04435,pais
+RUS,Rusia,2009,1.25192,pais
+RUS,Rusia,2010,1.1302,pais
+RUS,Rusia,2011,1.01545,pais
+RUS,Rusia,2012,1.02766,pais
+RUS,Rusia,2013,1.02732,pais
+RUS,Rusia,2014,1.07241,pais
+RUS,Rusia,2015,1.10085,pais
+RUS,Rusia,2016,1.10238,pais
+RUS,Rusia,2017,1.10967,pais
+RUS,Rusia,2018,0.99002,pais
+RUS,Rusia,2019,1.03531,pais
+RUS,Rusia,2020,1.09099,pais
+RUS,Rusia,2021,0.95857,pais
+RUS,Rusia,2022,0.92527,pais
+RWA,Ruanda,2016,0.64945,pais
+RWA,Ruanda,2019,0.75853,pais
+RWA,Ruanda,2023,0.79445,pais
+SAU,Arabia Saudita,2003,0.06233,pais
+SAU,Arabia Saudita,2004,0.05315,pais
+SAU,Arabia Saudita,2005,0.0423,pais
+SAU,Arabia Saudita,2006,0.04245,pais
+SAU,Arabia Saudita,2007,0.04521,pais
+SAU,Arabia Saudita,2008,0.04902,pais
+SAU,Arabia Saudita,2009,0.07338,pais
+SAU,Arabia Saudita,2010,0.884,pais
+SAU,Arabia Saudita,2011,0.89068,pais
+SAU,Arabia Saudita,2012,0.8699,pais
+SAU,Arabia Saudita,2013,0.80736,pais
+SAU,Arabia Saudita,2020,0.49802,pais
+SAU,Arabia Saudita,2021,0.44266,pais
+SAU,Arabia Saudita,2022,0.46317,pais
+SAU,Arabia Saudita,2023,0.56486,pais
+SDN,Sudán,1999,0.53007,pais
+SDN,Sudán,2000,0.47277,pais
+SDN,Sudán,2001,0.37483,pais
+SDN,Sudán,2002,0.32247,pais
+SDN,Sudán,2003,0.2808,pais
+SDN,Sudán,2004,0.23825,pais
+SDN,Sudán,2005,0.225,pais
+SEN,Senegal,2008,0.29374,pais
+SEN,Senegal,2010,0.4343,pais
+SEN,Senegal,2015,0.5772,pais
+SGP,Singapur,1996,1.31991,pais
+SGP,Singapur,1997,1.41564,pais
+SGP,Singapur,1998,1.73707,pais
+SGP,Singapur,1999,1.81624,pais
+SGP,Singapur,2000,1.81699,pais
+SGP,Singapur,2001,2.0093,pais
+SGP,Singapur,2002,2.03282,pais
+SGP,Singapur,2003,1.99679,pais
+SGP,Singapur,2004,2.07859,pais
+SGP,Singapur,2005,2.14806,pais
+SGP,Singapur,2006,2.11656,pais
+SGP,Singapur,2007,2.31986,pais
+SGP,Singapur,2008,2.59674,pais
+SGP,Singapur,2009,2.1279,pais
+SGP,Singapur,2010,1.92918,pais
+SGP,Singapur,2011,2.06955,pais
+SGP,Singapur,2012,1.91833,pais
+SGP,Singapur,2013,1.92104,pais
+SGP,Singapur,2014,2.08228,pais
+SGP,Singapur,2015,2.17445,pais
+SGP,Singapur,2016,2.07276,pais
+SGP,Singapur,2017,1.89913,pais
+SGP,Singapur,2018,1.80947,pais
+SGP,Singapur,2019,1.88474,pais
+SGP,Singapur,2020,2.15626,pais
+SLV,El Salvador,1998,0.08818,pais
+SLV,El Salvador,2007,0.1056,pais
+SLV,El Salvador,2008,0.13399,pais
+SLV,El Salvador,2009,0.0909,pais
+SLV,El Salvador,2010,0.07806,pais
+SLV,El Salvador,2011,0.0355,pais
+SLV,El Salvador,2012,0.03397,pais
+SLV,El Salvador,2013,0.06387,pais
+SLV,El Salvador,2014,0.09377,pais
+SLV,El Salvador,2015,0.14348,pais
+SLV,El Salvador,2016,0.14493,pais
+SLV,El Salvador,2017,0.18078,pais
+SLV,El Salvador,2018,0.16531,pais
+SLV,El Salvador,2019,0.17477,pais
+SLV,El Salvador,2020,0.16299,pais
+SLV,El Salvador,2021,0.16252,pais
+SLV,El Salvador,2022,0.1428,pais
+SRB,Serbia,1997,0.70915,pais
+SRB,Serbia,1998,0.75301,pais
+SRB,Serbia,1999,0.94682,pais
+SRB,Serbia,2000,0.85424,pais
+SRB,Serbia,2001,0.30401,pais
+SRB,Serbia,2002,0.63968,pais
+SRB,Serbia,2003,0.49138,pais
+SRB,Serbia,2004,0.28953,pais
+SRB,Serbia,2005,0.3953,pais
+SRB,Serbia,2006,0.43985,pais
+SRB,Serbia,2007,0.57877,pais
+SRB,Serbia,2008,0.66966,pais
+SRB,Serbia,2009,0.8173,pais
+SRB,Serbia,2010,0.70228,pais
+SRB,Serbia,2011,0.68334,pais
+SRB,Serbia,2012,0.85316,pais
+SRB,Serbia,2013,0.68367,pais
+SRB,Serbia,2014,0.72309,pais
+SRB,Serbia,2015,0.8109,pais
+SRB,Serbia,2016,0.83822,pais
+SRB,Serbia,2017,0.87238,pais
+SRB,Serbia,2018,0.91891,pais
+SRB,Serbia,2019,0.88667,pais
+SRB,Serbia,2020,0.90558,pais
+SRB,Serbia,2021,0.99379,pais
+SRB,Serbia,2022,0.96616,pais
+SRB,Serbia,2023,0.95005,pais
+SVK,Eslovaquia,1996,0.88963,pais
+SVK,Eslovaquia,1997,1.05108,pais
+SVK,Eslovaquia,1998,0.76541,pais
+SVK,Eslovaquia,1999,0.64475,pais
+SVK,Eslovaquia,2000,0.63807,pais
+SVK,Eslovaquia,2001,0.62465,pais
+SVK,Eslovaquia,2002,0.56314,pais
+SVK,Eslovaquia,2003,0.56145,pais
+SVK,Eslovaquia,2004,0.50069,pais
+SVK,Eslovaquia,2005,0.49332,pais
+SVK,Eslovaquia,2006,0.47488,pais
+SVK,Eslovaquia,2007,0.44746,pais
+SVK,Eslovaquia,2008,0.46137,pais
+SVK,Eslovaquia,2009,0.47272,pais
+SVK,Eslovaquia,2010,0.6055,pais
+SVK,Eslovaquia,2011,0.65255,pais
+SVK,Eslovaquia,2012,0.79461,pais
+SVK,Eslovaquia,2013,0.82005,pais
+SVK,Eslovaquia,2014,0.877,pais
+SVK,Eslovaquia,2015,1.15727,pais
+SVK,Eslovaquia,2016,0.78857,pais
+SVK,Eslovaquia,2017,0.88456,pais
+SVK,Eslovaquia,2018,0.83555,pais
+SVK,Eslovaquia,2019,0.8224,pais
+SVK,Eslovaquia,2020,0.89773,pais
+SVK,Eslovaquia,2021,0.91611,pais
+SVK,Eslovaquia,2022,0.97939,pais
+SVN,Eslovenia,1996,1.26473,pais
+SVN,Eslovenia,1997,1.24643,pais
+SVN,Eslovenia,1998,1.30515,pais
+SVN,Eslovenia,1999,1.33688,pais
+SVN,Eslovenia,2000,1.35982,pais
+SVN,Eslovenia,2001,1.46767,pais
+SVN,Eslovenia,2002,1.44325,pais
+SVN,Eslovenia,2003,1.24792,pais
+SVN,Eslovenia,2004,1.37026,pais
+SVN,Eslovenia,2005,1.41778,pais
+SVN,Eslovenia,2006,1.53705,pais
+SVN,Eslovenia,2007,1.42703,pais
+SVN,Eslovenia,2008,1.62673,pais
+SVN,Eslovenia,2009,1.81184,pais
+SVN,Eslovenia,2010,2.05133,pais
+SVN,Eslovenia,2011,2.41297,pais
+SVN,Eslovenia,2012,2.56061,pais
+SVN,Eslovenia,2013,2.56487,pais
+SVN,Eslovenia,2014,2.36548,pais
+SVN,Eslovenia,2015,2.19565,pais
+SVN,Eslovenia,2016,2.00764,pais
+SVN,Eslovenia,2017,1.8653,pais
+SVN,Eslovenia,2018,1.94593,pais
+SVN,Eslovenia,2019,2.03922,pais
+SVN,Eslovenia,2020,2.14156,pais
+SVN,Eslovenia,2021,2.128,pais
+SVN,Eslovenia,2022,2.09525,pais
+SWE,Suecia,1997,3.27394,pais
+SWE,Suecia,1999,3.38132,pais
+SWE,Suecia,2001,3.8738,pais
+SWE,Suecia,2003,3.57948,pais
+SWE,Suecia,2004,3.36129,pais
+SWE,Suecia,2005,3.35958,pais
+SWE,Suecia,2006,3.475,pais
+SWE,Suecia,2007,3.23383,pais
+SWE,Suecia,2008,3.46999,pais
+SWE,Suecia,2009,3.39528,pais
+SWE,Suecia,2010,3.16789,pais
+SWE,Suecia,2011,3.18702,pais
+SWE,Suecia,2012,3.23025,pais
+SWE,Suecia,2013,3.26042,pais
+SWE,Suecia,2014,3.10184,pais
+SWE,Suecia,2015,3.21903,pais
+SWE,Suecia,2016,3.24736,pais
+SWE,Suecia,2017,3.36279,pais
+SWE,Suecia,2018,3.32106,pais
+SWE,Suecia,2019,3.38758,pais
+SWE,Suecia,2020,3.4896,pais
+SWE,Suecia,2021,3.40216,pais
+SWE,Suecia,2022,3.40822,pais
+SWZ,Eswatini,2015,0.26754,pais
+SYC,Seychelles,2001,0.39968,pais
+SYC,Seychelles,2002,0.3826,pais
+SYC,Seychelles,2003,0.38707,pais
+SYC,Seychelles,2004,0.32574,pais
+SYC,Seychelles,2005,0.28393,pais
+SYC,Seychelles,2016,0.2017,pais
+SYR,Siria,2015,0.01942,pais
+SYR,Siria,2022,0.07306,pais
+TCD,Chad,2016,0.3005,pais
+TGO,Togo,2010,0.16962,pais
+TGO,Togo,2012,0.15973,pais
+TGO,Togo,2014,0.19074,pais
+THA,Tailandia,1996,0.11918,pais
+THA,Tailandia,1997,0.10214,pais
+THA,Tailandia,1999,0.24836,pais
+THA,Tailandia,2000,0.24471,pais
+THA,Tailandia,2001,0.25231,pais
+THA,Tailandia,2002,0.23055,pais
+THA,Tailandia,2003,0.24534,pais
+THA,Tailandia,2004,0.23828,pais
+THA,Tailandia,2005,0.21889,pais
+THA,Tailandia,2006,0.23271,pais
+THA,Tailandia,2007,0.2008,pais
+THA,Tailandia,2008,0.20331,pais
+THA,Tailandia,2009,0.23455,pais
+THA,Tailandia,2011,0.36146,pais
+THA,Tailandia,2013,0.44164,pais
+THA,Tailandia,2014,0.47988,pais
+THA,Tailandia,2015,0.61609,pais
+THA,Tailandia,2016,0.77829,pais
+THA,Tailandia,2017,1.00166,pais
+THA,Tailandia,2018,1.11374,pais
+THA,Tailandia,2019,1.14317,pais
+THA,Tailandia,2020,1.32818,pais
+THA,Tailandia,2021,1.20807,pais
+THA,Tailandia,2022,1.15902,pais
+TJK,Tayikistán,2001,0.08953,pais
+TJK,Tayikistán,2002,0.07068,pais
+TJK,Tayikistán,2003,0.06885,pais
+TJK,Tayikistán,2004,0.06697,pais
+TJK,Tayikistán,2005,0.0957,pais
+TJK,Tayikistán,2006,0.10732,pais
+TJK,Tayikistán,2007,0.06778,pais
+TJK,Tayikistán,2008,0.06983,pais
+TJK,Tayikistán,2009,0.08577,pais
+TJK,Tayikistán,2010,0.08914,pais
+TJK,Tayikistán,2011,0.12148,pais
+TJK,Tayikistán,2012,0.11432,pais
+TJK,Tayikistán,2013,0.11851,pais
+TJK,Tayikistán,2014,0.11624,pais
+TJK,Tayikistán,2015,0.1034,pais
+TJK,Tayikistán,2016,0.10622,pais
+TJK,Tayikistán,2017,0.10957,pais
+TJK,Tayikistán,2018,0.09401,pais
+TJK,Tayikistán,2019,0.09367,pais
+TJK,Tayikistán,2020,0.08969,pais
+TKM,Turkmenistán,2015,0.11,pais
+TKM,Turkmenistán,2016,0.16,pais
+TKM,Turkmenistán,2017,0.09,pais
+TKM,Turkmenistán,2018,0.08,pais
+TKM,Turkmenistán,2019,0.11,pais
+TKM,Turkmenistán,2020,0.13,pais
+TKM,Turkmenistán,2021,0.1,pais
+TKM,Turkmenistán,2022,0.14,pais
+TTO,Trinidad y Tobago,1996,0.10325,pais
+TTO,Trinidad y Tobago,1997,0.11553,pais
+TTO,Trinidad y Tobago,1998,0.12715,pais
+TTO,Trinidad y Tobago,1999,0.12292,pais
+TTO,Trinidad y Tobago,2000,0.108,pais
+TTO,Trinidad y Tobago,2001,0.10417,pais
+TTO,Trinidad y Tobago,2002,0.13178,pais
+TTO,Trinidad y Tobago,2003,0.11501,pais
+TTO,Trinidad y Tobago,2004,0.11441,pais
+TTO,Trinidad y Tobago,2005,0.11431,pais
+TTO,Trinidad y Tobago,2006,0.07233,pais
+TTO,Trinidad y Tobago,2007,0.05922,pais
+TTO,Trinidad y Tobago,2008,0.03072,pais
+TTO,Trinidad y Tobago,2009,0.05665,pais
+TTO,Trinidad y Tobago,2010,0.04771,pais
+TTO,Trinidad y Tobago,2011,0.04024,pais
+TTO,Trinidad y Tobago,2012,0.04126,pais
+TTO,Trinidad y Tobago,2013,0.05382,pais
+TTO,Trinidad y Tobago,2014,0.07599,pais
+TTO,Trinidad y Tobago,2015,0.07996,pais
+TTO,Trinidad y Tobago,2016,0.08626,pais
+TTO,Trinidad y Tobago,2017,0.08519,pais
+TTO,Trinidad y Tobago,2018,0.08139,pais
+TTO,Trinidad y Tobago,2019,0.0596,pais
+TTO,Trinidad y Tobago,2020,0.06512,pais
+TTO,Trinidad y Tobago,2021,0.05374,pais
+TTO,Trinidad y Tobago,2022,0.0478,pais
+TUN,Túnez,2002,0.54302,pais
+TUN,Túnez,2003,0.65044,pais
+TUN,Túnez,2004,0.73095,pais
+TUN,Túnez,2005,0.71195,pais
+TUN,Túnez,2006,0.67729,pais
+TUN,Túnez,2007,0.6654,pais
+TUN,Túnez,2008,0.63933,pais
+TUN,Túnez,2009,0.70644,pais
+TUN,Túnez,2010,0.65806,pais
+TUN,Túnez,2011,0.67458,pais
+TUN,Túnez,2012,0.64937,pais
+TUN,Túnez,2013,0.637,pais
+TUN,Túnez,2014,0.61988,pais
+TUN,Túnez,2015,0.59413,pais
+TUN,Túnez,2016,0.56539,pais
+TUN,Túnez,2017,0.69954,pais
+TUN,Túnez,2018,0.71645,pais
+TUN,Túnez,2019,0.74658,pais
+TUR,Turquía,1996,0.45159,pais
+TUR,Turquía,1997,0.49168,pais
+TUR,Turquía,1998,0.36198,pais
+TUR,Turquía,1999,0.45557,pais
+TUR,Turquía,2000,0.46558,pais
+TUR,Turquía,2001,0.52247,pais
+TUR,Turquía,2002,0.50904,pais
+TUR,Turquía,2003,0.46532,pais
+TUR,Turquía,2004,0.49713,pais
+TUR,Turquía,2005,0.56381,pais
+TUR,Turquía,2006,0.55292,pais
+TUR,Turquía,2007,0.68616,pais
+TUR,Turquía,2008,0.68741,pais
+TUR,Turquía,2009,0.80362,pais
+TUR,Turquía,2010,0.79369,pais
+TUR,Turquía,2011,0.79393,pais
+TUR,Turquía,2012,0.82595,pais
+TUR,Turquía,2013,0.81206,pais
+TUR,Turquía,2014,0.8564,pais
+TUR,Turquía,2015,0.96732,pais
+TUR,Turquía,2016,1.11979,pais
+TUR,Turquía,2017,1.17632,pais
+TUR,Turquía,2018,1.27093,pais
+TUR,Turquía,2019,1.3196,pais
+TUR,Turquía,2020,1.36748,pais
+TUR,Turquía,2021,1.40209,pais
+TUR,Turquía,2022,1.32343,pais
+TZA,Tanzanía,2007,0.33462,pais
+TZA,Tanzanía,2010,0.37307,pais
+TZA,Tanzanía,2013,0.51456,pais
+UGA,Uganda,2002,0.36756,pais
+UGA,Uganda,2003,0.25612,pais
+UGA,Uganda,2004,0.26056,pais
+UGA,Uganda,2005,0.21514,pais
+UGA,Uganda,2006,0.30033,pais
+UGA,Uganda,2007,0.38821,pais
+UGA,Uganda,2008,0.32632,pais
+UGA,Uganda,2009,0.25547,pais
+UGA,Uganda,2010,0.3599,pais
+UGA,Uganda,2014,0.14265,pais
+UGA,Uganda,2023,0.3109,pais
+UKR,Ucrania,1997,1.1923,pais
+UKR,Ucrania,1998,1.06993,pais
+UKR,Ucrania,1999,0.96968,pais
+UKR,Ucrania,2000,0.92904,pais
+UKR,Ucrania,2001,0.98944,pais
+UKR,Ucrania,2002,0.96269,pais
+UKR,Ucrania,2003,1.07166,pais
+UKR,Ucrania,2004,1.04392,pais
+UKR,Ucrania,2005,0.99518,pais
+UKR,Ucrania,2006,0.91403,pais
+UKR,Ucrania,2007,0.81869,pais
+UKR,Ucrania,2008,0.80991,pais
+UKR,Ucrania,2009,0.82596,pais
+UKR,Ucrania,2010,0.80279,pais
+UKR,Ucrania,2011,0.7109,pais
+UKR,Ucrania,2012,0.72363,pais
+UKR,Ucrania,2013,0.733,pais
+UKR,Ucrania,2014,0.65034,pais
+UKR,Ucrania,2015,0.61477,pais
+UKR,Ucrania,2016,0.48339,pais
+UKR,Ucrania,2017,0.44879,pais
+UKR,Ucrania,2018,0.47113,pais
+UKR,Ucrania,2019,0.43384,pais
+UKR,Ucrania,2020,0.40318,pais
+UKR,Ucrania,2021,0.38478,pais
+UKR,Ucrania,2022,0.32673,pais
+UKR,Ucrania,2023,0.32653,pais
+URY,Uruguay,1996,0.26501,pais
+URY,Uruguay,1997,0.34994,pais
+URY,Uruguay,1998,0.19186,pais
+URY,Uruguay,1999,0.22417,pais
+URY,Uruguay,2000,0.20925,pais
+URY,Uruguay,2002,0.23818,pais
+URY,Uruguay,2005,0.46031,pais
+URY,Uruguay,2006,0.36385,pais
+URY,Uruguay,2007,0.42159,pais
+URY,Uruguay,2008,0.37441,pais
+URY,Uruguay,2009,0.40239,pais
+URY,Uruguay,2010,0.32882,pais
+URY,Uruguay,2011,0.32962,pais
+URY,Uruguay,2012,0.30808,pais
+URY,Uruguay,2013,0.29118,pais
+URY,Uruguay,2014,0.31707,pais
+URY,Uruguay,2015,0.35109,pais
+URY,Uruguay,2016,0.37391,pais
+URY,Uruguay,2017,0.44052,pais
+URY,Uruguay,2018,0.50484,pais
+URY,Uruguay,2019,0.56805,pais
+URY,Uruguay,2020,0.67468,pais
+URY,Uruguay,2021,0.61447,pais
+URY,Uruguay,2022,0.62592,pais
+USA,Estados Unidos,1996,2.45013,pais
+USA,Estados Unidos,1997,2.47714,pais
+USA,Estados Unidos,1998,2.49621,pais
+USA,Estados Unidos,1999,2.54362,pais
+USA,Estados Unidos,2000,2.61983,pais
+USA,Estados Unidos,2001,2.63715,pais
+USA,Estados Unidos,2002,2.54745,pais
+USA,Estados Unidos,2003,2.55015,pais
+USA,Estados Unidos,2004,2.48686,pais
+USA,Estados Unidos,2005,2.50193,pais
+USA,Estados Unidos,2006,2.54545,pais
+USA,Estados Unidos,2007,2.61516,pais
+USA,Estados Unidos,2008,2.74481,pais
+USA,Estados Unidos,2009,2.79181,pais
+USA,Estados Unidos,2010,2.71444,pais
+USA,Estados Unidos,2011,2.73803,pais
+USA,Estados Unidos,2012,2.67273,pais
+USA,Estados Unidos,2013,2.69592,pais
+USA,Estados Unidos,2014,2.70881,pais
+USA,Estados Unidos,2015,2.77328,pais
+USA,Estados Unidos,2016,2.83676,pais
+USA,Estados Unidos,2017,2.88357,pais
+USA,Estados Unidos,2018,2.99045,pais
+USA,Estados Unidos,2019,3.14704,pais
+USA,Estados Unidos,2020,3.42467,pais
+USA,Estados Unidos,2021,3.48313,pais
+USA,Estados Unidos,2022,3.58623,pais
+UZB,Uzbekistán,2000,0.36063,pais
+UZB,Uzbekistán,2001,0.34544,pais
+UZB,Uzbekistán,2002,0.29356,pais
+UZB,Uzbekistán,2003,0.26825,pais
+UZB,Uzbekistán,2004,0.27041,pais
+UZB,Uzbekistán,2005,0.23741,pais
+UZB,Uzbekistán,2006,0.22395,pais
+UZB,Uzbekistán,2007,0.21721,pais
+UZB,Uzbekistán,2008,0.19354,pais
+UZB,Uzbekistán,2009,0.20315,pais
+UZB,Uzbekistán,2010,0.1543,pais
+UZB,Uzbekistán,2011,0.14877,pais
+UZB,Uzbekistán,2012,0.15512,pais
+UZB,Uzbekistán,2013,0.155,pais
+UZB,Uzbekistán,2014,0.15335,pais
+UZB,Uzbekistán,2015,0.16497,pais
+UZB,Uzbekistán,2016,0.17238,pais
+UZB,Uzbekistán,2017,0.14834,pais
+UZB,Uzbekistán,2018,0.12394,pais
+UZB,Uzbekistán,2019,0.11306,pais
+UZB,Uzbekistán,2020,0.1385,pais
+UZB,Uzbekistán,2021,0.1316,pais
+UZB,Uzbekistán,2022,0.15874,pais
+UZB,Uzbekistán,2023,0.12527,pais
+VCT,San Vicente y las Granadinas,2001,0.04008,pais
+VCT,San Vicente y las Granadinas,2002,0.1139,pais
+VEN,Venezuela,2005,0.18907,pais
+VEN,Venezuela,2006,0.31742,pais
+VEN,Venezuela,2007,0.2011,pais
+VEN,Venezuela,2008,0.23803,pais
+VEN,Venezuela,2009,0.24014,pais
+VEN,Venezuela,2010,0.18823,pais
+VEN,Venezuela,2011,0.15296,pais
+VEN,Venezuela,2012,0.2501,pais
+VEN,Venezuela,2013,0.31853,pais
+VEN,Venezuela,2014,0.33713,pais
+VEN,Venezuela,2015,0.44,pais
+VEN,Venezuela,2016,0.69,pais
+VIR,Islas Vírgenes de EEUU,2002,0.06617,pais
+VIR,Islas Vírgenes de EEUU,2003,0.03776,pais
+VIR,Islas Vírgenes de EEUU,2004,0.03424,pais
+VIR,Islas Vírgenes de EEUU,2005,0.02936,pais
+VIR,Islas Vírgenes de EEUU,2006,0.03122,pais
+VIR,Islas Vírgenes de EEUU,2007,0.02717,pais
+VNM,Vietnam,2002,0.19273,pais
+VNM,Vietnam,2011,0.14955,pais
+VNM,Vietnam,2013,0.29932,pais
+VNM,Vietnam,2015,0.35629,pais
+VNM,Vietnam,2017,0.41895,pais
+VNM,Vietnam,2019,0.41652,pais
+VNM,Vietnam,2021,0.42494,pais
+ZAF,Sudáfrica,1997,0.52694,pais
+ZAF,Sudáfrica,2001,0.64224,pais
+ZAF,Sudáfrica,2003,0.6765,pais
+ZAF,Sudáfrica,2004,0.72681,pais
+ZAF,Sudáfrica,2005,0.77024,pais
+ZAF,Sudáfrica,2006,0.80291,pais
+ZAF,Sudáfrica,2007,0.79364,pais
+ZAF,Sudáfrica,2008,0.80567,pais
+ZAF,Sudáfrica,2009,0.74993,pais
+ZAF,Sudáfrica,2010,0.66284,pais
+ZAF,Sudáfrica,2011,0.66753,pais
+ZAF,Sudáfrica,2012,0.66934,pais
+ZAF,Sudáfrica,2013,0.6633,pais
+ZAF,Sudáfrica,2014,0.70987,pais
+ZAF,Sudáfrica,2015,0.73147,pais
+ZAF,Sudáfrica,2016,0.74992,pais
+ZAF,Sudáfrica,2017,0.76257,pais
+ZAF,Sudáfrica,2018,0.68586,pais
+ZAF,Sudáfrica,2019,0.61304,pais
+ZAF,Sudáfrica,2020,0.6024,pais
+ZAF,Sudáfrica,2021,0.61503,pais
+ZAF,Sudáfrica,2022,0.61729,pais
+ZMB,Zambia,1996,0.01104,pais
+ZMB,Zambia,1997,0.00737,pais
+ZMB,Zambia,2002,0.00544,pais
+ZMB,Zambia,2003,0.00847,pais
+ZMB,Zambia,2004,0.02223,pais
+ZMB,Zambia,2005,0.02493,pais
+ZMB,Zambia,2008,0.27819,pais
+HIC,Países de altos ingresos,1996,1.97732,agregacion
+HIC,Países de altos ingresos,1997,2.00079,agregacion
+HIC,Países de altos ingresos,1998,2.02156,agregacion
+HIC,Países de altos ingresos,1999,2.06506,agregacion
+HIC,Países de altos ingresos,2000,2.10574,agregacion
+HIC,Países de altos ingresos,2001,2.14024,agregacion
+HIC,Países de altos ingresos,2002,2.12032,agregacion
+HIC,Países de altos ingresos,2003,2.11912,agregacion
+HIC,Países de altos ingresos,2004,2.08449,agregacion
+HIC,Países de altos ingresos,2005,2.10379,agregacion
+HIC,Países de altos ingresos,2006,2.1279,agregacion
+HIC,Países de altos ingresos,2007,2.1633,agregacion
+HIC,Países de altos ingresos,2008,2.21062,agregacion
+HIC,Países de altos ingresos,2009,2.2616,agregacion
+HIC,Países de altos ingresos,2010,2.21895,agregacion
+HIC,Países de altos ingresos,2011,2.23486,agregacion
+HIC,Países de altos ingresos,2012,2.22955,agregacion
+HIC,Países de altos ingresos,2013,2.25614,agregacion
+HIC,Países de altos ingresos,2014,2.28575,agregacion
+HIC,Países de altos ingresos,2015,2.3254,agregacion
+HIC,Países de altos ingresos,2016,2.33854,agregacion
+HIC,Países de altos ingresos,2017,2.37333,agregacion
+HIC,Países de altos ingresos,2018,2.41942,agregacion
+HIC,Países de altos ingresos,2019,2.4841,agregacion
+HIC,Países de altos ingresos,2020,2.65169,agregacion
+HIC,Países de altos ingresos,2021,2.62848,agregacion
+HIC,Países de altos ingresos,2022,2.66342,agregacion
+LIC,Países de bajos ingresos,1996,0.2492,agregacion
+LIC,Países de bajos ingresos,1997,0.25946,agregacion
+LIC,Países de bajos ingresos,1998,0.25515,agregacion
+LIC,Países de bajos ingresos,1999,0.25685,agregacion
+LIC,Países de bajos ingresos,2000,0.24872,agregacion
+LIC,Países de bajos ingresos,2001,0.23365,agregacion
+LIC,Países de bajos ingresos,2002,0.23085,agregacion
+LIC,Países de bajos ingresos,2003,0.21974,agregacion
+LIC,Países de bajos ingresos,2004,0.20662,agregacion
+LIC,Países de bajos ingresos,2005,0.20019,agregacion
+LIC,Países de bajos ingresos,2006,0.20411,agregacion
+LIC,Países de bajos ingresos,2007,0.20796,agregacion
+LIC,Países de bajos ingresos,2008,0.21298,agregacion
+LIC,Países de bajos ingresos,2009,0.2218,agregacion
+LIC,Países de bajos ingresos,2010,0.23695,agregacion
+LIC,Países de bajos ingresos,2011,0.26207,agregacion
+LIC,Países de bajos ingresos,2012,0.2888,agregacion
+LIC,Países de bajos ingresos,2013,0.31411,agregacion
+LIC,Países de bajos ingresos,2014,0.3112,agregacion
+LIC,Países de bajos ingresos,2015,0.30598,agregacion
+LIC,Países de bajos ingresos,2016,0.30021,agregacion
+LIC,Países de bajos ingresos,2017,0.29112,agregacion
+LIC,Países de bajos ingresos,2018,0.28165,agregacion
+LIC,Países de bajos ingresos,2019,0.27365,agregacion
+LIC,Países de bajos ingresos,2020,0.27781,agregacion
+LIC,Países de bajos ingresos,2021,0.28284,agregacion
+LIC,Países de bajos ingresos,2022,0.28433,agregacion
+LMC,Países de ingreso medio bajo,1996,0.3957,agregacion
+LMC,Países de ingreso medio bajo,1997,0.41663,agregacion
+LMC,Países de ingreso medio bajo,1998,0.42499,agregacion
+LMC,Países de ingreso medio bajo,1999,0.44285,agregacion
+LMC,Países de ingreso medio bajo,2000,0.44775,agregacion
+LMC,Países de ingreso medio bajo,2001,0.44527,agregacion
+LMC,Países de ingreso medio bajo,2002,0.44123,agregacion
+LMC,Países de ingreso medio bajo,2003,0.45063,agregacion
+LMC,Países de ingreso medio bajo,2004,0.47539,agregacion
+LMC,Países de ingreso medio bajo,2005,0.50996,agregacion
+LMC,Países de ingreso medio bajo,2006,0.51016,agregacion
+LMC,Países de ingreso medio bajo,2007,0.51841,agregacion
+LMC,Países de ingreso medio bajo,2008,0.53807,agregacion
+LMC,Países de ingreso medio bajo,2009,0.54273,agregacion
+LMC,Países de ingreso medio bajo,2010,0.52124,agregacion
+LMC,Países de ingreso medio bajo,2011,0.51075,agregacion
+LMC,Países de ingreso medio bajo,2012,0.50868,agregacion
+LMC,Países de ingreso medio bajo,2013,0.50185,agregacion
+LMC,Países de ingreso medio bajo,2014,0.49769,agregacion
+LMC,Países de ingreso medio bajo,2015,0.50459,agregacion
+LMC,Países de ingreso medio bajo,2016,0.49911,agregacion
+LMC,Países de ingreso medio bajo,2017,0.5004,agregacion
+LMC,Países de ingreso medio bajo,2018,0.50459,agregacion
+LMC,Países de ingreso medio bajo,2019,0.51297,agregacion
+LMC,Países de ingreso medio bajo,2020,0.51987,agregacion
+LMC,Países de ingreso medio bajo,2021,0.5223,agregacion
+LMC,Países de ingreso medio bajo,2022,0.53276,agregacion
+MIC,Países de ingreso medio,1996,0.4465,agregacion
+MIC,Países de ingreso medio,1997,0.46977,agregacion
+MIC,Países de ingreso medio,1998,0.47696,agregacion
+MIC,Países de ingreso medio,1999,0.51315,agregacion
+MIC,Países de ingreso medio,2000,0.5423,agregacion
+MIC,Países de ingreso medio,2001,0.56056,agregacion
+MIC,Países de ingreso medio,2002,0.59242,agregacion
+MIC,Países de ingreso medio,2003,0.62071,agregacion
+MIC,Países de ingreso medio,2004,0.64685,agregacion
+MIC,Países de ingreso medio,2005,0.69752,agregacion
+MIC,Países de ingreso medio,2006,0.71779,agregacion
+MIC,Países de ingreso medio,2007,0.74786,agregacion
+MIC,Países de ingreso medio,2008,0.79289,agregacion
+MIC,Países de ingreso medio,2009,0.88474,agregacion
+MIC,Países de ingreso medio,2010,0.90517,agregacion
+MIC,Países de ingreso medio,2011,0.93042,agregacion
+MIC,Países de ingreso medio,2012,0.98194,agregacion
+MIC,Países de ingreso medio,2013,1.02325,agregacion
+MIC,Países de ingreso medio,2014,1.05026,agregacion
+MIC,Países de ingreso medio,2015,1.09006,agregacion
+MIC,Países de ingreso medio,2016,1.1102,agregacion
+MIC,Países de ingreso medio,2017,1.11241,agregacion
+MIC,Países de ingreso medio,2018,1.13071,agregacion
+MIC,Países de ingreso medio,2019,1.18187,agregacion
+MIC,Países de ingreso medio,2020,1.26484,agregacion
+MIC,Países de ingreso medio,2021,1.26284,agregacion
+MIC,Países de ingreso medio,2022,1.29823,agregacion
+UMC,Países de ingreso medio alto,1996,0.46479,agregacion
+UMC,Países de ingreso medio alto,1997,0.48865,agregacion
+UMC,Países de ingreso medio alto,1998,0.49596,agregacion
+UMC,Países de ingreso medio alto,1999,0.53965,agregacion
+UMC,Países de ingreso medio alto,2000,0.57842,agregacion
+UMC,Países de ingreso medio alto,2001,0.605,agregacion
+UMC,Países de ingreso medio alto,2002,0.6508,agregacion
+UMC,Países de ingreso medio alto,2003,0.68705,agregacion
+UMC,Países de ingreso medio alto,2004,0.71324,agregacion
+UMC,Países de ingreso medio alto,2005,0.76994,agregacion
+UMC,Países de ingreso medio alto,2006,0.79714,agregacion
+UMC,Países de ingreso medio alto,2007,0.83385,agregacion
+UMC,Países de ingreso medio alto,2008,0.88656,agregacion
+UMC,Países de ingreso medio alto,2009,1.0142,agregacion
+UMC,Países de ingreso medio alto,2010,1.04993,agregacion
+UMC,Países de ingreso medio alto,2011,1.0851,agregacion
+UMC,Países de ingreso medio alto,2012,1.16067,agregacion
+UMC,Países de ingreso medio alto,2013,1.22098,agregacion
+UMC,Países de ingreso medio alto,2014,1.2619,agregacion
+UMC,Países de ingreso medio alto,2015,1.32229,agregacion
+UMC,Países de ingreso medio alto,2016,1.35919,agregacion
+UMC,Países de ingreso medio alto,2017,1.36373,agregacion
+UMC,Países de ingreso medio alto,2018,1.39368,agregacion
+UMC,Países de ingreso medio alto,2019,1.46792,agregacion
+UMC,Países de ingreso medio alto,2020,1.58255,agregacion
+UMC,Países de ingreso medio alto,2021,1.56791,agregacion
+UMC,Países de ingreso medio alto,2022,1.61991,agregacion
+WLD,Mundo,1996,1.43642,agregacion
+WLD,Mundo,1997,1.4531,agregacion
+WLD,Mundo,1998,1.46771,agregacion
+WLD,Mundo,1999,1.50654,agregacion
+WLD,Mundo,2000,1.53618,agregacion
+WLD,Mundo,2001,1.5568,agregacion
+WLD,Mundo,2002,1.54863,agregacion
+WLD,Mundo,2003,1.54755,agregacion
+WLD,Mundo,2004,1.52232,agregacion
+WLD,Mundo,2005,1.53914,agregacion
+WLD,Mundo,2006,1.55047,agregacion
+WLD,Mundo,2007,1.56663,agregacion
+WLD,Mundo,2008,1.60127,agregacion
+WLD,Mundo,2009,1.64518,agregacion
+WLD,Mundo,2010,1.61592,agregacion
+WLD,Mundo,2011,1.62635,agregacion
+WLD,Mundo,2012,1.63692,agregacion
+WLD,Mundo,2013,1.66462,agregacion
+WLD,Mundo,2014,1.68749,agregacion
+WLD,Mundo,2015,1.72385,agregacion
+WLD,Mundo,2016,1.73477,agregacion
+WLD,Mundo,2017,1.7499,agregacion
+WLD,Mundo,2018,1.77505,agregacion
+WLD,Mundo,2019,1.82869,agregacion
+WLD,Mundo,2020,1.94393,agregacion
+WLD,Mundo,2021,1.92273,agregacion
+WLD,Mundo,2022,1.95036,agregacion

@@ -1,103 +1,103 @@
-"anio","sector","balanza"
-"2006","Propiedad intelectual",-814.3116989
-"2007","Propiedad intelectual",-1077.9882225
-"2008","Propiedad intelectual",-1432.3590769
-"2009","Propiedad intelectual",-1420.9298711
-"2010","Propiedad intelectual",-1560.0245886
-"2011","Propiedad intelectual",-1923.742723
-"2012","Propiedad intelectual",-2058.8407798
-"2013","Propiedad intelectual",-2149.3676409
-"2014","Propiedad intelectual",-1924.7911521
-"2015","Propiedad intelectual",-2016.3201766
-"2016","Propiedad intelectual",-1939.5809396
-"2017","Propiedad intelectual",-1993.8533487
-"2018","Propiedad intelectual",-1733.1922521
-"2019","Propiedad intelectual",-1404.4948177
-"2020","Propiedad intelectual",-937.681635
-"2021","Propiedad intelectual",-1152.7785518
-"2022","Propiedad intelectual",-1556.5383855
-"2006","SSI",121.2613149908
-"2007","SSI",273.549846137
-"2008","SSI",460.908628203
-"2009","SSI",542.86309099
-"2010","SSI",712.89355252
-"2011","SSI",1005.80667103
-"2012","SSI",925.34915025
-"2013","SSI",768.05062411
-"2014","SSI",511.036265116
-"2015","SSI",643.503420103
-"2016","SSI",678.13651382
-"2017","SSI",1005.78413564
-"2018","SSI",1001.1789147
-"2019","SSI",819.85520285
-"2020","SSI",603.198095574
-"2021","SSI",488.155483307
-"2022","SSI",754.9896796
-"2006","Investigación y desarrollo",106.637260245
-"2007","Investigación y desarrollo",126.901831822
-"2008","Investigación y desarrollo",155.015538235
-"2009","Investigación y desarrollo",162.345233482
-"2010","Investigación y desarrollo",199.288073538
-"2011","Investigación y desarrollo",223.876810035
-"2012","Investigación y desarrollo",214.47387713
-"2013","Investigación y desarrollo",254.273108297
-"2014","Investigación y desarrollo",291.31330859
-"2015","Investigación y desarrollo",303.102476901
-"2016","Investigación y desarrollo",296.624520617
-"2017","Investigación y desarrollo",355.476168844
-"2018","Investigación y desarrollo",301.133315368
-"2019","Investigación y desarrollo",407.891858671
-"2020","Investigación y desarrollo",402.314252092
-"2021","Investigación y desarrollo",534.71212279
-"2022","Investigación y desarrollo",587.33570198
-"2006","Servicios profesionales",479.61875659
-"2007","Servicios profesionales",733.69031984
-"2008","Servicios profesionales",830.30081065
-"2009","Servicios profesionales",799.11832656
-"2010","Servicios profesionales",974.62839533
-"2011","Servicios profesionales",1193.72610999
-"2012","Servicios profesionales",1359.99629223
-"2013","Servicios profesionales",1162.09670417
-"2014","Servicios profesionales",1026.52267799
-"2015","Servicios profesionales",1039.13292056
-"2016","Servicios profesionales",1049.95141282
-"2017","Servicios profesionales",1506.2434929
-"2018","Servicios profesionales",1267.87842052
-"2019","Servicios profesionales",1194.47045454
-"2020","Servicios profesionales",1013.62062437
-"2021","Servicios profesionales",763.0379402
-"2022","Servicios profesionales",867.38080826
-"2006","Ss. arquitectura, ingeniería y otros",226.78366012
-"2007","Ss. arquitectura, ingeniería y otros",193.346806106
-"2008","Ss. arquitectura, ingeniería y otros",340.765995699
-"2009","Ss. arquitectura, ingeniería y otros",248.355324099
-"2010","Ss. arquitectura, ingeniería y otros",165.213351735
-"2011","Ss. arquitectura, ingeniería y otros",-29.262496136
-"2012","Ss. arquitectura, ingeniería y otros",53.6828117023
-"2013","Ss. arquitectura, ingeniería y otros",-229.58172768
-"2014","Ss. arquitectura, ingeniería y otros",-290.99423544
-"2015","Ss. arquitectura, ingeniería y otros",-266.00207761
-"2016","Ss. arquitectura, ingeniería y otros",-33.2257896023
-"2017","Ss. arquitectura, ingeniería y otros",-103.521178694
-"2018","Ss. arquitectura, ingeniería y otros",-436.31439452
-"2019","Ss. arquitectura, ingeniería y otros",-162.667034686
-"2020","Ss. arquitectura, ingeniería y otros",-558.21182611
-"2021","Ss. arquitectura, ingeniería y otros",-262.36563676
-"2022","Ss. arquitectura, ingeniería y otros",64.2086618255
-"2006","Ss. audiovisuales",80.4070926467
-"2007","Ss. audiovisuales",109.801268509
-"2008","Ss. audiovisuales",121.124393323
-"2009","Ss. audiovisuales",71.418055395
-"2010","Ss. audiovisuales",37.7943099487
-"2011","Ss. audiovisuales",26.1317358223
-"2012","Ss. audiovisuales",-82.18866817
-"2013","Ss. audiovisuales",-105.17436781
-"2014","Ss. audiovisuales",-186.54091264
-"2015","Ss. audiovisuales",-129.6123212536
-"2016","Ss. audiovisuales",-312.03601808
-"2017","Ss. audiovisuales",-391.2626319
-"2018","Ss. audiovisuales",-339.37090176
-"2019","Ss. audiovisuales",-403.13884747
-"2020","Ss. audiovisuales",-401.19344318
-"2021","Ss. audiovisuales",-329.3191347
-"2022","Ss. audiovisuales",-401.81701666
+anio,sector,balanza
+2006,Propiedad intelectual,-814.3116989
+2007,Propiedad intelectual,-1077.9882225
+2008,Propiedad intelectual,-1432.3590769
+2009,Propiedad intelectual,-1420.9298711
+2010,Propiedad intelectual,-1560.0245886
+2011,Propiedad intelectual,-1923.742723
+2012,Propiedad intelectual,-2058.8407798
+2013,Propiedad intelectual,-2149.3676409
+2014,Propiedad intelectual,-1924.7911521
+2015,Propiedad intelectual,-2016.3201766
+2016,Propiedad intelectual,-1939.5809396
+2017,Propiedad intelectual,-1993.8533487
+2018,Propiedad intelectual,-1733.1922521
+2019,Propiedad intelectual,-1404.4948177
+2020,Propiedad intelectual,-937.681635
+2021,Propiedad intelectual,-1152.7785518
+2022,Propiedad intelectual,-1556.5383855
+2006,SSI,121.2613149908
+2007,SSI,273.549846137
+2008,SSI,460.908628203
+2009,SSI,542.86309099
+2010,SSI,712.89355252
+2011,SSI,1005.80667103
+2012,SSI,925.34915025
+2013,SSI,768.05062411
+2014,SSI,511.036265116
+2015,SSI,643.503420103
+2016,SSI,678.13651382
+2017,SSI,1005.78413564
+2018,SSI,1001.1789147
+2019,SSI,819.85520285
+2020,SSI,603.198095574
+2021,SSI,488.155483307
+2022,SSI,754.9896796
+2006,Investigación y desarrollo,106.637260245
+2007,Investigación y desarrollo,126.901831822
+2008,Investigación y desarrollo,155.015538235
+2009,Investigación y desarrollo,162.345233482
+2010,Investigación y desarrollo,199.288073538
+2011,Investigación y desarrollo,223.876810035
+2012,Investigación y desarrollo,214.47387713
+2013,Investigación y desarrollo,254.273108297
+2014,Investigación y desarrollo,291.31330859
+2015,Investigación y desarrollo,303.102476901
+2016,Investigación y desarrollo,296.624520617
+2017,Investigación y desarrollo,355.476168844
+2018,Investigación y desarrollo,301.133315368
+2019,Investigación y desarrollo,407.891858671
+2020,Investigación y desarrollo,402.314252092
+2021,Investigación y desarrollo,534.71212279
+2022,Investigación y desarrollo,587.33570198
+2006,Servicios profesionales,479.61875659
+2007,Servicios profesionales,733.69031984
+2008,Servicios profesionales,830.30081065
+2009,Servicios profesionales,799.11832656
+2010,Servicios profesionales,974.62839533
+2011,Servicios profesionales,1193.72610999
+2012,Servicios profesionales,1359.99629223
+2013,Servicios profesionales,1162.09670417
+2014,Servicios profesionales,1026.52267799
+2015,Servicios profesionales,1039.13292056
+2016,Servicios profesionales,1049.95141282
+2017,Servicios profesionales,1506.2434929
+2018,Servicios profesionales,1267.87842052
+2019,Servicios profesionales,1194.47045454
+2020,Servicios profesionales,1013.62062437
+2021,Servicios profesionales,763.0379402
+2022,Servicios profesionales,867.38080826
+2006,"Ss. arquitectura, ingeniería y otros",226.78366012
+2007,"Ss. arquitectura, ingeniería y otros",193.346806106
+2008,"Ss. arquitectura, ingeniería y otros",340.765995699
+2009,"Ss. arquitectura, ingeniería y otros",248.355324099
+2010,"Ss. arquitectura, ingeniería y otros",165.213351735
+2011,"Ss. arquitectura, ingeniería y otros",-29.262496136
+2012,"Ss. arquitectura, ingeniería y otros",53.6828117023
+2013,"Ss. arquitectura, ingeniería y otros",-229.58172768
+2014,"Ss. arquitectura, ingeniería y otros",-290.99423544
+2015,"Ss. arquitectura, ingeniería y otros",-266.00207761
+2016,"Ss. arquitectura, ingeniería y otros",-33.2257896023
+2017,"Ss. arquitectura, ingeniería y otros",-103.521178694
+2018,"Ss. arquitectura, ingeniería y otros",-436.31439452
+2019,"Ss. arquitectura, ingeniería y otros",-162.667034686
+2020,"Ss. arquitectura, ingeniería y otros",-558.21182611
+2021,"Ss. arquitectura, ingeniería y otros",-262.36563676
+2022,"Ss. arquitectura, ingeniería y otros",64.2086618255
+2006,Ss. audiovisuales,80.4070926467
+2007,Ss. audiovisuales,109.801268509
+2008,Ss. audiovisuales,121.124393323
+2009,Ss. audiovisuales,71.418055395
+2010,Ss. audiovisuales,37.7943099487
+2011,Ss. audiovisuales,26.1317358223
+2012,Ss. audiovisuales,-82.18866817
+2013,Ss. audiovisuales,-105.17436781
+2014,Ss. audiovisuales,-186.54091264
+2015,Ss. audiovisuales,-129.6123212536
+2016,Ss. audiovisuales,-312.03601808
+2017,Ss. audiovisuales,-391.2626319
+2018,Ss. audiovisuales,-339.37090176
+2019,Ss. audiovisuales,-403.13884747
+2020,Ss. audiovisuales,-401.19344318
+2021,Ss. audiovisuales,-329.3191347
+2022,Ss. audiovisuales,-401.81701666

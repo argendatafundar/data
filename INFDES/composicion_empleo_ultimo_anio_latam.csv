@@ -1,121 +1,121 @@
-"iso3","pais","anio","formal_def_productiva","cat_ocup_cod","cat_ocup_detalle","valor"
-"ARG","Argentina","2022","Formal","1","Empleadores","3.7"
-"ARG","Argentina","2022","Formal","2","Asalariados en pequeñas y grandes empresas","32.4"
-"ARG","Argentina","2022","Formal","3","Asalariados públicos","19"
-"ARG","Argentina","2022","Formal","4","Cuentapropistas profesionales","4.8"
-"ARG","Argentina","2022","Informal","5","Asalariados en microempresas","20.2"
-"ARG","Argentina","2022","Informal","6","Cuentapropistas sin calificación","19.35"
-"ARG","Argentina","2022","Informal","7","Trabajadores sin ingresos","0.5"
-"BOL","Bolivia","2021","Formal","1","Empleadores","3.3326883"
-"BOL","Bolivia","2021","Formal","2","Asalariados en pequeñas y grandes empresas","11.777639"
-"BOL","Bolivia","2021","Formal","3","Asalariados públicos","8.6066561"
-"BOL","Bolivia","2021","Formal","4","Cuentapropistas profesionales","1.5393624"
-"BOL","Bolivia","2021","Informal","5","Asalariados en microempresas","12.483091"
-"BOL","Bolivia","2021","Informal","6","Cuentapropistas sin calificación","44.409978"
-"BOL","Bolivia","2021","Informal","7","Trabajadores sin ingresos","17.850585"
-"BRA","Brasil","2022","Formal","1","Empleadores","4.3889184"
-"BRA","Brasil","2022","Formal","2","Asalariados en pequeñas y grandes empresas","38.429833"
-"BRA","Brasil","2022","Formal","3","Asalariados públicos","12.079348"
-"BRA","Brasil","2022","Formal","4","Cuentapropistas profesionales","3.7584903"
-"BRA","Brasil","2022","Informal","5","Asalariados en microempresas","17.483436"
-"BRA","Brasil","2022","Informal","6","Cuentapropistas sin calificación","22.161235"
-"BRA","Brasil","2022","Informal","7","Trabajadores sin ingresos","1.6987395"
-"CHL","Chile","2022","Formal","1","Empleadores","4.0837686"
-"CHL","Chile","2022","Formal","2","Asalariados en pequeñas y grandes empresas","47.433493"
-"CHL","Chile","2022","Formal","3","Asalariados públicos","14.129429"
-"CHL","Chile","2022","Formal","4","Cuentapropistas profesionales","5.4734173"
-"CHL","Chile","2022","Informal","5","Asalariados en microempresas","10.730143"
-"CHL","Chile","2022","Informal","6","Cuentapropistas sin calificación","17.803289"
-"CHL","Chile","2022","Informal","7","Trabajadores sin ingresos","0.34645958"
-"COL","Colombia","2021","Formal","1","Empleadores","3.1451938"
-"COL","Colombia","2021","Formal","2","Asalariados en pequeñas y grandes empresas","29.33269"
-"COL","Colombia","2021","Formal","3","Asalariados públicos","3.8208884"
-"COL","Colombia","2021","Formal","4","Cuentapropistas profesionales","4.9067609"
-"COL","Colombia","2021","Informal","5","Asalariados en microempresas","15.527764"
-"COL","Colombia","2021","Informal","6","Cuentapropistas sin calificación","40.052107"
-"COL","Colombia","2021","Informal","7","Trabajadores sin ingresos","3.2145962"
-"CRI","Costa Rica","2022","Formal","1","Empleadores","3.2622014"
-"CRI","Costa Rica","2022","Formal","2","Asalariados en pequeñas y grandes empresas","46.814493"
-"CRI","Costa Rica","2022","Formal","3","Asalariados públicos","12.897894"
-"CRI","Costa Rica","2022","Formal","4","Cuentapropistas profesionales","1.6158381"
-"CRI","Costa Rica","2022","Informal","5","Asalariados en microempresas","16.891368"
-"CRI","Costa Rica","2022","Informal","6","Cuentapropistas sin calificación","17.707073"
-"CRI","Costa Rica","2022","Informal","7","Trabajadores sin ingresos","0.81113348"
-"DOM","Dominicana","2022","Formal","1","Empleadores","3.606441"
-"DOM","Dominicana","2022","Formal","2","Asalariados en pequeñas y grandes empresas","28.71505"
-"DOM","Dominicana","2022","Formal","3","Asalariados públicos","14.38774"
-"DOM","Dominicana","2022","Formal","4","Cuentapropistas profesionales","2.815716"
-"DOM","Dominicana","2022","Informal","5","Asalariados en microempresas","9.583243"
-"DOM","Dominicana","2022","Informal","6","Cuentapropistas sin calificación","39.2301"
-"DOM","Dominicana","2022","Informal","7","Trabajadores sin ingresos","1.661711"
-"ECU","Ecuador","2022","Formal","1","Empleadores","2.311471"
-"ECU","Ecuador","2022","Formal","2","Asalariados en pequeñas y grandes empresas","19.42178"
-"ECU","Ecuador","2022","Formal","3","Asalariados públicos","6.877166"
-"ECU","Ecuador","2022","Formal","4","Cuentapropistas profesionales","3.505609"
-"ECU","Ecuador","2022","Informal","5","Asalariados en microempresas","19.7374"
-"ECU","Ecuador","2022","Informal","6","Cuentapropistas sin calificación","32.01559"
-"ECU","Ecuador","2022","Informal","7","Trabajadores sin ingresos","16.13099"
-"HND","Honduras","2019","Formal","1","Empleadores","9.9939141"
-"HND","Honduras","2019","Formal","2","Asalariados en pequeñas y grandes empresas","18.922893"
-"HND","Honduras","2019","Formal","3","Asalariados públicos","6.4720919"
-"HND","Honduras","2019","Formal","4","Cuentapropistas profesionales","0.69578322"
-"HND","Honduras","2019","Informal","5","Asalariados en microempresas","20.982314"
-"HND","Honduras","2019","Informal","6","Cuentapropistas sin calificación","29.734615"
-"HND","Honduras","2019","Informal","7","Trabajadores sin ingresos","13.19839"
-"MEX","México","2022","Formal","1","Empleadores","8.9831213"
-"MEX","México","2022","Formal","2","Asalariados en pequeñas y grandes empresas","35.558168"
-"MEX","México","2022","Formal","3","Asalariados públicos","9.1295817"
-"MEX","México","2022","Formal","4","Cuentapropistas profesionales","1.4605351"
-"MEX","México","2022","Informal","5","Asalariados en microempresas","27.765202"
-"MEX","México","2022","Informal","6","Cuentapropistas sin calificación","12.612413"
-"MEX","México","2022","Informal","7","Trabajadores sin ingresos","4.4909778"
-"PAN","Panamá","2021","Formal","1","Empleadores","3.040881"
-"PAN","Panamá","2021","Formal","2","Asalariados en pequeñas y grandes empresas","29.611403"
-"PAN","Panamá","2021","Formal","3","Asalariados públicos","16.978982"
-"PAN","Panamá","2021","Formal","4","Cuentapropistas profesionales","2.4460034"
-"PAN","Panamá","2021","Informal","5","Asalariados en microempresas","11.723552"
-"PAN","Panamá","2021","Informal","6","Cuentapropistas sin calificación","30.071656"
-"PAN","Panamá","2021","Informal","7","Trabajadores sin ingresos","6.1275219"
-"PER","Perú","2022","Formal","1","Empleadores","3.1920573"
-"PER","Perú","2022","Formal","2","Asalariados en pequeñas y grandes empresas","18.751814"
-"PER","Perú","2022","Formal","3","Asalariados públicos","7.3972277"
-"PER","Perú","2022","Formal","4","Cuentapropistas profesionales","4.1490907"
-"PER","Perú","2022","Informal","5","Asalariados en microempresas","17.371882"
-"PER","Perú","2022","Informal","6","Cuentapropistas sin calificación","33.732169"
-"PER","Perú","2022","Informal","7","Trabajadores sin ingresos","15.405759"
-"PRY","Paraguay","2021","Formal","1","Empleadores","4.6036954"
-"PRY","Paraguay","2021","Formal","2","Asalariados en pequeñas y grandes empresas","20.974207"
-"PRY","Paraguay","2021","Formal","3","Asalariados públicos","9.7818815"
-"PRY","Paraguay","2021","Formal","4","Cuentapropistas profesionales","2.9978743"
-"PRY","Paraguay","2021","Informal","5","Asalariados en microempresas","23.182601"
-"PRY","Paraguay","2021","Informal","6","Cuentapropistas sin calificación","29.922376"
-"PRY","Paraguay","2021","Informal","7","Trabajadores sin ingresos","8.537365"
-"SLV","El Salvador","2022","Formal","1","Empleadores","4.422535"
-"SLV","El Salvador","2022","Formal","2","Asalariados en pequeñas y grandes empresas","33.58571"
-"SLV","El Salvador","2022","Formal","3","Asalariados públicos","8.118042"
-"SLV","El Salvador","2022","Formal","4","Cuentapropistas profesionales","1.015907"
-"SLV","El Salvador","2022","Informal","5","Asalariados en microempresas","21.38444"
-"SLV","El Salvador","2022","Informal","6","Cuentapropistas sin calificación","26.50972"
-"SLV","El Salvador","2022","Informal","7","Trabajadores sin ingresos","4.96365"
-"URY","Uruguay","2022","Formal","1","Empleadores","3.8910942"
-"URY","Uruguay","2022","Formal","2","Asalariados en pequeñas y grandes empresas","43.107923"
-"URY","Uruguay","2022","Formal","3","Asalariados públicos","15.418696"
-"URY","Uruguay","2022","Formal","4","Cuentapropistas profesionales","3.4736025"
-"URY","Uruguay","2022","Informal","5","Asalariados en microempresas","12.091878"
-"URY","Uruguay","2022","Informal","6","Cuentapropistas sin calificación","21.182926"
-"URY","Uruguay","2022","Informal","7","Trabajadores sin ingresos","0.83388033"
-"ARG","Argentina","2022","Formal",,"Total formal","59.9"
-"BOL","Bolivia","2021","Formal",,"Total formal","25.2563458"
-"BRA","Brasil","2022","Formal",,"Total formal","58.6565897"
-"CHL","Chile","2022","Formal",,"Total formal","71.1201079"
-"COL","Colombia","2021","Formal",,"Total formal","41.2055331"
-"CRI","Costa Rica","2022","Formal",,"Total formal","64.5904265"
-"DOM","Dominicana","2022","Formal",,"Total formal","49.524947"
-"ECU","Ecuador","2022","Formal",,"Total formal","32.116026"
-"HND","Honduras","2019","Formal",,"Total formal","36.08468222"
-"MEX","México","2022","Formal",,"Total formal","55.1314061"
-"PAN","Panamá","2021","Formal",,"Total formal","52.0772694"
-"PER","Perú","2022","Formal",,"Total formal","33.4901897"
-"PRY","Paraguay","2021","Formal",,"Total formal","38.3576582"
-"SLV","El Salvador","2022","Formal",,"Total formal","47.142194"
-"URY","Uruguay","2022","Formal",,"Total formal","65.8913157"
+geocodigoFundar,geonombreFundar,anio,formal_def_productiva,cat_ocup_cod,cat_ocup_detalle,valor
+ARG,Argentina,2022,Formal,1.0,Empleadores,3.7
+ARG,Argentina,2022,Formal,2.0,Asalariados en pequeñas y grandes empresas,32.4
+ARG,Argentina,2022,Formal,3.0,Asalariados públicos,19.0
+ARG,Argentina,2022,Formal,4.0,Cuentapropistas profesionales,4.8
+ARG,Argentina,2022,Informal,5.0,Asalariados en microempresas,20.2
+ARG,Argentina,2022,Informal,6.0,Cuentapropistas sin calificación,19.35
+ARG,Argentina,2022,Informal,7.0,Trabajadores sin ingresos,0.5
+BOL,Bolivia,2021,Formal,1.0,Empleadores,3.3326883
+BOL,Bolivia,2021,Formal,2.0,Asalariados en pequeñas y grandes empresas,11.777639
+BOL,Bolivia,2021,Formal,3.0,Asalariados públicos,8.6066561
+BOL,Bolivia,2021,Formal,4.0,Cuentapropistas profesionales,1.5393624
+BOL,Bolivia,2021,Informal,5.0,Asalariados en microempresas,12.483091
+BOL,Bolivia,2021,Informal,6.0,Cuentapropistas sin calificación,44.409978
+BOL,Bolivia,2021,Informal,7.0,Trabajadores sin ingresos,17.850585
+BRA,Brasil,2022,Formal,1.0,Empleadores,4.3889184
+BRA,Brasil,2022,Formal,2.0,Asalariados en pequeñas y grandes empresas,38.429833
+BRA,Brasil,2022,Formal,3.0,Asalariados públicos,12.079348
+BRA,Brasil,2022,Formal,4.0,Cuentapropistas profesionales,3.7584903
+BRA,Brasil,2022,Informal,5.0,Asalariados en microempresas,17.483436
+BRA,Brasil,2022,Informal,6.0,Cuentapropistas sin calificación,22.161235
+BRA,Brasil,2022,Informal,7.0,Trabajadores sin ingresos,1.6987395
+CHL,Chile,2022,Formal,1.0,Empleadores,4.0837686
+CHL,Chile,2022,Formal,2.0,Asalariados en pequeñas y grandes empresas,47.433493
+CHL,Chile,2022,Formal,3.0,Asalariados públicos,14.129429
+CHL,Chile,2022,Formal,4.0,Cuentapropistas profesionales,5.4734173
+CHL,Chile,2022,Informal,5.0,Asalariados en microempresas,10.730143
+CHL,Chile,2022,Informal,6.0,Cuentapropistas sin calificación,17.803289
+CHL,Chile,2022,Informal,7.0,Trabajadores sin ingresos,0.34645958
+COL,Colombia,2021,Formal,1.0,Empleadores,3.1451938
+COL,Colombia,2021,Formal,2.0,Asalariados en pequeñas y grandes empresas,29.33269
+COL,Colombia,2021,Formal,3.0,Asalariados públicos,3.8208884
+COL,Colombia,2021,Formal,4.0,Cuentapropistas profesionales,4.9067609
+COL,Colombia,2021,Informal,5.0,Asalariados en microempresas,15.527764
+COL,Colombia,2021,Informal,6.0,Cuentapropistas sin calificación,40.052107
+COL,Colombia,2021,Informal,7.0,Trabajadores sin ingresos,3.2145962
+CRI,Costa Rica,2022,Formal,1.0,Empleadores,3.2622014
+CRI,Costa Rica,2022,Formal,2.0,Asalariados en pequeñas y grandes empresas,46.814493
+CRI,Costa Rica,2022,Formal,3.0,Asalariados públicos,12.897894
+CRI,Costa Rica,2022,Formal,4.0,Cuentapropistas profesionales,1.6158381
+CRI,Costa Rica,2022,Informal,5.0,Asalariados en microempresas,16.891368
+CRI,Costa Rica,2022,Informal,6.0,Cuentapropistas sin calificación,17.707073
+CRI,Costa Rica,2022,Informal,7.0,Trabajadores sin ingresos,0.81113348
+DOM,Rep. Dominicana,2022,Formal,1.0,Empleadores,3.606441
+DOM,Rep. Dominicana,2022,Formal,2.0,Asalariados en pequeñas y grandes empresas,28.71505
+DOM,Rep. Dominicana,2022,Formal,3.0,Asalariados públicos,14.38774
+DOM,Rep. Dominicana,2022,Formal,4.0,Cuentapropistas profesionales,2.815716
+DOM,Rep. Dominicana,2022,Informal,5.0,Asalariados en microempresas,9.583243
+DOM,Rep. Dominicana,2022,Informal,6.0,Cuentapropistas sin calificación,39.2301
+DOM,Rep. Dominicana,2022,Informal,7.0,Trabajadores sin ingresos,1.661711
+ECU,Ecuador,2022,Formal,1.0,Empleadores,2.311471
+ECU,Ecuador,2022,Formal,2.0,Asalariados en pequeñas y grandes empresas,19.42178
+ECU,Ecuador,2022,Formal,3.0,Asalariados públicos,6.877166
+ECU,Ecuador,2022,Formal,4.0,Cuentapropistas profesionales,3.505609
+ECU,Ecuador,2022,Informal,5.0,Asalariados en microempresas,19.7374
+ECU,Ecuador,2022,Informal,6.0,Cuentapropistas sin calificación,32.01559
+ECU,Ecuador,2022,Informal,7.0,Trabajadores sin ingresos,16.13099
+HND,Honduras,2019,Formal,1.0,Empleadores,9.9939141
+HND,Honduras,2019,Formal,2.0,Asalariados en pequeñas y grandes empresas,18.922893
+HND,Honduras,2019,Formal,3.0,Asalariados públicos,6.4720919
+HND,Honduras,2019,Formal,4.0,Cuentapropistas profesionales,0.69578322
+HND,Honduras,2019,Informal,5.0,Asalariados en microempresas,20.982314
+HND,Honduras,2019,Informal,6.0,Cuentapropistas sin calificación,29.734615
+HND,Honduras,2019,Informal,7.0,Trabajadores sin ingresos,13.19839
+MEX,México,2022,Formal,1.0,Empleadores,8.9831213
+MEX,México,2022,Formal,2.0,Asalariados en pequeñas y grandes empresas,35.558168
+MEX,México,2022,Formal,3.0,Asalariados públicos,9.1295817
+MEX,México,2022,Formal,4.0,Cuentapropistas profesionales,1.4605351
+MEX,México,2022,Informal,5.0,Asalariados en microempresas,27.765202
+MEX,México,2022,Informal,6.0,Cuentapropistas sin calificación,12.612413
+MEX,México,2022,Informal,7.0,Trabajadores sin ingresos,4.4909778
+PAN,Panamá,2021,Formal,1.0,Empleadores,3.040881
+PAN,Panamá,2021,Formal,2.0,Asalariados en pequeñas y grandes empresas,29.611403
+PAN,Panamá,2021,Formal,3.0,Asalariados públicos,16.978982
+PAN,Panamá,2021,Formal,4.0,Cuentapropistas profesionales,2.4460034
+PAN,Panamá,2021,Informal,5.0,Asalariados en microempresas,11.723552
+PAN,Panamá,2021,Informal,6.0,Cuentapropistas sin calificación,30.071656
+PAN,Panamá,2021,Informal,7.0,Trabajadores sin ingresos,6.1275219
+PER,Perú,2022,Formal,1.0,Empleadores,3.1920573
+PER,Perú,2022,Formal,2.0,Asalariados en pequeñas y grandes empresas,18.751814
+PER,Perú,2022,Formal,3.0,Asalariados públicos,7.3972277
+PER,Perú,2022,Formal,4.0,Cuentapropistas profesionales,4.1490907
+PER,Perú,2022,Informal,5.0,Asalariados en microempresas,17.371882
+PER,Perú,2022,Informal,6.0,Cuentapropistas sin calificación,33.732169
+PER,Perú,2022,Informal,7.0,Trabajadores sin ingresos,15.405759
+PRY,Paraguay,2021,Formal,1.0,Empleadores,4.6036954
+PRY,Paraguay,2021,Formal,2.0,Asalariados en pequeñas y grandes empresas,20.974207
+PRY,Paraguay,2021,Formal,3.0,Asalariados públicos,9.7818815
+PRY,Paraguay,2021,Formal,4.0,Cuentapropistas profesionales,2.9978743
+PRY,Paraguay,2021,Informal,5.0,Asalariados en microempresas,23.182601
+PRY,Paraguay,2021,Informal,6.0,Cuentapropistas sin calificación,29.922376
+PRY,Paraguay,2021,Informal,7.0,Trabajadores sin ingresos,8.537365
+SLV,El Salvador,2022,Formal,1.0,Empleadores,4.422535
+SLV,El Salvador,2022,Formal,2.0,Asalariados en pequeñas y grandes empresas,33.58571
+SLV,El Salvador,2022,Formal,3.0,Asalariados públicos,8.118042
+SLV,El Salvador,2022,Formal,4.0,Cuentapropistas profesionales,1.015907
+SLV,El Salvador,2022,Informal,5.0,Asalariados en microempresas,21.38444
+SLV,El Salvador,2022,Informal,6.0,Cuentapropistas sin calificación,26.50972
+SLV,El Salvador,2022,Informal,7.0,Trabajadores sin ingresos,4.96365
+URY,Uruguay,2022,Formal,1.0,Empleadores,3.8910942
+URY,Uruguay,2022,Formal,2.0,Asalariados en pequeñas y grandes empresas,43.107923
+URY,Uruguay,2022,Formal,3.0,Asalariados públicos,15.418696
+URY,Uruguay,2022,Formal,4.0,Cuentapropistas profesionales,3.4736025
+URY,Uruguay,2022,Informal,5.0,Asalariados en microempresas,12.091878
+URY,Uruguay,2022,Informal,6.0,Cuentapropistas sin calificación,21.182926
+URY,Uruguay,2022,Informal,7.0,Trabajadores sin ingresos,0.83388033
+ARG,Argentina,2022,Formal,,Total formal,59.9
+BOL,Bolivia,2021,Formal,,Total formal,25.2563458
+BRA,Brasil,2022,Formal,,Total formal,58.6565897
+CHL,Chile,2022,Formal,,Total formal,71.1201079
+COL,Colombia,2021,Formal,,Total formal,41.2055331
+CRI,Costa Rica,2022,Formal,,Total formal,64.5904265
+DOM,Rep. Dominicana,2022,Formal,,Total formal,49.524947
+ECU,Ecuador,2022,Formal,,Total formal,32.116026
+HND,Honduras,2019,Formal,,Total formal,36.08468222
+MEX,México,2022,Formal,,Total formal,55.1314061
+PAN,Panamá,2021,Formal,,Total formal,52.0772694
+PER,Perú,2022,Formal,,Total formal,33.4901897
+PRY,Paraguay,2021,Formal,,Total formal,38.3576582
+SLV,El Salvador,2022,Formal,,Total formal,47.142194
+URY,Uruguay,2022,Formal,,Total formal,65.8913157

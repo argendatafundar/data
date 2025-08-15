@@ -1,15 +1,15 @@
-"sector","tasa_feminizacion"
-"Enseñanza","72.80"
-"Servicios sociales y de salud","71.00"
-"Intermediación financiera","48.80"
-"Servicios comunitarios, sociales y personales","46.40"
-"Hotelería y restaurantes","45.70"
-"Servicios inmobiliarios, empresariales y de alquiler","36.00"
-"Comercio","34.20"
-"Industria manufacturera","18.20"
-"Electricidad, gas y agua","18.10"
-"Transporte y almacenamiento","13.90"
-"Agricultura, ganadería, caza y silvicultura","12.10"
-"Pesca","10.00"
-"Minería","8.50"
-"Construcción","6.50"
+sector,tasa_feminizacion
+Enseñanza,72.8
+Servicios sociales y de salud,71.0
+Intermediación financiera,48.8
+"Servicios comunitarios, sociales y personales",46.4
+Hotelería y restaurantes,45.7
+"Servicios inmobiliarios, empresariales y de alquiler",36.0
+Comercio,34.2
+Industria manufacturera,18.2
+"Electricidad, gas y agua",18.1
+Transporte y almacenamiento,13.9
+"Agricultura, ganadería, caza y silvicultura",12.1
+Pesca,10.0
+Minería,8.5
+Construcción,6.5

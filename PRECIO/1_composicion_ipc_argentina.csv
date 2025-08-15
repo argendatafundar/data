@@ -1,13 +1,13 @@
-"sector","valor"
-"Alimentos y bebidas no alcoholicas","26.93"
-"Bebidas alcoholicas y tabaco","3.5"
-"Bienes y servicios varios","3.55"
-"Comunicaciones","2.82"
-"Educacion","2.3"
-"Equipamiento y mantenimiento del hogar","6.36"
-"Prendas de vestir y calzado","9.9"
-"Recreacion y cultura","7.27"
-"Restaurantes y hoteles","8.95"
-"Salud","8.02"
-"Transporte","10.99"
-"Vivienda agua electricidad gas y otros combustibles","9.43"
+sector,valor
+Alimentos y bebidas no alcoholicas,26.93
+Bebidas alcoholicas y tabaco,3.5
+Bienes y servicios varios,3.55
+Comunicaciones,2.82
+Educacion,2.3
+Equipamiento y mantenimiento del hogar,6.36
+Prendas de vestir y calzado,9.9
+Recreacion y cultura,7.27
+Restaurantes y hoteles,8.95
+Salud,8.02
+Transporte,10.99
+Vivienda agua electricidad gas y otros combustibles,9.43

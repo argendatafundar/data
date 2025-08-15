@@ -1,391 +1,391 @@
-"anio","letra","letra_desc_abrev","escala"
-1996,"A","Agro",4.12243065169012
-1996,"B","Pesca",39.9977678571429
-1996,"C","Petróleo y minería",44.8957516339869
-1996,"D","Industria manufacturera",18.578732708889
-1996,"E","Electricidad, gas y agua",42.0197554092192
-1996,"F","Construcción",15.835827216262
-1996,"G","Comercio",5.85068376627625
-1996,"H","Hotelería y restaurantes",7.50662684668128
-1996,"I","Transporte y comunicaciones",10.5726949708455
-1996,"J","Finanzas",33.6185488346282
-1996,"K","Serv. inmobiliarios y profesionales",4.8350260960334
-1996,"M","Enseñanza",24.1503862724707
-1996,"N","Salud",10.3385318593209
-1996,"O","Serv. comunitarios, sociales y personales",7.32132751354606
-1996,"Z","Total",8.58522930104503
-1997,"A","Agro",4.42874052203082
-1997,"B","Pesca",40.1491935483871
-1997,"C","Petróleo y minería",45.390586797066
-1997,"D","Industria manufacturera",19.2607592596397
-1997,"E","Electricidad, gas y agua",43.450611476952
-1997,"F","Construcción",18.2334136606672
-1997,"G","Comercio",6.29324945887446
-1997,"H","Hotelería y restaurantes",8.00036990065525
-1997,"I","Transporte y comunicaciones",10.5354151108802
-1997,"J","Finanzas",35.688754747694
-1997,"K","Serv. inmobiliarios y profesionales",5.23679972449837
-1997,"M","Enseñanza",27.1921667588496
-1997,"N","Salud",10.4985692995529
-1997,"O","Serv. comunitarios, sociales y personales",7.53474583789218
-1997,"Z","Total",9.12303678667927
-1998,"A","Agro",4.51165866433872
-1998,"B","Pesca",38.5888671875
-1998,"C","Petróleo y minería",47.3530135301353
-1998,"D","Industria manufacturera",19.5473099091338
-1998,"E","Electricidad, gas y agua",44.4698712051518
-1998,"F","Construcción",18.5821351294758
-1998,"G","Comercio",6.65872748470457
-1998,"H","Hotelería y restaurantes",8.4864248631963
-1998,"I","Transporte y comunicaciones",10.7574804229257
-1998,"J","Finanzas",37.29847006067
-1998,"K","Serv. inmobiliarios y profesionales",5.58243430287919
-1998,"M","Enseñanza",34.6725040257649
-1998,"N","Salud",10.3052602692241
-1998,"O","Serv. comunitarios, sociales y personales",7.77150380766201
-1998,"Z","Total",9.54735371811955
-1999,"A","Agro",4.562497749937
-1999,"B","Pesca",34.1483208955224
-1999,"C","Petróleo y minería",44.9834394904459
-1999,"D","Industria manufacturera",19.487025377865
-1999,"E","Electricidad, gas y agua",44.0569620253165
-1999,"F","Construcción",18.9678210831039
-1999,"G","Comercio",7.01229637119425
-1999,"H","Hotelería y restaurantes",9.46360498862656
-1999,"I","Transporte y comunicaciones",10.893732434801
-1999,"J","Finanzas",40.394394744199
-1999,"K","Serv. inmobiliarios y profesionales",5.72118253456906
-1999,"M","Enseñanza",36.3455882352941
-1999,"N","Salud",10.2792297313153
-1999,"O","Serv. comunitarios, sociales y personales",7.95954299421823
-1999,"Z","Total",9.76641769620296
-2000,"A","Agro",4.56876761981474
-2000,"B","Pesca",29.4235197368421
-2000,"C","Petróleo y minería",46.552398989899
-2000,"D","Industria manufacturera",19.2600555095463
-2000,"E","Electricidad, gas y agua",44.3419017288444
-2000,"F","Construcción",16.7047457382259
-2000,"G","Comercio",7.06163210048535
-2000,"H","Hotelería y restaurantes",10.0672032028761
-2000,"I","Transporte y comunicaciones",10.9172005318506
-2000,"J","Finanzas",39.5225443951165
-2000,"K","Serv. inmobiliarios y profesionales",5.82790040814717
-2000,"M","Enseñanza",37.4555398492192
-2000,"N","Salud",10.2928433608139
-2000,"O","Serv. comunitarios, sociales y personales",7.98162399753239
-2000,"Z","Total",9.70558153375276
-2001,"A","Agro",4.66079270031366
-2001,"B","Pesca",33.4415584415584
-2001,"C","Petróleo y minería",49.5722733245729
-2001,"D","Industria manufacturera",19.5840958631758
-2001,"E","Electricidad, gas y agua",44.1828661844485
-2001,"F","Construcción",16.9383956514577
-2001,"G","Comercio",7.4069230136922
-2001,"H","Hotelería y restaurantes",10.6383753379262
-2001,"I","Transporte y comunicaciones",11.2935782013217
-2001,"J","Finanzas",39.0612303290415
-2001,"K","Serv. inmobiliarios y profesionales",5.86806366603779
-2001,"M","Enseñanza",39.2700490998363
-2001,"N","Salud",10.4410471388368
-2001,"O","Serv. comunitarios, sociales y personales",8.18244933502217
-2001,"Z","Total",9.89403584524263
-2002,"A","Agro",4.46711329419287
-2002,"B","Pesca",39.5535143769968
-2002,"C","Petróleo y minería",50.3176638176638
-2002,"D","Industria manufacturera",18.824893731435
-2002,"E","Electricidad, gas y agua",42.25864422202
-2002,"F","Construcción",11.8786757593345
-2002,"G","Comercio",7.06383793477043
-2002,"H","Hotelería y restaurantes",10.1926221934769
-2002,"I","Transporte y comunicaciones",11.377755159343
-2002,"J","Finanzas",36.3666616586538
-2002,"K","Serv. inmobiliarios y profesionales",5.38188968271943
-2002,"M","Enseñanza",40.4616875793035
-2002,"N","Salud",10.3923731917231
-2002,"O","Serv. comunitarios, sociales y personales",7.94225
-2002,"Z","Total",9.35484282039233
-2003,"A","Agro",4.53280320828133
-2003,"B","Pesca",41.7747747747748
-2003,"C","Petróleo y minería",50.3946684005202
-2003,"D","Industria manufacturera",18.5878788591867
-2003,"E","Electricidad, gas y agua",41.8496376811594
-2003,"F","Construcción",12.8326731460307
-2003,"G","Comercio",6.63569985974755
-2003,"H","Hotelería y restaurantes",9.96498446553027
-2003,"I","Transporte y comunicaciones",10.6307427629879
-2003,"J","Finanzas",30.7065002820079
-2003,"K","Serv. inmobiliarios y profesionales",5.56845567561743
-2003,"M","Enseñanza",40.6461265200164
-2003,"N","Salud",10.1133782824698
-2003,"O","Serv. comunitarios, sociales y personales",7.75565478029788
-2003,"Z","Total",9.192558206041
-2004,"A","Agro",4.67233331040886
-2004,"B","Pesca",43.3564139941691
-2004,"C","Petróleo y minería",51.5078306264501
-2004,"D","Industria manufacturera",18.8037489709328
-2004,"E","Electricidad, gas y agua",43.4543812104788
-2004,"F","Construcción",14.3593645260759
-2004,"G","Comercio",6.28499757769993
-2004,"H","Hotelería y restaurantes",8.76801988400994
-2004,"I","Transporte y comunicaciones",9.61295071948442
-2004,"J","Finanzas",26.7846528768426
-2004,"K","Serv. inmobiliarios y profesionales",5.81775636460744
-2004,"M","Enseñanza",39.9564281190627
-2004,"N","Salud",9.74491114701131
-2004,"O","Serv. comunitarios, sociales y personales",6.86513636027691
-2004,"Z","Total",8.98955611613436
-2005,"A","Agro",4.81497421044924
-2005,"B","Pesca",41.3198630136986
-2005,"C","Petróleo y minería",53.6804531085353
-2005,"D","Industria manufacturera",19.3701684738599
-2005,"E","Electricidad, gas y agua",44.4952956989247
-2005,"F","Construcción",16.5600236380009
-2005,"G","Comercio",6.46341597936395
-2005,"H","Hotelería y restaurantes",9.00590835789357
-2005,"I","Transporte y comunicaciones",9.58378513429107
-2005,"J","Finanzas",26.5489456159822
-2005,"K","Serv. inmobiliarios y profesionales",6.29273790356749
-2005,"M","Enseñanza",40.9028933202838
-2005,"N","Salud",9.79787421827718
-2005,"O","Serv. comunitarios, sociales y personales",7.09370471743681
-2005,"Z","Total",9.34612022097335
-2006,"A","Agro",4.8961905209263
-2006,"B","Pesca",45.1035211267606
-2006,"C","Petróleo y minería",56.4070576540755
-2006,"D","Industria manufacturera",19.6667484492177
-2006,"E","Electricidad, gas y agua",46.0353962600178
-2006,"F","Construcción",17.6949633251834
-2006,"G","Comercio",6.49138358542028
-2006,"H","Hotelería y restaurantes",9.08827506515219
-2006,"I","Transporte y comunicaciones",9.55361742381072
-2006,"J","Finanzas",26.7686053783615
-2006,"K","Serv. inmobiliarios y profesionales",6.66991947118324
-2006,"M","Enseñanza",41.1671358198452
-2006,"N","Salud",9.93059082850161
-2006,"O","Serv. comunitarios, sociales y personales",7.3063377952235
-2006,"Z","Total",9.58258188544429
-2007,"A","Agro",4.98040598225447
-2007,"B","Pesca",44.313904494382
-2007,"C","Petróleo y minería",58.6005036630037
-2007,"D","Industria manufacturera",20.1662145871007
-2007,"E","Electricidad, gas y agua",47.1326940231936
-2007,"F","Construcción",18.5512812074942
-2007,"G","Comercio",6.71889589676671
-2007,"H","Hotelería y restaurantes",9.13078626056621
-2007,"I","Transporte y comunicaciones",9.5471746343092
-2007,"J","Finanzas",28.2831184056272
-2007,"K","Serv. inmobiliarios y profesionales",7.10175827657215
-2007,"M","Enseñanza",42.0871194781415
-2007,"N","Salud",10.0630488193275
-2007,"O","Serv. comunitarios, sociales y personales",7.63883152830562
-2007,"Z","Total",9.91863607470197
-2008,"A","Agro",5.15126257718241
-2008,"B","Pesca",41.9371508379888
-2008,"C","Petróleo y minería",61.171697287839
-2008,"D","Industria manufacturera",20.7639212237226
-2008,"E","Electricidad, gas y agua",47.820987654321
-2008,"F","Construcción",17.7318626641341
-2008,"G","Comercio",6.84409003772607
-2008,"H","Hotelería y restaurantes",9.2441026491439
-2008,"I","Transporte y comunicaciones",9.60635962772911
-2008,"J","Finanzas",28.8226814704236
-2008,"K","Serv. inmobiliarios y profesionales",7.40731822216685
-2008,"M","Enseñanza",42.7693941426336
-2008,"N","Salud",10.2975444777937
-2008,"O","Serv. comunitarios, sociales y personales",8.05402390262222
-2008,"Z","Total",10.1346240022166
-2009,"A","Agro",5.15864745519275
-2009,"B","Pesca",39.2222222222222
-2009,"C","Petróleo y minería",58.8783376399655
-2009,"D","Industria manufacturera",20.3224026982265
-2009,"E","Electricidad, gas y agua",49.6633928571429
-2009,"F","Construcción",16.6787890887693
-2009,"G","Comercio",6.69561426727989
-2009,"H","Hotelería y restaurantes",8.88422509225092
-2009,"I","Transporte y comunicaciones",9.61954241765071
-2009,"J","Finanzas",26.1281455142232
-2009,"K","Serv. inmobiliarios y profesionales",7.14577025055304
-2009,"M","Enseñanza",43.0233480176211
-2009,"N","Salud",10.3115650534255
-2009,"O","Serv. comunitarios, sociales y personales",8.17997727728397
-2009,"Z","Total",9.92338848716786
-2010,"A","Agro",5.13396556732872
-2010,"B","Pesca",39.775641025641
-2010,"C","Petróleo y minería",60.2036480686695
-2010,"D","Industria manufacturera",20.7997636667874
-2010,"E","Electricidad, gas y agua",50.2312940140845
-2010,"F","Construcción",16.3735337393224
-2010,"G","Comercio",6.7499434586505
-2010,"H","Hotelería y restaurantes",9.0147914831693
-2010,"I","Transporte y comunicaciones",9.63984385375757
-2010,"J","Finanzas",25.8309591222792
-2010,"K","Serv. inmobiliarios y profesionales",7.3096210299491
-2010,"M","Enseñanza",43.9438636611129
-2010,"N","Salud",10.5412454467319
-2010,"O","Serv. comunitarios, sociales y personales",8.44780838724069
-2010,"Z","Total",10.0518649181714
-2011,"A","Agro",5.23060965599582
-2011,"B","Pesca",41.2088068181818
-2011,"C","Petróleo y minería",63.2655319148936
-2011,"D","Industria manufacturera",21.4893753200205
-2011,"E","Electricidad, gas y agua",51.8877952755905
-2011,"F","Construcción",17.1845300438341
-2011,"G","Comercio",6.88924118489181
-2011,"H","Hotelería y restaurantes",9.08099213061705
-2011,"I","Transporte y comunicaciones",9.82906353097296
-2011,"J","Finanzas",26.3573745305565
-2011,"K","Serv. inmobiliarios y profesionales",7.59040276879185
-2011,"M","Enseñanza",45.211269875376
-2011,"N","Salud",10.8522958471297
-2011,"O","Serv. comunitarios, sociales y personales",8.66966081244135
-2011,"Z","Total",10.3441396139179
-2012,"A","Agro",5.20478590941334
-2012,"B","Pesca",37.9459269662921
-2012,"C","Petróleo y minería",67.3863439930856
-2012,"D","Industria manufacturera",21.8299958993986
-2012,"E","Electricidad, gas y agua",53.707563764292
-2012,"F","Construcción",16.905400162936
-2012,"G","Comercio",6.93824987080586
-2012,"H","Hotelería y restaurantes",9.09972323741262
-2012,"I","Transporte y comunicaciones",9.96368857225938
-2012,"J","Finanzas",27.0814278455285
-2012,"K","Serv. inmobiliarios y profesionales",7.6134058399338
-2012,"M","Enseñanza",46.0908269557823
-2012,"N","Salud",11.1284125181152
-2012,"O","Serv. comunitarios, sociales y personales",8.94380277202485
-2012,"Z","Total",10.4592736616083
-2013,"A","Agro",5.26563266119147
-2013,"B","Pesca",37.6666666666667
-2013,"C","Petróleo y minería",70.1032843560933
-2013,"D","Industria manufacturera",22.1139291396507
-2013,"E","Electricidad, gas y agua",55.8935795954266
-2013,"F","Construcción",16.6235448922356
-2013,"G","Comercio",6.93343450931188
-2013,"H","Hotelería y restaurantes",9.07798418562895
-2013,"I","Transporte y comunicaciones",10.0421304230179
-2013,"J","Finanzas",26.7536333608588
-2013,"K","Serv. inmobiliarios y profesionales",7.58122450115714
-2013,"M","Enseñanza",47.3624760179066
-2013,"N","Salud",11.308008391393
-2013,"O","Serv. comunitarios, sociales y personales",9.26365058244041
-2013,"Z","Total",10.5419872852081
-2014,"A","Agro",5.39111271449635
-2014,"B","Pesca",37.0767045454545
-2014,"C","Petróleo y minería",75.5909090909091
-2014,"D","Industria manufacturera",22.0051857066813
-2014,"E","Electricidad, gas y agua",59.5084821428571
-2014,"F","Construcción",16.5160714970657
-2014,"G","Comercio",6.93972237543666
-2014,"H","Hotelería y restaurantes",9.07857796765334
-2014,"I","Transporte y comunicaciones",10.2840086962876
-2014,"J","Finanzas",26.8670078872294
-2014,"K","Serv. inmobiliarios y profesionales",7.4901811413594
-2014,"M","Enseñanza",48.7093091647952
-2014,"N","Salud",11.6025697531811
-2014,"O","Serv. comunitarios, sociales y personales",9.47008095532026
-2014,"Z","Total",10.6184293470189
-2015,"A","Agro",5.56792891010547
-2015,"B","Pesca",39.4606060606061
-2015,"C","Petróleo y minería",76.9346349745331
-2015,"D","Industria manufacturera",22.1294216756183
-2015,"E","Electricidad, gas y agua",61.717834960071
-2015,"F","Construcción",17.6231496395153
-2015,"G","Comercio",6.91822303708283
-2015,"H","Hotelería y restaurantes",9.20627098361201
-2015,"I","Transporte y comunicaciones",10.5582674710726
-2015,"J","Finanzas",26.5340437883563
-2015,"K","Serv. inmobiliarios y profesionales",7.6555333414112
-2015,"M","Enseñanza",50.6922891952549
-2015,"N","Salud",11.8604532770194
-2015,"O","Serv. comunitarios, sociales y personales",9.71917349841057
-2015,"Z","Total",10.8237166096454
-2016,"A","Agro",5.5662697829389
-2016,"B","Pesca",36.7665165165165
-2016,"C","Petróleo y minería",73.4436106346484
-2016,"D","Industria manufacturera",21.9654538550495
-2016,"E","Electricidad, gas y agua",62.6166225749559
-2016,"F","Construcción",16.2975493994576
-2016,"G","Comercio",6.92848145804628
-2016,"H","Hotelería y restaurantes",9.17695691995682
-2016,"I","Transporte y comunicaciones",10.7967591818536
-2016,"J","Finanzas",26.5105828720287
-2016,"K","Serv. inmobiliarios y profesionales",7.57486693416312
-2016,"M","Enseñanza",51.7512805463665
-2016,"N","Salud",12.2241330886759
-2016,"O","Serv. comunitarios, sociales y personales",9.88622660621262
-2016,"Z","Total",10.7849194527698
-2017,"A","Agro",5.71463987042607
-2017,"B","Pesca",37.5015384615385
-2017,"C","Petróleo y minería",69.527090443686
-2017,"D","Industria manufacturera",21.8598817345598
-2017,"E","Electricidad, gas y agua",64.0733099209833
-2017,"F","Construcción",17.3071720458587
-2017,"G","Comercio",6.9239107599295
-2017,"H","Hotelería y restaurantes",9.26775545460362
-2017,"I","Transporte y comunicaciones",10.9376391461338
-2017,"J","Finanzas",26.1836114711601
-2017,"K","Serv. inmobiliarios y profesionales",7.58420333187416
-2017,"M","Enseñanza",52.1827500790556
-2017,"N","Salud",12.4952344819928
-2017,"O","Serv. comunitarios, sociales y personales",10.0323809872208
-2017,"Z","Total",10.8683132060066
-2018,"A","Agro",5.89699817258202
-2018,"B","Pesca",38.0068389057751
-2018,"C","Petróleo y minería",72.0049061433447
-2018,"D","Industria manufacturera",21.96447939751
-2018,"E","Electricidad, gas y agua",64.653443766347
-2018,"F","Construcción",18.0680854315516
-2018,"G","Comercio",7.06921854107859
-2018,"H","Hotelería y restaurantes",9.41571775844422
-2018,"I","Transporte y comunicaciones",11.2892691718832
-2018,"J","Finanzas",26.0526315789474
-2018,"K","Serv. inmobiliarios y profesionales",7.68351139720693
-2018,"M","Enseñanza",53.2382005899705
-2018,"N","Salud",12.7104222854398
-2018,"O","Serv. comunitarios, sociales y personales",10.3838408582699
-2018,"Z","Total",11.0935113896266
-2019,"A","Agro",6.00661496350365
-2019,"B","Pesca",38.1231003039514
-2019,"C","Petróleo y minería",76.0997011101623
-2019,"D","Industria manufacturera",21.7984908136483
-2019,"E","Electricidad, gas y agua",64.3719670710572
-2019,"F","Construcción",18.0579224652087
-2019,"G","Comercio",7.09129423953329
-2019,"H","Hotelería y restaurantes",9.59495431068733
-2019,"I","Transporte y comunicaciones",11.5783521643734
-2019,"J","Finanzas",25.9846829829172
-2019,"K","Serv. inmobiliarios y profesionales",7.7482538613622
-2019,"M","Enseñanza",54.6937225965137
-2019,"N","Salud",12.8592579412646
-2019,"O","Serv. comunitarios, sociales y personales",10.7837403428934
-2019,"Z","Total",11.210123974817
-2020,"A","Agro",5.8906468144516
-2020,"B","Pesca",38.1261609907121
-2020,"C","Petróleo y minería",74.3933855526545
-2020,"D","Industria manufacturera",21.8608799677147
-2020,"E","Electricidad, gas y agua",63.9319167389419
-2020,"F","Construcción",14.857511310304
-2020,"G","Comercio",7.21952576641206
-2020,"H","Hotelería y restaurantes",9.79146666666667
-2020,"I","Transporte y comunicaciones",12.1240851963074
-2020,"J","Finanzas",26.0868465430017
-2020,"K","Serv. inmobiliarios y profesionales",7.86791406047265
-2020,"M","Enseñanza",55.913396290432
-2020,"N","Salud",13.3960425912949
-2020,"O","Serv. comunitarios, sociales y personales",11.129699896516
-2020,"Z","Total",11.2441777311734
-2021,"A","Agro",5.91369435373344
-2021,"B","Pesca",38.9871987951807
-2021,"C","Petróleo y minería",73.0169237360754
-2021,"D","Industria manufacturera",22.4239815062986
-2021,"E","Electricidad, gas y agua",63.9782327586207
-2021,"F","Construcción",15.8439206108124
-2021,"G","Comercio",7.20716449676912
-2021,"H","Hotelería y restaurantes",8.95513482501434
-2021,"I","Transporte y comunicaciones",12.4096906173861
-2021,"J","Finanzas",26.0713065755764
-2021,"K","Serv. inmobiliarios y profesionales",8.2928511667667
-2021,"M","Enseñanza",57.3841008268259
-2021,"N","Salud",13.6394480775292
-2021,"O","Serv. comunitarios, sociales y personales",11.4207867007977
-2021,"Z","Total",11.451282916948
+anio,letra,letra_desc_abrev,escala
+1996,A,Agro,4.12243065169012
+1996,B,Pesca,39.9977678571429
+1996,C,Petróleo y minería,44.8957516339869
+1996,D,Industria manufacturera,18.578732708889
+1996,E,"Electricidad, gas y agua",42.0197554092192
+1996,F,Construcción,15.835827216262
+1996,G,Comercio,5.85068376627625
+1996,H,Hotelería y restaurantes,7.50662684668128
+1996,I,Transporte y comunicaciones,10.5726949708455
+1996,J,Finanzas,33.6185488346282
+1996,K,Serv. inmobiliarios y profesionales,4.8350260960334
+1996,M,Enseñanza,24.1503862724707
+1996,N,Salud,10.3385318593209
+1996,O,"Serv. comunitarios, sociales y personales",7.32132751354606
+1996,Z,Total,8.58522930104503
+1997,A,Agro,4.42874052203082
+1997,B,Pesca,40.1491935483871
+1997,C,Petróleo y minería,45.390586797066
+1997,D,Industria manufacturera,19.2607592596397
+1997,E,"Electricidad, gas y agua",43.450611476952
+1997,F,Construcción,18.2334136606672
+1997,G,Comercio,6.29324945887446
+1997,H,Hotelería y restaurantes,8.00036990065525
+1997,I,Transporte y comunicaciones,10.5354151108802
+1997,J,Finanzas,35.688754747694
+1997,K,Serv. inmobiliarios y profesionales,5.23679972449837
+1997,M,Enseñanza,27.1921667588496
+1997,N,Salud,10.4985692995529
+1997,O,"Serv. comunitarios, sociales y personales",7.53474583789218
+1997,Z,Total,9.12303678667927
+1998,A,Agro,4.51165866433872
+1998,B,Pesca,38.5888671875
+1998,C,Petróleo y minería,47.3530135301353
+1998,D,Industria manufacturera,19.5473099091338
+1998,E,"Electricidad, gas y agua",44.4698712051518
+1998,F,Construcción,18.5821351294758
+1998,G,Comercio,6.65872748470457
+1998,H,Hotelería y restaurantes,8.4864248631963
+1998,I,Transporte y comunicaciones,10.7574804229257
+1998,J,Finanzas,37.29847006067
+1998,K,Serv. inmobiliarios y profesionales,5.58243430287919
+1998,M,Enseñanza,34.6725040257649
+1998,N,Salud,10.3052602692241
+1998,O,"Serv. comunitarios, sociales y personales",7.77150380766201
+1998,Z,Total,9.54735371811955
+1999,A,Agro,4.562497749937
+1999,B,Pesca,34.1483208955224
+1999,C,Petróleo y minería,44.9834394904459
+1999,D,Industria manufacturera,19.487025377865
+1999,E,"Electricidad, gas y agua",44.0569620253165
+1999,F,Construcción,18.9678210831039
+1999,G,Comercio,7.01229637119425
+1999,H,Hotelería y restaurantes,9.46360498862656
+1999,I,Transporte y comunicaciones,10.893732434801
+1999,J,Finanzas,40.394394744199
+1999,K,Serv. inmobiliarios y profesionales,5.72118253456906
+1999,M,Enseñanza,36.3455882352941
+1999,N,Salud,10.2792297313153
+1999,O,"Serv. comunitarios, sociales y personales",7.95954299421823
+1999,Z,Total,9.76641769620296
+2000,A,Agro,4.56876761981474
+2000,B,Pesca,29.4235197368421
+2000,C,Petróleo y minería,46.552398989899
+2000,D,Industria manufacturera,19.2600555095463
+2000,E,"Electricidad, gas y agua",44.3419017288444
+2000,F,Construcción,16.7047457382259
+2000,G,Comercio,7.06163210048535
+2000,H,Hotelería y restaurantes,10.0672032028761
+2000,I,Transporte y comunicaciones,10.9172005318506
+2000,J,Finanzas,39.5225443951165
+2000,K,Serv. inmobiliarios y profesionales,5.82790040814717
+2000,M,Enseñanza,37.4555398492192
+2000,N,Salud,10.2928433608139
+2000,O,"Serv. comunitarios, sociales y personales",7.98162399753239
+2000,Z,Total,9.70558153375276
+2001,A,Agro,4.66079270031366
+2001,B,Pesca,33.4415584415584
+2001,C,Petróleo y minería,49.5722733245729
+2001,D,Industria manufacturera,19.5840958631758
+2001,E,"Electricidad, gas y agua",44.1828661844485
+2001,F,Construcción,16.9383956514577
+2001,G,Comercio,7.4069230136922
+2001,H,Hotelería y restaurantes,10.6383753379262
+2001,I,Transporte y comunicaciones,11.2935782013217
+2001,J,Finanzas,39.0612303290415
+2001,K,Serv. inmobiliarios y profesionales,5.86806366603779
+2001,M,Enseñanza,39.2700490998363
+2001,N,Salud,10.4410471388368
+2001,O,"Serv. comunitarios, sociales y personales",8.18244933502217
+2001,Z,Total,9.89403584524263
+2002,A,Agro,4.46711329419287
+2002,B,Pesca,39.5535143769968
+2002,C,Petróleo y minería,50.3176638176638
+2002,D,Industria manufacturera,18.824893731435
+2002,E,"Electricidad, gas y agua",42.25864422202
+2002,F,Construcción,11.8786757593345
+2002,G,Comercio,7.06383793477043
+2002,H,Hotelería y restaurantes,10.1926221934769
+2002,I,Transporte y comunicaciones,11.377755159343
+2002,J,Finanzas,36.3666616586538
+2002,K,Serv. inmobiliarios y profesionales,5.38188968271943
+2002,M,Enseñanza,40.4616875793035
+2002,N,Salud,10.3923731917231
+2002,O,"Serv. comunitarios, sociales y personales",7.94225
+2002,Z,Total,9.35484282039233
+2003,A,Agro,4.53280320828133
+2003,B,Pesca,41.7747747747748
+2003,C,Petróleo y minería,50.3946684005202
+2003,D,Industria manufacturera,18.5878788591867
+2003,E,"Electricidad, gas y agua",41.8496376811594
+2003,F,Construcción,12.8326731460307
+2003,G,Comercio,6.63569985974755
+2003,H,Hotelería y restaurantes,9.96498446553027
+2003,I,Transporte y comunicaciones,10.6307427629879
+2003,J,Finanzas,30.7065002820079
+2003,K,Serv. inmobiliarios y profesionales,5.56845567561743
+2003,M,Enseñanza,40.6461265200164
+2003,N,Salud,10.1133782824698
+2003,O,"Serv. comunitarios, sociales y personales",7.75565478029788
+2003,Z,Total,9.192558206041
+2004,A,Agro,4.67233331040886
+2004,B,Pesca,43.3564139941691
+2004,C,Petróleo y minería,51.5078306264501
+2004,D,Industria manufacturera,18.8037489709328
+2004,E,"Electricidad, gas y agua",43.4543812104788
+2004,F,Construcción,14.3593645260759
+2004,G,Comercio,6.28499757769993
+2004,H,Hotelería y restaurantes,8.76801988400994
+2004,I,Transporte y comunicaciones,9.61295071948442
+2004,J,Finanzas,26.7846528768426
+2004,K,Serv. inmobiliarios y profesionales,5.81775636460744
+2004,M,Enseñanza,39.9564281190627
+2004,N,Salud,9.74491114701131
+2004,O,"Serv. comunitarios, sociales y personales",6.86513636027691
+2004,Z,Total,8.98955611613436
+2005,A,Agro,4.81497421044924
+2005,B,Pesca,41.3198630136986
+2005,C,Petróleo y minería,53.6804531085353
+2005,D,Industria manufacturera,19.3701684738599
+2005,E,"Electricidad, gas y agua",44.4952956989247
+2005,F,Construcción,16.5600236380009
+2005,G,Comercio,6.46341597936395
+2005,H,Hotelería y restaurantes,9.00590835789357
+2005,I,Transporte y comunicaciones,9.58378513429107
+2005,J,Finanzas,26.5489456159822
+2005,K,Serv. inmobiliarios y profesionales,6.29273790356749
+2005,M,Enseñanza,40.9028933202838
+2005,N,Salud,9.79787421827718
+2005,O,"Serv. comunitarios, sociales y personales",7.09370471743681
+2005,Z,Total,9.34612022097335
+2006,A,Agro,4.8961905209263
+2006,B,Pesca,45.1035211267606
+2006,C,Petróleo y minería,56.4070576540755
+2006,D,Industria manufacturera,19.6667484492177
+2006,E,"Electricidad, gas y agua",46.0353962600178
+2006,F,Construcción,17.6949633251834
+2006,G,Comercio,6.49138358542028
+2006,H,Hotelería y restaurantes,9.08827506515219
+2006,I,Transporte y comunicaciones,9.55361742381072
+2006,J,Finanzas,26.7686053783615
+2006,K,Serv. inmobiliarios y profesionales,6.66991947118324
+2006,M,Enseñanza,41.1671358198452
+2006,N,Salud,9.93059082850161
+2006,O,"Serv. comunitarios, sociales y personales",7.3063377952235
+2006,Z,Total,9.58258188544429
+2007,A,Agro,4.98040598225447
+2007,B,Pesca,44.313904494382
+2007,C,Petróleo y minería,58.6005036630037
+2007,D,Industria manufacturera,20.1662145871007
+2007,E,"Electricidad, gas y agua",47.1326940231936
+2007,F,Construcción,18.5512812074942
+2007,G,Comercio,6.71889589676671
+2007,H,Hotelería y restaurantes,9.13078626056621
+2007,I,Transporte y comunicaciones,9.5471746343092
+2007,J,Finanzas,28.2831184056272
+2007,K,Serv. inmobiliarios y profesionales,7.10175827657215
+2007,M,Enseñanza,42.0871194781415
+2007,N,Salud,10.0630488193275
+2007,O,"Serv. comunitarios, sociales y personales",7.63883152830562
+2007,Z,Total,9.91863607470197
+2008,A,Agro,5.15126257718241
+2008,B,Pesca,41.9371508379888
+2008,C,Petróleo y minería,61.171697287839
+2008,D,Industria manufacturera,20.7639212237226
+2008,E,"Electricidad, gas y agua",47.820987654321
+2008,F,Construcción,17.7318626641341
+2008,G,Comercio,6.84409003772607
+2008,H,Hotelería y restaurantes,9.2441026491439
+2008,I,Transporte y comunicaciones,9.60635962772911
+2008,J,Finanzas,28.8226814704236
+2008,K,Serv. inmobiliarios y profesionales,7.40731822216685
+2008,M,Enseñanza,42.7693941426336
+2008,N,Salud,10.2975444777937
+2008,O,"Serv. comunitarios, sociales y personales",8.05402390262222
+2008,Z,Total,10.1346240022166
+2009,A,Agro,5.15864745519275
+2009,B,Pesca,39.2222222222222
+2009,C,Petróleo y minería,58.8783376399655
+2009,D,Industria manufacturera,20.3224026982265
+2009,E,"Electricidad, gas y agua",49.6633928571429
+2009,F,Construcción,16.6787890887693
+2009,G,Comercio,6.69561426727989
+2009,H,Hotelería y restaurantes,8.88422509225092
+2009,I,Transporte y comunicaciones,9.61954241765071
+2009,J,Finanzas,26.1281455142232
+2009,K,Serv. inmobiliarios y profesionales,7.14577025055304
+2009,M,Enseñanza,43.0233480176211
+2009,N,Salud,10.3115650534255
+2009,O,"Serv. comunitarios, sociales y personales",8.17997727728397
+2009,Z,Total,9.92338848716786
+2010,A,Agro,5.13396556732872
+2010,B,Pesca,39.775641025641
+2010,C,Petróleo y minería,60.2036480686695
+2010,D,Industria manufacturera,20.7997636667874
+2010,E,"Electricidad, gas y agua",50.2312940140845
+2010,F,Construcción,16.3735337393224
+2010,G,Comercio,6.7499434586505
+2010,H,Hotelería y restaurantes,9.0147914831693
+2010,I,Transporte y comunicaciones,9.63984385375757
+2010,J,Finanzas,25.8309591222792
+2010,K,Serv. inmobiliarios y profesionales,7.3096210299491
+2010,M,Enseñanza,43.9438636611129
+2010,N,Salud,10.5412454467319
+2010,O,"Serv. comunitarios, sociales y personales",8.44780838724069
+2010,Z,Total,10.0518649181714
+2011,A,Agro,5.23060965599582
+2011,B,Pesca,41.2088068181818
+2011,C,Petróleo y minería,63.2655319148936
+2011,D,Industria manufacturera,21.4893753200205
+2011,E,"Electricidad, gas y agua",51.8877952755905
+2011,F,Construcción,17.1845300438341
+2011,G,Comercio,6.88924118489181
+2011,H,Hotelería y restaurantes,9.08099213061705
+2011,I,Transporte y comunicaciones,9.82906353097296
+2011,J,Finanzas,26.3573745305565
+2011,K,Serv. inmobiliarios y profesionales,7.59040276879185
+2011,M,Enseñanza,45.211269875376
+2011,N,Salud,10.8522958471297
+2011,O,"Serv. comunitarios, sociales y personales",8.66966081244135
+2011,Z,Total,10.3441396139179
+2012,A,Agro,5.20478590941334
+2012,B,Pesca,37.9459269662921
+2012,C,Petróleo y minería,67.3863439930856
+2012,D,Industria manufacturera,21.8299958993986
+2012,E,"Electricidad, gas y agua",53.707563764292
+2012,F,Construcción,16.905400162936
+2012,G,Comercio,6.93824987080586
+2012,H,Hotelería y restaurantes,9.09972323741262
+2012,I,Transporte y comunicaciones,9.96368857225938
+2012,J,Finanzas,27.0814278455285
+2012,K,Serv. inmobiliarios y profesionales,7.6134058399338
+2012,M,Enseñanza,46.0908269557823
+2012,N,Salud,11.1284125181152
+2012,O,"Serv. comunitarios, sociales y personales",8.94380277202485
+2012,Z,Total,10.4592736616083
+2013,A,Agro,5.26563266119147
+2013,B,Pesca,37.6666666666667
+2013,C,Petróleo y minería,70.1032843560933
+2013,D,Industria manufacturera,22.1139291396507
+2013,E,"Electricidad, gas y agua",55.8935795954266
+2013,F,Construcción,16.6235448922356
+2013,G,Comercio,6.93343450931188
+2013,H,Hotelería y restaurantes,9.07798418562895
+2013,I,Transporte y comunicaciones,10.0421304230179
+2013,J,Finanzas,26.7536333608588
+2013,K,Serv. inmobiliarios y profesionales,7.58122450115714
+2013,M,Enseñanza,47.3624760179066
+2013,N,Salud,11.308008391393
+2013,O,"Serv. comunitarios, sociales y personales",9.26365058244041
+2013,Z,Total,10.5419872852081
+2014,A,Agro,5.39111271449635
+2014,B,Pesca,37.0767045454545
+2014,C,Petróleo y minería,75.5909090909091
+2014,D,Industria manufacturera,22.0051857066813
+2014,E,"Electricidad, gas y agua",59.5084821428571
+2014,F,Construcción,16.5160714970657
+2014,G,Comercio,6.93972237543666
+2014,H,Hotelería y restaurantes,9.07857796765334
+2014,I,Transporte y comunicaciones,10.2840086962876
+2014,J,Finanzas,26.8670078872294
+2014,K,Serv. inmobiliarios y profesionales,7.4901811413594
+2014,M,Enseñanza,48.7093091647952
+2014,N,Salud,11.6025697531811
+2014,O,"Serv. comunitarios, sociales y personales",9.47008095532026
+2014,Z,Total,10.6184293470189
+2015,A,Agro,5.56792891010547
+2015,B,Pesca,39.4606060606061
+2015,C,Petróleo y minería,76.9346349745331
+2015,D,Industria manufacturera,22.1294216756183
+2015,E,"Electricidad, gas y agua",61.717834960071
+2015,F,Construcción,17.6231496395153
+2015,G,Comercio,6.91822303708283
+2015,H,Hotelería y restaurantes,9.20627098361201
+2015,I,Transporte y comunicaciones,10.5582674710726
+2015,J,Finanzas,26.5340437883563
+2015,K,Serv. inmobiliarios y profesionales,7.6555333414112
+2015,M,Enseñanza,50.6922891952549
+2015,N,Salud,11.8604532770194
+2015,O,"Serv. comunitarios, sociales y personales",9.71917349841057
+2015,Z,Total,10.8237166096454
+2016,A,Agro,5.5662697829389
+2016,B,Pesca,36.7665165165165
+2016,C,Petróleo y minería,73.4436106346484
+2016,D,Industria manufacturera,21.9654538550495
+2016,E,"Electricidad, gas y agua",62.6166225749559
+2016,F,Construcción,16.2975493994576
+2016,G,Comercio,6.92848145804628
+2016,H,Hotelería y restaurantes,9.17695691995682
+2016,I,Transporte y comunicaciones,10.7967591818536
+2016,J,Finanzas,26.5105828720287
+2016,K,Serv. inmobiliarios y profesionales,7.57486693416312
+2016,M,Enseñanza,51.7512805463665
+2016,N,Salud,12.2241330886759
+2016,O,"Serv. comunitarios, sociales y personales",9.88622660621262
+2016,Z,Total,10.7849194527698
+2017,A,Agro,5.71463987042607
+2017,B,Pesca,37.5015384615385
+2017,C,Petróleo y minería,69.527090443686
+2017,D,Industria manufacturera,21.8598817345598
+2017,E,"Electricidad, gas y agua",64.0733099209833
+2017,F,Construcción,17.3071720458587
+2017,G,Comercio,6.9239107599295
+2017,H,Hotelería y restaurantes,9.26775545460362
+2017,I,Transporte y comunicaciones,10.9376391461338
+2017,J,Finanzas,26.1836114711601
+2017,K,Serv. inmobiliarios y profesionales,7.58420333187416
+2017,M,Enseñanza,52.1827500790556
+2017,N,Salud,12.4952344819928
+2017,O,"Serv. comunitarios, sociales y personales",10.0323809872208
+2017,Z,Total,10.8683132060066
+2018,A,Agro,5.89699817258202
+2018,B,Pesca,38.0068389057751
+2018,C,Petróleo y minería,72.0049061433447
+2018,D,Industria manufacturera,21.96447939751
+2018,E,"Electricidad, gas y agua",64.653443766347
+2018,F,Construcción,18.0680854315516
+2018,G,Comercio,7.06921854107859
+2018,H,Hotelería y restaurantes,9.41571775844422
+2018,I,Transporte y comunicaciones,11.2892691718832
+2018,J,Finanzas,26.0526315789474
+2018,K,Serv. inmobiliarios y profesionales,7.68351139720693
+2018,M,Enseñanza,53.2382005899705
+2018,N,Salud,12.7104222854398
+2018,O,"Serv. comunitarios, sociales y personales",10.3838408582699
+2018,Z,Total,11.0935113896266
+2019,A,Agro,6.00661496350365
+2019,B,Pesca,38.1231003039514
+2019,C,Petróleo y minería,76.0997011101623
+2019,D,Industria manufacturera,21.7984908136483
+2019,E,"Electricidad, gas y agua",64.3719670710572
+2019,F,Construcción,18.0579224652087
+2019,G,Comercio,7.09129423953329
+2019,H,Hotelería y restaurantes,9.59495431068733
+2019,I,Transporte y comunicaciones,11.5783521643734
+2019,J,Finanzas,25.9846829829172
+2019,K,Serv. inmobiliarios y profesionales,7.7482538613622
+2019,M,Enseñanza,54.6937225965137
+2019,N,Salud,12.8592579412646
+2019,O,"Serv. comunitarios, sociales y personales",10.7837403428934
+2019,Z,Total,11.210123974817
+2020,A,Agro,5.8906468144516
+2020,B,Pesca,38.1261609907121
+2020,C,Petróleo y minería,74.3933855526545
+2020,D,Industria manufacturera,21.8608799677147
+2020,E,"Electricidad, gas y agua",63.9319167389419
+2020,F,Construcción,14.857511310304
+2020,G,Comercio,7.21952576641206
+2020,H,Hotelería y restaurantes,9.79146666666667
+2020,I,Transporte y comunicaciones,12.1240851963074
+2020,J,Finanzas,26.0868465430017
+2020,K,Serv. inmobiliarios y profesionales,7.86791406047265
+2020,M,Enseñanza,55.913396290432
+2020,N,Salud,13.3960425912949
+2020,O,"Serv. comunitarios, sociales y personales",11.129699896516
+2020,Z,Total,11.2441777311734
+2021,A,Agro,5.91369435373344
+2021,B,Pesca,38.9871987951807
+2021,C,Petróleo y minería,73.0169237360754
+2021,D,Industria manufacturera,22.4239815062986
+2021,E,"Electricidad, gas y agua",63.9782327586207
+2021,F,Construcción,15.8439206108124
+2021,G,Comercio,7.20716449676912
+2021,H,Hotelería y restaurantes,8.95513482501434
+2021,I,Transporte y comunicaciones,12.4096906173861
+2021,J,Finanzas,26.0713065755764
+2021,K,Serv. inmobiliarios y profesionales,8.2928511667667
+2021,M,Enseñanza,57.3841008268259
+2021,N,Salud,13.6394480775292
+2021,O,"Serv. comunitarios, sociales y personales",11.4207867007977
+2021,Z,Total,11.451282916948

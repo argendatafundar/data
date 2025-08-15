@@ -1,15 +1,15 @@
-"year","semestre","region","deflactor","indice"
-"2024","1","Partidos del GBA","ipc","0.94050843"
-"2024","1","CABA","ipc","1.7152561"
-"2024","1","Pampeana","ipc","0.99819154"
-"2024","1","NEA","ipc","0.65008587"
-"2024","1","NOA","ipc","0.68200219"
-"2024","1","Cuyo","ipc","0.82764977"
-"2024","1","Patagonia","ipc","1.267491"
-"2024","1","Partidos del GBA","linea de pobreza","0.89639401"
-"2024","1","CABA","linea de pobreza","1.7104254"
-"2024","1","Pampeana","linea de pobreza","1.0053657"
-"2024","1","NEA","linea de pobreza","0.78768766"
-"2024","1","NOA","linea de pobreza","0.86432028"
-"2024","1","Cuyo","linea de pobreza","0.89117682"
-"2024","1","Patagonia","linea de pobreza","1.0375936"
+year,semestre,region,deflactor,indice
+2024,1,Partidos del GBA,ipc,0.94050843
+2024,1,CABA,ipc,1.7152561
+2024,1,Pampeana,ipc,0.99819154
+2024,1,NEA,ipc,0.65008587
+2024,1,NOA,ipc,0.68200219
+2024,1,Cuyo,ipc,0.82764977
+2024,1,Patagonia,ipc,1.267491
+2024,1,Partidos del GBA,linea de pobreza,0.89639401
+2024,1,CABA,linea de pobreza,1.7104254
+2024,1,Pampeana,linea de pobreza,1.0053657
+2024,1,NEA,linea de pobreza,0.78768766
+2024,1,NOA,linea de pobreza,0.86432028
+2024,1,Cuyo,linea de pobreza,0.89117682
+2024,1,Patagonia,linea de pobreza,1.0375936

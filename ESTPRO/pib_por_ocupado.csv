@@ -1,4 +1,4 @@
-iso3,pais_nombre,continente_fundar,anio,pib_por_ocupado
+geocodigoFundar,geonombreFundar,continente_fundar,anio,pib_por_ocupado
 ABW,Aruba,"América del Norte, Central y el Caribe",1991,62628.77
 ABW,Aruba,"América del Norte, Central y el Caribe",1992,62657.91
 ABW,Aruba,"América del Norte, Central y el Caribe",1993,63133.45
@@ -280,13 +280,13 @@ ARG,Argentina,América del Sur,2019,47258.58
 ARM,Armenia,Asia,1990,10545.84
 ARM,Armenia,Asia,1991,9326.78
 ARM,Armenia,Asia,1992,5726.29
-ARM,Armenia,Asia,1993,5184
+ARM,Armenia,Asia,1993,5184.0
 ARM,Armenia,Asia,1994,5575.01
 ARM,Armenia,Asia,1995,5998.17
 ARM,Armenia,Asia,1996,6613.28
 ARM,Armenia,Asia,1997,7211.55
 ARM,Armenia,Asia,1998,7986.24
-ARM,Armenia,Asia,1999,8543
+ARM,Armenia,Asia,1999,8543.0
 ARM,Armenia,Asia,2000,9238.03
 ARM,Armenia,Asia,2001,10286.78
 ARM,Armenia,Asia,2002,13590.64
@@ -345,7 +345,7 @@ AUS,Australia,Oceanía,1966,50668.85
 AUS,Australia,Oceanía,1967,51655.78
 AUS,Australia,Oceanía,1968,54038.12
 AUS,Australia,Oceanía,1969,56403.19
-AUS,Australia,Oceanía,1970,56498
+AUS,Australia,Oceanía,1970,56498.0
 AUS,Australia,Oceanía,1971,57529.78
 AUS,Australia,Oceanía,1972,58308.59
 AUS,Australia,Oceanía,1973,59166.68
@@ -411,7 +411,7 @@ AUT,Austria,Europa,1962,30611.85
 AUT,Austria,Europa,1963,32176.01
 AUT,Austria,Europa,1964,34187.44
 AUT,Austria,Europa,1965,35328.57
-AUT,Austria,Europa,1966,37612
+AUT,Austria,Europa,1966,37612.0
 AUT,Austria,Europa,1967,39478.7
 AUT,Austria,Europa,1968,41736.26
 AUT,Austria,Europa,1969,44495.87
@@ -450,9 +450,9 @@ AUT,Austria,Europa,2001,95617.33
 AUT,Austria,Europa,2002,97328.77
 AUT,Austria,Europa,2003,97587.78
 AUT,Austria,Europa,2004,99754.05
-AUT,Austria,Europa,2005,101015
-AUT,Austria,Europa,2006,102820
-AUT,Austria,Europa,2007,104720
+AUT,Austria,Europa,2005,101015.0
+AUT,Austria,Europa,2006,102820.0
+AUT,Austria,Europa,2007,104720.0
 AUT,Austria,Europa,2008,104242.7
 AUT,Austria,Europa,2009,100740.4
 AUT,Austria,Europa,2010,101614.9
@@ -461,7 +461,7 @@ AUT,Austria,Europa,2012,102312.9
 AUT,Austria,Europa,2013,101940.5
 AUT,Austria,Europa,2014,101743.6
 AUT,Austria,Europa,2015,102557.3
-AUT,Austria,Europa,2016,103557
+AUT,Austria,Europa,2016,103557.0
 AUT,Austria,Europa,2017,104178.2
 AUT,Austria,Europa,2018,104724.6
 AUT,Austria,Europa,2019,104767.9
@@ -595,9 +595,9 @@ BEL,Bélgica,Europa,2006,102896.6
 BEL,Bélgica,Europa,2007,104933.5
 BEL,Bélgica,Europa,2008,103594.3
 BEL,Bélgica,Europa,2009,101724.3
-BEL,Bélgica,Europa,2010,104404
+BEL,Bélgica,Europa,2010,104404.0
 BEL,Bélgica,Europa,2011,105181.5
-BEL,Bélgica,Europa,2012,105481
+BEL,Bélgica,Europa,2012,105481.0
 BEL,Bélgica,Europa,2013,106121.7
 BEL,Bélgica,Europa,2014,107193.1
 BEL,Bélgica,Europa,2015,108414.7
@@ -619,7 +619,7 @@ BEN,Benin,África,1990,4273.26
 BEN,Benin,África,1991,4303.96
 BEN,Benin,África,1992,4275.78
 BEN,Benin,África,1993,4354.97
-BEN,Benin,África,1994,4276
+BEN,Benin,África,1994,4276.0
 BEN,Benin,África,1995,4537.2
 BEN,Benin,África,1996,4588.54
 BEN,Benin,África,1997,4705.03
@@ -727,7 +727,7 @@ BGD,Bangladesh,Asia,1976,4204.91
 BGD,Bangladesh,Asia,1977,4187.03
 BGD,Bangladesh,Asia,1978,4348.24
 BGD,Bangladesh,Asia,1979,4419.45
-BGD,Bangladesh,Asia,1980,4320
+BGD,Bangladesh,Asia,1980,4320.0
 BGD,Bangladesh,Asia,1981,4344.04
 BGD,Bangladesh,Asia,1982,4269.76
 BGD,Bangladesh,Asia,1983,4352.09
@@ -910,7 +910,7 @@ BHS,Bahamas,"América del Norte, Central y el Caribe",2012,67035.98
 BHS,Bahamas,"América del Norte, Central y el Caribe",2013,65647.88
 BHS,Bahamas,"América del Norte, Central y el Caribe",2014,63319.72
 BHS,Bahamas,"América del Norte, Central y el Caribe",2015,61077.3
-BHS,Bahamas,"América del Norte, Central y el Caribe",2016,61373
+BHS,Bahamas,"América del Norte, Central y el Caribe",2016,61373.0
 BHS,Bahamas,"América del Norte, Central y el Caribe",2017,60284.64
 BHS,Bahamas,"América del Norte, Central y el Caribe",2018,61345.58
 BHS,Bahamas,"América del Norte, Central y el Caribe",2019,61451.07
@@ -960,7 +960,7 @@ BLR,Belarús,Europa,2002,22716.74
 BLR,Belarús,Europa,2003,24574.37
 BLR,Belarús,Europa,2004,27556.82
 BLR,Belarús,Europa,2005,29577.53
-BLR,Belarús,Europa,2006,32139
+BLR,Belarús,Europa,2006,32139.0
 BLR,Belarús,Europa,2007,34549.84
 BLR,Belarús,Europa,2008,37356.46
 BLR,Belarús,Europa,2009,37157.45
@@ -994,7 +994,7 @@ BLZ,Belice,"América del Norte, Central y el Caribe",1996,16384.95
 BLZ,Belice,"América del Norte, Central y el Caribe",1997,15597.92
 BLZ,Belice,"América del Norte, Central y el Caribe",1998,15607.42
 BLZ,Belice,"América del Norte, Central y el Caribe",1999,15995.6
-BLZ,Belice,"América del Norte, Central y el Caribe",2000,17173
+BLZ,Belice,"América del Norte, Central y el Caribe",2000,17173.0
 BLZ,Belice,"América del Norte, Central y el Caribe",2001,17140.03
 BLZ,Belice,"América del Norte, Central y el Caribe",2002,18205.75
 BLZ,Belice,"América del Norte, Central y el Caribe",2003,18903.8
@@ -1052,7 +1052,7 @@ BOL,Bolivia,América del Sur,1950,8744.2
 BOL,Bolivia,América del Sur,1951,9639.74
 BOL,Bolivia,América del Sur,1952,9778.52
 BOL,Bolivia,América del Sur,1953,8298.43
-BOL,Bolivia,América del Sur,1954,8616
+BOL,Bolivia,América del Sur,1954,8616.0
 BOL,Bolivia,América del Sur,1955,9561.91
 BOL,Bolivia,América del Sur,1956,9255.61
 BOL,Bolivia,América del Sur,1957,9396.94
@@ -1121,7 +1121,7 @@ BOL,Bolivia,América del Sur,2019,17587.59
 BRA,Brasil,América del Sur,1950,8587.14
 BRA,Brasil,América del Sur,1951,8763.38
 BRA,Brasil,América del Sur,1952,9334.54
-BRA,Brasil,América del Sur,1953,9539
+BRA,Brasil,América del Sur,1953,9539.0
 BRA,Brasil,América del Sur,1954,10035.41
 BRA,Brasil,América del Sur,1955,10384.85
 BRA,Brasil,América del Sur,1956,10459.01
@@ -1131,7 +1131,7 @@ BRA,Brasil,América del Sur,1959,12089.44
 BRA,Brasil,América del Sur,1960,12649.83
 BRA,Brasil,América del Sur,1961,14095.89
 BRA,Brasil,América del Sur,1962,14475.6
-BRA,Brasil,América del Sur,1963,15039
+BRA,Brasil,América del Sur,1963,15039.0
 BRA,Brasil,América del Sur,1964,15282.47
 BRA,Brasil,América del Sur,1965,15941.21
 BRA,Brasil,América del Sur,1966,16153.7
@@ -1156,7 +1156,7 @@ BRA,Brasil,América del Sur,1984,26597.57
 BRA,Brasil,América del Sur,1985,26704.99
 BRA,Brasil,América del Sur,1986,27926.33
 BRA,Brasil,América del Sur,1987,27918.02
-BRA,Brasil,América del Sur,1988,26970
+BRA,Brasil,América del Sur,1988,26970.0
 BRA,Brasil,América del Sur,1989,27257.93
 BRA,Brasil,América del Sur,1990,25451.45
 BRA,Brasil,América del Sur,1991,25790.2
@@ -1248,46 +1248,46 @@ BRB,Barbados,"América del Norte, Central y el Caribe",2016,25316.06
 BRB,Barbados,"América del Norte, Central y el Caribe",2017,25401.34
 BRB,Barbados,"América del Norte, Central y el Caribe",2018,25123.7
 BRB,Barbados,"América del Norte, Central y el Caribe",2019,25367.75
-BRN,Brunei Darussalam,Asia,1980,390459.2
-BRN,Brunei Darussalam,Asia,1981,301791.1
-BRN,Brunei Darussalam,Asia,1982,299209
-BRN,Brunei Darussalam,Asia,1983,287184.6
-BRN,Brunei Darussalam,Asia,1984,276112.4
-BRN,Brunei Darussalam,Asia,1985,260017.1
-BRN,Brunei Darussalam,Asia,1986,220096.5
-BRN,Brunei Darussalam,Asia,1987,211161.6
-BRN,Brunei Darussalam,Asia,1988,201282.7
-BRN,Brunei Darussalam,Asia,1989,196850.7
-BRN,Brunei Darussalam,Asia,1990,190452.4
-BRN,Brunei Darussalam,Asia,1991,188043
-BRN,Brunei Darussalam,Asia,1992,190070
-BRN,Brunei Darussalam,Asia,1993,184035.3
-BRN,Brunei Darussalam,Asia,1994,183398.8
-BRN,Brunei Darussalam,Asia,1995,185340.6
-BRN,Brunei Darussalam,Asia,1996,184658.2
-BRN,Brunei Darussalam,Asia,1997,176409
-BRN,Brunei Darussalam,Asia,1998,170272.8
-BRN,Brunei Darussalam,Asia,1999,170479.4
-BRN,Brunei Darussalam,Asia,2000,170499.7
-BRN,Brunei Darussalam,Asia,2001,170466.7
-BRN,Brunei Darussalam,Asia,2002,172267.2
-BRN,Brunei Darussalam,Asia,2003,172655
-BRN,Brunei Darussalam,Asia,2004,169251.5
-BRN,Brunei Darussalam,Asia,2005,165989.6
-BRN,Brunei Darussalam,Asia,2006,169586.3
-BRN,Brunei Darussalam,Asia,2007,166455.5
-BRN,Brunei Darussalam,Asia,2008,160114.6
-BRN,Brunei Darussalam,Asia,2009,154299.4
-BRN,Brunei Darussalam,Asia,2010,155231
-BRN,Brunei Darussalam,Asia,2011,157822.3
-BRN,Brunei Darussalam,Asia,2012,157147.4
-BRN,Brunei Darussalam,Asia,2013,151742.5
-BRN,Brunei Darussalam,Asia,2014,146006.2
-BRN,Brunei Darussalam,Asia,2015,145987
-BRN,Brunei Darussalam,Asia,2016,143055.3
-BRN,Brunei Darussalam,Asia,2017,145790.3
-BRN,Brunei Darussalam,Asia,2018,135163.4
-BRN,Brunei Darussalam,Asia,2019,127727.6
+BRN,Brunei,Asia,1980,390459.2
+BRN,Brunei,Asia,1981,301791.1
+BRN,Brunei,Asia,1982,299209.0
+BRN,Brunei,Asia,1983,287184.6
+BRN,Brunei,Asia,1984,276112.4
+BRN,Brunei,Asia,1985,260017.1
+BRN,Brunei,Asia,1986,220096.5
+BRN,Brunei,Asia,1987,211161.6
+BRN,Brunei,Asia,1988,201282.7
+BRN,Brunei,Asia,1989,196850.7
+BRN,Brunei,Asia,1990,190452.4
+BRN,Brunei,Asia,1991,188043.0
+BRN,Brunei,Asia,1992,190070.0
+BRN,Brunei,Asia,1993,184035.3
+BRN,Brunei,Asia,1994,183398.8
+BRN,Brunei,Asia,1995,185340.6
+BRN,Brunei,Asia,1996,184658.2
+BRN,Brunei,Asia,1997,176409.0
+BRN,Brunei,Asia,1998,170272.8
+BRN,Brunei,Asia,1999,170479.4
+BRN,Brunei,Asia,2000,170499.7
+BRN,Brunei,Asia,2001,170466.7
+BRN,Brunei,Asia,2002,172267.2
+BRN,Brunei,Asia,2003,172655.0
+BRN,Brunei,Asia,2004,169251.5
+BRN,Brunei,Asia,2005,165989.6
+BRN,Brunei,Asia,2006,169586.3
+BRN,Brunei,Asia,2007,166455.5
+BRN,Brunei,Asia,2008,160114.6
+BRN,Brunei,Asia,2009,154299.4
+BRN,Brunei,Asia,2010,155231.0
+BRN,Brunei,Asia,2011,157822.3
+BRN,Brunei,Asia,2012,157147.4
+BRN,Brunei,Asia,2013,151742.5
+BRN,Brunei,Asia,2014,146006.2
+BRN,Brunei,Asia,2015,145987.0
+BRN,Brunei,Asia,2016,143055.3
+BRN,Brunei,Asia,2017,145790.3
+BRN,Brunei,Asia,2018,135163.4
+BRN,Brunei,Asia,2019,127727.6
 BTN,Bhután,Asia,1980,3406.78
 BTN,Bhután,Asia,1981,3731.13
 BTN,Bhután,Asia,1982,3758.58
@@ -1388,46 +1388,46 @@ BWA,Botswana,África,2016,40070.89
 BWA,Botswana,África,2017,40179.51
 BWA,Botswana,África,2018,40856.29
 BWA,Botswana,África,2019,41719.86
-CAF,República Centroafricana,África,1980,3896.27
-CAF,República Centroafricana,África,1981,3838.63
-CAF,República Centroafricana,África,1982,3797.45
-CAF,República Centroafricana,África,1983,3443.64
-CAF,República Centroafricana,África,1984,3598.65
-CAF,República Centroafricana,África,1985,3635.18
-CAF,República Centroafricana,África,1986,3699.06
-CAF,República Centroafricana,África,1987,3459.12
-CAF,República Centroafricana,África,1988,3486.45
-CAF,República Centroafricana,África,1989,3514.86
-CAF,República Centroafricana,África,1990,3384.78
-CAF,República Centroafricana,África,1991,3340.92
-CAF,República Centroafricana,África,1992,3204.25
-CAF,República Centroafricana,África,1993,3101.48
-CAF,República Centroafricana,África,1994,3166.31
-CAF,República Centroafricana,África,1995,3234.51
-CAF,República Centroafricana,África,1996,2914.34
-CAF,República Centroafricana,África,1997,3018.84
-CAF,República Centroafricana,África,1998,3082.27
-CAF,República Centroafricana,África,1999,3190.21
-CAF,República Centroafricana,África,2000,3171.87
-CAF,República Centroafricana,África,2001,3129.09
-CAF,República Centroafricana,África,2002,3050.41
-CAF,República Centroafricana,África,2003,2776.87
-CAF,República Centroafricana,África,2004,2797.18
-CAF,República Centroafricana,África,2005,2805.32
-CAF,República Centroafricana,África,2006,2884.37
-CAF,República Centroafricana,África,2007,2945.92
-CAF,República Centroafricana,África,2008,2972.6
-CAF,República Centroafricana,África,2009,3023.3
-CAF,República Centroafricana,África,2010,3131.37
-CAF,República Centroafricana,África,2011,3254.85
-CAF,República Centroafricana,África,2012,3422.86
-CAF,República Centroafricana,África,2013,2170.77
-CAF,República Centroafricana,África,2014,2172.59
-CAF,República Centroafricana,África,2015,2261.6
-CAF,República Centroafricana,África,2016,2341.46
-CAF,República Centroafricana,África,2017,2409.78
-CAF,República Centroafricana,África,2018,2455.91
-CAF,República Centroafricana,África,2019,2471.57
+CAF,Rep. Centroafricana,África,1980,3896.27
+CAF,Rep. Centroafricana,África,1981,3838.63
+CAF,Rep. Centroafricana,África,1982,3797.45
+CAF,Rep. Centroafricana,África,1983,3443.64
+CAF,Rep. Centroafricana,África,1984,3598.65
+CAF,Rep. Centroafricana,África,1985,3635.18
+CAF,Rep. Centroafricana,África,1986,3699.06
+CAF,Rep. Centroafricana,África,1987,3459.12
+CAF,Rep. Centroafricana,África,1988,3486.45
+CAF,Rep. Centroafricana,África,1989,3514.86
+CAF,Rep. Centroafricana,África,1990,3384.78
+CAF,Rep. Centroafricana,África,1991,3340.92
+CAF,Rep. Centroafricana,África,1992,3204.25
+CAF,Rep. Centroafricana,África,1993,3101.48
+CAF,Rep. Centroafricana,África,1994,3166.31
+CAF,Rep. Centroafricana,África,1995,3234.51
+CAF,Rep. Centroafricana,África,1996,2914.34
+CAF,Rep. Centroafricana,África,1997,3018.84
+CAF,Rep. Centroafricana,África,1998,3082.27
+CAF,Rep. Centroafricana,África,1999,3190.21
+CAF,Rep. Centroafricana,África,2000,3171.87
+CAF,Rep. Centroafricana,África,2001,3129.09
+CAF,Rep. Centroafricana,África,2002,3050.41
+CAF,Rep. Centroafricana,África,2003,2776.87
+CAF,Rep. Centroafricana,África,2004,2797.18
+CAF,Rep. Centroafricana,África,2005,2805.32
+CAF,Rep. Centroafricana,África,2006,2884.37
+CAF,Rep. Centroafricana,África,2007,2945.92
+CAF,Rep. Centroafricana,África,2008,2972.6
+CAF,Rep. Centroafricana,África,2009,3023.3
+CAF,Rep. Centroafricana,África,2010,3131.37
+CAF,Rep. Centroafricana,África,2011,3254.85
+CAF,Rep. Centroafricana,África,2012,3422.86
+CAF,Rep. Centroafricana,África,2013,2170.77
+CAF,Rep. Centroafricana,África,2014,2172.59
+CAF,Rep. Centroafricana,África,2015,2261.6
+CAF,Rep. Centroafricana,África,2016,2341.46
+CAF,Rep. Centroafricana,África,2017,2409.78
+CAF,Rep. Centroafricana,África,2018,2455.91
+CAF,Rep. Centroafricana,África,2019,2471.57
 CAN,Canadá,"América del Norte, Central y el Caribe",1950,32358.08
 CAN,Canadá,"América del Norte, Central y el Caribe",1951,32924.64
 CAN,Canadá,"América del Norte, Central y el Caribe",1952,35401.84
@@ -1528,26 +1528,26 @@ CHE,Suiza,Europa,1976,94341.93
 CHE,Suiza,Europa,1977,96135.02
 CHE,Suiza,Europa,1978,96119.57
 CHE,Suiza,Europa,1979,97988.37
-CHE,Suiza,Europa,1980,100783
+CHE,Suiza,Europa,1980,100783.0
 CHE,Suiza,Europa,1981,100487.3
 CHE,Suiza,Europa,1982,98931.59
 CHE,Suiza,Europa,1983,99514.72
 CHE,Suiza,Europa,1984,101337.6
 CHE,Suiza,Europa,1985,102898.7
 CHE,Suiza,Europa,1986,102497.9
-CHE,Suiza,Europa,1987,101749
+CHE,Suiza,Europa,1987,101749.0
 CHE,Suiza,Europa,1988,102619.7
-CHE,Suiza,Europa,1989,104442
+CHE,Suiza,Europa,1989,104442.0
 CHE,Suiza,Europa,1990,105204.4
 CHE,Suiza,Europa,1991,102641.1
 CHE,Suiza,Europa,1992,103565.4
 CHE,Suiza,Europa,1993,103996.8
 CHE,Suiza,Europa,1994,105681.5
-CHE,Suiza,Europa,1995,106202
+CHE,Suiza,Europa,1995,106202.0
 CHE,Suiza,Europa,1996,106849.4
 CHE,Suiza,Europa,1997,109224.5
 CHE,Suiza,Europa,1998,111063.1
-CHE,Suiza,Europa,1999,112257
+CHE,Suiza,Europa,1999,112257.0
 CHE,Suiza,Europa,2000,115775.4
 CHE,Suiza,Europa,2001,115835.8
 CHE,Suiza,Europa,2002,115219.4
@@ -1561,12 +1561,12 @@ CHE,Suiza,Europa,2009,121568.4
 CHE,Suiza,Europa,2010,125069.3
 CHE,Suiza,Europa,2011,124081.6
 CHE,Suiza,Europa,2012,123177.4
-CHE,Suiza,Europa,2013,123731
+CHE,Suiza,Europa,2013,123731.0
 CHE,Suiza,Europa,2014,124461.9
 CHE,Suiza,Europa,2015,124688.8
 CHE,Suiza,Europa,2016,125613.9
 CHE,Suiza,Europa,2017,126485.7
-CHE,Suiza,Europa,2018,128999
+CHE,Suiza,Europa,2018,128999.0
 CHE,Suiza,Europa,2019,129361.5
 CHL,Chile,América del Sur,1951,15966.6
 CHL,Chile,América del Sur,1952,16555.35
@@ -1825,76 +1825,76 @@ CMR,Camerún,África,2016,8807.67
 CMR,Camerún,África,2017,8849.77
 CMR,Camerún,África,2018,8936.48
 CMR,Camerún,África,2019,9019.47
-COD,República Democrática del Congo,África,1950,5041.85
-COD,República Democrática del Congo,África,1951,5677.21
-COD,República Democrática del Congo,África,1952,5977.13
-COD,República Democrática del Congo,África,1953,6470.57
-COD,República Democrática del Congo,África,1954,6635.54
-COD,República Democrática del Congo,África,1955,6932.04
-COD,República Democrática del Congo,África,1956,7184.44
-COD,República Democrática del Congo,África,1957,7117.82
-COD,República Democrática del Congo,África,1958,6829.24
-COD,República Democrática del Congo,África,1959,6839.14
-COD,República Democrática del Congo,África,1960,7313.48
-COD,República Democrática del Congo,África,1961,6422.81
-COD,República Democrática del Congo,África,1962,7137.06
-COD,República Democrática del Congo,África,1963,7122.84
-COD,República Democrática del Congo,África,1964,7013.14
-COD,República Democrática del Congo,África,1965,6730.4
-COD,República Democrática del Congo,África,1966,6981.27
-COD,República Democrática del Congo,África,1967,6712.29
-COD,República Democrática del Congo,África,1968,6944.9
-COD,República Democrática del Congo,África,1969,7297.93
-COD,República Democrática del Congo,África,1970,7097.19
-COD,República Democrática del Congo,África,1971,7359.95
-COD,República Democrática del Congo,África,1972,7214.91
-COD,República Democrática del Congo,África,1973,7638.1
-COD,República Democrática del Congo,África,1974,7709.44
-COD,República Democrática del Congo,África,1975,7165.31
-COD,República Democrática del Congo,África,1976,6631.73
-COD,República Democrática del Congo,África,1977,6528.04
-COD,República Democrática del Congo,África,1978,6037.11
-COD,República Democrática del Congo,África,1979,5928.71
-COD,República Democrática del Congo,África,1980,5931.93
-COD,República Democrática del Congo,África,1981,5944.71
-COD,República Democrática del Congo,África,1982,5798.78
-COD,República Democrática del Congo,África,1983,5764.28
-COD,República Democrática del Congo,África,1984,5960.91
-COD,República Democrática del Congo,África,1985,5862.61
-COD,República Democrática del Congo,África,1986,6005.8
-COD,República Democrática del Congo,África,1987,6028.7
-COD,República Democrática del Congo,África,1988,5913.27
-COD,República Democrática del Congo,África,1989,5686.41
-COD,República Democrática del Congo,África,1990,5160.62
-COD,República Democrática del Congo,África,1991,4560.81
-COD,República Democrática del Congo,África,1992,3896.75
-COD,República Democrática del Congo,África,1993,3222.54
-COD,República Democrática del Congo,África,1994,2979.82
-COD,República Democrática del Congo,África,1995,2929.04
-COD,República Democrática del Congo,África,1996,2802.11
-COD,República Democrática del Congo,África,1997,2562.48
-COD,República Democrática del Congo,África,1998,2464.54
-COD,República Democrática del Congo,África,1999,2320.24
-COD,República Democrática del Congo,África,2000,2113
-COD,República Democrática del Congo,África,2001,2020.15
-COD,República Democrática del Congo,África,2002,2025.6
-COD,República Democrática del Congo,África,2003,2074.13
-COD,República Democrática del Congo,África,2004,2142.92
-COD,República Democrática del Congo,África,2005,2201.96
-COD,República Democrática del Congo,África,2006,2286.3
-COD,República Democrática del Congo,África,2007,2393.78
-COD,República Democrática del Congo,África,2008,2506.32
-COD,República Democrática del Congo,África,2009,2548.04
-COD,República Democrática del Congo,África,2010,2695.44
-COD,República Democrática del Congo,África,2011,2852.78
-COD,República Democrática del Congo,África,2012,3024.49
-COD,República Democrática del Congo,África,2013,3182.39
-COD,República Democrática del Congo,África,2014,3376.1
-COD,República Democrática del Congo,África,2015,3494.02
-COD,República Democrática del Congo,África,2016,3464.51
-COD,República Democrática del Congo,África,2017,3475.71
-COD,República Democrática del Congo,África,2018,3555.02
-COD,República Democrática del Congo,África,2019,3601.06
+COD,Rep. Dem. Congo,África,1950,5041.85
+COD,Rep. Dem. Congo,África,1951,5677.21
+COD,Rep. Dem. Congo,África,1952,5977.13
+COD,Rep. Dem. Congo,África,1953,6470.57
+COD,Rep. Dem. Congo,África,1954,6635.54
+COD,Rep. Dem. Congo,África,1955,6932.04
+COD,Rep. Dem. Congo,África,1956,7184.44
+COD,Rep. Dem. Congo,África,1957,7117.82
+COD,Rep. Dem. Congo,África,1958,6829.24
+COD,Rep. Dem. Congo,África,1959,6839.14
+COD,Rep. Dem. Congo,África,1960,7313.48
+COD,Rep. Dem. Congo,África,1961,6422.81
+COD,Rep. Dem. Congo,África,1962,7137.06
+COD,Rep. Dem. Congo,África,1963,7122.84
+COD,Rep. Dem. Congo,África,1964,7013.14
+COD,Rep. Dem. Congo,África,1965,6730.4
+COD,Rep. Dem. Congo,África,1966,6981.27
+COD,Rep. Dem. Congo,África,1967,6712.29
+COD,Rep. Dem. Congo,África,1968,6944.9
+COD,Rep. Dem. Congo,África,1969,7297.93
+COD,Rep. Dem. Congo,África,1970,7097.19
+COD,Rep. Dem. Congo,África,1971,7359.95
+COD,Rep. Dem. Congo,África,1972,7214.91
+COD,Rep. Dem. Congo,África,1973,7638.1
+COD,Rep. Dem. Congo,África,1974,7709.44
+COD,Rep. Dem. Congo,África,1975,7165.31
+COD,Rep. Dem. Congo,África,1976,6631.73
+COD,Rep. Dem. Congo,África,1977,6528.04
+COD,Rep. Dem. Congo,África,1978,6037.11
+COD,Rep. Dem. Congo,África,1979,5928.71
+COD,Rep. Dem. Congo,África,1980,5931.93
+COD,Rep. Dem. Congo,África,1981,5944.71
+COD,Rep. Dem. Congo,África,1982,5798.78
+COD,Rep. Dem. Congo,África,1983,5764.28
+COD,Rep. Dem. Congo,África,1984,5960.91
+COD,Rep. Dem. Congo,África,1985,5862.61
+COD,Rep. Dem. Congo,África,1986,6005.8
+COD,Rep. Dem. Congo,África,1987,6028.7
+COD,Rep. Dem. Congo,África,1988,5913.27
+COD,Rep. Dem. Congo,África,1989,5686.41
+COD,Rep. Dem. Congo,África,1990,5160.62
+COD,Rep. Dem. Congo,África,1991,4560.81
+COD,Rep. Dem. Congo,África,1992,3896.75
+COD,Rep. Dem. Congo,África,1993,3222.54
+COD,Rep. Dem. Congo,África,1994,2979.82
+COD,Rep. Dem. Congo,África,1995,2929.04
+COD,Rep. Dem. Congo,África,1996,2802.11
+COD,Rep. Dem. Congo,África,1997,2562.48
+COD,Rep. Dem. Congo,África,1998,2464.54
+COD,Rep. Dem. Congo,África,1999,2320.24
+COD,Rep. Dem. Congo,África,2000,2113.0
+COD,Rep. Dem. Congo,África,2001,2020.15
+COD,Rep. Dem. Congo,África,2002,2025.6
+COD,Rep. Dem. Congo,África,2003,2074.13
+COD,Rep. Dem. Congo,África,2004,2142.92
+COD,Rep. Dem. Congo,África,2005,2201.96
+COD,Rep. Dem. Congo,África,2006,2286.3
+COD,Rep. Dem. Congo,África,2007,2393.78
+COD,Rep. Dem. Congo,África,2008,2506.32
+COD,Rep. Dem. Congo,África,2009,2548.04
+COD,Rep. Dem. Congo,África,2010,2695.44
+COD,Rep. Dem. Congo,África,2011,2852.78
+COD,Rep. Dem. Congo,África,2012,3024.49
+COD,Rep. Dem. Congo,África,2013,3182.39
+COD,Rep. Dem. Congo,África,2014,3376.1
+COD,Rep. Dem. Congo,África,2015,3494.02
+COD,Rep. Dem. Congo,África,2016,3464.51
+COD,Rep. Dem. Congo,África,2017,3475.71
+COD,Rep. Dem. Congo,África,2018,3555.02
+COD,Rep. Dem. Congo,África,2019,3601.06
 COG,Congo,África,1960,5787.2
 COG,Congo,África,1961,6698.2
 COG,Congo,África,1962,6452.18
@@ -2189,13 +2189,13 @@ CYM,Islas Caimán,"América del Norte, Central y el Caribe",1991,108259.4
 CYM,Islas Caimán,"América del Norte, Central y el Caribe",1992,115993.4
 CYM,Islas Caimán,"América del Norte, Central y el Caribe",1993,115468.1
 CYM,Islas Caimán,"América del Norte, Central y el Caribe",1994,115803.7
-CYM,Islas Caimán,"América del Norte, Central y el Caribe",1995,108456
-CYM,Islas Caimán,"América del Norte, Central y el Caribe",1996,110349
+CYM,Islas Caimán,"América del Norte, Central y el Caribe",1995,108456.0
+CYM,Islas Caimán,"América del Norte, Central y el Caribe",1996,110349.0
 CYM,Islas Caimán,"América del Norte, Central y el Caribe",1997,109104.5
 CYM,Islas Caimán,"América del Norte, Central y el Caribe",1998,134967.1
 CYM,Islas Caimán,"América del Norte, Central y el Caribe",1999,130727.7
 CYM,Islas Caimán,"América del Norte, Central y el Caribe",2000,124634.3
-CYM,Islas Caimán,"América del Norte, Central y el Caribe",2001,119257
+CYM,Islas Caimán,"América del Norte, Central y el Caribe",2001,119257.0
 CYM,Islas Caimán,"América del Norte, Central y el Caribe",2002,114673.1
 CYM,Islas Caimán,"América del Norte, Central y el Caribe",2003,111280.5
 CYM,Islas Caimán,"América del Norte, Central y el Caribe",2004,111891.4
@@ -2314,7 +2314,7 @@ CZE,Chequia,Europa,2016,67888.59
 CZE,Chequia,Europa,2017,70345.35
 CZE,Chequia,Europa,2018,71692.2
 CZE,Chequia,Europa,2019,72931.17
-DEU,Alemania,Europa,1950,16049
+DEU,Alemania,Europa,1950,16049.0
 DEU,Alemania,Europa,1951,17281.08
 DEU,Alemania,Europa,1952,18547.32
 DEU,Alemania,Europa,1953,19700.23
@@ -2327,7 +2327,7 @@ DEU,Alemania,Europa,1959,27201.57
 DEU,Alemania,Europa,1960,29178.85
 DEU,Alemania,Europa,1961,30330.41
 DEU,Alemania,Europa,1962,31691.21
-DEU,Alemania,Europa,1963,32513
+DEU,Alemania,Europa,1963,32513.0
 DEU,Alemania,Europa,1964,34481.25
 DEU,Alemania,Europa,1965,36358.12
 DEU,Alemania,Europa,1966,37300.71
@@ -2507,75 +2507,75 @@ DNK,Dinamarca,Europa,2016,100439.2
 DNK,Dinamarca,Europa,2017,101949.6
 DNK,Dinamarca,Europa,2018,102865.6
 DNK,Dinamarca,Europa,2019,104737.8
-DOM,República Dominicana,"América del Norte, Central y el Caribe",1951,9463.02
-DOM,República Dominicana,"América del Norte, Central y el Caribe",1952,9893.74
-DOM,República Dominicana,"América del Norte, Central y el Caribe",1953,9700.54
-DOM,República Dominicana,"América del Norte, Central y el Caribe",1954,10189.79
-DOM,República Dominicana,"América del Norte, Central y el Caribe",1955,10283.54
-DOM,República Dominicana,"América del Norte, Central y el Caribe",1956,10989.02
-DOM,República Dominicana,"América del Norte, Central y el Caribe",1957,11217.24
-DOM,República Dominicana,"América del Norte, Central y el Caribe",1958,11417.5
-DOM,República Dominicana,"América del Norte, Central y el Caribe",1959,11930.31
-DOM,República Dominicana,"América del Norte, Central y el Caribe",1960,12964.01
-DOM,República Dominicana,"América del Norte, Central y el Caribe",1961,12194.64
-DOM,República Dominicana,"América del Norte, Central y el Caribe",1962,13851.02
-DOM,República Dominicana,"América del Norte, Central y el Caribe",1963,14161.73
-DOM,República Dominicana,"América del Norte, Central y el Caribe",1964,14461.21
-DOM,República Dominicana,"América del Norte, Central y el Caribe",1965,12378.66
-DOM,República Dominicana,"América del Norte, Central y el Caribe",1966,13227.54
-DOM,República Dominicana,"América del Norte, Central y el Caribe",1967,13014.29
-DOM,República Dominicana,"América del Norte, Central y el Caribe",1968,12512.03
-DOM,República Dominicana,"América del Norte, Central y el Caribe",1969,13226.15
-DOM,República Dominicana,"América del Norte, Central y el Caribe",1970,14976.15
-DOM,República Dominicana,"América del Norte, Central y el Caribe",1971,16004.56
-DOM,República Dominicana,"América del Norte, Central y el Caribe",1972,17041.53
-DOM,República Dominicana,"América del Norte, Central y el Caribe",1973,18569.13
-DOM,República Dominicana,"América del Norte, Central y el Caribe",1974,19009.76
-DOM,República Dominicana,"América del Norte, Central y el Caribe",1975,19324.05
-DOM,República Dominicana,"América del Norte, Central y el Caribe",1976,19941.84
-DOM,República Dominicana,"América del Norte, Central y el Caribe",1977,20253.58
-DOM,República Dominicana,"América del Norte, Central y el Caribe",1978,20027.05
-DOM,República Dominicana,"América del Norte, Central y el Caribe",1979,20277.55
-DOM,República Dominicana,"América del Norte, Central y el Caribe",1980,21221.11
-DOM,República Dominicana,"América del Norte, Central y el Caribe",1981,21439.96
-DOM,República Dominicana,"América del Norte, Central y el Caribe",1982,21137.96
-DOM,República Dominicana,"América del Norte, Central y el Caribe",1983,21452.04
-DOM,República Dominicana,"América del Norte, Central y el Caribe",1984,21079.03
-DOM,República Dominicana,"América del Norte, Central y el Caribe",1985,20031.19
-DOM,República Dominicana,"América del Norte, Central y el Caribe",1986,20142.4
-DOM,República Dominicana,"América del Norte, Central y el Caribe",1987,21554.22
-DOM,República Dominicana,"América del Norte, Central y el Caribe",1988,21405.7
-DOM,República Dominicana,"América del Norte, Central y el Caribe",1989,21732.18
-DOM,República Dominicana,"América del Norte, Central y el Caribe",1990,20082.17
-DOM,República Dominicana,"América del Norte, Central y el Caribe",1991,19093
-DOM,República Dominicana,"América del Norte, Central y el Caribe",1992,19632.06
-DOM,República Dominicana,"América del Norte, Central y el Caribe",1993,21004.13
-DOM,República Dominicana,"América del Norte, Central y el Caribe",1994,21207.59
-DOM,República Dominicana,"América del Norte, Central y el Caribe",1995,22358.42
-DOM,República Dominicana,"América del Norte, Central y el Caribe",1996,23674.93
-DOM,República Dominicana,"América del Norte, Central y el Caribe",1997,24319.7
-DOM,República Dominicana,"América del Norte, Central y el Caribe",1998,23992.79
-DOM,República Dominicana,"América del Norte, Central y el Caribe",1999,24769.27
-DOM,República Dominicana,"América del Norte, Central y el Caribe",2000,25366.36
-DOM,República Dominicana,"América del Norte, Central y el Caribe",2001,26190.85
-DOM,República Dominicana,"América del Norte, Central y el Caribe",2002,26622.65
-DOM,República Dominicana,"América del Norte, Central y el Caribe",2003,26541.4
-DOM,República Dominicana,"América del Norte, Central y el Caribe",2004,26158.27
-DOM,República Dominicana,"América del Norte, Central y el Caribe",2005,27959.07
-DOM,República Dominicana,"América del Norte, Central y el Caribe",2006,29432.66
-DOM,República Dominicana,"América del Norte, Central y el Caribe",2007,30788.42
-DOM,República Dominicana,"América del Norte, Central y el Caribe",2008,30203.91
-DOM,República Dominicana,"América del Norte, Central y el Caribe",2009,30222.75
-DOM,República Dominicana,"América del Norte, Central y el Caribe",2010,31461.66
-DOM,República Dominicana,"América del Norte, Central y el Caribe",2011,31238.42
-DOM,República Dominicana,"América del Norte, Central y el Caribe",2012,31663.82
-DOM,República Dominicana,"América del Norte, Central y el Caribe",2013,32619.76
-DOM,República Dominicana,"América del Norte, Central y el Caribe",2014,33378.54
-DOM,República Dominicana,"América del Norte, Central y el Caribe",2015,34456.58
-DOM,República Dominicana,"América del Norte, Central y el Caribe",2016,35570.53
-DOM,República Dominicana,"América del Norte, Central y el Caribe",2017,36179.52
-DOM,República Dominicana,"América del Norte, Central y el Caribe",2018,37341.45
-DOM,República Dominicana,"América del Norte, Central y el Caribe",2019,38158.79
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",1951,9463.02
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",1952,9893.74
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",1953,9700.54
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",1954,10189.79
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",1955,10283.54
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",1956,10989.02
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",1957,11217.24
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",1958,11417.5
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",1959,11930.31
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",1960,12964.01
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",1961,12194.64
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",1962,13851.02
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",1963,14161.73
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",1964,14461.21
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",1965,12378.66
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",1966,13227.54
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",1967,13014.29
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",1968,12512.03
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",1969,13226.15
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",1970,14976.15
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",1971,16004.56
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",1972,17041.53
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",1973,18569.13
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",1974,19009.76
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",1975,19324.05
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",1976,19941.84
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",1977,20253.58
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",1978,20027.05
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",1979,20277.55
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",1980,21221.11
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",1981,21439.96
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",1982,21137.96
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",1983,21452.04
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",1984,21079.03
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",1985,20031.19
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",1986,20142.4
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",1987,21554.22
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",1988,21405.7
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",1989,21732.18
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",1990,20082.17
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",1991,19093.0
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",1992,19632.06
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",1993,21004.13
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",1994,21207.59
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",1995,22358.42
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",1996,23674.93
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",1997,24319.7
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",1998,23992.79
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",1999,24769.27
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",2000,25366.36
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",2001,26190.85
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",2002,26622.65
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",2003,26541.4
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",2004,26158.27
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",2005,27959.07
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",2006,29432.66
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",2007,30788.42
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",2008,30203.91
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",2009,30222.75
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",2010,31461.66
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",2011,31238.42
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",2012,31663.82
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",2013,32619.76
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",2014,33378.54
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",2015,34456.58
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",2016,35570.53
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",2017,36179.52
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",2018,37341.45
+DOM,Rep. Dominicana,"América del Norte, Central y el Caribe",2019,38158.79
 DZA,Argelia,África,1960,37460.06
 DZA,Argelia,África,1961,36743.88
 DZA,Argelia,África,1962,23601.89
@@ -2658,7 +2658,7 @@ ECU,Ecuador,América del Sur,1968,19244.18
 ECU,Ecuador,América del Sur,1969,19220.97
 ECU,Ecuador,América del Sur,1970,19971.61
 ECU,Ecuador,América del Sur,1971,20393.71
-ECU,Ecuador,América del Sur,1972,20576
+ECU,Ecuador,América del Sur,1972,20576.0
 ECU,Ecuador,América del Sur,1973,22528.71
 ECU,Ecuador,América del Sur,1974,24078.3
 ECU,Ecuador,América del Sur,1975,25686.58
@@ -2729,7 +2729,7 @@ EGY,Egipto,África,1969,10775.92
 EGY,Egipto,África,1970,12351.42
 EGY,Egipto,África,1971,12597.55
 EGY,Egipto,África,1972,12920.88
-EGY,Egipto,África,1973,12348
+EGY,Egipto,África,1973,12348.0
 EGY,Egipto,África,1974,12405.52
 EGY,Egipto,África,1975,12353.32
 EGY,Egipto,África,1976,13593.88
@@ -2795,7 +2795,7 @@ ESP,España,Europa,1965,31685.1
 ESP,España,Europa,1966,33832.8
 ESP,España,Europa,1967,34970.07
 ESP,España,Europa,1968,36891.59
-ESP,España,Europa,1969,40016
+ESP,España,Europa,1969,40016.0
 ESP,España,Europa,1970,41156.38
 ESP,España,Europa,1971,42672.65
 ESP,España,Europa,1972,45562.1
@@ -2859,10 +2859,10 @@ EST,Estonia,Europa,1999,34888.98
 EST,Estonia,Europa,2000,37936.88
 EST,Estonia,Europa,2001,39936.81
 EST,Estonia,Europa,2002,42667.21
-EST,Estonia,Europa,2003,44972
+EST,Estonia,Europa,2003,44972.0
 EST,Estonia,Europa,2004,48248.98
 EST,Estonia,Europa,2005,51659.77
-EST,Estonia,Europa,2006,53974
+EST,Estonia,Europa,2006,53974.0
 EST,Estonia,Europa,2007,57907.16
 EST,Estonia,Europa,2008,55097.17
 EST,Estonia,Europa,2009,52553.33
@@ -2875,12 +2875,12 @@ EST,Estonia,Europa,2015,58913.62
 EST,Estonia,Europa,2016,60579.56
 EST,Estonia,Europa,2017,62176.58
 EST,Estonia,Europa,2018,64137.29
-EST,Estonia,Europa,2019,66553
+EST,Estonia,Europa,2019,66553.0
 ETH,Etiopía,África,1950,1177.77
 ETH,Etiopía,África,1951,1327.54
 ETH,Etiopía,África,1952,1352.8
 ETH,Etiopía,África,1953,1459.87
-ETH,Etiopía,África,1954,1470
+ETH,Etiopía,África,1954,1470.0
 ETH,Etiopía,África,1955,1523.33
 ETH,Etiopía,África,1956,1530.58
 ETH,Etiopía,África,1957,1509.54
@@ -3068,7 +3068,7 @@ FRA,Francia,Europa,1958,26337.01
 FRA,Francia,Europa,1959,27191.18
 FRA,Francia,Europa,1960,29354.59
 FRA,Francia,Europa,1961,30866.13
-FRA,Francia,Europa,1962,32945
+FRA,Francia,Europa,1962,32945.0
 FRA,Francia,Europa,1963,34818.43
 FRA,Francia,Europa,1964,36701.72
 FRA,Francia,Europa,1965,38368.52
@@ -3087,7 +3087,7 @@ FRA,Francia,Europa,1977,60679.98
 FRA,Francia,Europa,1978,62719.58
 FRA,Francia,Europa,1979,64521.7
 FRA,Francia,Europa,1980,65277.65
-FRA,Francia,Europa,1981,66067
+FRA,Francia,Europa,1981,66067.0
 FRA,Francia,Europa,1982,67557.6
 FRA,Francia,Europa,1983,68382.48
 FRA,Francia,Europa,1984,69779.42
@@ -3124,7 +3124,7 @@ FRA,Francia,Europa,2014,100489.3
 FRA,Francia,Europa,2015,101337.3
 FRA,Francia,Europa,2016,101708.2
 FRA,Francia,Europa,2017,102928.5
-FRA,Francia,Europa,2018,103657
+FRA,Francia,Europa,2018,103657.0
 FRA,Francia,Europa,2019,103928.2
 GAB,Gabón,África,1960,16271.2
 GAB,Gabón,África,1961,17919.1
@@ -3282,7 +3282,7 @@ GEO,Georgia,Asia,2012,35130.79
 GEO,Georgia,Asia,2013,36834.84
 GEO,Georgia,Asia,2014,37388.92
 GEO,Georgia,Asia,2015,37700.43
-GEO,Georgia,Asia,2016,39240
+GEO,Georgia,Asia,2016,39240.0
 GEO,Georgia,Asia,2017,41436.57
 GEO,Georgia,Asia,2018,43837.61
 GEO,Georgia,Asia,2019,46286.63
@@ -3364,7 +3364,7 @@ GIN,Guinea,África,1989,3968.79
 GIN,Guinea,África,1990,4024.08
 GIN,Guinea,África,1991,4023.78
 GIN,Guinea,África,1992,4058.2
-GIN,Guinea,África,1993,4168
+GIN,Guinea,África,1993,4168.0
 GIN,Guinea,África,1994,4233.55
 GIN,Guinea,África,1995,4327.24
 GIN,Guinea,África,1996,4450.01
@@ -3466,7 +3466,7 @@ GNB,Guinea-Bissau,África,2011,4596.89
 GNB,Guinea-Bissau,África,2012,4386.64
 GNB,Guinea-Bissau,África,2013,4399.04
 GNB,Guinea-Bissau,África,2014,4310.18
-GNB,Guinea-Bissau,África,2015,4444
+GNB,Guinea-Bissau,África,2015,4444.0
 GNB,Guinea-Bissau,África,2016,4592.4
 GNB,Guinea-Bissau,África,2017,4729.36
 GNB,Guinea-Bissau,África,2018,4752.06
@@ -3498,9 +3498,9 @@ GNQ,Guinea Ecuatorial,África,2003,90965.11
 GNQ,Guinea Ecuatorial,África,2004,106883.1
 GNQ,Guinea Ecuatorial,África,2005,110025.1
 GNQ,Guinea Ecuatorial,África,2006,110104.6
-GNQ,Guinea Ecuatorial,África,2007,120254
+GNQ,Guinea Ecuatorial,África,2007,120254.0
 GNQ,Guinea Ecuatorial,África,2008,133972.3
-GNQ,Guinea Ecuatorial,África,2009,128700
+GNQ,Guinea Ecuatorial,África,2009,128700.0
 GNQ,Guinea Ecuatorial,África,2010,110819.5
 GNQ,Guinea Ecuatorial,África,2011,112845.2
 GNQ,Guinea Ecuatorial,África,2012,116652.1
@@ -3623,7 +3623,7 @@ GTM,Guatemala,"América del Norte, Central y el Caribe",1957,9941.97
 GTM,Guatemala,"América del Norte, Central y el Caribe",1958,10213.8
 GTM,Guatemala,"América del Norte, Central y el Caribe",1959,10519.4
 GTM,Guatemala,"América del Norte, Central y el Caribe",1960,10575.94
-GTM,Guatemala,"América del Norte, Central y el Caribe",1961,10788
+GTM,Guatemala,"América del Norte, Central y el Caribe",1961,10788.0
 GTM,Guatemala,"América del Norte, Central y el Caribe",1962,10923.41
 GTM,Guatemala,"América del Norte, Central y el Caribe",1963,11701.21
 GTM,Guatemala,"América del Norte, Central y el Caribe",1964,11974.73
@@ -3703,7 +3703,7 @@ GUY,Guyana,América del Sur,1997,14738.98
 GUY,Guyana,América del Sur,1998,14553.26
 GUY,Guyana,América del Sur,1999,15052.56
 GUY,Guyana,América del Sur,2000,14889.39
-GUY,Guyana,América del Sur,2001,16536
+GUY,Guyana,América del Sur,2001,16536.0
 GUY,Guyana,América del Sur,2002,18122.86
 GUY,Guyana,América del Sur,2003,19437.72
 GUY,Guyana,América del Sur,2004,21746.4
@@ -3854,14 +3854,14 @@ HRV,Croacia,Europa,2008,57660.29
 HRV,Croacia,Europa,2009,53904.05
 HRV,Croacia,Europa,2010,55215.64
 HRV,Croacia,Europa,2011,57269.39
-HRV,Croacia,Europa,2012,58129
+HRV,Croacia,Europa,2012,58129.0
 HRV,Croacia,Europa,2013,59438.38
 HRV,Croacia,Europa,2014,57866.36
 HRV,Croacia,Europa,2015,58471.12
 HRV,Croacia,Europa,2016,60168.47
 HRV,Croacia,Europa,2017,60470.89
 HRV,Croacia,Europa,2018,60791.41
-HRV,Croacia,Europa,2019,61692
+HRV,Croacia,Europa,2019,61692.0
 HTI,Haití,"América del Norte, Central y el Caribe",1969,5091.45
 HTI,Haití,"América del Norte, Central y el Caribe",1970,5093.34
 HTI,Haití,"América del Norte, Central y el Caribe",1971,5390.99
@@ -4036,7 +4036,7 @@ IND,India,Asia,1959,2351.69
 IND,India,Asia,1960,2495.21
 IND,India,Asia,1961,2565.53
 IND,India,Asia,1962,2629.85
-IND,India,Asia,1963,2779
+IND,India,Asia,1963,2779.0
 IND,India,Asia,1964,2959.59
 IND,India,Asia,1965,2870.55
 IND,India,Asia,1966,2834.09
@@ -4084,7 +4084,7 @@ IND,India,Asia,2007,9425.71
 IND,India,Asia,2008,9679.04
 IND,India,Asia,2009,10376.5
 IND,India,Asia,2010,11167.21
-IND,India,Asia,2011,11633
+IND,India,Asia,2011,11633.0
 IND,India,Asia,2012,12329.98
 IND,India,Asia,2013,12737.21
 IND,India,Asia,2014,13702.87
@@ -4143,20 +4143,20 @@ IRL,Irlanda,Europa,1996,100850.3
 IRL,Irlanda,Europa,1997,107895.8
 IRL,Irlanda,Europa,1998,110110.4
 IRL,Irlanda,Europa,1999,114226.9
-IRL,Irlanda,Europa,2000,119569
+IRL,Irlanda,Europa,2000,119569.0
 IRL,Irlanda,Europa,2001,122167.5
-IRL,Irlanda,Europa,2002,127357
+IRL,Irlanda,Europa,2002,127357.0
 IRL,Irlanda,Europa,2003,128532.6
 IRL,Irlanda,Europa,2004,132595.7
 IRL,Irlanda,Europa,2005,133841.3
-IRL,Irlanda,Europa,2006,135086
+IRL,Irlanda,Europa,2006,135086.0
 IRL,Irlanda,Europa,2007,137242.7
 IRL,Irlanda,Europa,2008,131917.7
 IRL,Irlanda,Europa,2009,134860.6
 IRL,Irlanda,Europa,2010,141965.5
 IRL,Irlanda,Europa,2011,145430.2
 IRL,Irlanda,Europa,2012,146492.9
-IRL,Irlanda,Europa,2013,144577
+IRL,Irlanda,Europa,2013,144577.0
 IRL,Irlanda,Europa,2014,153681.3
 IRL,Irlanda,Europa,2015,186387.8
 IRL,Irlanda,Europa,2016,183660.6
@@ -4189,7 +4189,7 @@ IRN,Irán,Asia,1977,69300.96
 IRN,Irán,Asia,1978,58036.5
 IRN,Irán,Asia,1979,50172.48
 IRN,Irán,Asia,1980,38701.06
-IRN,Irán,Asia,1981,34833
+IRN,Irán,Asia,1981,34833.0
 IRN,Irán,Asia,1982,41421.48
 IRN,Irán,Asia,1983,44986.62
 IRN,Irán,Asia,1984,41217.22
@@ -4220,7 +4220,7 @@ IRN,Irán,Asia,2008,44161.93
 IRN,Irán,Asia,2009,44124.82
 IRN,Irán,Asia,2010,47578.43
 IRN,Irán,Asia,2011,47995.74
-IRN,Irán,Asia,2012,44312
+IRN,Irán,Asia,2012,44312.0
 IRN,Irán,Asia,2013,42984.57
 IRN,Irán,Asia,2014,44918.36
 IRN,Irán,Asia,2015,42913.76
@@ -4322,7 +4322,7 @@ ISL,Islandia,Europa,1990,55397.55
 ISL,Islandia,Europa,1991,55389.69
 ISL,Islandia,Europa,1992,53671.25
 ISL,Islandia,Europa,1993,54527.61
-ISL,Islandia,Europa,1994,56003
+ISL,Islandia,Europa,1994,56003.0
 ISL,Islandia,Europa,1995,54233.59
 ISL,Islandia,Europa,1996,56409.28
 ISL,Islandia,Europa,1997,59584.92
@@ -4337,7 +4337,7 @@ ISL,Islandia,Europa,2005,76236.9
 ISL,Islandia,Europa,2006,76888.22
 ISL,Islandia,Europa,2007,81067.2
 ISL,Islandia,Europa,2008,82048.68
-ISL,Islandia,Europa,2009,82107
+ISL,Islandia,Europa,2009,82107.0
 ISL,Islandia,Europa,2010,79122.7
 ISL,Islandia,Europa,2011,79198.07
 ISL,Islandia,Europa,2012,78636.14
@@ -4380,7 +4380,7 @@ ISR,Israel,Asia,1978,45908.5
 ISR,Israel,Asia,1979,47753.93
 ISR,Israel,Asia,1980,48188.56
 ISR,Israel,Asia,1981,49644.59
-ISR,Israel,Asia,1982,49835
+ISR,Israel,Asia,1982,49835.0
 ISR,Israel,Asia,1983,49960.85
 ISR,Israel,Asia,1984,49745.25
 ISR,Israel,Asia,1985,52198.26
@@ -4466,8 +4466,8 @@ ITA,Italia,Europa,1994,94346.26
 ITA,Italia,Europa,1995,97276.91
 ITA,Italia,Europa,1996,98124.41
 ITA,Italia,Europa,1997,99934.29
-ITA,Italia,Europa,1998,101031
-ITA,Italia,Europa,1999,101738
+ITA,Italia,Europa,1998,101031.0
+ITA,Italia,Europa,1999,101738.0
 ITA,Italia,Europa,2000,103538.2
 ITA,Italia,Europa,2001,103249.8
 ITA,Italia,Europa,2002,101405.8
@@ -4568,7 +4568,7 @@ JOR,Jordania,Asia,1963,40836.08
 JOR,Jordania,Asia,1964,45057.07
 JOR,Jordania,Asia,1965,48223.21
 JOR,Jordania,Asia,1966,47672.19
-JOR,Jordania,Asia,1967,47344
+JOR,Jordania,Asia,1967,47344.0
 JOR,Jordania,Asia,1968,42873.21
 JOR,Jordania,Asia,1969,44286.05
 JOR,Jordania,Asia,1970,37513.63
@@ -4691,36 +4691,36 @@ JPN,Japón,Asia,2016,73079.95
 JPN,Japón,Asia,2017,73972.87
 JPN,Japón,Asia,2018,73022.95
 JPN,Japón,Asia,2019,72870.75
-KAZ,Kazajistán,Asia,1990,30652.45
-KAZ,Kazajistán,Asia,1991,27771.11
-KAZ,Kazajistán,Asia,1992,27003.87
-KAZ,Kazajistán,Asia,1993,26128.65
-KAZ,Kazajistán,Asia,1994,24636.31
-KAZ,Kazajistán,Asia,1995,22479.48
-KAZ,Kazajistán,Asia,1996,22808.74
-KAZ,Kazajistán,Asia,1997,23463.34
-KAZ,Kazajistán,Asia,1998,23717.38
-KAZ,Kazajistán,Asia,1999,24549.97
-KAZ,Kazajistán,Asia,2000,26640.68
-KAZ,Kazajistán,Asia,2001,28101.58
-KAZ,Kazajistán,Asia,2002,30800.87
-KAZ,Kazajistán,Asia,2003,32233.03
-KAZ,Kazajistán,Asia,2004,34252.55
-KAZ,Kazajistán,Asia,2005,37100.88
-KAZ,Kazajistán,Asia,2006,40296.88
-KAZ,Kazajistán,Asia,2007,42619.19
-KAZ,Kazajistán,Asia,2008,42816.03
-KAZ,Kazajistán,Asia,2009,43138.43
-KAZ,Kazajistán,Asia,2010,45087.98
-KAZ,Kazajistán,Asia,2011,47243.54
-KAZ,Kazajistán,Asia,2012,48163.55
-KAZ,Kazajistán,Asia,2013,50466.34
-KAZ,Kazajistán,Asia,2014,52739.19
-KAZ,Kazajistán,Asia,2015,52460.95
-KAZ,Kazajistán,Asia,2016,53291.73
-KAZ,Kazajistán,Asia,2017,55091.27
-KAZ,Kazajistán,Asia,2018,56449.62
-KAZ,Kazajistán,Asia,2019,58137.11
+KAZ,Kazajstán,Asia,1990,30652.45
+KAZ,Kazajstán,Asia,1991,27771.11
+KAZ,Kazajstán,Asia,1992,27003.87
+KAZ,Kazajstán,Asia,1993,26128.65
+KAZ,Kazajstán,Asia,1994,24636.31
+KAZ,Kazajstán,Asia,1995,22479.48
+KAZ,Kazajstán,Asia,1996,22808.74
+KAZ,Kazajstán,Asia,1997,23463.34
+KAZ,Kazajstán,Asia,1998,23717.38
+KAZ,Kazajstán,Asia,1999,24549.97
+KAZ,Kazajstán,Asia,2000,26640.68
+KAZ,Kazajstán,Asia,2001,28101.58
+KAZ,Kazajstán,Asia,2002,30800.87
+KAZ,Kazajstán,Asia,2003,32233.03
+KAZ,Kazajstán,Asia,2004,34252.55
+KAZ,Kazajstán,Asia,2005,37100.88
+KAZ,Kazajstán,Asia,2006,40296.88
+KAZ,Kazajstán,Asia,2007,42619.19
+KAZ,Kazajstán,Asia,2008,42816.03
+KAZ,Kazajstán,Asia,2009,43138.43
+KAZ,Kazajstán,Asia,2010,45087.98
+KAZ,Kazajstán,Asia,2011,47243.54
+KAZ,Kazajstán,Asia,2012,48163.55
+KAZ,Kazajstán,Asia,2013,50466.34
+KAZ,Kazajstán,Asia,2014,52739.19
+KAZ,Kazajstán,Asia,2015,52460.95
+KAZ,Kazajstán,Asia,2016,53291.73
+KAZ,Kazajstán,Asia,2017,55091.27
+KAZ,Kazajstán,Asia,2018,56449.62
+KAZ,Kazajstán,Asia,2019,58137.11
 KEN,Kenia,África,1950,5045.17
 KEN,Kenia,África,1951,5824.42
 KEN,Kenia,África,1952,5395.81
@@ -4773,7 +4773,7 @@ KEN,Kenia,África,1998,6875.57
 KEN,Kenia,África,1999,6757.14
 KEN,Kenia,África,2000,6578.06
 KEN,Kenia,África,2001,6684.39
-KEN,Kenia,África,2002,6544
+KEN,Kenia,África,2002,6544.0
 KEN,Kenia,África,2003,6572.4
 KEN,Kenia,África,2004,6645.42
 KEN,Kenia,África,2005,6849.3
@@ -4923,7 +4923,7 @@ KOR,Corea del Sur,Asia,1972,9712.04
 KOR,Corea del Sur,Asia,1973,10560.15
 KOR,Corea del Sur,Asia,1974,11077.58
 KOR,Corea del Sur,Asia,1975,11667.77
-KOR,Corea del Sur,Asia,1976,12449
+KOR,Corea del Sur,Asia,1976,12449.0
 KOR,Corea del Sur,Asia,1977,13564.42
 KOR,Corea del Sur,Asia,1978,14402.82
 KOR,Corea del Sur,Asia,1979,15431.24
@@ -4972,16 +4972,16 @@ KWT,Kuwait,Asia,1971,487576.5
 KWT,Kuwait,Asia,1972,480733.7
 KWT,Kuwait,Asia,1973,427682.8
 KWT,Kuwait,Asia,1974,354694.1
-KWT,Kuwait,Asia,1975,296488
+KWT,Kuwait,Asia,1975,296488.0
 KWT,Kuwait,Asia,1976,287126.5
 KWT,Kuwait,Asia,1977,250891.1
 KWT,Kuwait,Asia,1978,245062.3
-KWT,Kuwait,Asia,1979,254505
+KWT,Kuwait,Asia,1979,254505.0
 KWT,Kuwait,Asia,1980,187512.8
-KWT,Kuwait,Asia,1981,141969
-KWT,Kuwait,Asia,1982,117465
+KWT,Kuwait,Asia,1981,141969.0
+KWT,Kuwait,Asia,1982,117465.0
 KWT,Kuwait,Asia,1983,119040.6
-KWT,Kuwait,Asia,1984,117433
+KWT,Kuwait,Asia,1984,117433.0
 KWT,Kuwait,Asia,1985,105118.2
 KWT,Kuwait,Asia,1986,105985.4
 KWT,Kuwait,Asia,1987,106217.8
@@ -4991,7 +4991,7 @@ KWT,Kuwait,Asia,1990,77423.05
 KWT,Kuwait,Asia,1991,46200.37
 KWT,Kuwait,Asia,1992,87968.91
 KWT,Kuwait,Asia,1993,124481.9
-KWT,Kuwait,Asia,1994,141658
+KWT,Kuwait,Asia,1994,141658.0
 KWT,Kuwait,Asia,1995,145505.4
 KWT,Kuwait,Asia,1996,137776.8
 KWT,Kuwait,Asia,1997,130810.5
@@ -5002,7 +5002,7 @@ KWT,Kuwait,Asia,2001,139391.8
 KWT,Kuwait,Asia,2002,134636.7
 KWT,Kuwait,Asia,2003,150511.3
 KWT,Kuwait,Asia,2004,155501.9
-KWT,Kuwait,Asia,2005,157974
+KWT,Kuwait,Asia,2005,157974.0
 KWT,Kuwait,Asia,2006,152210.3
 KWT,Kuwait,Asia,2007,143037.7
 KWT,Kuwait,Asia,2008,139608.8
@@ -5060,7 +5060,7 @@ LAO,Laos,Asia,2019,15523.8
 LBN,Líbano,Asia,1970,102605.4
 LBN,Líbano,Asia,1971,108907.8
 LBN,Líbano,Asia,1972,118413.4
-LBN,Líbano,Asia,1973,120278
+LBN,Líbano,Asia,1973,120278.0
 LBN,Líbano,Asia,1974,119994.7
 LBN,Líbano,Asia,1975,82018.8
 LBN,Líbano,Asia,1976,34845.43
@@ -5186,7 +5186,7 @@ LCA,Santa Lucía,"América del Norte, Central y el Caribe",2005,25838.95
 LCA,Santa Lucía,"América del Norte, Central y el Caribe",2006,27167.59
 LCA,Santa Lucía,"América del Norte, Central y el Caribe",2007,26366.88
 LCA,Santa Lucía,"América del Norte, Central y el Caribe",2008,28505.69
-LCA,Santa Lucía,"América del Norte, Central y el Caribe",2009,28063
+LCA,Santa Lucía,"América del Norte, Central y el Caribe",2009,28063.0
 LCA,Santa Lucía,"América del Norte, Central y el Caribe",2010,27698.46
 LCA,Santa Lucía,"América del Norte, Central y el Caribe",2011,28462.83
 LCA,Santa Lucía,"América del Norte, Central y el Caribe",2012,26959.26
@@ -5377,7 +5377,7 @@ LUX,Luxemburgo,Europa,1986,96016.83
 LUX,Luxemburgo,Europa,1987,97218.06
 LUX,Luxemburgo,Europa,1988,102615.3
 LUX,Luxemburgo,Europa,1989,108463.1
-LUX,Luxemburgo,Europa,1990,109980
+LUX,Luxemburgo,Europa,1990,109980.0
 LUX,Luxemburgo,Europa,1991,115080.2
 LUX,Luxemburgo,Europa,1992,114062.5
 LUX,Luxemburgo,Europa,1993,116725.4
@@ -5393,20 +5393,20 @@ LUX,Luxemburgo,Europa,2002,125224.6
 LUX,Luxemburgo,Europa,2003,125469.8
 LUX,Luxemburgo,Europa,2004,127546.1
 LUX,Luxemburgo,Europa,2005,128306.5
-LUX,Luxemburgo,Europa,2006,129857
+LUX,Luxemburgo,Europa,2006,129857.0
 LUX,Luxemburgo,Europa,2007,134186.6
 LUX,Luxemburgo,Europa,2008,125937.1
 LUX,Luxemburgo,Europa,2009,118707.7
-LUX,Luxemburgo,Europa,2010,121720
+LUX,Luxemburgo,Europa,2010,121720.0
 LUX,Luxemburgo,Europa,2011,121235.8
 LUX,Luxemburgo,Europa,2012,118185.5
 LUX,Luxemburgo,Europa,2013,120462.5
-LUX,Luxemburgo,Europa,2014,122721
+LUX,Luxemburgo,Europa,2014,122721.0
 LUX,Luxemburgo,Europa,2015,125024.2
 LUX,Luxemburgo,Europa,2016,127185.7
 LUX,Luxemburgo,Europa,2017,125221.2
 LUX,Luxemburgo,Europa,2018,124326.8
-LUX,Luxemburgo,Europa,2019,122788
+LUX,Luxemburgo,Europa,2019,122788.0
 LVA,Letonia,Europa,1990,36168.16
 LVA,Letonia,Europa,1991,32713.79
 LVA,Letonia,Europa,1992,22936.84
@@ -5474,7 +5474,7 @@ MAC,Macao,Asia,2013,191998.5
 MAC,Macao,Asia,2014,176352.6
 MAC,Macao,Asia,2015,135307.3
 MAC,Macao,Asia,2016,136748.2
-MAC,Macao,Asia,2017,154146
+MAC,Macao,Asia,2017,154146.0
 MAC,Macao,Asia,2018,160174.3
 MAC,Macao,Asia,2019,151723.3
 MAR,Marruecos,África,1950,6371.72
@@ -5485,7 +5485,7 @@ MAR,Marruecos,África,1954,6570.68
 MAR,Marruecos,África,1955,5990.05
 MAR,Marruecos,África,1956,5960.78
 MAR,Marruecos,África,1957,5596.64
-MAR,Marruecos,África,1958,6090
+MAR,Marruecos,África,1958,6090.0
 MAR,Marruecos,África,1959,6099.64
 MAR,Marruecos,África,1960,6085.59
 MAR,Marruecos,África,1961,8154.7
@@ -5544,7 +5544,7 @@ MAR,Marruecos,África,2013,20336.96
 MAR,Marruecos,África,2014,20974.04
 MAR,Marruecos,África,2015,22051.76
 MAR,Marruecos,África,2016,22946.73
-MAR,Marruecos,África,2017,24134
+MAR,Marruecos,África,2017,24134.0
 MAR,Marruecos,África,2018,24654.92
 MAR,Marruecos,África,2019,25210.27
 MDA,Moldavia,Europa,1990,23832.07
@@ -5607,7 +5607,7 @@ MDG,Madagascar,África,1986,4221.92
 MDG,Madagascar,África,1987,4169.17
 MDG,Madagascar,África,1988,4207.47
 MDG,Madagascar,África,1989,4272.82
-MDG,Madagascar,África,1990,4298
+MDG,Madagascar,África,1990,4298.0
 MDG,Madagascar,África,1991,3913.44
 MDG,Madagascar,África,1992,3845.76
 MDG,Madagascar,África,1993,3811.67
@@ -5641,7 +5641,7 @@ MDV,Maldivas,Asia,1980,17050.23
 MDV,Maldivas,Asia,1981,18522.77
 MDV,Maldivas,Asia,1982,17421.2
 MDV,Maldivas,Asia,1983,19562.67
-MDV,Maldivas,Asia,1984,24045
+MDV,Maldivas,Asia,1984,24045.0
 MDV,Maldivas,Asia,1985,26264.7
 MDV,Maldivas,Asia,1986,27784.82
 MDV,Maldivas,Asia,1987,29312.1
@@ -5665,7 +5665,7 @@ MDV,Maldivas,Asia,2004,50274.87
 MDV,Maldivas,Asia,2005,42279.7
 MDV,Maldivas,Asia,2006,51727.25
 MDV,Maldivas,Asia,2007,54118.51
-MDV,Maldivas,Asia,2008,57483
+MDV,Maldivas,Asia,2008,57483.0
 MDV,Maldivas,Asia,2009,51523.95
 MDV,Maldivas,Asia,2010,53092.86
 MDV,Maldivas,Asia,2011,55085.02
@@ -5746,7 +5746,7 @@ MEX,México,"América del Norte, Central y el Caribe",2015,44432.75
 MEX,México,"América del Norte, Central y el Caribe",2016,44854.42
 MEX,México,"América del Norte, Central y el Caribe",2017,45151.63
 MEX,México,"América del Norte, Central y el Caribe",2018,44931.04
-MEX,México,"América del Norte, Central y el Caribe",2019,43758
+MEX,México,"América del Norte, Central y el Caribe",2019,43758.0
 MKD,Macedonia del Norte,Europa,1990,21304.99
 MKD,Macedonia del Norte,Europa,1991,21368.01
 MKD,Macedonia del Norte,Europa,1992,20859.1
@@ -5893,7 +5893,7 @@ MLT,Malta,Europa,2006,62204.61
 MLT,Malta,Europa,2007,63250.5
 MLT,Malta,Europa,2008,63905.93
 MLT,Malta,Europa,2009,62466.21
-MLT,Malta,Europa,2010,63474
+MLT,Malta,Europa,2010,63474.0
 MLT,Malta,Europa,2011,62268.91
 MLT,Malta,Europa,2012,62240.92
 MLT,Malta,Europa,2013,63107.32
@@ -5958,7 +5958,7 @@ MMR,Myanmar,Asia,2013,9313.86
 MMR,Myanmar,Asia,2014,9897.05
 MMR,Myanmar,Asia,2015,10412.73
 MMR,Myanmar,Asia,2016,10946.4
-MMR,Myanmar,Asia,2017,11588
+MMR,Myanmar,Asia,2017,11588.0
 MMR,Myanmar,Asia,2018,12001.36
 MMR,Myanmar,Asia,2019,12630.83
 MNE,Montenegro,Europa,1990,57031.04
@@ -5989,7 +5989,7 @@ MNE,Montenegro,Europa,2014,50595.03
 MNE,Montenegro,Europa,2015,51036.25
 MNE,Montenegro,Europa,2016,51955.57
 MNE,Montenegro,Europa,2017,53195.96
-MNE,Montenegro,Europa,2018,53990
+MNE,Montenegro,Europa,2018,53990.0
 MNE,Montenegro,Europa,2019,54708.71
 MNG,Mongolia,Asia,1980,10738.62
 MNG,Mongolia,Asia,1981,11355.88
@@ -6213,7 +6213,7 @@ MUS,Mauricio,África,1980,17761.98
 MUS,Mauricio,África,1981,18408.78
 MUS,Mauricio,África,1982,19018.22
 MUS,Mauricio,África,1983,18751.16
-MUS,Mauricio,África,1984,20129
+MUS,Mauricio,África,1984,20129.0
 MUS,Mauricio,África,1985,20901.77
 MUS,Mauricio,África,1986,21183.13
 MUS,Mauricio,África,1987,22576.93
@@ -6331,7 +6331,7 @@ MYS,Malasia,Asia,1967,9744.14
 MYS,Malasia,Asia,1968,10203.09
 MYS,Malasia,Asia,1969,10467.74
 MYS,Malasia,Asia,1970,10829.5
-MYS,Malasia,Asia,1971,12888
+MYS,Malasia,Asia,1971,12888.0
 MYS,Malasia,Asia,1972,13687.91
 MYS,Malasia,Asia,1973,14852.44
 MYS,Malasia,Asia,1974,15605.69
@@ -6419,7 +6419,7 @@ NAM,Namibia,África,1995,25741.01
 NAM,Namibia,África,1996,26497.13
 NAM,Namibia,África,1997,27345.58
 NAM,Namibia,África,1998,28085.14
-NAM,Namibia,África,1999,28741
+NAM,Namibia,África,1999,28741.0
 NAM,Namibia,África,2000,29289.63
 NAM,Namibia,África,2001,27626.84
 NAM,Namibia,África,2002,28319.24
@@ -6458,7 +6458,7 @@ NER,Níger,África,1974,3332.61
 NER,Níger,África,1975,3157.69
 NER,Níger,África,1976,3097.72
 NER,Níger,África,1977,3251.88
-NER,Níger,África,1978,3594
+NER,Níger,África,1978,3594.0
 NER,Níger,África,1979,3750.8
 NER,Níger,África,1980,3572.25
 NER,Níger,África,1981,3501.26
@@ -6499,7 +6499,7 @@ NER,Níger,África,2015,2896.24
 NER,Níger,África,2016,2947.94
 NER,Níger,África,2017,2975.13
 NER,Níger,África,2018,3056.77
-NER,Níger,África,2019,3112
+NER,Níger,África,2019,3112.0
 NGA,Nigeria,África,1950,6301.16
 NGA,Nigeria,África,1951,6552.9
 NGA,Nigeria,África,1952,6851.52
@@ -6722,21 +6722,21 @@ NOR,Noruega,Europa,1988,88626.55
 NOR,Noruega,Europa,1989,92117.87
 NOR,Noruega,Europa,1990,94601.06
 NOR,Noruega,Europa,1991,98432.45
-NOR,Noruega,Europa,1992,102187
-NOR,Noruega,Europa,1993,104362
+NOR,Noruega,Europa,1992,102187.0
+NOR,Noruega,Europa,1993,104362.0
 NOR,Noruega,Europa,1994,108155.5
 NOR,Noruega,Europa,1995,110294.7
 NOR,Noruega,Europa,1996,113433.4
 NOR,Noruega,Europa,1997,115964.7
 NOR,Noruega,Europa,1998,115913.7
 NOR,Noruega,Europa,1999,117275.9
-NOR,Noruega,Europa,2000,120405
+NOR,Noruega,Europa,2000,120405.0
 NOR,Noruega,Europa,2001,122087.9
 NOR,Noruega,Europa,2002,124536.8
 NOR,Noruega,Europa,2003,127666.8
 NOR,Noruega,Europa,2004,132357.8
 NOR,Noruega,Europa,2005,134347.3
-NOR,Noruega,Europa,2006,133225
+NOR,Noruega,Europa,2006,133225.0
 NOR,Noruega,Europa,2007,132140.3
 NOR,Noruega,Europa,2008,128883.2
 NOR,Noruega,Europa,2009,127227.8
@@ -6746,7 +6746,7 @@ NOR,Noruega,Europa,2012,128818.3
 NOR,Noruega,Europa,2013,128614.1
 NOR,Noruega,Europa,2014,129652.8
 NOR,Noruega,Europa,2015,131412.9
-NOR,Noruega,Europa,2016,132301
+NOR,Noruega,Europa,2016,132301.0
 NOR,Noruega,Europa,2017,133727.1
 NOR,Noruega,Europa,2018,133104.7
 NOR,Noruega,Europa,2019,132361.6
@@ -6806,7 +6806,7 @@ NZL,Nueva Zelanda,Oceanía,1962,41836.98
 NZL,Nueva Zelanda,Oceanía,1963,43838.12
 NZL,Nueva Zelanda,Oceanía,1964,44862.71
 NZL,Nueva Zelanda,Oceanía,1965,46548.32
-NZL,Nueva Zelanda,Oceanía,1966,47729
+NZL,Nueva Zelanda,Oceanía,1966,47729.0
 NZL,Nueva Zelanda,Oceanía,1967,43882.07
 NZL,Nueva Zelanda,Oceanía,1968,43689.39
 NZL,Nueva Zelanda,Oceanía,1969,47792.27
@@ -6848,7 +6848,7 @@ NZL,Nueva Zelanda,Oceanía,2004,65776.94
 NZL,Nueva Zelanda,Oceanía,2005,65885.55
 NZL,Nueva Zelanda,Oceanía,2006,65974.62
 NZL,Nueva Zelanda,Oceanía,2007,67115.08
-NZL,Nueva Zelanda,Oceanía,2008,65407
+NZL,Nueva Zelanda,Oceanía,2008,65407.0
 NZL,Nueva Zelanda,Oceanía,2009,67954.47
 NZL,Nueva Zelanda,Oceanía,2010,68193.12
 NZL,Nueva Zelanda,Oceanía,2011,68599.32
@@ -6869,9 +6869,9 @@ OMN,Omán,Asia,1975,97644.93
 OMN,Omán,Asia,1976,106896.8
 OMN,Omán,Asia,1977,111241.5
 OMN,Omán,Asia,1978,121970.8
-OMN,Omán,Asia,1979,113884
+OMN,Omán,Asia,1979,113884.0
 OMN,Omán,Asia,1980,104310.3
-OMN,Omán,Asia,1981,102803
+OMN,Omán,Asia,1981,102803.0
 OMN,Omán,Asia,1982,103158.7
 OMN,Omán,Asia,1983,92423.13
 OMN,Omán,Asia,1984,92139.08
@@ -7160,7 +7160,7 @@ PHL,Filipinas,Asia,2005,13440.61
 PHL,Filipinas,Asia,2006,13802.33
 PHL,Filipinas,Asia,2007,14203.83
 PHL,Filipinas,Asia,2008,14652.42
-PHL,Filipinas,Asia,2009,14395
+PHL,Filipinas,Asia,2009,14395.0
 PHL,Filipinas,Asia,2010,15043.54
 PHL,Filipinas,Asia,2011,15201.78
 PHL,Filipinas,Asia,2012,15945.74
@@ -7227,7 +7227,7 @@ PRT,Portugal,Europa,1952,12213.13
 PRT,Portugal,Europa,1953,12854.89
 PRT,Portugal,Europa,1954,13428.19
 PRT,Portugal,Europa,1955,13962.9
-PRT,Portugal,Europa,1956,14595
+PRT,Portugal,Europa,1956,14595.0
 PRT,Portugal,Europa,1957,15622.26
 PRT,Portugal,Europa,1958,15211.43
 PRT,Portugal,Europa,1959,15961.62
@@ -7393,10 +7393,10 @@ PSE,Palestina,Asia,2019,32081.46
 QAT,Qatar,Asia,1970,356521.2
 QAT,Qatar,Asia,1971,359685.9
 QAT,Qatar,Asia,1972,365596.2
-QAT,Qatar,Asia,1973,371737
+QAT,Qatar,Asia,1973,371737.0
 QAT,Qatar,Asia,1974,364497.8
 QAT,Qatar,Asia,1975,360799.1
-QAT,Qatar,Asia,1976,369767
+QAT,Qatar,Asia,1976,369767.0
 QAT,Qatar,Asia,1977,326591.7
 QAT,Qatar,Asia,1978,337696.1
 QAT,Qatar,Asia,1979,332453.4
@@ -7422,17 +7422,17 @@ QAT,Qatar,Asia,1998,194382.6
 QAT,Qatar,Asia,1999,192994.3
 QAT,Qatar,Asia,2000,197736.5
 QAT,Qatar,Asia,2001,194983.3
-QAT,Qatar,Asia,2002,197630
+QAT,Qatar,Asia,2002,197630.0
 QAT,Qatar,Asia,2003,189908.1
 QAT,Qatar,Asia,2004,201998.3
-QAT,Qatar,Asia,2005,183566
+QAT,Qatar,Asia,2005,183566.0
 QAT,Qatar,Asia,2006,190498.4
 QAT,Qatar,Asia,2007,183518.9
 QAT,Qatar,Asia,2008,178277.8
 QAT,Qatar,Asia,2009,168792.5
 QAT,Qatar,Asia,2010,171237.1
 QAT,Qatar,Asia,2011,196031.6
-QAT,Qatar,Asia,2012,194443
+QAT,Qatar,Asia,2012,194443.0
 QAT,Qatar,Asia,2013,176834.9
 QAT,Qatar,Asia,2014,173319.5
 QAT,Qatar,Asia,2015,150172.3
@@ -7486,7 +7486,7 @@ ROU,Rumania,Europa,2002,28943.32
 ROU,Rumania,Europa,2003,30884.77
 ROU,Rumania,Europa,2004,34417.75
 ROU,Rumania,Europa,2005,36689.61
-ROU,Rumania,Europa,2006,38882
+ROU,Rumania,Europa,2006,38882.0
 ROU,Rumania,Europa,2007,41417.82
 ROU,Rumania,Europa,2008,45196.43
 ROU,Rumania,Europa,2009,43282.99
@@ -7530,66 +7530,66 @@ RUS,Rusia,Europa,2016,53359.21
 RUS,Rusia,Europa,2017,54316.1
 RUS,Rusia,Europa,2018,55411.92
 RUS,Rusia,Europa,2019,56538.98
-RWA,Rwanda,África,1960,1692.42
-RWA,Rwanda,África,1961,1629.91
-RWA,Rwanda,África,1962,1731.03
-RWA,Rwanda,África,1963,1532.12
-RWA,Rwanda,África,1964,1341.14
-RWA,Rwanda,África,1965,1366.97
-RWA,Rwanda,África,1966,1342.23
-RWA,Rwanda,África,1967,1469.13
-RWA,Rwanda,África,1968,1473.49
-RWA,Rwanda,África,1969,1616.56
-RWA,Rwanda,África,1970,1659.44
-RWA,Rwanda,África,1971,1635.46
-RWA,Rwanda,África,1972,1597.54
-RWA,Rwanda,África,1973,1609.89
-RWA,Rwanda,África,1974,1580.26
-RWA,Rwanda,África,1975,1504.78
-RWA,Rwanda,África,1976,1747.79
-RWA,Rwanda,África,1977,1785.35
-RWA,Rwanda,África,1978,1903.04
-RWA,Rwanda,África,1979,2019.03
-RWA,Rwanda,África,1980,2132.64
-RWA,Rwanda,África,1981,2179.82
-RWA,Rwanda,África,1982,2154.04
-RWA,Rwanda,África,1983,2224.11
-RWA,Rwanda,África,1984,2062.5
-RWA,Rwanda,África,1985,2080.71
-RWA,Rwanda,África,1986,2085.14
-RWA,Rwanda,África,1987,1990.69
-RWA,Rwanda,África,1988,1913.5
-RWA,Rwanda,África,1989,1898.57
-RWA,Rwanda,África,1990,1825.47
-RWA,Rwanda,África,1991,1786
-RWA,Rwanda,África,1992,1987.18
-RWA,Rwanda,África,1993,1918.07
-RWA,Rwanda,África,1994,1022.94
-RWA,Rwanda,África,1995,1371.92
-RWA,Rwanda,África,1996,1576.88
-RWA,Rwanda,África,1997,1804.35
-RWA,Rwanda,África,1998,1942.28
-RWA,Rwanda,África,1999,2053.36
-RWA,Rwanda,África,2000,2158.09
-RWA,Rwanda,África,2001,2316.14
-RWA,Rwanda,África,2002,2629.73
-RWA,Rwanda,África,2003,2577.05
-RWA,Rwanda,África,2004,2646.57
-RWA,Rwanda,África,2005,2757.53
-RWA,Rwanda,África,2006,2924.88
-RWA,Rwanda,África,2007,3056.91
-RWA,Rwanda,África,2008,3297.16
-RWA,Rwanda,África,2009,3396.95
-RWA,Rwanda,África,2010,3533.67
-RWA,Rwanda,África,2011,3954.73
-RWA,Rwanda,África,2012,4441.76
-RWA,Rwanda,África,2013,4532.37
-RWA,Rwanda,África,2014,4681.41
-RWA,Rwanda,África,2015,4947.64
-RWA,Rwanda,África,2016,5078.82
-RWA,Rwanda,África,2017,5057.87
-RWA,Rwanda,África,2018,5211.74
-RWA,Rwanda,África,2019,5580.88
+RWA,Ruanda,África,1960,1692.42
+RWA,Ruanda,África,1961,1629.91
+RWA,Ruanda,África,1962,1731.03
+RWA,Ruanda,África,1963,1532.12
+RWA,Ruanda,África,1964,1341.14
+RWA,Ruanda,África,1965,1366.97
+RWA,Ruanda,África,1966,1342.23
+RWA,Ruanda,África,1967,1469.13
+RWA,Ruanda,África,1968,1473.49
+RWA,Ruanda,África,1969,1616.56
+RWA,Ruanda,África,1970,1659.44
+RWA,Ruanda,África,1971,1635.46
+RWA,Ruanda,África,1972,1597.54
+RWA,Ruanda,África,1973,1609.89
+RWA,Ruanda,África,1974,1580.26
+RWA,Ruanda,África,1975,1504.78
+RWA,Ruanda,África,1976,1747.79
+RWA,Ruanda,África,1977,1785.35
+RWA,Ruanda,África,1978,1903.04
+RWA,Ruanda,África,1979,2019.03
+RWA,Ruanda,África,1980,2132.64
+RWA,Ruanda,África,1981,2179.82
+RWA,Ruanda,África,1982,2154.04
+RWA,Ruanda,África,1983,2224.11
+RWA,Ruanda,África,1984,2062.5
+RWA,Ruanda,África,1985,2080.71
+RWA,Ruanda,África,1986,2085.14
+RWA,Ruanda,África,1987,1990.69
+RWA,Ruanda,África,1988,1913.5
+RWA,Ruanda,África,1989,1898.57
+RWA,Ruanda,África,1990,1825.47
+RWA,Ruanda,África,1991,1786.0
+RWA,Ruanda,África,1992,1987.18
+RWA,Ruanda,África,1993,1918.07
+RWA,Ruanda,África,1994,1022.94
+RWA,Ruanda,África,1995,1371.92
+RWA,Ruanda,África,1996,1576.88
+RWA,Ruanda,África,1997,1804.35
+RWA,Ruanda,África,1998,1942.28
+RWA,Ruanda,África,1999,2053.36
+RWA,Ruanda,África,2000,2158.09
+RWA,Ruanda,África,2001,2316.14
+RWA,Ruanda,África,2002,2629.73
+RWA,Ruanda,África,2003,2577.05
+RWA,Ruanda,África,2004,2646.57
+RWA,Ruanda,África,2005,2757.53
+RWA,Ruanda,África,2006,2924.88
+RWA,Ruanda,África,2007,3056.91
+RWA,Ruanda,África,2008,3297.16
+RWA,Ruanda,África,2009,3396.95
+RWA,Ruanda,África,2010,3533.67
+RWA,Ruanda,África,2011,3954.73
+RWA,Ruanda,África,2012,4441.76
+RWA,Ruanda,África,2013,4532.37
+RWA,Ruanda,África,2014,4681.41
+RWA,Ruanda,África,2015,4947.64
+RWA,Ruanda,África,2016,5078.82
+RWA,Ruanda,África,2017,5057.87
+RWA,Ruanda,África,2018,5211.74
+RWA,Ruanda,África,2019,5580.88
 SAU,Arabia Saudita,Asia,1970,258876.5
 SAU,Arabia Saudita,Asia,1971,270474.9
 SAU,Arabia Saudita,Asia,1972,277714.5
@@ -7619,17 +7619,17 @@ SAU,Arabia Saudita,Asia,1995,149021.5
 SAU,Arabia Saudita,Asia,1996,149871.1
 SAU,Arabia Saudita,Asia,1997,149594.8
 SAU,Arabia Saudita,Asia,1998,151580.2
-SAU,Arabia Saudita,Asia,1999,148817
+SAU,Arabia Saudita,Asia,1999,148817.0
 SAU,Arabia Saudita,Asia,2000,153873.6
 SAU,Arabia Saudita,Asia,2001,149517.4
-SAU,Arabia Saudita,Asia,2002,142737
+SAU,Arabia Saudita,Asia,2002,142737.0
 SAU,Arabia Saudita,Asia,2003,148664.1
 SAU,Arabia Saudita,Asia,2004,150879.7
 SAU,Arabia Saudita,Asia,2005,150285.4
 SAU,Arabia Saudita,Asia,2006,146211.2
 SAU,Arabia Saudita,Asia,2007,144449.4
 SAU,Arabia Saudita,Asia,2008,149025.5
-SAU,Arabia Saudita,Asia,2009,143074
+SAU,Arabia Saudita,Asia,2009,143074.0
 SAU,Arabia Saudita,Asia,2010,138600.1
 SAU,Arabia Saudita,Asia,2011,135566.6
 SAU,Arabia Saudita,Asia,2012,138338.3
@@ -7749,7 +7749,7 @@ SEN,Senegal,África,2015,7957.04
 SEN,Senegal,África,2016,8126.23
 SEN,Senegal,África,2017,8378.54
 SEN,Senegal,África,2018,8634.33
-SEN,Senegal,África,2019,8807
+SEN,Senegal,África,2019,8807.0
 SGP,Singapur,Asia,1960,17493.25
 SGP,Singapur,Asia,1961,18161.8
 SGP,Singapur,Asia,1962,18787.1
@@ -7799,10 +7799,10 @@ SGP,Singapur,Asia,2005,105090.1
 SGP,Singapur,Asia,2006,106715.3
 SGP,Singapur,Asia,2007,105965.7
 SGP,Singapur,Asia,2008,102264.4
-SGP,Singapur,Asia,2009,101040
+SGP,Singapur,Asia,2009,101040.0
 SGP,Singapur,Asia,2010,111378.8
 SGP,Singapur,Asia,2011,113960.3
-SGP,Singapur,Asia,2012,114474
+SGP,Singapur,Asia,2012,114474.0
 SGP,Singapur,Asia,2013,115299.6
 SGP,Singapur,Asia,2014,115675.3
 SGP,Singapur,Asia,2015,118060.7
@@ -7848,7 +7848,7 @@ SLE,Sierra Leona,África,2014,6694.32
 SLE,Sierra Leona,África,2015,5141.58
 SLE,Sierra Leona,África,2016,5330.64
 SLE,Sierra Leona,África,2017,5389.05
-SLE,Sierra Leona,África,2018,5430
+SLE,Sierra Leona,África,2018,5430.0
 SLE,Sierra Leona,África,2019,5586.4
 SLV,El Salvador,"América del Norte, Central y el Caribe",1975,18108.37
 SLV,El Salvador,"América del Norte, Central y el Caribe",1976,18056.81
@@ -7908,7 +7908,7 @@ SRB,Serbia,Europa,1999,19378.94
 SRB,Serbia,Europa,2000,20997.97
 SRB,Serbia,Europa,2001,22229.34
 SRB,Serbia,Europa,2002,24481.15
-SRB,Serbia,Europa,2003,26301
+SRB,Serbia,Europa,2003,26301.0
 SRB,Serbia,Europa,2004,28576.68
 SRB,Serbia,Europa,2005,32351.39
 SRB,Serbia,Europa,2006,35337.92
@@ -7932,7 +7932,7 @@ STP,Santo Tomé y Príncipe,"América del Norte, Central y el Caribe",1983,11619
 STP,Santo Tomé y Príncipe,"América del Norte, Central y el Caribe",1984,10792.92
 STP,Santo Tomé y Príncipe,"América del Norte, Central y el Caribe",1985,11591.3
 STP,Santo Tomé y Príncipe,"América del Norte, Central y el Caribe",1986,10693.66
-STP,Santo Tomé y Príncipe,"América del Norte, Central y el Caribe",1987,10130
+STP,Santo Tomé y Príncipe,"América del Norte, Central y el Caribe",1987,10130.0
 STP,Santo Tomé y Príncipe,"América del Norte, Central y el Caribe",1988,10066.64
 STP,Santo Tomé y Príncipe,"América del Norte, Central y el Caribe",1989,10125.98
 STP,Santo Tomé y Príncipe,"América del Norte, Central y el Caribe",1990,9680.29
@@ -7965,53 +7965,53 @@ STP,Santo Tomé y Príncipe,"América del Norte, Central y el Caribe",2016,13331
 STP,Santo Tomé y Príncipe,"América del Norte, Central y el Caribe",2017,13557.23
 STP,Santo Tomé y Príncipe,"América del Norte, Central y el Caribe",2018,13662.9
 STP,Santo Tomé y Príncipe,"América del Norte, Central y el Caribe",2019,13593.19
-SUR,Surinam,América del Sur,1973,46837.84
-SUR,Surinam,América del Sur,1974,41821.13
-SUR,Surinam,América del Sur,1975,44687.97
-SUR,Surinam,América del Sur,1976,47306.54
-SUR,Surinam,América del Sur,1977,48370.8
-SUR,Surinam,América del Sur,1978,47534.57
-SUR,Surinam,América del Sur,1979,44783.75
-SUR,Surinam,América del Sur,1980,42997.79
-SUR,Surinam,América del Sur,1981,48498.02
-SUR,Surinam,América del Sur,1982,49063.73
-SUR,Surinam,América del Sur,1983,48285.24
-SUR,Surinam,América del Sur,1984,48424.18
-SUR,Surinam,América del Sur,1985,56234.58
-SUR,Surinam,América del Sur,1986,56132.91
-SUR,Surinam,América del Sur,1987,49484.96
-SUR,Surinam,América del Sur,1988,51099.53
-SUR,Surinam,América del Sur,1989,50778.48
-SUR,Surinam,América del Sur,1990,46455.13
-SUR,Surinam,América del Sur,1991,45530.07
-SUR,Surinam,América del Sur,1992,43663.58
-SUR,Surinam,América del Sur,1993,38987
-SUR,Surinam,América del Sur,1994,38641.39
-SUR,Surinam,América del Sur,1995,37107.78
-SUR,Surinam,América del Sur,1996,36063.25
-SUR,Surinam,América del Sur,1997,36741.62
-SUR,Surinam,América del Sur,1998,36274.45
-SUR,Surinam,América del Sur,1999,34538.73
-SUR,Surinam,América del Sur,2000,34064.55
-SUR,Surinam,América del Sur,2001,34312.34
-SUR,Surinam,América del Sur,2002,34113.09
-SUR,Surinam,América del Sur,2003,35088.77
-SUR,Surinam,América del Sur,2004,36693.75
-SUR,Surinam,América del Sur,2005,35994.95
-SUR,Surinam,América del Sur,2006,36009.43
-SUR,Surinam,América del Sur,2007,35864.77
-SUR,Surinam,América del Sur,2008,35459.3
-SUR,Surinam,América del Sur,2009,34733.27
-SUR,Surinam,América del Sur,2010,35769.76
-SUR,Surinam,América del Sur,2011,37666.06
-SUR,Surinam,América del Sur,2012,38653.43
-SUR,Surinam,América del Sur,2013,38374.46
-SUR,Surinam,América del Sur,2014,37643.72
-SUR,Surinam,América del Sur,2015,38384.49
-SUR,Surinam,América del Sur,2016,35881.71
-SUR,Surinam,América del Sur,2017,36043.53
-SUR,Surinam,América del Sur,2018,36509.09
-SUR,Surinam,América del Sur,2019,36339.76
+SUR,Suriname,América del Sur,1973,46837.84
+SUR,Suriname,América del Sur,1974,41821.13
+SUR,Suriname,América del Sur,1975,44687.97
+SUR,Suriname,América del Sur,1976,47306.54
+SUR,Suriname,América del Sur,1977,48370.8
+SUR,Suriname,América del Sur,1978,47534.57
+SUR,Suriname,América del Sur,1979,44783.75
+SUR,Suriname,América del Sur,1980,42997.79
+SUR,Suriname,América del Sur,1981,48498.02
+SUR,Suriname,América del Sur,1982,49063.73
+SUR,Suriname,América del Sur,1983,48285.24
+SUR,Suriname,América del Sur,1984,48424.18
+SUR,Suriname,América del Sur,1985,56234.58
+SUR,Suriname,América del Sur,1986,56132.91
+SUR,Suriname,América del Sur,1987,49484.96
+SUR,Suriname,América del Sur,1988,51099.53
+SUR,Suriname,América del Sur,1989,50778.48
+SUR,Suriname,América del Sur,1990,46455.13
+SUR,Suriname,América del Sur,1991,45530.07
+SUR,Suriname,América del Sur,1992,43663.58
+SUR,Suriname,América del Sur,1993,38987.0
+SUR,Suriname,América del Sur,1994,38641.39
+SUR,Suriname,América del Sur,1995,37107.78
+SUR,Suriname,América del Sur,1996,36063.25
+SUR,Suriname,América del Sur,1997,36741.62
+SUR,Suriname,América del Sur,1998,36274.45
+SUR,Suriname,América del Sur,1999,34538.73
+SUR,Suriname,América del Sur,2000,34064.55
+SUR,Suriname,América del Sur,2001,34312.34
+SUR,Suriname,América del Sur,2002,34113.09
+SUR,Suriname,América del Sur,2003,35088.77
+SUR,Suriname,América del Sur,2004,36693.75
+SUR,Suriname,América del Sur,2005,35994.95
+SUR,Suriname,América del Sur,2006,36009.43
+SUR,Suriname,América del Sur,2007,35864.77
+SUR,Suriname,América del Sur,2008,35459.3
+SUR,Suriname,América del Sur,2009,34733.27
+SUR,Suriname,América del Sur,2010,35769.76
+SUR,Suriname,América del Sur,2011,37666.06
+SUR,Suriname,América del Sur,2012,38653.43
+SUR,Suriname,América del Sur,2013,38374.46
+SUR,Suriname,América del Sur,2014,37643.72
+SUR,Suriname,América del Sur,2015,38384.49
+SUR,Suriname,América del Sur,2016,35881.71
+SUR,Suriname,América del Sur,2017,36043.53
+SUR,Suriname,América del Sur,2018,36509.09
+SUR,Suriname,América del Sur,2019,36339.76
 SVK,Eslovaquia,Europa,1990,27937.38
 SVK,Eslovaquia,Europa,1991,25866.87
 SVK,Eslovaquia,Europa,1992,25726.86
@@ -8423,7 +8423,7 @@ THA,Tailandia,Asia,1991,14187.31
 THA,Tailandia,Asia,1992,14829.79
 THA,Tailandia,Asia,1993,16132.96
 THA,Tailandia,Asia,1994,17408.09
-THA,Tailandia,Asia,1995,18466
+THA,Tailandia,Asia,1995,18466.0
 THA,Tailandia,Asia,1996,19655.89
 THA,Tailandia,Asia,1997,18580.48
 THA,Tailandia,Asia,1998,17703.02
@@ -8468,7 +8468,7 @@ TJK,Tayikistán,Asia,2006,8086.32
 TJK,Tayikistán,Asia,2007,8626.82
 TJK,Tayikistán,Asia,2008,9230.94
 TJK,Tayikistán,Asia,2009,9353.63
-TJK,Tayikistán,Asia,2010,9831
+TJK,Tayikistán,Asia,2010,9831.0
 TJK,Tayikistán,Asia,2011,9957.97
 TJK,Tayikistán,Asia,2012,10461.97
 TJK,Tayikistán,Asia,2013,11108.83
@@ -8508,76 +8508,76 @@ TKM,Turkmenistán,Asia,2016,43753.18
 TKM,Turkmenistán,Asia,2017,45591.4
 TKM,Turkmenistán,Asia,2018,47343.46
 TKM,Turkmenistán,Asia,2019,47893.03
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",1950,12634.44
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",1951,13646.08
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",1952,14004.68
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",1953,14075.22
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",1954,14401.36
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",1955,16131.08
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",1956,18039.65
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",1957,20002.96
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",1958,21790.44
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",1959,22977.86
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",1960,25041.04
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",1961,28188.91
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",1962,28000.42
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",1963,28119.27
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",1964,29686.17
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",1965,28300.01
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",1966,30470.44
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",1967,30080.11
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",1968,32161.37
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",1969,32034.87
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",1970,33101.82
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",1971,33007.08
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",1972,34817.47
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",1973,35249.77
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",1974,35116.04
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",1975,36152.79
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",1976,36390.82
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",1977,37618.05
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",1978,39575.76
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",1979,40048.18
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",1980,45246.01
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",1981,47114.13
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",1982,47527.63
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",1983,42787.25
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",1984,39159.98
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",1985,38644.93
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",1986,38247.8
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",1987,38288.19
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",1988,36866.27
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",1989,37142.52
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",1990,36854.47
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",1991,35304.93
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",1992,34295.53
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",1993,33915.75
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",1994,34194.21
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",1995,34229.39
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",1996,35600.91
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",1997,37038.6
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",1998,38429.72
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",1999,40639.74
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",2000,42261.9
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",2001,43083.73
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",2002,45535.04
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",2003,51222.91
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",2004,52522.05
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",2005,54646.52
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",2006,60740.64
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",2007,63283.61
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",2008,64357.05
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",2009,62492.74
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",2010,65245.61
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",2011,62294.04
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",2012,61838.67
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",2013,62631.62
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",2014,61027.22
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",2015,63283.91
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",2016,60713.02
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",2017,58804.19
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",2018,58727.28
-TTO,Trinidad y Tabago,"América del Norte, Central y el Caribe",2019,58164.16
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",1950,12634.44
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",1951,13646.08
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",1952,14004.68
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",1953,14075.22
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",1954,14401.36
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",1955,16131.08
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",1956,18039.65
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",1957,20002.96
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",1958,21790.44
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",1959,22977.86
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",1960,25041.04
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",1961,28188.91
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",1962,28000.42
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",1963,28119.27
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",1964,29686.17
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",1965,28300.01
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",1966,30470.44
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",1967,30080.11
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",1968,32161.37
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",1969,32034.87
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",1970,33101.82
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",1971,33007.08
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",1972,34817.47
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",1973,35249.77
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",1974,35116.04
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",1975,36152.79
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",1976,36390.82
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",1977,37618.05
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",1978,39575.76
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",1979,40048.18
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",1980,45246.01
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",1981,47114.13
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",1982,47527.63
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",1983,42787.25
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",1984,39159.98
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",1985,38644.93
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",1986,38247.8
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",1987,38288.19
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",1988,36866.27
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",1989,37142.52
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",1990,36854.47
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",1991,35304.93
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",1992,34295.53
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",1993,33915.75
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",1994,34194.21
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",1995,34229.39
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",1996,35600.91
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",1997,37038.6
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",1998,38429.72
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",1999,40639.74
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",2000,42261.9
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",2001,43083.73
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",2002,45535.04
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",2003,51222.91
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",2004,52522.05
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",2005,54646.52
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",2006,60740.64
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",2007,63283.61
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",2008,64357.05
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",2009,62492.74
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",2010,65245.61
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",2011,62294.04
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",2012,61838.67
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",2013,62631.62
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",2014,61027.22
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",2015,63283.91
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",2016,60713.02
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",2017,58804.19
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",2018,58727.28
+TTO,Trinidad y Tobago,"América del Norte, Central y el Caribe",2019,58164.16
 TUN,Túnez,África,1960,7027.73
 TUN,Túnez,África,1961,7167.86
 TUN,Túnez,África,1962,7221.85
@@ -8597,7 +8597,7 @@ TUN,Túnez,África,1975,16261.49
 TUN,Túnez,África,1976,16727.07
 TUN,Túnez,África,1977,16858.39
 TUN,Túnez,África,1978,17396.34
-TUN,Túnez,África,1979,17994
+TUN,Túnez,África,1979,17994.0
 TUN,Túnez,África,1980,18827.52
 TUN,Túnez,África,1981,19287.78
 TUN,Túnez,África,1982,18612.38
@@ -8660,7 +8660,7 @@ TUR,Turquía,Asia,1968,21509.47
 TUR,Turquía,Asia,1969,22616.78
 TUR,Turquía,Asia,1970,22999.38
 TUR,Turquía,Asia,1971,23843.77
-TUR,Turquía,Asia,1972,24945
+TUR,Turquía,Asia,1972,24945.0
 TUR,Turquía,Asia,1973,25353.07
 TUR,Turquía,Asia,1974,26162.18
 TUR,Turquía,Asia,1975,27756.29
@@ -8768,7 +8768,7 @@ TWN,Taiwán,Asia,2007,77984.86
 TWN,Taiwán,Asia,2008,77761.81
 TWN,Taiwán,Asia,2009,77437.94
 TWN,Taiwán,Asia,2010,83626.53
-TWN,Taiwán,Asia,2011,84953
+TWN,Taiwán,Asia,2011,84953.0
 TWN,Taiwán,Asia,2012,85631.84
 TWN,Taiwán,Asia,2013,86900.47
 TWN,Taiwán,Asia,2014,90085.47
@@ -8777,66 +8777,66 @@ TWN,Taiwán,Asia,2016,91822.52
 TWN,Taiwán,Asia,2017,94162.75
 TWN,Taiwán,Asia,2018,96037.04
 TWN,Taiwán,Asia,2019,98085.98
-TZA,Tanzania,África,1960,2027.56
-TZA,Tanzania,África,1961,1840.17
-TZA,Tanzania,África,1962,1991.36
-TZA,Tanzania,África,1963,2007.62
-TZA,Tanzania,África,1964,2365.04
-TZA,Tanzania,África,1965,2398.31
-TZA,Tanzania,África,1966,2535.09
-TZA,Tanzania,África,1967,2616.33
-TZA,Tanzania,África,1968,2735.95
-TZA,Tanzania,África,1969,2654.45
-TZA,Tanzania,África,1970,2639.68
-TZA,Tanzania,África,1971,2665.84
-TZA,Tanzania,África,1972,2759.43
-TZA,Tanzania,África,1973,2762.09
-TZA,Tanzania,África,1974,2742.5
-TZA,Tanzania,África,1975,2817.3
-TZA,Tanzania,África,1976,2872.29
-TZA,Tanzania,África,1977,2781.59
-TZA,Tanzania,África,1978,2709.45
-TZA,Tanzania,África,1979,2723.95
-TZA,Tanzania,África,1980,2736.86
-TZA,Tanzania,África,1981,2652.5
-TZA,Tanzania,África,1982,2596.02
-TZA,Tanzania,África,1983,2478.24
-TZA,Tanzania,África,1984,2480.83
-TZA,Tanzania,África,1985,2513.7
-TZA,Tanzania,África,1986,2496.12
-TZA,Tanzania,África,1987,2534.91
-TZA,Tanzania,África,1988,2553.64
-TZA,Tanzania,África,1989,2577.78
-TZA,Tanzania,África,1990,2616.54
-TZA,Tanzania,África,1991,2684.49
-TZA,Tanzania,África,1992,2699.21
-TZA,Tanzania,África,1993,2747.47
-TZA,Tanzania,África,1994,2761.28
-TZA,Tanzania,África,1995,2796.47
-TZA,Tanzania,África,1996,2848.8
-TZA,Tanzania,África,1997,2876.07
-TZA,Tanzania,África,1998,2917.61
-TZA,Tanzania,África,1999,2992.02
-TZA,Tanzania,África,2000,3074.31
-TZA,Tanzania,África,2001,3183.45
-TZA,Tanzania,África,2002,3319.39
-TZA,Tanzania,África,2003,3419.35
-TZA,Tanzania,África,2004,3545.31
-TZA,Tanzania,África,2005,3649.7
-TZA,Tanzania,África,2006,3652.37
-TZA,Tanzania,África,2007,3880.57
-TZA,Tanzania,África,2008,4004.13
-TZA,Tanzania,África,2009,4126.37
-TZA,Tanzania,África,2010,4276.81
-TZA,Tanzania,África,2011,4492.27
-TZA,Tanzania,África,2012,4634.61
-TZA,Tanzania,África,2013,4842.88
-TZA,Tanzania,África,2014,5036.2
-TZA,Tanzania,África,2015,5154.75
-TZA,Tanzania,África,2016,5332.77
-TZA,Tanzania,África,2017,5510.93
-TZA,Tanzania,África,2018,5704.19
-TZA,Tanzania,África,2019,5906.58
+TZA,Tanzanía,África,1960,2027.56
+TZA,Tanzanía,África,1961,1840.17
+TZA,Tanzanía,África,1962,1991.36
+TZA,Tanzanía,África,1963,2007.62
+TZA,Tanzanía,África,1964,2365.04
+TZA,Tanzanía,África,1965,2398.31
+TZA,Tanzanía,África,1966,2535.09
+TZA,Tanzanía,África,1967,2616.33
+TZA,Tanzanía,África,1968,2735.95
+TZA,Tanzanía,África,1969,2654.45
+TZA,Tanzanía,África,1970,2639.68
+TZA,Tanzanía,África,1971,2665.84
+TZA,Tanzanía,África,1972,2759.43
+TZA,Tanzanía,África,1973,2762.09
+TZA,Tanzanía,África,1974,2742.5
+TZA,Tanzanía,África,1975,2817.3
+TZA,Tanzanía,África,1976,2872.29
+TZA,Tanzanía,África,1977,2781.59
+TZA,Tanzanía,África,1978,2709.45
+TZA,Tanzanía,África,1979,2723.95
+TZA,Tanzanía,África,1980,2736.86
+TZA,Tanzanía,África,1981,2652.5
+TZA,Tanzanía,África,1982,2596.02
+TZA,Tanzanía,África,1983,2478.24
+TZA,Tanzanía,África,1984,2480.83
+TZA,Tanzanía,África,1985,2513.7
+TZA,Tanzanía,África,1986,2496.12
+TZA,Tanzanía,África,1987,2534.91
+TZA,Tanzanía,África,1988,2553.64
+TZA,Tanzanía,África,1989,2577.78
+TZA,Tanzanía,África,1990,2616.54
+TZA,Tanzanía,África,1991,2684.49
+TZA,Tanzanía,África,1992,2699.21
+TZA,Tanzanía,África,1993,2747.47
+TZA,Tanzanía,África,1994,2761.28
+TZA,Tanzanía,África,1995,2796.47
+TZA,Tanzanía,África,1996,2848.8
+TZA,Tanzanía,África,1997,2876.07
+TZA,Tanzanía,África,1998,2917.61
+TZA,Tanzanía,África,1999,2992.02
+TZA,Tanzanía,África,2000,3074.31
+TZA,Tanzanía,África,2001,3183.45
+TZA,Tanzanía,África,2002,3319.39
+TZA,Tanzanía,África,2003,3419.35
+TZA,Tanzanía,África,2004,3545.31
+TZA,Tanzanía,África,2005,3649.7
+TZA,Tanzanía,África,2006,3652.37
+TZA,Tanzanía,África,2007,3880.57
+TZA,Tanzanía,África,2008,4004.13
+TZA,Tanzanía,África,2009,4126.37
+TZA,Tanzanía,África,2010,4276.81
+TZA,Tanzanía,África,2011,4492.27
+TZA,Tanzanía,África,2012,4634.61
+TZA,Tanzanía,África,2013,4842.88
+TZA,Tanzanía,África,2014,5036.2
+TZA,Tanzanía,África,2015,5154.75
+TZA,Tanzanía,África,2016,5332.77
+TZA,Tanzanía,África,2017,5510.93
+TZA,Tanzanía,África,2018,5704.19
+TZA,Tanzanía,África,2019,5906.58
 UGA,Uganda,África,1950,2165.68
 UGA,Uganda,África,1951,2387.08
 UGA,Uganda,África,1952,2520.77
@@ -8877,7 +8877,7 @@ UGA,Uganda,África,1986,2526.44
 UGA,Uganda,África,1987,2631.65
 UGA,Uganda,África,1988,2776.8
 UGA,Uganda,África,1989,2904.17
-UGA,Uganda,África,1990,3016
+UGA,Uganda,África,1990,3016.0
 UGA,Uganda,África,1991,3100.64
 UGA,Uganda,África,1992,3145.52
 UGA,Uganda,África,1993,3260.85
@@ -8934,7 +8934,7 @@ UKR,Ucrania,Europa,2013,29929.58
 UKR,Ucrania,Europa,2014,30889.71
 UKR,Ucrania,Europa,2015,30894.23
 UKR,Ucrania,Europa,2016,31987.39
-UKR,Ucrania,Europa,2017,33076
+UKR,Ucrania,Europa,2017,33076.0
 UKR,Ucrania,Europa,2018,33955.71
 UKR,Ucrania,Europa,2019,34802.1
 URY,Uruguay,América del Sur,1950,17929.92
@@ -9007,13 +9007,13 @@ URY,Uruguay,América del Sur,2016,42221.6
 URY,Uruguay,América del Sur,2017,43363.77
 URY,Uruguay,América del Sur,2018,44197.9
 URY,Uruguay,América del Sur,2019,44121.85
-USA,Estados Unidos,"América del Norte, Central y el Caribe",1950,39268
+USA,Estados Unidos,"América del Norte, Central y el Caribe",1950,39268.0
 USA,Estados Unidos,"América del Norte, Central y el Caribe",1951,40947.3
 USA,Estados Unidos,"América del Norte, Central y el Caribe",1952,42102.6
 USA,Estados Unidos,"América del Norte, Central y el Caribe",1953,43461.4
 USA,Estados Unidos,"América del Norte, Central y el Caribe",1954,44021.63
 USA,Estados Unidos,"América del Norte, Central y el Caribe",1955,45830.34
-USA,Estados Unidos,"América del Norte, Central y el Caribe",1956,45702
+USA,Estados Unidos,"América del Norte, Central y el Caribe",1956,45702.0
 USA,Estados Unidos,"América del Norte, Central y el Caribe",1957,46436.68
 USA,Estados Unidos,"América del Norte, Central y el Caribe",1958,46940.67
 USA,Estados Unidos,"América del Norte, Central y el Caribe",1959,49054.65
@@ -9068,7 +9068,7 @@ USA,Estados Unidos,"América del Norte, Central y el Caribe",2007,114967.6
 USA,Estados Unidos,"América del Norte, Central y el Caribe",2008,114941.9
 USA,Estados Unidos,"América del Norte, Central y el Caribe",2009,115998.5
 USA,Estados Unidos,"América del Norte, Central y el Caribe",2010,119401.1
-USA,Estados Unidos,"América del Norte, Central y el Caribe",2011,120030
+USA,Estados Unidos,"América del Norte, Central y el Caribe",2011,120030.0
 USA,Estados Unidos,"América del Norte, Central y el Caribe",2012,120658.1
 USA,Estados Unidos,"América del Norte, Central y el Caribe",2013,121710.6
 USA,Estados Unidos,"América del Norte, Central y el Caribe",2014,122897.4
@@ -9076,7 +9076,7 @@ USA,Estados Unidos,"América del Norte, Central y el Caribe",2015,124967.4
 USA,Estados Unidos,"América del Norte, Central y el Caribe",2016,125314.2
 USA,Estados Unidos,"América del Norte, Central y el Caribe",2017,126350.9
 USA,Estados Unidos,"América del Norte, Central y el Caribe",2018,128472.7
-USA,Estados Unidos,"América del Norte, Central y el Caribe",2019,129903
+USA,Estados Unidos,"América del Norte, Central y el Caribe",2019,129903.0
 UZB,Uzbekistán,Asia,1990,14805.94
 UZB,Uzbekistán,Asia,1991,14084.7
 UZB,Uzbekistán,Asia,1992,12515.64
@@ -9176,7 +9176,7 @@ VEN,Venezuela,América del Sur,1975,2301.29
 VEN,Venezuela,América del Sur,1976,2543.7
 VEN,Venezuela,América del Sur,1977,2658.76
 VEN,Venezuela,América del Sur,1978,2570.53
-VEN,Venezuela,América del Sur,1979,2534
+VEN,Venezuela,América del Sur,1979,2534.0
 VEN,Venezuela,América del Sur,1980,2200.22
 VEN,Venezuela,América del Sur,1981,2117.69
 VEN,Venezuela,América del Sur,1982,2077.57
@@ -9205,7 +9205,7 @@ VEN,Venezuela,América del Sur,2004,1338.97
 VEN,Venezuela,América del Sur,2005,1454.98
 VEN,Venezuela,América del Sur,2006,1509.81
 VEN,Venezuela,América del Sur,2007,1593.76
-VEN,Venezuela,América del Sur,2008,1627
+VEN,Venezuela,América del Sur,2008,1627.0
 VEN,Venezuela,América del Sur,2009,1545.52
 VEN,Venezuela,América del Sur,2010,1512.06
 VEN,Venezuela,América del Sur,2011,1545.92
@@ -9264,7 +9264,7 @@ VNM,Vietnam,Asia,1984,3336.87
 VNM,Vietnam,Asia,1985,3418.92
 VNM,Vietnam,Asia,1986,3433.05
 VNM,Vietnam,Asia,1987,3424.09
-VNM,Vietnam,Asia,1988,3507
+VNM,Vietnam,Asia,1988,3507.0
 VNM,Vietnam,Asia,1989,3587.39
 VNM,Vietnam,Asia,1990,3678.29
 VNM,Vietnam,Asia,1991,3810.97
@@ -9444,7 +9444,7 @@ ZMB,Zambia,África,1998,6400.51
 ZMB,Zambia,África,1999,6515.89
 ZMB,Zambia,África,2000,6630.3
 ZMB,Zambia,África,2001,6850.75
-ZMB,Zambia,África,2002,7055
+ZMB,Zambia,África,2002,7055.0
 ZMB,Zambia,África,2003,7406.48
 ZMB,Zambia,África,2004,7771.82
 ZMB,Zambia,África,2005,8083.02
@@ -9459,7 +9459,7 @@ ZMB,Zambia,África,2013,10769.68
 ZMB,Zambia,África,2014,10842.32
 ZMB,Zambia,África,2015,10798.88
 ZMB,Zambia,África,2016,10732.04
-ZMB,Zambia,África,2017,10647
+ZMB,Zambia,África,2017,10647.0
 ZMB,Zambia,África,2018,11023.82
 ZMB,Zambia,África,2019,10770.8
 ZWE,Zimbabwe,África,1954,2712.15
@@ -9471,7 +9471,7 @@ ZWE,Zimbabwe,África,1959,3334.37
 ZWE,Zimbabwe,África,1960,3366.16
 ZWE,Zimbabwe,África,1961,3477.69
 ZWE,Zimbabwe,África,1962,3455.41
-ZWE,Zimbabwe,África,1963,3424
+ZWE,Zimbabwe,África,1963,3424.0
 ZWE,Zimbabwe,África,1964,3446.35
 ZWE,Zimbabwe,África,1965,3600.53
 ZWE,Zimbabwe,África,1966,3497.67

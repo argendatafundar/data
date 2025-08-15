@@ -611,7 +611,7 @@ anio,letra_desc,vab,letra
 1950,Act. inmobiliarias y empresariales,17930.97,K
 1950,Adm. pública y defensa,11056.96,L
 1950,Otros servicios,9813.61,Z
-1951,Agro,13807,A
+1951,Agro,13807.0,A
 1951,Pesca,106.966,B
 1951,Petróleo y minería,1692.323,C
 1951,Industria manufacturera,27245.9,D
@@ -656,7 +656,7 @@ anio,letra_desc,vab,letra
 1954,"Comercio, hoteles y restaurantes",23480.79,GH
 1954,Transporte y comunicaciones,6391.49,I
 1954,Finanzas,3604.751,J
-1954,Act. inmobiliarias y empresariales,19945,K
+1954,Act. inmobiliarias y empresariales,19945.0,K
 1954,Adm. pública y defensa,11917.74,L
 1954,Otros servicios,10921.09,Z
 1955,Agro,16039.56,A
@@ -830,7 +830,7 @@ anio,letra_desc,vab,letra
 1969,Agro,19091.18,A
 1969,Pesca,184.924,B
 1969,Petróleo y minería,8983.223,C
-1969,Industria manufacturera,64625,D
+1969,Industria manufacturera,64625.0,D
 1969,"Electricidad, gas y agua",1402.402,E
 1969,Construcción,12065.67,F
 1969,"Comercio, hoteles y restaurantes",42002.99,GH
@@ -1004,7 +1004,7 @@ anio,letra_desc,vab,letra
 1983,"Comercio, hoteles y restaurantes",52052.36,GH
 1983,Transporte y comunicaciones,13324.08,I
 1983,Finanzas,10896.86,J
-1983,Act. inmobiliarias y empresariales,39386,K
+1983,Act. inmobiliarias y empresariales,39386.0,K
 1983,Adm. pública y defensa,18668.39,L
 1983,Otros servicios,30492.92,Z
 1984,Agro,27356.78,A
@@ -1039,7 +1039,7 @@ anio,letra_desc,vab,letra
 1986,Construcción,12042.14,F
 1986,"Comercio, hoteles y restaurantes",52693.02,GH
 1986,Transporte y comunicaciones,14990.72,I
-1986,Finanzas,11097,J
+1986,Finanzas,11097.0,J
 1986,Act. inmobiliarias y empresariales,40007.85,K
 1986,Adm. pública y defensa,19004.03,L
 1986,Otros servicios,31034.35,Z
@@ -1057,7 +1057,7 @@ anio,letra_desc,vab,letra
 1987,Otros servicios,32182.33,Z
 1988,Agro,28386.08,A
 1988,Pesca,817.896,B
-1988,Petróleo y minería,13167,C
+1988,Petróleo y minería,13167.0,C
 1988,Industria manufacturera,73740.26,D
 1988,"Electricidad, gas y agua",3835.172,E
 1988,Construcción,13553.27,F
@@ -1337,7 +1337,7 @@ anio,letra_desc,vab,letra
 2011,Industria manufacturera,132856.8,D
 2011,"Electricidad, gas y agua",11142.25,E
 2011,Construcción,22927.83,F
-2011,"Comercio, hoteles y restaurantes",109505,GH
+2011,"Comercio, hoteles y restaurantes",109505.0,GH
 2011,Transporte y comunicaciones,52202.73,I
 2011,Finanzas,24999.68,J
 2011,Act. inmobiliarias y empresariales,71231.65,K
@@ -1397,7 +1397,7 @@ anio,letra_desc,vab,letra
 2016,Industria manufacturera,118244.6,D
 2016,"Electricidad, gas y agua",12600.94,E
 2016,Construcción,20028.86,F
-2016,"Comercio, hoteles y restaurantes",102966,GH
+2016,"Comercio, hoteles y restaurantes",102966.0,GH
 2016,Transporte y comunicaciones,57708.77,I
 2016,Finanzas,26319.57,J
 2016,Act. inmobiliarias y empresariales,72163.9,K

@@ -1,17 +1,17 @@
-"destino","concepto","porcentaje_total"
-"local","consumo intermedio nacional (neto de importaciones indirectas)",29.8
-"local","salarios",12.5
-"local","Contribuciones a la seguridad social",2.7
-"local","Impuesto a las ganancias",4.7
-"local","Amortizaciones nacionales (neto de importaciones indirectas)",10.6
-"local","Regalías y fideicomisos",3.6
-"local","Impuestos a la producción (netos de subsidios)",3.1
-"local","total",67
-"gastos a no residentes","total",20.2
-"gastos a no residentes","Consumo intermedio importado",4.2
-"gastos a no residentes","Contenido importado en consumo intermedio nacional",3.2
-"gastos a no residentes","Amortizaciones importadas",3.1
-"gastos a no residentes","Dividendos",5.2
-"gastos a no residentes","Intereses",3.2
-"gastos a no residentes","Contenido importado en amortizaciones nacionales",1.2
-"Ingreso neto disponible","Ingreso neto disponible",12.9
+destino,concepto,porcentaje_total
+local,consumo intermedio nacional (neto de importaciones indirectas),29.8
+local,salarios,12.5
+local,Contribuciones a la seguridad social,2.7
+local,Impuesto a las ganancias,4.7
+local,Amortizaciones nacionales (neto de importaciones indirectas),10.6
+local,Regalías y fideicomisos,3.6
+local,Impuestos a la producción (netos de subsidios),3.1
+local,total,67.0
+gastos a no residentes,total,20.2
+gastos a no residentes,Consumo intermedio importado,4.2
+gastos a no residentes,Contenido importado en consumo intermedio nacional,3.2
+gastos a no residentes,Amortizaciones importadas,3.1
+gastos a no residentes,Dividendos,5.2
+gastos a no residentes,Intereses,3.2
+gastos a no residentes,Contenido importado en amortizaciones nacionales,1.2
+Ingreso neto disponible,Ingreso neto disponible,12.9

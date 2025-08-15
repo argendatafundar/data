@@ -1,146 +1,146 @@
-"anio","sector","subsector","valor_en_mtco2e"
-1990,"Energía","Emisiones fugitivas provenientes de la fabricación de combustibles","6.44"
-1990,"Energía","Industrias de la energía","22.29"
-1990,"Energía","Industrias manufactureras y de la construcción","20.92"
-1990,"Energía","Otros sectores","22.94"
-1990,"Energía","Transporte","22.86"
-1991,"Energía","Emisiones fugitivas provenientes de la fabricación de combustibles","6.78"
-1991,"Energía","Industrias de la energía","27.2"
-1991,"Energía","Industrias manufactureras y de la construcción","18.52"
-1991,"Energía","Otros sectores","22"
-1991,"Energía","Transporte","26.36"
-1992,"Energía","Emisiones fugitivas provenientes de la fabricación de combustibles","7.08"
-1992,"Energía","Industrias de la energía","25.97"
-1992,"Energía","Industrias manufactureras y de la construcción","20.64"
-1992,"Energía","Otros sectores","22.88"
-1992,"Energía","Transporte","27.66"
-1993,"Energía","Emisiones fugitivas provenientes de la fabricación de combustibles","7.52"
-1993,"Energía","Industrias de la energía","24.85"
-1993,"Energía","Industrias manufactureras y de la construcción","17.98"
-1993,"Energía","Otros sectores","25.7"
-1993,"Energía","Transporte","29.22"
-1994,"Energía","Emisiones fugitivas provenientes de la fabricación de combustibles","8.12"
-1994,"Energía","Industrias de la energía","22.54"
-1994,"Energía","Industrias manufactureras y de la construcción","20.95"
-1994,"Energía","Otros sectores","26.05"
-1994,"Energía","Transporte","32.46"
-1995,"Energía","Emisiones fugitivas provenientes de la fabricación de combustibles","8.8"
-1995,"Energía","Industrias de la energía","24.94"
-1995,"Energía","Industrias manufactureras y de la construcción","20.58"
-1995,"Energía","Otros sectores","25.94"
-1995,"Energía","Transporte","32.05"
-1996,"Energía","Emisiones fugitivas provenientes de la fabricación de combustibles","9.87"
-1996,"Energía","Industrias de la energía","28.53"
-1996,"Energía","Industrias manufactureras y de la construcción","22.02"
-1996,"Energía","Otros sectores","27.55"
-1996,"Energía","Transporte","39.75"
-1997,"Energía","Emisiones fugitivas provenientes de la fabricación de combustibles","10.51"
-1997,"Energía","Industrias de la energía","28.7"
-1997,"Energía","Industrias manufactureras y de la construcción","22.33"
-1997,"Energía","Otros sectores","27.96"
-1997,"Energía","Transporte","38.7"
-1998,"Energía","Emisiones fugitivas provenientes de la fabricación de combustibles","10.87"
-1998,"Energía","Industrias de la energía","31.51"
-1998,"Energía","Industrias manufactureras y de la construcción","24.44"
-1998,"Energía","Otros sectores","28.54"
-1998,"Energía","Transporte","40.38"
-1999,"Energía","Emisiones fugitivas provenientes de la fabricación de combustibles","10.95"
-1999,"Energía","Industrias de la energía","35.97"
-1999,"Energía","Industrias manufactureras y de la construcción","23.77"
-1999,"Energía","Otros sectores","29.58"
-1999,"Energía","Transporte","37.89"
-2000,"Energía","Emisiones fugitivas provenientes de la fabricación de combustibles","11.59"
-2000,"Energía","Industrias de la energía","35.71"
-2000,"Energía","Industrias manufactureras y de la construcción","23.66"
-2000,"Energía","Otros sectores","29.51"
-2000,"Energía","Transporte","34.41"
-2001,"Energía","Emisiones fugitivas provenientes de la fabricación de combustibles","12.16"
-2001,"Energía","Industrias de la energía","29.86"
-2001,"Energía","Industrias manufactureras y de la construcción","22.98"
-2001,"Energía","Otros sectores","30.47"
-2001,"Energía","Transporte","35.93"
-2002,"Energía","Emisiones fugitivas provenientes de la fabricación de combustibles","11.78"
-2002,"Energía","Industrias de la energía","27.53"
-2002,"Energía","Industrias manufactureras y de la construcción","22.61"
-2002,"Energía","Otros sectores","29.05"
-2002,"Energía","Transporte","33.09"
-2003,"Energía","Emisiones fugitivas provenientes de la fabricación de combustibles","12.53"
-2003,"Energía","Industrias de la energía","30.65"
-2003,"Energía","Industrias manufactureras y de la construcción","25.18"
-2003,"Energía","Otros sectores","30.45"
-2003,"Energía","Transporte","34.47"
-2004,"Energía","Emisiones fugitivas provenientes de la fabricación de combustibles","12.54"
-2004,"Energía","Industrias de la energía","37.11"
-2004,"Energía","Industrias manufactureras y de la construcción","26.29"
-2004,"Energía","Otros sectores","31.84"
-2004,"Energía","Transporte","37.2"
-2005,"Energía","Emisiones fugitivas provenientes de la fabricación de combustibles","12.23"
-2005,"Energía","Industrias de la energía","38.16"
-2005,"Energía","Industrias manufactureras y de la construcción","26.82"
-2005,"Energía","Otros sectores","33.39"
-2005,"Energía","Transporte","38.5"
-2006,"Energía","Emisiones fugitivas provenientes de la fabricación de combustibles","12.32"
-2006,"Energía","Industrias de la energía","41.17"
-2006,"Energía","Industrias manufactureras y de la construcción","28.25"
-2006,"Energía","Otros sectores","34.09"
-2006,"Energía","Transporte","41.38"
-2007,"Energía","Emisiones fugitivas provenientes de la fabricación de combustibles","12.18"
-2007,"Energía","Industrias de la energía","46.95"
-2007,"Energía","Industrias manufactureras y de la construcción","28.65"
-2007,"Energía","Otros sectores","39.01"
-2007,"Energía","Transporte","44.78"
-2008,"Energía","Emisiones fugitivas provenientes de la fabricación de combustibles","12.06"
-2008,"Energía","Industrias de la energía","51.6"
-2008,"Energía","Industrias manufactureras y de la construcción","29.15"
-2008,"Energía","Otros sectores","37.29"
-2008,"Energía","Transporte","46.78"
-2009,"Energía","Emisiones fugitivas provenientes de la fabricación de combustibles","11.58"
-2009,"Energía","Industrias de la energía","49.86"
-2009,"Energía","Industrias manufactureras y de la construcción","24.69"
-2009,"Energía","Otros sectores","35.53"
-2009,"Energía","Transporte","42.89"
-2010,"Energía","Emisiones fugitivas provenientes de la fabricación de combustibles","11.27"
-2010,"Energía","Industrias de la energía","52.03"
-2010,"Energía","Industrias manufactureras y de la construcción","33.13"
-2010,"Energía","Otros sectores","29.44"
-2010,"Energía","Transporte","52.77"
-2011,"Energía","Emisiones fugitivas provenientes de la fabricación de combustibles","10.84"
-2011,"Energía","Industrias de la energía","57.8"
-2011,"Energía","Industrias manufactureras y de la construcción","33.33"
-2011,"Energía","Otros sectores","31.6"
-2011,"Energía","Transporte","53.6"
-2012,"Energía","Emisiones fugitivas provenientes de la fabricación de combustibles","10.57"
-2012,"Energía","Industrias de la energía","59.85"
-2012,"Energía","Industrias manufactureras y de la construcción","32.19"
-2012,"Energía","Otros sectores","32.6"
-2012,"Energía","Transporte","52.39"
-2013,"Energía","Emisiones fugitivas provenientes de la fabricación de combustibles","10.07"
-2013,"Energía","Industrias de la energía","59.66"
-2013,"Energía","Industrias manufactureras y de la construcción","34.08"
-2013,"Energía","Otros sectores","33.86"
-2013,"Energía","Transporte","52.75"
-2014,"Energía","Emisiones fugitivas provenientes de la fabricación de combustibles","9.98"
-2014,"Energía","Industrias de la energía","59.83"
-2014,"Energía","Industrias manufactureras y de la construcción","33.52"
-2014,"Energía","Otros sectores","32.87"
-2014,"Energía","Transporte","50.94"
-2015,"Energía","Emisiones fugitivas provenientes de la fabricación de combustibles","10.23"
-2015,"Energía","Industrias de la energía","63.08"
-2015,"Energía","Industrias manufactureras y de la construcción","34.3"
-2015,"Energía","Otros sectores","33.06"
-2015,"Energía","Transporte","52.19"
-2016,"Energía","Emisiones fugitivas provenientes de la fabricación de combustibles","10.51"
-2016,"Energía","Industrias de la energía","64.63"
-2016,"Energía","Industrias manufactureras y de la construcción","32.74"
-2016,"Energía","Otros sectores","34.83"
-2016,"Energía","Transporte","50.68"
-2017,"Energía","Emisiones fugitivas provenientes de la fabricación de combustibles","10.31"
-2017,"Energía","Industrias de la energía","60.26"
-2017,"Energía","Industrias manufactureras y de la construcción","34.06"
-2017,"Energía","Otros sectores","31.93"
-2017,"Energía","Transporte","51.14"
-2018,"Energía","Emisiones fugitivas provenientes de la fabricación de combustibles","10.81"
-2018,"Energía","Industrias de la energía","58.63"
-2018,"Energía","Industrias manufactureras y de la construcción","33.1"
-2018,"Energía","Otros sectores","31.92"
-2018,"Energía","Transporte","51.03"
+anio,sector,subsector,valor_en_mtco2e
+1990,Energía,Emisiones fugitivas provenientes de la fabricación de combustibles,6.44
+1990,Energía,Industrias de la energía,22.29
+1990,Energía,Industrias manufactureras y de la construcción,20.92
+1990,Energía,Otros sectores,22.94
+1990,Energía,Transporte,22.86
+1991,Energía,Emisiones fugitivas provenientes de la fabricación de combustibles,6.78
+1991,Energía,Industrias de la energía,27.2
+1991,Energía,Industrias manufactureras y de la construcción,18.52
+1991,Energía,Otros sectores,22.0
+1991,Energía,Transporte,26.36
+1992,Energía,Emisiones fugitivas provenientes de la fabricación de combustibles,7.08
+1992,Energía,Industrias de la energía,25.97
+1992,Energía,Industrias manufactureras y de la construcción,20.64
+1992,Energía,Otros sectores,22.88
+1992,Energía,Transporte,27.66
+1993,Energía,Emisiones fugitivas provenientes de la fabricación de combustibles,7.52
+1993,Energía,Industrias de la energía,24.85
+1993,Energía,Industrias manufactureras y de la construcción,17.98
+1993,Energía,Otros sectores,25.7
+1993,Energía,Transporte,29.22
+1994,Energía,Emisiones fugitivas provenientes de la fabricación de combustibles,8.12
+1994,Energía,Industrias de la energía,22.54
+1994,Energía,Industrias manufactureras y de la construcción,20.95
+1994,Energía,Otros sectores,26.05
+1994,Energía,Transporte,32.46
+1995,Energía,Emisiones fugitivas provenientes de la fabricación de combustibles,8.8
+1995,Energía,Industrias de la energía,24.94
+1995,Energía,Industrias manufactureras y de la construcción,20.58
+1995,Energía,Otros sectores,25.94
+1995,Energía,Transporte,32.05
+1996,Energía,Emisiones fugitivas provenientes de la fabricación de combustibles,9.87
+1996,Energía,Industrias de la energía,28.53
+1996,Energía,Industrias manufactureras y de la construcción,22.02
+1996,Energía,Otros sectores,27.55
+1996,Energía,Transporte,39.75
+1997,Energía,Emisiones fugitivas provenientes de la fabricación de combustibles,10.51
+1997,Energía,Industrias de la energía,28.7
+1997,Energía,Industrias manufactureras y de la construcción,22.33
+1997,Energía,Otros sectores,27.96
+1997,Energía,Transporte,38.7
+1998,Energía,Emisiones fugitivas provenientes de la fabricación de combustibles,10.87
+1998,Energía,Industrias de la energía,31.51
+1998,Energía,Industrias manufactureras y de la construcción,24.44
+1998,Energía,Otros sectores,28.54
+1998,Energía,Transporte,40.38
+1999,Energía,Emisiones fugitivas provenientes de la fabricación de combustibles,10.95
+1999,Energía,Industrias de la energía,35.97
+1999,Energía,Industrias manufactureras y de la construcción,23.77
+1999,Energía,Otros sectores,29.58
+1999,Energía,Transporte,37.89
+2000,Energía,Emisiones fugitivas provenientes de la fabricación de combustibles,11.59
+2000,Energía,Industrias de la energía,35.71
+2000,Energía,Industrias manufactureras y de la construcción,23.66
+2000,Energía,Otros sectores,29.51
+2000,Energía,Transporte,34.41
+2001,Energía,Emisiones fugitivas provenientes de la fabricación de combustibles,12.16
+2001,Energía,Industrias de la energía,29.86
+2001,Energía,Industrias manufactureras y de la construcción,22.98
+2001,Energía,Otros sectores,30.47
+2001,Energía,Transporte,35.93
+2002,Energía,Emisiones fugitivas provenientes de la fabricación de combustibles,11.78
+2002,Energía,Industrias de la energía,27.53
+2002,Energía,Industrias manufactureras y de la construcción,22.61
+2002,Energía,Otros sectores,29.05
+2002,Energía,Transporte,33.09
+2003,Energía,Emisiones fugitivas provenientes de la fabricación de combustibles,12.53
+2003,Energía,Industrias de la energía,30.65
+2003,Energía,Industrias manufactureras y de la construcción,25.18
+2003,Energía,Otros sectores,30.45
+2003,Energía,Transporte,34.47
+2004,Energía,Emisiones fugitivas provenientes de la fabricación de combustibles,12.54
+2004,Energía,Industrias de la energía,37.11
+2004,Energía,Industrias manufactureras y de la construcción,26.29
+2004,Energía,Otros sectores,31.84
+2004,Energía,Transporte,37.2
+2005,Energía,Emisiones fugitivas provenientes de la fabricación de combustibles,12.23
+2005,Energía,Industrias de la energía,38.16
+2005,Energía,Industrias manufactureras y de la construcción,26.82
+2005,Energía,Otros sectores,33.39
+2005,Energía,Transporte,38.5
+2006,Energía,Emisiones fugitivas provenientes de la fabricación de combustibles,12.32
+2006,Energía,Industrias de la energía,41.17
+2006,Energía,Industrias manufactureras y de la construcción,28.25
+2006,Energía,Otros sectores,34.09
+2006,Energía,Transporte,41.38
+2007,Energía,Emisiones fugitivas provenientes de la fabricación de combustibles,12.18
+2007,Energía,Industrias de la energía,46.95
+2007,Energía,Industrias manufactureras y de la construcción,28.65
+2007,Energía,Otros sectores,39.01
+2007,Energía,Transporte,44.78
+2008,Energía,Emisiones fugitivas provenientes de la fabricación de combustibles,12.06
+2008,Energía,Industrias de la energía,51.6
+2008,Energía,Industrias manufactureras y de la construcción,29.15
+2008,Energía,Otros sectores,37.29
+2008,Energía,Transporte,46.78
+2009,Energía,Emisiones fugitivas provenientes de la fabricación de combustibles,11.58
+2009,Energía,Industrias de la energía,49.86
+2009,Energía,Industrias manufactureras y de la construcción,24.69
+2009,Energía,Otros sectores,35.53
+2009,Energía,Transporte,42.89
+2010,Energía,Emisiones fugitivas provenientes de la fabricación de combustibles,11.27
+2010,Energía,Industrias de la energía,52.03
+2010,Energía,Industrias manufactureras y de la construcción,33.13
+2010,Energía,Otros sectores,29.44
+2010,Energía,Transporte,52.77
+2011,Energía,Emisiones fugitivas provenientes de la fabricación de combustibles,10.84
+2011,Energía,Industrias de la energía,57.8
+2011,Energía,Industrias manufactureras y de la construcción,33.33
+2011,Energía,Otros sectores,31.6
+2011,Energía,Transporte,53.6
+2012,Energía,Emisiones fugitivas provenientes de la fabricación de combustibles,10.57
+2012,Energía,Industrias de la energía,59.85
+2012,Energía,Industrias manufactureras y de la construcción,32.19
+2012,Energía,Otros sectores,32.6
+2012,Energía,Transporte,52.39
+2013,Energía,Emisiones fugitivas provenientes de la fabricación de combustibles,10.07
+2013,Energía,Industrias de la energía,59.66
+2013,Energía,Industrias manufactureras y de la construcción,34.08
+2013,Energía,Otros sectores,33.86
+2013,Energía,Transporte,52.75
+2014,Energía,Emisiones fugitivas provenientes de la fabricación de combustibles,9.98
+2014,Energía,Industrias de la energía,59.83
+2014,Energía,Industrias manufactureras y de la construcción,33.52
+2014,Energía,Otros sectores,32.87
+2014,Energía,Transporte,50.94
+2015,Energía,Emisiones fugitivas provenientes de la fabricación de combustibles,10.23
+2015,Energía,Industrias de la energía,63.08
+2015,Energía,Industrias manufactureras y de la construcción,34.3
+2015,Energía,Otros sectores,33.06
+2015,Energía,Transporte,52.19
+2016,Energía,Emisiones fugitivas provenientes de la fabricación de combustibles,10.51
+2016,Energía,Industrias de la energía,64.63
+2016,Energía,Industrias manufactureras y de la construcción,32.74
+2016,Energía,Otros sectores,34.83
+2016,Energía,Transporte,50.68
+2017,Energía,Emisiones fugitivas provenientes de la fabricación de combustibles,10.31
+2017,Energía,Industrias de la energía,60.26
+2017,Energía,Industrias manufactureras y de la construcción,34.06
+2017,Energía,Otros sectores,31.93
+2017,Energía,Transporte,51.14
+2018,Energía,Emisiones fugitivas provenientes de la fabricación de combustibles,10.81
+2018,Energía,Industrias de la energía,58.63
+2018,Energía,Industrias manufactureras y de la construcción,33.1
+2018,Energía,Otros sectores,31.92
+2018,Energía,Transporte,51.03
