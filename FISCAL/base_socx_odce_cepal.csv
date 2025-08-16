@@ -1,465 +1,1616 @@
-"","iso3","pais_nombre","anio","valor"
-"1","ARG","Argentina",2010,18.39075
-"2","ARG","Argentina",2011,18.950751
-"3","ARG","Argentina",2012,20.310622
-"4","ARG","Argentina",2013,21.238413
-"5","ARG","Argentina",2014,21.067025
-"6","ARG","Argentina",2015,22.797141
-"7","ARG","Argentina",2016,22.717452
-"8","ARG","Argentina",2017,23.614015
-"9","ARG","Argentina",2018,22.341513
-"10","BRA","Brasil",2010,18.145887
-"11","BRA","Brasil",2011,18.008617
-"12","BRA","Brasil",2012,18.253629
-"13","BRA","Brasil",2013,18.619445
-"14","BRA","Brasil",2014,19.312251
-"15","BRA","Brasil",2015,20.254875
-"16","BRA","Brasil",2016,21.392805
-"17","BRA","Brasil",2017,22.35383
-"18","BRA","Brasil",2018,21.371711
-"19","COL","Colombia",2010,12.992165
-"20","COL","Colombia",2011,12.676735
-"21","COL","Colombia",2012,12.620337
-"22","COL","Colombia",2013,13.607735
-"23","COL","Colombia",2014,13.903186
-"24","COL","Colombia",2015,14.163523
-"25","COL","Colombia",2016,13.576149
-"26","COL","Colombia",2017,13.314528
-"27","COL","Colombia",2018,13.051648
-"28","CRI","Costa Rica",2011,11.983572
-"29","CRI","Costa Rica",2012,11.672883
-"30","CRI","Costa Rica",2013,12.075434
-"31","CRI","Costa Rica",2014,11.869302
-"32","CRI","Costa Rica",2015,12.161832
-"33","CRI","Costa Rica",2016,11.863261
-"34","CRI","Costa Rica",2017,11.538167
-"35","CRI","Costa Rica",2018,11.87973
-"36","SLV","El Salvador",2010,9.642862
-"37","SLV","El Salvador",2011,9.777744
-"38","SLV","El Salvador",2012,9.538272
-"39","SLV","El Salvador",2013,10.191413
-"40","SLV","El Salvador",2014,9.849372
-"41","SLV","El Salvador",2015,9.588725
-"42","SLV","El Salvador",2016,9.479505
-"43","SLV","El Salvador",2017,8.89573
-"44","SLV","El Salvador",2018,8.321098
-"45","GTM","Guatemala",2010,4.985656
-"46","GTM","Guatemala",2011,4.673461
-"47","GTM","Guatemala",2012,4.637921
-"48","GTM","Guatemala",2013,4.822173
-"49","GTM","Guatemala",2014,5.022361
-"50","GTM","Guatemala",2015,4.675971
-"51","GTM","Guatemala",2016,4.681706
-"52","GTM","Guatemala",2017,4.685093
-"53","GTM","Guatemala",2018,4.747716
-"54","PER","Perú",2012,6.789969
-"55","PER","Perú",2013,7.299195
-"56","PER","Perú",2014,7.888843
-"57","PER","Perú",2015,7.882709
-"58","PER","Perú",2016,7.473935
-"59","PER","Perú",2017,8.180834
-"60","PER","Perú",2018,7.714344
-"61","DOM","Rep. Dominicana",2010,4.251741
-"62","DOM","Rep. Dominicana",2011,4.32629
-"63","DOM","Rep. Dominicana",2012,4.634852
-"64","DOM","Rep. Dominicana",2013,4.601637
-"65","DOM","Rep. Dominicana",2014,4.535727
-"66","DOM","Rep. Dominicana",2015,4.485877
-"67","DOM","Rep. Dominicana",2016,4.43905
-"68","DOM","Rep. Dominicana",2017,4.548609
-"69","DOM","Rep. Dominicana",2018,4.365954
-"70","TTO","Trinidad y Tobago",2010,8.3615
-"71","TTO","Trinidad y Tobago",2011,8.3154
-"72","TTO","Trinidad y Tobago",2012,8.4494
-"73","TTO","Trinidad y Tobago",2013,9.1039
-"74","TTO","Trinidad y Tobago",2014,9.2835
-"75","TTO","Trinidad y Tobago",2015,11.4256
-"76","TTO","Trinidad y Tobago",2016,12.9389
-"77","TTO","Trinidad y Tobago",2017,12.7406
-"78","TTO","Trinidad y Tobago",2018,12.1501
-"79","URY","Uruguay",2011,16.363243
-"80","URY","Uruguay",2012,17.170903
-"81","URY","Uruguay",2013,17.517083
-"82","URY","Uruguay",2014,17.782361
-"83","URY","Uruguay",2015,18.464548
-"84","URY","Uruguay",2016,18.974397
-"85","URY","Uruguay",2017,19.92148
-"86","URY","Uruguay",2018,20.335065
-"87","SWE","Sweden",2010,26.81
-"88","SWE","Sweden",2011,26.38
-"89","SWE","Sweden",2012,27.438
-"90","SWE","Sweden",2013,28.142
-"91","SWE","Sweden",2014,27.857
-"92","SWE","Sweden",2015,27.417
-"93","SWE","Sweden",2016,27.669
-"94","SWE","Sweden",2017,27.234
-"95","SWE","Sweden",2018,26.997
-"96","LTU","Lithuania",2010,19.488
-"97","LTU","Lithuania",2011,17.335
-"98","LTU","Lithuania",2012,16.393
-"99","LTU","Lithuania",2013,15.406
-"100","LTU","Lithuania",2014,15.581
-"101","LTU","Lithuania",2015,15.766
-"102","LTU","Lithuania",2016,15.602
-"103","LTU","Lithuania",2017,15.334
-"104","LTU","Lithuania",2018,16.244
-"105","ISL","Iceland",2010,17.732
-"106","ISL","Iceland",2011,18.198
-"107","ISL","Iceland",2012,17.844
-"108","ISL","Iceland",2013,17.376
-"109","ISL","Iceland",2014,17.573
-"110","ISL","Iceland",2015,16.71
-"111","ISL","Iceland",2016,16.55
-"112","ISL","Iceland",2017,17.559
-"113","ISL","Iceland",2018,17.819
-"114","LUX","Luxembourg",2010,21.533
-"115","LUX","Luxembourg",2011,20.871
-"116","LUX","Luxembourg",2012,20.579
-"117","LUX","Luxembourg",2013,20.537
-"118","LUX","Luxembourg",2014,20.462
-"119","LUX","Luxembourg",2015,20.151
-"120","LUX","Luxembourg",2016,20.034
-"121","LUX","Luxembourg",2017,20.543
-"122","LUX","Luxembourg",2018,20.836
-"123","NZL","New Zealand",2010,22
-"124","NZL","New Zealand",2011,21.238
-"125","NZL","New Zealand",2012,21.36
-"126","NZL","New Zealand",2013,20.641
-"127","NZL","New Zealand",2014,20.68
-"128","NZL","New Zealand",2015,20.27
-"129","NZL","New Zealand",2016,20.032
-"130","NZL","New Zealand",2017,19.859
-"131","NZL","New Zealand",2018,19.834
-"132","CRI","Costa Rica",2010,NA
-"133","CRI","Costa Rica",2011,11.945
-"134","CRI","Costa Rica",2012,11.703
-"135","CRI","Costa Rica",2013,12.086
-"136","CRI","Costa Rica",2014,11.913
-"137","CRI","Costa Rica",2015,12.076
-"138","CRI","Costa Rica",2016,11.921
-"139","CRI","Costa Rica",2017,11.893
-"140","CRI","Costa Rica",2018,12.434
-"141","JPN","Japan",2010,20.981
-"142","JPN","Japan",2011,21.826
-"143","JPN","Japan",2012,21.773
-"144","JPN","Japan",2013,21.769
-"145","JPN","Japan",2014,21.539
-"146","JPN","Japan",2015,21.914
-"147","JPN","Japan",2016,21.965
-"148","JPN","Japan",2017,22.071
-"149","JPN","Japan",2018,22.191
-"150","SVK","Slovak Republic",2010,17.313
-"151","SVK","Slovak Republic",2011,17.089
-"152","SVK","Slovak Republic",2012,17.238
-"153","SVK","Slovak Republic",2013,17.559
-"154","SVK","Slovak Republic",2014,17.637
-"155","SVK","Slovak Republic",2015,17.145
-"156","SVK","Slovak Republic",2016,17.494
-"157","SVK","Slovak Republic",2017,17.411
-"158","SVK","Slovak Republic",2018,17.016
-"159","DNK","Denmark",2010,29.876
-"160","DNK","Denmark",2011,29.994
-"161","DNK","Denmark",2012,30.237
-"162","DNK","Denmark",2013,29.956
-"163","DNK","Denmark",2014,30.033
-"164","DNK","Denmark",2015,30.066
-"165","DNK","Denmark",2016,29.517
-"166","DNK","Denmark",2017,29.024
-"167","DNK","Denmark",2018,28.762
-"168","AUT","Austria",2010,28.226
-"169","AUT","Austria",2011,27.403
-"170","AUT","Austria",2012,27.791
-"171","AUT","Austria",2013,28.267
-"172","AUT","Austria",2014,28.514
-"173","AUT","Austria",2015,28.441
-"174","AUT","Austria",2016,28.351
-"175","AUT","Austria",2017,27.981
-"176","AUT","Austria",2018,27.72
-"177","FIN","Finland",2010,27.519
-"178","FIN","Finland",2011,27.223
-"179","FIN","Finland",2012,28.532
-"180","FIN","Finland",2013,29.672
-"181","FIN","Finland",2014,30.438
-"182","FIN","Finland",2015,30.812
-"183","FIN","Finland",2016,30.801
-"184","FIN","Finland",2017,29.884
-"185","FIN","Finland",2018,29.588
-"186","POL","Poland",2010,20.802
-"187","POL","Poland",2011,19.595
-"188","POL","Poland",2012,19.871
-"189","POL","Poland",2013,20.742
-"190","POL","Poland",2014,20.325
-"191","POL","Poland",2015,20.15
-"192","POL","Poland",2016,21.189
-"193","POL","Poland",2017,20.743
-"194","POL","Poland",2018,20.288
-"195","CAN","Canada",2010,18.425
-"196","CAN","Canada",2011,17.9
-"197","CAN","Canada",2012,18.065
-"198","CAN","Canada",2013,17.932
-"199","CAN","Canada",2014,17.848
-"200","CAN","Canada",2015,18.892
-"201","CAN","Canada",2016,19.188
-"202","CAN","Canada",2017,19.092
-"203","CAN","Canada",2018,19.118
-"204","USA","United States",2010,19.048
-"205","USA","United States",2011,18.749
-"206","USA","United States",2012,18.483
-"207","USA","United States",2013,18.421
-"208","USA","United States",2014,18.41
-"209","USA","United States",2015,18.483
-"210","USA","United States",2016,18.588
-"211","USA","United States",2017,18.386
-"212","USA","United States",2018,18.153
-"213","MEX","Mexico",2010,7.026
-"214","MEX","Mexico",2011,6.925
-"215","MEX","Mexico",2012,6.917
-"216","MEX","Mexico",2013,7.262
-"217","MEX","Mexico",2014,7.279
-"218","MEX","Mexico",2015,7.395
-"219","MEX","Mexico",2016,7.259
-"220","MEX","Mexico",2017,7.209
-"221","MEX","Mexico",2018,7.053
-"222","TUR","Türkiye",2010,12.273
-"223","TUR","Türkiye",2011,11.792
-"224","TUR","Türkiye",2012,11.947
-"225","TUR","Türkiye",2013,11.756
-"226","TUR","Türkiye",2014,11.66
-"227","TUR","Türkiye",2015,11.541
-"228","TUR","Türkiye",2016,12.534
-"229","TUR","Türkiye",2017,11.999
-"230","TUR","Türkiye",2018,11.76
-"231","CZE","Czechia",2010,20.013
-"232","CZE","Czechia",2011,19.976
-"233","CZE","Czechia",2012,20.32
-"234","CZE","Czechia",2013,20.427
-"235","CZE","Czechia",2014,20.037
-"236","CZE","Czechia",2015,19.432
-"237","CZE","Czechia",2016,19.127
-"238","CZE","Czechia",2017,18.671
-"239","CZE","Czechia",2018,18.868
-"240","LVA","Latvia",2010,19.533
-"241","LVA","Latvia",2011,17.514
-"242","LVA","Latvia",2012,15.918
-"243","LVA","Latvia",2013,16.1
-"244","LVA","Latvia",2014,15.941
-"245","LVA","Latvia",2015,16.26
-"246","LVA","Latvia",2016,16.542
-"247","LVA","Latvia",2017,16.4
-"248","LVA","Latvia",2018,16.716
-"249","AUS","Australia",2010,16.544
-"250","AUS","Australia",2011,17.008
-"251","AUS","Australia",2012,17.301
-"252","AUS","Australia",2013,17.264
-"253","AUS","Australia",2014,17.868
-"254","AUS","Australia",2015,18.199
-"255","AUS","Australia",2016,17.483
-"256","AUS","Australia",2017,17.072
-"257","AUS","Australia",2018,16.626
-"258","OECD","OECD",2010,20.509
-"259","OECD","OECD",2011,20.152
-"260","OECD","OECD",2012,20.268
-"261","OECD","OECD",2013,20.33
-"262","OECD","OECD",2014,20.287
-"263","OECD","OECD",2015,20.212
-"264","OECD","OECD",2016,20.204
-"265","OECD","OECD",2017,19.945
-"266","OECD","OECD",2018,19.834
-"267","ISR","Israel",2010,15.298
-"268","ISR","Israel",2011,15.062
-"269","ISR","Israel",2012,15.276
-"270","ISR","Israel",2013,15.413
-"271","ISR","Israel",2014,15.435
-"272","ISR","Israel",2015,15.405
-"273","ISR","Israel",2016,15.453
-"274","ISR","Israel",2017,16.022
-"275","ISR","Israel",2018,16.01
-"276","SVN","Slovenia",2010,23.558
-"277","SVN","Slovenia",2011,23.617
-"278","SVN","Slovenia",2012,23.682
-"279","SVN","Slovenia",2013,24.075
-"280","SVN","Slovenia",2014,23.312
-"281","SVN","Slovenia",2015,22.877
-"282","SVN","Slovenia",2016,22.5
-"283","SVN","Slovenia",2017,21.676
-"284","SVN","Slovenia",2018,21.517
-"285","HUN","Hungary",2010,22.862
-"286","HUN","Hungary",2011,22.208
-"287","HUN","Hungary",2012,22.546
-"288","HUN","Hungary",2013,22.183
-"289","HUN","Hungary",2014,21.315
-"290","HUN","Hungary",2015,20.343
-"291","HUN","Hungary",2016,20.116
-"292","HUN","Hungary",2017,19.411
-"293","HUN","Hungary",2018,18.55
-"294","NLD","Netherlands",2010,18.317
-"295","NLD","Netherlands",2011,18.419
-"296","NLD","Netherlands",2012,18.897
-"297","NLD","Netherlands",2013,19.141
-"298","NLD","Netherlands",2014,19.03
-"299","NLD","Netherlands",2015,18.602
-"300","NLD","Netherlands",2016,18.443
-"301","NLD","Netherlands",2017,17.939
-"302","NLD","Netherlands",2018,17.586
-"303","CHL","Chile",2010,10.543
-"304","CHL","Chile",2011,10.074
-"305","CHL","Chile",2012,10.133
-"306","CHL","Chile",2013,10.087
-"307","CHL","Chile",2014,10.371
-"308","CHL","Chile",2015,10.901
-"309","CHL","Chile",2016,11.129
-"310","CHL","Chile",2017,11.416
-"311","CHL","Chile",2018,11.386
-"312","ESP","Spain",2010,24.872
-"313","ESP","Spain",2011,25.496
-"314","ESP","Spain",2012,25.433
-"315","ESP","Spain",2013,25.574
-"316","ESP","Spain",2014,25.209
-"317","ESP","Spain",2015,24.493
-"318","ESP","Spain",2016,24.048
-"319","ESP","Spain",2017,23.578
-"320","ESP","Spain",2018,23.721
-"321","KOR","Korea",2010,7.373
-"322","KOR","Korea",2011,7.337
-"323","KOR","Korea",2012,7.825
-"324","KOR","Korea",2013,8.297
-"325","KOR","Korea",2014,8.633
-"326","KOR","Korea",2015,9.052
-"327","KOR","Korea",2016,9.247
-"328","KOR","Korea",2017,9.473
-"329","KOR","Korea",2018,10.172
-"330","CHE","Switzerland",2010,14.962
-"331","CHE","Switzerland",2011,14.925
-"332","CHE","Switzerland",2012,15.183
-"333","CHE","Switzerland",2013,15.462
-"334","CHE","Switzerland",2014,15.424
-"335","CHE","Switzerland",2015,15.893
-"336","CHE","Switzerland",2016,16.097
-"337","CHE","Switzerland",2017,16.271
-"338","CHE","Switzerland",2018,15.785
-"339","FRA","France",2010,30.97
-"340","FRA","France",2011,30.645
-"341","FRA","France",2012,31.185
-"342","FRA","France",2013,31.592
-"343","FRA","France",2014,31.892
-"344","FRA","France",2015,31.705
-"345","FRA","France",2016,31.842
-"346","FRA","France",2017,31.511
-"347","FRA","France",2018,31.052
-"348","EST","Estonia",2010,18.498
-"349","EST","Estonia",2011,16.451
-"350","EST","Estonia",2012,15.933
-"351","EST","Estonia",2013,15.75
-"352","EST","Estonia",2014,16.073
-"353","EST","Estonia",2015,17.326
-"354","EST","Estonia",2016,17.519
-"355","EST","Estonia",2017,17.014
-"356","EST","Estonia",2018,17.453
-"357","GRC","Greece",2010,25.077
-"358","GRC","Greece",2011,26.442
-"359","GRC","Greece",2012,27.792
-"360","GRC","Greece",2013,25.717
-"361","GRC","Greece",2014,25.68
-"362","GRC","Greece",2015,25.864
-"363","GRC","Greece",2016,26.053
-"364","GRC","Greece",2017,25.122
-"365","GRC","Greece",2018,24.881
-"366","PRT","Portugal",2010,24.302
-"367","PRT","Portugal",2011,24.198
-"368","PRT","Portugal",2012,24.297
-"369","PRT","Portugal",2013,25.386
-"370","PRT","Portugal",2014,24.959
-"371","PRT","Portugal",2015,23.967
-"372","PRT","Portugal",2016,23.477
-"373","PRT","Portugal",2017,22.783
-"374","PRT","Portugal",2018,22.478
-"375","ITA","Italy",2010,26.827
-"376","ITA","Italy",2011,26.43
-"377","ITA","Italy",2012,27.121
-"378","ITA","Italy",2013,27.733
-"379","ITA","Italy",2014,27.985
-"380","ITA","Italy",2015,28.188
-"381","ITA","Italy",2016,27.779
-"382","ITA","Italy",2017,27.528
-"383","ITA","Italy",2018,27.417
-"384","GBR","United Kingdom",2010,25.234
-"385","GBR","United Kingdom",2011,25.076
-"386","GBR","United Kingdom",2012,25.279
-"387","GBR","United Kingdom",2013,24.583
-"388","GBR","United Kingdom",2014,24.024
-"389","GBR","United Kingdom",2015,23.698
-"390","GBR","United Kingdom",2016,22.9
-"391","GBR","United Kingdom",2017,22.647
-"392","GBR","United Kingdom",2018,22.223
-"393","BEL","Belgium",2010,27.658
-"394","BEL","Belgium",2011,27.879
-"395","BEL","Belgium",2012,27.822
-"396","BEL","Belgium",2013,28.2
-"397","BEL","Belgium",2014,28.26
-"398","BEL","Belgium",2015,29.119
-"399","BEL","Belgium",2016,28.517
-"400","BEL","Belgium",2017,28.363
-"401","BEL","Belgium",2018,28.342
-"402","NOR","Norway",2010,22.001
-"403","NOR","Norway",2011,21.446
-"404","NOR","Norway",2012,21.332
-"405","NOR","Norway",2013,21.782
-"406","NOR","Norway",2014,22.687
-"407","NOR","Norway",2015,24.531
-"408","NOR","Norway",2016,25.819
-"409","NOR","Norway",2017,24.952
-"410","NOR","Norway",2018,24.082
-"411","IRL","Ireland",2010,24.118
-"412","IRL","Ireland",2011,23.025
-"413","IRL","Ireland",2012,22.842
-"414","IRL","Ireland",2013,21.33
-"415","IRL","Ireland",2014,19.5
-"416","IRL","Ireland",2015,14.659
-"417","IRL","Ireland",2016,14.8
-"418","IRL","Ireland",2017,13.643
-"419","IRL","Ireland",2018,13.163
-"420","COL","Colombia",2010,12.149
-"421","COL","Colombia",2011,12.681
-"422","COL","Colombia",2012,12.63
-"423","COL","Colombia",2013,13.424
-"424","COL","Colombia",2014,14.108
-"425","COL","Colombia",2015,14.611
-"426","COL","Colombia",2016,14.24
-"427","COL","Colombia",2017,14.253
-"428","COL","Colombia",2018,13.817
-"429","DEU","Germany",2010,26.685
-"430","DEU","Germany",2011,25.385
-"431","DEU","Germany",2012,25.285
-"432","DEU","Germany",2013,25.492
-"433","DEU","Germany",2014,25.43
-"434","DEU","Germany",2015,25.721
-"435","DEU","Germany",2016,25.922
-"436","DEU","Germany",2017,25.938
-"437","DEU","Germany",2018,26.041
-"438","ROU","Romania",2010,17.391
-"439","ROU","Romania",2011,15.4
-"440","ROU","Romania",2012,14.697
-"441","ROU","Romania",2013,15.408
-"442","ROU","Romania",2014,15.076
-"443","ROU","Romania",2015,14.865
-"444","ROU","Romania",2016,15.172
-"445","ROU","Romania",2017,15.241
-"446","ROU","Romania",2018,15.281
-"447","BGR","Bulgaria",2010,16.269
-"448","BGR","Bulgaria",2011,15.477
-"449","BGR","Bulgaria",2012,16.455
-"450","BGR","Bulgaria",2013,17.75
-"451","BGR","Bulgaria",2014,18.419
-"452","BGR","Bulgaria",2015,17.583
-"453","BGR","Bulgaria",2016,17.21
-"454","BGR","Bulgaria",2017,16.834
-"455","BGR","Bulgaria",2018,16.84
-"456","HRV","Croatia",2010,21.216
-"457","HRV","Croatia",2011,20.179
-"458","HRV","Croatia",2012,20.627
-"459","HRV","Croatia",2013,20.145
-"460","HRV","Croatia",2014,20.687
-"461","HRV","Croatia",2015,20.687
-"462","HRV","Croatia",2016,20.63
-"463","HRV","Croatia",2017,20.345
-"464","HRV","Croatia",2018,20.594
+"geocodigoFundar","anio","valor","fuente","geonombreFundar"
+"ARG","2010","18.39075","CEPAL","Argentina"
+"ARG","2011","18.950751","CEPAL","Argentina"
+"ARG","2012","20.310622","CEPAL","Argentina"
+"ARG","2013","21.238413","CEPAL","Argentina"
+"ARG","2014","21.067025","CEPAL","Argentina"
+"ARG","2015","22.797141","CEPAL","Argentina"
+"ARG","2016","22.717452","CEPAL","Argentina"
+"ARG","2017","23.614015","CEPAL","Argentina"
+"ARG","2018","22.341513","CEPAL","Argentina"
+"BRA","2010","18.145887","CEPAL","Brasil"
+"BRA","2011","18.008617","CEPAL","Brasil"
+"BRA","2012","18.253629","CEPAL","Brasil"
+"BRA","2013","18.619445","CEPAL","Brasil"
+"BRA","2014","19.312251","CEPAL","Brasil"
+"BRA","2015","20.254875","CEPAL","Brasil"
+"BRA","2016","21.392805","CEPAL","Brasil"
+"BRA","2017","22.35383","CEPAL","Brasil"
+"BRA","2018","21.371711","CEPAL","Brasil"
+"COL","2010","12.992165","CEPAL","Colombia"
+"COL","2011","12.676735","CEPAL","Colombia"
+"COL","2012","12.620337","CEPAL","Colombia"
+"COL","2013","13.607735","CEPAL","Colombia"
+"COL","2014","13.903186","CEPAL","Colombia"
+"COL","2015","14.163523","CEPAL","Colombia"
+"COL","2016","13.576149","CEPAL","Colombia"
+"COL","2017","13.314528","CEPAL","Colombia"
+"COL","2018","13.051648","CEPAL","Colombia"
+"CRI","2011","11.983572","CEPAL","Costa Rica"
+"CRI","2012","11.672883","CEPAL","Costa Rica"
+"CRI","2013","12.075434","CEPAL","Costa Rica"
+"CRI","2014","11.869302","CEPAL","Costa Rica"
+"CRI","2015","12.161832","CEPAL","Costa Rica"
+"CRI","2016","11.863261","CEPAL","Costa Rica"
+"CRI","2017","11.538167","CEPAL","Costa Rica"
+"CRI","2018","11.87973","CEPAL","Costa Rica"
+"SLV","2010","9.642862","CEPAL","El Salvador"
+"SLV","2011","9.777744","CEPAL","El Salvador"
+"SLV","2012","9.538272","CEPAL","El Salvador"
+"SLV","2013","10.191413","CEPAL","El Salvador"
+"SLV","2014","9.849372","CEPAL","El Salvador"
+"SLV","2015","9.588725","CEPAL","El Salvador"
+"SLV","2016","9.479505","CEPAL","El Salvador"
+"SLV","2017","8.89573","CEPAL","El Salvador"
+"SLV","2018","8.321098","CEPAL","El Salvador"
+"SLV","2019","8.334718","CEPAL","El Salvador"
+"GTM","2010","4.985656","CEPAL","Guatemala"
+"GTM","2011","4.673461","CEPAL","Guatemala"
+"GTM","2012","4.637921","CEPAL","Guatemala"
+"GTM","2013","4.822173","CEPAL","Guatemala"
+"GTM","2014","5.022361","CEPAL","Guatemala"
+"GTM","2015","4.675971","CEPAL","Guatemala"
+"GTM","2016","4.681706","CEPAL","Guatemala"
+"GTM","2017","4.685093","CEPAL","Guatemala"
+"GTM","2018","4.747716","CEPAL","Guatemala"
+"GTM","2019","5.044692","CEPAL","Guatemala"
+"PER","2012","6.789969","CEPAL","Perú"
+"PER","2013","7.299195","CEPAL","Perú"
+"PER","2014","7.888843","CEPAL","Perú"
+"PER","2015","7.882709","CEPAL","Perú"
+"PER","2016","7.473935","CEPAL","Perú"
+"PER","2017","8.180834","CEPAL","Perú"
+"PER","2018","7.714344","CEPAL","Perú"
+"DOM","2008","4.068443","CEPAL","Rep. Dominicana"
+"DOM","2009","3.993698","CEPAL","Rep. Dominicana"
+"DOM","2010","4.251741","CEPAL","Rep. Dominicana"
+"DOM","2011","4.32629","CEPAL","Rep. Dominicana"
+"DOM","2012","4.634852","CEPAL","Rep. Dominicana"
+"DOM","2013","4.601637","CEPAL","Rep. Dominicana"
+"DOM","2014","4.535727","CEPAL","Rep. Dominicana"
+"DOM","2015","4.485877","CEPAL","Rep. Dominicana"
+"DOM","2016","4.43905","CEPAL","Rep. Dominicana"
+"DOM","2017","4.548609","CEPAL","Rep. Dominicana"
+"DOM","2018","4.365954","CEPAL","Rep. Dominicana"
+"DOM","2019","4.469715","CEPAL","Rep. Dominicana"
+"TTO","2008","5.559","CEPAL","Trinidad y Tobago"
+"TTO","2009","9.1322","CEPAL","Trinidad y Tobago"
+"TTO","2010","8.3615","CEPAL","Trinidad y Tobago"
+"TTO","2011","8.3154","CEPAL","Trinidad y Tobago"
+"TTO","2012","8.4494","CEPAL","Trinidad y Tobago"
+"TTO","2013","9.1039","CEPAL","Trinidad y Tobago"
+"TTO","2014","9.2835","CEPAL","Trinidad y Tobago"
+"TTO","2015","11.4256","CEPAL","Trinidad y Tobago"
+"TTO","2016","12.9389","CEPAL","Trinidad y Tobago"
+"TTO","2017","12.7406","CEPAL","Trinidad y Tobago"
+"TTO","2018","12.1501","CEPAL","Trinidad y Tobago"
+"URY","2011","16.363243","CEPAL","Uruguay"
+"URY","2012","17.170903","CEPAL","Uruguay"
+"URY","2013","17.517083","CEPAL","Uruguay"
+"URY","2014","17.782361","CEPAL","Uruguay"
+"URY","2015","18.464548","CEPAL","Uruguay"
+"URY","2016","18.974397","CEPAL","Uruguay"
+"URY","2017","19.92148","CEPAL","Uruguay"
+"URY","2018","20.335065","CEPAL","Uruguay"
+"SWE","1980","24.529","OECD","Suecia"
+"SWE","1981","25.228","OECD","Suecia"
+"SWE","1982","25.162","OECD","Suecia"
+"SWE","1983","25.458","OECD","Suecia"
+"SWE","1984","24.688","OECD","Suecia"
+"SWE","1985","26.625","OECD","Suecia"
+"SWE","1986","26.747","OECD","Suecia"
+"SWE","1987","26.968","OECD","Suecia"
+"SWE","1988","27.416","OECD","Suecia"
+"SWE","1989","26.843","OECD","Suecia"
+"SWE","1990","26.892","OECD","Suecia"
+"SWE","1991","28.702","OECD","Suecia"
+"SWE","1992","32.252","OECD","Suecia"
+"SWE","1993","34.414","OECD","Suecia"
+"SWE","1994","33.2","OECD","Suecia"
+"SWE","1995","30.836","OECD","Suecia"
+"SWE","1996","30.365","OECD","Suecia"
+"SWE","1997","29.071","OECD","Suecia"
+"SWE","1998","28.835","OECD","Suecia"
+"SWE","1999","28.279","OECD","Suecia"
+"SWE","2000","26.986","OECD","Suecia"
+"SWE","2001","27.136","OECD","Suecia"
+"SWE","2002","27.731","OECD","Suecia"
+"SWE","2003","28.486","OECD","Suecia"
+"SWE","2004","27.99","OECD","Suecia"
+"SWE","2005","27.673","OECD","Suecia"
+"SWE","2006","26.966","OECD","Suecia"
+"SWE","2007","25.921","OECD","Suecia"
+"SWE","2008","26.203","OECD","Suecia"
+"SWE","2009","28.16","OECD","Suecia"
+"SWE","2010","26.81","OECD","Suecia"
+"SWE","2011","26.38","OECD","Suecia"
+"SWE","2012","27.438","OECD","Suecia"
+"SWE","2013","28.142","OECD","Suecia"
+"SWE","2014","27.857","OECD","Suecia"
+"SWE","2015","27.417","OECD","Suecia"
+"SWE","2016","27.669","OECD","Suecia"
+"SWE","2017","27.234","OECD","Suecia"
+"SWE","2018","26.997","OECD","Suecia"
+"SWE","2019","26.324","OECD","Suecia"
+"SWE","2020","27.945","OECD","Suecia"
+"SWE","2021","26.321","OECD","Suecia"
+"SWE","2022","25.272","OECD","Suecia"
+"SWE","2023","25.761","OECD","Suecia"
+"LTU","1996","13.04","OECD","Lituania"
+"LTU","1997","13.687","OECD","Lituania"
+"LTU","1998","14.904","OECD","Lituania"
+"LTU","1999","16.077","OECD","Lituania"
+"LTU","2000","15.368","OECD","Lituania"
+"LTU","2001","14.533","OECD","Lituania"
+"LTU","2002","14.336","OECD","Lituania"
+"LTU","2003","14.268","OECD","Lituania"
+"LTU","2004","13.168","OECD","Lituania"
+"LTU","2005","13.691","OECD","Lituania"
+"LTU","2006","13.792","OECD","Lituania"
+"LTU","2007","14.827","OECD","Lituania"
+"LTU","2008","16.563","OECD","Lituania"
+"LTU","2009","21.787","OECD","Lituania"
+"LTU","2010","19.488","OECD","Lituania"
+"LTU","2011","17.335","OECD","Lituania"
+"LTU","2012","16.393","OECD","Lituania"
+"LTU","2013","15.406","OECD","Lituania"
+"LTU","2014","15.581","OECD","Lituania"
+"LTU","2015","15.766","OECD","Lituania"
+"LTU","2016","15.602","OECD","Lituania"
+"LTU","2017","15.334","OECD","Lituania"
+"LTU","2018","16.244","OECD","Lituania"
+"LTU","2019","16.862","OECD","Lituania"
+"LTU","2020","21.091","OECD","Lituania"
+"LTU","2021","19.298","OECD","Lituania"
+"LTU","2022","17.444","OECD","Lituania"
+"LTU","2023","16.941","OECD","Lituania"
+"ISL","1990","13.289","OECD","Islandia"
+"ISL","1991","13.742","OECD","Islandia"
+"ISL","1992","14.274","OECD","Islandia"
+"ISL","1993","14.564","OECD","Islandia"
+"ISL","1994","14.354","OECD","Islandia"
+"ISL","1995","14.686","OECD","Islandia"
+"ISL","1996","14.552","OECD","Islandia"
+"ISL","1997","14.108","OECD","Islandia"
+"ISL","1998","14.17","OECD","Islandia"
+"ISL","1999","14.423","OECD","Islandia"
+"ISL","2000","14.462","OECD","Islandia"
+"ISL","2001","14.482","OECD","Islandia"
+"ISL","2002","15.808","OECD","Islandia"
+"ISL","2003","16.732","OECD","Islandia"
+"ISL","2004","16.492","OECD","Islandia"
+"ISL","2005","15.618","OECD","Islandia"
+"ISL","2006","14.977","OECD","Islandia"
+"ISL","2007","15.825","OECD","Islandia"
+"ISL","2008","16.15","OECD","Islandia"
+"ISL","2009","18.491","OECD","Islandia"
+"ISL","2010","17.732","OECD","Islandia"
+"ISL","2011","18.198","OECD","Islandia"
+"ISL","2012","17.844","OECD","Islandia"
+"ISL","2013","17.376","OECD","Islandia"
+"ISL","2014","17.573","OECD","Islandia"
+"ISL","2015","16.71","OECD","Islandia"
+"ISL","2016","16.55","OECD","Islandia"
+"ISL","2017","17.559","OECD","Islandia"
+"ISL","2018","17.819","OECD","Islandia"
+"ISL","2019","18.854","OECD","Islandia"
+"ISL","2020","23.071","OECD","Islandia"
+"ISL","2021","22.696","OECD","Islandia"
+"ISL","2022","19.554","OECD","Islandia"
+"ISL","2023","18.63","OECD","Islandia"
+"LUX","1980","20.098","OECD","Luxemburgo"
+"LUX","1981","21.505","OECD","Luxemburgo"
+"LUX","1982","20.826","OECD","Luxemburgo"
+"LUX","1983","20.992","OECD","Luxemburgo"
+"LUX","1984","19.774","OECD","Luxemburgo"
+"LUX","1985","19.582","OECD","Luxemburgo"
+"LUX","1986","18.953","OECD","Luxemburgo"
+"LUX","1987","19.813","OECD","Luxemburgo"
+"LUX","1988","19.402","OECD","Luxemburgo"
+"LUX","1989","18.769","OECD","Luxemburgo"
+"LUX","1990","18.974","OECD","Luxemburgo"
+"LUX","1991","19.287","OECD","Luxemburgo"
+"LUX","1992","19.64","OECD","Luxemburgo"
+"LUX","1993","19.964","OECD","Luxemburgo"
+"LUX","1994","19.778","OECD","Luxemburgo"
+"LUX","1995","20.583","OECD","Luxemburgo"
+"LUX","1996","20.561","OECD","Luxemburgo"
+"LUX","1997","20.033","OECD","Luxemburgo"
+"LUX","1998","20.213","OECD","Luxemburgo"
+"LUX","1999","19.805","OECD","Luxemburgo"
+"LUX","2000","18.774","OECD","Luxemburgo"
+"LUX","2001","20.28","OECD","Luxemburgo"
+"LUX","2002","21.481","OECD","Luxemburgo"
+"LUX","2003","22.756","OECD","Luxemburgo"
+"LUX","2004","22.821","OECD","Luxemburgo"
+"LUX","2005","22.587","OECD","Luxemburgo"
+"LUX","2006","21.111","OECD","Luxemburgo"
+"LUX","2007","19.618","OECD","Luxemburgo"
+"LUX","2008","20.416","OECD","Luxemburgo"
+"LUX","2009","22.373","OECD","Luxemburgo"
+"LUX","2010","21.533","OECD","Luxemburgo"
+"LUX","2011","20.871","OECD","Luxemburgo"
+"LUX","2012","20.579","OECD","Luxemburgo"
+"LUX","2013","20.537","OECD","Luxemburgo"
+"LUX","2014","20.462","OECD","Luxemburgo"
+"LUX","2015","20.151","OECD","Luxemburgo"
+"LUX","2016","20.034","OECD","Luxemburgo"
+"LUX","2017","20.543","OECD","Luxemburgo"
+"LUX","2018","20.836","OECD","Luxemburgo"
+"LUX","2019","21.345","OECD","Luxemburgo"
+"LUX","2020","23.915","OECD","Luxemburgo"
+"LUX","2021","21.542","OECD","Luxemburgo"
+"LUX","2022","22.102","OECD","Luxemburgo"
+"LUX","2023","23.398","OECD","Luxemburgo"
+"NZL","1980","16.299","OECD","Nueva Zelanda"
+"NZL","1981","16.478","OECD","Nueva Zelanda"
+"NZL","1982","16.946","OECD","Nueva Zelanda"
+"NZL","1983","16.62","OECD","Nueva Zelanda"
+"NZL","1984","15.927","OECD","Nueva Zelanda"
+"NZL","1985","16.294","OECD","Nueva Zelanda"
+"NZL","1986","16.397","OECD","Nueva Zelanda"
+"NZL","1987","17.266","OECD","Nueva Zelanda"
+"NZL","1988","18.298","OECD","Nueva Zelanda"
+"NZL","1989","19.649","OECD","Nueva Zelanda"
+"NZL","1990","20.142","OECD","Nueva Zelanda"
+"NZL","1991","20.564","OECD","Nueva Zelanda"
+"NZL","1992","20.247","OECD","Nueva Zelanda"
+"NZL","1993","18.797","OECD","Nueva Zelanda"
+"NZL","1994","18.18","OECD","Nueva Zelanda"
+"NZL","1995","17.616","OECD","Nueva Zelanda"
+"NZL","1996","17.561","OECD","Nueva Zelanda"
+"NZL","1997","18.577","OECD","Nueva Zelanda"
+"NZL","1998","19.111","OECD","Nueva Zelanda"
+"NZL","1999","18.46","OECD","Nueva Zelanda"
+"NZL","2000","18.259","OECD","Nueva Zelanda"
+"NZL","2001","17.628","OECD","Nueva Zelanda"
+"NZL","2002","18.268","OECD","Nueva Zelanda"
+"NZL","2003","17.641","OECD","Nueva Zelanda"
+"NZL","2004","16.714","OECD","Nueva Zelanda"
+"NZL","2005","18.649","OECD","Nueva Zelanda"
+"NZL","2006","18.734","OECD","Nueva Zelanda"
+"NZL","2007","19.672","OECD","Nueva Zelanda"
+"NZL","2008","21.965","OECD","Nueva Zelanda"
+"NZL","2009","22.338","OECD","Nueva Zelanda"
+"NZL","2010","22","OECD","Nueva Zelanda"
+"NZL","2011","21.238","OECD","Nueva Zelanda"
+"NZL","2012","21.36","OECD","Nueva Zelanda"
+"NZL","2013","20.641","OECD","Nueva Zelanda"
+"NZL","2014","20.68","OECD","Nueva Zelanda"
+"NZL","2015","20.27","OECD","Nueva Zelanda"
+"NZL","2016","20.032","OECD","Nueva Zelanda"
+"NZL","2017","19.859","OECD","Nueva Zelanda"
+"NZL","2018","19.834","OECD","Nueva Zelanda"
+"NZL","2019","24.18","OECD","Nueva Zelanda"
+"NZL","2020","22.674","OECD","Nueva Zelanda"
+"NZL","2021","24.234","OECD","Nueva Zelanda"
+"NZL","2022","24.625","OECD","Nueva Zelanda"
+"CRI","2011","11.945","OECD","Costa Rica"
+"CRI","2012","11.703","OECD","Costa Rica"
+"CRI","2013","12.086","OECD","Costa Rica"
+"CRI","2014","11.913","OECD","Costa Rica"
+"CRI","2015","12.076","OECD","Costa Rica"
+"CRI","2016","11.921","OECD","Costa Rica"
+"CRI","2017","11.893","OECD","Costa Rica"
+"CRI","2018","12.434","OECD","Costa Rica"
+"CRI","2019","12.326","OECD","Costa Rica"
+"CRI","2020","14.372","OECD","Costa Rica"
+"CRI","2021","12.701","OECD","Costa Rica"
+"CRI","2022","12.644","OECD","Costa Rica"
+"JPN","1980","9.82","OECD","Japón"
+"JPN","1981","10.248","OECD","Japón"
+"JPN","1982","10.569","OECD","Japón"
+"JPN","1983","10.795","OECD","Japón"
+"JPN","1984","10.664","OECD","Japón"
+"JPN","1985","10.637","OECD","Japón"
+"JPN","1986","10.965","OECD","Japón"
+"JPN","1987","11.025","OECD","Japón"
+"JPN","1988","10.736","OECD","Japón"
+"JPN","1989","10.594","OECD","Japón"
+"JPN","1990","10.45","OECD","Japón"
+"JPN","1991","10.579","OECD","Japón"
+"JPN","1992","11.185","OECD","Japón"
+"JPN","1993","11.876","OECD","Japón"
+"JPN","1994","12.383","OECD","Japón"
+"JPN","1995","12.745","OECD","Japón"
+"JPN","1996","12.721","OECD","Japón"
+"JPN","1997","13.147","OECD","Japón"
+"JPN","1998","13.86","OECD","Japón"
+"JPN","1999","14.726","OECD","Japón"
+"JPN","2000","14.916","OECD","Japón"
+"JPN","2001","15.764","OECD","Japón"
+"JPN","2002","16.106","OECD","Japón"
+"JPN","2003","16.285","OECD","Japón"
+"JPN","2004","16.49","OECD","Japón"
+"JPN","2005","16.886","OECD","Japón"
+"JPN","2006","17.011","OECD","Japón"
+"JPN","2007","17.431","OECD","Japón"
+"JPN","2008","18.445","OECD","Japón"
+"JPN","2009","20.632","OECD","Japón"
+"JPN","2010","20.981","OECD","Japón"
+"JPN","2011","21.826","OECD","Japón"
+"JPN","2012","21.773","OECD","Japón"
+"JPN","2013","21.769","OECD","Japón"
+"JPN","2014","21.539","OECD","Japón"
+"JPN","2015","21.914","OECD","Japón"
+"JPN","2016","21.965","OECD","Japón"
+"JPN","2017","22.071","OECD","Japón"
+"JPN","2018","22.191","OECD","Japón"
+"JPN","2019","22.766","OECD","Japón"
+"JPN","2020","24.762","OECD","Japón"
+"JPN","2021","25.448","OECD","Japón"
+"JPN","2022","24.736","OECD","Japón"
+"SVK","1995","18.089","OECD","Eslovaquia"
+"SVK","1996","17.764","OECD","Eslovaquia"
+"SVK","1997","17.494","OECD","Eslovaquia"
+"SVK","1998","17.635","OECD","Eslovaquia"
+"SVK","1999","18.165","OECD","Eslovaquia"
+"SVK","2000","17.533","OECD","Eslovaquia"
+"SVK","2001","17.26","OECD","Eslovaquia"
+"SVK","2002","17.415","OECD","Eslovaquia"
+"SVK","2003","16.727","OECD","Eslovaquia"
+"SVK","2004","15.96","OECD","Eslovaquia"
+"SVK","2005","15.442","OECD","Eslovaquia"
+"SVK","2006","15.063","OECD","Eslovaquia"
+"SVK","2007","14.854","OECD","Eslovaquia"
+"SVK","2008","14.942","OECD","Eslovaquia"
+"SVK","2009","17.781","OECD","Eslovaquia"
+"SVK","2010","17.313","OECD","Eslovaquia"
+"SVK","2011","17.089","OECD","Eslovaquia"
+"SVK","2012","17.238","OECD","Eslovaquia"
+"SVK","2013","17.559","OECD","Eslovaquia"
+"SVK","2014","17.637","OECD","Eslovaquia"
+"SVK","2015","17.145","OECD","Eslovaquia"
+"SVK","2016","17.494","OECD","Eslovaquia"
+"SVK","2017","17.411","OECD","Eslovaquia"
+"SVK","2018","17.016","OECD","Eslovaquia"
+"SVK","2019","17.359","OECD","Eslovaquia"
+"SVK","2020","19.094","OECD","Eslovaquia"
+"SVK","2021","18.971","OECD","Eslovaquia"
+"SVK","2022","18.119","OECD","Eslovaquia"
+"SVK","2023","19.294","OECD","Eslovaquia"
+"DNK","1980","20.35","OECD","Dinamarca"
+"DNK","1981","20.268","OECD","Dinamarca"
+"DNK","1982","20.076","OECD","Dinamarca"
+"DNK","1983","20.171","OECD","Dinamarca"
+"DNK","1984","19.31","OECD","Dinamarca"
+"DNK","1985","19.222","OECD","Dinamarca"
+"DNK","1986","19.747","OECD","Dinamarca"
+"DNK","1987","20.521","OECD","Dinamarca"
+"DNK","1988","21.482","OECD","Dinamarca"
+"DNK","1989","21.493","OECD","Dinamarca"
+"DNK","1990","21.954","OECD","Dinamarca"
+"DNK","1991","22.411","OECD","Dinamarca"
+"DNK","1992","22.592","OECD","Dinamarca"
+"DNK","1993","23.805","OECD","Dinamarca"
+"DNK","1994","25.448","OECD","Dinamarca"
+"DNK","1995","25.534","OECD","Dinamarca"
+"DNK","1996","24.966","OECD","Dinamarca"
+"DNK","1997","24.198","OECD","Dinamarca"
+"DNK","1998","23.756","OECD","Dinamarca"
+"DNK","1999","24.558","OECD","Dinamarca"
+"DNK","2000","23.781","OECD","Dinamarca"
+"DNK","2001","24.277","OECD","Dinamarca"
+"DNK","2002","24.783","OECD","Dinamarca"
+"DNK","2003","25.29","OECD","Dinamarca"
+"DNK","2004","25.058","OECD","Dinamarca"
+"DNK","2005","25.13","OECD","Dinamarca"
+"DNK","2006","24.916","OECD","Dinamarca"
+"DNK","2007","25.848","OECD","Dinamarca"
+"DNK","2008","26.204","OECD","Dinamarca"
+"DNK","2009","29.157","OECD","Dinamarca"
+"DNK","2010","29.876","OECD","Dinamarca"
+"DNK","2011","29.994","OECD","Dinamarca"
+"DNK","2012","30.237","OECD","Dinamarca"
+"DNK","2013","29.956","OECD","Dinamarca"
+"DNK","2014","30.033","OECD","Dinamarca"
+"DNK","2015","30.066","OECD","Dinamarca"
+"DNK","2016","29.517","OECD","Dinamarca"
+"DNK","2017","29.024","OECD","Dinamarca"
+"DNK","2018","28.762","OECD","Dinamarca"
+"DNK","2019","28.741","OECD","Dinamarca"
+"DNK","2020","29.566","OECD","Dinamarca"
+"DNK","2021","28.091","OECD","Dinamarca"
+"DNK","2022","25.475","OECD","Dinamarca"
+"DNK","2023","26.314","OECD","Dinamarca"
+"AUT","1980","21.992","OECD","Austria"
+"AUT","1985","23.296","OECD","Austria"
+"AUT","1990","23.354","OECD","Austria"
+"AUT","1991","23.677","OECD","Austria"
+"AUT","1992","24.371","OECD","Austria"
+"AUT","1993","25.776","OECD","Austria"
+"AUT","1994","26.719","OECD","Austria"
+"AUT","1995","26.66","OECD","Austria"
+"AUT","1996","26.825","OECD","Austria"
+"AUT","1997","26.311","OECD","Austria"
+"AUT","1998","26.122","OECD","Austria"
+"AUT","1999","26.428","OECD","Austria"
+"AUT","2000","26.187","OECD","Austria"
+"AUT","2001","26.226","OECD","Austria"
+"AUT","2002","26.585","OECD","Austria"
+"AUT","2003","27.083","OECD","Austria"
+"AUT","2004","26.921","OECD","Austria"
+"AUT","2005","26.516","OECD","Austria"
+"AUT","2006","26.248","OECD","Austria"
+"AUT","2007","25.636","OECD","Austria"
+"AUT","2008","26.116","OECD","Austria"
+"AUT","2009","28.128","OECD","Austria"
+"AUT","2010","28.226","OECD","Austria"
+"AUT","2011","27.403","OECD","Austria"
+"AUT","2012","27.791","OECD","Austria"
+"AUT","2013","28.267","OECD","Austria"
+"AUT","2014","28.514","OECD","Austria"
+"AUT","2015","28.441","OECD","Austria"
+"AUT","2016","28.351","OECD","Austria"
+"AUT","2017","27.981","OECD","Austria"
+"AUT","2018","27.72","OECD","Austria"
+"AUT","2019","27.837","OECD","Austria"
+"AUT","2020","32.691","OECD","Austria"
+"AUT","2021","31.991","OECD","Austria"
+"AUT","2022","30.015","OECD","Austria"
+"AUT","2023","30.312","OECD","Austria"
+"FIN","1980","17.754","OECD","Finlandia"
+"FIN","1981","17.897","OECD","Finlandia"
+"FIN","1982","18.929","OECD","Finlandia"
+"FIN","1983","19.838","OECD","Finlandia"
+"FIN","1984","20.633","OECD","Finlandia"
+"FIN","1985","21.686","OECD","Finlandia"
+"FIN","1986","22.128","OECD","Finlandia"
+"FIN","1987","22.763","OECD","Finlandia"
+"FIN","1988","22.09","OECD","Finlandia"
+"FIN","1989","21.818","OECD","Finlandia"
+"FIN","1990","23.33","OECD","Finlandia"
+"FIN","1991","28.244","OECD","Finlandia"
+"FIN","1992","32.198","OECD","Finlandia"
+"FIN","1993","32.316","OECD","Finlandia"
+"FIN","1994","31.609","OECD","Finlandia"
+"FIN","1995","28.932","OECD","Finlandia"
+"FIN","1996","28.762","OECD","Finlandia"
+"FIN","1997","26.618","OECD","Finlandia"
+"FIN","1998","24.518","OECD","Finlandia"
+"FIN","1999","23.849","OECD","Finlandia"
+"FIN","2000","22.761","OECD","Finlandia"
+"FIN","2001","22.576","OECD","Finlandia"
+"FIN","2002","23.303","OECD","Finlandia"
+"FIN","2003","23.953","OECD","Finlandia"
+"FIN","2004","24.059","OECD","Finlandia"
+"FIN","2005","24.044","OECD","Finlandia"
+"FIN","2006","23.868","OECD","Finlandia"
+"FIN","2007","22.963","OECD","Finlandia"
+"FIN","2008","23.464","OECD","Finlandia"
+"FIN","2009","27.059","OECD","Finlandia"
+"FIN","2010","27.519","OECD","Finlandia"
+"FIN","2011","27.223","OECD","Finlandia"
+"FIN","2012","28.532","OECD","Finlandia"
+"FIN","2013","29.672","OECD","Finlandia"
+"FIN","2014","30.438","OECD","Finlandia"
+"FIN","2015","30.812","OECD","Finlandia"
+"FIN","2016","30.801","OECD","Finlandia"
+"FIN","2017","29.884","OECD","Finlandia"
+"FIN","2018","29.588","OECD","Finlandia"
+"FIN","2019","29.626","OECD","Finlandia"
+"FIN","2020","31.569","OECD","Finlandia"
+"FIN","2021","31.019","OECD","Finlandia"
+"FIN","2022","29.623","OECD","Finlandia"
+"FIN","2023","30.898","OECD","Finlandia"
+"POL","1990","14.139","OECD","Polonia"
+"POL","1991","20.407","OECD","Polonia"
+"POL","1992","23.95","OECD","Polonia"
+"POL","1993","23.446","OECD","Polonia"
+"POL","1994","22.376","OECD","Polonia"
+"POL","1995","21.725","OECD","Polonia"
+"POL","1996","21.903","OECD","Polonia"
+"POL","1997","21.408","OECD","Polonia"
+"POL","1998","20.629","OECD","Polonia"
+"POL","1999","20.974","OECD","Polonia"
+"POL","2000","20.063","OECD","Polonia"
+"POL","2001","21.575","OECD","Polonia"
+"POL","2002","21.725","OECD","Polonia"
+"POL","2003","21.841","OECD","Polonia"
+"POL","2004","21.116","OECD","Polonia"
+"POL","2005","20.84","OECD","Polonia"
+"POL","2006","20.56","OECD","Polonia"
+"POL","2007","19.498","OECD","Polonia"
+"POL","2008","20.146","OECD","Polonia"
+"POL","2009","21.255","OECD","Polonia"
+"POL","2010","20.802","OECD","Polonia"
+"POL","2011","19.595","OECD","Polonia"
+"POL","2012","19.871","OECD","Polonia"
+"POL","2013","20.742","OECD","Polonia"
+"POL","2014","20.325","OECD","Polonia"
+"POL","2015","20.15","OECD","Polonia"
+"POL","2016","21.189","OECD","Polonia"
+"POL","2017","20.743","OECD","Polonia"
+"POL","2018","20.288","OECD","Polonia"
+"POL","2019","20.962","OECD","Polonia"
+"POL","2020","23.47","OECD","Polonia"
+"POL","2021","22.155","OECD","Polonia"
+"POL","2022","20.72","OECD","Polonia"
+"POL","2023","21.86","OECD","Polonia"
+"CAN","1980","13.397","OECD","Canadá"
+"CAN","1981","13.871","OECD","Canadá"
+"CAN","1982","16.17","OECD","Canadá"
+"CAN","1983","16.336","OECD","Canadá"
+"CAN","1984","16.039","OECD","Canadá"
+"CAN","1985","16.525","OECD","Canadá"
+"CAN","1986","16.478","OECD","Canadá"
+"CAN","1987","16.211","OECD","Canadá"
+"CAN","1988","16.026","OECD","Canadá"
+"CAN","1989","16.396","OECD","Canadá"
+"CAN","1990","17.705","OECD","Canadá"
+"CAN","1991","20.113","OECD","Canadá"
+"CAN","1992","20.778","OECD","Canadá"
+"CAN","1993","20.735","OECD","Canadá"
+"CAN","1994","19.64","OECD","Canadá"
+"CAN","1995","18.778","OECD","Canadá"
+"CAN","1996","18.003","OECD","Canadá"
+"CAN","1997","17.497","OECD","Canadá"
+"CAN","1998","17.512","OECD","Canadá"
+"CAN","1999","16.445","OECD","Canadá"
+"CAN","2000","16.383","OECD","Canadá"
+"CAN","2001","16.825","OECD","Canadá"
+"CAN","2002","16.845","OECD","Canadá"
+"CAN","2003","16.91","OECD","Canadá"
+"CAN","2004","16.935","OECD","Canadá"
+"CAN","2005","16.742","OECD","Canadá"
+"CAN","2006","17.102","OECD","Canadá"
+"CAN","2007","17.027","OECD","Canadá"
+"CAN","2008","17.135","OECD","Canadá"
+"CAN","2009","18.943","OECD","Canadá"
+"CAN","2010","18.425","OECD","Canadá"
+"CAN","2011","17.9","OECD","Canadá"
+"CAN","2012","18.065","OECD","Canadá"
+"CAN","2013","17.932","OECD","Canadá"
+"CAN","2014","17.848","OECD","Canadá"
+"CAN","2015","18.892","OECD","Canadá"
+"CAN","2016","19.188","OECD","Canadá"
+"CAN","2017","19.092","OECD","Canadá"
+"CAN","2018","19.118","OECD","Canadá"
+"CAN","2019","19.846","OECD","Canadá"
+"CAN","2020","25.894","OECD","Canadá"
+"CAN","2021","21.858","OECD","Canadá"
+"CAN","2022","19.331","OECD","Canadá"
+"USA","1980","12.86","OECD","Estados Unidos"
+"USA","1981","13.2","OECD","Estados Unidos"
+"USA","1982","13.619","OECD","Estados Unidos"
+"USA","1983","13.783","OECD","Estados Unidos"
+"USA","1984","12.894","OECD","Estados Unidos"
+"USA","1985","12.587","OECD","Estados Unidos"
+"USA","1986","12.924","OECD","Estados Unidos"
+"USA","1987","12.883","OECD","Estados Unidos"
+"USA","1988","12.845","OECD","Estados Unidos"
+"USA","1989","12.833","OECD","Estados Unidos"
+"USA","1990","13.195","OECD","Estados Unidos"
+"USA","1991","14.162","OECD","Estados Unidos"
+"USA","1992","14.841","OECD","Estados Unidos"
+"USA","1993","15.108","OECD","Estados Unidos"
+"USA","1994","15.052","OECD","Estados Unidos"
+"USA","1995","14.932","OECD","Estados Unidos"
+"USA","1996","14.74","OECD","Estados Unidos"
+"USA","1997","14.323","OECD","Estados Unidos"
+"USA","1998","14.385","OECD","Estados Unidos"
+"USA","1999","14.111","OECD","Estados Unidos"
+"USA","2000","14.123","OECD","Estados Unidos"
+"USA","2001","14.698","OECD","Estados Unidos"
+"USA","2002","15.535","OECD","Estados Unidos"
+"USA","2003","15.801","OECD","Estados Unidos"
+"USA","2004","15.664","OECD","Estados Unidos"
+"USA","2005","15.494","OECD","Estados Unidos"
+"USA","2006","15.544","OECD","Estados Unidos"
+"USA","2007","15.676","OECD","Estados Unidos"
+"USA","2008","16.251","OECD","Estados Unidos"
+"USA","2009","18.32","OECD","Estados Unidos"
+"USA","2010","19.048","OECD","Estados Unidos"
+"USA","2011","18.749","OECD","Estados Unidos"
+"USA","2012","18.483","OECD","Estados Unidos"
+"USA","2013","18.421","OECD","Estados Unidos"
+"USA","2014","18.41","OECD","Estados Unidos"
+"USA","2015","18.483","OECD","Estados Unidos"
+"USA","2016","18.588","OECD","Estados Unidos"
+"USA","2017","18.386","OECD","Estados Unidos"
+"USA","2018","18.153","OECD","Estados Unidos"
+"USA","2019","18.202","OECD","Estados Unidos"
+"USA","2020","23.677","OECD","Estados Unidos"
+"USA","2021","21.619","OECD","Estados Unidos"
+"USA","2022","18.98","OECD","Estados Unidos"
+"USA","2023","18.951","OECD","Estados Unidos"
+"MEX","1985","1.856","OECD","México"
+"MEX","1986","1.701","OECD","México"
+"MEX","1987","1.644","OECD","México"
+"MEX","1988","1.83","OECD","México"
+"MEX","1989","2.346","OECD","México"
+"MEX","1990","2.99","OECD","México"
+"MEX","1991","3.357","OECD","México"
+"MEX","1992","3.668","OECD","México"
+"MEX","1993","3.576","OECD","México"
+"MEX","1994","3.914","OECD","México"
+"MEX","1995","3.486","OECD","México"
+"MEX","1996","3.202","OECD","México"
+"MEX","1997","3.247","OECD","México"
+"MEX","1998","3.597","OECD","México"
+"MEX","1999","4.075","OECD","México"
+"MEX","2000","4.189","OECD","México"
+"MEX","2001","4.746","OECD","México"
+"MEX","2002","5.092","OECD","México"
+"MEX","2003","5.735","OECD","México"
+"MEX","2004","5.683","OECD","México"
+"MEX","2005","5.877","OECD","México"
+"MEX","2006","5.985","OECD","México"
+"MEX","2007","5.974","OECD","México"
+"MEX","2008","6.406","OECD","México"
+"MEX","2009","6.928","OECD","México"
+"MEX","2010","7.026","OECD","México"
+"MEX","2011","6.925","OECD","México"
+"MEX","2012","6.917","OECD","México"
+"MEX","2013","7.262","OECD","México"
+"MEX","2014","7.279","OECD","México"
+"MEX","2015","7.395","OECD","México"
+"MEX","2016","7.259","OECD","México"
+"MEX","2017","7.209","OECD","México"
+"MEX","2018","7.053","OECD","México"
+"MEX","2019","7.669","OECD","México"
+"MEX","2020","9.8","OECD","México"
+"MEX","2021","9.478","OECD","México"
+"MEX","2022","9.658","OECD","México"
+"MEX","2023","10.034","OECD","México"
+"TUR","1980","2.245","OECD","Turquía"
+"TUR","1981","1.647","OECD","Turquía"
+"TUR","1982","1.784","OECD","Turquía"
+"TUR","1983","1.844","OECD","Turquía"
+"TUR","1984","2.219","OECD","Turquía"
+"TUR","1985","1.949","OECD","Turquía"
+"TUR","1986","2.094","OECD","Turquía"
+"TUR","1987","2.186","OECD","Turquía"
+"TUR","1988","2.553","OECD","Turquía"
+"TUR","1989","3.084","OECD","Turquía"
+"TUR","1990","3.792","OECD","Turquía"
+"TUR","1991","4.054","OECD","Turquía"
+"TUR","1992","4.163","OECD","Turquía"
+"TUR","1993","3.97","OECD","Turquía"
+"TUR","1994","3.638","OECD","Turquía"
+"TUR","1995","3.363","OECD","Turquía"
+"TUR","1996","4.574","OECD","Turquía"
+"TUR","1997","4.83","OECD","Turquía"
+"TUR","1998","5.002","OECD","Turquía"
+"TUR","1999","5.695","OECD","Turquía"
+"TUR","2000","7.541","OECD","Turquía"
+"TUR","2001","8.197","OECD","Turquía"
+"TUR","2002","8.764","OECD","Turquía"
+"TUR","2003","9.708","OECD","Turquía"
+"TUR","2004","9.991","OECD","Turquía"
+"TUR","2005","9.984","OECD","Turquía"
+"TUR","2006","10.26","OECD","Turquía"
+"TUR","2007","10.841","OECD","Turquía"
+"TUR","2008","11.037","OECD","Turquía"
+"TUR","2009","12.947","OECD","Turquía"
+"TUR","2010","12.273","OECD","Turquía"
+"TUR","2011","11.792","OECD","Turquía"
+"TUR","2012","11.947","OECD","Turquía"
+"TUR","2013","11.756","OECD","Turquía"
+"TUR","2014","11.66","OECD","Turquía"
+"TUR","2015","11.541","OECD","Turquía"
+"TUR","2016","12.534","OECD","Turquía"
+"TUR","2017","11.999","OECD","Turquía"
+"TUR","2018","11.76","OECD","Turquía"
+"TUR","2019","12.416","OECD","Turquía"
+"TUR","2020","13.143","OECD","Turquía"
+"TUR","2021","11.037","OECD","Turquía"
+"TUR","2022","8.435","OECD","Turquía"
+"TUR","2023","10.037","OECD","Turquía"
+"CZE","1990","13.927","OECD","Chequia"
+"CZE","1991","14.971","OECD","Chequia"
+"CZE","1992","15.241","OECD","Chequia"
+"CZE","1993","15.507","OECD","Chequia"
+"CZE","1994","15.589","OECD","Chequia"
+"CZE","1995","15.853","OECD","Chequia"
+"CZE","1996","15.884","OECD","Chequia"
+"CZE","1997","16.628","OECD","Chequia"
+"CZE","1998","16.958","OECD","Chequia"
+"CZE","1999","17.586","OECD","Chequia"
+"CZE","2000","17.759","OECD","Chequia"
+"CZE","2001","17.721","OECD","Chequia"
+"CZE","2002","18.453","OECD","Chequia"
+"CZE","2003","18.615","OECD","Chequia"
+"CZE","2004","17.793","OECD","Chequia"
+"CZE","2005","17.889","OECD","Chequia"
+"CZE","2006","17.576","OECD","Chequia"
+"CZE","2007","17.37","OECD","Chequia"
+"CZE","2008","17.682","OECD","Chequia"
+"CZE","2009","19.978","OECD","Chequia"
+"CZE","2010","20.013","OECD","Chequia"
+"CZE","2011","19.976","OECD","Chequia"
+"CZE","2012","20.32","OECD","Chequia"
+"CZE","2013","20.427","OECD","Chequia"
+"CZE","2014","20.037","OECD","Chequia"
+"CZE","2015","19.432","OECD","Chequia"
+"CZE","2016","19.127","OECD","Chequia"
+"CZE","2017","18.671","OECD","Chequia"
+"CZE","2018","18.868","OECD","Chequia"
+"CZE","2019","19.137","OECD","Chequia"
+"CZE","2020","22.925","OECD","Chequia"
+"CZE","2021","22.208","OECD","Chequia"
+"CZE","2022","21.228","OECD","Chequia"
+"CZE","2023","21.567","OECD","Chequia"
+"LVA","1994","0","OECD","Letonia"
+"LVA","1995","0","OECD","Letonia"
+"LVA","1996","0","OECD","Letonia"
+"LVA","1997","14.654","OECD","Letonia"
+"LVA","1998","15.408","OECD","Letonia"
+"LVA","1999","16.851","OECD","Letonia"
+"LVA","2000","15.701","OECD","Letonia"
+"LVA","2001","14.619","OECD","Letonia"
+"LVA","2002","14.259","OECD","Letonia"
+"LVA","2003","13.479","OECD","Letonia"
+"LVA","2004","13.575","OECD","Letonia"
+"LVA","2005","12.72","OECD","Letonia"
+"LVA","2006","12.758","OECD","Letonia"
+"LVA","2007","11.636","OECD","Letonia"
+"LVA","2008","13.573","OECD","Letonia"
+"LVA","2009","18.417","OECD","Letonia"
+"LVA","2010","19.533","OECD","Letonia"
+"LVA","2011","17.514","OECD","Letonia"
+"LVA","2012","15.918","OECD","Letonia"
+"LVA","2013","16.1","OECD","Letonia"
+"LVA","2014","15.941","OECD","Letonia"
+"LVA","2015","16.26","OECD","Letonia"
+"LVA","2016","16.542","OECD","Letonia"
+"LVA","2017","16.4","OECD","Letonia"
+"LVA","2018","16.716","OECD","Letonia"
+"LVA","2019","17.137","OECD","Letonia"
+"LVA","2020","19.2","OECD","Letonia"
+"LVA","2021","21.738","OECD","Letonia"
+"LVA","2022","20.505","OECD","Letonia"
+"LVA","2023","19.705","OECD","Letonia"
+"AUS","1980","10.247","OECD","Australia"
+"AUS","1981","10.12","OECD","Australia"
+"AUS","1982","11.094","OECD","Australia"
+"AUS","1983","11.596","OECD","Australia"
+"AUS","1984","11.966","OECD","Australia"
+"AUS","1985","12.055","OECD","Australia"
+"AUS","1986","11.891","OECD","Australia"
+"AUS","1987","12.146","OECD","Australia"
+"AUS","1988","11.442","OECD","Australia"
+"AUS","1989","11.58","OECD","Australia"
+"AUS","1990","13.115","OECD","Australia"
+"AUS","1991","14.278","OECD","Australia"
+"AUS","1992","15.257","OECD","Australia"
+"AUS","1993","15.517","OECD","Australia"
+"AUS","1994","15.232","OECD","Australia"
+"AUS","1995","16.869","OECD","Australia"
+"AUS","1996","16.986","OECD","Australia"
+"AUS","1997","16.753","OECD","Australia"
+"AUS","1998","17.563","OECD","Australia"
+"AUS","1999","17.2","OECD","Australia"
+"AUS","2000","18.184","OECD","Australia"
+"AUS","2001","17.488","OECD","Australia"
+"AUS","2002","17.301","OECD","Australia"
+"AUS","2003","17.484","OECD","Australia"
+"AUS","2004","17.181","OECD","Australia"
+"AUS","2005","16.641","OECD","Australia"
+"AUS","2006","15.679","OECD","Australia"
+"AUS","2007","15.844","OECD","Australia"
+"AUS","2008","17.037","OECD","Australia"
+"AUS","2009","16.833","OECD","Australia"
+"AUS","2010","16.544","OECD","Australia"
+"AUS","2011","17.008","OECD","Australia"
+"AUS","2012","17.301","OECD","Australia"
+"AUS","2013","17.264","OECD","Australia"
+"AUS","2014","17.868","OECD","Australia"
+"AUS","2015","18.199","OECD","Australia"
+"AUS","2016","17.483","OECD","Australia"
+"AUS","2017","17.072","OECD","Australia"
+"AUS","2018","16.626","OECD","Australia"
+"AUS","2019","20.43","OECD","Australia"
+"AUS","2020","22.635","OECD","Australia"
+"AUS","2021","18.061","OECD","Australia"
+"AUS","2022","17.067","OECD","Australia"
+"OECD","1980","14.404","OECD","Países miembros de OCDE"
+"OECD","1981","14.718","OECD","Países miembros de OCDE"
+"OECD","1982","15.179","OECD","Países miembros de OCDE"
+"OECD","1983","15.447","OECD","Países miembros de OCDE"
+"OECD","1984","15.253","OECD","Países miembros de OCDE"
+"OECD","1985","15.977","OECD","Países miembros de OCDE"
+"OECD","1986","15.811","OECD","Países miembros de OCDE"
+"OECD","1987","15.947","OECD","Países miembros de OCDE"
+"OECD","1988","15.849","OECD","Países miembros de OCDE"
+"OECD","1989","15.726","OECD","Países miembros de OCDE"
+"OECD","1990","16.5","OECD","Países miembros de OCDE"
+"OECD","1991","17.324","OECD","Países miembros de OCDE"
+"OECD","1992","18.129","OECD","Países miembros de OCDE"
+"OECD","1993","18.654","OECD","Países miembros de OCDE"
+"OECD","1994","18.441","OECD","Países miembros de OCDE"
+"OECD","1995","18.105","OECD","Países miembros de OCDE"
+"OECD","1996","18.086","OECD","Países miembros de OCDE"
+"OECD","1997","17.773","OECD","Países miembros de OCDE"
+"OECD","1998","17.831","OECD","Países miembros de OCDE"
+"OECD","1999","17.743","OECD","Países miembros de OCDE"
+"OECD","2000","17.452","OECD","Países miembros de OCDE"
+"OECD","2001","17.645","OECD","Países miembros de OCDE"
+"OECD","2002","18.086","OECD","Países miembros de OCDE"
+"OECD","2003","18.416","OECD","Países miembros de OCDE"
+"OECD","2004","18.208","OECD","Países miembros de OCDE"
+"OECD","2005","18.182","OECD","Países miembros de OCDE"
+"OECD","2006","18.063","OECD","Países miembros de OCDE"
+"OECD","2007","17.71","OECD","Países miembros de OCDE"
+"OECD","2008","18.464","OECD","Países miembros de OCDE"
+"OECD","2009","20.665","OECD","Países miembros de OCDE"
+"OECD","2010","20.509","OECD","Países miembros de OCDE"
+"OECD","2011","20.152","OECD","Países miembros de OCDE"
+"OECD","2012","20.268","OECD","Países miembros de OCDE"
+"OECD","2013","20.33","OECD","Países miembros de OCDE"
+"OECD","2014","20.287","OECD","Países miembros de OCDE"
+"OECD","2015","20.212","OECD","Países miembros de OCDE"
+"OECD","2016","20.204","OECD","Países miembros de OCDE"
+"OECD","2017","19.945","OECD","Países miembros de OCDE"
+"OECD","2018","19.834","OECD","Países miembros de OCDE"
+"OECD","2019","20.258","OECD","Países miembros de OCDE"
+"OECD","2020","23.32","OECD","Países miembros de OCDE"
+"OECD","2021","22.107","OECD","Países miembros de OCDE"
+"OECD","2022","20.486","OECD","Países miembros de OCDE"
+"OECD","2023","20.758","OECD","Países miembros de OCDE"
+"ISR","1995","15.954","OECD","Israel"
+"ISR","1996","16.429","OECD","Israel"
+"ISR","1997","16.441","OECD","Israel"
+"ISR","1998","16.255","OECD","Israel"
+"ISR","1999","16.229","OECD","Israel"
+"ISR","2000","16.027","OECD","Israel"
+"ISR","2001","17.274","OECD","Israel"
+"ISR","2002","17.163","OECD","Israel"
+"ISR","2003","16.681","OECD","Israel"
+"ISR","2004","15.668","OECD","Israel"
+"ISR","2005","15.234","OECD","Israel"
+"ISR","2006","14.913","OECD","Israel"
+"ISR","2007","14.391","OECD","Israel"
+"ISR","2008","14.639","OECD","Israel"
+"ISR","2009","15.134","OECD","Israel"
+"ISR","2010","15.298","OECD","Israel"
+"ISR","2011","15.062","OECD","Israel"
+"ISR","2012","15.276","OECD","Israel"
+"ISR","2013","15.413","OECD","Israel"
+"ISR","2014","15.435","OECD","Israel"
+"ISR","2015","15.405","OECD","Israel"
+"ISR","2016","15.453","OECD","Israel"
+"ISR","2017","16.022","OECD","Israel"
+"ISR","2018","16.01","OECD","Israel"
+"ISR","2019","16.068","OECD","Israel"
+"ISR","2020","20.011","OECD","Israel"
+"ISR","2021","17.771","OECD","Israel"
+"ISR","2022","15.608","OECD","Israel"
+"ISR","2023","16.283","OECD","Israel"
+"SVN","1995","5.677","OECD","Eslovenia"
+"SVN","1996","21.962","OECD","Eslovenia"
+"SVN","1997","22.306","OECD","Eslovenia"
+"SVN","1998","22.43","OECD","Eslovenia"
+"SVN","1999","22.416","OECD","Eslovenia"
+"SVN","2000","22.238","OECD","Eslovenia"
+"SVN","2001","22.17","OECD","Eslovenia"
+"SVN","2002","22.585","OECD","Eslovenia"
+"SVN","2003","22.093","OECD","Eslovenia"
+"SVN","2004","21.677","OECD","Eslovenia"
+"SVN","2005","21.679","OECD","Eslovenia"
+"SVN","2006","21.245","OECD","Eslovenia"
+"SVN","2007","19.841","OECD","Eslovenia"
+"SVN","2008","19.977","OECD","Eslovenia"
+"SVN","2009","22.693","OECD","Eslovenia"
+"SVN","2010","23.558","OECD","Eslovenia"
+"SVN","2011","23.617","OECD","Eslovenia"
+"SVN","2012","23.682","OECD","Eslovenia"
+"SVN","2013","24.075","OECD","Eslovenia"
+"SVN","2014","23.312","OECD","Eslovenia"
+"SVN","2015","22.877","OECD","Eslovenia"
+"SVN","2016","22.5","OECD","Eslovenia"
+"SVN","2017","21.676","OECD","Eslovenia"
+"SVN","2018","21.517","OECD","Eslovenia"
+"SVN","2019","21.64","OECD","Eslovenia"
+"SVN","2020","25.19","OECD","Eslovenia"
+"SVN","2021","24.529","OECD","Eslovenia"
+"SVN","2022","23.934","OECD","Eslovenia"
+"SVN","2023","22.632","OECD","Eslovenia"
+"HUN","1999","20.817","OECD","Hungría"
+"HUN","2000","20.068","OECD","Hungría"
+"HUN","2001","19.753","OECD","Hungría"
+"HUN","2002","20.792","OECD","Hungría"
+"HUN","2003","21.818","OECD","Hungría"
+"HUN","2004","21.075","OECD","Hungría"
+"HUN","2005","21.842","OECD","Hungría"
+"HUN","2006","22.14","OECD","Hungría"
+"HUN","2007","22.391","OECD","Hungría"
+"HUN","2008","22.643","OECD","Hungría"
+"HUN","2009","23.239","OECD","Hungría"
+"HUN","2010","22.862","OECD","Hungría"
+"HUN","2011","22.208","OECD","Hungría"
+"HUN","2012","22.546","OECD","Hungría"
+"HUN","2013","22.183","OECD","Hungría"
+"HUN","2014","21.315","OECD","Hungría"
+"HUN","2015","20.343","OECD","Hungría"
+"HUN","2016","20.116","OECD","Hungría"
+"HUN","2017","19.411","OECD","Hungría"
+"HUN","2018","18.55","OECD","Hungría"
+"HUN","2019","17.492","OECD","Hungría"
+"HUN","2020","18.986","OECD","Hungría"
+"HUN","2021","18.403","OECD","Hungría"
+"HUN","2022","17.721","OECD","Hungría"
+"HUN","2023","18.074","OECD","Hungría"
+"NLD","1980","24.351","OECD","Países Bajos"
+"NLD","1981","25.01","OECD","Países Bajos"
+"NLD","1982","26.638","OECD","Países Bajos"
+"NLD","1983","27.021","OECD","Países Bajos"
+"NLD","1984","25.683","OECD","Países Bajos"
+"NLD","1985","25.079","OECD","Países Bajos"
+"NLD","1986","24.656","OECD","Países Bajos"
+"NLD","1987","24.722","OECD","Países Bajos"
+"NLD","1988","24.404","OECD","Países Bajos"
+"NLD","1989","24.037","OECD","Países Bajos"
+"NLD","1990","25.448","OECD","Países Bajos"
+"NLD","1991","25.374","OECD","Países Bajos"
+"NLD","1992","25.852","OECD","Países Bajos"
+"NLD","1993","25.997","OECD","Países Bajos"
+"NLD","1994","24.55","OECD","Países Bajos"
+"NLD","1995","22.487","OECD","Países Bajos"
+"NLD","1996","21.489","OECD","Países Bajos"
+"NLD","1997","20.884","OECD","Países Bajos"
+"NLD","1998","20.987","OECD","Países Bajos"
+"NLD","1999","20.274","OECD","Países Bajos"
+"NLD","2000","19.669","OECD","Países Bajos"
+"NLD","2001","19.773","OECD","Países Bajos"
+"NLD","2002","20.515","OECD","Países Bajos"
+"NLD","2003","21.155","OECD","Países Bajos"
+"NLD","2004","20.94","OECD","Países Bajos"
+"NLD","2005","20.507","OECD","Países Bajos"
+"NLD","2006","17.206","OECD","Países Bajos"
+"NLD","2007","16.527","OECD","Países Bajos"
+"NLD","2008","16.256","OECD","Países Bajos"
+"NLD","2009","17.846","OECD","Países Bajos"
+"NLD","2010","18.317","OECD","Países Bajos"
+"NLD","2011","18.419","OECD","Países Bajos"
+"NLD","2012","18.897","OECD","Países Bajos"
+"NLD","2013","19.141","OECD","Países Bajos"
+"NLD","2014","19.03","OECD","Países Bajos"
+"NLD","2015","18.602","OECD","Países Bajos"
+"NLD","2016","18.443","OECD","Países Bajos"
+"NLD","2017","17.939","OECD","Países Bajos"
+"NLD","2018","17.586","OECD","Países Bajos"
+"NLD","2019","17.519","OECD","Países Bajos"
+"NLD","2020","21.178","OECD","Países Bajos"
+"NLD","2021","19.753","OECD","Países Bajos"
+"NLD","2022","17.709","OECD","Países Bajos"
+"NLD","2023","18.384","OECD","Países Bajos"
+"CHL","1986","13.311","OECD","Chile"
+"CHL","1987","11.496","OECD","Chile"
+"CHL","1988","10.237","OECD","Chile"
+"CHL","1989","9.667","OECD","Chile"
+"CHL","1990","9.558","OECD","Chile"
+"CHL","1991","9.569","OECD","Chile"
+"CHL","1992","9.139","OECD","Chile"
+"CHL","1993","9.257","OECD","Chile"
+"CHL","1994","8.974","OECD","Chile"
+"CHL","1995","10.745","OECD","Chile"
+"CHL","1996","11.619","OECD","Chile"
+"CHL","1997","11.326","OECD","Chile"
+"CHL","1998","11.707","OECD","Chile"
+"CHL","1999","12.486","OECD","Chile"
+"CHL","2000","10.214","OECD","Chile"
+"CHL","2001","9.899","OECD","Chile"
+"CHL","2002","9.915","OECD","Chile"
+"CHL","2003","9.764","OECD","Chile"
+"CHL","2004","9.177","OECD","Chile"
+"CHL","2005","8.829","OECD","Chile"
+"CHL","2006","8.212","OECD","Chile"
+"CHL","2007","8.389","OECD","Chile"
+"CHL","2008","9.527","OECD","Chile"
+"CHL","2009","11.46","OECD","Chile"
+"CHL","2010","10.543","OECD","Chile"
+"CHL","2011","10.074","OECD","Chile"
+"CHL","2012","10.133","OECD","Chile"
+"CHL","2013","10.087","OECD","Chile"
+"CHL","2014","10.371","OECD","Chile"
+"CHL","2015","10.901","OECD","Chile"
+"CHL","2016","11.129","OECD","Chile"
+"CHL","2017","11.416","OECD","Chile"
+"CHL","2018","11.386","OECD","Chile"
+"CHL","2019","11.656","OECD","Chile"
+"CHL","2020","15.501","OECD","Chile"
+"CHL","2021","19.585","OECD","Chile"
+"CHL","2022","12.313","OECD","Chile"
+"CHL","2023","12.882","OECD","Chile"
+"ESP","1980","14.953","OECD","España"
+"ESP","1981","16.053","OECD","España"
+"ESP","1982","16.065","OECD","España"
+"ESP","1983","16.794","OECD","España"
+"ESP","1984","16.571","OECD","España"
+"ESP","1985","17.099","OECD","España"
+"ESP","1986","16.848","OECD","España"
+"ESP","1987","16.73","OECD","España"
+"ESP","1988","17.212","OECD","España"
+"ESP","1989","17.326","OECD","España"
+"ESP","1990","19.157","OECD","España"
+"ESP","1991","19.89","OECD","España"
+"ESP","1992","21.026","OECD","España"
+"ESP","1993","22.272","OECD","España"
+"ESP","1994","21.28","OECD","España"
+"ESP","1995","20.646","OECD","España"
+"ESP","1996","20.544","OECD","España"
+"ESP","1997","19.976","OECD","España"
+"ESP","1998","19.853","OECD","España"
+"ESP","1999","19.724","OECD","España"
+"ESP","2000","19.014","OECD","España"
+"ESP","2001","18.641","OECD","España"
+"ESP","2002","18.865","OECD","España"
+"ESP","2003","19.481","OECD","España"
+"ESP","2004","19.707","OECD","España"
+"ESP","2005","19.948","OECD","España"
+"ESP","2006","20.012","OECD","España"
+"ESP","2007","20.168","OECD","España"
+"ESP","2008","21.413","OECD","España"
+"ESP","2009","24.663","OECD","España"
+"ESP","2010","24.872","OECD","España"
+"ESP","2011","25.496","OECD","España"
+"ESP","2012","25.433","OECD","España"
+"ESP","2013","25.574","OECD","España"
+"ESP","2014","25.209","OECD","España"
+"ESP","2015","24.493","OECD","España"
+"ESP","2016","24.048","OECD","España"
+"ESP","2017","23.578","OECD","España"
+"ESP","2018","23.721","OECD","España"
+"ESP","2019","24.345","OECD","España"
+"ESP","2020","30.613","OECD","España"
+"ESP","2021","28.415","OECD","España"
+"ESP","2022","25.965","OECD","España"
+"ESP","2023","25.933","OECD","España"
+"KOR","1990","2.548","OECD","Corea del Sur"
+"KOR","1991","2.455","OECD","Corea del Sur"
+"KOR","1992","2.667","OECD","Corea del Sur"
+"KOR","1993","2.738","OECD","Corea del Sur"
+"KOR","1994","2.733","OECD","Corea del Sur"
+"KOR","1995","2.906","OECD","Corea del Sur"
+"KOR","1996","3.049","OECD","Corea del Sur"
+"KOR","1997","3.281","OECD","Corea del Sur"
+"KOR","1998","4.55","OECD","Corea del Sur"
+"KOR","1999","5.423","OECD","Corea del Sur"
+"KOR","2000","4.245","OECD","Corea del Sur"
+"KOR","2001","4.489","OECD","Corea del Sur"
+"KOR","2002","4.361","OECD","Corea del Sur"
+"KOR","2003","4.626","OECD","Corea del Sur"
+"KOR","2004","5.185","OECD","Corea del Sur"
+"KOR","2005","5.507","OECD","Corea del Sur"
+"KOR","2006","6.272","OECD","Corea del Sur"
+"KOR","2007","6.342","OECD","Corea del Sur"
+"KOR","2008","6.806","OECD","Corea del Sur"
+"KOR","2009","7.589","OECD","Corea del Sur"
+"KOR","2010","7.373","OECD","Corea del Sur"
+"KOR","2011","7.337","OECD","Corea del Sur"
+"KOR","2012","7.825","OECD","Corea del Sur"
+"KOR","2013","8.297","OECD","Corea del Sur"
+"KOR","2014","8.633","OECD","Corea del Sur"
+"KOR","2015","9.052","OECD","Corea del Sur"
+"KOR","2016","9.247","OECD","Corea del Sur"
+"KOR","2017","9.473","OECD","Corea del Sur"
+"KOR","2018","10.172","OECD","Corea del Sur"
+"KOR","2019","11.423","OECD","Corea del Sur"
+"KOR","2020","14.803","OECD","Corea del Sur"
+"KOR","2021","15.184","OECD","Corea del Sur"
+"KOR","2022","16.19","OECD","Corea del Sur"
+"KOR","2023","15.359","OECD","Corea del Sur"
+"CHE","1980","11.492","OECD","Suiza"
+"CHE","1981","11.242","OECD","Suiza"
+"CHE","1982","11.887","OECD","Suiza"
+"CHE","1983","12.233","OECD","Suiza"
+"CHE","1984","13.278","OECD","Suiza"
+"CHE","1985","12.935","OECD","Suiza"
+"CHE","1986","13.054","OECD","Suiza"
+"CHE","1987","13.165","OECD","Suiza"
+"CHE","1988","13.23","OECD","Suiza"
+"CHE","1989","12.95","OECD","Suiza"
+"CHE","1990","12.645","OECD","Suiza"
+"CHE","1991","13.434","OECD","Suiza"
+"CHE","1992","14.789","OECD","Suiza"
+"CHE","1993","16.084","OECD","Suiza"
+"CHE","1994","16.053","OECD","Suiza"
+"CHE","1995","14.149","OECD","Suiza"
+"CHE","1996","14.429","OECD","Suiza"
+"CHE","1997","14.847","OECD","Suiza"
+"CHE","1998","14.861","OECD","Suiza"
+"CHE","1999","14.692","OECD","Suiza"
+"CHE","2000","13.881","OECD","Suiza"
+"CHE","2001","14.1","OECD","Suiza"
+"CHE","2002","15.088","OECD","Suiza"
+"CHE","2003","15.627","OECD","Suiza"
+"CHE","2004","15.551","OECD","Suiza"
+"CHE","2005","15.413","OECD","Suiza"
+"CHE","2006","14.678","OECD","Suiza"
+"CHE","2007","14.123","OECD","Suiza"
+"CHE","2008","13.751","OECD","Suiza"
+"CHE","2009","15.222","OECD","Suiza"
+"CHE","2010","14.962","OECD","Suiza"
+"CHE","2011","14.925","OECD","Suiza"
+"CHE","2012","15.183","OECD","Suiza"
+"CHE","2013","15.462","OECD","Suiza"
+"CHE","2014","15.424","OECD","Suiza"
+"CHE","2015","15.893","OECD","Suiza"
+"CHE","2016","16.097","OECD","Suiza"
+"CHE","2017","16.271","OECD","Suiza"
+"CHE","2018","15.785","OECD","Suiza"
+"CHE","2019","15.996","OECD","Suiza"
+"CHE","2020","19.27","OECD","Suiza"
+"CHE","2021","17.468","OECD","Suiza"
+"CHE","2022","15.46","OECD","Suiza"
+"CHE","2023","15.474","OECD","Suiza"
+"FRA","1980","20.333","OECD","Francia"
+"FRA","1981","15.779","OECD","Francia"
+"FRA","1982","16.299","OECD","Francia"
+"FRA","1983","16.412","OECD","Francia"
+"FRA","1984","16.554","OECD","Francia"
+"FRA","1985","25.613","OECD","Francia"
+"FRA","1986","19.351","OECD","Francia"
+"FRA","1987","19.263","OECD","Francia"
+"FRA","1988","19.047","OECD","Francia"
+"FRA","1989","18.104","OECD","Francia"
+"FRA","1990","24.62","OECD","Francia"
+"FRA","1991","25.239","OECD","Francia"
+"FRA","1992","25.991","OECD","Francia"
+"FRA","1993","27.347","OECD","Francia"
+"FRA","1994","27.373","OECD","Francia"
+"FRA","1995","28.593","OECD","Francia"
+"FRA","1996","28.899","OECD","Francia"
+"FRA","1997","28.714","OECD","Francia"
+"FRA","1998","28.975","OECD","Francia"
+"FRA","1999","28.948","OECD","Francia"
+"FRA","2000","27.812","OECD","Francia"
+"FRA","2001","27.851","OECD","Francia"
+"FRA","2002","28.594","OECD","Francia"
+"FRA","2003","28.95","OECD","Francia"
+"FRA","2004","29.01","OECD","Francia"
+"FRA","2005","28.893","OECD","Francia"
+"FRA","2006","28.426","OECD","Francia"
+"FRA","2007","28.288","OECD","Francia"
+"FRA","2008","28.518","OECD","Francia"
+"FRA","2009","30.952","OECD","Francia"
+"FRA","2010","30.97","OECD","Francia"
+"FRA","2011","30.645","OECD","Francia"
+"FRA","2012","31.185","OECD","Francia"
+"FRA","2013","31.592","OECD","Francia"
+"FRA","2014","31.892","OECD","Francia"
+"FRA","2015","31.705","OECD","Francia"
+"FRA","2016","31.842","OECD","Francia"
+"FRA","2017","31.511","OECD","Francia"
+"FRA","2018","31.052","OECD","Francia"
+"FRA","2019","30.759","OECD","Francia"
+"FRA","2020","34.693","OECD","Francia"
+"FRA","2021","32.718","OECD","Francia"
+"FRA","2022","31.363","OECD","Francia"
+"FRA","2023","30.637","OECD","Francia"
+"EST","1999","15.204","OECD","Estonia"
+"EST","2000","13.932","OECD","Estonia"
+"EST","2001","13.117","OECD","Estonia"
+"EST","2002","12.802","OECD","Estonia"
+"EST","2003","13.133","OECD","Estonia"
+"EST","2004","13.545","OECD","Estonia"
+"EST","2005","13.121","OECD","Estonia"
+"EST","2006","21.39","OECD","Estonia"
+"EST","2007","12.646","OECD","Estonia"
+"EST","2008","15.477","OECD","Estonia"
+"EST","2009","19.821","OECD","Estonia"
+"EST","2010","18.498","OECD","Estonia"
+"EST","2011","16.451","OECD","Estonia"
+"EST","2012","15.933","OECD","Estonia"
+"EST","2013","15.75","OECD","Estonia"
+"EST","2014","16.073","OECD","Estonia"
+"EST","2015","17.326","OECD","Estonia"
+"EST","2016","17.519","OECD","Estonia"
+"EST","2017","17.014","OECD","Estonia"
+"EST","2018","17.453","OECD","Estonia"
+"EST","2019","17.8","OECD","Estonia"
+"EST","2020","20.291","OECD","Estonia"
+"EST","2021","19.037","OECD","Estonia"
+"EST","2022","17.361","OECD","Estonia"
+"EST","2023","17.204","OECD","Estonia"
+"GRC","1980","9.995","OECD","Grecia"
+"GRC","1981","12.037","OECD","Grecia"
+"GRC","1982","14.137","OECD","Grecia"
+"GRC","1983","14.688","OECD","Grecia"
+"GRC","1984","15.002","OECD","Grecia"
+"GRC","1985","15.585","OECD","Grecia"
+"GRC","1986","15.427","OECD","Grecia"
+"GRC","1987","15.393","OECD","Grecia"
+"GRC","1988","14.129","OECD","Grecia"
+"GRC","1989","14.979","OECD","Grecia"
+"GRC","1990","15.943","OECD","Grecia"
+"GRC","1991","15.392","OECD","Grecia"
+"GRC","1992","15.606","OECD","Grecia"
+"GRC","1993","16.462","OECD","Grecia"
+"GRC","1994","16.488","OECD","Grecia"
+"GRC","1995","16.834","OECD","Grecia"
+"GRC","1996","17.412","OECD","Grecia"
+"GRC","1997","17.448","OECD","Grecia"
+"GRC","1998","18.063","OECD","Grecia"
+"GRC","1999","18.688","OECD","Grecia"
+"GRC","2000","18.432","OECD","Grecia"
+"GRC","2001","19.238","OECD","Grecia"
+"GRC","2002","18.886","OECD","Grecia"
+"GRC","2003","18.68","OECD","Grecia"
+"GRC","2004","18.776","OECD","Grecia"
+"GRC","2005","19.982","OECD","Grecia"
+"GRC","2006","19.701","OECD","Grecia"
+"GRC","2007","20.434","OECD","Grecia"
+"GRC","2008","21.865","OECD","Grecia"
+"GRC","2009","24.239","OECD","Grecia"
+"GRC","2010","25.077","OECD","Grecia"
+"GRC","2011","26.442","OECD","Grecia"
+"GRC","2012","27.792","OECD","Grecia"
+"GRC","2013","25.717","OECD","Grecia"
+"GRC","2014","25.68","OECD","Grecia"
+"GRC","2015","25.864","OECD","Grecia"
+"GRC","2016","26.053","OECD","Grecia"
+"GRC","2017","25.122","OECD","Grecia"
+"GRC","2018","24.881","OECD","Grecia"
+"GRC","2019","24.83","OECD","Grecia"
+"GRC","2020","28.584","OECD","Grecia"
+"GRC","2021","26.37","OECD","Grecia"
+"GRC","2022","24.447","OECD","Grecia"
+"GRC","2023","23.722","OECD","Grecia"
+"PRT","1980","9.515","OECD","Portugal"
+"PRT","1981","10.157","OECD","Portugal"
+"PRT","1982","9.614","OECD","Portugal"
+"PRT","1983","9.728","OECD","Portugal"
+"PRT","1984","9.664","OECD","Portugal"
+"PRT","1985","9.83","OECD","Portugal"
+"PRT","1986","10.424","OECD","Portugal"
+"PRT","1987","10.695","OECD","Portugal"
+"PRT","1988","10.852","OECD","Portugal"
+"PRT","1989","10.495","OECD","Portugal"
+"PRT","1990","12.225","OECD","Portugal"
+"PRT","1991","13.104","OECD","Portugal"
+"PRT","1992","13.758","OECD","Portugal"
+"PRT","1993","15.12","OECD","Portugal"
+"PRT","1994","15.238","OECD","Portugal"
+"PRT","1995","16.019","OECD","Portugal"
+"PRT","1996","16.597","OECD","Portugal"
+"PRT","1997","16.443","OECD","Portugal"
+"PRT","1998","16.836","OECD","Portugal"
+"PRT","1999","17.243","OECD","Portugal"
+"PRT","2000","18.576","OECD","Portugal"
+"PRT","2001","19.061","OECD","Portugal"
+"PRT","2002","20.408","OECD","Portugal"
+"PRT","2003","21.461","OECD","Portugal"
+"PRT","2004","21.798","OECD","Portugal"
+"PRT","2005","22.424","OECD","Portugal"
+"PRT","2006","21.643","OECD","Portugal"
+"PRT","2007","21.307","OECD","Portugal"
+"PRT","2008","21.768","OECD","Portugal"
+"PRT","2009","24.11","OECD","Portugal"
+"PRT","2010","24.302","OECD","Portugal"
+"PRT","2011","24.198","OECD","Portugal"
+"PRT","2012","24.297","OECD","Portugal"
+"PRT","2013","25.386","OECD","Portugal"
+"PRT","2014","24.959","OECD","Portugal"
+"PRT","2015","23.967","OECD","Portugal"
+"PRT","2016","23.477","OECD","Portugal"
+"PRT","2017","22.783","OECD","Portugal"
+"PRT","2018","22.478","OECD","Portugal"
+"PRT","2019","22.329","OECD","Portugal"
+"PRT","2020","26.06","OECD","Portugal"
+"PRT","2021","25.502","OECD","Portugal"
+"PRT","2022","24.068","OECD","Portugal"
+"PRT","2023","22.98","OECD","Portugal"
+"ITA","1980","17.282","OECD","Italia"
+"ITA","1981","18.623","OECD","Italia"
+"ITA","1982","19.085","OECD","Italia"
+"ITA","1983","20.104","OECD","Italia"
+"ITA","1984","19.679","OECD","Italia"
+"ITA","1985","20.001","OECD","Italia"
+"ITA","1986","20","OECD","Italia"
+"ITA","1987","20.218","OECD","Italia"
+"ITA","1988","20.076","OECD","Italia"
+"ITA","1989","20.238","OECD","Italia"
+"ITA","1990","20.588","OECD","Italia"
+"ITA","1991","20.958","OECD","Italia"
+"ITA","1992","21.683","OECD","Italia"
+"ITA","1993","21.949","OECD","Italia"
+"ITA","1994","21.931","OECD","Italia"
+"ITA","1995","21.007","OECD","Italia"
+"ITA","1996","21.427","OECD","Italia"
+"ITA","1997","22.097","OECD","Italia"
+"ITA","1998","22.25","OECD","Italia"
+"ITA","1999","22.674","OECD","Italia"
+"ITA","2000","22.551","OECD","Italia"
+"ITA","2001","22.722","OECD","Italia"
+"ITA","2002","23.139","OECD","Italia"
+"ITA","2003","23.482","OECD","Italia"
+"ITA","2004","23.739","OECD","Italia"
+"ITA","2005","23.968","OECD","Italia"
+"ITA","2006","24.065","OECD","Italia"
+"ITA","2007","23.901","OECD","Italia"
+"ITA","2008","24.842","OECD","Italia"
+"ITA","2009","26.836","OECD","Italia"
+"ITA","2010","26.827","OECD","Italia"
+"ITA","2011","26.43","OECD","Italia"
+"ITA","2012","27.121","OECD","Italia"
+"ITA","2013","27.733","OECD","Italia"
+"ITA","2014","27.985","OECD","Italia"
+"ITA","2015","28.188","OECD","Italia"
+"ITA","2016","27.779","OECD","Italia"
+"ITA","2017","27.528","OECD","Italia"
+"ITA","2018","27.417","OECD","Italia"
+"ITA","2019","27.619","OECD","Italia"
+"ITA","2020","32.495","OECD","Italia"
+"ITA","2021","29.834","OECD","Italia"
+"ITA","2022","28.245","OECD","Italia"
+"ITA","2023","27.521","OECD","Italia"
+"GBR","1980","16.867","OECD","Reino Unido"
+"GBR","1981","18.312","OECD","Reino Unido"
+"GBR","1982","18.823","OECD","Reino Unido"
+"GBR","1983","19.606","OECD","Reino Unido"
+"GBR","1984","19.576","OECD","Reino Unido"
+"GBR","1985","19.609","OECD","Reino Unido"
+"GBR","1986","19.614","OECD","Reino Unido"
+"GBR","1987","18.79","OECD","Reino Unido"
+"GBR","1988","17.473","OECD","Reino Unido"
+"GBR","1989","16.841","OECD","Reino Unido"
+"GBR","1990","17.248","OECD","Reino Unido"
+"GBR","1991","18.879","OECD","Reino Unido"
+"GBR","1992","20.486","OECD","Reino Unido"
+"GBR","1993","21.063","OECD","Reino Unido"
+"GBR","1994","20.308","OECD","Reino Unido"
+"GBR","1995","18.954","OECD","Reino Unido"
+"GBR","1996","18.767","OECD","Reino Unido"
+"GBR","1997","18.927","OECD","Reino Unido"
+"GBR","1998","19.13","OECD","Reino Unido"
+"GBR","1999","18.908","OECD","Reino Unido"
+"GBR","2000","19.258","OECD","Reino Unido"
+"GBR","2001","19.791","OECD","Reino Unido"
+"GBR","2002","19.843","OECD","Reino Unido"
+"GBR","2003","20.675","OECD","Reino Unido"
+"GBR","2004","21.21","OECD","Reino Unido"
+"GBR","2005","21.261","OECD","Reino Unido"
+"GBR","2006","21.265","OECD","Reino Unido"
+"GBR","2007","21.473","OECD","Reino Unido"
+"GBR","2008","22.791","OECD","Reino Unido"
+"GBR","2009","25.094","OECD","Reino Unido"
+"GBR","2010","25.234","OECD","Reino Unido"
+"GBR","2011","25.076","OECD","Reino Unido"
+"GBR","2012","25.279","OECD","Reino Unido"
+"GBR","2013","24.583","OECD","Reino Unido"
+"GBR","2014","24.024","OECD","Reino Unido"
+"GBR","2015","23.698","OECD","Reino Unido"
+"GBR","2016","22.9","OECD","Reino Unido"
+"GBR","2017","22.647","OECD","Reino Unido"
+"GBR","2018","22.223","OECD","Reino Unido"
+"GBR","2019","22.252","OECD","Reino Unido"
+"GBR","2020","25.609","OECD","Reino Unido"
+"GBR","2021","24.404","OECD","Reino Unido"
+"GBR","2022","22.747","OECD","Reino Unido"
+"GBR","2023","22.985","OECD","Reino Unido"
+"BEL","1980","23.484","OECD","Bélgica"
+"BEL","1981","25.049","OECD","Bélgica"
+"BEL","1982","25.65","OECD","Bélgica"
+"BEL","1983","25.941","OECD","Bélgica"
+"BEL","1984","25.151","OECD","Bélgica"
+"BEL","1985","25.986","OECD","Bélgica"
+"BEL","1986","25.814","OECD","Bélgica"
+"BEL","1987","25.577","OECD","Bélgica"
+"BEL","1988","25.378","OECD","Bélgica"
+"BEL","1989","24.522","OECD","Bélgica"
+"BEL","1990","24.952","OECD","Bélgica"
+"BEL","1991","25.717","OECD","Bélgica"
+"BEL","1992","24.721","OECD","Bélgica"
+"BEL","1993","25.786","OECD","Bélgica"
+"BEL","1994","25.162","OECD","Bélgica"
+"BEL","1995","25.657","OECD","Bélgica"
+"BEL","1996","26.28","OECD","Bélgica"
+"BEL","1997","25.255","OECD","Bélgica"
+"BEL","1998","25.24","OECD","Bélgica"
+"BEL","1999","25.026","OECD","Bélgica"
+"BEL","2000","23.935","OECD","Bélgica"
+"BEL","2001","24.398","OECD","Bélgica"
+"BEL","2002","24.773","OECD","Bélgica"
+"BEL","2003","25.325","OECD","Bélgica"
+"BEL","2004","25.078","OECD","Bélgica"
+"BEL","2005","24.931","OECD","Bélgica"
+"BEL","2006","24.831","OECD","Bélgica"
+"BEL","2007","24.338","OECD","Bélgica"
+"BEL","2008","25.744","OECD","Bélgica"
+"BEL","2009","27.878","OECD","Bélgica"
+"BEL","2010","27.658","OECD","Bélgica"
+"BEL","2011","27.879","OECD","Bélgica"
+"BEL","2012","27.822","OECD","Bélgica"
+"BEL","2013","28.2","OECD","Bélgica"
+"BEL","2014","28.26","OECD","Bélgica"
+"BEL","2015","29.119","OECD","Bélgica"
+"BEL","2016","28.517","OECD","Bélgica"
+"BEL","2017","28.363","OECD","Bélgica"
+"BEL","2018","28.342","OECD","Bélgica"
+"BEL","2019","28.053","OECD","Bélgica"
+"BEL","2020","31.567","OECD","Bélgica"
+"BEL","2021","29.102","OECD","Bélgica"
+"BEL","2022","27.833","OECD","Bélgica"
+"BEL","2023","28.283","OECD","Bélgica"
+"NOR","1980","16.121","OECD","Noruega"
+"NOR","1985","17.198","OECD","Noruega"
+"NOR","1988","19.971","OECD","Noruega"
+"NOR","1989","20.866","OECD","Noruega"
+"NOR","1990","21.55","OECD","Noruega"
+"NOR","1991","22.458","OECD","Noruega"
+"NOR","1992","23.346","OECD","Noruega"
+"NOR","1993","23.261","OECD","Noruega"
+"NOR","1994","23.081","OECD","Noruega"
+"NOR","1995","22.474","OECD","Noruega"
+"NOR","1996","21.681","OECD","Noruega"
+"NOR","1997","21.183","OECD","Noruega"
+"NOR","1998","22.624","OECD","Noruega"
+"NOR","1999","22.538","OECD","Noruega"
+"NOR","2000","20.386","OECD","Noruega"
+"NOR","2001","21.202","OECD","Noruega"
+"NOR","2002","22.664","OECD","Noruega"
+"NOR","2003","23.59","OECD","Noruega"
+"NOR","2004","22.22","OECD","Noruega"
+"NOR","2005","20.664","OECD","Noruega"
+"NOR","2006","19.404","OECD","Noruega"
+"NOR","2007","19.52","OECD","Noruega"
+"NOR","2008","19.169","OECD","Noruega"
+"NOR","2009","22.415","OECD","Noruega"
+"NOR","2010","22.001","OECD","Noruega"
+"NOR","2011","21.446","OECD","Noruega"
+"NOR","2012","21.332","OECD","Noruega"
+"NOR","2013","21.782","OECD","Noruega"
+"NOR","2014","22.687","OECD","Noruega"
+"NOR","2015","24.531","OECD","Noruega"
+"NOR","2016","25.819","OECD","Noruega"
+"NOR","2017","24.952","OECD","Noruega"
+"NOR","2018","24.082","OECD","Noruega"
+"NOR","2019","25.055","OECD","Noruega"
+"NOR","2020","27.989","OECD","Noruega"
+"NOR","2021","23.358","OECD","Noruega"
+"NOR","2022","18.545","OECD","Noruega"
+"NOR","2023","22.318","OECD","Noruega"
+"IRL","1980","15.674","OECD","Irlanda"
+"IRL","1981","15.784","OECD","Irlanda"
+"IRL","1982","16.575","OECD","Irlanda"
+"IRL","1983","16.695","OECD","Irlanda"
+"IRL","1984","16.161","OECD","Irlanda"
+"IRL","1985","20.392","OECD","Irlanda"
+"IRL","1986","20.541","OECD","Irlanda"
+"IRL","1987","19.816","OECD","Irlanda"
+"IRL","1988","18.601","OECD","Irlanda"
+"IRL","1989","17.14","OECD","Irlanda"
+"IRL","1990","16.858","OECD","Irlanda"
+"IRL","1991","17.762","OECD","Irlanda"
+"IRL","1992","18.526","OECD","Irlanda"
+"IRL","1993","18.497","OECD","Irlanda"
+"IRL","1994","18.099","OECD","Irlanda"
+"IRL","1995","17.563","OECD","Irlanda"
+"IRL","1996","16.591","OECD","Irlanda"
+"IRL","1997","15.508","OECD","Irlanda"
+"IRL","1998","14.542","OECD","Irlanda"
+"IRL","1999","13.682","OECD","Irlanda"
+"IRL","2000","13.136","OECD","Irlanda"
+"IRL","2001","13.948","OECD","Irlanda"
+"IRL","2002","14.858","OECD","Irlanda"
+"IRL","2003","15.422","OECD","Irlanda"
+"IRL","2004","15.741","OECD","Irlanda"
+"IRL","2005","15.834","OECD","Irlanda"
+"IRL","2006","15.841","OECD","Irlanda"
+"IRL","2007","16.746","OECD","Irlanda"
+"IRL","2008","19.955","OECD","Irlanda"
+"IRL","2009","23.853","OECD","Irlanda"
+"IRL","2010","24.118","OECD","Irlanda"
+"IRL","2011","23.025","OECD","Irlanda"
+"IRL","2012","22.842","OECD","Irlanda"
+"IRL","2013","21.33","OECD","Irlanda"
+"IRL","2014","19.5","OECD","Irlanda"
+"IRL","2015","14.659","OECD","Irlanda"
+"IRL","2016","14.8","OECD","Irlanda"
+"IRL","2017","13.643","OECD","Irlanda"
+"IRL","2018","13.163","OECD","Irlanda"
+"IRL","2019","12.699","OECD","Irlanda"
+"IRL","2020","15.513","OECD","Irlanda"
+"IRL","2021","13.566","OECD","Irlanda"
+"IRL","2022","12.068","OECD","Irlanda"
+"IRL","2023","13.405","OECD","Irlanda"
+"COL","2010","12.149","OECD","Colombia"
+"COL","2011","12.681","OECD","Colombia"
+"COL","2012","12.63","OECD","Colombia"
+"COL","2013","13.424","OECD","Colombia"
+"COL","2014","14.108","OECD","Colombia"
+"COL","2015","14.611","OECD","Colombia"
+"COL","2016","14.24","OECD","Colombia"
+"COL","2017","14.253","OECD","Colombia"
+"COL","2018","13.817","OECD","Colombia"
+"COL","2019","13.857","OECD","Colombia"
+"COL","2020","16.83","OECD","Colombia"
+"COL","2021","15.728","OECD","Colombia"
+"COL","2022","13.634","OECD","Colombia"
+"COL","2023","14.063","OECD","Colombia"
+"DEU","1980","21.788","OECD","Alemania"
+"DEU","1981","22.446","OECD","Alemania"
+"DEU","1982","22.433","OECD","Alemania"
+"DEU","1983","22.14","OECD","Alemania"
+"DEU","1984","21.881","OECD","Alemania"
+"DEU","1985","22.228","OECD","Alemania"
+"DEU","1986","22.247","OECD","Alemania"
+"DEU","1987","22.715","OECD","Alemania"
+"DEU","1988","22.705","OECD","Alemania"
+"DEU","1989","21.643","OECD","Alemania"
+"DEU","1990","21.354","OECD","Alemania"
+"DEU","1991","22.476","OECD","Alemania"
+"DEU","1992","24.188","OECD","Alemania"
+"DEU","1993","24.934","OECD","Alemania"
+"DEU","1994","25.102","OECD","Alemania"
+"DEU","1995","25.649","OECD","Alemania"
+"DEU","1996","26.216","OECD","Alemania"
+"DEU","1997","25.691","OECD","Alemania"
+"DEU","1998","25.593","OECD","Alemania"
+"DEU","1999","25.599","OECD","Alemania"
+"DEU","2000","25.506","OECD","Alemania"
+"DEU","2001","25.492","OECD","Alemania"
+"DEU","2002","26.141","OECD","Alemania"
+"DEU","2003","26.545","OECD","Alemania"
+"DEU","2004","25.937","OECD","Alemania"
+"DEU","2005","26.22","OECD","Alemania"
+"DEU","2006","24.927","OECD","Alemania"
+"DEU","2007","24.044","OECD","Alemania"
+"DEU","2008","24.193","OECD","Alemania"
+"DEU","2009","27.427","OECD","Alemania"
+"DEU","2010","26.685","OECD","Alemania"
+"DEU","2011","25.385","OECD","Alemania"
+"DEU","2012","25.285","OECD","Alemania"
+"DEU","2013","25.492","OECD","Alemania"
+"DEU","2014","25.43","OECD","Alemania"
+"DEU","2015","25.721","OECD","Alemania"
+"DEU","2016","25.922","OECD","Alemania"
+"DEU","2017","25.938","OECD","Alemania"
+"DEU","2018","26.041","OECD","Alemania"
+"DEU","2019","26.409","OECD","Alemania"
+"DEU","2020","29.471","OECD","Alemania"
+"DEU","2021","28.867","OECD","Alemania"
+"DEU","2022","27.718","OECD","Alemania"
+"DEU","2023","27.293","OECD","Alemania"
+"ROU","2003","9.624","OECD","Rumania"
+"ROU","2004","9.561","OECD","Rumania"
+"ROU","2005","14.401","OECD","Rumania"
+"ROU","2006","13.653","OECD","Rumania"
+"ROU","2007","13.833","OECD","Rumania"
+"ROU","2008","14.547","OECD","Rumania"
+"ROU","2009","16.634","OECD","Rumania"
+"ROU","2010","17.391","OECD","Rumania"
+"ROU","2011","15.4","OECD","Rumania"
+"ROU","2012","14.697","OECD","Rumania"
+"ROU","2013","15.408","OECD","Rumania"
+"ROU","2014","15.076","OECD","Rumania"
+"ROU","2015","14.865","OECD","Rumania"
+"ROU","2016","15.172","OECD","Rumania"
+"ROU","2017","15.241","OECD","Rumania"
+"ROU","2018","15.281","OECD","Rumania"
+"ROU","2019","15.589","OECD","Rumania"
+"ROU","2020","17.621","OECD","Rumania"
+"ROU","2021","17.566","OECD","Rumania"
+"BGR","2005","14.855","OECD","Bulgaria"
+"BGR","2006","14.036","OECD","Bulgaria"
+"BGR","2007","13.14","OECD","Bulgaria"
+"BGR","2008","13.807","OECD","Bulgaria"
+"BGR","2009","15.624","OECD","Bulgaria"
+"BGR","2010","16.269","OECD","Bulgaria"
+"BGR","2011","15.477","OECD","Bulgaria"
+"BGR","2012","16.455","OECD","Bulgaria"
+"BGR","2013","17.75","OECD","Bulgaria"
+"BGR","2014","18.419","OECD","Bulgaria"
+"BGR","2015","17.583","OECD","Bulgaria"
+"BGR","2016","17.21","OECD","Bulgaria"
+"BGR","2017","16.834","OECD","Bulgaria"
+"BGR","2018","16.84","OECD","Bulgaria"
+"BGR","2019","16.547","OECD","Bulgaria"
+"BGR","2020","19.585","OECD","Bulgaria"
+"BGR","2021","20.496","OECD","Bulgaria"
+"HRV","2008","19.504","OECD","Croacia"
+"HRV","2009","21.125","OECD","Croacia"
+"HRV","2010","21.216","OECD","Croacia"
+"HRV","2011","20.179","OECD","Croacia"
+"HRV","2012","20.627","OECD","Croacia"
+"HRV","2013","20.145","OECD","Croacia"
+"HRV","2014","20.687","OECD","Croacia"
+"HRV","2015","20.687","OECD","Croacia"
+"HRV","2016","20.63","OECD","Croacia"
+"HRV","2017","20.345","OECD","Croacia"
+"HRV","2018","20.594","OECD","Croacia"
+"HRV","2019","20.554","OECD","Croacia"
+"HRV","2020","23.499","OECD","Croacia"
+"HRV","2021","22.478","OECD","Croacia"
