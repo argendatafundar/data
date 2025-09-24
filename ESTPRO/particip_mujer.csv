@@ -1,391 +1,436 @@
-anio,letra,letra_desc_abrev,porc_mujeres
-1996,A,Agro,0.0918044347598943
-1996,B,Pesca,0.101279327381686
-1996,C,Petróleo y minería,0.0781841962811407
-1996,D,Industria manufacturera,0.179594744382152
-1996,E,"Electricidad, gas y agua",0.132048377568523
-1996,F,Construcción,0.0456970576021262
-1996,G,Comercio,0.279525244198233
-1996,H,Hotelería y restaurantes,0.342571929722495
-1996,I,Transporte y comunicaciones,0.113176689046412
-1996,J,Finanzas,0.374525989787234
-1996,K,Serv. inmobiliarios y profesionales,0.301099999031256
-1996,M,Enseñanza,0.72110153237228
-1996,N,Salud,0.711676305394195
-1996,O,"Serv. comunitarios, sociales y personales",0.402231230381707
-1997,A,Agro,0.0927915379517103
-1997,B,Pesca,0.0926977803004449
-1997,C,Petróleo y minería,0.0763459940533161
-1997,D,Industria manufacturera,0.18014401862226
-1997,E,"Electricidad, gas y agua",0.137170001032426
-1997,F,Construcción,0.0426403479221599
-1997,G,Comercio,0.283907396588031
-1997,H,Hotelería y restaurantes,0.356474589997881
-1997,I,Transporte y comunicaciones,0.115356458755723
-1997,J,Finanzas,0.396861434427741
-1997,K,Serv. inmobiliarios y profesionales,0.301879918778806
-1997,M,Enseñanza,0.733516000602892
-1997,N,Salud,0.710745945397243
-1997,O,"Serv. comunitarios, sociales y personales",0.405579204035882
-1998,A,Agro,0.0947991578513723
-1998,B,Pesca,0.0905251801467346
-1998,C,Petróleo y minería,0.0764253434829343
-1998,D,Industria manufacturera,0.182129293262591
-1998,E,"Electricidad, gas y agua",0.140548260320139
-1998,F,Construcción,0.0432083475482806
-1998,G,Comercio,0.291949785963759
-1998,H,Hotelería y restaurantes,0.36901315504648
-1998,I,Transporte y comunicaciones,0.123596163591456
-1998,J,Finanzas,0.415803500626433
-1998,K,Serv. inmobiliarios y profesionales,0.305675962025053
-1998,M,Enseñanza,0.752457224458573
-1998,N,Salud,0.713970764590645
-1998,O,"Serv. comunitarios, sociales y personales",0.417612707056958
-1999,A,Agro,0.0960652904348667
-1999,B,Pesca,0.0962599735299011
-1999,C,Petróleo y minería,0.0773023390863391
-1999,D,Industria manufacturera,0.184490329631219
-1999,E,"Electricidad, gas y agua",0.141791926465151
-1999,F,Construcción,0.043650679484712
-1999,G,Comercio,0.298552434324523
-1999,H,Hotelería y restaurantes,0.381007298518053
-1999,I,Transporte y comunicaciones,0.130746746183913
-1999,J,Finanzas,0.428700951666669
-1999,K,Serv. inmobiliarios y profesionales,0.31232212829785
-1999,M,Enseñanza,0.750843499199885
-1999,N,Salud,0.717311273399937
-1999,O,"Serv. comunitarios, sociales y personales",0.42048602932149
-2000,A,Agro,0.0972221697498051
-2000,B,Pesca,0.0963086111320516
-2000,C,Petróleo y minería,0.07064474229528
-2000,D,Industria manufacturera,0.186978118487004
-2000,E,"Electricidad, gas y agua",0.147809800807673
-2000,F,Construcción,0.0497176745712289
-2000,G,Comercio,0.306531171506711
-2000,H,Hotelería y restaurantes,0.389664919490741
-2000,I,Transporte y comunicaciones,0.140650793991501
-2000,J,Finanzas,0.437522995126237
-2000,K,Serv. inmobiliarios y profesionales,0.320682917510596
-2000,M,Enseñanza,0.749117968608388
-2000,N,Salud,0.72010298374539
-2000,O,"Serv. comunitarios, sociales y personales",0.42841697224508
-2001,A,Agro,0.0980647422096938
-2001,B,Pesca,0.105264415937499
-2001,C,Petróleo y minería,0.0694484459922645
-2001,D,Industria manufacturera,0.187423931034708
-2001,E,"Electricidad, gas y agua",0.152931681120896
-2001,F,Construcción,0.053724943786597
-2001,G,Comercio,0.311701161929594
-2001,H,Hotelería y restaurantes,0.394123928793892
-2001,I,Transporte y comunicaciones,0.144107768017538
-2001,J,Finanzas,0.439696728792388
-2001,K,Serv. inmobiliarios y profesionales,0.324140003294008
-2001,M,Enseñanza,0.748407364090178
-2001,N,Salud,0.720546845678324
-2001,O,"Serv. comunitarios, sociales y personales",0.431773981532167
-2002,A,Agro,0.0952185443237744
-2002,B,Pesca,0.125308266097269
-2002,C,Petróleo y minería,0.0719871116811649
-2002,D,Industria manufacturera,0.184647081117913
-2002,E,"Electricidad, gas y agua",0.15773021200845
-2002,F,Construcción,0.0715818179163626
-2002,G,Comercio,0.309960985858923
-2002,H,Hotelería y restaurantes,0.397168497352409
-2002,I,Transporte y comunicaciones,0.140585634514949
-2002,J,Finanzas,0.43636738709751
-2002,K,Serv. inmobiliarios y profesionales,0.322710233920008
-2002,M,Enseñanza,0.747250422290793
-2002,N,Salud,0.721939641647876
-2002,O,"Serv. comunitarios, sociales y personales",0.441375811733522
-2003,A,Agro,0.0934836627854435
-2003,B,Pesca,0.133245876868596
-2003,C,Petróleo y minería,0.0706187983052443
-2003,D,Industria manufacturera,0.184268187303249
-2003,E,"Electricidad, gas y agua",0.159767456451097
-2003,F,Construcción,0.0563992085901385
-2003,G,Comercio,0.309940603199346
-2003,H,Hotelería y restaurantes,0.398404095065703
-2003,I,Transporte y comunicaciones,0.137904546757666
-2003,J,Finanzas,0.433400368845621
-2003,K,Serv. inmobiliarios y profesionales,0.311346649716059
-2003,M,Enseñanza,0.745417575253574
-2003,N,Salud,0.721344574236991
-2003,O,"Serv. comunitarios, sociales y personales",0.44004504462197
-2004,A,Agro,0.0953407100789273
-2004,B,Pesca,0.141203844729356
-2004,C,Petróleo y minería,0.0706417899126305
-2004,D,Industria manufacturera,0.183162488719649
-2004,E,"Electricidad, gas y agua",0.161309994575034
-2004,F,Construcción,0.046368811781415
-2004,G,Comercio,0.315075009200452
-2004,H,Hotelería y restaurantes,0.399729140793349
-2004,I,Transporte y comunicaciones,0.138541448731523
-2004,J,Finanzas,0.439071894593557
-2004,K,Serv. inmobiliarios y profesionales,0.310588624721179
-2004,M,Enseñanza,0.74328940808784
-2004,N,Salud,0.719455373436699
-2004,O,"Serv. comunitarios, sociales y personales",0.441557275620357
-2005,A,Agro,0.10020130751055
-2005,B,Pesca,0.155099513057306
-2005,C,Petróleo y minería,0.0703819526362317
-2005,D,Industria manufacturera,0.183739501847429
-2005,E,"Electricidad, gas y agua",0.162865146713348
-2005,F,Construcción,0.0406045154641365
-2005,G,Comercio,0.32098857722362
-2005,H,Hotelería y restaurantes,0.4008344727439
-2005,I,Transporte y comunicaciones,0.140279113547601
-2005,J,Finanzas,0.445931582979071
-2005,K,Serv. inmobiliarios y profesionales,0.314547746150052
-2005,M,Enseñanza,0.742318491620576
-2005,N,Salud,0.717949530793394
-2005,O,"Serv. comunitarios, sociales y personales",0.442300210843353
-2006,A,Agro,0.103451039070947
-2006,B,Pesca,0.149334602411796
-2006,C,Petróleo y minería,0.0725802441948148
-2006,D,Industria manufacturera,0.183638292048502
-2006,E,"Electricidad, gas y agua",0.163828670995353
-2006,F,Construcción,0.0385542969814282
-2006,G,Comercio,0.32783723644093
-2006,H,Hotelería y restaurantes,0.406855467213786
-2006,I,Transporte y comunicaciones,0.142262710107522
-2006,J,Finanzas,0.453512793526554
-2006,K,Serv. inmobiliarios y profesionales,0.321433639878077
-2006,M,Enseñanza,0.741425621937429
-2006,N,Salud,0.718584474475337
-2006,O,"Serv. comunitarios, sociales y personales",0.44667008349354
-2007,A,Agro,0.106345268965704
-2007,B,Pesca,0.143629354696301
-2007,C,Petróleo y minería,0.0764226094789605
-2007,D,Industria manufacturera,0.183762135467716
-2007,E,"Electricidad, gas y agua",0.165383060924247
-2007,F,Construcción,0.0393072861580475
-2007,G,Comercio,0.335353170838078
-2007,H,Hotelería y restaurantes,0.416549654781251
-2007,I,Transporte y comunicaciones,0.143286962111124
-2007,J,Finanzas,0.46510093687949
-2007,K,Serv. inmobiliarios y profesionales,0.326795342662048
-2007,M,Enseñanza,0.740169769388722
-2007,N,Salud,0.719524965734926
-2007,O,"Serv. comunitarios, sociales y personales",0.45185915724565
-2008,A,Agro,0.111012746405183
-2008,B,Pesca,0.140294669822716
-2008,C,Petróleo y minería,0.0794280354305131
-2008,D,Industria manufacturera,0.1849422158747
-2008,E,"Electricidad, gas y agua",0.16652534614092
-2008,F,Construcción,0.0431545514937207
-2008,G,Comercio,0.342302303755797
-2008,H,Hotelería y restaurantes,0.429893468589663
-2008,I,Transporte y comunicaciones,0.144623060662609
-2008,J,Finanzas,0.474203176361225
-2008,K,Serv. inmobiliarios y profesionales,0.335128123716159
-2008,M,Enseñanza,0.739961188742764
-2008,N,Salud,0.720148699627126
-2008,O,"Serv. comunitarios, sociales y personales",0.457199370494615
-2009,A,Agro,0.112933686579148
-2009,B,Pesca,0.145251178924835
-2009,C,Petróleo y minería,0.0819765581056796
-2009,D,Industria manufacturera,0.187280459531889
-2009,E,"Electricidad, gas y agua",0.168732244810562
-2009,F,Construcción,0.0469307259609412
-2009,G,Comercio,0.346687554504709
-2009,H,Hotelería y restaurantes,0.433957464192459
-2009,I,Transporte y comunicaciones,0.143292343443822
-2009,J,Finanzas,0.465581176479893
-2009,K,Serv. inmobiliarios y profesionales,0.345859384526499
-2009,M,Enseñanza,0.73865246561749
-2009,N,Salud,0.722070519719146
-2009,O,"Serv. comunitarios, sociales y personales",0.460146416657747
-2010,A,Agro,0.112202636513569
-2010,B,Pesca,0.136558989591475
-2010,C,Petróleo y minería,0.0824527486036315
-2010,D,Industria manufacturera,0.18653800501629
-2010,E,"Electricidad, gas y agua",0.169534616142195
-2010,F,Construcción,0.0484944331223313
-2010,G,Comercio,0.348738177828462
-2010,H,Hotelería y restaurantes,0.435950613074331
-2010,I,Transporte y comunicaciones,0.142358444049596
-2010,J,Finanzas,0.471469217119636
-2010,K,Serv. inmobiliarios y profesionales,0.345265545605609
-2010,M,Enseñanza,0.737902184930457
-2010,N,Salud,0.721872646480222
-2010,O,"Serv. comunitarios, sociales y personales",0.458885503459118
-2011,A,Agro,0.115038473482418
-2011,B,Pesca,0.128693162437837
-2011,C,Petróleo y minería,0.0851632298766515
-2011,D,Industria manufacturera,0.187085353222206
-2011,E,"Electricidad, gas y agua",0.16910628782988
-2011,F,Construcción,0.0478645447668982
-2011,G,Comercio,0.351568170300902
-2011,H,Hotelería y restaurantes,0.440037575494645
-2011,I,Transporte y comunicaciones,0.13925156263919
-2011,J,Finanzas,0.477396506650255
-2011,K,Serv. inmobiliarios y profesionales,0.347060845564069
-2011,M,Enseñanza,0.737580257706222
-2011,N,Salud,0.721585274939419
-2011,O,"Serv. comunitarios, sociales y personales",0.461873377614855
-2012,A,Agro,0.115773241439889
-2012,B,Pesca,0.119963648392235
-2012,C,Petróleo y minería,0.0871501591345151
-2012,D,Industria manufacturera,0.187533686975217
-2012,E,"Electricidad, gas y agua",0.170216643407613
-2012,F,Construcción,0.0510321437184562
-2012,G,Comercio,0.353039900096527
-2012,H,Hotelería y restaurantes,0.443328027737401
-2012,I,Transporte y comunicaciones,0.137402739867459
-2012,J,Finanzas,0.479214292100851
-2012,K,Serv. inmobiliarios y profesionales,0.351437766314095
-2012,M,Enseñanza,0.737928584403908
-2012,N,Salud,0.720663006037992
-2012,O,"Serv. comunitarios, sociales y personales",0.464192598045896
-2013,A,Agro,0.118354780441925
-2013,B,Pesca,0.113472469837508
-2013,C,Petróleo y minería,0.0878698767451263
-2013,D,Industria manufacturera,0.18732438254257
-2013,E,"Electricidad, gas y agua",0.170529254150086
-2013,F,Construcción,0.0516861868204554
-2013,G,Comercio,0.351699131096397
-2013,H,Hotelería y restaurantes,0.446620740250447
-2013,I,Transporte y comunicaciones,0.137642722804684
-2013,J,Finanzas,0.481250875922834
-2013,K,Serv. inmobiliarios y profesionales,0.353789001706653
-2013,M,Enseñanza,0.737354961948873
-2013,N,Salud,0.719397123726816
-2013,O,"Serv. comunitarios, sociales y personales",0.4633030261525
-2014,A,Agro,0.124020183491613
-2014,B,Pesca,0.116079844927088
-2014,C,Petróleo y minería,0.0878759713185302
-2014,D,Industria manufacturera,0.187289685470616
-2014,E,"Electricidad, gas y agua",0.169952957954815
-2014,F,Construcción,0.0538323083220867
-2014,G,Comercio,0.351388709405498
-2014,H,Hotelería y restaurantes,0.448625800229567
-2014,I,Transporte y comunicaciones,0.137289670550452
-2014,J,Finanzas,0.482976526974138
-2014,K,Serv. inmobiliarios y profesionales,0.355617395051271
-2014,M,Enseñanza,0.736582816141678
-2014,N,Salud,0.717669045996911
-2014,O,"Serv. comunitarios, sociales y personales",0.462221490615006
-2015,A,Agro,0.126025844324847
-2015,B,Pesca,0.115207722471371
-2015,C,Petróleo y minería,0.0904930731669393
-2015,D,Industria manufacturera,0.188669999222753
-2015,E,"Electricidad, gas y agua",0.169835636241983
-2015,F,Construcción,0.054439395253639
-2015,G,Comercio,0.351470422725264
-2015,H,Hotelería y restaurantes,0.450655269639628
-2015,I,Transporte y comunicaciones,0.138630222054315
-2015,J,Finanzas,0.484020423778122
-2015,K,Serv. inmobiliarios y profesionales,0.355021648059114
-2015,M,Enseñanza,0.736598009617699
-2015,N,Salud,0.715963461775045
-2015,O,"Serv. comunitarios, sociales y personales",0.460896551681915
-2016,A,Agro,0.125296740674033
-2016,B,Pesca,0.106468583025539
-2016,C,Petróleo y minería,0.0914049014638492
-2016,D,Industria manufacturera,0.190264621419986
-2016,E,"Electricidad, gas y agua",0.170531362082181
-2016,F,Construcción,0.0593991306336091
-2016,G,Comercio,0.352042568449469
-2016,H,Hotelería y restaurantes,0.449164328440819
-2016,I,Transporte y comunicaciones,0.139787000539602
-2016,J,Finanzas,0.488632803356236
-2016,K,Serv. inmobiliarios y profesionales,0.359561765987035
-2016,M,Enseñanza,0.736161989594302
-2016,N,Salud,0.714545705037091
-2016,O,"Serv. comunitarios, sociales y personales",0.462457836010372
-2017,A,Agro,0.124336732759243
-2017,B,Pesca,0.102522597340022
-2017,C,Petróleo y minería,0.0931794969381164
-2017,D,Industria manufacturera,0.188366419553253
-2017,E,"Electricidad, gas y agua",0.171494995963363
-2017,F,Construcción,0.0564687954069529
-2017,G,Comercio,0.350777175151168
-2017,H,Hotelería y restaurantes,0.449649014725844
-2017,I,Transporte y comunicaciones,0.14036640772897
-2017,J,Finanzas,0.492708652555245
-2017,K,Serv. inmobiliarios y profesionales,0.360766044762934
-2017,M,Enseñanza,0.735078553056519
-2017,N,Salud,0.711840540474644
-2017,O,"Serv. comunitarios, sociales y personales",0.46666211985023
-2018,A,Agro,0.126458647964644
-2018,B,Pesca,0.0995933867569775
-2018,C,Petróleo y minería,0.104222817175581
-2018,D,Industria manufacturera,0.187953215770128
-2018,E,"Electricidad, gas y agua",0.174503904527192
-2018,F,Construcción,0.0561754341530323
-2018,G,Comercio,0.350430302969284
-2018,H,Hotelería y restaurantes,0.451821981271245
-2018,I,Transporte y comunicaciones,0.140199706938161
-2018,J,Finanzas,0.491903827476844
-2018,K,Serv. inmobiliarios y profesionales,0.364235822054518
-2018,M,Enseñanza,0.73272255691706
-2018,N,Salud,0.711254402979012
-2018,O,"Serv. comunitarios, sociales y personales",0.466161239835497
-2019,A,Agro,0.12455825714025
-2019,B,Pesca,0.0884541288271416
-2019,C,Petróleo y minería,0.111772251612716
-2019,D,Industria manufacturera,0.1850701553499
-2019,E,"Electricidad, gas y agua",0.17831193625611
-2019,F,Construcción,0.0581403176747089
-2019,G,Comercio,0.35085663357343
-2019,H,Hotelería y restaurantes,0.454804577982803
-2019,I,Transporte y comunicaciones,0.140524122194849
-2019,J,Finanzas,0.490017121902375
-2019,K,Serv. inmobiliarios y profesionales,0.367331185109384
-2019,M,Enseñanza,0.730589012741113
-2019,N,Salud,0.710596620845261
-2019,O,"Serv. comunitarios, sociales y personales",0.468525968586968
-2020,A,Agro,0.118448458608646
-2020,B,Pesca,0.0919584577397033
-2020,C,Petróleo y minería,0.115702892996009
-2020,D,Industria manufacturera,0.183146049902183
-2020,E,"Electricidad, gas y agua",0.179787932927393
-2020,F,Construcción,0.0697614529770151
-2020,G,Comercio,0.346287921167318
-2020,H,Hotelería y restaurantes,0.453636130130659
-2020,I,Transporte y comunicaciones,0.140677989505736
-2020,J,Finanzas,0.489534385549971
-2020,K,Serv. inmobiliarios y profesionales,0.361444503486449
-2020,M,Enseñanza,0.727139340132119
-2020,N,Salud,0.709893585324682
-2020,O,"Serv. comunitarios, sociales y personales",0.462231413116807
-2021,A,Agro,0.121451154494048
-2021,B,Pesca,0.0996561402852947
-2021,C,Petróleo y minería,0.11497318769039
-2021,D,Industria manufacturera,0.182089149295826
-2021,E,"Electricidad, gas y agua",0.181066494169065
-2021,F,Construcción,0.0651299564659463
-2021,G,Comercio,0.342179784694034
-2021,H,Hotelería y restaurantes,0.457153051096655
-2021,I,Transporte y comunicaciones,0.138802302220511
-2021,J,Finanzas,0.488340823008392
-2021,K,Serv. inmobiliarios y profesionales,0.359745324785045
-2021,M,Enseñanza,0.728029262792483
-2021,N,Salud,0.709534765001191
-2021,O,"Serv. comunitarios, sociales y personales",0.463785369801511
-1996,Z,Total,0.267975963831238
-1997,Z,Total,0.271105319424216
-1998,Z,Total,0.282673266545666
-1999,Z,Total,0.288950610562747
-2000,Z,Total,0.299164061948868
-2001,Z,Total,0.305949875489223
-2002,Z,Total,0.313641711294397
-2003,Z,Total,0.306593553340766
-2004,Z,Total,0.302427387173145
-2005,Z,Total,0.299777631165594
-2006,Z,Total,0.299674099474318
-2007,Z,Total,0.301087189178342
-2008,Z,Total,0.306228372665867
-2009,Z,Total,0.312757779043102
-2010,Z,Total,0.314171730987191
-2011,Z,Total,0.314423335287058
-2012,Z,Total,0.317586673076993
-2013,Z,Total,0.31890731522894
-2014,Z,Total,0.320699061204991
-2015,Z,Total,0.321608539145844
-2016,Z,Total,0.326986215176514
-2017,Z,Total,0.327286990963997
-2018,Z,Total,0.328306962583546
-2019,Z,Total,0.331215344346069
-2020,Z,Total,0.332791701135066
-2021,Z,Total,0.32928822156586
+"anio","letra","letra_desc_abrev","porc_mujeres"
+"1996","A","Agro","0.0921218546456964"
+"1996","B","Pesca","0.101148403967194"
+"1996","C","Petróleo y minería","0.0781887378864292"
+"1996","D","Industria manufacturera","0.17981172585309"
+"1996","E","Electricidad, gas y agua","0.132329316575308"
+"1996","F","Construcción","0.045846726722584"
+"1996","G","Comercio","0.279633498461818"
+"1996","H","Hotelería y restaurantes","0.343072569397249"
+"1996","I","Transporte y comunicaciones","0.113376054428833"
+"1996","J","Finanzas","0.374549880893926"
+"1996","K","Serv. inmobiliarios y profesionales","0.30116860350428"
+"1996","M","Enseñanza","0.720907902278614"
+"1996","N","Salud","0.711500646748858"
+"1996","O","Serv. comunitarios, sociales y personales","0.402141124670738"
+"1996","Z","No definido","0.306504473609268"
+"1997","A","Agro","0.0930568057175336"
+"1997","B","Pesca","0.0929182846053086"
+"1997","C","Petróleo y minería","0.0763037038509712"
+"1997","D","Industria manufacturera","0.1803556349085"
+"1997","E","Electricidad, gas y agua","0.137449912793696"
+"1997","F","Construcción","0.0428700448698588"
+"1997","G","Comercio","0.284034846438102"
+"1997","H","Hotelería y restaurantes","0.356647683777215"
+"1997","I","Transporte y comunicaciones","0.115572979377555"
+"1997","J","Finanzas","0.396893713272147"
+"1997","K","Serv. inmobiliarios y profesionales","0.301955622830737"
+"1997","M","Enseñanza","0.733287058462293"
+"1997","N","Salud","0.710541305540765"
+"1997","O","Serv. comunitarios, sociales y personales","0.405448403599926"
+"1997","Z","No definido","0.278870055560963"
+"1998","A","Agro","0.0950040885273468"
+"1998","B","Pesca","0.0905636531898194"
+"1998","C","Petróleo y minería","0.0764127388977722"
+"1998","D","Industria manufacturera","0.182296473928915"
+"1998","E","Electricidad, gas y agua","0.140810496420942"
+"1998","F","Construcción","0.0434193745497133"
+"1998","G","Comercio","0.2920755937702"
+"1998","H","Hotelería y restaurantes","0.36900299505252"
+"1998","I","Transporte y comunicaciones","0.123760885110416"
+"1998","J","Finanzas","0.415794379931912"
+"1998","K","Serv. inmobiliarios y profesionales","0.305732934908614"
+"1998","M","Enseñanza","0.751972785826303"
+"1998","N","Salud","0.713807910678637"
+"1998","O","Serv. comunitarios, sociales y personales","0.417493997907955"
+"1998","Z","No definido","0.277831398927025"
+"1999","A","Agro","0.0962798596391624"
+"1999","B","Pesca","0.0962291039458153"
+"1999","C","Petróleo y minería","0.0773396585204909"
+"1999","D","Industria manufacturera","0.18464627308002"
+"1999","E","Electricidad, gas y agua","0.14184392460257"
+"1999","F","Construcción","0.0437530579715864"
+"1999","G","Comercio","0.298642851038946"
+"1999","H","Hotelería y restaurantes","0.38088463092347"
+"1999","I","Transporte y comunicaciones","0.130869516339263"
+"1999","J","Finanzas","0.428703927680721"
+"1999","K","Serv. inmobiliarios y profesionales","0.312341704928162"
+"1999","M","Enseñanza","0.750323273103939"
+"1999","N","Salud","0.717229865175765"
+"1999","O","Serv. comunitarios, sociales y personales","0.420354266459321"
+"1999","Z","No definido","0.312047515021515"
+"2000","A","Agro","0.0974045170644668"
+"2000","B","Pesca","0.0962304267640874"
+"2000","C","Petróleo y minería","0.070660710889119"
+"2000","D","Industria manufacturera","0.187127556401349"
+"2000","E","Electricidad, gas y agua","0.147807055828496"
+"2000","F","Construcción","0.0497782397939953"
+"2000","G","Comercio","0.306625986271537"
+"2000","H","Hotelería y restaurantes","0.38950276249916"
+"2000","I","Transporte y comunicaciones","0.140764025076918"
+"2000","J","Finanzas","0.437522701801071"
+"2000","K","Serv. inmobiliarios y profesionales","0.320701765154835"
+"2000","M","Enseñanza","0.748647043165205"
+"2000","N","Salud","0.719956467033152"
+"2000","O","Serv. comunitarios, sociales y personales","0.428392734852751"
+"2000","Z","No definido","0.333036816160191"
+"2001","A","Agro","0.0981851332690637"
+"2001","B","Pesca","0.105482328426665"
+"2001","C","Petróleo y minería","0.0694868463172694"
+"2001","D","Industria manufacturera","0.187527858656959"
+"2001","E","Electricidad, gas y agua","0.152941639083712"
+"2001","F","Construcción","0.0537889317468897"
+"2001","G","Comercio","0.311765196275868"
+"2001","H","Hotelería y restaurantes","0.393913813783894"
+"2001","I","Transporte y comunicaciones","0.144158348867636"
+"2001","J","Finanzas","0.4397080839665"
+"2001","K","Serv. inmobiliarios y profesionales","0.324118365830951"
+"2001","M","Enseñanza","0.748008820072432"
+"2001","N","Salud","0.720410110138698"
+"2001","O","Serv. comunitarios, sociales y personales","0.431801377447056"
+"2001","Z","No definido","0.353580238710415"
+"2002","A","Agro","0.0953224899919953"
+"2002","B","Pesca","0.125734892688128"
+"2002","C","Petróleo y minería","0.071969158008886"
+"2002","D","Industria manufacturera","0.184734279228018"
+"2002","E","Electricidad, gas y agua","0.157762058018243"
+"2002","F","Construcción","0.0715833082451747"
+"2002","G","Comercio","0.310006836433518"
+"2002","H","Hotelería y restaurantes","0.396990177438529"
+"2002","I","Transporte y comunicaciones","0.140610047440606"
+"2002","J","Finanzas","0.436356859726082"
+"2002","K","Serv. inmobiliarios y profesionales","0.322699122264526"
+"2002","M","Enseñanza","0.74690686661198"
+"2002","N","Salud","0.72189318386609"
+"2002","O","Serv. comunitarios, sociales y personales","0.441345863571733"
+"2002","Z","No definido","0.355889302849933"
+"2003","A","Agro","0.0936192028624853"
+"2003","B","Pesca","0.133513668320154"
+"2003","C","Petróleo y minería","0.0705867814834773"
+"2003","D","Industria manufacturera","0.184367316098046"
+"2003","E","Electricidad, gas y agua","0.159783539374866"
+"2003","F","Construcción","0.0564249093520917"
+"2003","G","Comercio","0.309968836552212"
+"2003","H","Hotelería y restaurantes","0.398391158611491"
+"2003","I","Transporte y comunicaciones","0.137925355223544"
+"2003","J","Finanzas","0.433422942494469"
+"2003","K","Serv. inmobiliarios y profesionales","0.311341810818258"
+"2003","M","Enseñanza","0.745105092715888"
+"2003","N","Salud","0.721325363529701"
+"2003","O","Serv. comunitarios, sociales y personales","0.439956354746143"
+"2003","Z","No definido","0.331865928682726"
+"2004","A","Agro","0.0954647005250674"
+"2004","B","Pesca","0.141504045667493"
+"2004","C","Petróleo y minería","0.0706114851300566"
+"2004","D","Industria manufacturera","0.183249024058026"
+"2004","E","Electricidad, gas y agua","0.161300930311093"
+"2004","F","Construcción","0.0464162832976309"
+"2004","G","Comercio","0.315100685837126"
+"2004","H","Hotelería y restaurantes","0.399747212621784"
+"2004","I","Transporte y comunicaciones","0.138571477480423"
+"2004","J","Finanzas","0.43906363776898"
+"2004","K","Serv. inmobiliarios y profesionales","0.310604456296608"
+"2004","M","Enseñanza","0.743051202074156"
+"2004","N","Salud","0.719417691284783"
+"2004","O","Serv. comunitarios, sociales y personales","0.4414749004366"
+"2004","Z","No definido","0.348291667911768"
+"2005","A","Agro","0.100301502274817"
+"2005","B","Pesca","0.155593198256422"
+"2005","C","Petróleo y minería","0.0703673986767619"
+"2005","D","Industria manufacturera","0.183807262137798"
+"2005","E","Electricidad, gas y agua","0.16285781337535"
+"2005","F","Construcción","0.0406474482427146"
+"2005","G","Comercio","0.321001289854785"
+"2005","H","Hotelería y restaurantes","0.400831353002712"
+"2005","I","Transporte y comunicaciones","0.140313460666349"
+"2005","J","Finanzas","0.445897766968694"
+"2005","K","Serv. inmobiliarios y profesionales","0.314588246716926"
+"2005","M","Enseñanza","0.742113035280013"
+"2005","N","Salud","0.717886769853535"
+"2005","O","Serv. comunitarios, sociales y personales","0.442215047773663"
+"2005","Z","No definido","0.38376841348611"
+"2006","A","Agro","0.103538441022005"
+"2006","B","Pesca","0.149856386480316"
+"2006","C","Petróleo y minería","0.0725539315974824"
+"2006","D","Industria manufacturera","0.183685401110917"
+"2006","E","Electricidad, gas y agua","0.163823543142475"
+"2006","F","Construcción","0.0385892414112326"
+"2006","G","Comercio","0.327851538934266"
+"2006","H","Hotelería y restaurantes","0.406862502575981"
+"2006","I","Transporte y comunicaciones","0.142300720385498"
+"2006","J","Finanzas","0.453482469364729"
+"2006","K","Serv. inmobiliarios y profesionales","0.321439201604557"
+"2006","M","Enseñanza","0.741223627281154"
+"2006","N","Salud","0.718536283844839"
+"2006","O","Serv. comunitarios, sociales y personales","0.446606211632712"
+"2006","Z","No definido","0.396612564112905"
+"2007","A","Agro","0.106432986566836"
+"2007","B","Pesca","0.143812030253865"
+"2007","C","Petróleo y minería","0.0764355717832176"
+"2007","D","Industria manufacturera","0.183802405206987"
+"2007","E","Electricidad, gas y agua","0.165384845798451"
+"2007","F","Construcción","0.0393400739573411"
+"2007","G","Comercio","0.335365117642561"
+"2007","H","Hotelería y restaurantes","0.416550572480056"
+"2007","I","Transporte y comunicaciones","0.143345491094946"
+"2007","J","Finanzas","0.465107181690133"
+"2007","K","Serv. inmobiliarios y profesionales","0.326795240693634"
+"2007","M","Enseñanza","0.740007235664384"
+"2007","N","Salud","0.719485265484781"
+"2007","O","Serv. comunitarios, sociales y personales","0.451797774278413"
+"2007","Z","No definido","0.415921015157981"
+"2008","A","Agro","0.111085618940155"
+"2008","B","Pesca","0.140364397601163"
+"2008","C","Petróleo y minería","0.0794931247176364"
+"2008","D","Industria manufacturera","0.184974887979181"
+"2008","E","Electricidad, gas y agua","0.166520265909558"
+"2008","F","Construcción","0.0431765808225254"
+"2008","G","Comercio","0.342313138497787"
+"2008","H","Hotelería y restaurantes","0.429821146440363"
+"2008","I","Transporte y comunicaciones","0.144674969349894"
+"2008","J","Finanzas","0.474196449246644"
+"2008","K","Serv. inmobiliarios y profesionales","0.335103556035838"
+"2008","M","Enseñanza","0.739786553946421"
+"2008","N","Salud","0.720112178351348"
+"2008","O","Serv. comunitarios, sociales y personales","0.457143378554906"
+"2008","Z","No definido","0.39849947767198"
+"2009","A","Agro","0.11298861534467"
+"2009","B","Pesca","0.145262948932158"
+"2009","C","Petróleo y minería","0.0820548529666208"
+"2009","D","Industria manufacturera","0.187318792185391"
+"2009","E","Electricidad, gas y agua","0.168737038231734"
+"2009","F","Construcción","0.0469435617357125"
+"2009","G","Comercio","0.34669642308274"
+"2009","H","Hotelería y restaurantes","0.433929204816032"
+"2009","I","Transporte y comunicaciones","0.143316900862008"
+"2009","J","Finanzas","0.465577295607917"
+"2009","K","Serv. inmobiliarios y profesionales","0.345848769462877"
+"2009","M","Enseñanza","0.738454328259856"
+"2009","N","Salud","0.722026678061623"
+"2009","O","Serv. comunitarios, sociales y personales","0.460112258473786"
+"2009","Z","No definido","0.388832572640555"
+"2010","A","Agro","0.112251562520782"
+"2010","B","Pesca","0.13657919476155"
+"2010","C","Petróleo y minería","0.08252171039639"
+"2010","D","Industria manufacturera","0.186582603263089"
+"2010","E","Electricidad, gas y agua","0.16953641804244"
+"2010","F","Construcción","0.0484928625342587"
+"2010","G","Comercio","0.34876070424406"
+"2010","H","Hotelería y restaurantes","0.435932750454788"
+"2010","I","Transporte y comunicaciones","0.142396610551323"
+"2010","J","Finanzas","0.471468465327566"
+"2010","K","Serv. inmobiliarios y profesionales","0.345251656713439"
+"2010","M","Enseñanza","0.737737833871987"
+"2010","N","Salud","0.721823328716276"
+"2010","O","Serv. comunitarios, sociales y personales","0.45888387108311"
+"2010","Z","No definido","0.369827410813043"
+"2011","A","Agro","0.115071486473975"
+"2011","B","Pesca","0.12864016160869"
+"2011","C","Petróleo y minería","0.0851837043176811"
+"2011","D","Industria manufacturera","0.187116684037853"
+"2011","E","Electricidad, gas y agua","0.169094506922477"
+"2011","F","Construcción","0.0478728834256665"
+"2011","G","Comercio","0.351577817099604"
+"2011","H","Hotelería y restaurantes","0.43998400239964"
+"2011","I","Transporte y comunicaciones","0.139282465023404"
+"2011","J","Finanzas","0.477392372323726"
+"2011","K","Serv. inmobiliarios y profesionales","0.347039917933485"
+"2011","M","Enseñanza","0.737450357135314"
+"2011","N","Salud","0.721562465442203"
+"2011","O","Serv. comunitarios, sociales y personales","0.461882240126511"
+"2011","Z","No definido","0.349712676126142"
+"2012","A","Agro","0.115810455334248"
+"2012","B","Pesca","0.119933988532041"
+"2012","C","Petróleo y minería","0.0871527773769823"
+"2012","D","Industria manufacturera","0.187565375680281"
+"2012","E","Electricidad, gas y agua","0.170213632563974"
+"2012","F","Construcción","0.0510195178284565"
+"2012","G","Comercio","0.353055966111145"
+"2012","H","Hotelería y restaurantes","0.443284390067934"
+"2012","I","Transporte y comunicaciones","0.13742990469832"
+"2012","J","Finanzas","0.479204846019923"
+"2012","K","Serv. inmobiliarios y profesionales","0.35143446446221"
+"2012","M","Enseñanza","0.737801869236404"
+"2012","N","Salud","0.720650277517658"
+"2012","O","Serv. comunitarios, sociales y personales","0.464195652235533"
+"2012","Z","No definido","0.337397325333655"
+"2013","A","Agro","0.118392693947308"
+"2013","B","Pesca","0.11345466597252"
+"2013","C","Petróleo y minería","0.0878700574003331"
+"2013","D","Industria manufacturera","0.187356683442383"
+"2013","E","Electricidad, gas y agua","0.170531170976313"
+"2013","F","Construcción","0.0516812417356596"
+"2013","G","Comercio","0.351718478684064"
+"2013","H","Hotelería y restaurantes","0.446609658898475"
+"2013","I","Transporte y comunicaciones","0.137657225596202"
+"2013","J","Finanzas","0.481244649554194"
+"2013","K","Serv. inmobiliarios y profesionales","0.353801656716989"
+"2013","M","Enseñanza","0.737213478377555"
+"2013","N","Salud","0.719381696406113"
+"2013","O","Serv. comunitarios, sociales y personales","0.463317583068629"
+"2013","Z","No definido","0.35713321782951"
+"2014","A","Agro","0.12404273005889"
+"2014","B","Pesca","0.116108809622652"
+"2014","C","Petróleo y minería","0.0878894722847998"
+"2014","D","Industria manufacturera","0.187314222715484"
+"2014","E","Electricidad, gas y agua","0.169970936767386"
+"2014","F","Construcción","0.0538314810642298"
+"2014","G","Comercio","0.35139275929417"
+"2014","H","Hotelería y restaurantes","0.448605287635278"
+"2014","I","Transporte y comunicaciones","0.137302725323764"
+"2014","J","Finanzas","0.482985497825526"
+"2014","K","Serv. inmobiliarios y profesionales","0.355619134783216"
+"2014","M","Enseñanza","0.736470961672856"
+"2014","N","Salud","0.717653050646776"
+"2014","O","Serv. comunitarios, sociales y personales","0.462218140374623"
+"2014","Z","No definido","0.364298471980202"
+"2015","A","Agro","0.126056258415076"
+"2015","B","Pesca","0.115222489940766"
+"2015","C","Petróleo y minería","0.0905011698357296"
+"2015","D","Industria manufacturera","0.188688457165362"
+"2015","E","Electricidad, gas y agua","0.169844980200755"
+"2015","F","Construcción","0.0544519985335171"
+"2015","G","Comercio","0.351468334458915"
+"2015","H","Hotelería y restaurantes","0.450623524176991"
+"2015","I","Transporte y comunicaciones","0.138640544787943"
+"2015","J","Finanzas","0.484020197416256"
+"2015","K","Serv. inmobiliarios y profesionales","0.355025283209981"
+"2015","M","Enseñanza","0.736539915409855"
+"2015","N","Salud","0.715951921234721"
+"2015","O","Serv. comunitarios, sociales y personales","0.460889020065735"
+"2015","Z","No definido","0.340768799054382"
+"2016","A","Agro","0.125308595764672"
+"2016","B","Pesca","0.106482835997445"
+"2016","C","Petróleo y minería","0.0914137741820514"
+"2016","D","Industria manufacturera","0.1902718483433"
+"2016","E","Electricidad, gas y agua","0.170539011178934"
+"2016","F","Construcción","0.059400721084906"
+"2016","G","Comercio","0.352036488597346"
+"2016","H","Hotelería y restaurantes","0.449139723811084"
+"2016","I","Transporte y comunicaciones","0.139790279461424"
+"2016","J","Finanzas","0.488623031738995"
+"2016","K","Serv. inmobiliarios y profesionales","0.359561987667131"
+"2016","M","Enseñanza","0.736139432398827"
+"2016","N","Salud","0.714530249751693"
+"2016","O","Serv. comunitarios, sociales y personales","0.462442049700988"
+"2016","Z","No definido","0.315140348629804"
+"2017","A","Agro","0.12435009357491"
+"2017","B","Pesca","0.102516938038823"
+"2017","C","Petróleo y minería","0.0932000880309948"
+"2017","D","Industria manufacturera","0.188373074122732"
+"2017","E","Electricidad, gas y agua","0.171495315633775"
+"2017","F","Construcción","0.0564702996781981"
+"2017","G","Comercio","0.350773428529788"
+"2017","H","Hotelería y restaurantes","0.449614132442559"
+"2017","I","Transporte y comunicaciones","0.140375158960164"
+"2017","J","Finanzas","0.49270392449205"
+"2017","K","Serv. inmobiliarios y profesionales","0.360767193844851"
+"2017","M","Enseñanza","0.735062210577347"
+"2017","N","Salud","0.711823810067988"
+"2017","O","Serv. comunitarios, sociales y personales","0.466661797558988"
+"2017","Z","No definido","0.317996341536222"
+"2018","A","Agro","0.126467521172289"
+"2018","B","Pesca","0.0995915943036619"
+"2018","C","Petróleo y minería","0.104233640013559"
+"2018","D","Industria manufacturera","0.187959307545227"
+"2018","E","Electricidad, gas y agua","0.174502695110211"
+"2018","F","Construcción","0.0561743130464982"
+"2018","G","Comercio","0.35042733245464"
+"2018","H","Hotelería y restaurantes","0.451809478093258"
+"2018","I","Transporte y comunicaciones","0.140205353273506"
+"2018","J","Finanzas","0.491900357189696"
+"2018","K","Serv. inmobiliarios y profesionales","0.364230903229301"
+"2018","M","Enseñanza","0.732710870250101"
+"2018","N","Salud","0.711234042178255"
+"2018","O","Serv. comunitarios, sociales y personales","0.466169074723501"
+"2018","Z","No definido","0.31031437450062"
+"2019","A","Agro","0.124562016493915"
+"2019","B","Pesca","0.0884496406085276"
+"2019","C","Petróleo y minería","0.111775489363524"
+"2019","D","Industria manufacturera","0.185078570110563"
+"2019","E","Electricidad, gas y agua","0.178309548831927"
+"2019","F","Construcción","0.0581410654188194"
+"2019","G","Comercio","0.350857360215326"
+"2019","H","Hotelería y restaurantes","0.454792470662361"
+"2019","I","Transporte y comunicaciones","0.140524554635049"
+"2019","J","Finanzas","0.490008136405609"
+"2019","K","Serv. inmobiliarios y profesionales","0.367321710544722"
+"2019","M","Enseñanza","0.730579562682268"
+"2019","N","Salud","0.710580057953264"
+"2019","O","Serv. comunitarios, sociales y personales","0.468523954532526"
+"2019","Z","No definido","0.33304572907679"
+"2020","A","Agro","0.118461323719844"
+"2020","B","Pesca","0.0919509875157808"
+"2020","C","Petróleo y minería","0.115702286909572"
+"2020","D","Industria manufacturera","0.183151145784275"
+"2020","E","Electricidad, gas y agua","0.179787328047985"
+"2020","F","Construcción","0.0697590527564746"
+"2020","G","Comercio","0.346287429872877"
+"2020","H","Hotelería y restaurantes","0.4536226094002"
+"2020","I","Transporte y comunicaciones","0.140676039546937"
+"2020","J","Finanzas","0.489523273937596"
+"2020","K","Serv. inmobiliarios y profesionales","0.361441020530205"
+"2020","M","Enseñanza","0.727131836024411"
+"2020","N","Salud","0.709876746371466"
+"2020","O","Serv. comunitarios, sociales y personales","0.462232558639724"
+"2020","Z","No definido","0.408068055840812"
+"2021","A","Agro","0.121448516286843"
+"2021","B","Pesca","0.099654260888078"
+"2021","C","Petróleo y minería","0.114972928713236"
+"2021","D","Industria manufacturera","0.182094466727441"
+"2021","E","Electricidad, gas y agua","0.181065889262299"
+"2021","F","Construcción","0.0651243420773623"
+"2021","G","Comercio","0.34217759821787"
+"2021","H","Hotelería y restaurantes","0.457147971015308"
+"2021","I","Transporte y comunicaciones","0.138797840720254"
+"2021","J","Finanzas","0.488334940899161"
+"2021","K","Serv. inmobiliarios y profesionales","0.359744468970525"
+"2021","M","Enseñanza","0.728019037754097"
+"2021","N","Salud","0.70952782424731"
+"2021","O","Serv. comunitarios, sociales y personales","0.463775517058996"
+"2021","Z","No definido","0.336975279011105"
+"2022","A","Agro","0.123236525637575"
+"2022","B","Pesca","0.0985148938677644"
+"2022","C","Petróleo y minería","0.122276791865558"
+"2022","D","Industria manufacturera","0.187850382864058"
+"2022","E","Electricidad, gas y agua","0.182537216274111"
+"2022","F","Construcción","0.0644486144267505"
+"2022","G","Comercio","0.349818640439074"
+"2022","H","Hotelería y restaurantes","0.476498317771279"
+"2022","I","Transporte y comunicaciones","0.143059555170339"
+"2022","J","Finanzas","0.487683769978622"
+"2022","K","Serv. inmobiliarios y profesionales","0.369004604231548"
+"2022","M","Enseñanza","0.727806715559879"
+"2022","N","Salud","0.709517803394037"
+"2022","O","Serv. comunitarios, sociales y personales","0.463608313270937"
+"2022","Z","No definido","0.276105062582044"
+"2023","A","Agro","0.124725005184268"
+"2023","B","Pesca","0.0992031448388166"
+"2023","C","Petróleo y minería","0.131369008745982"
+"2023","D","Industria manufacturera","0.194408273625195"
+"2023","E","Electricidad, gas y agua","0.185733685236007"
+"2023","F","Construcción","0.0677320269782124"
+"2023","G","Comercio","0.359589223287745"
+"2023","H","Hotelería y restaurantes","0.486796398938592"
+"2023","I","Transporte y comunicaciones","0.149840206542791"
+"2023","J","Finanzas","0.476130736916798"
+"2023","K","Serv. inmobiliarios y profesionales","0.375889100342682"
+"2023","M","Enseñanza","0.727624442017166"
+"2023","N","Salud","0.710521702837638"
+"2023","O","Serv. comunitarios, sociales y personales","0.460237260436641"
+"2023","Z","No definido","0.407315046422821"
+"2024","A","Agro","0.129639251589747"
+"2024","B","Pesca","0.112263620520383"
+"2024","C","Petróleo y minería","0.141411547240698"
+"2024","D","Industria manufacturera","0.199039021987715"
+"2024","E","Electricidad, gas y agua","0.18775709851731"
+"2024","F","Construcción","0.0848579586506673"
+"2024","G","Comercio","0.362634291241228"
+"2024","H","Hotelería y restaurantes","0.488427426517411"
+"2024","I","Transporte y comunicaciones","0.154329824097811"
+"2024","J","Finanzas","0.479481458988455"
+"2024","K","Serv. inmobiliarios y profesionales","0.381299444052209"
+"2024","M","Enseñanza","0.725606431806946"
+"2024","N","Salud","0.711007508949501"
+"2024","O","Serv. comunitarios, sociales y personales","0.458124161111013"
+"2024","Z","No definido","0.379762908554017"
