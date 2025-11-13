@@ -1,25 +1,25 @@
-geocodigoFundar,geonombreFundar,anio,valor_en_mtco2e_per_cap,vab_precios_basicos_2004_per_cap
-AR-B,Buenos Aires,2018,5.45,11033.99
-AR-C,CABA,2018,5.11,40450.69
-AR-K,Catamarca,2018,2.04,8858.37
-AR-H,Chaco,2018,17.0,8199.07
-AR-U,Chubut,2018,15.9,20180.38
-AR-X,Córdoba,2018,7.53,13306.03
-AR-W,Corrientes,2018,-1.45,7145.71
-AR-E,Entre Ríos,2018,7.36,11609.51
-AR-P,Formosa,2018,17.43,6182.69
-AR-Y,Jujuy,2018,2.99,7508.09
-AR-L,La Pampa,2018,45.2,16771.76
-AR-F,La Rioja,2018,3.31,8814.24
-AR-M,Mendoza,2018,4.59,10750.91
-AR-N,Misiones,2018,-1.83,6024.41
-AR-Q,Neuquén,2018,23.5,22354.66
-AR-R,Río Negro,2018,7.67,11922.03
-AR-A,Salta,2018,9.93,7716.99
-AR-J,San Juan,2018,2.6,9914.3
-AR-D,San Luis,2018,18.4,12036.91
-AR-Z,Santa Cruz,2018,19.93,26452.89
-AR-S,Santa Fe,2018,7.74,12967.28
-AR-G,Santiago del Estero,2018,17.26,10471.97
-AR-V,Tierra del Fuego,2018,19.65,34043.89
-AR-T,Tucumán,2018,4.03,7222.43
+"geonombreFundar","vab_precios_basicos_2004_per_cap","anio","valor_en_mtco2e_per_cap","geocodigoFundar"
+"Buenos Aires","10992.38","2022","5.67","AR-B"
+"CABA","38668.76","2022","4.91","AR-C"
+"Catamarca","8957.72","2022","4.73","AR-K"
+"Chaco","8023.28","2022","17.16","AR-H"
+"Chubut","18094.6","2022","15.53","AR-U"
+"Córdoba","13393.03","2022","6.8","AR-X"
+"Corrientes","6726.5","2022","2.26","AR-W"
+"Entre Ríos","11892.11","2022","9.12","AR-E"
+"Formosa","6253.86","2022","16.84","AR-P"
+"Jujuy","8287.46","2022","2.57","AR-Y"
+"La Pampa","17582.18","2022","24.97","AR-L"
+"La Rioja","8632.76","2022","7.23","AR-F"
+"Mendoza","9680.16","2022","4.54","AR-M"
+"Misiones","6252.99","2022","0.57","AR-N"
+"Neuquén","30843.64","2022","35.82","AR-Q"
+"Río Negro","11161.17","2022","12.82","AR-R"
+"Salta","7732.88","2022","8.85","AR-A"
+"San Juan","9844.83","2022","2.76","AR-J"
+"San Luis","11938","2022","17.96","AR-D"
+"Santa Cruz","22325.11","2022","17.66","AR-Z"
+"Santa Fe","13161.91","2022","8.5","AR-S"
+"Santiago del Estero","10948.16","2022","20.65","AR-G"
+"Tierra del Fuego","32134.69","2022","21.51","AR-V"
+"Tucumán","6837.37","2022","3.63","AR-T"
