@@ -1,9 +1,9 @@
-geocodigoFundar,geonombreFundar,sector,valor_en_porcent
-WLD,Mundo,Energía,73.2
-WLD,Mundo,Procesos industriales y uso de productos,5.2
-WLD,Mundo,Residuos,3.2
-WLD,Mundo,AGSyOUT,18.4
-ARG,Argentina,AGSyOUT,36.6
-ARG,Argentina,Energía,53.8
-ARG,Argentina,Procesos industriales y uso de productos,5.3
-ARG,Argentina,Residuos,4.4
+"anio","geonombreFundar","geocodigoFundar","sector","valor_en_porcent"
+"2022","Argentina","ARG","AGSyOUT","38.3107896911465"
+"2022","Argentina","ARG","Procesos industriales y uso de productos","5.89734379275449"
+"2022","Argentina","ARG","Energía","49.9766509328758"
+"2022","Argentina","ARG","Residuos","5.81521558322329"
+"2022","Mundo","WLD","AGSyOUT","11.8867596288992"
+"2022","Mundo","WLD","Energía","74.5324017647958"
+"2022","Mundo","WLD","Procesos industriales y uso de productos","9.64367745641367"
+"2022","Mundo","WLD","Residuos","3.9371611498913"
