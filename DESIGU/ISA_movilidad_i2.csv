@@ -1,110 +1,110 @@
-geocodigoFundar,geonombreFundar,orden,pais,indicador
-BTN,Bhután,109,Bhutan,0.21
-BEN,Benin,108,Benin,0.2552
-MLI,Malí,107,Mali,0.2894
-GTM,Guatemala,106,Guatemala,0.2924
-ROU,Rumania,105,Romania,0.3112
-ETH,Etiopía,104,Ethiopia,0.3223
-MDG,Madagascar,103,Madagascar,0.3477
-NPL,Nepal,102,Nepal,0.388
-HUN,Hungría,101,Hungary,0.3983
-TGO,Togo,100,Togo,0.4222
-TLS,Timor-Leste,99,Timor-Leste,0.4238
-TUR,Turquía,98,Turkey,0.4243
-IND,India,97,India,0.4244
-BGR,Bulgaria,96,Bulgaria,0.4254
-NGA,Nigeria,95,Nigeria,0.4434
-HND,Honduras,94,Honduras,0.449
-MNE,Montenegro,93,Montenegro,0.4601
-BDI,Burundi,92,Burundi,0.4619
-GHA,Ghana,91,Ghana,0.4744
-MKD,Macedonia del Norte,90,North Macedonia,0.4762
-NER,Níger,89,Niger,0.4791
-GMB,Gambia,88,Gambia,0.4908
-ECU,Ecuador,87,Ecuador,0.5067
-MAR,Marruecos,86,Morocco,0.5073
-PAN,Panamá,85,Panama,0.5077
-IRQ,Iraq,84,Iraq,0.5097
-PRT,Portugal,83,Portugal,0.5173
-CHN,China,82,China,0.5175
-ARM,Armenia,81,Armenia,0.5177
-AUT,Austria,80,Austria,0.5178
-COD,Rep. Dem. Congo,79,Congo Dem. Rep.,0.5189
-VNM,Vietnam,78,Vietnam,0.5257
-DJI,Djibouti,77,Djibouti,0.5274
-MDA,Moldavia,76,Moldova,0.5284
-COL,Colombia,75,Colombia,0.5321
-HRV,Croacia,74,Croatia,0.5497
-GEO,Georgia,73,Georgia,0.5505
-SLV,El Salvador,72,El Salvador,0.5515
-SRB,Serbia,71,Serbia,0.5532
-BIH,Bosnia y Herzegovina,70,Bosnia and Herzegovina,0.5537
-URY,Uruguay,69,Uruguay,0.5592
-UGA,Uganda,68,Uganda,0.5613
-BOL,Bolivia,67,Bolivia,0.5616
-TZA,Tanzanía,66,Tanzania,0.5678
-AZE,Azerbaiyán,65,Azerbaijan,0.5882
-GAB,Gabón,64,Gabon,0.5897
-RUS,Rusia,63,Russian Federation,0.5927
-LKA,Sri Lanka,62,Sri Lanka,0.5931
-PRY,Paraguay,61,Paraguay,0.5938
-NIC,Nicaragua,60,Nicaragua,0.5943
-IDN,Indonesia,59,Indonesia,0.5946
-MEX,México,58,Mexico,0.5961
-TUN,Túnez,57,Tunisia,0.597
-ALB,Albania,56,Albania,0.6017
-PER,Perú,55,Peru,0.6051
-EGY,Egipto,54,Egypt,0.6065
-CZE,Chequia,53,Czech Republic,0.6072
-LAO,Laos,52,Lao PDR,0.6073
-COM,Comoras,51,Comoros,0.6078
-SVK,Eslovaquia,50,Slovak Republic,0.609
-XKX,Kosovo,49,Kosovo,0.609
-LVA,Letonia,48,Latvia,0.6127
-EST,Estonia,47,Estonia,0.6145
-UKR,Ucrania,46,Ukraine,0.6208
-CHL,Chile,45,Chile,0.6246
-MWI,Malawi,44,Malawi,0.6289
-LBR,Liberia,43,Liberia,0.6309
-ARG,Argentina,42,Argentina,0.6354
-SVN,Eslovenia,41,Slovenia,0.6356
-KGZ,Kirguistán,40,Kyrgyz Republic,0.6397
-BRA,Brasil,39,Brazil,0.6409
-CRI,Costa Rica,38,Costa Rica,0.6436
-SWE,Suecia,37,Sweden,0.6445
-IRL,Irlanda,36,Ireland,0.6452
-POL,Polonia,35,Poland,0.653
-CHE,Suiza,34,Switzerland,0.6577
-TWN,Taiwán,33,Taiwan,0.6594
-KEN,Kenia,32,Kenya,0.6597
-KAZ,Kazajstán,31,Kazakhstan,0.6667
-ITA,Italia,30,Italy,0.6689
-USA,Estados Unidos,29,United States,0.6715
-NOR,Noruega,28,Norway,0.6738
-VEN,Venezuela,27,Venezuela,0.6747
-BLR,Belarús,26,Belarus,0.6828
-ESP,España,25,Spain,0.6834
-GRC,Grecia,24,Greece,0.684
-BEL,Bélgica,23,Belgium,0.6884
-LTU,Lituania,22,Lithuania,0.7028
-MYS,Malasia,21,Malaysia,0.7072
-DOM,Rep. Dominicana,20,Dominican Republic,0.7126
-JPN,Japón,19,Japan,0.7136
-DEU,Alemania,18,Germany,0.7274
-FRA,Francia,17,France,0.7347
-CAN,Canadá,16,Canada,0.7405
-NLD,Países Bajos,15,Netherlands,0.7543
-JOR,Jordania,14,Jordan,0.7545
-MNG,Mongolia,13,Mongolia,0.7546
-FIN,Finlandia,12,Finland,0.7554
-ISL,Islandia,11,Iceland,0.7605
-TJK,Tayikistán,10,Tajikistan,0.7684
-AUS,Australia,9,Australia,0.7686
-UZB,Uzbekistán,8,Uzbekistan,0.7833
-ZAF,Sudáfrica,7,South Africa,0.7951
-CYP,Chipre,6,Cyprus,0.7961
-DNK,Dinamarca,5,Denmark,0.7991
-ISR,Israel,4,Israel,0.8002
-NZL,Nueva Zelanda,3,New Zealand,0.805
-KOR,Corea del Sur,2,Korea,0.8143
-GBR,Reino Unido,1,United Kingdom,0.8209
+"geocodigoFundar","geonombreFundar","orden","indicador"
+"BTN","Bhután","109","0.21000"
+"BEN","Benin","108","0.25520"
+"MLI","Malí","107","0.28940"
+"GTM","Guatemala","106","0.29240"
+"ROU","Rumania","105","0.31120"
+"ETH","Etiopía","104","0.32230"
+"MDG","Madagascar","103","0.34770"
+"NPL","Nepal","102","0.38800"
+"HUN","Hungría","101","0.39830"
+"TGO","Togo","100","0.42220"
+"TLS","Timor-Leste","99","0.42380"
+"TUR","Turquía","98","0.42430"
+"IND","India","97","0.42440"
+"BGR","Bulgaria","96","0.42540"
+"NGA","Nigeria","95","0.44340"
+"HND","Honduras","94","0.44900"
+"MNE","Montenegro","93","0.46010"
+"BDI","Burundi","92","0.46190"
+"GHA","Ghana","91","0.47440"
+"MKD","Macedonia del Norte","90","0.47620"
+"NER","Níger","89","0.47910"
+"GMB","Gambia","88","0.49080"
+"ECU","Ecuador","87","0.50670"
+"MAR","Marruecos","86","0.50730"
+"PAN","Panamá","85","0.50770"
+"IRQ","Iraq","84","0.50970"
+"PRT","Portugal","83","0.51730"
+"CHN","China","82","0.51750"
+"ARM","Armenia","81","0.51770"
+"AUT","Austria","80","0.51780"
+"COD","Rep. Dem. Congo","79","0.51890"
+"VNM","Vietnam","78","0.52570"
+"DJI","Djibouti","77","0.52740"
+"MDA","Moldavia","76","0.52840"
+"COL","Colombia","75","0.53210"
+"HRV","Croacia","74","0.54970"
+"GEO","Georgia","73","0.55050"
+"SLV","El Salvador","72","0.55150"
+"SRB","Serbia","71","0.55320"
+"BIH","Bosnia y Herzegovina","70","0.55370"
+"URY","Uruguay","69","0.55920"
+"UGA","Uganda","68","0.56130"
+"BOL","Bolivia","67","0.56160"
+"TZA","Tanzanía","66","0.56780"
+"AZE","Azerbaiyán","65","0.58820"
+"GAB","Gabón","64","0.58970"
+"RUS","Rusia","63","0.59270"
+"LKA","Sri Lanka","62","0.59310"
+"PRY","Paraguay","61","0.59380"
+"NIC","Nicaragua","60","0.59430"
+"IDN","Indonesia","59","0.59460"
+"MEX","México","58","0.59610"
+"TUN","Túnez","57","0.59700"
+"ALB","Albania","56","0.60170"
+"PER","Perú","55","0.60510"
+"EGY","Egipto","54","0.60650"
+"CZE","Chequia","53","0.60720"
+"LAO","Laos","52","0.60730"
+"COM","Comoras","51","0.60780"
+"SVK","Eslovaquia","50","0.60900"
+"XKX","Kosovo","49","0.60900"
+"LVA","Letonia","48","0.61270"
+"EST","Estonia","47","0.61450"
+"UKR","Ucrania","46","0.62080"
+"CHL","Chile","45","0.62460"
+"MWI","Malawi","44","0.62890"
+"LBR","Liberia","43","0.63090"
+"ARG","Argentina","42","0.63540"
+"SVN","Eslovenia","41","0.63560"
+"KGZ","Kirguistán","40","0.63970"
+"BRA","Brasil","39","0.64090"
+"CRI","Costa Rica","38","0.64360"
+"SWE","Suecia","37","0.64450"
+"IRL","Irlanda","36","0.64520"
+"POL","Polonia","35","0.65300"
+"CHE","Suiza","34","0.65770"
+"TWN","Taiwán","33","0.65940"
+"KEN","Kenia","32","0.65970"
+"KAZ","Kazajstán","31","0.66670"
+"ITA","Italia","30","0.66890"
+"USA","Estados Unidos","29","0.67150"
+"NOR","Noruega","28","0.67380"
+"VEN","Venezuela","27","0.67470"
+"BLR","Belarús","26","0.68280"
+"ESP","España","25","0.68340"
+"GRC","Grecia","24","0.68400"
+"BEL","Bélgica","23","0.68840"
+"LTU","Lituania","22","0.70280"
+"MYS","Malasia","21","0.70720"
+"DOM","Rep. Dominicana","20","0.71260"
+"JPN","Japón","19","0.71360"
+"DEU","Alemania","18","0.72740"
+"FRA","Francia","17","0.73470"
+"CAN","Canadá","16","0.74050"
+"NLD","Países Bajos","15","0.75430"
+"JOR","Jordania","14","0.75450"
+"MNG","Mongolia","13","0.75460"
+"FIN","Finlandia","12","0.75540"
+"ISL","Islandia","11","0.76050"
+"TJK","Tayikistán","10","0.76840"
+"AUS","Australia","9","0.76860"
+"UZB","Uzbekistán","8","0.78330"
+"ZAF","Sudáfrica","7","0.79510"
+"CYP","Chipre","6","0.79610"
+"DNK","Dinamarca","5","0.79910"
+"ISR","Israel","4","0.80020"
+"NZL","Nueva Zelanda","3","0.80500"
+"KOR","Corea del Sur","2","0.81430"
+"GBR","Reino Unido","1","0.82090"

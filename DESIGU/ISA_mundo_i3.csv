@@ -1,17 +1,17 @@
-variable,ano,valor
-americalatina,1980,48.9168035182203
-americalatina,1986,50.2345156921496
-americalatina,1992,50.6413466592774
-americalatina,1998,52.5603310701761
-americalatina,2002,52.7137319153316
-americalatina,2008,48.7061668691047
-americalatina,2014,46.2429525669468
-americalatina,2023,44.3666704075341
-argentina,1980,39.8290419698886
-argentina,1986,42.733202245168
-argentina,1992,43.1883240402711
-argentina,1998,48.1766995087899
-argentina,2002,51.1806484562262
-argentina,2008,44.774313
-argentina,2014,41.555289
-argentina,2023,42.4116072607432
+"region","ano","valor"
+"América Latina","1980","48.91680"
+"Argentina ","1980","39.82904"
+"América Latina","1986","50.23452"
+"Argentina ","1986","42.73320"
+"América Latina","1992","50.64135"
+"Argentina ","1992","43.18832"
+"América Latina","1998","52.56033"
+"Argentina ","1998","48.17670"
+"América Latina","2002","52.71373"
+"Argentina ","2002","51.18065"
+"América Latina","2008","48.70617"
+"Argentina ","2008","44.77431"
+"América Latina","2014","46.24295"
+"Argentina ","2014","41.55529"
+"América Latina","2024","44.37892"
+"Argentina ","2024","42.07500"

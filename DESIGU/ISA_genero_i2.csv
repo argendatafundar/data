@@ -1,106 +1,111 @@
-ano,variable,valor
-2003,mujeres,67.2
-2003,hombres,94.6
-2003,mujeresbaja,57.6
-2003,mujeresmedia,63.6
-2003,mujeresalta,81.4
-2004,mujeres,66.8
-2004,hombres,94.7
-2004,mujeresbaja,56.5
-2004,mujeresmedia,64.2
-2004,mujeresalta,80.6
-2005,mujeres,65.8
-2005,hombres,94.6
-2005,mujeresbaja,55.3
-2005,mujeresmedia,64.1
-2005,mujeresalta,81.2
-2006,mujeres,67.3
-2006,hombres,94.0
-2006,mujeresbaja,56.3
-2006,mujeresmedia,64.8
-2006,mujeresalta,82.9
-2007,mujeres,66.0
-2007,hombres,94.3
-2007,mujeresbaja,53.1
-2007,mujeresmedia,63.6
-2007,mujeresalta,82.2
-2008,mujeres,65.4
-2008,hombres,94.3
-2008,mujeresbaja,52.6
-2008,mujeresmedia,62.4
-2008,mujeresalta,81.9
-2009,mujeres,66.4
-2009,hombres,93.7
-2009,mujeresbaja,53.1
-2009,mujeresmedia,63.0
-2009,mujeresalta,83.0
-2010,mujeres,66.5
-2010,hombres,94.0
-2010,mujeresbaja,52.1
-2010,mujeresmedia,63.0
-2010,mujeresalta,83.2
-2011,mujeres,66.7
-2011,hombres,94.2
-2011,mujeresbaja,53.7
-2011,mujeresmedia,62.4
-2011,mujeresalta,82.9
-2012,mujeres,67.0
-2012,hombres,94.0
-2012,mujeresbaja,53.0
-2012,mujeresmedia,62.6
-2012,mujeresalta,83.0
-2013,mujeres,67.0
-2013,hombres,94.2
-2013,mujeresbaja,51.2
-2013,mujeresmedia,63.8
-2013,mujeresalta,82.3
-2014,mujeres,65.4
-2014,hombres,93.9
-2014,mujeresbaja,49.9
-2014,mujeresmedia,60.8
-2014,mujeresalta,82.7
-2015,mujeres,65.6
-2015,hombres,93.4
-2015,mujeresbaja,49.8
-2015,mujeresmedia,61.4
-2015,mujeresalta,82.0
-2016,mujeres,68.6
-2016,hombres,93.0
-2016,mujeresbaja,52.6
-2016,mujeresmedia,65.4
-2016,mujeresalta,83.3
-2017,mujeres,68.1
-2017,hombres,92.6
-2017,mujeresbaja,52.0
-2017,mujeresmedia,64.0
-2017,mujeresalta,82.7
-2018,mujeres,70.3
-2018,hombres,92.8
-2018,mujeresbaja,53.7
-2018,mujeresmedia,66.9
-2018,mujeresalta,84.4
-2019,mujeres,71.5
-2019,hombres,92.7
-2019,mujeresbaja,56.1
-2019,mujeresmedia,68.0
-2019,mujeresalta,84.5
-2020,mujeres,66.0
-2020,hombres,86.6
-2020,mujeresbaja,49.1
-2020,mujeresmedia,60.9
-2020,mujeresalta,81.9
-2021,mujeres,70.2
-2021,hombres,92.6
-2021,mujeresbaja,52.5
-2021,mujeresmedia,65.1
-2021,mujeresalta,84.2
-2022,mujeres,73.0
-2022,hombres,92.1
-2022,mujeresbaja,57.5
-2022,mujeresmedia,68.8
-2022,mujeresalta,85.3
-2023,mujeres,74.2
-2023,hombres,93.6
-2023,mujeresbaja,57.6
-2023,mujeresmedia,70.8
-2023,mujeresalta,85.8
+"ano","variable","valor"
+"2003","Hombres","94.64898"
+"2004","Hombres","94.53281"
+"2005","Hombres","94.44194"
+"2006","Hombres","94.20591"
+"2007","Hombres","94.28619"
+"2008","Hombres","94.16914"
+"2009","Hombres","93.73004"
+"2010","Hombres","94.14309"
+"2011","Hombres","94.51164"
+"2012","Hombres","94.33845"
+"2013","Hombres","93.66187"
+"2014","Hombres","93.23566"
+"2015","Hombres","93.44774"
+"2016","Hombres","92.91898"
+"2017","Hombres","93.17779"
+"2018","Hombres","92.85894"
+"2019","Hombres","92.70438"
+"2020","Hombres","88.69391"
+"2021","Hombres","92.84694"
+"2022","Hombres","93.38302"
+"2023","Hombres","92.78203"
+"2024","Hombres","92.93930"
+"2003","Mujeres","67.20365"
+"2004","Mujeres","67.07162"
+"2005","Mujeres","66.89742"
+"2006","Mujeres","66.35555"
+"2007","Mujeres","65.99762"
+"2008","Mujeres","66.22314"
+"2009","Mujeres","67.24601"
+"2010","Mujeres","66.08819"
+"2011","Mujeres","67.19552"
+"2012","Mujeres","67.15324"
+"2013","Mujeres","67.03832"
+"2014","Mujeres","66.10607"
+"2015","Mujeres","65.57338"
+"2016","Mujeres","67.62621"
+"2017","Mujeres","68.85642"
+"2018","Mujeres","70.67134"
+"2019","Mujeres","71.14977"
+"2020","Mujeres","66.07068"
+"2021","Mujeres","72.31400"
+"2022","Mujeres","73.41267"
+"2023","Mujeres","74.93616"
+"2024","Mujeres","74.90211"
+"2003","Mujeres de baja calificación","57.62604"
+"2004","Mujeres de baja calificación","56.59073"
+"2005","Mujeres de baja calificación","56.16438"
+"2006","Mujeres de baja calificación","54.58131"
+"2007","Mujeres de baja calificación","53.07890"
+"2008","Mujeres de baja calificación","52.80894"
+"2009","Mujeres de baja calificación","52.77371"
+"2010","Mujeres de baja calificación","51.23005"
+"2011","Mujeres de baja calificación","53.47707"
+"2012","Mujeres de baja calificación","53.05164"
+"2013","Mujeres de baja calificación","51.17789"
+"2014","Mujeres de baja calificación","50.46188"
+"2015","Mujeres de baja calificación","49.81911"
+"2016","Mujeres de baja calificación","52.82978"
+"2017","Mujeres de baja calificación","52.16447"
+"2018","Mujeres de baja calificación","53.64673"
+"2019","Mujeres de baja calificación","54.98310"
+"2020","Mujeres de baja calificación","51.39326"
+"2021","Mujeres de baja calificación","54.48493"
+"2022","Mujeres de baja calificación","57.57557"
+"2023","Mujeres de baja calificación","58.77470"
+"2024","Mujeres de baja calificación","57.74124"
+"2003","Mujeres de media calificación","63.56779"
+"2004","Mujeres de media calificación","65.26225"
+"2005","Mujeres de media calificación","64.31821"
+"2006","Mujeres de media calificación","62.91265"
+"2007","Mujeres de media calificación","63.59514"
+"2008","Mujeres de media calificación","63.11303"
+"2009","Mujeres de media calificación","64.75177"
+"2010","Mujeres de media calificación","62.57701"
+"2011","Mujeres de media calificación","63.32996"
+"2012","Mujeres de media calificación","63.46985"
+"2013","Mujeres de media calificación","64.45383"
+"2014","Mujeres de media calificación","61.61943"
+"2015","Mujeres de media calificación","61.37160"
+"2016","Mujeres de media calificación","63.77040"
+"2017","Mujeres de media calificación","66.35538"
+"2018","Mujeres de media calificación","67.77393"
+"2019","Mujeres de media calificación","66.66116"
+"2020","Mujeres de media calificación","60.09339"
+"2021","Mujeres de media calificación","68.57423"
+"2022","Mujeres de media calificación","69.27017"
+"2023","Mujeres de media calificación","71.06421"
+"2024","Mujeres de media calificación","70.32436"
+"2003","Mujeres de alta calificación","81.39704"
+"2004","Mujeres de alta calificación","82.60309"
+"2005","Mujeres de alta calificación","82.76130"
+"2006","Mujeres de alta calificación","82.90308"
+"2007","Mujeres de alta calificación","82.22216"
+"2008","Mujeres de alta calificación","83.16684"
+"2009","Mujeres de alta calificación","83.73023"
+"2010","Mujeres de alta calificación","82.66800"
+"2011","Mujeres de alta calificación","82.46700"
+"2012","Mujeres de alta calificación","83.01728"
+"2013","Mujeres de alta calificación","82.60436"
+"2014","Mujeres de alta calificación","83.41891"
+"2015","Mujeres de alta calificación","81.98177"
+"2016","Mujeres de alta calificación","82.56274"
+"2017","Mujeres de alta calificación","82.80927"
+"2018","Mujeres de alta calificación","83.93587"
+"2019","Mujeres de alta calificación","85.24244"
+"2020","Mujeres de alta calificación","80.70872"
+"2021","Mujeres de alta calificación","84.76137"
+"2022","Mujeres de alta calificación","85.70611"
+"2023","Mujeres de alta calificación","87.10845"
+"2024","Mujeres de alta calificación","86.79252"
