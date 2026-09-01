@@ -1,106 +1,106 @@
-geocodigoFundar,geonombreFundar,variable,valor
-PAN,Panamá,Empleadores,3938.8
-PAN,Panamá,Asalariadosgrandes,1903.3
-PAN,Panamá,publico,2967.6
-PAN,Panamá,profesionales,1611.7
-PAN,Panamá,Asalariadosmicro,741.7
-PAN,Panamá,Cuentapropia,640.1
-PAN,Panamá,Media,1597.0
-CHL,Chile,Empleadores,1939.9
-CHL,Chile,Asalariadosgrandes,1488.9
-CHL,Chile,publico,1681.2
-CHL,Chile,profesionales,1429.3
-CHL,Chile,Asalariadosmicro,798.0
-CHL,Chile,Cuentapropia,637.9
-CHL,Chile,Media,1270.3
-CRI,Costa Rica,Empleadores,2334.3
-CRI,Costa Rica,Asalariadosgrandes,1247.6
-CRI,Costa Rica,publico,2139.6
-CRI,Costa Rica,profesionales,1789.8
-CRI,Costa Rica,Asalariadosmicro,640.9
-CRI,Costa Rica,Cuentapropia,693.8
-CRI,Costa Rica,Media,1204.6
-URY,Uruguay,Empleadores,2370.9
-URY,Uruguay,Asalariadosgrandes,1222.9
-URY,Uruguay,publico,1543.1
-URY,Uruguay,profesionales,2227.3
-URY,Uruguay,Asalariadosmicro,615.0
-URY,Uruguay,Cuentapropia,621.2
-URY,Uruguay,Media,1140.6
-BOL,Bolivia,Empleadores,1919.7
-BOL,Bolivia,Asalariadosgrandes,1426.0
-BOL,Bolivia,publico,2001.4
-BOL,Bolivia,profesionales,1242.1
-BOL,Bolivia,Asalariadosmicro,915.5
-BOL,Bolivia,Cuentapropia,903.1
-BOL,Bolivia,Media,1130.4
-ARG,Argentina,Empleadores,1344.4
-ARG,Argentina,Asalariadosgrandes,1200.5
-ARG,Argentina,publico,1308.0
-ARG,Argentina,profesionales,1263.1
-ARG,Argentina,Asalariadosmicro,594.3
-ARG,Argentina,Cuentapropia,601.9
-ARG,Argentina,Media,978.7
-BRA,Brasil,Empleadores,2269.6
-BRA,Brasil,Asalariadosgrandes,900.2
-BRA,Brasil,publico,1431.1
-BRA,Brasil,profesionales,1502.0
-BRA,Brasil,Asalariadosmicro,460.5
-BRA,Brasil,Cuentapropia,616.3
-BRA,Brasil,Media,907.4
-PRY,Paraguay,Empleadores,2207.7
-PRY,Paraguay,Asalariadosgrandes,1017.9
-PRY,Paraguay,publico,1564.1
-PRY,Paraguay,profesionales,1108.3
-PRY,Paraguay,Asalariadosmicro,623.8
-PRY,Paraguay,Cuentapropia,525.7
-PRY,Paraguay,Media,879.5
-COL,Colombia,Empleadores,1393.2
-COL,Colombia,Asalariadosgrandes,1081.7
-COL,Colombia,publico,2188.9
-COL,Colombia,profesionales,1286.9
-COL,Colombia,Asalariadosmicro,551.5
-COL,Colombia,Cuentapropia,381.9
-COL,Colombia,Media,775.1
-ECU,Ecuador,Empleadores,2160.2
-ECU,Ecuador,Asalariadosgrandes,949.2
-ECU,Ecuador,publico,1464.7
-ECU,Ecuador,profesionales,938.7
-ECU,Ecuador,Asalariadosmicro,564.9
-ECU,Ecuador,Cuentapropia,489.2
-ECU,Ecuador,Media,757.2
-MEX,México,Empleadores,1104.7
-MEX,México,Asalariadosgrandes,948.5
-MEX,México,publico,1239.1
-MEX,México,profesionales,867.6
-MEX,México,Asalariadosmicro,497.2
-MEX,México,Cuentapropia,370.6
-MEX,México,Media,750.3
-DOM,Rep. Dominicana,Empleadores,1468.3
-DOM,Rep. Dominicana,Asalariadosgrandes,788.3
-DOM,Rep. Dominicana,publico,1015.8
-DOM,Rep. Dominicana,profesionales,947.0
-DOM,Rep. Dominicana,Asalariadosmicro,429.8
-DOM,Rep. Dominicana,Cuentapropia,622.9
-DOM,Rep. Dominicana,Media,729.6
-SLV,El Salvador,Empleadores,1155.9
-SLV,El Salvador,Asalariadosgrandes,785.8
-SLV,El Salvador,publico,1292.8
-SLV,El Salvador,profesionales,902.9
-SLV,El Salvador,Asalariadosmicro,526.5
-SLV,El Salvador,Cuentapropia,456.4
-SLV,El Salvador,Media,687.2
-HND,Honduras,Empleadores,590.0
-HND,Honduras,Asalariadosgrandes,912.1
-HND,Honduras,publico,1313.2
-HND,Honduras,profesionales,820.4
-HND,Honduras,Asalariadosmicro,332.0
-HND,Honduras,Cuentapropia,296.5
-HND,Honduras,Media,596.0
-PER,Perú,Empleadores,1217.9
-PER,Perú,Asalariadosgrandes,732.7
-PER,Perú,publico,979.6
-PER,Perú,profesionales,608.8
-PER,Perú,Asalariadosmicro,476.6
-PER,Perú,Cuentapropia,376.0
-PER,Perú,Media,574.7
+"geocodigoFundar","geonombreFundar","variable","valor"
+"ARG","Argentina","Asalariadosgrandes","786.47716"
+"ARG","Argentina","Asalariadosmicro","386.31180"
+"ARG","Argentina","Cuentapropia","370.80033"
+"ARG","Argentina","Empleadores","973.44091"
+"ARG","Argentina","Media","630.25065"
+"ARG","Argentina","profesionales","795.59767"
+"ARG","Argentina","publico","794.87209"
+"BOL","Bolivia","Asalariadosgrandes","1382.72159"
+"BOL","Bolivia","Asalariadosmicro","906.37640"
+"BOL","Bolivia","Cuentapropia","825.20658"
+"BOL","Bolivia","Empleadores","1990.58676"
+"BOL","Bolivia","Media","1103.05016"
+"BOL","Bolivia","profesionales","1205.35935"
+"BOL","Bolivia","publico","1946.43422"
+"BRA","Brasil","Asalariadosgrandes","912.62303"
+"BRA","Brasil","Asalariadosmicro","468.83252"
+"BRA","Brasil","Cuentapropia","623.33345"
+"BRA","Brasil","Empleadores","2445.85553"
+"BRA","Brasil","Media","939.54954"
+"BRA","Brasil","profesionales","1655.42387"
+"BRA","Brasil","publico","1489.36593"
+"CHL","Chile","Asalariadosgrandes","1488.93508"
+"CHL","Chile","Asalariadosmicro","798.02033"
+"CHL","Chile","Cuentapropia","637.89782"
+"CHL","Chile","Empleadores","1939.85673"
+"CHL","Chile","Media","1270.30263"
+"CHL","Chile","profesionales","1429.29562"
+"CHL","Chile","publico","1681.23026"
+"COL","Colombia","Asalariadosgrandes","1248.27839"
+"COL","Colombia","Asalariadosmicro","560.76564"
+"COL","Colombia","Cuentapropia","372.72465"
+"COL","Colombia","Empleadores","1879.29137"
+"COL","Colombia","Media","897.38831"
+"COL","Colombia","profesionales","1182.48112"
+"COL","Colombia","publico","2366.96288"
+"CRI","Costa Rica","Asalariadosgrandes","1388.85735"
+"CRI","Costa Rica","Asalariadosmicro","719.42258"
+"CRI","Costa Rica","Cuentapropia","797.15249"
+"CRI","Costa Rica","Empleadores","2952.60678"
+"CRI","Costa Rica","Media","1337.40485"
+"CRI","Costa Rica","profesionales","1964.93436"
+"CRI","Costa Rica","publico","2293.00651"
+"ECU","Ecuador","Asalariadosgrandes","895.57715"
+"ECU","Ecuador","Asalariadosmicro","532.80680"
+"ECU","Ecuador","Cuentapropia","467.78563"
+"ECU","Ecuador","Empleadores","1826.32438"
+"ECU","Ecuador","Media","699.19968"
+"ECU","Ecuador","profesionales","903.82306"
+"ECU","Ecuador","publico","1414.25656"
+"SLV","El Salvador","Asalariadosgrandes","823.83808"
+"SLV","El Salvador","Asalariadosmicro","562.27493"
+"SLV","El Salvador","Cuentapropia","467.45435"
+"SLV","El Salvador","Empleadores","1254.76654"
+"SLV","El Salvador","Media","714.61797"
+"SLV","El Salvador","profesionales","888.21873"
+"SLV","El Salvador","publico","1305.66298"
+"HND","Honduras","Asalariadosgrandes","864.44180"
+"HND","Honduras","Asalariadosmicro","392.67022"
+"HND","Honduras","Cuentapropia","446.01685"
+"HND","Honduras","Empleadores","995.19537"
+"HND","Honduras","Media","633.91738"
+"HND","Honduras","profesionales","1005.43458"
+"HND","Honduras","publico","1357.42243"
+"MEX","México","Asalariadosgrandes","948.48398"
+"MEX","México","Asalariadosmicro","497.16253"
+"MEX","México","Cuentapropia","370.58092"
+"MEX","México","Empleadores","1104.70864"
+"MEX","México","Media","750.34443"
+"MEX","México","profesionales","867.60305"
+"MEX","México","publico","1239.10686"
+"PAN","Panamá","Asalariadosgrandes","1859.64201"
+"PAN","Panamá","Asalariadosmicro","763.20791"
+"PAN","Panamá","Cuentapropia","650.94241"
+"PAN","Panamá","Empleadores",""
+"PAN","Panamá","Media","1504.34260"
+"PAN","Panamá","profesionales","1794.84163"
+"PAN","Panamá","publico","2656.80089"
+"PRY","Paraguay","Asalariadosgrandes","1075.16336"
+"PRY","Paraguay","Asalariadosmicro","633.73601"
+"PRY","Paraguay","Cuentapropia","594.21217"
+"PRY","Paraguay","Empleadores","2783.74180"
+"PRY","Paraguay","Media","981.13926"
+"PRY","Paraguay","profesionales","1199.21139"
+"PRY","Paraguay","publico","1604.48719"
+"PER","Perú","Asalariadosgrandes","753.83721"
+"PER","Perú","Asalariadosmicro","484.73988"
+"PER","Perú","Cuentapropia","367.93929"
+"PER","Perú","Empleadores","1167.86776"
+"PER","Perú","Media","582.40610"
+"PER","Perú","profesionales","599.18183"
+"PER","Perú","publico","982.27891"
+"DOM","Rep. Dominicana","Asalariadosgrandes","960.12633"
+"DOM","Rep. Dominicana","Asalariadosmicro","495.05081"
+"DOM","Rep. Dominicana","Cuentapropia","712.93051"
+"DOM","Rep. Dominicana","Empleadores","1692.53088"
+"DOM","Rep. Dominicana","Media","871.68572"
+"DOM","Rep. Dominicana","profesionales","1149.19480"
+"DOM","Rep. Dominicana","publico","1205.00607"
+"URY","Uruguay","Asalariadosgrandes","1260.82723"
+"URY","Uruguay","Asalariadosmicro","629.97772"
+"URY","Uruguay","Cuentapropia","620.31210"
+"URY","Uruguay","Empleadores","2549.44606"
+"URY","Uruguay","Media","1159.77585"
+"URY","Uruguay","profesionales","2080.93005"
+"URY","Uruguay","publico","1622.27263"

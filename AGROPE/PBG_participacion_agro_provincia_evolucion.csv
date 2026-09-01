@@ -1,433 +1,505 @@
-geocodigoFundar,geonombreFundar,anio,valor,cod_pcia
-AR-C,CABA,2004,0.0021,2
-AR-C,CABA,2005,0.002,2
-AR-C,CABA,2006,0.0017,2
-AR-C,CABA,2007,0.0018,2
-AR-C,CABA,2008,0.0018,2
-AR-C,CABA,2009,0.0012,2
-AR-C,CABA,2010,0.0018,2
-AR-C,CABA,2011,0.0016,2
-AR-C,CABA,2012,0.0014,2
-AR-C,CABA,2013,0.0016,2
-AR-C,CABA,2014,0.0016,2
-AR-C,CABA,2015,0.0017,2
-AR-C,CABA,2016,0.0016,2
-AR-C,CABA,2017,0.0017,2
-AR-C,CABA,2018,0.0014,2
-AR-C,CABA,2019,0.0018,2
-AR-C,CABA,2020,0.0019,2
-AR-C,CABA,2021,0.0018,2
-AR-B,Buenos Aires,2004,0.0889,6
-AR-B,Buenos Aires,2005,0.0971,6
-AR-B,Buenos Aires,2006,0.0868,6
-AR-B,Buenos Aires,2007,0.0831,6
-AR-B,Buenos Aires,2008,0.082,6
-AR-B,Buenos Aires,2009,0.0604,6
-AR-B,Buenos Aires,2010,0.0842,6
-AR-B,Buenos Aires,2011,0.0811,6
-AR-B,Buenos Aires,2012,0.0749,6
-AR-B,Buenos Aires,2013,0.0779,6
-AR-B,Buenos Aires,2014,0.0742,6
-AR-B,Buenos Aires,2015,0.0814,6
-AR-B,Buenos Aires,2016,0.0822,6
-AR-B,Buenos Aires,2017,0.0793,6
-AR-B,Buenos Aires,2018,0.0693,6
-AR-B,Buenos Aires,2019,0.0875,6
-AR-B,Buenos Aires,2020,0.089,6
-AR-B,Buenos Aires,2021,0.0781,6
-AR-K,Catamarca,2004,0.0501,10
-AR-K,Catamarca,2005,0.0461,10
-AR-K,Catamarca,2006,0.0444,10
-AR-K,Catamarca,2007,0.041,10
-AR-K,Catamarca,2008,0.0497,10
-AR-K,Catamarca,2009,0.0429,10
-AR-K,Catamarca,2010,0.0472,10
-AR-K,Catamarca,2011,0.0449,10
-AR-K,Catamarca,2012,0.0345,10
-AR-K,Catamarca,2013,0.0253,10
-AR-K,Catamarca,2014,0.024,10
-AR-K,Catamarca,2015,0.0386,10
-AR-K,Catamarca,2016,0.0482,10
-AR-K,Catamarca,2017,0.0395,10
-AR-K,Catamarca,2018,0.0412,10
-AR-K,Catamarca,2019,0.0572,10
-AR-K,Catamarca,2020,0.05,10
-AR-K,Catamarca,2021,0.0454,10
-AR-X,Córdoba,2004,0.2114,14
-AR-X,Córdoba,2005,0.2457,14
-AR-X,Córdoba,2006,0.2124,14
-AR-X,Córdoba,2007,0.2427,14
-AR-X,Córdoba,2008,0.2114,14
-AR-X,Córdoba,2009,0.1789,14
-AR-X,Córdoba,2010,0.1977,14
-AR-X,Córdoba,2011,0.1702,14
-AR-X,Córdoba,2012,0.1486,14
-AR-X,Córdoba,2013,0.1867,14
-AR-X,Córdoba,2014,0.2105,14
-AR-X,Córdoba,2015,0.2259,14
-AR-X,Córdoba,2016,0.2274,14
-AR-X,Córdoba,2017,0.217,14
-AR-X,Córdoba,2018,0.1681,14
-AR-X,Córdoba,2019,0.2299,14
-AR-X,Córdoba,2020,0.2296,14
-AR-X,Córdoba,2021,0.2145,14
-AR-W,Corrientes,2004,0.066,18
-AR-W,Corrientes,2005,0.0622,18
-AR-W,Corrientes,2006,0.0596,18
-AR-W,Corrientes,2007,0.0548,18
-AR-W,Corrientes,2008,0.0547,18
-AR-W,Corrientes,2009,0.0529,18
-AR-W,Corrientes,2010,0.0453,18
-AR-W,Corrientes,2011,0.0474,18
-AR-W,Corrientes,2012,0.0401,18
-AR-W,Corrientes,2013,0.0443,18
-AR-W,Corrientes,2014,0.044,18
-AR-W,Corrientes,2015,0.0426,18
-AR-W,Corrientes,2016,0.0399,18
-AR-W,Corrientes,2017,0.0374,18
-AR-W,Corrientes,2018,0.0361,18
-AR-W,Corrientes,2019,0.0381,18
-AR-W,Corrientes,2020,0.0426,18
-AR-W,Corrientes,2021,0.0385,18
-AR-H,Chaco,2004,0.1732,22
-AR-H,Chaco,2005,0.1869,22
-AR-H,Chaco,2006,0.2008,22
-AR-H,Chaco,2007,0.1906,22
-AR-H,Chaco,2008,0.1777,22
-AR-H,Chaco,2009,0.1111,22
-AR-H,Chaco,2010,0.1862,22
-AR-H,Chaco,2011,0.1879,22
-AR-H,Chaco,2012,0.106,22
-AR-H,Chaco,2013,0.1002,22
-AR-H,Chaco,2014,0.1621,22
-AR-H,Chaco,2015,0.1202,22
-AR-H,Chaco,2016,0.1185,22
-AR-H,Chaco,2017,0.1096,22
-AR-H,Chaco,2018,0.1203,22
-AR-H,Chaco,2019,0.1224,22
-AR-H,Chaco,2020,0.1473,22
-AR-H,Chaco,2021,0.1213,22
-AR-U,Chubut,2004,0.0263,26
-AR-U,Chubut,2005,0.0279,26
-AR-U,Chubut,2006,0.0239,26
-AR-U,Chubut,2007,0.0231,26
-AR-U,Chubut,2008,0.0232,26
-AR-U,Chubut,2009,0.0189,26
-AR-U,Chubut,2010,0.0187,26
-AR-U,Chubut,2011,0.0166,26
-AR-U,Chubut,2012,0.015,26
-AR-U,Chubut,2013,0.0142,26
-AR-U,Chubut,2014,0.0134,26
-AR-U,Chubut,2015,0.0137,26
-AR-U,Chubut,2016,0.0137,26
-AR-U,Chubut,2017,0.0134,26
-AR-U,Chubut,2018,0.0132,26
-AR-U,Chubut,2019,0.013,26
-AR-U,Chubut,2020,0.0145,26
-AR-U,Chubut,2021,0.0131,26
-AR-E,Entre Ríos,2004,0.2232,30
-AR-E,Entre Ríos,2005,0.2396,30
-AR-E,Entre Ríos,2006,0.2165,30
-AR-E,Entre Ríos,2007,0.2259,30
-AR-E,Entre Ríos,2008,0.2067,30
-AR-E,Entre Ríos,2009,0.1591,30
-AR-E,Entre Ríos,2010,0.2199,30
-AR-E,Entre Ríos,2011,0.1935,30
-AR-E,Entre Ríos,2012,0.1799,30
-AR-E,Entre Ríos,2013,0.191,30
-AR-E,Entre Ríos,2014,0.1928,30
-AR-E,Entre Ríos,2015,0.197,30
-AR-E,Entre Ríos,2016,0.1746,30
-AR-E,Entre Ríos,2017,0.1947,30
-AR-E,Entre Ríos,2018,0.1625,30
-AR-E,Entre Ríos,2019,0.1984,30
-AR-E,Entre Ríos,2020,0.197,30
-AR-E,Entre Ríos,2021,0.1742,30
-AR-P,Formosa,2004,0.0734,34
-AR-P,Formosa,2005,0.0686,34
-AR-P,Formosa,2006,0.0597,34
-AR-P,Formosa,2007,0.058,34
-AR-P,Formosa,2008,0.0497,34
-AR-P,Formosa,2009,0.0467,34
-AR-P,Formosa,2010,0.0387,34
-AR-P,Formosa,2011,0.0376,34
-AR-P,Formosa,2012,0.0393,34
-AR-P,Formosa,2013,0.0385,34
-AR-P,Formosa,2014,0.0331,34
-AR-P,Formosa,2015,0.0354,34
-AR-P,Formosa,2016,0.0323,34
-AR-P,Formosa,2017,0.032,34
-AR-P,Formosa,2018,0.0371,34
-AR-P,Formosa,2019,0.0351,34
-AR-P,Formosa,2020,0.0339,34
-AR-P,Formosa,2021,0.0294,34
-AR-Y,Jujuy,2004,0.1121,38
-AR-Y,Jujuy,2005,0.1111,38
-AR-Y,Jujuy,2006,0.0991,38
-AR-Y,Jujuy,2007,0.0949,38
-AR-Y,Jujuy,2008,0.0942,38
-AR-Y,Jujuy,2009,0.0828,38
-AR-Y,Jujuy,2010,0.086,38
-AR-Y,Jujuy,2011,0.0752,38
-AR-Y,Jujuy,2012,0.0691,38
-AR-Y,Jujuy,2013,0.0634,38
-AR-Y,Jujuy,2014,0.0675,38
-AR-Y,Jujuy,2015,0.0662,38
-AR-Y,Jujuy,2016,0.0623,38
-AR-Y,Jujuy,2017,0.065,38
-AR-Y,Jujuy,2018,0.0592,38
-AR-Y,Jujuy,2019,0.0605,38
-AR-Y,Jujuy,2020,0.062,38
-AR-Y,Jujuy,2021,0.0582,38
-AR-L,La Pampa,2004,0.2056,42
-AR-L,La Pampa,2005,0.2462,42
-AR-L,La Pampa,2006,0.1716,42
-AR-L,La Pampa,2007,0.1649,42
-AR-L,La Pampa,2008,0.1698,42
-AR-L,La Pampa,2009,0.1197,42
-AR-L,La Pampa,2010,0.1287,42
-AR-L,La Pampa,2011,0.1247,42
-AR-L,La Pampa,2012,0.1568,42
-AR-L,La Pampa,2013,0.1455,42
-AR-L,La Pampa,2014,0.1501,42
-AR-L,La Pampa,2015,0.1768,42
-AR-L,La Pampa,2016,0.2002,42
-AR-L,La Pampa,2017,0.1757,42
-AR-L,La Pampa,2018,0.1652,42
-AR-L,La Pampa,2019,0.1926,42
-AR-L,La Pampa,2020,0.2021,42
-AR-L,La Pampa,2021,0.1787,42
-AR-F,La Rioja,2004,0.046,46
-AR-F,La Rioja,2005,0.0483,46
-AR-F,La Rioja,2006,0.0431,46
-AR-F,La Rioja,2007,0.0431,46
-AR-F,La Rioja,2008,0.0403,46
-AR-F,La Rioja,2009,0.0371,46
-AR-F,La Rioja,2010,0.0347,46
-AR-F,La Rioja,2011,0.0355,46
-AR-F,La Rioja,2012,0.0297,46
-AR-F,La Rioja,2013,0.0294,46
-AR-F,La Rioja,2014,0.0326,46
-AR-F,La Rioja,2015,0.0318,46
-AR-F,La Rioja,2016,0.0306,46
-AR-F,La Rioja,2017,0.0308,46
-AR-F,La Rioja,2018,0.0335,46
-AR-F,La Rioja,2019,0.0396,46
-AR-F,La Rioja,2020,0.0443,46
-AR-F,La Rioja,2021,0.0411,46
-AR-M,Mendoza,2004,0.0982,50
-AR-M,Mendoza,2005,0.0976,50
-AR-M,Mendoza,2006,0.0974,50
-AR-M,Mendoza,2007,0.0934,50
-AR-M,Mendoza,2008,0.0851,50
-AR-M,Mendoza,2009,0.077,50
-AR-M,Mendoza,2010,0.0803,50
-AR-M,Mendoza,2011,0.0769,50
-AR-M,Mendoza,2012,0.0718,50
-AR-M,Mendoza,2013,0.068,50
-AR-M,Mendoza,2014,0.0678,50
-AR-M,Mendoza,2015,0.0654,50
-AR-M,Mendoza,2016,0.0567,50
-AR-M,Mendoza,2017,0.0554,50
-AR-M,Mendoza,2018,0.0645,50
-AR-M,Mendoza,2019,0.0648,50
-AR-M,Mendoza,2020,0.0692,50
-AR-M,Mendoza,2021,0.0677,50
-AR-N,Misiones,2004,0.0807,54
-AR-N,Misiones,2005,0.0848,54
-AR-N,Misiones,2006,0.0737,54
-AR-N,Misiones,2007,0.0637,54
-AR-N,Misiones,2008,0.067,54
-AR-N,Misiones,2009,0.0555,54
-AR-N,Misiones,2010,0.063,54
-AR-N,Misiones,2011,0.059,54
-AR-N,Misiones,2012,0.054,54
-AR-N,Misiones,2013,0.0538,54
-AR-N,Misiones,2014,0.0579,54
-AR-N,Misiones,2015,0.0531,54
-AR-N,Misiones,2016,0.0516,54
-AR-N,Misiones,2017,0.0499,54
-AR-N,Misiones,2018,0.052,54
-AR-N,Misiones,2019,0.0561,54
-AR-N,Misiones,2020,0.0552,54
-AR-N,Misiones,2021,0.0497,54
-AR-Q,Neuquén,2004,0.0076,58
-AR-Q,Neuquén,2005,0.0083,58
-AR-Q,Neuquén,2006,0.008,58
-AR-Q,Neuquén,2007,0.0076,58
-AR-Q,Neuquén,2008,0.0069,58
-AR-Q,Neuquén,2009,0.0081,58
-AR-Q,Neuquén,2010,0.0076,58
-AR-Q,Neuquén,2011,0.007,58
-AR-Q,Neuquén,2012,0.0056,58
-AR-Q,Neuquén,2013,0.0059,58
-AR-Q,Neuquén,2014,0.0053,58
-AR-Q,Neuquén,2015,0.0069,58
-AR-Q,Neuquén,2016,0.0055,58
-AR-Q,Neuquén,2017,0.0056,58
-AR-Q,Neuquén,2018,0.0054,58
-AR-Q,Neuquén,2019,0.0052,58
-AR-Q,Neuquén,2020,0.0055,58
-AR-Q,Neuquén,2021,0.0044,58
-AR-R,Río Negro,2004,0.1017,62
-AR-R,Río Negro,2005,0.1098,62
-AR-R,Río Negro,2006,0.0934,62
-AR-R,Río Negro,2007,0.0864,62
-AR-R,Río Negro,2008,0.0846,62
-AR-R,Río Negro,2009,0.0815,62
-AR-R,Río Negro,2010,0.0717,62
-AR-R,Río Negro,2011,0.075,62
-AR-R,Río Negro,2012,0.0695,62
-AR-R,Río Negro,2013,0.0647,62
-AR-R,Río Negro,2014,0.0635,62
-AR-R,Río Negro,2015,0.0664,62
-AR-R,Río Negro,2016,0.0551,62
-AR-R,Río Negro,2017,0.0543,62
-AR-R,Río Negro,2018,0.055,62
-AR-R,Río Negro,2019,0.0599,62
-AR-R,Río Negro,2020,0.0649,62
-AR-R,Río Negro,2021,0.0583,62
-AR-A,Salta,2004,0.1407,66
-AR-A,Salta,2005,0.1444,66
-AR-A,Salta,2006,0.1722,66
-AR-A,Salta,2007,0.1626,66
-AR-A,Salta,2008,0.1652,66
-AR-A,Salta,2009,0.1448,66
-AR-A,Salta,2010,0.1615,66
-AR-A,Salta,2011,0.1548,66
-AR-A,Salta,2012,0.1165,66
-AR-A,Salta,2013,0.0764,66
-AR-A,Salta,2014,0.127,66
-AR-A,Salta,2015,0.1451,66
-AR-A,Salta,2016,0.1281,66
-AR-A,Salta,2017,0.1359,66
-AR-A,Salta,2018,0.1263,66
-AR-A,Salta,2019,0.1463,66
-AR-A,Salta,2020,0.1507,66
-AR-A,Salta,2021,0.1412,66
-AR-J,San Juan,2004,0.1183,70
-AR-J,San Juan,2005,0.1271,70
-AR-J,San Juan,2006,0.0972,70
-AR-J,San Juan,2007,0.0916,70
-AR-J,San Juan,2008,0.0851,70
-AR-J,San Juan,2009,0.0556,70
-AR-J,San Juan,2010,0.0714,70
-AR-J,San Juan,2011,0.0613,70
-AR-J,San Juan,2012,0.0475,70
-AR-J,San Juan,2013,0.0646,70
-AR-J,San Juan,2014,0.0655,70
-AR-J,San Juan,2015,0.0586,70
-AR-J,San Juan,2016,0.0631,70
-AR-J,San Juan,2017,0.0566,70
-AR-J,San Juan,2018,0.0618,70
-AR-J,San Juan,2019,0.0584,70
-AR-J,San Juan,2020,0.0518,70
-AR-J,San Juan,2021,0.0476,70
-AR-D,San Luis,2004,0.0489,74
-AR-D,San Luis,2005,0.0613,74
-AR-D,San Luis,2006,0.0445,74
-AR-D,San Luis,2007,0.0558,74
-AR-D,San Luis,2008,0.0638,74
-AR-D,San Luis,2009,0.0626,74
-AR-D,San Luis,2010,0.0484,74
-AR-D,San Luis,2011,0.0547,74
-AR-D,San Luis,2012,0.0475,74
-AR-D,San Luis,2013,0.0798,74
-AR-D,San Luis,2014,0.0746,74
-AR-D,San Luis,2015,0.087,74
-AR-D,San Luis,2016,0.1008,74
-AR-D,San Luis,2017,0.1006,74
-AR-D,San Luis,2018,0.0788,74
-AR-D,San Luis,2019,0.0886,74
-AR-D,San Luis,2020,0.0769,74
-AR-D,San Luis,2021,0.0842,74
-AR-Z,Santa Cruz,2004,0.014,78
-AR-Z,Santa Cruz,2005,0.0153,78
-AR-Z,Santa Cruz,2006,0.015,78
-AR-Z,Santa Cruz,2007,0.0162,78
-AR-Z,Santa Cruz,2008,0.0143,78
-AR-Z,Santa Cruz,2009,0.0123,78
-AR-Z,Santa Cruz,2010,0.0127,78
-AR-Z,Santa Cruz,2011,0.0124,78
-AR-Z,Santa Cruz,2012,0.008,78
-AR-Z,Santa Cruz,2013,0.008,78
-AR-Z,Santa Cruz,2014,0.0077,78
-AR-Z,Santa Cruz,2015,0.0072,78
-AR-Z,Santa Cruz,2016,0.0085,78
-AR-Z,Santa Cruz,2017,0.0088,78
-AR-Z,Santa Cruz,2018,0.0078,78
-AR-Z,Santa Cruz,2019,0.0098,78
-AR-Z,Santa Cruz,2020,0.0112,78
-AR-Z,Santa Cruz,2021,0.0092,78
-AR-S,Santa Fe,2004,0.2132,82
-AR-S,Santa Fe,2005,0.2278,82
-AR-S,Santa Fe,2006,0.2054,82
-AR-S,Santa Fe,2007,0.2052,82
-AR-S,Santa Fe,2008,0.1911,82
-AR-S,Santa Fe,2009,0.1529,82
-AR-S,Santa Fe,2010,0.2029,82
-AR-S,Santa Fe,2011,0.1719,82
-AR-S,Santa Fe,2012,0.1579,82
-AR-S,Santa Fe,2013,0.1791,82
-AR-S,Santa Fe,2014,0.1759,82
-AR-S,Santa Fe,2015,0.1821,82
-AR-S,Santa Fe,2016,0.151,82
-AR-S,Santa Fe,2017,0.1668,82
-AR-S,Santa Fe,2018,0.1434,82
-AR-S,Santa Fe,2019,0.1782,82
-AR-S,Santa Fe,2020,0.187,82
-AR-S,Santa Fe,2021,0.1749,82
-AR-G,Santiago del Estero,2004,0.1813,86
-AR-G,Santiago del Estero,2005,0.1592,86
-AR-G,Santiago del Estero,2006,0.1787,86
-AR-G,Santiago del Estero,2007,0.1885,86
-AR-G,Santiago del Estero,2008,0.1802,86
-AR-G,Santiago del Estero,2009,0.0914,86
-AR-G,Santiago del Estero,2010,0.2361,86
-AR-G,Santiago del Estero,2011,0.2584,86
-AR-G,Santiago del Estero,2012,0.1719,86
-AR-G,Santiago del Estero,2013,0.1482,86
-AR-G,Santiago del Estero,2014,0.2277,86
-AR-G,Santiago del Estero,2015,0.2002,86
-AR-G,Santiago del Estero,2016,0.2201,86
-AR-G,Santiago del Estero,2017,0.2452,86
-AR-G,Santiago del Estero,2018,0.24,86
-AR-G,Santiago del Estero,2019,0.3208,86
-AR-G,Santiago del Estero,2020,0.3497,86
-AR-G,Santiago del Estero,2021,0.3065,86
-AR-T,Tucumán,2004,0.1215,90
-AR-T,Tucumán,2005,0.1281,90
-AR-T,Tucumán,2006,0.132,90
-AR-T,Tucumán,2007,0.1179,90
-AR-T,Tucumán,2008,0.1058,90
-AR-T,Tucumán,2009,0.0982,90
-AR-T,Tucumán,2010,0.0941,90
-AR-T,Tucumán,2011,0.0942,90
-AR-T,Tucumán,2012,0.0704,90
-AR-T,Tucumán,2013,0.0668,90
-AR-T,Tucumán,2014,0.0651,90
-AR-T,Tucumán,2015,0.0728,90
-AR-T,Tucumán,2016,0.0812,90
-AR-T,Tucumán,2017,0.0777,90
-AR-T,Tucumán,2018,0.0756,90
-AR-T,Tucumán,2019,0.086,90
-AR-T,Tucumán,2020,0.0814,90
-AR-T,Tucumán,2021,0.0808,90
-AR-V,Tierra del Fuego,2004,0.0073,94
-AR-V,Tierra del Fuego,2005,0.0072,94
-AR-V,Tierra del Fuego,2006,0.006,94
-AR-V,Tierra del Fuego,2007,0.0061,94
-AR-V,Tierra del Fuego,2008,0.0063,94
-AR-V,Tierra del Fuego,2009,0.0054,94
-AR-V,Tierra del Fuego,2010,0.0044,94
-AR-V,Tierra del Fuego,2011,0.0034,94
-AR-V,Tierra del Fuego,2012,0.0029,94
-AR-V,Tierra del Fuego,2013,0.0029,94
-AR-V,Tierra del Fuego,2014,0.003,94
-AR-V,Tierra del Fuego,2015,0.0029,94
-AR-V,Tierra del Fuego,2016,0.0026,94
-AR-V,Tierra del Fuego,2017,0.0026,94
-AR-V,Tierra del Fuego,2018,0.0029,94
-AR-V,Tierra del Fuego,2019,0.0031,94
-AR-V,Tierra del Fuego,2020,0.0034,94
-AR-V,Tierra del Fuego,2021,0.0026,94
+"geocodigoFundar","geonombreFundar","anio","valor","cod_pcia"
+"AR-A","Salta","2004","0.14069","66"
+"AR-A","Salta","2005","0.14441","66"
+"AR-A","Salta","2006","0.17211","66"
+"AR-A","Salta","2007","0.16252","66"
+"AR-A","Salta","2008","0.16508","66"
+"AR-A","Salta","2009","0.14469","66"
+"AR-A","Salta","2010","0.16136","66"
+"AR-A","Salta","2011","0.15464","66"
+"AR-A","Salta","2012","0.11637","66"
+"AR-A","Salta","2013","0.07635","66"
+"AR-A","Salta","2014","0.12691","66"
+"AR-A","Salta","2015","0.14494","66"
+"AR-A","Salta","2016","0.12797","66"
+"AR-A","Salta","2017","0.13575","66"
+"AR-A","Salta","2018","0.12548","66"
+"AR-A","Salta","2019","0.14783","66"
+"AR-A","Salta","2020","0.15324","66"
+"AR-A","Salta","2021","0.14600","66"
+"AR-A","Salta","2022","0.13016","66"
+"AR-A","Salta","2023","0.12702","66"
+"AR-A","Salta","2024","0.11969","66"
+"AR-B","Buenos Aires","2004","0.08892","6"
+"AR-B","Buenos Aires","2005","0.09712","6"
+"AR-B","Buenos Aires","2006","0.08675","6"
+"AR-B","Buenos Aires","2007","0.08307","6"
+"AR-B","Buenos Aires","2008","0.08198","6"
+"AR-B","Buenos Aires","2009","0.06035","6"
+"AR-B","Buenos Aires","2010","0.08415","6"
+"AR-B","Buenos Aires","2011","0.08108","6"
+"AR-B","Buenos Aires","2012","0.07492","6"
+"AR-B","Buenos Aires","2013","0.07784","6"
+"AR-B","Buenos Aires","2014","0.07418","6"
+"AR-B","Buenos Aires","2015","0.08136","6"
+"AR-B","Buenos Aires","2016","0.08216","6"
+"AR-B","Buenos Aires","2017","0.07933","6"
+"AR-B","Buenos Aires","2018","0.06933","6"
+"AR-B","Buenos Aires","2019","0.08749","6"
+"AR-B","Buenos Aires","2020","0.08868","6"
+"AR-B","Buenos Aires","2021","0.07871","6"
+"AR-B","Buenos Aires","2022","0.07600","6"
+"AR-B","Buenos Aires","2023","0.05948","6"
+"AR-B","Buenos Aires","2024","0.07962","6"
+"AR-C","CABA","2004","0.00206","2"
+"AR-C","CABA","2005","0.00202","2"
+"AR-C","CABA","2006","0.00172","2"
+"AR-C","CABA","2007","0.00177","2"
+"AR-C","CABA","2008","0.00178","2"
+"AR-C","CABA","2009","0.00121","2"
+"AR-C","CABA","2010","0.00182","2"
+"AR-C","CABA","2011","0.00162","2"
+"AR-C","CABA","2012","0.00142","2"
+"AR-C","CABA","2013","0.00156","2"
+"AR-C","CABA","2014","0.00161","2"
+"AR-C","CABA","2015","0.00167","2"
+"AR-C","CABA","2016","0.00165","2"
+"AR-C","CABA","2017","0.00170","2"
+"AR-C","CABA","2018","0.00142","2"
+"AR-C","CABA","2019","0.00181","2"
+"AR-C","CABA","2020","0.00187","2"
+"AR-C","CABA","2021","0.00173","2"
+"AR-C","CABA","2022","0.00163","2"
+"AR-C","CABA","2023","0.00128","2"
+"AR-C","CABA","2024","0.00165","2"
+"AR-D","San Luis","2004","0.04891","74"
+"AR-D","San Luis","2005","0.06126","74"
+"AR-D","San Luis","2006","0.04453","74"
+"AR-D","San Luis","2007","0.05583","74"
+"AR-D","San Luis","2008","0.06381","74"
+"AR-D","San Luis","2009","0.06259","74"
+"AR-D","San Luis","2010","0.04838","74"
+"AR-D","San Luis","2011","0.05463","74"
+"AR-D","San Luis","2012","0.04750","74"
+"AR-D","San Luis","2013","0.07972","74"
+"AR-D","San Luis","2014","0.07453","74"
+"AR-D","San Luis","2015","0.08695","74"
+"AR-D","San Luis","2016","0.10071","74"
+"AR-D","San Luis","2017","0.10049","74"
+"AR-D","San Luis","2018","0.07878","74"
+"AR-D","San Luis","2019","0.08850","74"
+"AR-D","San Luis","2020","0.07656","74"
+"AR-D","San Luis","2021","0.08446","74"
+"AR-D","San Luis","2022","0.08114","74"
+"AR-D","San Luis","2023","0.06126","74"
+"AR-D","San Luis","2024","0.08424","74"
+"AR-E","Entre Ríos","2004","0.22324","30"
+"AR-E","Entre Ríos","2005","0.23951","30"
+"AR-E","Entre Ríos","2006","0.21645","30"
+"AR-E","Entre Ríos","2007","0.22586","30"
+"AR-E","Entre Ríos","2008","0.20657","30"
+"AR-E","Entre Ríos","2009","0.15899","30"
+"AR-E","Entre Ríos","2010","0.21975","30"
+"AR-E","Entre Ríos","2011","0.19341","30"
+"AR-E","Entre Ríos","2012","0.17973","30"
+"AR-E","Entre Ríos","2013","0.19082","30"
+"AR-E","Entre Ríos","2014","0.19263","30"
+"AR-E","Entre Ríos","2015","0.19671","30"
+"AR-E","Entre Ríos","2016","0.17435","30"
+"AR-E","Entre Ríos","2017","0.19439","30"
+"AR-E","Entre Ríos","2018","0.16220","30"
+"AR-E","Entre Ríos","2019","0.19784","30"
+"AR-E","Entre Ríos","2020","0.19610","30"
+"AR-E","Entre Ríos","2021","0.17442","30"
+"AR-E","Entre Ríos","2022","0.17387","30"
+"AR-E","Entre Ríos","2023","0.14024","30"
+"AR-E","Entre Ríos","2024","0.18713","30"
+"AR-F","La Rioja","2004","0.04598","46"
+"AR-F","La Rioja","2005","0.04827","46"
+"AR-F","La Rioja","2006","0.04307","46"
+"AR-F","La Rioja","2007","0.04307","46"
+"AR-F","La Rioja","2008","0.04031","46"
+"AR-F","La Rioja","2009","0.03709","46"
+"AR-F","La Rioja","2010","0.03474","46"
+"AR-F","La Rioja","2011","0.03547","46"
+"AR-F","La Rioja","2012","0.02969","46"
+"AR-F","La Rioja","2013","0.02939","46"
+"AR-F","La Rioja","2014","0.03258","46"
+"AR-F","La Rioja","2015","0.03183","46"
+"AR-F","La Rioja","2016","0.03055","46"
+"AR-F","La Rioja","2017","0.03083","46"
+"AR-F","La Rioja","2018","0.03354","46"
+"AR-F","La Rioja","2019","0.03954","46"
+"AR-F","La Rioja","2020","0.04441","46"
+"AR-F","La Rioja","2021","0.04189","46"
+"AR-F","La Rioja","2022","0.04112","46"
+"AR-F","La Rioja","2023","0.04577","46"
+"AR-F","La Rioja","2024","0.04875","46"
+"AR-G","Santiago del Estero","2004","0.18127","86"
+"AR-G","Santiago del Estero","2005","0.15908","86"
+"AR-G","Santiago del Estero","2006","0.17856","86"
+"AR-G","Santiago del Estero","2007","0.18831","86"
+"AR-G","Santiago del Estero","2008","0.17998","86"
+"AR-G","Santiago del Estero","2009","0.09128","86"
+"AR-G","Santiago del Estero","2010","0.23579","86"
+"AR-G","Santiago del Estero","2011","0.25805","86"
+"AR-G","Santiago del Estero","2012","0.17158","86"
+"AR-G","Santiago del Estero","2013","0.14790","86"
+"AR-G","Santiago del Estero","2014","0.22727","86"
+"AR-G","Santiago del Estero","2015","0.19975","86"
+"AR-G","Santiago del Estero","2016","0.21960","86"
+"AR-G","Santiago del Estero","2017","0.24470","86"
+"AR-G","Santiago del Estero","2018","0.23935","86"
+"AR-G","Santiago del Estero","2019","0.31970","86"
+"AR-G","Santiago del Estero","2020","0.34796","86"
+"AR-G","Santiago del Estero","2021","0.30479","86"
+"AR-G","Santiago del Estero","2022","0.31193","86"
+"AR-G","Santiago del Estero","2023","0.24590","86"
+"AR-G","Santiago del Estero","2024","0.28875","86"
+"AR-H","Chaco","2004","0.17325","14"
+"AR-H","Chaco","2005","0.18683","14"
+"AR-H","Chaco","2006","0.20079","14"
+"AR-H","Chaco","2007","0.19058","14"
+"AR-H","Chaco","2008","0.17762","14"
+"AR-H","Chaco","2009","0.11107","14"
+"AR-H","Chaco","2010","0.18609","14"
+"AR-H","Chaco","2011","0.18783","14"
+"AR-H","Chaco","2012","0.10597","14"
+"AR-H","Chaco","2013","0.10015","14"
+"AR-H","Chaco","2014","0.16210","14"
+"AR-H","Chaco","2015","0.12025","14"
+"AR-H","Chaco","2016","0.11851","14"
+"AR-H","Chaco","2017","0.10970","14"
+"AR-H","Chaco","2018","0.12036","14"
+"AR-H","Chaco","2019","0.12243","14"
+"AR-H","Chaco","2020","0.14707","14"
+"AR-H","Chaco","2021","0.12160","14"
+"AR-H","Chaco","2022","0.13162","14"
+"AR-H","Chaco","2023","0.09163","14"
+"AR-H","Chaco","2024","0.09061","14"
+"AR-J","San Juan","2004","0.11830","70"
+"AR-J","San Juan","2005","0.12711","70"
+"AR-J","San Juan","2006","0.09717","70"
+"AR-J","San Juan","2007","0.09153","70"
+"AR-J","San Juan","2008","0.08506","70"
+"AR-J","San Juan","2009","0.05554","70"
+"AR-J","San Juan","2010","0.07141","70"
+"AR-J","San Juan","2011","0.06124","70"
+"AR-J","San Juan","2012","0.04744","70"
+"AR-J","San Juan","2013","0.06452","70"
+"AR-J","San Juan","2014","0.06540","70"
+"AR-J","San Juan","2015","0.05852","70"
+"AR-J","San Juan","2016","0.06296","70"
+"AR-J","San Juan","2017","0.05653","70"
+"AR-J","San Juan","2018","0.06173","70"
+"AR-J","San Juan","2019","0.05817","70"
+"AR-J","San Juan","2020","0.05170","70"
+"AR-J","San Juan","2021","0.04764","70"
+"AR-J","San Juan","2022","0.04408","70"
+"AR-J","San Juan","2023","0.04170","70"
+"AR-J","San Juan","2024","0.04281","70"
+"AR-K","Catamarca","2004","0.05009","10"
+"AR-K","Catamarca","2005","0.04615","10"
+"AR-K","Catamarca","2006","0.04435","10"
+"AR-K","Catamarca","2007","0.04099","10"
+"AR-K","Catamarca","2008","0.04969","10"
+"AR-K","Catamarca","2009","0.04291","10"
+"AR-K","Catamarca","2010","0.04716","10"
+"AR-K","Catamarca","2011","0.04482","10"
+"AR-K","Catamarca","2012","0.03440","10"
+"AR-K","Catamarca","2013","0.02524","10"
+"AR-K","Catamarca","2014","0.02396","10"
+"AR-K","Catamarca","2015","0.03851","10"
+"AR-K","Catamarca","2016","0.04811","10"
+"AR-K","Catamarca","2017","0.03942","10"
+"AR-K","Catamarca","2018","0.04126","10"
+"AR-K","Catamarca","2019","0.05718","10"
+"AR-K","Catamarca","2020","0.05043","10"
+"AR-K","Catamarca","2021","0.04931","10"
+"AR-K","Catamarca","2022","0.04588","10"
+"AR-K","Catamarca","2023","0.03395","10"
+"AR-K","Catamarca","2024","0.04164","10"
+"AR-L","La Pampa","2004","0.20559","42"
+"AR-L","La Pampa","2005","0.24616","42"
+"AR-L","La Pampa","2006","0.17153","42"
+"AR-L","La Pampa","2007","0.16480","42"
+"AR-L","La Pampa","2008","0.16974","42"
+"AR-L","La Pampa","2009","0.11963","42"
+"AR-L","La Pampa","2010","0.12865","42"
+"AR-L","La Pampa","2011","0.12465","42"
+"AR-L","La Pampa","2012","0.15663","42"
+"AR-L","La Pampa","2013","0.14538","42"
+"AR-L","La Pampa","2014","0.14996","42"
+"AR-L","La Pampa","2015","0.17663","42"
+"AR-L","La Pampa","2016","0.19999","42"
+"AR-L","La Pampa","2017","0.17546","42"
+"AR-L","La Pampa","2018","0.16503","42"
+"AR-L","La Pampa","2019","0.19222","42"
+"AR-L","La Pampa","2020","0.20114","42"
+"AR-L","La Pampa","2021","0.17918","42"
+"AR-L","La Pampa","2022","0.19239","42"
+"AR-L","La Pampa","2023","0.16180","42"
+"AR-L","La Pampa","2024","0.20295","42"
+"AR-M","Mendoza","2004","0.09821","50"
+"AR-M","Mendoza","2005","0.09761","50"
+"AR-M","Mendoza","2006","0.09729","50"
+"AR-M","Mendoza","2007","0.09334","50"
+"AR-M","Mendoza","2008","0.08503","50"
+"AR-M","Mendoza","2009","0.07689","50"
+"AR-M","Mendoza","2010","0.08023","50"
+"AR-M","Mendoza","2011","0.07686","50"
+"AR-M","Mendoza","2012","0.07170","50"
+"AR-M","Mendoza","2013","0.06800","50"
+"AR-M","Mendoza","2014","0.06779","50"
+"AR-M","Mendoza","2015","0.06540","50"
+"AR-M","Mendoza","2016","0.05666","50"
+"AR-M","Mendoza","2017","0.05538","50"
+"AR-M","Mendoza","2018","0.06439","50"
+"AR-M","Mendoza","2019","0.06445","50"
+"AR-M","Mendoza","2020","0.06775","50"
+"AR-M","Mendoza","2021","0.06681","50"
+"AR-M","Mendoza","2022","0.05967","50"
+"AR-M","Mendoza","2023","0.05312","50"
+"AR-M","Mendoza","2024","0.06338","50"
+"AR-N","Misiones","2004","0.08075","54"
+"AR-N","Misiones","2005","0.08475","54"
+"AR-N","Misiones","2006","0.07367","54"
+"AR-N","Misiones","2007","0.06362","54"
+"AR-N","Misiones","2008","0.06693","54"
+"AR-N","Misiones","2009","0.05542","54"
+"AR-N","Misiones","2010","0.06298","54"
+"AR-N","Misiones","2011","0.05894","54"
+"AR-N","Misiones","2012","0.05393","54"
+"AR-N","Misiones","2013","0.05369","54"
+"AR-N","Misiones","2014","0.05781","54"
+"AR-N","Misiones","2015","0.05299","54"
+"AR-N","Misiones","2016","0.05150","54"
+"AR-N","Misiones","2017","0.04985","54"
+"AR-N","Misiones","2018","0.05177","54"
+"AR-N","Misiones","2019","0.05776","54"
+"AR-N","Misiones","2020","0.05658","54"
+"AR-N","Misiones","2021","0.04968","54"
+"AR-N","Misiones","2022","0.04670","54"
+"AR-N","Misiones","2023","0.04284","54"
+"AR-N","Misiones","2024","0.05131","54"
+"AR-P","Formosa","2004","0.07337","34"
+"AR-P","Formosa","2005","0.06863","34"
+"AR-P","Formosa","2006","0.05963","34"
+"AR-P","Formosa","2007","0.05798","34"
+"AR-P","Formosa","2008","0.04972","34"
+"AR-P","Formosa","2009","0.04668","34"
+"AR-P","Formosa","2010","0.03873","34"
+"AR-P","Formosa","2011","0.03759","34"
+"AR-P","Formosa","2012","0.03929","34"
+"AR-P","Formosa","2013","0.03850","34"
+"AR-P","Formosa","2014","0.03310","34"
+"AR-P","Formosa","2015","0.03540","34"
+"AR-P","Formosa","2016","0.03230","34"
+"AR-P","Formosa","2017","0.03197","34"
+"AR-P","Formosa","2018","0.03713","34"
+"AR-P","Formosa","2019","0.03505","34"
+"AR-P","Formosa","2020","0.03357","34"
+"AR-P","Formosa","2021","0.02922","34"
+"AR-P","Formosa","2022","0.02923","34"
+"AR-P","Formosa","2023","0.03069","34"
+"AR-P","Formosa","2024","0.03346","34"
+"AR-Q","Neuquén","2004","0.00760","58"
+"AR-Q","Neuquén","2005","0.00831","58"
+"AR-Q","Neuquén","2006","0.00798","58"
+"AR-Q","Neuquén","2007","0.00755","58"
+"AR-Q","Neuquén","2008","0.00689","58"
+"AR-Q","Neuquén","2009","0.00806","58"
+"AR-Q","Neuquén","2010","0.00759","58"
+"AR-Q","Neuquén","2011","0.00703","58"
+"AR-Q","Neuquén","2012","0.00557","58"
+"AR-Q","Neuquén","2013","0.00592","58"
+"AR-Q","Neuquén","2014","0.00531","58"
+"AR-Q","Neuquén","2015","0.00693","58"
+"AR-Q","Neuquén","2016","0.00549","58"
+"AR-Q","Neuquén","2017","0.00558","58"
+"AR-Q","Neuquén","2018","0.00536","58"
+"AR-Q","Neuquén","2019","0.00525","58"
+"AR-Q","Neuquén","2020","0.00583","58"
+"AR-Q","Neuquén","2021","0.00452","58"
+"AR-Q","Neuquén","2022","0.00357","58"
+"AR-Q","Neuquén","2023","0.00331","58"
+"AR-Q","Neuquén","2024","0.00293","58"
+"AR-R","Río Negro","2004","0.10172","62"
+"AR-R","Río Negro","2005","0.10983","62"
+"AR-R","Río Negro","2006","0.09337","62"
+"AR-R","Río Negro","2007","0.08642","62"
+"AR-R","Río Negro","2008","0.08466","62"
+"AR-R","Río Negro","2009","0.08150","62"
+"AR-R","Río Negro","2010","0.07175","62"
+"AR-R","Río Negro","2011","0.07500","62"
+"AR-R","Río Negro","2012","0.06953","62"
+"AR-R","Río Negro","2013","0.06470","62"
+"AR-R","Río Negro","2014","0.06350","62"
+"AR-R","Río Negro","2015","0.06638","62"
+"AR-R","Río Negro","2016","0.05507","62"
+"AR-R","Río Negro","2017","0.05427","62"
+"AR-R","Río Negro","2018","0.05497","62"
+"AR-R","Río Negro","2019","0.05997","62"
+"AR-R","Río Negro","2020","0.06902","62"
+"AR-R","Río Negro","2021","0.06067","62"
+"AR-R","Río Negro","2022","0.05347","62"
+"AR-R","Río Negro","2023","0.05445","62"
+"AR-R","Río Negro","2024","0.05316","62"
+"AR-S","Santa Fe","2004","0.21315","82"
+"AR-S","Santa Fe","2005","0.22780","82"
+"AR-S","Santa Fe","2006","0.20543","82"
+"AR-S","Santa Fe","2007","0.20522","82"
+"AR-S","Santa Fe","2008","0.19109","82"
+"AR-S","Santa Fe","2009","0.15289","82"
+"AR-S","Santa Fe","2010","0.20297","82"
+"AR-S","Santa Fe","2011","0.17194","82"
+"AR-S","Santa Fe","2012","0.15790","82"
+"AR-S","Santa Fe","2013","0.17907","82"
+"AR-S","Santa Fe","2014","0.17582","82"
+"AR-S","Santa Fe","2015","0.18196","82"
+"AR-S","Santa Fe","2016","0.15087","82"
+"AR-S","Santa Fe","2017","0.16671","82"
+"AR-S","Santa Fe","2018","0.14328","82"
+"AR-S","Santa Fe","2019","0.17794","82"
+"AR-S","Santa Fe","2020","0.18639","82"
+"AR-S","Santa Fe","2021","0.17242","82"
+"AR-S","Santa Fe","2022","0.14515","82"
+"AR-S","Santa Fe","2023","0.11442","82"
+"AR-S","Santa Fe","2024","0.17191","82"
+"AR-T","Tucumán","2004","0.12150","94"
+"AR-T","Tucumán","2005","0.12809","94"
+"AR-T","Tucumán","2006","0.13198","94"
+"AR-T","Tucumán","2007","0.11787","94"
+"AR-T","Tucumán","2008","0.10573","94"
+"AR-T","Tucumán","2009","0.09820","94"
+"AR-T","Tucumán","2010","0.09411","94"
+"AR-T","Tucumán","2011","0.09418","94"
+"AR-T","Tucumán","2012","0.07038","94"
+"AR-T","Tucumán","2013","0.06674","94"
+"AR-T","Tucumán","2014","0.06509","94"
+"AR-T","Tucumán","2015","0.07278","94"
+"AR-T","Tucumán","2016","0.08112","94"
+"AR-T","Tucumán","2017","0.07766","94"
+"AR-T","Tucumán","2018","0.07574","94"
+"AR-T","Tucumán","2019","0.08585","94"
+"AR-T","Tucumán","2020","0.08158","94"
+"AR-T","Tucumán","2021","0.07704","94"
+"AR-T","Tucumán","2022","0.07276","94"
+"AR-T","Tucumán","2023","0.07148","94"
+"AR-T","Tucumán","2024","0.07610","94"
+"AR-U","Chubut","2004","0.02634","18"
+"AR-U","Chubut","2005","0.02792","18"
+"AR-U","Chubut","2006","0.02392","18"
+"AR-U","Chubut","2007","0.02310","18"
+"AR-U","Chubut","2008","0.02316","18"
+"AR-U","Chubut","2009","0.01886","18"
+"AR-U","Chubut","2010","0.01869","18"
+"AR-U","Chubut","2011","0.01658","18"
+"AR-U","Chubut","2012","0.01496","18"
+"AR-U","Chubut","2013","0.01420","18"
+"AR-U","Chubut","2014","0.01342","18"
+"AR-U","Chubut","2015","0.01374","18"
+"AR-U","Chubut","2016","0.01373","18"
+"AR-U","Chubut","2017","0.01338","18"
+"AR-U","Chubut","2018","0.01323","18"
+"AR-U","Chubut","2019","0.01304","18"
+"AR-U","Chubut","2020","0.01456","18"
+"AR-U","Chubut","2021","0.01338","18"
+"AR-U","Chubut","2022","0.01243","18"
+"AR-U","Chubut","2023","0.01110","18"
+"AR-U","Chubut","2024","0.01129","18"
+"AR-V","Tierra del Fuego","2004","0.00731","90"
+"AR-V","Tierra del Fuego","2005","0.00717","90"
+"AR-V","Tierra del Fuego","2006","0.00605","90"
+"AR-V","Tierra del Fuego","2007","0.00612","90"
+"AR-V","Tierra del Fuego","2008","0.00630","90"
+"AR-V","Tierra del Fuego","2009","0.00538","90"
+"AR-V","Tierra del Fuego","2010","0.00435","90"
+"AR-V","Tierra del Fuego","2011","0.00340","90"
+"AR-V","Tierra del Fuego","2012","0.00295","90"
+"AR-V","Tierra del Fuego","2013","0.00292","90"
+"AR-V","Tierra del Fuego","2014","0.00297","90"
+"AR-V","Tierra del Fuego","2015","0.00289","90"
+"AR-V","Tierra del Fuego","2016","0.00258","90"
+"AR-V","Tierra del Fuego","2017","0.00260","90"
+"AR-V","Tierra del Fuego","2018","0.00288","90"
+"AR-V","Tierra del Fuego","2019","0.00307","90"
+"AR-V","Tierra del Fuego","2020","0.00339","90"
+"AR-V","Tierra del Fuego","2021","0.00261","90"
+"AR-V","Tierra del Fuego","2022","0.00247","90"
+"AR-V","Tierra del Fuego","2023","0.00252","90"
+"AR-V","Tierra del Fuego","2024","0.00267","90"
+"AR-W","Corrientes","2004","0.06597","26"
+"AR-W","Corrientes","2005","0.06218","26"
+"AR-W","Corrientes","2006","0.05960","26"
+"AR-W","Corrientes","2007","0.05476","26"
+"AR-W","Corrientes","2008","0.05471","26"
+"AR-W","Corrientes","2009","0.05290","26"
+"AR-W","Corrientes","2010","0.04523","26"
+"AR-W","Corrientes","2011","0.04732","26"
+"AR-W","Corrientes","2012","0.04008","26"
+"AR-W","Corrientes","2013","0.04422","26"
+"AR-W","Corrientes","2014","0.04396","26"
+"AR-W","Corrientes","2015","0.04252","26"
+"AR-W","Corrientes","2016","0.03981","26"
+"AR-W","Corrientes","2017","0.03734","26"
+"AR-W","Corrientes","2018","0.03610","26"
+"AR-W","Corrientes","2019","0.03793","26"
+"AR-W","Corrientes","2020","0.04246","26"
+"AR-W","Corrientes","2021","0.03851","26"
+"AR-W","Corrientes","2022","0.03564","26"
+"AR-W","Corrientes","2023","0.03393","26"
+"AR-W","Corrientes","2024","0.03855","26"
+"AR-X","Córdoba","2004","0.21136","22"
+"AR-X","Córdoba","2005","0.24573","22"
+"AR-X","Córdoba","2006","0.21241","22"
+"AR-X","Córdoba","2007","0.24268","22"
+"AR-X","Córdoba","2008","0.21137","22"
+"AR-X","Córdoba","2009","0.17890","22"
+"AR-X","Córdoba","2010","0.19768","22"
+"AR-X","Córdoba","2011","0.17017","22"
+"AR-X","Córdoba","2012","0.14857","22"
+"AR-X","Córdoba","2013","0.18664","22"
+"AR-X","Córdoba","2014","0.21033","22"
+"AR-X","Córdoba","2015","0.22572","22"
+"AR-X","Córdoba","2016","0.22722","22"
+"AR-X","Córdoba","2017","0.21681","22"
+"AR-X","Córdoba","2018","0.16794","22"
+"AR-X","Córdoba","2019","0.22948","22"
+"AR-X","Córdoba","2020","0.22839","22"
+"AR-X","Córdoba","2021","0.21462","22"
+"AR-X","Córdoba","2022","0.19111","22"
+"AR-X","Córdoba","2023","0.12682","22"
+"AR-X","Córdoba","2024","0.20024","22"
+"AR-Y","Jujuy","2004","0.11215","38"
+"AR-Y","Jujuy","2005","0.11112","38"
+"AR-Y","Jujuy","2006","0.09908","38"
+"AR-Y","Jujuy","2007","0.09482","38"
+"AR-Y","Jujuy","2008","0.09421","38"
+"AR-Y","Jujuy","2009","0.08278","38"
+"AR-Y","Jujuy","2010","0.08599","38"
+"AR-Y","Jujuy","2011","0.07512","38"
+"AR-Y","Jujuy","2012","0.06903","38"
+"AR-Y","Jujuy","2013","0.06339","38"
+"AR-Y","Jujuy","2014","0.06745","38"
+"AR-Y","Jujuy","2015","0.06617","38"
+"AR-Y","Jujuy","2016","0.06221","38"
+"AR-Y","Jujuy","2017","0.06491","38"
+"AR-Y","Jujuy","2018","0.05968","38"
+"AR-Y","Jujuy","2019","0.06117","38"
+"AR-Y","Jujuy","2020","0.06571","38"
+"AR-Y","Jujuy","2021","0.05815","38"
+"AR-Y","Jujuy","2022","0.05098","38"
+"AR-Y","Jujuy","2023","0.04455","38"
+"AR-Y","Jujuy","2024","0.05469","38"
+"AR-Z","Santa Cruz","2004","0.01404","78"
+"AR-Z","Santa Cruz","2005","0.01533","78"
+"AR-Z","Santa Cruz","2006","0.01504","78"
+"AR-Z","Santa Cruz","2007","0.01616","78"
+"AR-Z","Santa Cruz","2008","0.01426","78"
+"AR-Z","Santa Cruz","2009","0.01230","78"
+"AR-Z","Santa Cruz","2010","0.01267","78"
+"AR-Z","Santa Cruz","2011","0.01236","78"
+"AR-Z","Santa Cruz","2012","0.00796","78"
+"AR-Z","Santa Cruz","2013","0.00798","78"
+"AR-Z","Santa Cruz","2014","0.00773","78"
+"AR-Z","Santa Cruz","2015","0.00724","78"
+"AR-Z","Santa Cruz","2016","0.00851","78"
+"AR-Z","Santa Cruz","2017","0.00879","78"
+"AR-Z","Santa Cruz","2018","0.00779","78"
+"AR-Z","Santa Cruz","2019","0.00980","78"
+"AR-Z","Santa Cruz","2020","0.01122","78"
+"AR-Z","Santa Cruz","2021","0.00921","78"
+"AR-Z","Santa Cruz","2022","0.00920","78"
+"AR-Z","Santa Cruz","2023","0.00864","78"
+"AR-Z","Santa Cruz","2024","0.00854","78"

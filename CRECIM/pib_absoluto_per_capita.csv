@@ -1,189 +1,186 @@
-geocodigoFundar,geonombreFundar,ranking_pib,ranking_pib_pc
-AFG,Afganistán,127,187
-ALB,Albania,113,87
-DZA,Argelia,53,114
-AND,Andorra,157,24
-AGO,Angola,73,144
-ATG,Antigua y Barbuda,171,56
-ARG,Argentina,22,67
-ARM,Armenia,112,90
-ABW,Aruba,158,32
-AUS,Australia,13,11
-AUT,Austria,29,13
-AZE,Azerbaiyán,83,97
-BHS,Bahamas,137,31
-BHR,Bahrein,93,43
-BGD,Bangladesh,32,139
-BRB,Barbados,150,47
-BLR,Belarús,84,92
-BEL,Bélgica,23,15
-BLZ,Belice,161,95
-BEN,Benin,121,161
-BOL,Bolivia,94,128
-BIH,Bosnia y Herzegovina,110,85
-BWA,Botswana,123,93
-BRA,Brasil,9,83
-BRN,Brunei,135,37
-BGR,Bulgaria,69,66
-BFA,Burkina Faso,119,175
-BDI,Burundi,162,188
-CPV,Cabo Verde,164,117
-KHM,Camboya,97,143
-CMR,Camerún,90,154
-CAN,Canadá,10,17
-CAF,Rep. Centroafricana,163,186
-TCD,Chad,140,179
-CHL,Chile,46,63
-CHN,China,2,74
-COL,Colombia,42,98
-COM,Comoras,175,158
-COD,Rep. Dem. Congo,87,181
-COG,Congo,134,142
-CRI,Costa Rica,71,64
-CIV,Costa de Marfil,80,140
-HRV,Croacia,74,55
-CUW,Curazao,160,52
-CYP,Chipre,104,30
-CZE,Chequia,44,40
-DNK,Dinamarca,35,10
-DJI,Djibouti,156,130
-DMA,Dominica,182,84
-DOM,Rep. Dominicana,62,81
-ECU,Ecuador,63,103
-EGY,Egipto,38,132
-SLV,El Salvador,103,113
-GNQ,Guinea Ecuatorial,143,102
-EST,Estonia,99,42
-SWZ,Eswatini,154,129
-ETH,Etiopía,59,165
-FJI,Fiji,153,108
-FIN,Finlandia,47,18
-FRA,Francia,7,25
-GAB,Gabón,124,94
-GMB,Gambia,166,174
-GEO,Georgia,107,88
-DEU,Alemania,3,16
-GHA,Ghana,82,145
-GRC,Grecia,54,48
-GRD,Granada,176,80
-GTM,Guatemala,68,110
-GIN,Guinea,115,159
-GNB,Guinea-Bissau,170,172
-GUY,Guyana,128,58
-HTI,Haití,120,156
-HND,Honduras,102,134
-HKG,Hong Kong,39,20
-HUN,Hungría,56,53
-ISL,Islandia,105,9
-IND,India,5,141
-IDN,Indonesia,16,116
-IRN,Irán,36,118
-IRQ,Iraq,52,111
-IRL,Irlanda,25,3
-ISR,Israel,28,19
-ITA,Italia,8,27
-JAM,Jamaica,122,99
-JPN,Japón,4,33
-JOR,Jordania,89,119
-KAZ,Kazajstán,50,73
-KEN,Kenia,67,153
-KIR,Kiribati,185,149
-KOR,Corea del Sur,14,36
-KWT,Kuwait,58,34
-KGZ,Kirguistán,139,152
-LAO,Laos,131,150
-LVA,Letonia,98,51
-LSO,Lesotho,168,173
-LBR,Liberia,155,177
-LBY,Libia,95,106
-LTU,Lituania,78,44
-LUX,Luxemburgo,72,2
-MDG,Madagascar,132,185
-MWI,Malawi,141,183
-MYS,Malasia,37,79
-MDV,Maldivas,151,75
-MLI,Malí,117,176
-MLT,Malta,114,26
-MHL,Islas Marshall,186,101
-MRT,Mauritania,146,148
-MUS,Mauricio,136,78
-MEX,México,12,69
-FSM,Micronesia,183,123
-MDA,Moldavia,130,100
-MCO,Mónaco,147,1
-MNG,Mongolia,118,109
-MNE,Montenegro,149,77
-MAR,Marruecos,60,127
-MOZ,Mozambique,116,182
-MMR,Myanmar,86,166
-NAM,Namibia,142,122
-NRU,Nauru,187,72
-NPL,Nepal,100,162
-NLD,Países Bajos,17,12
-NZL,Nueva Zelanda,51,23
-NIC,Nicaragua,125,138
-NER,Níger,129,180
-NGA,Nigeria,41,157
-MKD,Macedonia del Norte,133,86
-NOR,Noruega,31,5
-OMN,Omán,66,57
-PAK,Pakistán,45,163
-PLW,Palau,184,65
-PAN,Panamá,76,60
-PNG,Papúa Nueva Guinea,108,135
-PRY,Paraguay,96,105
-PER,Perú,49,91
-PHL,Filipinas,33,126
-POL,Polonia,21,54
-PRT,Portugal,48,45
-PRI,Puerto Rico,64,29
-QAT,Qatar,55,8
-ROU,Rumania,43,61
-RUS,Rusia,11,68
-RWA,Ruanda,138,169
-WSM,Samoa,180,120
-STP,Santo Tomé y Príncipe,181,136
-SAU,Arabia Saudita,19,39
-SEN,Senegal,106,155
-SRB,Serbia,77,76
-SYC,Seychelles,167,62
-SLE,Sierra Leona,152,178
-SGP,Singapur,30,6
-SXM,San Martín (parte holandesa),173,28
-SVK,Eslovaquia,61,46
-SVN,Eslovenia,85,38
-SLB,Islas Salomón,172,151
-SOM,Somalia,145,184
-ZAF,Sudáfrica,40,107
-ESP,España,15,35
-LKA,Sri Lanka,75,125
-KNA,Saint Kitts y Nevis,179,50
-LCA,Santa Lucía,165,70
-VCT,San Vicente y las Granadinas,178,82
-SDN,Sudán,65,146
-SUR,Suriname,159,112
-SWE,Suecia,24,14
-CHE,Suiza,20,4
-TJK,Tayikistán,144,168
-TZA,Tanzanía,79,167
-THA,Tailandia,26,96
-TLS,Timor-Leste,169,160
-TGO,Togo,148,171
-TTO,Trinidad y Tobago,111,59
-TUN,Túnez,92,124
-TUR,Turquía,18,71
-TKM,Turkmenistán,88,89
-TCA,Islas Turcas y Caicos,174,41
-TUV,Tuvalu,188,104
-UGA,Uganda,91,170
-UKR,Ucrania,57,115
-ARE,Emiratos Árabes Unidos,27,22
-GBR,Reino Unido,6,21
-USA,Estados Unidos,1,7
-URY,Uruguay,81,49
-UZB,Uzbekistán,70,137
-VUT,Vanuatu,177,131
-VNM,Vietnam,34,121
-PSE,Palestina,126,133
-ZMB,Zambia,109,164
-ZWE,Zimbabwe,101,147
+"geocodigoFundar","geonombreFundar","ranking_pib","ranking_pib_pc"
+"ALB","Albania","111","73"
+"DEU","Alemania","3","15"
+"AND","Andorra","156","21"
+"AGO","Angola","68","136"
+"ATG","Antigua y Barbuda","167","51"
+"SAU","Arabia Saudita","19","34"
+"DZA","Argelia","50","107"
+"ARG","Argentina","24","64"
+"ARM","Armenia","113","85"
+"AUS","Australia","15","11"
+"AUT","Austria","28","13"
+"AZE","Azerbaiyán","86","95"
+"BHR","Bahrein","97","41"
+"BGD","Bangladesh","36","145"
+"BRB","Barbados","148","44"
+"BLR","Belarús","79","82"
+"BLZ","Belice","159","93"
+"BEN","Benin","121","156"
+"BTN","Bhután","157","122"
+"BOL","Bolivia","87","115"
+"BIH","Bosnia y Herzegovina","108","81"
+"BWA","Botswana","130","94"
+"BRA","Brasil","11","79"
+"BRN","Brunei","140","39"
+"BGR","Bulgaria","62","53"
+"BFA","Burkina Faso","117","169"
+"BDI","Burundi","158","185"
+"BEL","Bélgica","22","14"
+"CPV","Cabo Verde","161","111"
+"KHM","Camboya","93","142"
+"CMR","Camerún","91","153"
+"CAN","Canadá","10","20"
+"TCD","Chad","127","173"
+"CZE","Chequia","41","33"
+"CHL","Chile","44","61"
+"CHN","China","2","71"
+"CYP","Chipre","102","27"
+"COL","Colombia","35","87"
+"COM","Comoras","170","152"
+"COG","Congo","137","147"
+"KOR","Corea del Sur","13","31"
+"CRI","Costa Rica","73","54"
+"CIV","Costa de Marfil","76","139"
+"HRV","Croacia","72","45"
+"DNK","Dinamarca","34","8"
+"DJI","Djibouti","154","130"
+"DMA","Dominica","178","78"
+"ECU","Ecuador","63","96"
+"EGY","Egipto","42","137"
+"SLV","El Salvador","107","112"
+"SVK","Eslovaquia","59","42"
+"SVN","Eslovenia","85","30"
+"ESP","España","12","29"
+"USA","Estados Unidos","1","7"
+"EST","Estonia","100","35"
+"SWZ","Eswatini","153","125"
+"ETH","Etiopía","66","174"
+"FJI","Fiji","151","100"
+"PHL","Filipinas","32","124"
+"FIN","Finlandia","47","19"
+"FRA","Francia","7","23"
+"GAB","Gabón","128","89"
+"GMB","Gambia","163","175"
+"GEO","Georgia","105","83"
+"GHA","Ghana","69","133"
+"GRD","Granada","172","76"
+"GRC","Grecia","51","46"
+"GTM","Guatemala","67","102"
+"GIN","Guinea","115","155"
+"GNQ","Guinea Ecuatorial","143","101"
+"GNB","Guinea-Bissau","165","170"
+"GUY","Guyana","118","37"
+"HTI","Haití","110","144"
+"HND","Honduras","103","131"
+"HKG","Hong Kong","38","18"
+"HUN","Hungría","54","48"
+"IND","India","6","143"
+"IDN","Indonesia","17","117"
+"IRQ","Iraq","53","113"
+"IRL","Irlanda","23","2"
+"IRN","Irán","43","129"
+"ISL","Islandia","104","5"
+"MHL","Islas Marshall","183","88"
+"SLB","Islas Salomón","171","151"
+"ISR","Israel","26","16"
+"ITA","Italia","9","25"
+"JAM","Jamaica","122","91"
+"JPN","Japón","4","32"
+"JOR","Jordania","89","114"
+"KAZ","Kazajstán","48","67"
+"KEN","Kenia","61","148"
+"KGZ","Kirguistán","123","138"
+"KIR","Kiribati","181","146"
+"XKX","Kosovo","144","92"
+"KWT","Kuwait","58","38"
+"LAO","Laos","133","149"
+"LSO","Lesotho","164","172"
+"LVA","Letonia","98","47"
+"LBR","Liberia","152","176"
+"LBY","Libia","99","106"
+"LTU","Lituania","78","36"
+"LUX","Luxemburgo","74","1"
+"MKD","Macedonia del Norte","132","80"
+"MDG","Madagascar","131","183"
+"MYS","Malasia","33","72"
+"MWI","Malawi","141","180"
+"MDV","Maldivas","149","69"
+"MLT","Malta","116","24"
+"MLI","Malí","112","167"
+"MAR","Marruecos","57","120"
+"MUS","Mauricio","138","74"
+"MRT","Mauritania","146","150"
+"FSM","Micronesia","180","123"
+"MDA","Moldavia","129","86"
+"MNG","Mongolia","120","97"
+"MNE","Montenegro","147","65"
+"MOZ","Mozambique","124","182"
+"MMR","Myanmar","84","160"
+"MEX","México","14","70"
+"NAM","Namibia","139","119"
+"NRU","Nauru","184","68"
+"NPL","Nepal","101","159"
+"NIC","Nicaragua","125","134"
+"NGA","Nigeria","49","165"
+"NOR","Noruega","30","6"
+"NZL","Nueva Zelanda","52","22"
+"NER","Níger","126","179"
+"OMN","Omán","70","55"
+"PAK","Pakistán","40","158"
+"PLW","Palau","182","57"
+"PSE","Palestina","135","135"
+"PAN","Panamá","81","56"
+"PNG","Papúa Nueva Guinea","109","141"
+"PRY","Paraguay","96","99"
+"NLD","Países Bajos","18","9"
+"PER","Perú","46","84"
+"POL","Polonia","21","43"
+"PRT","Portugal","45","40"
+"PRI","Puerto Rico","64","28"
+"QAT","Qatar","55","10"
+"GBR","Reino Unido","5","17"
+"CAF","Rep. Centroafricana","160","184"
+"COD","Rep. Dem. Congo","80","178"
+"DOM","Rep. Dominicana","65","77"
+"RWA","Ruanda","136","171"
+"ROU","Rumania","37","52"
+"RUS","Rusia","8","62"
+"KNA","Saint Kitts y Nevis","176","49"
+"WSM","Samoa","174","109"
+"SXM","San Martín (parte holandesa)","169","26"
+"VCT","San Vicente y las Granadinas","175","75"
+"LCA","Santa Lucía","162","66"
+"STP","Santo Tomé y Príncipe","177","126"
+"SEN","Senegal","106","154"
+"SRB","Serbia","75","63"
+"SYC","Seychelles","166","58"
+"SLE","Sierra Leona","150","177"
+"SGP","Singapur","27","4"
+"SOM","Somalia","142","181"
+"LKA","Sri Lanka","71","118"
+"ZAF","Sudáfrica","39","103"
+"SDN","Sudán","90","168"
+"SWE","Suecia","25","12"
+"CHE","Suiza","20","3"
+"SUR","Suriname","155","98"
+"THA","Tailandia","29","90"
+"TZA","Tanzanía","82","163"
+"TJK","Tayikistán","134","157"
+"TLS","Timor-Leste","168","162"
+"TGO","Togo","145","161"
+"TON","Tonga","179","104"
+"TTO","Trinidad y Tobago","119","59"
+"TKM","Turkmenistán","95","105"
+"TUR","Turquía","16","60"
+"TUV","Tuvalu","185","108"
+"TUN","Túnez","92","121"
+"UKR","Ucrania","56","110"
+"UGA","Uganda","88","166"
+"URY","Uruguay","83","50"
+"UZB","Uzbekistán","60","128"
+"VUT","Vanuatu","173","127"
+"VEN","Venezuela","77","132"
+"VNM","Vietnam","31","116"
+"ZMB","Zambia","114","164"
+"ZWE","Zimbabwe","94","140"

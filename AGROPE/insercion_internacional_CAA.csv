@@ -1,33 +1,33 @@
-tipo_cadena,valor
-Miel,0.855
-Té,0.852
-Sorgo,0.76
-Papa,0.727
-Olivo,0.713
-Maíz,0.693
-Soja,0.641
-Maní,0.605
-Colza,0.593
-Algodón,0.483
-Girasol,0.475
-Limón,0.44
-Cebada,0.4
-Trigo,0.381
-Uva,0.381
-Total CAA,0.352
-Caña de azúcar,0.231
-Tabaco,0.218
-Peras y Manzanas,0.15
-Forestal,0.148
-Bovino,0.143
-Arroz,0.121
-Ajo,0.111
-Lácteo,0.11
-Cítrico,0.066
-Avícola,0.058
-Tomate,0.041
-Caprino,0.036
-Yerba Mate,0.036
-Ovinos,0.028
-Berries,0.023
-Porcinos,0.003
+"tipo_cadena","valor"
+"Ajo","0.11100"
+"Algodón","0.48300"
+"Arroz","0.12100"
+"Avícola","0.05800"
+"Berries","0.02300"
+"Bovino","0.14300"
+"Caña de azúcar","0.23100"
+"Caprino","0.03600"
+"Cebada","0.40000"
+"Cítrico","0.06600"
+"Colza","0.59300"
+"Forestal","0.14800"
+"Girasol","0.47500"
+"Lácteo","0.11000"
+"Limón","0.44000"
+"Maíz","0.69300"
+"Maní","0.60500"
+"Miel","0.85500"
+"Olivo","0.71300"
+"Ovinos","0.02800"
+"Papa","0.72700"
+"Peras y Manzanas","0.15000"
+"Porcinos","0.00300"
+"Soja","0.64100"
+"Sorgo","0.76000"
+"Tabaco","0.21800"
+"Té","0.85200"
+"Tomate","0.04100"
+"Trigo","0.38100"
+"Uva","0.38100"
+"Yerba Mate","0.03600"
+"Total CAA","0.35208"

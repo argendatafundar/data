@@ -1,18 +1,16 @@
-geocodigoFundar,geonombreFundar,salariohorario
-HND,Honduras,2.7
-GTM,Guatemala,3.3
-PER,Perú,3.4
-SLV,El Salvador,3.6
-MEX,México,3.7
-COL,Colombia,3.7
-ECU,Ecuador,3.9
-NIC,Nicaragua,4.0
-PRY,Paraguay,4.7
-BOL,Bolivia,4.8
-DOM,Rep. Dominicana,5.0
-BRA,Brasil,5.2
-ARG,Argentina,5.3
-URY,Uruguay,6.4
-CRI,Costa Rica,6.4
-CHI,Islas Del Canal,7.5
-PAN,Panamá,10.5
+"geocodigoFundar","geonombreFundar","salariohorario"
+"ARG","Argentina","4.74540"
+"BRA","Brasil","5.44477"
+"CHL","Chile","7.86480"
+"COL","Colombia","4.33256"
+"CRI","Costa Rica","6.84024"
+"ECU","Ecuador","3.91406"
+"SLV","El Salvador","3.70143"
+"GTM","Guatemala","3.63361"
+"HND","Honduras","3.87419"
+"MEX","México","3.84792"
+"NIC","Nicaragua","3.91374"
+"PAN","Panamá","7.94673"
+"PRY","Paraguay","5.05265"
+"DOM","Rep. Dominicana","5.13060"
+"URY","Uruguay","6.67414"

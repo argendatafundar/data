@@ -1,15 +1,17 @@
-geocodigoFundar,geonombreFundar,year,ipcf_promedio
-ARG,Argentina,2022,695.30576
-BOL,Bolivia,2021,594.3109
-BRA,Brasil,2022,648.7573104
-CHL,Chile,2022,865.2939872
-COL,Colombia,2022,525.8253952
-CRI,Costa Rica,2022,744.1133856
-DOM,Rep. Dominicana,2022,447.6119104
-ECU,Ecuador,2022,461.552712
-MEX,México,2022,502.3775104
-PAN,Panamá,2023,916.528688
-PER,Perú,2022,378.4175888
-PRY,Paraguay,2022,563.293
-SLV,El Salvador,2022,398.5512048
-URY,Uruguay,2022,845.4450064
+"geocodigoFundar","geonombreFundar","year","ipcf_promedio"
+"ARG","Argentina","2024","788.69486"
+"BOL","Bolivia","2024","673.10686"
+"BRA","Brasil","2024","806.97090"
+"CHL","Chile","2024","1074.94601"
+"COL","Colombia","2024","599.29324"
+"CRI","Costa Rica","2025","1036.51816"
+"ECU","Ecuador","2025","576.64885"
+"SLV","El Salvador","2023","469.84496"
+"GTM","Guatemala","2023","380.35432"
+"HND","Honduras","2024","351.00519"
+"MEX","México","2024","608.66107"
+"PAN","Panamá","2024","872.48435"
+"PRY","Paraguay","2024","646.75021"
+"PER","Perú","2024","421.41010"
+"DOM","Rep. Dominicana","2024","690.97820"
+"URY","Uruguay","2024","1070.40409"
